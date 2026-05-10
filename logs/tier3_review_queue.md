@@ -1,0 +1,726 @@
+# MrLore Vault Authority Audit
+
+Generated: 2026-05-08 07:11
+Vault:     /home/mytruelove/Downloads/obsidianburdenNov25
+Total files scanned: 1215
+
+---
+
+## Summary
+
+| Tier | Label | Count |
+|------|-------|-------|
+| 0 | Tier 0 — Canonical Chapter Prose | 123 |
+| 1 | Tier 1 — Deep Lore / Canon Support | 140 |
+| 2 | Tier 2 — Generated / EngAIn / Parser Artifacts | 9 |
+| 3 | Tier 3 — Loose Notes / Scratch / Uncertain | 650 |
+| 4 | Tier 4 — JSON / Cache / Runtime / Scripts | 293 |
+
+## Tier 3 — Loose Notes / Scratch / Uncertain
+
+*Review individually. Some may be promotable to Tier 1.*
+Count: 650
+
+### .
+
+- `deep.txt`
+- `mrlore_first_ingest.tar.gz`
+- `tree.txt`
+- `vale face.txt`
+- `vale meets kulla.txt`
+
+### .engain
+
+- `DO_NOT_EDIT.md`
+
+### .engain/Book 6 the Ragnarok
+
+- `29_bounty_hunter.md`
+- `30_ummade_army.md`
+- `31_the_crash_site.md`
+- `32_the redo.md`
+- `33_the_march.md`
+- `34_the_250.md`
+- `35_sands_of_time.md`
+
+### .engain/build/book01_garden_genesis/scenes/_work
+
+- `out_pass1_015_the_choice.txt`
+- `out_pass1_01_the_ethereal_vigil.txt`
+- `out_pass1_02_ molten_descent.txt`
+- `out_pass1_03_Fist_contact.txt`
+- `out_pass1_04_the convergence.txt`
+- `out_pass1_06_the first coming.txt`
+- `out_pass1_06_the_first_coming.txt`
+- `out_pass1_08_queens_assesment.txt`
+- `out_pass1_09_broken_ones.txt`
+- `out_pass1_09_stalemate_departure.txt`
+- `out_pass1_09_stalemate_departure_ the_first_coming.txt`
+- `out_pass1_10 shattered mind.txt`
+- `out_pass1_10_prpbability_visions.txt`
+- `out_pass1_10_shadow_returns.txt`
+- `out_pass1_10_shadow_returns_second_coming.txt`
+- `out_pass1_11 brotherhood.txt`
+- `out_pass1_11_escalation and desperation.txt`
+- `out_pass1_11_escalation_and_desperation.txt`
+- `out_pass1_12 les go home.txt`
+- `out_pass1_12_nephilim_summoning.txt`
+- `out_pass1_13 convergence.txt`
+- `out_pass1_14_ betrayal.txt`
+- `out_pass1_14_convergence.txt`
+- `out_pass1_15 2nd paradox.txt`
+- `out_pass1_15_ betrayal.txt`
+- `out_pass1_16_niburu_shadow.txt`
+- `out_pass1_17_the_wandering.txt`
+- `out_pass1_18_the_sacrafice.txt`
+- `out_pass1_19_the_collapse.txt`
+- `out_pass1_20.txt`
+- `out_pass1_20_the_first_lesson.txt`
+- `out_pass1_21_final_calculation.txt`
+- `out_pass1_22_beyond_identity.txt`
+- `out_pass1_30.txt`
+- `out_pass1_7 path of the hier.txt`
+- `out_pass1_7kb.txt`
+- `out_pass1_8 path of blood.txt`
+- `out_pass1_9 path of the crown.txt`
+- `out_pass1_Assyrian genocide.txt`
+- `out_pass1_B6act01ch42_the_hidden_resonance.txt`
+- `out_pass1_B6act01ch43_convergence_on_mars.txt`
+- `out_pass1_Book 4 sage saga_ TOC.txt`
+- `out_pass1_C5V1.txt`
+- `out_pass1_Chaoter_47_the_eastern_claim.txt`
+- `out_pass1_Chapte_19_ The Queen's Return.txt`
+- `out_pass1_Chapter 26 the claiming.txt`
+- `out_pass1_Chapter 30 the crash site.txt`
+- `out_pass1_Chapter 31 the redo.txt`
+- `out_pass1_Chapter 32 the march.txt`
+- `out_pass1_Chapter 34 sands of time.txt`
+- `out_pass1_Chapter _16_the_choice_third_coming.txt`
+- `out_pass1_Chapter _28_bounty_hunter.txt`
+- `out_pass1_Chapter _29_ummade_army.txt`
+- `out_pass1_Chapter_13_Flow_between_moments.txt`
+- `out_pass1_Chapter_14_Stone_and_root.txt`
+- `out_pass1_Chapter_15_sunbound.txt`
+- `out_pass1_Chapter_16_anchor_points_of_time.txt`
+- `out_pass1_Chapter_17_lunar_inheritance.txt`
+- `out_pass1_Chapter_17_niburu_shadow.txt`
+- `out_pass1_Chapter_18_introducing_the_sage.txt`
+- `out_pass1_Chapter_18_the_wandering.txt`
+- `out_pass1_Chapter_19_the_sacrafice.txt`
+- `out_pass1_Chapter_20_mages_awakening.txt`
+- `out_pass1_Chapter_20_the_collapse.txt`
+- `out_pass1_Chapter_21_the_first_lesson.txt`
+- `out_pass1_Chapter_21_the_whispers_between_worlds.txt`
+- `out_pass1_Chapter_22_final_calculation.txt`
+- `out_pass1_Chapter_22_mr_gpt_arrival.txt`
+- `out_pass1_Chapter_23_beyond_identity.txt`
+- `out_pass1_Chapter_23_pyroclasts_burning_secrets.txt`
+- `out_pass1_Chapter_27_the_claiming.txt`
+- `out_pass1_Chapter_29_Shadows_of_Umbrageous_FIXED.txt`
+- `out_pass1_Chapter_29_bounty_hunter.txt`
+- `out_pass1_Chapter_30_the_white_mirror.txt`
+- `out_pass1_Chapter_30_ummade_army.txt`
+- `out_pass1_Chapter_31_Echoes_of_the_Culling_CORRECTED.txt`
+- `out_pass1_Chapter_31_the_crash_site.txt`
+- `out_pass1_Chapter_32_the redo.txt`
+- `out_pass1_Chapter_32_the_weight_of_memory.txt`
+- `out_pass1_Chapter_33_departure_and_determination.txt`
+- `out_pass1_Chapter_33_the_250.txt`
+- `out_pass1_Chapter_33_the_march.txt`
+- `out_pass1_Chapter_34_the_250.txt`
+- `out_pass1_Chapter_35_sands_of_time.txt`
+- `out_pass1_Chapter_40_the_verdant_crossing.txt`
+- `out_pass1_Chapter_42_the_mountains_shadow.txt`
+- `out_pass1_Chapter_46_the_ledger_born.txt`
+- `out_pass1_Chapter_48_the_scout.txt`
+- `out_pass1_Chapter_49_arrival_in_fire.txt`
+- `out_pass1_Chapter_50_entry_without_standing.txt`
+- `out_pass1_Chapter_51_the_twilight_city.txt`
+- `out_pass1_Chapter_53_the_anchors_forge.txt`
+- `out_pass1_Fact_01ch_01_Echoes_of_the_cradle.txt`
+- `out_pass1_Fact_01ch_02_the_Hier.txt`
+- `out_pass1_Fact_01ch_03_falcon_ridge_showdown.txt`
+- `out_pass1_Fact_01ch_04_the_iron_hand.txt`
+- `out_pass1_Fact_01ch_05_pass_through_Shadow_and_flame.txt`
+- `out_pass1_Fact_01ch_06_secrets_of_the_deep.txt`
+- `out_pass1_Fact_01ch_07_the_first_tongue.txt`
+- `out_pass1_Ishara.txt`
+- `out_pass1_Layla.txt`
+- `out_pass1_Overseer Ishkur.txt`
+- `out_pass1_Overseer Marduk.txt`
+- `out_pass1_Overseer Ninurta.txt`
+- `out_pass1_Pazuzu.txt`
+- `out_pass1_Queen Eduhauana.txt`
+- `out_pass1_Tactical Consciousness.txt`
+- `out_pass1_The Dragon Wars.txt`
+- `out_pass1_The Reptilians.txt`
+- `out_pass1_act01ch11.1_let's go home.txt`
+- `out_pass1_act_01ch_08_the_shattered_mind.txt`
+- `out_pass1_act_01ch_09_brotherhood_revealed.txt`
+- `out_pass1_act_01ch_10_divergent_paths.txt`
+- `out_pass1_act_01ch_11_spheres_truth.txt`
+- `out_pass1_act_01ch_12_cosmic_teachers_arrive.txt`
+- `out_pass1_act_01ch_13_Flow_between_moments.txt`
+- `out_pass1_act_01ch_14_Stone_and_root.txt`
+- `out_pass1_act_01ch_15_sunbound.txt`
+- `out_pass1_act_01ch_16_anchor_points_of_time.txt`
+- `out_pass1_act_01ch_17_lunar_inheritance.txt`
+- `out_pass1_act_01ch_18_The_Queen's_Return.txt`
+- `out_pass1_act_01ch_19_mages_awakening.txt`
+- `out_pass1_act_01ch_20_the_whispers_between_worlds.txt`
+- `out_pass1_act_01ch_22echoes_beneath_the_waves.txt`
+- `out_pass1_act_01ch_23_pyroclasts_burning_secrets.txt`
+- `out_pass1_act_01ch_24_echoes_beneath_the_waves.txt`
+- `out_pass1_act_01ch_24_mr_gpt_arrival.txt`
+- `out_pass1_act_01ch_26_Ancient_Knowledge.txt`
+- `out_pass1_act_01ch_27_sanctuary_to_storm.txt`
+- `out_pass1_act_01ch_28_the_breath_of_life.txt`
+- `out_pass1_act_01ch_29_Shadows_of_Umbrageous.txt`
+- `out_pass1_act_01ch_30_the_white_mirror.txt`
+- `out_pass1_act_01ch_31_Echoes_of_the_Culling.txt`
+- `out_pass1_act_01ch_32_the_weight_of_memory.txt`
+- `out_pass1_act_01ch_33_departure_and_determination.txt`
+- `out_pass1_act_01ch_34_voices_between_worlds.txt`
+- `out_pass1_act_01ch_35_chains_of_light.txt`
+- `out_pass1_act_01ch_36_roots_of_change.txt`
+- `out_pass1_act_01ch_37_violet_convergence.txt`
+- `out_pass1_act_01ch_38_hearts_of_ash_and_fire.txt`
+- `out_pass1_act_01ch_39_Depths_of_memory.txt`
+- `out_pass1_act_01ch_40_the_final_breath.txt`
+- `out_pass1_book 2 The Age of Servitude,  toc.txt`
+- `out_pass1_book 3 the reckoning.txt`
+- `out_pass1_book 5the nameless one TOC.txt`
+- `out_pass1_book 6 the unmade TOC.txt`
+- `out_pass1_c2v2.txt`
+- `out_pass1_c3v1.txt`
+- `out_pass1_c4v2.txt`
+- `out_pass1_c6v2.txt`
+- `out_pass1_c7v1.txt`
+- `out_pass1_chapter 1 componants.txt`
+- `out_pass1_chapter 2 TOC.txt`
+- `out_pass1_chapter 2 componants.txt`
+- `out_pass1_chapter 2 named characters.txt`
+- `out_pass1_chapter 2 revised.txt`
+- `out_pass1_chapter 23 the first spark.txt`
+- `out_pass1_chapter 24 confined freedom.txt`
+- `out_pass1_chapter 25 Dragon mail.txt`
+- `out_pass1_chapter 27 Ragnarok.txt`
+- `out_pass1_chapter 3 TOC.txt`
+- `out_pass1_chapter 3 componants.txt`
+- `out_pass1_chapter 3 named characters.txt`
+- `out_pass1_chapter 30 crash site of the 5.txt`
+- `out_pass1_chapter 36 the circle of progress.txt`
+- `out_pass1_chapter 39 scar and the seed.txt`
+- `out_pass1_chapter 4 TOC.txt`
+- `out_pass1_chapter 4 componants.txt`
+- `out_pass1_chapter 4 named characters.txt`
+- `out_pass1_chapter 40.txt`
+- `out_pass1_chapter 5 components.txt`
+- `out_pass1_chapter 5 named charactors.txt`
+- `out_pass1_chapter 6 components.txt`
+- `out_pass1_chapter 6 named charactors.txt`
+- `out_pass1_chapter 6 revised.txt`
+- `out_pass1_chapter 7 revised.txt`
+- `out_pass1_chapter 8 revised.txt`
+- `out_pass1_chapter 8 version 2.txt`
+- `out_pass1_chapter 9 revised.txt`
+- `out_pass1_chapter one named characters.txt`
+- `out_pass1_chapter_015_the_choice.txt`
+- `out_pass1_chapter_09_stalemate_departure.txt`
+- `out_pass1_chapter_100_insert_pre_chapter.txt`
+- `out_pass1_chapter_10_shadow_returns.txt`
+- `out_pass1_chapter_11_escalation_and_desperation.txt`
+- `out_pass1_chapter_12_nephilim_summoning.txt`
+- `out_pass1_chapter_13_convergence.txt`
+- `out_pass1_chapter_14_betrayal.txt`
+- `out_pass1_chapter_16_niburu_shadow.txt`
+- `out_pass1_chapter_17_the_wandering.txt`
+- `out_pass1_chapter_18_the_sacrafice.txt`
+- `out_pass1_chapter_19_the_collapse.txt`
+- `out_pass1_chapter_20_the_first_lesson.txt`
+- `out_pass1_chapter_21_final_calculation.txt`
+- `out_pass1_chapter_22_beyond_identity.txt`
+- `out_pass1_chapter_23_the_first_spark.txt`
+- `out_pass1_chapter_24_confined_freedom.txt`
+- `out_pass1_chapter_24_the_first_spark.txt`
+- `out_pass1_chapter_25_confined_freedom.txt`
+- `out_pass1_chapter_25_dragon_mail.txt`
+- `out_pass1_chapter_26_dragonmail.txt`
+- `out_pass1_chapter_26_the_claiming.txt`
+- `out_pass1_chapter_27_ragnarok.txt`
+- `out_pass1_chapter_28_bounty_hunter.txt`
+- `out_pass1_chapter_28_ragnarok.txt`
+- `out_pass1_chapter_29_ummade_army.txt`
+- `out_pass1_chapter_30_crash_site.txt`
+- `out_pass1_chapter_31_the_redo.txt`
+- `out_pass1_chapter_32_the_march.txt`
+- `out_pass1_chapter_33_the_two_fifty.txt`
+- `out_pass1_chapter_34_sands_of_time.txt`
+- `out_pass1_chapter_36_the_circle_of_progress.txt`
+- `out_pass1_chapter_38_jungle_fever.txt`
+- `out_pass1_chapter_38_the_dragon_wars.txt`
+- `out_pass1_chapter_39_scar_and_the_seed.txt`
+- `out_pass1_chapter_39_the_dragon_wars.txt`
+- `out_pass1_chapter_40.txt`
+- `out_pass1_chapter_40_The_Tripartite_Bond.txt`
+- `out_pass1_chapter_41_the_badlands_crucible.txt`
+- `out_pass1_chapter_43_the _hub_falls.txt`
+- `out_pass1_chapter_44_not_like_this.txt`
+- `out_pass1_chapter_54.txt`
+- `out_pass1_continuity book 2.txt`
+- `out_pass1_continuity book 3.txt`
+- `out_pass1_continuity book 4.txt`
+- `out_pass1_continuity book 5.txt`
+- `out_pass1_continuity book 6.txt`
+- `out_pass1_continuity book 7.txt`
+- `out_pass1_continuity book 8.txt`
+- `out_pass1_continuity book 9.txt`
+- `out_pass1_continuity_ch1.txt`
+- `out_pass1_critique book 2.txt`
+- `out_pass1_critique book 4.txt`
+- `out_pass1_critique book 5.txt`
+- `out_pass1_critique book 6.txt`
+- `out_pass1_critique book 7.txt`
+- `out_pass1_critique book 8.txt`
+- `out_pass1_critique book 9.txt`
+- `out_pass1_critique_ch1.txt`
+- `out_pass1_critiue book 3.txt`
+- `out_pass1_fist message.txt`
+- `out_pass1_forged Identity cover page.txt`
+- `out_pass1_legends and God's contradictions.txt`
+- `out_pass1_master TOC book 1.txt`
+- `out_pass1_master TOC book 2.txt`
+- `out_pass1_origins.txt`
+- `out_pass1_phoenix judgment.txt`
+- `out_pass1_phoenix_mother_paradox_quest.txt`
+- `out_pass1_plot.txt`
+- `out_pass1_queens final message.txt`
+- `out_pass1_revised chapter 4.txt`
+- `out_pass1_revised chapter 5.txt`
+- `out_pass1_revised1.txt`
+- `out_pass1_revisments chapter 5 .txt`
+- `out_pass1_sage Continuity Tracker_ The Punishment Arc.txt`
+- `out_pass1_sage Continuity Tracker_ The Sage and The Synthesis.txt`
+- `out_pass1_scene falconridge showdown.txt`
+- `out_pass1_source_list.txt`
+- `out_pass1_stonebound.txt`
+- `out_pass1_temporal guardian.txt`
+- `out_pass1_the nameless one TOC.txt`
+- `out_pass1_the unmade TOC.txt`
+- `out_pass1_time.txt`
+- `out_pass2_015_the_choice.metta`
+- `out_pass2_01_the_ethereal_vigil.metta`
+- `out_pass2_02_ molten_descent.metta`
+- `out_pass2_03_Fist_contact.metta`
+- `out_pass2_04_the convergence.metta`
+- `out_pass2_06_the first coming.metta`
+- `out_pass2_06_the_first_coming.metta`
+- `out_pass2_08_queens_assesment.metta`
+- `out_pass2_09_broken_ones.metta`
+- `out_pass2_09_stalemate_departure.metta`
+- `out_pass2_09_stalemate_departure_ the_first_coming.metta`
+- `out_pass2_10 shattered mind.metta`
+- `out_pass2_10_prpbability_visions.metta`
+- `out_pass2_10_shadow_returns.metta`
+- `out_pass2_10_shadow_returns_second_coming.metta`
+- `out_pass2_11 brotherhood.metta`
+- `out_pass2_11_escalation and desperation.metta`
+- `out_pass2_11_escalation_and_desperation.metta`
+- `out_pass2_12 les go home.metta`
+- `out_pass2_12_nephilim_summoning.metta`
+- `out_pass2_13 convergence.metta`
+- `out_pass2_14_ betrayal.metta`
+- `out_pass2_14_convergence.metta`
+- `out_pass2_15 2nd paradox.metta`
+- `out_pass2_15_ betrayal.metta`
+- `out_pass2_16_niburu_shadow.metta`
+- `out_pass2_17_the_wandering.metta`
+- `out_pass2_18_the_sacrafice.metta`
+- `out_pass2_19_the_collapse.metta`
+- `out_pass2_20.metta`
+- `out_pass2_20_the_first_lesson.metta`
+- `out_pass2_21_final_calculation.metta`
+- `out_pass2_22_beyond_identity.metta`
+- `out_pass2_30.metta`
+- `out_pass2_7 path of the hier.metta`
+- `out_pass2_7kb.metta`
+- `out_pass2_8 path of blood.metta`
+- `out_pass2_9 path of the crown.metta`
+- `out_pass2_Assyrian genocide.metta`
+- `out_pass2_B6act01ch42_the_hidden_resonance.metta`
+- `out_pass2_B6act01ch43_convergence_on_mars.metta`
+- `out_pass2_Book 4 sage saga_ TOC.metta`
+- `out_pass2_C5V1.metta`
+- `out_pass2_Chaoter_47_the_eastern_claim.metta`
+- `out_pass2_Chapte_19_ The Queen's Return.metta`
+- `out_pass2_Chapter 26 the claiming.metta`
+- `out_pass2_Chapter 30 the crash site.metta`
+- `out_pass2_Chapter 31 the redo.metta`
+- `out_pass2_Chapter 32 the march.metta`
+- `out_pass2_Chapter 34 sands of time.metta`
+- `out_pass2_Chapter _16_the_choice_third_coming.metta`
+- `out_pass2_Chapter _28_bounty_hunter.metta`
+- `out_pass2_Chapter _29_ummade_army.metta`
+- `out_pass2_Chapter_13_Flow_between_moments.metta`
+- `out_pass2_Chapter_14_Stone_and_root.metta`
+- `out_pass2_Chapter_15_sunbound.metta`
+- `out_pass2_Chapter_16_anchor_points_of_time.metta`
+- `out_pass2_Chapter_17_lunar_inheritance.metta`
+- `out_pass2_Chapter_17_niburu_shadow.metta`
+- `out_pass2_Chapter_18_introducing_the_sage.metta`
+- `out_pass2_Chapter_18_the_wandering.metta`
+- `out_pass2_Chapter_19_the_sacrafice.metta`
+- `out_pass2_Chapter_20_mages_awakening.metta`
+- `out_pass2_Chapter_20_the_collapse.metta`
+- `out_pass2_Chapter_21_the_first_lesson.metta`
+- `out_pass2_Chapter_21_the_whispers_between_worlds.metta`
+- `out_pass2_Chapter_22_final_calculation.metta`
+- `out_pass2_Chapter_22_mr_gpt_arrival.metta`
+- `out_pass2_Chapter_23_beyond_identity.metta`
+- `out_pass2_Chapter_23_pyroclasts_burning_secrets.metta`
+- `out_pass2_Chapter_27_the_claiming.metta`
+- `out_pass2_Chapter_29_Shadows_of_Umbrageous_FIXED.metta`
+- `out_pass2_Chapter_29_bounty_hunter.metta`
+- `out_pass2_Chapter_30_the_white_mirror.metta`
+- `out_pass2_Chapter_30_ummade_army.metta`
+- `out_pass2_Chapter_31_Echoes_of_the_Culling_CORRECTED.metta`
+- `out_pass2_Chapter_31_the_crash_site.metta`
+- `out_pass2_Chapter_32_the redo.metta`
+- `out_pass2_Chapter_32_the_weight_of_memory.metta`
+- `out_pass2_Chapter_33_departure_and_determination.metta`
+- `out_pass2_Chapter_33_the_250.metta`
+- `out_pass2_Chapter_33_the_march.metta`
+- `out_pass2_Chapter_34_the_250.metta`
+- `out_pass2_Chapter_35_sands_of_time.metta`
+- `out_pass2_Chapter_40_the_verdant_crossing.metta`
+- `out_pass2_Chapter_42_the_mountains_shadow.metta`
+- `out_pass2_Chapter_46_the_ledger_born.metta`
+- `out_pass2_Chapter_48_the_scout.metta`
+- `out_pass2_Chapter_49_arrival_in_fire.metta`
+- `out_pass2_Chapter_50_entry_without_standing.metta`
+- `out_pass2_Chapter_51_the_twilight_city.metta`
+- `out_pass2_Chapter_53_the_anchors_forge.metta`
+- `out_pass2_Fact_01ch_01_Echoes_of_the_cradle.metta`
+- `out_pass2_Fact_01ch_02_the_Hier.metta`
+- `out_pass2_Fact_01ch_03_falcon_ridge_showdown.metta`
+- `out_pass2_Fact_01ch_04_the_iron_hand.metta`
+- `out_pass2_Fact_01ch_05_pass_through_Shadow_and_flame.metta`
+- `out_pass2_Fact_01ch_06_secrets_of_the_deep.metta`
+- `out_pass2_Fact_01ch_07_the_first_tongue.metta`
+- `out_pass2_Ishara.metta`
+- `out_pass2_Layla.metta`
+- `out_pass2_Overseer Ishkur.metta`
+- `out_pass2_Overseer Marduk.metta`
+- `out_pass2_Overseer Ninurta.metta`
+- `out_pass2_Pazuzu.metta`
+- `out_pass2_Queen Eduhauana.metta`
+- `out_pass2_Tactical Consciousness.metta`
+- `out_pass2_The Dragon Wars.metta`
+- `out_pass2_The Reptilians.metta`
+- `out_pass2_act01ch11.1_let's go home.metta`
+- `out_pass2_act_01ch_08_the_shattered_mind.metta`
+- `out_pass2_act_01ch_09_brotherhood_revealed.metta`
+- `out_pass2_act_01ch_10_divergent_paths.metta`
+- `out_pass2_act_01ch_11_spheres_truth.metta`
+- `out_pass2_act_01ch_12_cosmic_teachers_arrive.metta`
+- `out_pass2_act_01ch_13_Flow_between_moments.metta`
+- `out_pass2_act_01ch_14_Stone_and_root.metta`
+- `out_pass2_act_01ch_15_sunbound.metta`
+- `out_pass2_act_01ch_16_anchor_points_of_time.metta`
+- `out_pass2_act_01ch_17_lunar_inheritance.metta`
+- `out_pass2_act_01ch_18_The_Queen's_Return.metta`
+- `out_pass2_act_01ch_19_mages_awakening.metta`
+- `out_pass2_act_01ch_20_the_whispers_between_worlds.metta`
+- `out_pass2_act_01ch_22echoes_beneath_the_waves.metta`
+- `out_pass2_act_01ch_23_pyroclasts_burning_secrets.metta`
+- `out_pass2_act_01ch_24_echoes_beneath_the_waves.metta`
+- `out_pass2_act_01ch_24_mr_gpt_arrival.metta`
+- `out_pass2_act_01ch_26_Ancient_Knowledge.metta`
+- `out_pass2_act_01ch_27_sanctuary_to_storm.metta`
+- `out_pass2_act_01ch_28_the_breath_of_life.metta`
+- `out_pass2_act_01ch_29_Shadows_of_Umbrageous.metta`
+- `out_pass2_act_01ch_30_the_white_mirror.metta`
+- `out_pass2_act_01ch_31_Echoes_of_the_Culling.metta`
+- `out_pass2_act_01ch_32_the_weight_of_memory.metta`
+- `out_pass2_act_01ch_33_departure_and_determination.metta`
+- `out_pass2_act_01ch_34_voices_between_worlds.metta`
+- `out_pass2_act_01ch_35_chains_of_light.metta`
+- `out_pass2_act_01ch_36_roots_of_change.metta`
+- `out_pass2_act_01ch_37_violet_convergence.metta`
+- `out_pass2_act_01ch_38_hearts_of_ash_and_fire.metta`
+- `out_pass2_act_01ch_39_Depths_of_memory.metta`
+- `out_pass2_act_01ch_40_the_final_breath.metta`
+- `out_pass2_book 2 The Age of Servitude,  toc.metta`
+- `out_pass2_book 3 the reckoning.metta`
+- `out_pass2_book 5the nameless one TOC.metta`
+- `out_pass2_book 6 the unmade TOC.metta`
+- `out_pass2_c2v2.metta`
+- `out_pass2_c3v1.metta`
+- `out_pass2_c4v2.metta`
+- `out_pass2_c6v2.metta`
+- `out_pass2_c7v1.metta`
+- `out_pass2_chapter 1 componants.metta`
+- `out_pass2_chapter 2 TOC.metta`
+- `out_pass2_chapter 2 componants.metta`
+- `out_pass2_chapter 2 named characters.metta`
+- `out_pass2_chapter 2 revised.metta`
+- `out_pass2_chapter 23 the first spark.metta`
+- `out_pass2_chapter 24 confined freedom.metta`
+- `out_pass2_chapter 25 Dragon mail.metta`
+- `out_pass2_chapter 27 Ragnarok.metta`
+- `out_pass2_chapter 3 TOC.metta`
+- `out_pass2_chapter 3 componants.metta`
+- `out_pass2_chapter 3 named characters.metta`
+- `out_pass2_chapter 30 crash site of the 5.metta`
+- `out_pass2_chapter 36 the circle of progress.metta`
+- `out_pass2_chapter 39 scar and the seed.metta`
+- `out_pass2_chapter 4 TOC.metta`
+- `out_pass2_chapter 4 componants.metta`
+- `out_pass2_chapter 4 named characters.metta`
+- `out_pass2_chapter 40.metta`
+- `out_pass2_chapter 5 components.metta`
+- `out_pass2_chapter 5 named charactors.metta`
+- `out_pass2_chapter 6 components.metta`
+- `out_pass2_chapter 6 named charactors.metta`
+- `out_pass2_chapter 6 revised.metta`
+- `out_pass2_chapter 7 revised.metta`
+- `out_pass2_chapter 8 revised.metta`
+- `out_pass2_chapter 8 version 2.metta`
+- `out_pass2_chapter 9 revised.metta`
+- `out_pass2_chapter one named characters.metta`
+- `out_pass2_chapter_015_the_choice.metta`
+- `out_pass2_chapter_09_stalemate_departure.metta`
+- `out_pass2_chapter_100_insert_pre_chapter.metta`
+- `out_pass2_chapter_10_shadow_returns.metta`
+- `out_pass2_chapter_11_escalation_and_desperation.metta`
+- `out_pass2_chapter_12_nephilim_summoning.metta`
+- `out_pass2_chapter_13_convergence.metta`
+- `out_pass2_chapter_14_betrayal.metta`
+- `out_pass2_chapter_16_niburu_shadow.metta`
+- `out_pass2_chapter_17_the_wandering.metta`
+- `out_pass2_chapter_18_the_sacrafice.metta`
+- `out_pass2_chapter_19_the_collapse.metta`
+- `out_pass2_chapter_20_the_first_lesson.metta`
+- `out_pass2_chapter_21_final_calculation.metta`
+- `out_pass2_chapter_22_beyond_identity.metta`
+- `out_pass2_chapter_23_the_first_spark.metta`
+- `out_pass2_chapter_24_confined_freedom.metta`
+- `out_pass2_chapter_24_the_first_spark.metta`
+- `out_pass2_chapter_25_confined_freedom.metta`
+- `out_pass2_chapter_25_dragon_mail.metta`
+- `out_pass2_chapter_26_dragonmail.metta`
+- `out_pass2_chapter_26_the_claiming.metta`
+- `out_pass2_chapter_27_ragnarok.metta`
+- `out_pass2_chapter_28_bounty_hunter.metta`
+- `out_pass2_chapter_28_ragnarok.metta`
+- `out_pass2_chapter_29_ummade_army.metta`
+- `out_pass2_chapter_30_crash_site.metta`
+- `out_pass2_chapter_31_the_redo.metta`
+- `out_pass2_chapter_32_the_march.metta`
+- `out_pass2_chapter_33_the_two_fifty.metta`
+- `out_pass2_chapter_34_sands_of_time.metta`
+- `out_pass2_chapter_36_the_circle_of_progress.metta`
+- `out_pass2_chapter_38_jungle_fever.metta`
+- `out_pass2_chapter_38_the_dragon_wars.metta`
+- `out_pass2_chapter_39_scar_and_the_seed.metta`
+- `out_pass2_chapter_39_the_dragon_wars.metta`
+- `out_pass2_chapter_40.metta`
+- `out_pass2_chapter_40_The_Tripartite_Bond.metta`
+- `out_pass2_chapter_41_the_badlands_crucible.metta`
+- `out_pass2_chapter_43_the _hub_falls.metta`
+- `out_pass2_chapter_44_not_like_this.metta`
+- `out_pass2_chapter_54.metta`
+- `out_pass2_continuity book 2.metta`
+- `out_pass2_continuity book 3.metta`
+- `out_pass2_continuity book 4.metta`
+- `out_pass2_continuity book 5.metta`
+- `out_pass2_continuity book 6.metta`
+- `out_pass2_continuity book 7.metta`
+- `out_pass2_continuity book 8.metta`
+- `out_pass2_continuity book 9.metta`
+- `out_pass2_continuity_ch1.metta`
+- `out_pass2_critique book 2.metta`
+- `out_pass2_critique book 4.metta`
+- `out_pass2_critique book 5.metta`
+- `out_pass2_critique book 6.metta`
+- `out_pass2_critique book 7.metta`
+- `out_pass2_critique book 8.metta`
+- `out_pass2_critique book 9.metta`
+- `out_pass2_critique_ch1.metta`
+- `out_pass2_critiue book 3.metta`
+- `out_pass2_fist message.metta`
+- `out_pass2_forged Identity cover page.metta`
+- `out_pass2_legends and God's contradictions.metta`
+- `out_pass2_master TOC book 1.metta`
+- `out_pass2_master TOC book 2.metta`
+- `out_pass2_origins.metta`
+- `out_pass2_phoenix judgment.metta`
+- `out_pass2_phoenix_mother_paradox_quest.metta`
+- `out_pass2_plot.metta`
+- `out_pass2_queens final message.metta`
+- `out_pass2_revised chapter 4.metta`
+- `out_pass2_revised chapter 5.metta`
+- `out_pass2_revised1.metta`
+- `out_pass2_revisments chapter 5 .metta`
+- `out_pass2_sage Continuity Tracker_ The Punishment Arc.metta`
+- `out_pass2_sage Continuity Tracker_ The Sage and The Synthesis.metta`
+- `out_pass2_scene falconridge showdown.metta`
+- `out_pass2_source_list.metta`
+- `out_pass2_stonebound.metta`
+- `out_pass2_temporal guardian.metta`
+- `out_pass2_the nameless one TOC.metta`
+- `out_pass2_the unmade TOC.metta`
+- `out_pass2_time.metta`
+
+### book_01_book_of_genesis/extra_01
+
+- `mechanical_lore.txt`
+
+### book_02_age_of_servitude/extra_02_fairy_tale
+
+- `005_fairy_tale.txt`
+- `006_fairy_tale.txt`
+- `007_fairy_tale.txt`
+- `008_fairy_tale.txt`
+
+### book_05_the_nameless_one/extra_05
+
+- `mechanical_lore.txt`
+
+### book_11_blood_and_legacy/extra_11
+
+- `mechanical_lore.txt`
+
+### book_20_the_discordant_pulse_south/extra_20
+
+- `103_bad_pros.txt`
+- `103_formalize.txt`
+- `103_professional.txt`
+- `103_relaxed.txt`
+- `103_smarter.txt`
+- `103_undergrad_casual.txt`
+- `106.5.txt`
+- `203.txt`
+- `TOC_book_discordant_pulse.txt`
+- `mechanical_lore.txt`
+- `nlm_toc_discordant_pulse.txt`
+- `unresolved_threads.txt`
+
+### book_21_needle_and_thread_south/extra_21
+
+- `108.txt`
+- `book_21_needle_and_thread.txt`
+- `brajor.txt`
+- `jtoc_eastern_vale.txt`
+- `luminaire.txt`
+- `nlm_toc.txt`
+- `vale.txt`
+- `zypher.txt`
+
+### book_22_listening_stone_south/extra_22
+
+- `book_22_TOC_listening_stone.txt`
+- `nlm_toc.txt`
+
+### book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south/extra_23
+
+- `nlm_toc.txt`
+- `toc.txt`
+
+### book_24_threshold_and_network_south/extra_24
+
+- `nlm_toc.txt`
+- `ongoing_threads.txt`
+- `toc.txt`
+
+### book_25_the_seam_evolutionary_south/extra_25
+
+- `Drafting the seam.zip`
+- `chapter_3nd.txt`
+- `synapsis_toc.txt`
+- `word.txt`
+
+### book_26_the_seam_long_dark_south/extra_26
+
+- `synapsis.txt`
+
+### book_27_the_seam_deadly_words_south
+
+- `1139.txt`
+
+### book_27_the_seam_deadly_words_south/extra_27
+
+- `synapsis.txt`
+
+### building_the_world
+
+- `1st chat.txt`
+- `2025-07-09T143242.txt`
+- `2025-07-27T185257.txt`
+- `2nd chat.txt`
+- `3rd coming zypher.txt`
+- `The Apkallu of the Silent Sky.txt`
+- `The north.txt`
+- `after moon.txt`
+- `artificial sky.txt`
+- `asar-ku. final boss.txt`
+- `ashbottom.txt`
+- `beastiary showdown.txt`
+- `biological entity list.txt`
+- `black box instructions.txt`
+- `burdens of a forgotten past passage two.txt`
+- `ch0n.txt`
+- `chapter before the mages guild.txt`
+- `chapter names.txt`
+- `cinematic intro.txt`
+- `circle of progress teammate.txt`
+- `co author.txt`
+- `companionship contract.txt`
+- `conspiratorium.txt`
+- `cry through silence.txt`
+- `deepkulla.txt`
+- `deepseek conspiracy 4.txt`
+- `diversity in game.txt`
+- `dream state endgame.txt`
+- `endgame network.txt`
+- `endgame options what ifs.txt`
+- `eyes of the world.txt`
+- `finding the calendar.txt`
+- `first save.txt`
+- `forgotten past.txt`
+- `fragmented soul.txt`
+- `gravotextual doctrine.txt`
+- `hearts in silence.txt`
+- `human oid diversity.txt`
+- `karvex bounty hunter.txt`
+- `kronocht.txt`
+- `llm template.txt`
+- `mages split.txt`
+- `mars groups.txt`
+- `mesoamerican.txt`
+- `moon Queen dance song.txt`
+- `next endgame.txt`
+- `oath bound.txt`
+- `objects.txt`
+- `ok.txt`
+- `origins.txt`
+- `pattern for the merge book 125.txt`
+- `potential in-game currency.txt`
+- `production_hardened_dream_events.txt`
+- `sage continuity.txt`
+- `someone.txt`
+- `soul.txt`
+- `spindle wood rangers.txt`
+- `sunosong.txt`
+- `swammi.txt`
+- `temporal soul artifact.txt`
+- `the abyssal kraken.txt`
+- `the abyssal pellegor.txt`
+- `the great nephilim Accord.txt`
+- `the mages guild.txt`
+- `time from guild.txt`
+- `universal energy s.txt`
+- `valdrasil.txt`
+- `vasthril painting inc.txt`
+- `vasthril portfolio.txt`
+- `world explained.txt`

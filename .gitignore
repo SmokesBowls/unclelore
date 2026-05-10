@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.DS_Store
+
+cocowatch/state/
+cocowatch/output/
+raw/changed_files.txt
+raw/cocoindex_delta.txt
+*.tmp

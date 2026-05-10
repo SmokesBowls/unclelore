@@ -1,0 +1,106 @@
+action: replace_token
+applied: false
+approved: true
+conflict_id: CONT-0001
+from_token: Neferati
+generated: 2026-05-09 18:04
+instance_count: 19
+patches:
+- context: '...ris was already organizing defensive positions—not that the [Neferati]
+    had any real defense against beings that could crush them a...'
+  from: Neferati
+  offset: 1868
+  to: Nephoretti
+- context: '... Torhh lingered longest, caught between curiosity about the [Neferati]
+    and whatever instinct was pulling them toward the forest.  ...'
+  from: Neferati
+  offset: 2523
+  to: Nephoretti
+- context: '...t came from somewhere beyond personal confidence. The other [Neferati]—nearly
+    eight hundred now, as scattered groups continued to ...'
+  from: Neferati
+  offset: 2858
+  to: Nephoretti
+- context: '...y, forty massive beings converging on the beaches where the [Neferati]
+    had landed nine days ago. Some moved in groups by color, ja...'
+  from: Neferati
+  offset: 4588
+  to: Nephoretti
+- context: '...ed at the tree line, forming a semicircle that enclosed the [Neferati]
+    position without approaching close enough to threaten.  The...'
+  from: Neferati
+  offset: 4849
+  to: Nephoretti
+- context: '...r, just enough to distinguish themselves from the assembled [Neferati].
+    The Prime connection pulsed with steady encouragement, but...'
+  from: Neferati
+  offset: 5158
+  to: Nephoretti
+- context: '..... confusion? Uncertainty? The Giant was as confused by the [Neferati]
+    as the Neferati were by the Giants'' fear.  "They don''t know...'
+  from: Neferati
+  offset: 6494
+  to: Nephoretti
+- context: '...certainty? The Giant was as confused by the Neferati as the [Neferati]
+    were by the Giants'' fear.  "They don''t know what we are," S...'
+  from: Neferati
+  offset: 6510
+  to: Nephoretti
+- context: '...areth realized, speaking aloud for the benefit of the other [Neferati].
+    "They felt the impact of our landing—seismic disturbance a...'
+  from: Neferati
+  offset: 6640
+  to: Nephoretti
+- context: '...gh stone corridors.  They were talking. Not in language the [Neferati]
+    could understand, but communicating nonetheless. About the ...'
+  from: Neferati
+  offset: 7819
+  to: Nephoretti
+- context: '... could understand, but communicating nonetheless. About the [Neferati]?
+    About the landing? About what should happen next?  Olythae...'
+  from: Neferati
+  offset: 7887
+  to: Nephoretti
+- context: '.... Several Giants noticed, their attention shifting from the [Neferati]
+    assembly to the artwork taking shape.  The burnt-red Giants...'
+  from: Neferati
+  offset: 8252
+  to: Nephoretti
+- context: '...ulnerable, occasionally territorial—had been chased away by [Neferati]
+    ancestors. By beings who threw rocks and sticks, who defend...'
+  from: Neferati
+  offset: 14453
+  to: Nephoretti
+- context: '...n thousand years later, the Pelagor''s descendants looked at [Neferati]
+    and felt instinctive terror despite being forty feet tall a...'
+  from: Neferati
+  offset: 14664
+  to: Nephoretti
+- context: '...t''s mountain cities. Pelagor crawling from ocean onto land. [Neferati]
+    throwing stones, driving them back into water. The cycle re...'
+  from: Neferati
+  offset: 15217
+  to: Nephoretti
+- context: '...we can change the present. Demonstrate that we''re not those [Neferati].
+    That we choose cooperation over domination."  "Actions, no...'
+  from: Neferati
+  offset: 16102
+  to: Nephoretti
+- context: '...ising gentleness. Back on sand, surrounded by eight hundred [Neferati]
+    and sixty Giants arranged in tense semicircle, Senareth mad...'
+  from: Neferati
+  offset: 16612
+  to: Nephoretti
+- context: '... moving, wind dying to whisper. Every consciousness present—[Neferati]
+    and Giant alike—focused on the tableau unfolding: small bei...'
+  from: Neferati
+  offset: 17966
+  to: Nephoretti
+- context: '...trusting.  Yet.  "Tomorrow," Senareth said to the assembled [Neferati]
+    as bioluminescence intensified in the gathering dark, "we b...'
+  from: Neferati
+  offset: 21655
+  to: Nephoretti
+source: book_01_book_of_genesis/004_the_convergence.md
+status: approved
+to_token: Nephoretti

@@ -1,0 +1,18 @@
+Read schema/TRAE_MRLORE.md first.
+
+Apply the following approved patch. No variations.
+
+Conflict: CONT-0001
+Source file: book_01_book_of_genesis/004_the_convergence.md
+Action: replace all instances of 'Neferati' with 'Nephoretti'
+Instance count: 19
+
+Steps:
+1. Read the source file: /home/mytruelove/Downloads/obsidianburdenNov25/book_01_book_of_genesis/004_the_convergence.md
+2. Replace every instance of 'Neferati' with 'Nephoretti' (whole word, case-sensitive).
+3. Write the file back.
+4. Report exactly: 'Patch CONT-0001 applied. 19 replacements made.' and call task_done.
+
+Do not modify any other content.
+Do not run any other commands.
+Do not create placeholder files.

@@ -1,0 +1,14 @@
+# MrLore CocoIndex Delta Manifest
+# Generated: 2026-05-09 14:29:56
+# Source: cocoindex_flags
+# Count: 8
+# Feed to: write_changed_manifest.py --from-file /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/cocoindex_delta.txt
+
+book_01_book_of_genesis/001_the_ethereal_vigil.md
+book_01_book_of_genesis/002_molten_descent.md
+book_01_book_of_genesis/003_first_contact.md
+book_01_book_of_genesis/004_the_convergence.md
+book_02_age_of_servitude/005_the_garden_blooms.md
+book_02_age_of_servitude/006_the_first_coming.md
+book_02_age_of_servitude/007_the_needle_construction.md
+book_02_age_of_servitude/008_queens_assessment.md
