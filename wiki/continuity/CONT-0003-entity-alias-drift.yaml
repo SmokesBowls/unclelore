@@ -3,14 +3,24 @@ chapter:
 conflict_id: CONT-0003
 detected:
   count: 2
-  token: Aaon Keepers?
+  token: Aaon Keepers
 human_review_required: true
 instances: 2
 notes: ''
+proposal:
+  action: replace_token
+  applied: true
+  authorized: true
+  from: Aaon Keepers
+  instances: 2
+  to: Aeon Keepers
 proposal_available: true
 registry:
   canonical: Aeon Keepers
-resolution_log: []
+resolution_log:
+- '2026-05-10: Authorized. Aaon Keepers is confirmed spelling drift to Aeon Keepers.'
+- '2026-05-10: Status updated to approved'
+- '2026-05-10: Patch applied. Aaon Keepers -> Aeon Keepers. Count verified: 0 remaining.'
 severity: warning
-status: open
+status: resolved
 type: entity_alias_drift

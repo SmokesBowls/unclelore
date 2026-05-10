@@ -1,0 +1,12 @@
+Execute these commands in exact order. No variations.
+
+1. Run this command:
+   sed -i 's/Aaon Keepers/Aeon Keepers/g' '/home/mytruelove/Downloads/obsidianburdenNov25/book_01_book_of_genesis/001_the_ethereal_vigil.md'
+
+2. Run this command:
+   grep -c 'Aeon Keepers' '/home/mytruelove/Downloads/obsidianburdenNov25/book_01_book_of_genesis/001_the_ethereal_vigil.md'
+
+3. Report exactly: 'Patch CONT-0003 applied.' and call task_done.
+
+Do not run any other commands.
+Do not create placeholder files.

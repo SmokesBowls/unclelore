@@ -1,0 +1,21 @@
+action: replace_token
+applied: false
+approved: true
+conflict_id: CONT-0003
+from_token: Aaon Keepers
+generated: 2026-05-10 01:33
+instance_count: 2
+patches:
+- context: '...Manifestation, Planetary Healing, Vrill Infrastructure ARC: [Aaon Keepers]
+    REGION: Akashic Library, Ethereal Realm TIME PERIOD: Post-S...'
+  from: Aaon Keepers
+  offset: 164
+  to: Aeon Keepers
+- context: '...ing, 3,417 Years After Marduk‑Tiamat Collision POV / FOCUS: [Aaon Keepers]
+    STATUS: Complete:     Chapter 001: The Garden Genesis   Par...'
+  from: Aaon Keepers
+  offset: 302
+  to: Aeon Keepers
+source: book_01_book_of_genesis/001_the_ethereal_vigil.md
+status: approved
+to_token: Aeon Keepers
