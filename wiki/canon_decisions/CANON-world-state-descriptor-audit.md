@@ -1,52 +1,39 @@
-# CANON — World-State Descriptor Audit
-
-```yaml
+---
 world_state_id: descriptor-audit-system
 world_state_tag: world_state_descriptor_audit
-description: General audit framework for environmental, atmospheric, cosmic, political, or metaphysical state descriptions.
-state_value: audit_framework
 audit_only: true
 
 scope:
-  arcs: []
   books: []
+  arcs: []
   locations: []
-  excludes:
-    - dream
-    - memory
-    - vision
-    - flashback
-    - metaphor
-    - prophecy
 
 contradicting_descriptors: []
 confirming_descriptors: []
 
-established_by: author canon decision
-reference_chapters: []
 status: active
-notes: This is not a specific canon state. It defines how MrLore may audit scoped world-state descriptors when separate state declarations exist.
-```
+version: "1.0"
+---
 
-## Canon Decision
+# CANON — World-State Descriptor Audit
 
-MrLore Phase 5c audits world-state descriptor consistency.
-A world-state may be environmental, atmospheric, cosmic, political, metaphysical, technological, or factional.
+## Purpose
 
-Examples include:
-- Shadow active
-- false dawn
-- white sky event
-- sun obscured
-- artificial daylight
-- occupation active
-- resonance field active
-- machine layer exposed
-- Coming active
-- post-strike silence
-- altered sky condition
+Defines the ruleset convention for detecting atmospheric, environmental, cosmic, political, metaphysical, technological, or factional world-state drift.
 
-No single descriptor applies globally.
-MrLore must not assume that repeated imagery means the same event every time.
+The engine scans for `contradicting_descriptors` only when `audit_only: true` and the chapter falls within the declared `scope`.
+
+## Usage
+
+- Leave `contradicting_descriptors` empty for a silent framework.
+- Add regex patterns only in specific scoped world-state declarations.
+- Authors may reference this file in prose; the scanner only reads the frontmatter.
+- Prose belongs below the second `---`.
+
+## Rule
+
+Code owns audit mechanics.
+
+Canon files own audit rules.
+
 MrLore must not rewrite prose automatically.
-Every finding is audit-only and requires human review.
