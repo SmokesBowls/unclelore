@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 """
-MrLore v2 — Run Changed Sources
+MrLore v2 — Run Changed Sources (Phase 5c Integrated)
 Stable entry point for external drivers (Trae Agent, CocoIndex, manual).
 
 Reads a list of changed vault files, runs MrLore ingest workflow on each,
-rebuilds the registry, lints the wiki, and writes a run report.
+rebuilds the registry, lints the wiki, runs the continuity audit,
+and writes a run report.
 
 Usage:
     python3 mrlore_run_changed.py --changed changed_files.txt
@@ -13,16 +14,19 @@ Usage:
     python3 mrlore_run_changed.py --dry-run      # report what would run, no changes
 
 Exit codes:
-    0  clean run — no issues
+    0  clean run — no structural issues or open continuity findings
     1  lint failed — structural problem in wiki
-    2  canon conflicts flagged — human review required before next run
+    2  canon conflicts flagged — open CONT-*.yaml requires human review
 """
 
 import sys
+import re
+import yaml
 import subprocess
 import shutil
 from pathlib import Path
 from datetime import datetime
+from collections import defaultdict
 
 MRLORE_ROOT = Path(__file__).resolve().parents[1]
 VAULT_ROOT  = MRLORE_ROOT.parent
@@ -36,10 +40,7 @@ LOGS_DIR.mkdir(exist_ok=True)
 # Authority tier for auto-ingest (Tier 0 = canonical chapters)
 SAFE_INGEST_TIER = 0
 
-# ── SOURCE AUTHORITY CLASSIFIER (inline, no import needed) ──────────────────
-
-import re
-from collections import defaultdict
+# ── SOURCE AUTHORITY CLASSIFIER ─────────────────────────────────────────────
 
 EXCLUDED_DIRS = {
     "_mrlore", ".git", ".obsidian", "__pycache__",
@@ -47,7 +48,6 @@ EXCLUDED_DIRS = {
 }
 
 SOURCE_EXTS = {".md", ".txt"}
-
 
 def _is_chapter_file(path: Path) -> bool:
     return bool(re.match(r"^\d+[_\-]", path.name))
@@ -83,8 +83,7 @@ def classify_tier(path: Path) -> int:
 
     return 3
 
-
-# ── INGEST STUB (inline call to existing tool) ───────────────────────────────
+# ── INGEST STUB ──────────────────────────────────────────────────────────────
 
 def run_ingest_stub(vault_rel: str, dry_run: bool = False) -> dict:
     """Call ingest_source_stub.py for one file. Returns result dict."""
@@ -108,69 +107,88 @@ def run_ingest_stub(vault_rel: str, dry_run: bool = False) -> dict:
         "code":   result.returncode,
     }
 
-
 def run_build_registry(dry_run: bool = False) -> bool:
-    if dry_run:
-        return True
+    if dry_run: return True
     result = subprocess.run(
         [sys.executable, str(TOOLS_DIR / "build_registry.py")],
         capture_output=True, text=True, cwd=str(MRLORE_ROOT)
     )
     return result.returncode == 0
 
-
 def run_lint(dry_run: bool = False) -> bool:
-    if dry_run:
-        return True
+    if dry_run: return True
     result = subprocess.run(
         [sys.executable, str(TOOLS_DIR / "lint_wiki.py")],
         capture_output=True, text=True, cwd=str(MRLORE_ROOT)
     )
     return result.returncode == 0
 
+# ── PHASE 5c: CONTINUITY AUDIT RUNNER & STATE CHECKER ────────────────────────
 
-def check_open_conflicts() -> list[str]:
-    """Return list of open contradiction files requiring human review."""
-    conflicts_dir = WIKI_PATH / "contradictions"
-    if not conflicts_dir.exists():
+def run_continuity_audit(sources: list[str], dry_run: bool = False) -> int:
+    """Run continuity_audit.py scoped to exactly the given sources.
+
+    Passes one --source flag per file so only the just-ingested files are
+    audited — faster and safer than --all-sources (which is not implemented).
+
+    Returns the audit exit code:
+        0  clean
+        1  mechanical failure
+        2  continuity conflicts found
+    """
+    if dry_run or not sources:
+        return 0
+    audit_script = TOOLS_DIR / "continuity_audit.py"
+    if not audit_script.exists():
+        print("[run_changed] WARNING: continuity_audit.py not found, skipping audit")
+        return 0
+    audit_cmd = [sys.executable, str(audit_script)]
+    for src in sources:
+        audit_cmd.extend(["--source", src])
+    result = subprocess.run(
+        audit_cmd,
+        capture_output=False,   # stream output live so progress is visible
+        cwd=str(MRLORE_ROOT),
+    )
+    return result.returncode
+
+def check_open_continuity_findings() -> list[str]:
+    """Return list of open CONT-*.yaml files requiring human review."""
+    continuity_dir = WIKI_PATH / "continuity"
+    if not continuity_dir.exists():
         return []
-    open_conflicts = []
-    for f in conflicts_dir.glob("*.md"):
-        text = f.read_text(encoding="utf-8", errors="replace")[:400]
-        if "status: open" in text.lower():
-            open_conflicts.append(f.name)
-    return open_conflicts
-
+    open_findings = []
+    for f in sorted(continuity_dir.glob("CONT-*.yaml")):
+        try:
+            with open(f, "r", encoding="utf-8") as fh:
+                data = yaml.safe_load(fh)
+            if isinstance(data, dict) and data.get("status", "").lower() == "open":
+                open_findings.append(f.name)
+        except Exception:
+            continue  # skip malformed or empty files
+    return open_findings
 
 # ── CHANGED FILE SOURCES ─────────────────────────────────────────────────────
 
 def load_changed_files(changed_path: Path) -> list[str]:
-    """Read vault-relative paths from a changed_files.txt manifest."""
     if not changed_path.exists():
         print(f"[run_changed] ERROR: changed file manifest not found: {changed_path}")
         return []
     lines = changed_path.read_text(encoding="utf-8").splitlines()
     return [l.strip() for l in lines if l.strip() and not l.startswith("#")]
 
-
 def discover_all_tier0() -> list[str]:
-    """Return all Tier 0 sources in the vault."""
     sources = []
     for path in sorted(VAULT_ROOT.rglob("*")):
-        if not path.is_file():
-            continue
-        if path.suffix.lower() not in SOURCE_EXTS:
-            continue
+        if not path.is_file(): continue
+        if path.suffix.lower() not in SOURCE_EXTS: continue
         rel_parts = set(path.relative_to(VAULT_ROOT).parts)
-        if rel_parts & EXCLUDED_DIRS:
-            continue
+        if rel_parts & EXCLUDED_DIRS: continue
         if classify_tier(path) == SAFE_INGEST_TIER:
             sources.append(str(path.relative_to(VAULT_ROOT)))
     return sources
 
-
 def filter_to_safe_tier(paths: list[str]) -> tuple[list[str], list[str]]:
-    """Split paths into safe-to-ingest and skipped-by-tier."""
     safe, skipped = [], []
     for rel in paths:
         full = VAULT_ROOT / rel
@@ -184,7 +202,6 @@ def filter_to_safe_tier(paths: list[str]) -> tuple[list[str], list[str]]:
             skipped.append(f"{rel}  [Tier {tier} — skipped]")
     return safe, skipped
 
-
 # ── REPORT ───────────────────────────────────────────────────────────────────
 
 def write_run_report(
@@ -194,7 +211,8 @@ def write_run_report(
     skipped: list[str],
     registry_ok: bool,
     lint_ok: bool,
-    open_conflicts: list[str],
+    audit_rc: int,
+    open_continuity: list[str],
     dry_run: bool,
 ) -> Path:
     lines = [
@@ -213,13 +231,14 @@ def write_run_report(
         f"- Skipped by tier:    {len(skipped)}",
         f"- Registry rebuild:   {'OK' if registry_ok else 'FAILED'}",
         f"- Lint:               {'OK' if lint_ok else 'FAILED'}",
-        f"- Open conflicts:     {len(open_conflicts)}",
+        f"- Continuity audit:   {'CLEAN' if audit_rc == 0 else f'FLAGGED (rc={audit_rc})'}",
+        f"- Open CONT-*.yaml:   {len(open_continuity)}",
         "",
     ]
 
-    if open_conflicts:
-        lines += ["## ⚠ Canon Conflicts — Human Review Required", ""]
-        for c in open_conflicts:
+    if open_continuity:
+        lines += ["## ⚠ Continuity Findings — Human Review Required", ""]
+        for c in open_continuity:
             lines.append(f"- {c}")
         lines.append("")
 
@@ -237,18 +256,19 @@ def write_run_report(
             lines.append(f"- {s}")
         lines.append("")
 
-    lines += [
-        "## Exit Code",
-        "",
-        "0 = clean" if lint_ok and not open_conflicts else
-        ("2 = canon conflicts" if open_conflicts else "1 = lint failed"),
-        "",
-    ]
+    # Determine final status text
+    if lint_ok and audit_rc == 0 and not open_continuity:
+        exit_text = "0 = clean run"
+    elif open_continuity or audit_rc == 2:
+        exit_text = "2 = canon conflicts flagged — human review required"
+    else:
+        exit_text = "1 = lint failed"
+
+    lines += ["## Exit Code", "", exit_text, ""]
 
     report_path = LOGS_DIR / f"run_{run_id}.md"
     report_path.write_text("\n".join(lines), encoding="utf-8")
     return report_path
-
 
 # ── MAIN ─────────────────────────────────────────────────────────────────────
 
@@ -261,92 +281,61 @@ def main() -> int:
 
     for i, arg in enumerate(args):
         if arg == "--changed" and i + 1 < len(args):
-            changed_manifest = Path(args[i + 1])
+            changed_manifest = args[i + 1]
         if arg == "--file" and i + 1 < len(args):
             single_file = args[i + 1]
 
-    if not any([run_all, changed_manifest, single_file]):
+    # ── Resolve source list ────────────────────────────────────────────────
+    if run_all:
+        raw_sources = discover_all_tier0()
+    elif changed_manifest:
+        raw_sources = load_changed_files(Path(changed_manifest))
+    elif single_file:
+        raw_sources = [single_file]
+    else:
+        print("[run_changed] No --all, --changed, or --file provided.")
         print(__doc__)
+        return 1
+
+    safe_sources, skipped = filter_to_safe_tier(raw_sources)
+    if not safe_sources:
+        print("[run_changed] No Tier 0 sources to process.")
         return 0
 
-    run_id = datetime.now().strftime("%Y%m%d_%H%M%S_%f")
-    if dry_run:
-        run_id += "_dryrun"
-    print(f"[run_changed] MrLore v2 — run {run_id}")
-    print(f"[run_changed] Vault: {VAULT_ROOT}")
-    if dry_run:
-        print("[run_changed] DRY RUN — no changes will be made")
+    print(f"[run_changed] Processing {len(safe_sources)} Tier 0 source(s)...")
 
-    # 1. Collect sources
-    if run_all:
-        candidates = discover_all_tier0()
-        print(f"[run_changed] --all: {len(candidates)} Tier 0 sources found")
-    elif changed_manifest:
-        candidates = load_changed_files(changed_manifest)
-        print(f"[run_changed] --changed: {len(candidates)} paths loaded")
-    else:
-        candidates = [single_file]
-        print(f"[run_changed] --file: {single_file}")
-
-    # 2. Filter to safe tier
-    safe_sources, skipped = filter_to_safe_tier(candidates)
-    print(f"[run_changed] Safe to ingest: {len(safe_sources)}  Skipped: {len(skipped)}")
-
-    # 3. Ingest each source
+    # ── Execute Pipeline ───────────────────────────────────────────────────
     results = []
-    for i, rel in enumerate(safe_sources, 1):
-        print(f"[run_changed] [{i}/{len(safe_sources)}] {rel}")
-        result = run_ingest_stub(rel, dry_run=dry_run)
-        results.append(result)
-        if result["status"] == "error":
-            print(f"  ERROR: {result.get('stderr', '')[:120]}")
-        else:
-            print(f"  {result['status'].upper()}")
+    for src in safe_sources:
+        res = run_ingest_stub(src, dry_run)
+        results.append(res)
+        if res["status"] == "error" and not dry_run:
+            print(f"  [ERROR] {src} → {res.get('stderr', 'unknown')[:120]}")
 
-    # 4. Rebuild registry
-    print("[run_changed] Rebuilding registry...")
-    registry_ok = run_build_registry(dry_run=dry_run)
-    print(f"[run_changed] Registry: {'OK' if registry_ok else 'FAILED'}")
+    registry_ok = run_build_registry(dry_run)
+    lint_ok     = run_lint(dry_run)
 
-    # 5. Lint
-    print("[run_changed] Running lint...")
-    lint_ok = run_lint(dry_run=dry_run)
-    print(f"[run_changed] Lint: {'OK' if lint_ok else 'FAILED'}")
+    # Phase 5c: Run continuity audit & gather open review queue
+    ingested_sources = [r["path"] for r in results if r["status"] == "ok"]
+    audit_rc        = run_continuity_audit(ingested_sources, dry_run)
+    open_continuity = check_open_continuity_findings() if not dry_run else []
 
-    # 6. Check open conflicts
-    open_conflicts = check_open_conflicts()
-    if open_conflicts:
-        print(f"[run_changed] ⚠ {len(open_conflicts)} open conflict(s) require human review")
-
-    # 7. Append to wiki log
-    if not dry_run:
-        log_entry = (
-            f"\n## [{datetime.now().strftime('%Y-%m-%d')}] run | {run_id}\n\n"
-            f"Sources ingested: {len([r for r in results if r['status'] == 'ok'])}\n"
-            f"Skipped: {len(skipped)}\n"
-            f"Lint: {'OK' if lint_ok else 'FAILED'}\n"
-            f"Open conflicts: {len(open_conflicts)}\n"
-        )
-        with open(LOG_PATH, "a", encoding="utf-8") as f:
-            f.write(log_entry)
-
-    # 8. Write run report
-    report_path = write_run_report(
+    run_id = datetime.now().strftime("%Y%m%d_%H%M%S")
+    report = write_run_report(
         run_id, safe_sources, results, skipped,
-        registry_ok, lint_ok, open_conflicts, dry_run
+        registry_ok, lint_ok, audit_rc, open_continuity, dry_run
     )
-    print(f"[run_changed] Report: {report_path}")
+    print(f"[run_changed] Report: {report}")
 
-    # 9. Exit code
+    # ── Exit Code Routing ──────────────────────────────────────────────────
     if not lint_ok:
         print("[run_changed] EXIT 1 — lint failed")
         return 1
-    if open_conflicts:
-        print("[run_changed] EXIT 2 — canon conflicts require human review")
+    if audit_rc == 2 or open_continuity:
+        print("[run_changed] EXIT 2 — continuity conflicts require human review")
         return 2
-    print("[run_changed] EXIT 0 — clean")
+    print("[run_changed] EXIT 0 — clean run")
     return 0
-
 
 if __name__ == "__main__":
     sys.exit(main())
