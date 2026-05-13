@@ -21,7 +21,6 @@ No variant represents a distinct faction, era, or species.
 | Neferati | drift | North Arc prose, early chapters |
 | Nehereti | drift | Chapter 4 ancestral reference |
 | Nephrati | drift | TTS audio normalization artifact |
-| Aaon Keepers | drift | Southern Arc metadata typo (CONFLICT-0001) |
 
 ## Scope
 
