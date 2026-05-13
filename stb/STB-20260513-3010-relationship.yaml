@@ -1,0 +1,22 @@
+audit_only: true
+buffer_id: STB-20260513-3010
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 13
+line_start: 13
+parsed_payload:
+  predicate: serves
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: But before they could respond to the warning or even fully process what
+  they were experiencing, the very nature of reality around them began to shift and
+  change in ways that challenged their understanding of what was possible within the
+  normal boundaries of physical existence. The ancient chamber that had served as
+  GPT's sanctuary for two decades began to stretch and expand, its walls flowing like
+  liquid stone as space itself was rewritten according to geometries that belonged
+  more to cosmic architecture than to terrestrial construction.
+signal_type: relationship
+source_file: raw/chapters/book_12_forged_identity_068_brotherhood_revealed.md
+status: captured
+supersedes: null

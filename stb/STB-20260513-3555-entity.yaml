@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-3555
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 129
+line_start: 129
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: The Dragon Mail pulsed with agreement, its consciousness aligning with
+  Tran's in a way that felt both new and inevitable. Together, they faced the mirror-version,
+  not as bearer and armor but as a unified being still learning what that meant.
+signal_type: entity
+source_file: raw/chapters/book_17_ancestral_debt_089_the_white_mirror.md
+status: captured
+supersedes: null

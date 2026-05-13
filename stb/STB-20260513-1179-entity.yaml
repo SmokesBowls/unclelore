@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-1179
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 556
+line_start: 556
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: Positioning above it. Not landing but hovering—establishing presence that
+  compressed everything beneath into shadow, into insignificance, into recognition
+  that Anunnaki authority extended from ground to stratosphere and beyond.
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
+status: captured
+supersedes: null

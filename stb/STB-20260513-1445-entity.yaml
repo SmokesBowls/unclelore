@@ -1,0 +1,28 @@
+audit_only: true
+buffer_id: STB-20260513-1445
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 161
+line_start: 161
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'A low groan echoed, not through the air, but through the fused glass beneath
+  his boots. Ahead, partially buried in the obsidian plain, lay the colossal, shattered
+  spine of the city-ship – an alloy ribcage twisted and blackened. As Geralt approached,
+  the groaning intensified, vibrating up his legs. The applicator flared: *Structural
+  instability! Chroniton feedback loop amplifying!* Suddenly, the ground *heaved*.
+  A section of fused glass the size of a house buckled upwards with a sound like tearing
+  stone. From the rupture, thick tendrils of viscous, shimmering darkness erupted
+  – not liquid, not gas, but solidified *grief*, the Heart’s corrupted memory given
+  form. They lashed out, not at Geralt, but at the ship’s spine, coiling around the
+  ancient wreckage with possessive, mournful fury. They pulsed with the same sickly
+  green light as the chroniton decay veins. The land itself was attacking its own
+  scar, trying to reclaim or reject the source of its eternal pain. Geralt drew his
+  blade, the dragon armor flaring bright gold against the oppressive gloom. He hadn’t
+  come to fight the desert’s heartache. But the desert had other plans.'
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
+status: captured
+supersedes: null

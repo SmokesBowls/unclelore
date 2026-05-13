@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-0094
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 70
+line_start: 70
+parsed_payload:
+  confidence: medium
+  entity_name: Aeon Keepers
+  entity_type: UNKNOWN
+raw_quote: Senareth, visiting the site for the first time in years, felt the Prime
+  connection pulse with recognition. The Aeon Keepers could see what the Giants couldn't
+  yet—that this basin, this cliff, this accidentally-fertile ground would someday
+  anchor a city. That humans would build into the wall, create dwellings and fortifications,
+  call it Ironspire and make it central to conflicts that hadn't begun yet.
+signal_type: entity
+source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+status: captured
+supersedes: null

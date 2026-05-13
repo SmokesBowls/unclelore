@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0173
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 188
+line_start: 188
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: UNKNOWN
+raw_quote: '"She''s beautiful," Pazuzu said, though his tone carried the weight of
+  grief. He had become something like a leader among the Igigi workforce—not through
+  official designation, but through the quiet authority that came from age and wisdom.
+  "What will you name her?"'
+signal_type: entity
+source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+status: captured
+supersedes: null

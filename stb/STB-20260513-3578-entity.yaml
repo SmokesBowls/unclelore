@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-3578
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 226
+line_start: 226
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: '"No. Something worse." Khal-Zur''s eyes flared with an intensity they
+  hadn''t shown before. "Anunnaki scouts. They have followed your resonance signature."'
+signal_type: entity
+source_file: raw/chapters/book_17_ancestral_debt_090_echoes_of_the_culling_corrected.md
+status: captured
+supersedes: null

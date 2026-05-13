@@ -1,0 +1,26 @@
+audit_only: true
+buffer_id: STB-20260513-1366
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 72
+line_start: 72
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'The discordant hum faltered. The frayed edges of reality around the archway
+  pulsed violently. Geralt poured more into the song, feeling the strain deep in his
+  core. The applicator flashed warnings: *Resonance overload!* The armor burned hot
+  against his skin. He saw flickers: swirling void-light, Mika’s desperate hand reaching.
+  *No.* He anchored deeper, singing the echo’s dissonance into silence. With a final,
+  shuddering pulse of golden light from Geralt’s core, the oppressive hum vanished.
+  The air cleared. The obsidian arch stood inert, just ancient stone. The stain was
+  gone. Geralt sagged, gasping. Kaelen stepped forward. "Efficient. You staunched
+  the bleed." She pointed deeper into the valley, where jagged peaks pierced the mist.
+  "Beyond those peaks lies the Fracture Nexus – the gateway to where the 250 were
+  filed. Mastery awaits." She strode forward. Geralt followed, the silence where Xal''Zirith’s
+  echo had been ringing louder than any scream. The path to retrieval narrowed.'
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_034_the_250.md
+status: captured
+supersedes: null

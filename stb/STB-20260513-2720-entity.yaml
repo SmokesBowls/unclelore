@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-2720
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 197
+line_start: 197
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'Geralt inhaled. The air smelled of lightning and wet ink. He understood
+  now—Zypher hadn''t sent him to die, but to *crystallize*. The abyss had stripped
+  away everything contingent, leaving only the irreducible contradictions: the wounds
+  that remembered being whole, the stolen divinity that refused to fade. He was no
+  longer an anchor. He was the *hook*.'
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+status: captured
+supersedes: null

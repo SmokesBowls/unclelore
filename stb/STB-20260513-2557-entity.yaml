@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-2557
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 313
+line_start: 313
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: And he, Geralt, the Anchor, was now prepared for his part. The generations
+  of solitude. The vigil in the solar cocoon. He had the discipline to endure it.
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_055_the_anchors_forge.md
+status: captured
+supersedes: null

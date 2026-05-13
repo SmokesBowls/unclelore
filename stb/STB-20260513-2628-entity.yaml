@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-2628
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 59
+line_start: 59
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt reached into the scorched ruin of his Applicator and withdrew a
+  single glyph—not words, but the shape of a wound. The guild's oculus darkened as
+  he pressed it against the nearest archive wall. The stone didn't just accept it;
+  the masonry *remembered* the mark, grooves aligning like old friends reuniting.
+  "You're already part of Earth's bones," he said. "You just forgot how to bend."
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
+status: captured
+supersedes: null

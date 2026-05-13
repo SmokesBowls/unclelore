@@ -1,0 +1,23 @@
+audit_only: true
+buffer_id: STB-20260513-1345
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 32
+line_start: 32
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: He was nothing. He was the nameless one spat out by oblivion. He was Geralt,
+  forged in defiance. He was Ragnarok, shattering chains and physics alike. But defiance
+  wasn't solitary. It echoed. The 250 unmade, ripped from existence by the Harbinger’s
+  cold light. Mika, fierce and loyal, riding into that same annihilation. The Five
+  – reptilian scales gleaming under alien suns, shields locked around him until the
+  end. They’d bled for him. Vanished for him. This slog through temporal tar, this
+  brutal carving of control from chaos, wasn’t just survival. It was the only coin
+  he had to buy their way back. He owed them this anchor. This focus. This relentless
+  push *through*.
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_034_the_250.md
+status: captured
+supersedes: null

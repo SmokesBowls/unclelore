@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-3461
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 101
+line_start: 101
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: '"The damage was done. Generations of isolation bred more suspicion. What
+  began as Anunnaki manipulation became genuine cultural divergence. Now each tribe
+  has developed its own traditions, its own interpretations of ancient promises."'
+signal_type: entity
+source_file: raw/chapters/book_16_fragmented_beginning_086_sanctuary_to_storm.md
+status: captured
+supersedes: null

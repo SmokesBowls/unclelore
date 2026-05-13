@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-1008
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 497
+line_start: 497
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: '"This is real combat," Geralt said quietly, meeting each volunteer''s
+  gaze in turn. "Not desperate defense of our own compound. Not fighting with backs
+  against wall and no alternatives. This is deliberate attack on fortified position
+  held by beings who view you as property worth protecting."'
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+status: captured
+supersedes: null

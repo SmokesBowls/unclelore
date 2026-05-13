@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3489
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 48
+line_start: 48
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: Before he could finish the question, the Dragon Mail suddenly took control,
+  plates shifting to propel him forward with a will of its own. Tran felt himself
+  moved by the armor's directive, his feet barely skimming the water's surface as
+  it guided him toward the Memory Chamber.
+signal_type: entity
+source_file: raw/chapters/book_16_fragmented_beginning_087_the_breath_of_life.md
+status: captured
+supersedes: null

@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3734
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 240
+line_start: 240
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: '"Nothing''s impossible when unity transcends designed limitations," Tran-Zaron
+  replied, their voice carrying across the battlefield. The Dragon Mail now flickered
+  with an anti-light similar to the dark sun''s emanations, but controlled, purposeful.
+  They had weaponized unmaking itself.'
+signal_type: entity
+source_file: raw/chapters/book_19_worthy_opponents_north_102_convergence_on_mars.md
+status: captured
+supersedes: null

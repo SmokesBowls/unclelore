@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-0489
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 59
+line_start: 59
+parsed_payload:
+  predicate: serves
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: '"Teach them," Torrhen said, his massive form now so translucent it seemed
+  like geological formation given temporary consciousness rather than individual identity
+  maintaining coherence through gradual dissolution. "Teach them that consciousness
+  evolution never ends, that synthesis serves continued synthesis, that transcendence
+  always discovers new possibilities for transcendence beyond transcendence."'
+signal_type: relationship
+source_file: raw/chapters/book_04_sage_saga_022_final_calculation.md
+status: captured
+supersedes: null

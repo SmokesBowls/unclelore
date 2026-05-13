@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-2068
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 137
+line_start: 137
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: “Sir! Left flank!” Kress yelled, her face streaked with soot. A squad of
+  Anunnaki shock troops, massive in powered armor, were marching in a solid line from
+  a sally port, heavy repeaters braced on their arms. They began to fire, walking
+  their shots toward the barricade. Stone vaporized.
+signal_type: entity
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_046_not_like_this.md
+status: captured
+supersedes: null

@@ -1,0 +1,27 @@
+audit_only: true
+buffer_id: STB-20260513-1489
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 71
+line_start: 71
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'Althurion turned, facing them fully on the plaza''s edge. **"You seek
+  the Buried Resonance,"** he stated, harmonics resonating with the deep thrum of
+  the mountain itself. **"The Annunaki artifact beneath our peaks. Not a trophy. A
+  ward."** His gaze pinned Geralt. **"Its activation risks unleashing what it contains.
+  The Akashic Records are not mere data. They are *potential*. Unfiltered, they consume."**
+  He gestured towards the crystalline archives. **"Prove you understand consequence.
+  Prove you seek not just power, but wisdom’s anchor."** The implication was clear:
+  Access required a demonstration of harmony beyond mere survival. Geralt felt the
+  Star Needle emblem pulse against his chest. The Spire wasn’t just a tool. It was
+  a responsibility echoing the Giants’ own guardianship. He glanced at Jorik, whose
+  hand rested protectively on his unique bow – a symbol of necessity tempered by purpose.
+  Humanity’s footprint wasn''t just defiance. It was the understanding Althurion demanded.
+  Geralt squared his shoulders. "Show me the trial."'
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
+status: captured
+supersedes: null

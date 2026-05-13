@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-2569
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 61
+line_start: 61
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: The crimson dragon—Pyrocast—lunged forward, his wings shearing through
+  the air like blades. Recognition flared in those supernova eyes. Not of Geralt,
+  but of the scorched Applicator fused to his spine, still smoking from its battle
+  with the Spire. "You bear the old scars," Pyrocast's voice came as a tectonic rumble.
+  "And now the sky bleeds white." Around them, the other dragons shifted, their talons
+  carving sigils into the regolith—ancient flight-pact glyphs.
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
+status: captured
+supersedes: null

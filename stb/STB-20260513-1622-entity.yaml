@@ -1,0 +1,22 @@
+audit_only: true
+buffer_id: STB-20260513-1622
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 27
+line_start: 27
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'Above ground, the jungle convulsed. Pyramids shuddered. Vines recoiled
+  as if scalded. Mika’s shield-wall buckled. Lyra screamed: "Nexus Node Gamma—critical
+  failure! All local systems destabilizing!" Geralt felt it—a tremor through Luminara.
+  Earth’s sigh. Halvar tore at sealed vines. Stone cracked. Legionnaires cheered.
+  But Geralt watched the sky. Distant thunder. Not storm. Wings. Reptilian reinforcements—darker,
+  faster. Luminara dimmed. *Roots... deeper...* Victory tasted bitter. Oreck crawled
+  free—bleeding, silent. Halvar hauled him up. Mika met Geralt’s eyes. Hope flickered.
+  Too small. Too late. The jungle waited. Breathing. Hungry.'
+signal_type: entity
+source_file: raw/chapters/book_07_light_resonance_and_the_function_039_jungle_fever.md
+status: captured
+supersedes: null

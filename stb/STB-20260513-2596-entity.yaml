@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-2596
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 171
+line_start: 171
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'The walls pulsed. The voice, when it came again, was colder than interstellar
+  void: "Death without dying. A paradox even dragons won''t touch." Geralt''s Applicator
+  sparked—a warning flare of pain behind his eyes. The Wise Ones weren''t offering
+  solutions. They were stating the one equation his stolen divinity couldn''t solve.
+  The armor wasn''t just failing; it was *judging* him, each plate whispering of overreach.'
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
+status: captured
+supersedes: null

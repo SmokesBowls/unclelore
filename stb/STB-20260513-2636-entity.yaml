@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-2636
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 83
+line_start: 83
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: The reptilian warrior emerged from between two leaning hab-units before
+  Geralt finished blinking. Oreck's nostrils flared, his clawed hands flexing at the
+  sudden translocation. No portal. No spell-circle. Just Geralt's certainty hardening
+  into fact. "You," Oreck growled, "are getting heavy to ignore." His tail lashed
+  once, stirring moondust into lazy spirals.
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
+status: captured
+supersedes: null

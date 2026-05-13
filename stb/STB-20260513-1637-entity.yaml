@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-1637
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 68
+line_start: 68
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Vines lashed like whips, thorns gleaming with venom. Reptilian shadows
+  detached from the trees, claws scraping stone. Halvar roared, axe cleaving through
+  scaled flesh. Mika’s shield-wall flared, deflecting psychic shrieks that tasted
+  of burnt ozone. Geralt raised Luminara. Her golden light seared through the violet
+  haze, revealing three scouts—obsidian-scaled, eyes vacant—advancing with mechanical
+  precision. Legionnaires met them blade-to-claw, screams swallowed by the storm.
+signal_type: entity
+source_file: raw/chapters/book_07_light_resonance_and_the_function_039_jungle_fever.md
+status: captured
+supersedes: null

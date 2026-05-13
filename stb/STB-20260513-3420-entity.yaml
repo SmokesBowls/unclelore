@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-3420
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 133
+line_start: 133
+parsed_payload:
+  confidence: medium
+  entity_name: Aeon Keepers
+  entity_type: UNKNOWN
+raw_quote: Gaiana Stoneheart's voice rumbled through the clearing. "Before you decide,
+  Fragment Bearer, know that the Earth Giants will not stand idle in this coming conflict.
+  We bear witness to the sacrifice of the Aeon Keepers, who created Tiamat as a vessel
+  for vril magic, who projected the Nefretti as their living extensions into our reality.
+  When Tiamat shattered, the Aeon Keepers sacrificed themselves to preserve what remained."
+signal_type: entity
+source_file: raw/chapters/book_16_fragmented_beginning_084_earth_giants_and_diverging_paths.md
+status: captured
+supersedes: null

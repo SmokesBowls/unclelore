@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-0123
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 236
+line_start: 236
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: UNKNOWN
+raw_quote: 'Next: chapter 006 The First Coming - Anunnaki arrival, Igigi creation,
+  the shattering of paradise'
+signal_type: entity
+source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+status: captured
+supersedes: null

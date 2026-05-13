@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-3323
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 27
+line_start: 27
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: '"Remember," he warned as they prepared to step through, "the fragments
+  change those who carry them. Tran may not be the same person you remember, Rongtai.
+  And Thang—he doesn''t know what to make of Swami''Pai''s heir. Approach with caution."'
+signal_type: entity
+source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
+status: captured
+supersedes: null

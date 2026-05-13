@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-2285
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 142
+line_start: 142
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: “GERALT OF THE DRAGON. YOU ARE IN VIOLATION OF FEDERATION CONTAINMENT PROTOCOL
+  ALPHA. SURRENDER THE COORDINATES OF THE ACTIVATED SPIRE AND SUBMIT TO DETAINMENT.
+  ANY RESISTANCE WILL BE MET WITH LETHAL FORCE. THIS IS YOUR FINAL WARNING.”
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
+status: captured
+supersedes: null

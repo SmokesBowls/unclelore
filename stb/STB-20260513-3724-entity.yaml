@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-3724
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 136
+line_start: 136
+parsed_payload:
+  confidence: medium
+  entity_name: Zaryonic Pattern
+  entity_type: UNKNOWN
+raw_quote: '"What I''ve always wanted. Completion. The Zaryonic pattern unified and
+  elevated to its true potential." She gestured to the chaos below. "This battle?
+  It''s not about conquest. It''s about catalyst. Pressure that forces evolution.
+  Your friends below—they''re becoming what they need to become. And you?" She touched
+  the chains that held him. "You''ll become what you were always meant to be. What
+  I made you to be."'
+signal_type: entity
+source_file: raw/chapters/book_19_worthy_opponents_north_102_convergence_on_mars.md
+status: captured
+supersedes: null

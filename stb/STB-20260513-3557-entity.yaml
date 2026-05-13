@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-3557
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 133
+line_start: 133
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: Light began to emanate from both figures—harsh and cold from the mirror-version,
+  warm and vibrant from Tran and his armor. Where the lights met, reality itself seemed
+  to bend, possibilities colliding.
+signal_type: entity
+source_file: raw/chapters/book_17_ancestral_debt_089_the_white_mirror.md
+status: captured
+supersedes: null

@@ -1,0 +1,22 @@
+audit_only: true
+buffer_id: STB-20260513-2657
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 173
+line_start: 173
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: The Five Mikas didn't dissolve—they *unfolded*. Green Mika's armor sprouted
+  vines that sank into the earth; Yellow Mika stepped backward into her own lengthening
+  shadow; Blue Mika's form cascaded apart like a breached dam. Only Violet Mika lingered
+  long enough to press two fingers against Geralt's sternum—a touch colder than voidspace—before
+  whispering coordinates that bypassed his ears entirely, etching themselves directly
+  into the burnt pathways of his Applicator. *Echo Tower is empty.* The words tasted
+  like oxidized copper and static. *Zypher moved beneath Tidecaller's Mountain. East
+  becomes north when the sky bleeds white.*
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
+status: captured
+supersedes: null

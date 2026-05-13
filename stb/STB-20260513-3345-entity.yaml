@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3345
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 85
+line_start: 85
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: The figure looked directly at Tran, its galaxy-filled eyes seeming to peer
+  into his soul. "Trust is earned, not given. But time grows short. Nibiru approaches,
+  and with it, forces that will test us all. The fragments must be united before the
+  Fifth Coming reaches its culmination."
+signal_type: entity
+source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
+status: captured
+supersedes: null

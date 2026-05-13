@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-2069
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 139
+line_start: 139
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt raised his staff, but the range was too great. The charge pinged
+  harmlessly off the shock troops’ armor. “Fall back to the secondary ridge!” he ordered,
+  the words tasting like ash. A retreat now would collapse the diversion. It would
+  doom Mika’s team. But staying was annihilation.
+signal_type: entity
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_046_not_like_this.md
+status: captured
+supersedes: null

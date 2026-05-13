@@ -1,0 +1,22 @@
+audit_only: true
+buffer_id: STB-20260513-1385
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 21
+line_start: 21
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'The tunnel twisted sharply downward, slick ice underfoot. Kaelen moved
+  ahead like a shadow, silent. Geralt’s boots skidded. The applicator mapped thermal
+  gradients: *Ambient temperature dropping rapidly. Ice structure unstable.* Ahead,
+  Kaelen stopped abruptly. The tunnel ended at a sheer drop, opening into a vast,
+  subterranean canyon. Below, bathed in an eerie bio-luminescent glow from colossal
+  fungi, sprawled the ruins of a forgotten city. Crumbling towers clawed towards the
+  cavern roof, draped in thick ice vines. The air tasted metallic, thick with millennia
+  of dust. "Where?" Geralt rasped, scanning the desolation.'
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
+status: captured
+supersedes: null

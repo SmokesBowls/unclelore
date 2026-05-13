@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-3793
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 286
+line_start: 286
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: UNKNOWN
+raw_quote: Four hundred years, the Igigi had calculated, and they were right. The
+  light was back. But Kael’s face was not joyful. They will come again, he said. Not
+  soon. But they will come.
+signal_type: entity
+source_file: raw/chapters/book_20_the_discordant_pulse_south_104_the_rising_tide.md
+status: captured
+supersedes: null

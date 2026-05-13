@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-0577
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 331
+line_start: 331
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: The first Anunnaki processed this logic. "You propose using the flaw as
+  diagnostic tool."
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_024_the_first_spark.md
+status: captured
+supersedes: null

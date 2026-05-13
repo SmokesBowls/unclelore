@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3766
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 43
+line_start: 43
+parsed_payload:
+  confidence: medium
+  entity_name: Aeon Keepers
+  entity_type: UNKNOWN
+raw_quote: 'The landscape was jagged, volcanic. Rivers of cooling basalt snaked between
+  black cliffs. In the distance, a mountain vented steam into a bruised sky. And there,
+  half‑buried in a collapsed hillside, she saw it: a spire of metal and crystal, towering
+  higher than any structure from the memory‑seeds the Aeon Keepers had implanted.'
+signal_type: entity
+source_file: raw/chapters/book_20_the_discordant_pulse_south_103_the_second_song_resonance_of_a_broken_needle.md
+status: captured
+supersedes: null

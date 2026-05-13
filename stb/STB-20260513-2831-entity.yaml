@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-2831
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 150
+line_start: 150
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: Isla's eyes fluttered open, focusing first on her mysterious healer and
+  then on Tran and Keen, who had rushed to her side. "What..." she whispered, her
+  voice weak but growing stronger by the moment. "What's happening? What were those
+  things?"
+signal_type: entity
+source_file: raw/chapters/book_11_blood_and_legacy_060_echoes_of_the_cradle.md
+status: captured
+supersedes: null

@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-0314
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 59
+line_start: 59
+parsed_payload:
+  confidence: medium
+  entity_name: Aeon Keepers
+  entity_type: UNKNOWN
+raw_quote: And they would discover whether the Aeon Keepers' old defenses could be
+  summoned by beings desperate enough to pay any price for survival.
+signal_type: entity
+source_file: raw/chapters/book_03_the_reckoning_012_nephilim_summoning.md
+status: captured
+supersedes: null

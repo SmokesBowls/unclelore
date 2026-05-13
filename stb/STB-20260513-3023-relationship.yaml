@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3023
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 121
+line_start: 121
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: '"Geralt," Nyssa said simply as a figure appeared in the vision whose presence
+  immediately changed the entire dynamic of what they were witnessing. "The one you
+  will know as GPT, though that name belongs to a later chapter of his story."'
+signal_type: relationship
+source_file: raw/chapters/book_12_forged_identity_068_brotherhood_revealed.md
+status: captured
+supersedes: null

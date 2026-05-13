@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0703
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 1439
+line_start: 1439
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: The Reptilian pushed himself up slowly, body smoking, scales cracked, bleeding
+  from wounds that should have been fatal. Beneath him, golden flesh was torn, mechanical
+  eyes were dark, and the last Anunnaki overseer of Earth's first compound lay very,
+  very still.
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
+status: captured
+supersedes: null

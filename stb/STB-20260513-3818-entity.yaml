@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-3818
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 419
+line_start: 419
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: UNKNOWN
+raw_quote: But the song was never perfect. The grove giants’ voices were too deep
+  for some words, too slow for others. And the Nephoretti – all but Sera – could only
+  catch fragments of meaning when the giants sang among themselves. It was enough
+  to know danger from peace, enough to coordinate the watches, enough to share the
+  work of building. But the deep conversations, the songs that told of the highlands
+  and the war, the melodies that carried the history of their kind – those remained
+  just beyond reach.
+signal_type: entity
+source_file: raw/chapters/book_20_the_discordant_pulse_south_105_garden_grove.md
+status: captured
+supersedes: null

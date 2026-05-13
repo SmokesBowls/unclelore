@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-1626
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 34
+line_start: 34
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'The jungle breathed lies. Geralt’s first warning wasn’t the crimson pulse
+  beneath the vines but the alien disgust coiling through his neural link. The Applicator—usually
+  humming with detached analysis—spat diagnostics like poison: *“Vrill resonance inverted.
+  Not amplification. Cognitive corruption: Truth reframed as suggestion. Memory malleation
+  event likely.”* This wasn’t integration. It was perversion.'
+signal_type: entity
+source_file: raw/chapters/book_07_light_resonance_and_the_function_039_jungle_fever.md
+status: captured
+supersedes: null

@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-2889
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 213
+line_start: 213
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: The vision faded, but the connection remained—not overwhelming, but present
+  like a warm current beneath their conscious thoughts. They were still individuals,
+  but they were also part of something larger, something that had been preparing for
+  this moment across eons of careful planning.
+signal_type: relationship
+source_file: raw/chapters/book_11_blood_and_legacy_062_falcon_ridge_showdown.md
+status: captured
+supersedes: null

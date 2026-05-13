@@ -1,0 +1,22 @@
+audit_only: true
+buffer_id: STB-20260513-0400
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 41
+line_start: 41
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: '"Never alone," Torrhen replied, his voice now carrying overtones that
+  seemed to come from the stone itself, from the water that flowed through quantum
+  potential within crystalline matrices, from the storm that was building in the spaces
+  between molecules. "Will be part of every magic you work, every student you teach,
+  every moment when consciousness touches forces larger than itself. Will be the voice
+  that whispers in the Deep Tongue, the presence that guides when calculation fails,
+  the friend who remains when all other friends have vanished."'
+signal_type: relationship
+source_file: raw/chapters/book_04_sage_saga_019_the_sacrafice.md
+status: captured
+supersedes: null

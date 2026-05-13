@@ -1,0 +1,28 @@
+audit_only: true
+buffer_id: STB-20260513-1278
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 31
+line_start: 31
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'Geralt’s mind raced. He visualized Varik’s desperate shield raise. The
+  point of fracture wasn’t the impact; it was the microsecond *before*, when Varik
+  committed his weight, leaving a flank momentarily exposed. The anchor point… was
+  Varik’s footing on the unstable rubble. Geralt poured his will outward, not towards
+  Varik, but towards the loose chunk of duracrete beneath Varik’s left boot. He imagined
+  it solid, fused, immovable. The applicator shrieked: *Chroniton manipulation attempted!
+  Unauthorized temporal alteration!* The dragon armor roared approval, lending its
+  fierce energy. Geralt *pushed*. The rubble beneath Varik’s ghostly boot flickered
+  – solid for a heartbeat. The disintegrator beam that should have vaporized Varik
+  instead glanced off his suddenly stabilized shield, searing the wall behind him.
+  Varik stumbled back, stunned but alive. Geralt gasped, a wave of profound exhaustion
+  hitting him like a physical blow. He’d changed a micro-moment. The cost was immense.
+  Around him, the echo of the battle rippled with the tiny alteration. Kaelen’s voice
+  held a note of grim satisfaction. "Now you understand the cost. And the power. Again."'
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_032_the_redo.md
+status: captured
+supersedes: null

@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-3237
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 491
+line_start: 491
+parsed_payload:
+  predicate: serves
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: The observation revealed one of the fundamental challenges they faced in
+  building a global organization. Conventional education systems had no framework
+  for understanding magical development, leaving awakening individuals vulnerable
+  to exploitation by forces that could provide guidance—regardless of whether that
+  guidance served their interests or those of cosmic tyranny.
+signal_type: relationship
+source_file: raw/chapters/book_15_legends_and_gods_079_mages_awakening.md
+status: captured
+supersedes: null

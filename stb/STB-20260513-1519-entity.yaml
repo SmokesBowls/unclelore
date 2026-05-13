@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-1519
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 11
+line_start: 11
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: The oppressive stillness of the Echo Tower’s lowest archives pressed in
+  like damp velvet. Geralt moved silently, Mika scanning the towering shelves laden
+  with crystalline data-cubes and humming containment units. They needed weapons,
+  supplies Zypher swore lay buried here. Dust motes danced in the pale light cast
+  by Geralt’s Star Needle applicator. Suddenly, Mika hissed, hand flashing to her
+  blade. A shadow detached itself from behind a monolithic server stack – not an attacker,
+  but a familiar silhouette clad in dark, segmented armor that drank the light. Oreck.
+signal_type: entity
+source_file: raw/chapters/book_07_light_resonance_and_the_function_037_the_circle_of_progress.md
+status: captured
+supersedes: null

@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-3720
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 122
+line_start: 122
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: The psychological horror of it washed over him. He'd spent lifetimes running
+  from the Queen, only to discover that part of him had always belonged to her. The
+  fragment she'd birthed—it explained so much. Why the red curse felt familiar. Why
+  his temporal abilities seemed designed to complement Anunnaki technology. Why resistance
+  felt like betraying something fundamental in his nature.
+signal_type: entity
+source_file: raw/chapters/book_19_worthy_opponents_north_102_convergence_on_mars.md
+status: captured
+supersedes: null

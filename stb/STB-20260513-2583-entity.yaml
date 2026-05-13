@@ -1,0 +1,15 @@
+audit_only: true
+buffer_id: STB-20260513-2583
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 103
+line_start: 103
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt turned toward the nebula. From here, the war looked almost beautiful.
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
+status: captured
+supersedes: null

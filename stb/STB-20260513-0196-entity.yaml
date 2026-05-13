@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-0196
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 95
+line_start: 95
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: UNKNOWN
+raw_quote: '"Stand down," Pazuzu tried to command, but his authority over Reptilians
+  was minimal. They responded to Anunnaki overseers, not Igigi slaves.'
+signal_type: entity
+source_file: raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
+status: captured
+supersedes: null

@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-2711
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 161
+line_start: 161
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'The abyss wasn''t empty—it was *full*. Every spiral Geralt passed through
+  imprinted itself in reverse: Vaelthane''s last roar became his first breath, Mika''s
+  blood on his hands flowed backward into her veins, the Dragon Mail''s fractures
+  stitched themselves shut with threads of borrowed time. He tried to scream but his
+  lungs dissolved into the paradox; Zypher hadn''t sent him to die, but to *unhappen*.'
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+status: captured
+supersedes: null

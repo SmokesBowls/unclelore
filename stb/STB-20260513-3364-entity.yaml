@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-3364
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 135
+line_start: 135
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: '"We come to help!" Tran called out, raising his hands to show he meant
+  no harm. "We seek the Blue Fragment!"'
+signal_type: entity
+source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
+status: captured
+supersedes: null

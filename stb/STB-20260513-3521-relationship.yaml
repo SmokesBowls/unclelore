@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-3521
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 29
+line_start: 29
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: He forced himself to sit up, temporal patterns still pulsing erratically
+  beneath his skin. "I'm... here," he managed, though he wasn't entirely sure that
+  was true. Part of him felt left behind in that vision, trapped with whatever entity
+  lurked within his blood.
+signal_type: relationship
+source_file: raw/chapters/book_17_ancestral_debt_088_shadows_of_umbrageous_fixed.md
+status: captured
+supersedes: null

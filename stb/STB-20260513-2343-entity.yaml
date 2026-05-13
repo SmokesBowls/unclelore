@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-2343
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 94
+line_start: 94
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: Aelxion, who had followed them in, let out a low growl. "Anunnaki seeder
+  organism. We've suspected they planted something when they began their digs. A biological
+  weapon to cripple the planet before full invasion. We could never confirm—the caldera
+  maze is collapsed. Impassable."
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_051_arrival_in_fire.md
+status: captured
+supersedes: null

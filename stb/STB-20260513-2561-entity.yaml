@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-2561
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 19
+line_start: 19
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: The third strike lit the Atlantic. Geralt exhaled through his teeth. This
+  was the Queen's gambit—not to destroy, but to perfect. To render Earth's story so
+  seamless, so unassailably uniform, that defiance would become unthinkable. A white
+  sky. A white world. A white truth.
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
+status: captured
+supersedes: null

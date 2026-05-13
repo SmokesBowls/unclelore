@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-2789
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 473
+line_start: 473
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: '"One more stop," Geralt said, his voice rougher than the basalt path beneath
+  their boots. Oreck''s nostrils flared, catching the scent of parting in the air—rust
+  and cold steel. The reptilian warrior didn''t protest, just pressed his forehead
+  to Geralt''s armored shoulder, leaving a smudge of bioluminescent pollen across
+  the Dragon Mail. A hunter''s farewell. When he straightened, his pupils were vertical
+  slits against the rising moon. "Try not to die before I can collect the debt."'
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+status: captured
+supersedes: null

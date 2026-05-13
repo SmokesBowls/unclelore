@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-1859
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 119
+line_start: 119
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: They moved on, the gully shrinking behind them. Geralt looked back once,
+  saw Marek and her remaining people already at work, marking trees, clearing corruption,
+  holding the line.
+signal_type: entity
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_042_the_verdant_crossing.md
+status: captured
+supersedes: null

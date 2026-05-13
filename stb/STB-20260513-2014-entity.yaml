@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-2014
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 243
+line_start: 243
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Kael’s ruined face split into a bloody, defiant grin. “Your fight’s up
+  there, Wolf. Ours is here. This is the bargain. We make the noise. You swing the
+  hammer.” He clapped a heavy hand on Geralt’s armored shoulder. “Go. Our song’s almost
+  done. Don’t let the last note be for nothing.”
+signal_type: entity
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_045_the_hub_falls.md
+status: captured
+supersedes: null

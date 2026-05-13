@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-0483
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 50
+line_start: 50
+parsed_payload:
+  predicate: serves
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: '"Will be provided by consciousness that has learned to exist as both perspectives
+  simultaneously," Torrhen replied, his geological wisdom now encompassing patterns
+  that connected continental regions while maintaining distinctive understanding that
+  could continue serving consciousness evolution. "The partnership does not end—it
+  transforms into internal synthesis that serves external teaching more effectively
+  than individual collaboration ever could."'
+signal_type: relationship
+source_file: raw/chapters/book_04_sage_saga_022_final_calculation.md
+status: captured
+supersedes: null

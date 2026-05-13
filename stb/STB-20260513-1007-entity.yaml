@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-1007
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 493
+line_start: 493
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: '"Three-point assault," Geralt confirmed. "Mika''s team from inside, me
+  from front, you from rear. By the time the Overseer understands what''s happening,
+  his forces will already be disabled and he''ll be facing three-way convergence with
+  no retreat options."'
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+status: captured
+supersedes: null

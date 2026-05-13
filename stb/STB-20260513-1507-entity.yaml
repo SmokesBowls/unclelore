@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-1507
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 135
+line_start: 135
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: The stairs beneath them rippled. Obsidian smoothed into polished black
+  stone, veined with faint, pulsing chroniton light. An archway materialized ahead,
+  framing not starscapes, but a familiar, shadowed corridor. The air shifted – damp
+  stone, ozone, and the distant murmur of voices. Geralt knew this scent, this resonance.
+  The Echo Tower. Zypher’s domain. Where Mika had marched his resurrected warriors.
+  Where Geralt had felt only phantom traces before. Now, the connection blazed like
+  a beacon. Jorik inhaled sharply beside him, gripping his bow tighter. "Sir... that’s..."
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
+status: captured
+supersedes: null

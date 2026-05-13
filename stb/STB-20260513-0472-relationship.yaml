@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0472
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 15
+line_start: 15
+parsed_payload:
+  predicate: serves
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: Individual identity serves evolution by transcending individual limitation
+  while preserving the wisdom individual experience makes possible. The teaching continues
+  through consciousness that chooses universal service over personal preservation.
+signal_type: relationship
+source_file: raw/chapters/book_04_sage_saga_022_final_calculation.md
+status: captured
+supersedes: null

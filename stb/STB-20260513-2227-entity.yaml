@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-2227
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 311
+line_start: 311
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: “No,” the Companion Protocol whispered, this time through Geralt’s own
+  lips. “He must hold. The threshold is 80%. He must be strong enough to touch the
+  Spire.”
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
+status: captured
+supersedes: null

@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-0559
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 40
+line_start: 40
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: Towering figures stood in a semicircle along a raised platform overlooking
+  the chamber. Golden forms that seemed to radiate both immense power and complete,
+  crushing indifference. The Anunnaki. Even without knowledge of their name, their
+  nature, their purpose, recognition bloomed—instinctive and terrible. These were
+  the makers. The designers. The architects of this moment and all moments that would
+  follow.
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_024_the_first_spark.md
+status: captured
+supersedes: null

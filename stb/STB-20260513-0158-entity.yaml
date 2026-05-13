@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0158
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 132
+line_start: 132
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: Anunnaki overseers waited outside the pods, their golden forms terrible
+  in the morning light. They did not speak—communication with Igigi rarely required
+  words. Consciousness-commands flooded through established channels, directives that
+  bypassed choice and demanded obedience.
+signal_type: entity
+source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+status: captured
+supersedes: null

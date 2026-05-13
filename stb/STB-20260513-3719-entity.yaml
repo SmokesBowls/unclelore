@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3719
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 106
+line_start: 106
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: In the highest tower of the Crimson Citadel, the Anunnaki Queen watched
+  the soul transfer with interest that bordered on fascination. Beside her, Viên hung
+  in chains of crystallized void energy, the red curse pulsing visibly beneath his
+  skin like a second circulatory system.
+signal_type: entity
+source_file: raw/chapters/book_19_worthy_opponents_north_102_convergence_on_mars.md
+status: captured
+supersedes: null

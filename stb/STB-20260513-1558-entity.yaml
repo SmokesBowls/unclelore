@@ -1,0 +1,35 @@
+audit_only: true
+buffer_id: STB-20260513-1558
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 11
+line_start: 11
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'The southern Dregans erupted onto the scene with terrifying silence, their
+  larger, sand-polished hides absorbing the harsh sunlight. No handlers. No hesitation.
+  The lead Dragan’s territorial challenge cry wasn’t aimed at Geralt’s forces, but
+  at their northern kin—a wave of discordant force slamming the raging attackers sideways.
+  The effect was immediate, visceral. The northern Dregans, consumed by genetic fury,
+  whirled as one pack-beast, abandoning the legionnaires entirely. Oreck’s assessment
+  was a low growl felt in Geralt’s bones: "Territory." The ensuing clash was apocalyptic—a
+  whirlwind of snapping spines, sonic blasts detonating prematurely, sand fused instantly
+  into glass. Legionnaires watched, shields trembling against debris, as giants tore
+  each other apart. Lyra’s bio-scanner whirred frantically, tracking the horrifying
+  cascade of energy signatures. Pragmatism, indeed. The victors weren’t saviors; they
+  were conquerors clearing their hunting grounds. Their departure left only the groans
+  of the dying northern Dragan Oreck crippled and the settling crimson dust of its
+  vaporized kin. Silence reclaimed the desert, heavier now. Geralt’s fist lowered
+  slowly. "Regroup," he commanded, the word scraping raw. "Secure the wounded." Bodies
+  crystallized beyond the shield perimeter glittered accusingly under the merciless
+  sun. Ren retched violently into the sand. Mika’s gaze flicked to Lyra. "Stabilize
+  Halvar *now*." The healer nodded, already moving, filaments pulsing urgent cyan
+  towards the stunned veteran. Integration wasn''t a choice anymore. The Scorch demanded
+  it. Adapt or die. The deeper enemy waited, casting shadows far darker than Dragan
+  packs.'
+signal_type: entity
+source_file: raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+status: captured
+supersedes: null

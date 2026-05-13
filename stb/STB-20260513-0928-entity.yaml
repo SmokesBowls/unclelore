@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-0928
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 23
+line_start: 23
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: '"I know they''re coming back." Oreck''s vertical pupils contracted, focusing
+  on something at horizon''s edge that Geralt''s merely human vision couldn''t yet
+  distinguish. "The question isn''t if, but what they''re bringing. We killed an Overseer.
+  Broke a compound. Proved resistance is possible. They''ll send enough force to ensure
+  it never happens again."'
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+status: captured
+supersedes: null

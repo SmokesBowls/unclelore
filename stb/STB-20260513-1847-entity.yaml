@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-1847
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 35
+line_start: 35
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: “And if we don’t push,” Geralt said, “the forest dies. Then the farms.
+  Then the people living on those farms.”
+signal_type: entity
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_042_the_verdant_crossing.md
+status: captured
+supersedes: null

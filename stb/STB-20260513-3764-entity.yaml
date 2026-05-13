@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-3764
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 25
+line_start: 25
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: UNKNOWN
+raw_quote: The crafting took longer this time. Each thought‑seed was woven with thicker
+  vrill strands, their consciousness‑patterns compressed into matrices that could
+  withstand the chaotic pressures of the southern Veil. Lyaris worked with painstaking
+  precision, layering in not only the standard Nephoretti template—geomancy, vrill‑sense,
+  language capacity—but a quiet, persistent pull toward the damaged needle’s pulse.
+  A sense that order could be found even in ruin.
+signal_type: entity
+source_file: raw/chapters/book_20_the_discordant_pulse_south_103_the_second_song_resonance_of_a_broken_needle.md
+status: captured
+supersedes: null

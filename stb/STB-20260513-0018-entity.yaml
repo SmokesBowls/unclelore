@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0018
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 112
+line_start: 112
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: UNKNOWN
+raw_quote: '"One thousand Nephoretti," Korath proposed, his consciousness already
+  beginning to calculate optimal distribution patterns. "Enough to establish presence
+  across both continental masses, with concentration in areas where the transformed
+  Pelagor have gathered."'
+signal_type: entity
+source_file: raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
+status: captured
+supersedes: null

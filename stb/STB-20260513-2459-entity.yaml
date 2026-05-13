@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-2459
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 255
+line_start: 255
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: That’s right, Geralt thought, pouring every ounce of his will, his memory,
+  his feeling into that single point of contact. We’re a disease. We’re an error.
+  We’re the thing your perfect logic can’t parse. We’re partners.
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_053_the_twilight_city.md
+status: captured
+supersedes: null

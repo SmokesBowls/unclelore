@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-1846
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 31
+line_start: 31
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: Oreck shifted, the salvaged Anunnaki armor he wore emitting a low hum.
+  “The armor senses the broadcast. It’s… angry. Like a wound.”
+signal_type: entity
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_042_the_verdant_crossing.md
+status: captured
+supersedes: null

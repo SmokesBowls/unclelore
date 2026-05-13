@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-1145
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 227
+line_start: 227
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: '*Good,* Geralt projected while channeling more creative force, while burning
+  with intensity that came from grief and fury and desperate need to prove that two
+  hundred forty-nine erased lives had MEANT something. *Feel this. Feel what it''s
+  like to exist. Feel what you took from people who chose to be rather than accepting
+  void''s certainty.*'
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
+status: captured
+supersedes: null

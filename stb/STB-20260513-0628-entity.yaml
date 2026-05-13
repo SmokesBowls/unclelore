@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-0628
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 1115
+line_start: 1115
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: 'The revolution that was coming would be built on this foundation: a consciousness
+  invaded, a network established, a power unleashed that no one—not the Anunnaki,
+  not the Federation, not the slaves themselves—fully understood or could control.'
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_024_the_first_spark.md
+status: captured
+supersedes: null

@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-1757
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 513
+line_start: 513
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: UNKNOWN
+raw_quote: Humanoid figures pulled themselves from the liquid—dozens of them. Igigi,
+  but wrong. Their bodies were translucent, threaded with violet circuitry. Their
+  eyes glowed with the same sick light as Node Gamma. They moved in perfect unison,
+  weapons forming from the water itself—blades and spears of solidified corruption.
+signal_type: entity
+source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
+status: captured
+supersedes: null

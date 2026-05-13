@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-3660
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 108
+line_start: 108
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: UNKNOWN
+raw_quote: '"Helix was our greatest calculator," the elderly Igigi said sadly. "They
+  tried to solve the corruption directly. To find the one equation that would negate
+  it entirely."'
+signal_type: entity
+source_file: raw/chapters/book_19_worthy_opponents_north_098_depths_of_memory.md
+status: captured
+supersedes: null

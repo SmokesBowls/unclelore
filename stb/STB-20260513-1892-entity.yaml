@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-1892
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 9
+line_start: 9
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Mika walked beside Geralt, her data-slate glowing softly. Her morning map
+  was a tragedy in topographical lines.
+signal_type: entity
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_043_the_badlands_crucible.md
+status: captured
+supersedes: null

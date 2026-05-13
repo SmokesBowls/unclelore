@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-1920
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 237
+line_start: 237
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Mika, her face smudged with ash, made the call. "Then we hold here! We
+  hit it! We hit it and we keep hitting it until it breaks! Geralt needs time! We
+  BUY it!"
+signal_type: entity
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_043_the_badlands_crucible.md
+status: captured
+supersedes: null

@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-2747
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 311
+line_start: 311
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Zypher gestured to the empty space where the clone had been. "The decoy—Mr.
+  GPT—will serve here. A limited, logical narrative of 'Geralt' that she will find,
+  dissect, and believe concluded. A pacifying fiction. He will run his course and
+  delete himself, a satisfying period at the end of a sentence. While she is reading
+  that closed book, you will be sleeping in the sun's forge."
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+status: captured
+supersedes: null

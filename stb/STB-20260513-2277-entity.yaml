@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-2277
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 102
+line_start: 102
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: “I cannot reverse it.” Luminaire’s voice spoke directly now, the harmonic
+  layer separating from Geralt’s, ringing clear in the air between them. “But I can
+  slow it. The Ghost Spire’s resonance can create a buffer. A tether to the present
+  moment. I can give you years instead of months. Clarity instead of chaos. A single,
+  stable timeline to walk.” She paused, letting the offer hang. “If you help us.”
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
+status: captured
+supersedes: null

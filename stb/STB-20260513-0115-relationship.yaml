@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-0115
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 176
+line_start: 176
+parsed_payload:
+  predicate: created_by
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: Music rose from the valleys—harmonics created by Giants vocalizing in synchronization
+  with Neferati who had learned to shape air itself into instrument. Pyramids resonated,
+  obelisks sang, the Tidecaller mountain hummed its deep ocean-song. Consciousness
+  touched consciousness across the planetary network, creating moments of unity that
+  transcended individual identity.
+signal_type: relationship
+source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+status: captured
+supersedes: null

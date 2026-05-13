@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-0289
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 66
+line_start: 66
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: 'The truth settled in the chamber, as heavy and inescapable as a cave-in.
+  The Anunnaki strategy was now horrifyingly clear: a simultaneous, multi-front assault
+  designed to exploit each tribe''s unique vulnerability and prevent them from uniting.
+  The Sundering they had engineered with lies three millennia ago was now being exploited
+  with overwhelming force.'
+signal_type: entity
+source_file: raw/chapters/book_03_the_reckoning_011_escalation_and_desperation.md
+status: captured
+supersedes: null

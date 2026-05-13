@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-2712
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 167
+line_start: 167
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'Geralt''s Applicator spasmed. A single scorched command remained in its
+  core: **HOLD**. He gripped Kyh''s filaments, feeling them slice through his palms.
+  The pain was startling—real in a way nothing else was.'
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+status: captured
+supersedes: null

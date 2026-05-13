@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0118
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 190
+line_start: 190
+parsed_payload:
+  confidence: medium
+  entity_name: Aeon Keepers
+  entity_type: UNKNOWN
+raw_quote: Seraneth stood among the assembled thousands, feeling the Prime connection
+  pulse with something that might have been pride. The Aeon Keepers could see what
+  had been accomplished, could recognize that their thought-seeds had grown into something
+  worth the sacrifice of entering the Ethereal Realm.
+signal_type: entity
+source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+status: captured
+supersedes: null

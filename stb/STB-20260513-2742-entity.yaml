@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-2742
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 291
+line_start: 291
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'He turned from Geralt and drove his heel down on a specific, almost invisible
+  fault line in the stone. With a grind of protesting rock, a circular vent shaft
+  yawned open at their feet. No lightning erupted from it. Instead, it revealed a
+  sheer drop down a polished obsidian tube, and at its bottom, a sliver of the world
+  outside: a cracked plain under that relentless, bleached-white sky.'
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+status: captured
+supersedes: null

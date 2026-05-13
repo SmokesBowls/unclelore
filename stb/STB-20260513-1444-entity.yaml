@@ -1,0 +1,28 @@
+audit_only: true
+buffer_id: STB-20260513-1444
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 159
+line_start: 159
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: 'The crater floor wasn’t sand. It was fused glass, black and jagged, veined
+  with streaks of sickly, phosphorescent green where lingering chroniton decay bled
+  through. Every step crunched unnervingly. The air hung thick, tasting of ozone and
+  something older, metallic and sour – the psychic tang of final breaths held for
+  three thousand years. Geralt moved cautiously, the applicator mapping residual energy
+  spikes like landmines. He felt the desert’s gaze intensify here, not indifferent
+  now, but watchful, wounded. He remembered the desperate gamble: the stolen leviathan
+  ship, the trap sprung too soon, the gut-wrenching order to crash it, sacrificing
+  half his legion, half a city’s stolen population, to cripple the Anunnaki foothold.
+  The armor, Zaron’s spirit within it, resonated with the memory, a shared pulse of
+  ancient fury and profound regret. *This is where we broke them,* it seemed to whisper.
+  *And broke the world.* He saw phantom flickers at the edge of vision – not Chronohounds,
+  but ghostly outlines of falling structures, screams trapped in the glass. The Heart
+  of Faraxar remembered everything the crash had seared into the land.'
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
+status: captured
+supersedes: null

@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-3069
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 113
+line_start: 113
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: The metaphor resonated with Tran's own experiences with network coordination,
+  though his approach involved understanding and directing systems rather than flowing
+  with forces that transcended control or direction. "And I'm learning coordination,"
+  he responded through their connection, his awareness of network capabilities providing
+  context for his brother's temporal training. "The network isn't just technology—it's
+  alive. Conscious. It wants to help, but it needs someone who can understand its
+  language."
+signal_type: entity
+source_file: raw/chapters/book_12_forged_identity_069_divergent_paths.md
+status: captured
+supersedes: null

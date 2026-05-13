@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-1715
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 103
+line_start: 103
+parsed_payload:
+  confidence: medium
+  entity_name: Void Spire Network
+  entity_type: UNKNOWN
+raw_quote: '"The Queen uses it as a broadcast tower," Luminara confirmed. "Her resonance
+  grafted onto mine, twisting Graviton technology into a weapon. While I remain split—consciousness
+  here, vessel there—she continues to pervert the Void Spire network." The strain
+  in her voice increased. "And I... I suffocate. Slowly. The corruption tightens."'
+signal_type: entity
+source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
+status: captured
+supersedes: null

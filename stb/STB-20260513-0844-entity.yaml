@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-0844
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 299
+line_start: 299
+parsed_payload:
+  confidence: medium
+  entity_name: Aeon Keepers
+  entity_type: UNKNOWN
+raw_quote: '"We seek the Dragon Mail," he said with voice that carried authority despite
+  circumstances. "The armor prepared by the Aeon Keepers. We mean no disrespect to
+  whatever you guard, but—"'
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+status: captured
+supersedes: null

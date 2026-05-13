@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-0146
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 110
+line_start: 110
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: UNKNOWN
+raw_quote: '"Calculations are all we have," Pazuzu replied, though his voice carried
+  none of the authority he''d once possessed as Elder of the Igigi councils. That
+  was before the Anunnaki came. Before their people became livestock.'
+signal_type: entity
+source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+status: captured
+supersedes: null

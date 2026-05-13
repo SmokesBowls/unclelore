@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-0069
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 7
+line_start: 7
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: UNKNOWN
+raw_quote: 'POV / FOCUS: Senareth (Nephoretti Prime), Elyraen, Olythae, Torhh, Unnamed
+  Mountain Giant'
+signal_type: entity
+source_file: raw/chapters/book_01_book_of_genesis_004_the_convergence.md
+status: captured
+supersedes: null

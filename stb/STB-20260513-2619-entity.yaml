@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-2619
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 21
+line_start: 21
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Silence. Then, from the highest bench, a dry chuckle. The eldest sovereign—a
+  being with too many jointed fingers—leaned forward. "We know what you are, Geralt
+  of No House. A spliced soul. A living contradiction."
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
+status: captured
+supersedes: null

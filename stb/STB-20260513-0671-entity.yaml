@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-0671
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 1239
+line_start: 1239
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: The Nameless One raised his hand toward the suspended slaves and felt force
+  extending from his will with intensity that made his previous demonstrations seem
+  like child's play. The golden light holding them shattered like glass under hammer-strike.
+  Freed slaves dropped to the ground, gasping, scrambling away from the Anunnaki's
+  immediate vicinity.
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
+status: captured
+supersedes: null

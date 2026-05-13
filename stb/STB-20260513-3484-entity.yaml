@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3484
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 39
+line_start: 39
+parsed_payload:
+  confidence: medium
+  entity_name: Aeon Keepers
+  entity_type: UNKNOWN
+raw_quote: '"We were his creations," the first Nefretti replied, its voice carrying
+  ancient sadness. "Projections of the Aeon Keepers'' consciousness into the physical
+  realm. When Tiamat shattered, many of us were lost. Those who survived carried the
+  memory of our purpose into this new world."'
+signal_type: entity
+source_file: raw/chapters/book_16_fragmented_beginning_087_the_breath_of_life.md
+status: captured
+supersedes: null

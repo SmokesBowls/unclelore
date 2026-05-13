@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-3649
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 40
+line_start: 40
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: UNKNOWN
+raw_quote: '"I am Zyx-9," the Igigi continued, their form shifting slightly as if
+  their physical presence was just one solution to the equation of existence. "Probability
+  Architect, Third Decimal. And you are... statistically improbable."'
+signal_type: entity
+source_file: raw/chapters/book_19_worthy_opponents_north_098_depths_of_memory.md
+status: captured
+supersedes: null

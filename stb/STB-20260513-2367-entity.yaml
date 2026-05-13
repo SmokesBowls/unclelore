@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-2367
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 278
+line_start: 278
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: · When a tunnel ahead pulsed with the promise of a flash-vent, Geralt would
+  raise the Hydros Crystal. A wave of cold, silent absorption would wash forward,
+  quenching the thermal build-up, leaving the passage dark and brittle but safe.
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_051_arrival_in_fire.md
+status: captured
+supersedes: null

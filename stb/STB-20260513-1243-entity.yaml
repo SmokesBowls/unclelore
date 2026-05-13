@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-1243
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 1018
+line_start: 1018
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: '*Then we burn bright,* Geralt projected with certainty that came from
+  remembering two hundred forty-nine people who universe had forgotten, with determination
+  that honored sacrifice even when sacrifice was denied, with recognition that some
+  statements mattered more than survival. *We prove that even when facing overwhelming
+  superiority, even when attempting impossible theft, even when certain death approaches—*'
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
+status: captured
+supersedes: null

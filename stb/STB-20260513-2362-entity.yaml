@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-2362
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 226
+line_start: 226
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Vaelthane’s gaze returned to Geralt. The scrutiny was intense, personal,
+  and utterly devoid of sentimental fatherly recognition. He was assessing a tool,
+  a variable in the equation of survival.
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_051_arrival_in_fire.md
+status: captured
+supersedes: null

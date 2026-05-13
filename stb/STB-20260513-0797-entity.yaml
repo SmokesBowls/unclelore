@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-0797
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 91
+line_start: 91
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: Oreck processed this, intelligence sharpening behind eyes that had witnessed
+  centuries of Anunnaki occupation, of enforcing tyranny, of choosing redemption only
+  when conscience finally outweighed conditioning.
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+status: captured
+supersedes: null

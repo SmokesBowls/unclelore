@@ -1,0 +1,22 @@
+audit_only: true
+buffer_id: STB-20260513-1591
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 93
+line_start: 93
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: Lyra’s bio-scanner flared crimson. Anunnaki signatures surged—not distant.
+  Converging. "Seven minutes!" she yelled. The sand hardened beneath Geralt’s boots.
+  Silver light bled from cracks, forming a vast sigil—a dragon coiled around a spire.
+  Anchor points. Transit paths. "Formation Rho!" Geralt roared. Legionnaires locked
+  shields. Oreck planted chroniton arrows at each node. Halvar gripped his blade,
+  knuckles white. Torren limped forward, ichor-stained bandage taut. "For Ironspire!"
+  The cry rose. Brittle. Defiant. Sand fused into obsidian beneath them. Static hummed
+  in teeth and bone.
+signal_type: entity
+source_file: raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+status: captured
+supersedes: null

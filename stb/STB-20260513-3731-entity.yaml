@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-3731
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 224
+line_start: 224
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: On the surface, the battle had reached a critical tipping point. Commander
+  Ravana, leading the Vimana Corps from his crystalline lotus, had identified the
+  key threat—the unified Dragon Mail. As long as Tran and Zaron maintained their synthesis,
+  the Earth forces had a rallying point that no amount of conventional warfare could
+  break.
+signal_type: entity
+source_file: raw/chapters/book_19_worthy_opponents_north_102_convergence_on_mars.md
+status: captured
+supersedes: null

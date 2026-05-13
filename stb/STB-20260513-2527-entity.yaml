@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-2527
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 116
+line_start: 116
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt felt no cosmic power from it. No vast consciousness. Only a deep,
+  specific, and intensely physical grievance. This wasn’t a god. It was a forgotten
+  tool, awake and furious at the shoddy workmanship of the new age.
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_055_the_anchors_forge.md
+status: captured
+supersedes: null

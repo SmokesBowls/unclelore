@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-3385
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 204
+line_start: 204
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: Tran removed both fragments, holding them before him. The moment they entered
+  the Grotto's main chamber, they began to glow more intensely, and the crystals lining
+  the walls responded in kind, their light pulsing in the same rhythm.
+signal_type: entity
+source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
+status: captured
+supersedes: null

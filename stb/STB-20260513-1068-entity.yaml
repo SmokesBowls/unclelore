@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-1068
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 51
+line_start: 51
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: '"Not today," Geralt continued. "Probably not tomorrow. But soon. With
+  better preparation. With forces specifically deployed to reclaim what we''ve freed.
+  With authorization to use lethal force against populations they view as property
+  in rebellion."'
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
+status: captured
+supersedes: null

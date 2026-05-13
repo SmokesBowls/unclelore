@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-0210
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 183
+line_start: 183
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: 'In death, its consciousness-touch finally released, and Pazuzu—whose own
+  awareness had been extended for excavation work—felt the echo of everything the
+  Giant had been. Ancient memories of this desert when it was ocean floor. Knowledge
+  of consciousness-communion techniques that put Anunnaki sophistication to shame.
+  And underneath it all, simple, terrible question:'
+signal_type: entity
+source_file: raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
+status: captured
+supersedes: null

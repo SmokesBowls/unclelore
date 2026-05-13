@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0110
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 166
+line_start: 166
+parsed_payload:
+  confidence: medium
+  entity_name: Neferati
+  entity_type: UNKNOWN
+raw_quote: '"We built this," Elyraen said, joining Seraneth on the platform. They
+  had aged in ways that Neferati consciousness shouldn''t age—their bioluminescence
+  dimmed slightly, their movements carrying weight of centuries. "Not just structures.
+  A world. A way of being together that didn''t exist before we fell from the sky."'
+signal_type: entity
+source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+status: captured
+supersedes: null

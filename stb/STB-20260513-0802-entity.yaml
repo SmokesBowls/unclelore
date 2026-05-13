@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-0802
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 109
+line_start: 109
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt laughed—actual sound rather than gesture, expression of joy that
+  felt foreign after lifetime of silence.
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+status: captured
+supersedes: null

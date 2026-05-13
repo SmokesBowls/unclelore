@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0294
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 92
+line_start: 92
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: UNKNOWN
+raw_quote: '"Then they are adrift," Torhh rumbled, a deep pang of recognition flowing
+  through its stone. "As you were. As the Igigi were during the First Coming. Sent
+  to serve a purpose they cannot internalize, holding a weapon they have no innate
+  desire to use."'
+signal_type: entity
+source_file: raw/chapters/book_03_the_reckoning_011_escalation_and_desperation.md
+status: captured
+supersedes: null

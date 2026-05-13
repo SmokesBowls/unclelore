@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-2779
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 435
+line_start: 435
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt flexed his alloy hand, watching the boy’s tiny claw marks fade from
+  the metal. Not repairs. Absorption. The child’s defiance, however fleeting, was
+  now part of his composition. Kyh’s filaments twitched in amusement.
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+status: captured
+supersedes: null

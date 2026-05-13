@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-2737
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 271
+line_start: 271
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: The Five Mikas solidify fully, their forms no longer flickering. They stand
+  in a loose circle, and in their stillness is a verdict. Violet Mika kneels, her
+  cloak pooling around her as she touches the fading equations. "The Queen's erasure
+  is a solvent for narratives," she says softly. "It dissolves ambiguity. It simplifies.
+  This," she gestures to Geralt, to the chaotic, glorious mess of his continued existence,
+  "is insoluble."
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+status: captured
+supersedes: null

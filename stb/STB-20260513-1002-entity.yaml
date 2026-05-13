@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-1002
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 457
+line_start: 457
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: The Anunnaki didn't build walls to keep enemies out. They built them to
+  keep property in.
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+status: captured
+supersedes: null

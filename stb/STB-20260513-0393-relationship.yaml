@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-0393
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 119
+line_start: 119
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: '"This," Torrhen said, wonder evident in his deep voice, "has never happened
+  before. Ice-magic follows ancient patterns, traditional forms inherited from generations
+  of Giants. But this... this is new magic. Mathematics-magic and water-magic creating
+  something that belongs to neither."'
+signal_type: relationship
+source_file: raw/chapters/book_04_sage_saga_018_the_wandering.md
+status: captured
+supersedes: null

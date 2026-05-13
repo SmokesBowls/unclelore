@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-1074
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 125
+line_start: 125
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: And through it all—Geralt moved between divisions, offering tactical advice,
+  demonstrating capabilities armor provided, serving as living proof that individual
+  capability could be developed through practice and partnership rather than simply
+  inherited through genetic advantage.
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
+status: captured
+supersedes: null

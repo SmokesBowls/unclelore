@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-1144
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 219
+line_start: 219
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt channeled everything three synchronized consciousnesses could generate—telekinetic
+  force that imposed form on formless, that created structure where structure shouldn't
+  exist, that made void recognize itself not as natural state but as absence requiring
+  filling.
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
+status: captured
+supersedes: null

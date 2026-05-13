@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-1937
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 411
+line_start: 411
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: The eight survivors of the Red Hand chose to stay. Kael, one-armed, took
+  the Needle access crystal Geralt offered. "We'll guard this place. Make sure the
+  healing takes. Call it… penance."
+signal_type: entity
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_043_the_badlands_crucible.md
+status: captured
+supersedes: null

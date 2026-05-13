@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-0334
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 92
+line_start: 92
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: '"They were Anunnaki constructs," a Mountain Giant countered, its consciousness
+  still compressed by atmospheric extremes. "The Nephilim fulfilled their purpose—eliminating
+  corruption. If the Tidecallers hadn''t been so eager to ally with enemy creations—"'
+signal_type: entity
+source_file: raw/chapters/book_03_the_reckoning_014_convergence.md
+status: captured
+supersedes: null

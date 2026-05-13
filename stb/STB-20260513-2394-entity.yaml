@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-2394
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 159
+line_start: 159
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: “You would have killed a third of the planet?” Geralt’s voice cut through
+  the sterile air.
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_052_entry_without_standing.md
+status: captured
+supersedes: null

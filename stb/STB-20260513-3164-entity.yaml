@@ -1,0 +1,22 @@
+audit_only: true
+buffer_id: STB-20260513-3164
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 5
+line_start: 5
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: In the depths of space, where starlight bent around gravitational wells
+  that defied conventional physics, the Anunnaki flagship Nibiru's Crown hung like
+  a bleeding star against the void. Its crystalline spires cut through the darkness
+  with geometries that hurt to perceive directly, their surfaces reflecting light
+  that hadn't originated from any known stellar source. The massive vessel was less
+  ship than mobile fortress-world, its bio-mechanical architecture pulsing with the
+  rhythm of technologies that merged consciousness with matter in ways that transcended
+  purely mechanical engineering.
+signal_type: entity
+source_file: raw/chapters/book_15_legends_and_gods_078_the_queens_return.md
+status: captured
+supersedes: null

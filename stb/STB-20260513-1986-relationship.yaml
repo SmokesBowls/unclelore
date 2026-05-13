@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-1986
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 286
+line_start: 286
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: Geralt looked from her fading outline to the monstrous spire below, then
+  to the faces of his people—Kael’s grim resolve, Elara’s tear-streaked determination,
+  Zaron’s solemn scholarly acceptance. They were all part of the equation now. “We’ll
+  be at the rim,” he said.
+signal_type: relationship
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_044_the_mountains_shadow.md
+status: captured
+supersedes: null

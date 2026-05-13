@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-2642
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 109
+line_start: 109
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Kyh's laughter cut through the silence—a fractured, wet sound that didn't
+  match her silver-stitched shadow. Her fingers traced glyphs in the air only she
+  could see. "The windless paths," she murmured to no one, then startled when Geralt's
+  gauntlet landed on her shoulder. The contact made her edges ripple like disturbed
+  ink.
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
+status: captured
+supersedes: null

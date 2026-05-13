@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-2532
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 133
+line_start: 133
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: “A foundation,” Geralt replied, the numbness in his voice allowing for
+  no argument. “And we are about to build on very shaky ground.”
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_055_the_anchors_forge.md
+status: captured
+supersedes: null

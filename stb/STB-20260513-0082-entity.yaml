@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-0082
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 120
+line_start: 120
+parsed_payload:
+  confidence: medium
+  entity_name: Neferati
+  entity_type: UNKNOWN
+raw_quote: And now, ten thousand years later, the Pelagor's descendants looked at
+  Neferati and felt instinctive terror despite being forty feet tall and composed
+  of living stone.
+signal_type: entity
+source_file: raw/chapters/book_01_book_of_genesis_004_the_convergence.md
+status: captured
+supersedes: null

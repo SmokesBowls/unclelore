@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-3739
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 278
+line_start: 278
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: Xerion took longest to comprehend, but  when they did, their contribution
+  was perhaps most powerful. They began to reshape their own corruption—not purifying
+  it, but accepting it as part of their story. The prisoner who had become the freed.
+  The broken who had chosen wholeness.
+signal_type: relationship
+source_file: raw/chapters/book_19_worthy_opponents_north_102_convergence_on_mars.md
+status: captured
+supersedes: null

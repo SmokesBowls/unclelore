@@ -1,0 +1,24 @@
+audit_only: true
+buffer_id: STB-20260513-1453
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 5
+line_start: 5
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Oreck fell into step beside Mika, his voice low. "They didn’t arrive *with*
+  us, Mika. They bled *into* us. From *when*? From *where*?" He gestured at the Tower.
+  "That place bends time. Geralt… he went *back*. To save them." Mika frowned, struggling
+  with the concept. "But they’re here. Saved. So why isn’t *he*?" She recalled the
+  fleeting glimpse in the bleed – Geralt, straining against impossible currents, his
+  face etched with despair. "I saw him, Oreck. In the… the distortion. He was fighting,
+  pouring everything out. Then… nothing. He didn’t come through." The implication
+  hung heavy between them. If the warriors were ripped from oblivion back to *now*,
+  but Geralt remained lost… Mika’s voice dropped to a whisper. "He succeeded… but
+  failed himself?"
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
+status: captured
+supersedes: null

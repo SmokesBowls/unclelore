@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-2306
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 334
+line_start: 334
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'Geralt looked at his companions: Oreck, solid and unyielding; Vek''tar,
+  fractured but trying to prove his worth; Luminaire, a ghost of herself. He thought
+  of the Sovereign''s lie, of the Shard''s power, of the network hanging on the brink.'
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
+status: captured
+supersedes: null

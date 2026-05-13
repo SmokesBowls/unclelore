@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-1159
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 370
+line_start: 370
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: As they approached the boundary, as guards recognized their arrival and
+  began calling alerts, Geralt felt something fundamental shift in his awareness.
+  Recognition clicking into place with horrible certainty.
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
+status: captured
+supersedes: null

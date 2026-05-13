@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-0092
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 46
+line_start: 46
+parsed_payload:
+  confidence: medium
+  entity_name: Neferati
+  entity_type: UNKNOWN
+raw_quote: Not music exactly. More like sustained harmonic that made other stones
+  nearby vibrate in sympathy. Neferati discovered that standing near the obelisk while
+  practicing vrill-manipulation made their consciousness-touch more precise, more
+  responsive. The geometry itself seemed to focus intention, amplifying what was already
+  present without adding external power.
+signal_type: entity
+source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+status: captured
+supersedes: null

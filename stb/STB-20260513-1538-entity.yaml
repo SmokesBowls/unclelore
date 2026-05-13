@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-1538
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 53
+line_start: 53
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'Oreck shifted silently, a low growl vibrating his armored chest. His chroniton-flecked
+  amber eyes tracked the glyph Geralt drew. The faint green arrows along his greaves
+  flared briefly, pointing northwest. *Towards Luminaire.* He understood the hunt’s
+  heart now: not just destruction, but restoration. Reclaiming a fractured song before
+  the Queen corrupted it into a scream.'
+signal_type: entity
+source_file: raw/chapters/book_07_light_resonance_and_the_function_037_the_circle_of_progress.md
+status: captured
+supersedes: null

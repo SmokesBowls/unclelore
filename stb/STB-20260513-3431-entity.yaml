@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3431
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 163
+line_start: 163
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: '"There may be another way," Gaiana said thoughtfully, clearly relaying
+  Mr. GPT''s communication. "Mr. GPT has contacts in Ironspire—scholars who have preserved
+  knowledge of the Star Needles since the last Anunnaki departure. He can send word
+  to them, arrange a meeting point further north."'
+signal_type: entity
+source_file: raw/chapters/book_16_fragmented_beginning_084_earth_giants_and_diverging_paths.md
+status: captured
+supersedes: null

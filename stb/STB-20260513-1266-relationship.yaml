@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-1266
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 459
+line_start: 459
+parsed_payload:
+  predicate: serves
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: '"You served him in life," Zephyr murmured to the bodies. "Perhaps you''ll
+  serve something greater in death. But first... the tower. First, the working."'
+signal_type: relationship
+source_file: raw/chapters/book_06_the_ragnarok_031_the_crash_site.md
+status: captured
+supersedes: null

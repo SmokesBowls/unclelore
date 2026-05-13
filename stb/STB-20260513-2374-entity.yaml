@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-2374
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 385
+line_start: 385
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Luminaire's presence warmed in Geralt's mind, weary but satisfied. "The
+  Spire is stable. Returning to managed dormancy. The war above continues, but Pyroclast…
+  Pyroclast will not die today."
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_051_arrival_in_fire.md
+status: captured
+supersedes: null

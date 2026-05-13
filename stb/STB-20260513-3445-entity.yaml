@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-3445
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 77
+line_start: 77
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: '"These patterns," she said, kneeling to examine them more closely. "They
+  match fragments I found in a text called ''The Harmonization of Realms.'' It described
+  how the Anunnaki created networks to channel energy across vast distances."'
+signal_type: entity
+source_file: raw/chapters/book_16_fragmented_beginning_085_ancient_knowledge.md
+status: captured
+supersedes: null

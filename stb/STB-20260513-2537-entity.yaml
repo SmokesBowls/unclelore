@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-2537
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 176
+line_start: 176
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: The walk across the tether was a journey through a nightmare. The psychic
+  residue of agony buzzed in their teeth. They passed slaves, their eyes vacant, their
+  mouths moving in silent prayers. Geralt marked them as soft nodes—their fate could
+  be changed. He absorbed the cascade of that hope, holding it as a knot of tension
+  in his gut.
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_055_the_anchors_forge.md
+status: captured
+supersedes: null

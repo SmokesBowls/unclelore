@@ -1,0 +1,28 @@
+audit_only: true
+buffer_id: STB-20260513-1475
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 51
+line_start: 51
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt set his cup down. The dragon armor pulsed faintly, reacting to the
+  mountain’s proximity and the Giants’ unseen gaze. "I need their knowledge," he stated
+  flatly. "The Needle Spires. Accessing the Akashic records." A ripple of surprise
+  went through the small group. Sella stared at him. "The Spires? They're... buried.
+  Lost." Geralt met her gaze. "One isn't. Buried, yes. But not lost. The Giants guard
+  it. I need to configure it." He felt the applicator stir, analyzing pathways. "To
+  find an army." Silence fell, thick with unspoken questions and the crackle of the
+  fire. Sella leaned back, her scarred face thoughtful in the flickering light. "The
+  path is treacherous," she finally said. "The Giants watch. And worse things crawl
+  near their peaks." She glanced at her companions, a silent agreement passing between
+  them. "We know the lower slopes. We'll take you as far as the Whispering Stone.
+  Beyond that..." She shrugged. "You face the Giants alone." The offer was simple,
+  born of loyalty forged in chains. Geralt inclined his head. "Thank you, Sella."
+  Tomorrow, the ascent would begin. The mountain waited.
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
+status: captured
+supersedes: null

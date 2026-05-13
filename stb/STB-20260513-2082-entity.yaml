@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-2082
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 243
+line_start: 243
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt fought toward the main gate, now a beacon. A shock trooper leveled
+  a heavy plasma cannon at him. Geralt dropped into a slide, the wings flaring out
+  to either side, acting as stabilizers and shields. Bolts sizzled over his head.
+  He came up inside the trooper’s guard, his armored fist driven by the dragon’s strength
+  punching straight through the powered chest plate.
+signal_type: entity
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_046_not_like_this.md
+status: captured
+supersedes: null

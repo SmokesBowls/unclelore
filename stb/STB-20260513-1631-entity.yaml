@@ -1,0 +1,23 @@
+audit_only: true
+buffer_id: STB-20260513-1631
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 53
+line_start: 53
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'The jungle’s whispers thickened as twilight bled into deep violet gloom.
+  Halvar’s knuckles whitened around his axe handle; every rustling leaf echoed with
+  his brother’s dying gasps from Mars. "We stop *here*," Geralt commanded, slicing
+  through the mental fog with Luminara’s flickering gold light. The clearing was a
+  trap—vines coiled like sleeping serpents, obelisks humming with inverted resonance—but
+  exhaustion outweighed caution. Legionnaires collapsed against petrified logs, eyes
+  darting at shifting shadows. Ren’s hand trembled near his blade. "They’ll slit our
+  throats while we sleep," he muttered. The vine above him sighed back: "*Sleep is
+  surrender.*"'
+signal_type: entity
+source_file: raw/chapters/book_07_light_resonance_and_the_function_039_jungle_fever.md
+status: captured
+supersedes: null

@@ -1,0 +1,30 @@
+audit_only: true
+buffer_id: STB-20260513-1561
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 21
+line_start: 21
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Water lapped at crumbling steps. Chroniton arrows on Oreck’s greaves cast
+  jade fractals over algae-slick walls. Silence choked the passage—not the desert’s
+  stillness, but the swamp’s heavy, listening quiet. Only the rhythmic drip of condensation
+  pierced it. Geralt moved like shadow given form, Zaron’s spirit coiled taut within
+  the armor, sensing dimensional fractures. A legionnaire’s boot slipped on wet stone.
+  Mika’s hand snapped out, steadying him. "Three seconds," she hissed. "Scan your
+  footing." Lyra’s filaments pulsed cyan, mapping the unstable geometry. "Resonance
+  spikes ahead," she whispered, voice tight. "Micro-voids. Unstable." The corridor
+  widened abruptly into a cavernous cistern. At its heart, rising from black water,
+  stood the Void Spire—a needle of pure obsidian humming with trapped thunder. Above
+  it, refracted through murk, the Buried Luminaire’s crystalline core glowed… but
+  its light was sickly, threaded with veins of deep violet corruption. The Queen’s
+  touch. Geralt’s fist clenched. "Prime Keeper’s shard. Under siege." Oreck’s growl
+  vibrated the air. "Anchor point… compromised." The water rippled. Shapes coalesced
+  in the gloom—pale, multi-limbed, drawn by the dissonant light. Guardians twisted.
+  Or hungry things.
+signal_type: entity
+source_file: raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+status: captured
+supersedes: null

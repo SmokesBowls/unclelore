@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-2338
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 64
+line_start: 64
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt and Oreck joined the line. Oreck's cleaver met Anunnaki alloy with
+  showers of sparks. Geralt's armor tanked searing energy blasts, the plates glowing
+  cherry-red. They fought alongside aliens, a coordinated pocket of chaos in a sea
+  of madness. It was ugly, efficient, and desperate.
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_051_arrival_in_fire.md
+status: captured
+supersedes: null

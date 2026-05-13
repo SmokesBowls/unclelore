@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-2707
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 147
+line_start: 147
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Zypher snapped his fingers—a sound like vertebrae popping—and the chamber's
+  floor vanished. They stood suddenly suspended above an abyss where time coiled upon
+  itself in spirals, each loop a noose waiting for weight. "The Queen's erasure is
+  meticulous," the sage murmured. "But even she cannot unmake what was never *made*."
+  His vortex eyes fixed on Geralt's chest. "Your fractures are paradoxes. Wounds that
+  remember being whole."
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+status: captured
+supersedes: null

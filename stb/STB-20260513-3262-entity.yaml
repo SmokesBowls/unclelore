@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3262
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 104
+line_start: 104
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: '"One node in a vast network," Green Mika interrupted, stomping their foot.
+  The ground vibrated, and for a moment, Tran could sense through the water channels—not
+  just the local passages, but lines extending far beyond Sundrift, beyond Ironspire,
+  reaching to distant lands he''d never seen.'
+signal_type: entity
+source_file: raw/chapters/book_15_legends_and_gods_080_the_whispers_between_worlds.md
+status: captured
+supersedes: null

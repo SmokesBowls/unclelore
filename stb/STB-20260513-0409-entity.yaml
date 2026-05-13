@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0409
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 156
+line_start: 156
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: '"Anunnaki probe," Torrhen confirmed, his geological wisdom touching currents
+  of planetary memory that preserved quantum impressions of similar events. "The sky-devourers
+  test readiness for large-scale harvest. Reality-distortion patterns match those
+  preceding the Culling, but amplified beyond previous parameters."'
+signal_type: entity
+source_file: raw/chapters/book_04_sage_saga_020_the_collapse.md
+status: captured
+supersedes: null

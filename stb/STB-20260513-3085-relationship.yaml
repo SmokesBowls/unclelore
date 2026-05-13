@@ -1,0 +1,23 @@
+audit_only: true
+buffer_id: STB-20260513-3085
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 192
+line_start: 192
+parsed_payload:
+  predicate: serves
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: The overall effect was deeply disorienting, creating an environment where
+  normal assumptions about the reliability of sensory perception were challenged by
+  evidence that reality itself was being manipulated by forces that could alter fundamental
+  properties of matter and energy in ways that served purposes completely alien to
+  human understanding. The deeper they penetrated into the temple complex, the more
+  evident it became that they were entering territory where different rules applied
+  and conventional approaches to problem-solving might prove not just inadequate but
+  actively counterproductive.
+signal_type: relationship
+source_file: raw/chapters/book_12_forged_identity_070_spheres_truth.md
+status: captured
+supersedes: null

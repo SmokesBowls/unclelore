@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-2804
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 117
+line_start: 117
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: No—not a star. A convergence. Five distinct signatures, now powerful, now
+  unified, moving with purpose. They have left Earth. They are crossing the void.
+  Thang’s solar essence is a beacon, a song I haven’t heard in decades. Keen’s lunar
+  clarity charts a path. Rongtai’s shadows hide them from the void’s predators. Tran
+  and Viên provide the bedrock, the unshakeable why.
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_059_eyes_of_eternity.md
+status: captured
+supersedes: null

@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-0070
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 24
+line_start: 24
+parsed_payload:
+  confidence: medium
+  entity_name: Neferati
+  entity_type: UNKNOWN
+raw_quote: Vairis was already organizing defensive positions—not that the Neferati
+  had any real defense against beings that could crush them accidentally, but the
+  instinct to prepare ran deep. "How many?"
+signal_type: entity
+source_file: raw/chapters/book_01_book_of_genesis_004_the_convergence.md
+status: captured
+supersedes: null

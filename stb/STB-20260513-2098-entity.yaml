@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-2098
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 341
+line_start: 341
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt screamed, not in pain, but in profound, terrifying disorientation.
+  He knew he had done something momentous, but the why was gone. The faces of the
+  legionnaires who died for him were blurred smudges. The weight of the sacrifice
+  lifted, leaving a terrifying, hollow freedom. Who was he without that burden?
+signal_type: entity
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_046_not_like_this.md
+status: captured
+supersedes: null

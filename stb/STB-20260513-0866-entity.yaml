@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0866
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 517
+line_start: 517
+parsed_payload:
+  confidence: medium
+  entity_name: Nehereti
+  entity_type: UNKNOWN
+raw_quote: Bioluminescence gave way to different light—crystalline growths that resonated
+  with frequencies suggesting consciousness rather than simple chemical reaction.
+  The Nehereti's work, perhaps. Or something older still. Technology that predated
+  distinction between organic and mechanical, between living and constructed.
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+status: captured
+supersedes: null

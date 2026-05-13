@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-2728
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 219
+line_start: 219
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'Zypher''s laughter was the sound of a scalpel dropped on tile. "Now you
+  see." He stepped back as the clone reached for Geralt, its flawless fingers brushing
+  his corroded ones. Contact sparked a harmonic—the same frequency that had shattered
+  the guild''s third ring. The chamber''s inverted geometry resonated, and for one
+  terrible moment, Geralt saw himself through the Queen''s eyes: a living paradox,
+  a story too contradictory to erase.'
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+status: captured
+supersedes: null

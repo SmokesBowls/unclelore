@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-0635
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 428
+line_start: 428
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: Three days of blessed freedom where The Nameless One remained himself.
+  He taught gesture-language with the scarred one, refined communication systems,
+  organized the freed slaves into groups that could work together with increasing
+  sophistication. They created food distribution networks. Established watch rotations
+  to monitor the single Anunnaki on his distant platform. Began discussing—through
+  increasingly complex gesture-combinations—what true freedom might look like beyond
+  these walls.
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
+status: captured
+supersedes: null

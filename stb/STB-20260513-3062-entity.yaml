@@ -1,0 +1,23 @@
+audit_only: true
+buffer_id: STB-20260513-3062
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 93
+line_start: 93
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: The reference to "Fifth Coming" carried implications that caused Tran's
+  consciousness to recoil slightly from the magnitude and significance of events that
+  were apparently approaching according to schedules and timelines that operated on
+  scales encompassing not only planetary activity but cosmic forces and cycles that
+  determined the fate of civilizations across multiple star systems. The details remained
+  frustratingly vague, beyond his current level of clearance or development, but the
+  urgency and priority assigned to network preparation suggested that the time available
+  for gradual development and careful training was far more limited than had originally
+  been anticipated.
+signal_type: entity
+source_file: raw/chapters/book_12_forged_identity_069_divergent_paths.md
+status: captured
+supersedes: null

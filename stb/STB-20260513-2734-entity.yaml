@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-2734
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 259
+line_start: 259
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: The clone's dissolution leaves the chamber vibrating with a profound silence,
+  thick with the dust of shattered certainties. Equations bleed from the severed neck,
+  seeping into the stone floor where they writhe and fade like dying phosphorescence.
+  Geralt stands over the corpse of his own perfection, his corroded fist still crackling
+  with the afterglow of Vaelthane's stolen roar. The Dragon Mail's divinity thrums
+  within his alloy bones, no longer a graft but a fused, furious core.
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+status: captured
+supersedes: null

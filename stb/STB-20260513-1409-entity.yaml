@@ -1,0 +1,25 @@
+audit_only: true
+buffer_id: STB-20260513-1409
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 67
+line_start: 67
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: '"Your symbiosis grows," Kaelen stated flatly as Geralt rejoined her on
+  the plateau. Her galactic eyes scanned the valley below, pinpointing a ripple of
+  unnatural stillness near a collapsed obsidian archway. "The locus fracture we sealed
+  was minor. That," she gestured towards the arch, "is a major arterial wound. Xal''Zirith’s
+  passage scarred reality itself. Its echo resonates there, weak but persistent. It
+  draws power from the lingering instability." Geralt frowned. "An echo? Like the
+  unmade?" Kaelen shook her head sharply. "No. This is a psychic imprint, a stain
+  left by its presence. But even stains can fester. Left unchecked, it could seed
+  new paradoxes or attract worse scavengers." She turned to him. "You must purge it.
+  Not with force, but with resonance. Your tripartite harmony – applicator, armor,
+  will – must resonate *against* its frequency. Cancel it out."'
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
+status: captured
+supersedes: null

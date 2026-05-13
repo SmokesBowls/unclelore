@@ -1,0 +1,22 @@
+audit_only: true
+buffer_id: STB-20260513-2684
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 13
+line_start: 13
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Kyh's fingers twitched in midair as they approached the iridescent river,
+  sketching invisible geometries only she could see. Her lips moved soundlessly—not
+  in prayer, but in argument, her shadow flickering in time with some internal debate
+  Geralt wasn't privy to. He watched the way her silver threads coiled tighter around
+  her wrists like self-imposed shackles, how her pupils dilated and contracted at
+  intervals that didn't match the ambient light. Strange behavior, yes, but no stranger
+  than the way she'd taken to vanishing for hours only to reappear smelling of ozone
+  and old books, her shadow stuttering like damaged film.
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+status: captured
+supersedes: null

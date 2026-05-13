@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3231
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 447
+line_start: 447
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: '"Then we find out how quickly the Guild can mobilize for a conflict that
+  none of us are really prepared for," Tran replied grimly, understanding that their
+  diplomatic mission would determine whether the Guild could operate within conventional
+  political frameworks or would be forced into open opposition to established authorities.'
+signal_type: entity
+source_file: raw/chapters/book_15_legends_and_gods_079_mages_awakening.md
+status: captured
+supersedes: null

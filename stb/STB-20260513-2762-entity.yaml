@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-2762
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 369
+line_start: 369
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Kulla lumbered to the alcove, his clay fingers kneading the air around
+  the clone's shoulders like assessing dough. "Bad copy," he muttered. "No cracks."
+  With a sudden, violent twist, he wrenched the clone's left arm backward until the
+  joint popped. The clone didn't scream. It blinked, processing the damage, then smiled—a
+  perfect mirror of Geralt's feral grin.
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+status: captured
+supersedes: null

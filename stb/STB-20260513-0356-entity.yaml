@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-0356
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 20
+line_start: 20
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: Around the chamber, the soft glow of Igigi consciousness pulsed in rhythm
+  with collective anguish. They had been creators, shapers of reality itself. The
+  Great Work—the cosmic project of seeding consciousness throughout the galaxy—had
+  been their purpose, their meaning, their identity. Now they cowered in underground
+  chambers, their numbers dwindling with each passing cycle as the Anunnaki selected
+  the most gifted among them for... processing.
+signal_type: entity
+source_file: raw/chapters/book_04_sage_saga_016_the_choice_third_coming.md
+status: captured
+supersedes: null

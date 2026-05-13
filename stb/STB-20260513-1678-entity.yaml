@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-1678
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 13
+line_start: 13
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'Oreck slammed his cleaver into the glass. Green fire traced Mars’ coordinates.
+  "She holds the gateway. We walk it." Geralt flexed his new hand. Zaron’s presence
+  lingered—dimmer, fused. Dragon and keeper. Anchor and storm. Luminara’s final warning
+  echoed: *"They hunt keepers. They hunt me."* The dunes shimmered. Not with heat.
+  With transit signatures. Mika loaded her lance. "Then we hunt first." Five hundred
+  souls readied weapons. Above, Earth’s spire pulsed gold. The Dragon Nebula watched.
+  Judgment had come.'
+signal_type: entity
+source_file: raw/chapters/book_07_light_resonance_and_the_function_040_the_dragon_wars.md
+status: captured
+supersedes: null

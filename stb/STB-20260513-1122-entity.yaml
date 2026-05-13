@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-1122
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 480
+line_start: 480
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: '"We have maybe one month. Possibly less. Before forces arrive that will
+  make Sath''rak seem gentle by comparison. Before Anunnaki return with military rather
+  than enforcement. Before Federation authorizes orbital bombardment rather than ground
+  reclamation."'
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
+status: captured
+supersedes: null

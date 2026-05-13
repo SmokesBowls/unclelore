@@ -1,0 +1,22 @@
+audit_only: true
+buffer_id: STB-20260513-3450
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 133
+line_start: 133
+parsed_payload:
+  predicate: created_by
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: '"Yes," Mr. GPT nodded, his attention shifting to new displays that showed
+  massive, humanoid forms composed of pure energy. "The Nephilim—constructs of pure
+  vril created by the Aeon Keepers to defend the physical realm when they could not
+  leave the Library." His damaged hands moved through the information streams, revealing
+  images of Giants from different regions, each bearing distinctive features. "But
+  to summon them requires the unity of the Giant tribes—a unity that was shattered
+  during the Sundering."'
+signal_type: relationship
+source_file: raw/chapters/book_16_fragmented_beginning_085_ancient_knowledge.md
+status: captured
+supersedes: null

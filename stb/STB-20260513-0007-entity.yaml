@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-0007
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 86
+line_start: 86
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: UNKNOWN
+raw_quote: '"It''s been three thousand years since we''ve created Nephoretti," Korath
+  cautioned. "The process requires precise thought-crafting, perfect synchronization
+  between our consciousness and the vrill flow. And once manifested, they cannot be
+  easily recalled. They would need to establish themselves on the physical plane,
+  build relationships with these transformed Pelagor, create civilization from nothing."'
+signal_type: entity
+source_file: raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
+status: captured
+supersedes: null

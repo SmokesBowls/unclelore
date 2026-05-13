@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-0694
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 1405
+line_start: 1405
+parsed_payload:
+  predicate: serves
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: They tumbled together, Reptilian and Anunnaki, two beings who'd served
+  the same masters finding themselves on opposite sides of conflict neither had anticipated.
+signal_type: relationship
+source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
+status: captured
+supersedes: null

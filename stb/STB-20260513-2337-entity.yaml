@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-2337
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 56
+line_start: 56
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: Aelxion brought them down behind an Arcturian energy-ward—a shimmering
+  dome of blue light holding against a tide of Anunnaki constructs. Inside, a Lyrian
+  commander with skin like polished oak coordinated her blade-dancers with an Arcturian
+  whose form flickered with contained starlight.
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_051_arrival_in_fire.md
+status: captured
+supersedes: null

@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-1104
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 336
+line_start: 336
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: '*Then let''s show him what synchronized consciousness can do,* Geralt
+  projected—and through their unified awareness, channeled power that three separate
+  beings couldn''t have accessed.'
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
+status: captured
+supersedes: null

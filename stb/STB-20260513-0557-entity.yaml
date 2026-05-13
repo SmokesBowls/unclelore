@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-0557
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 24
+line_start: 24
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: All around, scattered across the vast chamber floor, dozens of other figures
+  stirred. Dozens of other Nameless Ones awakening to the same sensory assault, the
+  same disorienting flood of existence without preparation. Some moaned—low, animal
+  sounds of confusion and distress. Others simply trembled, overwhelmed. A few, like
+  the one who would later be called Geralt, remained silent, struggling to process,
+  to catalog, to understand.
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_024_the_first_spark.md
+status: captured
+supersedes: null

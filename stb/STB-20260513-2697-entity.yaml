@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-2697
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 65
+line_start: 65
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: The Five Mikas phased ahead, their forms bleeding color into the stone.
+  Geralt followed, his numbness now threaded with something colder—the certainty that
+  Zypher's curiosity was merely the prelude to surgery without anesthesia.
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+status: captured
+supersedes: null

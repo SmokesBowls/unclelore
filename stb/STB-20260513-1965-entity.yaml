@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-1965
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 152
+line_start: 152
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt just nodded, wiping his blade. The real fight, he understood, was
+  no longer against monsters. It was against the creeping sense that he was becoming
+  a superlative instrument—a living, breathing, perfectly tuned component in Luminaire’s
+  survival plan. The fear was there, but it was in its chamber, observed, noted. It
+  did not control him.
+signal_type: entity
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_044_the_mountains_shadow.md
+status: captured
+supersedes: null

@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-3826
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 545
+line_start: 545
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: The watchers grew accustomed to them. The shapes became part of the night,
+  as constant as the stars, as predictable as the pulse. Vine’s crystal chain grew
+  long, each night’s observation a new link, each link slightly different from the
+  one before.
+signal_type: relationship
+source_file: raw/chapters/book_20_the_discordant_pulse_south_105_garden_grove.md
+status: captured
+supersedes: null

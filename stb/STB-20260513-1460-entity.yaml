@@ -1,0 +1,28 @@
+audit_only: true
+buffer_id: STB-20260513-1460
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 21
+line_start: 21
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'It yielded like cold, thick oil. Mika plunged through, followed instantly
+  by Oreck, Dren, and the wiry scout, Kael. Behind them, the army watched, frozen,
+  as the mirror swallowed their commanders. The transition was instantaneous. One
+  moment, the sterile obsidian chamber; the next, the desolate courtyard under that
+  bruised, turbulent sky. The air crackled with latent energy, humming against Mika''s
+  teeth. Zypher stood before them, calm as deep water. He inclined his head slightly.
+  "Commander Mika. Oreck." His eyes lingered on Dren, a flicker of recognition – or
+  perhaps sorrow – before settling back on Mika. "You demand explanation. Suffice
+  it to say, Geralt is my friend. I commune with the Aeon Keepers through the Nephrati.
+  They foresaw Geralt''s strength. I was there when the Council gifted him the armor."
+  His voice was low, resonant, carrying effortlessly over the ambient hum. "Finding
+  his five loyal followers confirmed what I feared: Geralt wasn''t with them. He''d
+  already sacrificed himself to the temporal breach. So I saved what I could. I brought
+  them *here*."'
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
+status: captured
+supersedes: null

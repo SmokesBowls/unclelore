@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-3035
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 155
+line_start: 155
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: '"The Star Needle," Tran said as understanding flooded through him regarding
+  the role that his first contact with the ancient structure had played in triggering
+  the awakening process.'
+signal_type: entity
+source_file: raw/chapters/book_12_forged_identity_068_brotherhood_revealed.md
+status: captured
+supersedes: null

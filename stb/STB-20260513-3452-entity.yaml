@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-3452
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 194
+line_start: 194
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: '"Their arcs remain incomplete. Tran wrestles with inheritance. Thang burns
+  with a flame he has yet to name. Veín walks unmoored between deaths. Rongtai...
+  shadows that which cannot be bound."'
+signal_type: entity
+source_file: raw/chapters/book_16_fragmented_beginning_085_ancient_knowledge.md
+status: captured
+supersedes: null

@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-1644
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 106
+line_start: 106
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: It started where Oreck’s chroniton arrow had struck—a low, dissonant hum
+  vibrating through the scout’s corpse. The gold-green veins pulsed like infected
+  lightning, spreading through petrified wood and moss-slick stone. Where the Legion
+  stood, the ground trembled—not in threat, but in terrible imitation. Vines uncoiled,
+  lifting toward the canopy as if conducting an unseen orchestra. The notes tasted
+  of copper and spoiled honey on Geralt’s tongue.
+signal_type: entity
+source_file: raw/chapters/book_07_light_resonance_and_the_function_039_jungle_fever.md
+status: captured
+supersedes: null

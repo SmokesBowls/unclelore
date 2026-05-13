@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-0019
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 118
+line_start: 118
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: UNKNOWN
+raw_quote: Lyaris considered this carefully. On Tiamat, the Nephoretti had served
+  as extensions of the Aeon Keepers' will—helpers, assistants, intermediaries between
+  ethereal consciousness and physical reality. But that relationship had been built
+  on proximity. The Aeon Keepers had walked among them in physical form, had provided
+  direct guidance and immediate correction.
+signal_type: entity
+source_file: raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
+status: captured
+supersedes: null

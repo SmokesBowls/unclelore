@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-2121
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 49
+line_start: 49
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: They left at dawn, passing through Ironspire's gates and making the short
+  trek to the nearby Star Needle Spire. It stood where Geralt had first returned from
+  the Nexus, humming softly. From there, they picked up an old, faint trail leading
+  north and east, into the rocky foothills.
+signal_type: entity
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_047_mika.md
+status: captured
+supersedes: null

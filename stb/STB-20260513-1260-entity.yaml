@@ -1,0 +1,15 @@
+audit_only: true
+buffer_id: STB-20260513-1260
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 203
+line_start: 203
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: Not guards. Not slavers. Not Anunnaki security.
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_031_the_crash_site.md
+status: captured
+supersedes: null

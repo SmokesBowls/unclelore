@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-1707
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 59
+line_start: 59
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt's mouth moved, but the voice was layered—his timbre beneath, and
+  something else woven through it. Not quite mechanical. Not quite alive. Pure function
+  given the shape of sound.
+signal_type: entity
+source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
+status: captured
+supersedes: null

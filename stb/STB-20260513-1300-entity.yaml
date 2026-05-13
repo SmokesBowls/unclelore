@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-1300
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 10
+line_start: 10
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: She could feel their doubt like a physical weight. And why wouldn't they
+  doubt? Geralt was gone—transported somewhere by the Needle's malfunction, location
+  unknown, status uncertain. Their legendary leader, the man who'd reshaped continents
+  with his will and magic, had simply... vanished. Leaving her.
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_033_the_march.md
+status: captured
+supersedes: null

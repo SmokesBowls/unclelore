@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-2635
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 81
+line_start: 81
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt didn't walk to the lunar surface—he *thought* it into being beneath
+  his boots, the regolith rearranging itself like a dreamer shifting blankets. The
+  Guild's network thrummed in his marrow now, its pathways obeying the weight of his
+  intention before his neurons finished firing. He exhaled, and the sprawl's neon
+  arteries dimmed behind him. Somewhere in the underbelly markets, Oreck would be
+  tasting copper on his tongue, feeling the pull like a fishhook in his ribs.
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
+status: captured
+supersedes: null

@@ -1,0 +1,28 @@
+audit_only: true
+buffer_id: STB-20260513-1566
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 37
+line_start: 37
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'The shaft opened. A cathedral-sized dome unfolded—stalactites hung like
+  shattered chandeliers, wrapped in crystalline filaments humming with trapped resonance.
+  Water pooled ankle-deep, hiding razor-edged mineral ridges. Geralt motioned: halt.
+  Sound here wasn''t trust. Corporal Vess’s whisper echoed back seconds later—*"Watch
+  the—"*—overlapping her own caution. Auditory ghosts. Hallucinations whispered commands
+  Mika never gave. Legionnaire Ren spun, shock-lance raised toward empty darkness.
+  "Who’s there?" Oreck’s amber gaze scanned the vaulted ceiling. Translucent shapes
+  clung there—blind, choral fauna, spider-limbed and thin as paper. Harmonic pulses
+  rippled across their bodies. A dropped power-cell clanged. Instantly, the creatures
+  *stirred*. Legs unfolding in eerie silence. They flowed down stalactites like liquid
+  shadow, drawn to the sound’s epicenter. Mika’s hand signal was sharp: *Absolute
+  silence.* Survival demanded it. Move slow. Step careful. Trust nothing your ears
+  say. The fauna settled. Waiting. Every scrape of boot, every rasp of breath, risked
+  awakening the choir.'
+signal_type: entity
+source_file: raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+status: captured
+supersedes: null

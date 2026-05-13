@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-3577
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 196
+line_start: 196
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: '"Because knowledge is power | Power attracts hunters | Hunters serve the
+  Queen." Khal-Zur''s eyes dimmed slightly. "The Anunnaki Queen has sought Zaryon''s
+  secrets for eons. The scattering was protection."'
+signal_type: entity
+source_file: raw/chapters/book_17_ancestral_debt_090_echoes_of_the_culling_corrected.md
+status: captured
+supersedes: null

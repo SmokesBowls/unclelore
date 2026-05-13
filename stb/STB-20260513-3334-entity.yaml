@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-3334
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 58
+line_start: 58
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: Tran studied the fragment. It felt warm to the touch, pulsing gently like
+  a second heartbeat that synchronized with his own.
+signal_type: entity
+source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
+status: captured
+supersedes: null

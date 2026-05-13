@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3393
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 235
+line_start: 235
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: '"He didn''t just free himself from the armor," Rongtai realized, understanding
+  dawning. "He freed the last true bearer, at the cost of taking on part of the bond
+  himself."'
+signal_type: relationship
+source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
+status: captured
+supersedes: null

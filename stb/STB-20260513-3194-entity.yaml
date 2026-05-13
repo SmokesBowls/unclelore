@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3194
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 135
+line_start: 135
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: Captain Ulric studied Tran with a soldier's eye for tactical assessment,
+  noting his confident stance, the way he moved in harmony with forces that exceeded
+  normal understanding, the aura of authority that surrounded someone who had awakened
+  to cosmic inheritance.
+signal_type: entity
+source_file: raw/chapters/book_15_legends_and_gods_079_mages_awakening.md
+status: captured
+supersedes: null

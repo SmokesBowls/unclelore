@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-1469
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 37
+line_start: 37
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: The woman at the fire straightened slowly, wiping ash-stained hands on
+  her leggings. Her eyes, sharp and wary beneath scarred brows, locked onto Geralt’s
+  face. Then flickered to the dragon armor, gleaming dully in the thin mountain light.
+  Distrust warred with dawning recognition. A lifetime of shared suffering vibrated
+  in the silence.
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
+status: captured
+supersedes: null

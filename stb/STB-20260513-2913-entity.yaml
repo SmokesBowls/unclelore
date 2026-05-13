@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-2913
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 324
+line_start: 324
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: As the groups began their actual separation—Keen and Isla moving toward
+  Ironspire with those members of the community who had chosen the safety of established
+  authority, Tran and Viên setting out along the geometric channels toward mysteries
+  that called to them from depths beneath conscious awareness—the landscape itself
+  seemed to respond to the significance of what was occurring.
+signal_type: entity
+source_file: raw/chapters/book_11_blood_and_legacy_063_the_iron_hand.md
+status: captured
+supersedes: null

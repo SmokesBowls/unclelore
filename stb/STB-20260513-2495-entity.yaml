@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-2495
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 143
+line_start: 143
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'In the Nexus, Geralt felt his consciousness stretch. He saw ten versions
+  of the immediate future:'
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_054_tue_lunar_spire.md
+status: captured
+supersedes: null

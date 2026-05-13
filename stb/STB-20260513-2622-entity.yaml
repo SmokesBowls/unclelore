@@ -1,0 +1,22 @@
+audit_only: true
+buffer_id: STB-20260513-2622
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 27
+line_start: 27
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: The ringing silence after the third ring's shattering was its own kind
+  of violence. Geralt watched the guild's sovereigns—twelve faces carved from various
+  species' ideals of wisdom—blink in staggered unison, their pupils dilating against
+  the afterimage of harmonic disruption. One, a Threnody singer whose throat-sacs
+  pulsed with muted distress, reached instinctively for the ledger at her bench. Her
+  fingers passed through it as though it were mist. Ink-stained documentation didn't
+  just dissolve; it *unwrote itself*, lines of text retreating into the vellum like
+  startled eels.
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
+status: captured
+supersedes: null

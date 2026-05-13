@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0415
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 173
+line_start: 173
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: The Anunnaki probe, designed to measure consciousness for harvest-optimization,
+  instead encountered awareness that used measurement-energy to demonstrate unmeasurable
+  possibilities. The probe's own force became fuel for transcendence beyond the parameters
+  it was designed to evaluate.
+signal_type: entity
+source_file: raw/chapters/book_04_sage_saga_020_the_collapse.md
+status: captured
+supersedes: null

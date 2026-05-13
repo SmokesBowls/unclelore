@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-2600
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 185
+line_start: 185
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Vaelthanebanked hard, his spines vibrating with suppressed fury. "The Wise
+  Ones don't deal in riddles," he snarled. "They deal in *erasures*." The crimson
+  dragon's wingbeats grew erratic, each stroke fracturing nearby asteroids into perfect
+  geometric shards. Geralt recognized the pattern—Vaelthanewasn't just angry. He was
+  *ashamed*. The Wise Ones hadn't just rejected Geralt's plea. They'd judged Vaelthaneunworthy
+  for bringing it.
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
+status: captured
+supersedes: null

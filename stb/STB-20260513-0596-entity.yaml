@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0596
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 582
+line_start: 582
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: One of the Anunnaki descended from the platform. Not walking, exactly.
+  More like reality rearranged itself to place the golden figure precisely where it
+  wished to be. It materialized before the frozen Reptilian with the casual ease of
+  beings for whom physics were suggestions rather than laws.
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_024_the_first_spark.md
+status: captured
+supersedes: null

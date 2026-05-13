@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-2286
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 146
+line_start: 146
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: “Untargeted?” Oreck growled, suspended in Geralt’s grip. “Where does it
+  go?”
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
+status: captured
+supersedes: null

@@ -1,0 +1,31 @@
+audit_only: true
+buffer_id: STB-20260513-1490
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 73
+line_start: 73
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'The First Speaker gestured silently. A section of the cloud plaza solidified
+  into a vast, circular dais etched with harmonic sigils that pulsed faintly with
+  inner light. At its center rested a plinth of flawless blue ice, holding a sphere
+  of swirling, captured storm-light – raw, chaotic chroniton energy. **"Harmonize
+  the Vortex,"** Althurion commanded, his harmonics resonating with grave finality.
+  **"Channel its fury into a stable resonance. Not suppression. Integration. Failure
+  unravels the dais… and you."** The vortex hissed, lashing the air with temporal
+  static that stung Geralt’s skin. Jorik instinctively stepped back, eyes wide. Geralt
+  approached alone, his cracked applicator spitting warnings: *Chaotic chroniton density
+  exceeding safe thresholds*. Zaron’s spirit within the armor flared, a low growl
+  against the storm’s roar. This wasn''t brute force. It was precision conducting.
+  He closed his eyes, recalling Kaelen’s ruthless drills in the Nexus – feeling the
+  rhythm beneath the chaos. He extended his hands, applicator whining as he mapped
+  the vortex’s jagged frequencies. Not dominance. Dialogue. He wove his tripartite
+  signature – armor’s defiant stability, applicator’s meticulous structure, his own
+  unwavering focus on Mika’s retrieval – *into* the storm’s dissonance, seeking points
+  of congruence, threads he could gently guide.'
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
+status: captured
+supersedes: null

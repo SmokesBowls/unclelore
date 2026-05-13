@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-0139
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 82
+line_start: 82
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: UNKNOWN
+raw_quote: Breeding facilities occupied another wing—vast chambers where Igigi could
+  reproduce under controlled conditions, their population expanding to meet workforce
+  requirements. The Igigi brought from other worlds would serve as initial breeding
+  stock, their genetic diversity sufficient to prevent degradation over the planned
+  occupation timeline.
+signal_type: entity
+source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+status: captured
+supersedes: null

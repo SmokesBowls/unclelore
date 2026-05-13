@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-0214
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 207
+line_start: 207
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: '"Stone-entities demonstrate significantly higher consciousness-touch sophistication
+  than projected. Their geomantic techniques interfere with foundation stability.
+  Their physical resilience exceeds initial combat effectiveness calculations. Luminescent
+  beings possess consciousness-crafting abilities that suggest connection to advanced
+  pre-Anunnaki traditions. Combined indigenous forces represent moderate-to-significant
+  ongoing interference threat."'
+signal_type: entity
+source_file: raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
+status: captured
+supersedes: null

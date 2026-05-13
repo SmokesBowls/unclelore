@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-0438
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 24
+line_start: 24
+parsed_payload:
+  predicate: serves
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: '"We have been teaching backwards," he said on their fourth day of First
+  Tongue practice, his mathematical mind integrating insights that required complete
+  reorganization of pedagogical approaches. "Beginning with techniques, progressing
+  toward principles, building toward recognition of what consciousness can become.
+  But consciousness already is what it can become. Technique serves recognition, not
+  the other way around."'
+signal_type: relationship
+source_file: raw/chapters/book_04_sage_saga_021_the_first_lesson.md
+status: captured
+supersedes: null

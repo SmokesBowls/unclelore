@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-1188
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 678
+line_start: 678
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: '"Geralt. That vessel is twenty-five miles in diameter. It carries thousands
+  of Anunnaki. Weapons systems that could vaporize this entire region. Defensive capabilities
+  that make approaching it suicidal. How exactly do you propose we—"'
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
+status: captured
+supersedes: null

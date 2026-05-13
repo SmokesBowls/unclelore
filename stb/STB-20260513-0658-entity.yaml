@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-0658
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 1040
+line_start: 1040
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: Not even when the Reptilian's gestures grew sophisticated enough to convey
+  tactical analysis, to offer insights into Anunnaki vulnerabilities, to suggest strategies
+  born from years of serving as their instrument.
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
+status: captured
+supersedes: null

@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-0656
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 937
+line_start: 937
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: Training happened in fragments—small groups practicing when the Anunnaki's
+  attention appeared elsewhere, disguising combat movements as labor or exercise.
+  The Nameless One taught what telekinetic control he possessed, showing others how
+  to access the abilities their genetic engineering had granted. Not everyone could
+  manifest it, but enough could that it became force multiplier worth developing.
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
+status: captured
+supersedes: null

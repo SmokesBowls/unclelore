@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-3072
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 127
+line_start: 127
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: Without hesitation, Tran disconnected from the Needle's interface systems
+  and ran toward the location where his enhanced perception indicated the impact had
+  occurred. What he found challenged his understanding of what was possible through
+  conscious development and cosmic enhancement of individual capabilities, even after
+  his recent experiences with revelation and transformation that had pushed him beyond
+  normal human limitations.
+signal_type: entity
+source_file: raw/chapters/book_12_forged_identity_069_divergent_paths.md
+status: captured
+supersedes: null

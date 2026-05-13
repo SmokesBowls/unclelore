@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-2301
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 302
+line_start: 302
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'Luminaire''s warning flashed through Geralt''s mind: "The Shard is a primordial
+  light-source. If he controls it, he could corrupt the entire network''s light-based
+  protocols from within."'
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
+status: captured
+supersedes: null

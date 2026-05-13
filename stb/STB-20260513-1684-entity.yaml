@@ -1,0 +1,25 @@
+audit_only: true
+buffer_id: STB-20260513-1684
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 21
+line_start: 21
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'Luminara’s consciousness flared painfully. Geralt felt her fragmentation—**Earth
+  Prime Resonance Keeper**, stretched thin across dimensions. Her whispers were static:
+  *"Anchor points destabilizing... locus integrity failing..."* Her nature revealed:
+  not a weapon, but a symphony. Harmonics clashed as Mika’s lance pierced a construct’s
+  core. Instead of shattering, it *screamed*—a discordant note silencing her comms.
+  "They’re siphon points!" Lyra yelled. "Disrupting her harmonics!" Halvar roared,
+  cleaving through rusted plating. Chroniton decay slowed his blade. Torren covered
+  him, shield sparking. Each strike fed the spire’s corruption. Geralt’s gauntlet
+  pulsed. Zaron’s resonance surged—blue fire met violet decay. Feedback seared his
+  nerves. He wasn’t fighting constructs. He was fighting Luminara’s corruption. Her
+  agony was theirs.'
+signal_type: entity
+source_file: raw/chapters/book_07_light_resonance_and_the_function_040_the_dragon_wars.md
+status: captured
+supersedes: null

@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-2483
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 15
+line_start: 15
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt leaned against the cold bulkhead, the Dragon Mail a second skin
+  of weary power. "So we cannot portal. We fly."
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_054_tue_lunar_spire.md
+status: captured
+supersedes: null

@@ -1,0 +1,32 @@
+audit_only: true
+buffer_id: STB-20260513-1546
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 67
+line_start: 67
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'Mika’s sharp eyes scanned Sahvant’s Circle, noting the precision tools,
+  the adapted Anunnaki sensors grafted onto their suits. She saw potential – scouts
+  equipped to detect temporal anomalies, engineers who might stabilize volatile tech
+  faster than her legionnaires. Her mind raced: *Useful. Untested.* She stepped forward,
+  her voice crisp and tactical, addressing Sahvant directly. “Your Circle operates
+  under Legion protection on this salvage field. Provisional status.” She gestured
+  towards the smoking wreckage. “Detailed scans of all chroniton-bleed sources. Full
+  spectral analysis delivered to me by dusk.” Her gaze hardened. “Disobey, divert
+  resources, or compromise the Legion’s position… and your technological fortress
+  becomes slag.” Beside her, Oreck shifted his massive bulk, the green arrows on his
+  greaves subtly angling towards the Circle members closest to Sahvant. His amber
+  eyes, flecked with chroniton light, fixed on the Professor. No threat was voiced.
+  None was needed. The silent guardian’s vigilance was a palpable wall. Geralt, already
+  moving northwest, felt Zaron’s spirit coil tighter within the armor, a low, psychic
+  thrum echoing his own wariness. *Ambition flickers*, the dragon-spirit seemed to
+  whisper. *Watch the spark.* The Akashic echoes whispered caution – Sahvant’s idealism
+  could forge shields or shatter them. Geralt filed the risk away, another variable
+  in the hunt for Luminaire’s fractured song. The desolate sands beckoned.'
+signal_type: entity
+source_file: raw/chapters/book_07_light_resonance_and_the_function_037_the_circle_of_progress.md
+status: captured
+supersedes: null

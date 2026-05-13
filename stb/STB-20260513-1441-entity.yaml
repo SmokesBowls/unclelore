@@ -1,0 +1,29 @@
+audit_only: true
+buffer_id: STB-20260513-1441
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 155
+line_start: 155
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: 'One evening, as he crested a dune overlooking a vast, unnatural depression
+  – a crater miles wide, its edges smoothed by millennia of wind but its depth still
+  profound – the resonance shifted. The Star Needle’s pull remained steady, but beneath
+  it, the applicator screamed a warning: *Massive chroniton sinkhole detected. Source:
+  geological trauma. Temporal signature: 3,000 years BP +/- 50. Correlation: Anunnaki
+  city-ship impact.* Geralt froze, staring into the abyss. This was the wound. The
+  scar where a stolen sky-city had been driven into the earth like a dagger. The Heart
+  of Faraxar hadn’t just witnessed it; the land *was* the scar tissue, soaked in the
+  psychic residue of that cataclysm. His own borrowed power, the armor gifted to fight
+  the invaders, felt suddenly heavy. He stood on the edge of his own history, a ghost
+  haunting the graveyard his war had made. The silence here wasn’t empty; it was thick
+  with the unspoken agony of billions. He tightened his grip on his blade. Tran would
+  walk this echo. Geralt walked the source. He descended into the crater’s shadow,
+  the weight of millennia pressing down, the dragon armor humming a low, mournful
+  threnody against the gathering dusk.'
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
+status: captured
+supersedes: null

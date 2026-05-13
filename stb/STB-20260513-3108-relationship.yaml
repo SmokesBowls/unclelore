@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-3108
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 428
+line_start: 428
+parsed_payload:
+  predicate: serves
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: Her response reflected both youthful courage and recognition that cosmic
+  adventure represented the natural extension of the curiosity and determination that
+  had characterized her approach to life since childhood, while acknowledging that
+  some opportunities transcended normal risk-benefit analysis to encompass purposes
+  that served development and growth regardless of immediate practical considerations.
+signal_type: relationship
+source_file: raw/chapters/book_12_forged_identity_070_spheres_truth.md
+status: captured
+supersedes: null

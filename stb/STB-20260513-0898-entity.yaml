@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-0898
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 739
+line_start: 739
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: By the time Geralt and Oreck reached the compound's boundary, three hundred
+  freed slaves had gathered—forming loose assembly that was part welcome, part judgment,
+  wholly uncertain about what they were witnessing.
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+status: captured
+supersedes: null

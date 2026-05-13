@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-2233
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 343
+line_start: 343
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: The water wasn't just cold—it was liquid absence. It swallowed sound, heat,
+  and orientation. Geralt's armor, reacting to the shock, attempted to seal and pressurize,
+  but the Companion Protocol overrode it with a single, sharp command.
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
+status: captured
+supersedes: null

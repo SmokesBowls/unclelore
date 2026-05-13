@@ -1,0 +1,26 @@
+audit_only: true
+buffer_id: STB-20260513-1416
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 81
+line_start: 81
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt didn't hesitate. He didn't plead or bargain. He *punched* reality.
+  Channeling every ounce of grief for Mika, rage for the Five, desperate love for
+  the 250, he fused applicator precision with Zaron’s volcanic fury. His fist slammed
+  into the scar’s edge. Not a touch—a detonation of temporal defiance. A shockwave
+  of golden light erupted from the impact point, rippling outward. The scar recoiled,
+  shrieking in silent agony. With each ripple, a silhouette didn't drift free—it was
+  *catapulted* backward through layers of compressed time. Soldiers tumbled through
+  epochs, ripped from the Harbinger's grasp like debris in a hurricane. Geralt roared,
+  pouring everything into the wave—ribs cracking, applicator fracturing under the
+  strain, Zaron’s spirit scorching his soul. The cost was instant, excruciating. Worth
+  it. The last silhouette vanished. The scar pulsed weakly, bleeding stolen time.
+  The 250 were clear.
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
+status: captured
+supersedes: null

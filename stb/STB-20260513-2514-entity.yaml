@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-2514
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 293
+line_start: 293
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt stood, the sphere warm against his chest, the Dragon Mail settling
+  around him with newfound purpose.
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_054_tue_lunar_spire.md
+status: captured
+supersedes: null

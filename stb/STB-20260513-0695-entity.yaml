@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-0695
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 1407
+line_start: 1407
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: The Anunnaki recovered first. Of course he did—he was superior in every
+  measurable way. His hand pressed against the Reptilian's chest, power gathering
+  for execution that would be even more brutal for this betrayal by supposed servant.
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
+status: captured
+supersedes: null

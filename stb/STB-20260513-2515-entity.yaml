@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-2515
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 13
+line_start: 13
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: The Akashic truth settled into Geralt’s bones like a cold, heavy ore. He
+  stood from the library floor, Kyh’s shadowy hands steadying him. The grand, cosmic
+  horror of the Queen’s work—rewriting reality itself from the corpse of a god—should
+  have crushed him. Instead, a grim, focused clarity took hold.
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_055_the_anchors_forge.md
+status: captured
+supersedes: null

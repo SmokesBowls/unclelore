@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-1193
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 700
+line_start: 700
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: '"The Anunnaki are demonstrating scale. Showing that rebellion is mosquito
+  bite against elephant. Proving that cosmic order has resources that make resistance
+  futile. That''s the message those vessels carry—not through violence but through
+  presence. Through overwhelming demonstration that fighting back is pointless."'
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
+status: captured
+supersedes: null

@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-3543
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 87
+line_start: 87
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: The Dragon Mail stilled against him, and through their bond, he felt its
+  own recognition of this truth. It was afraid—afraid of losing itself in the merger,
+  afraid of subsuming Tran's identity with its own.
+signal_type: entity
+source_file: raw/chapters/book_17_ancestral_debt_089_the_white_mirror.md
+status: captured
+supersedes: null

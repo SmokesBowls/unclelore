@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-0707
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 1539
+line_start: 1539
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: He saved all of us, she corrected. Without him, the Anunnaki would have
+  killed you, then slaughtered the rest. He chose. Finally chose.
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
+status: captured
+supersedes: null

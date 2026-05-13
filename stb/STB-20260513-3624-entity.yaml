@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3624
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 64
+line_start: 64
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: Tran felt the weight of decision crushing down on him. Through the dragon
+  mail's consciousness, he could sense Zaron's own uncertainty. Neither of them had
+  expected this—a choice that would define not just their partnership but their very
+  existence.
+signal_type: entity
+source_file: raw/chapters/book_18_inquisition_of_yourself_096_violet_convergence.md
+status: captured
+supersedes: null

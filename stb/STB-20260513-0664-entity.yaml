@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-0664
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 1188
+line_start: 1188
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: They reached the platform's base. Still no movement from above. The Anunnaki
+  either hadn't woken or was occupied with whatever beings of his kind did in private.
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
+status: captured
+supersedes: null

@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-3151
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 229
+line_start: 229
+parsed_payload:
+  predicate: serves
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: '"Choose which one becomes the dominant timeline," they said, their voice
+  resonating with authority that made reality itself seem to bend toward their will.
+  "Use your chaos essence to enter the paradox fully, experience all possible versions
+  simultaneously, then select the resolution that serves the greatest good."'
+signal_type: relationship
+source_file: raw/chapters/book_14_lessons_of_inheritance_075_anchor_points_of_time.md
+status: captured
+supersedes: null

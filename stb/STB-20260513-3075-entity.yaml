@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-3075
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 137
+line_start: 137
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: During the period required for his teacher's recovery, the Star Needle
+  continued Tran's education in network coordination, providing instruction in advanced
+  capabilities and responsibilities that would be required for effective management
+  of planetary defense systems and resource allocation across continental distances.
+  The training encompassed not only technical interface with network systems but also
+  strategic understanding of the purposes and principles that governed coordination
+  efforts across scales that transcended individual or even local community requirements.
+signal_type: entity
+source_file: raw/chapters/book_12_forged_identity_069_divergent_paths.md
+status: captured
+supersedes: null

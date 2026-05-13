@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-3176
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 337
+line_start: 337
+parsed_payload:
+  predicate: serves
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: The display revealed a network that had been subtly modified during her
+  absence, energy flows that had been redirected to serve purposes that complemented
+  rather than opposed its original design. Her children had not been attempting to
+  destroy or capture the network—they had been learning to work with it, to enhance
+  its capabilities in ways that served both resistance activities and the network's
+  fundamental purpose of consciousness coordination across cosmic scales.
+signal_type: relationship
+source_file: raw/chapters/book_15_legends_and_gods_078_the_queens_return.md
+status: captured
+supersedes: null

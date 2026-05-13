@@ -1,0 +1,23 @@
+audit_only: true
+buffer_id: STB-20260513-1288
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 55
+line_start: 55
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: '"Good," Kaelen observed, her voice devoid of praise, merely assessment.
+  "Instinctive. Now, redirect." The second drake charged along the canyon floor, claws
+  scrabbling on loose rock, heading straight for the Needle''s base. Geralt felt the
+  instability radiating from its charge—a ripple in the stabilized weave. He focused
+  not on the drake, but on the scree path ahead of it. He visualized the loose stones
+  shifting, rolling *into* its path. He poured his will into amplifying the natural
+  friction, the subtle incline. The scree responded. Stones skittered, a miniature
+  landslide cascading directly under the drake''s forepaws. It stumbled, legs tangling,
+  momentum broken as it crashed heavily onto its side.'
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_032_the_redo.md
+status: captured
+supersedes: null

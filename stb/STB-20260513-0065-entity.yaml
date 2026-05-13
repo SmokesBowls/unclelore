@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-0065
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 112
+line_start: 112
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: UNKNOWN
+raw_quote: Senareth stood at the edge of the Nephoretti cluster, watching Kyreth and
+  Torhh work increasingly complex water-patterns while Olythae engaged the copper-toned
+  Giant in sand-shaping exercises. Elyraen was nearby, observing a charcoal-grey Giant
+  who seemed fascinated by the way Nephoretti bioluminescence intensified in response
+  to emotional states.
+signal_type: entity
+source_file: raw/chapters/book_01_book_of_genesis_003_first_contact.md
+status: captured
+supersedes: null

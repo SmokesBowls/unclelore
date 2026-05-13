@@ -1,0 +1,32 @@
+audit_only: true
+buffer_id: STB-20260513-1358
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 56
+line_start: 56
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'Kaelen approached the sealed fracture point. It pulsed with a faint, stable
+  gold light now. "Well executed," she stated, her voice devoid of praise but thick
+  with assessment. "You sealed a minor paradox. But understand this: the predator’s
+  stolen moments created localized temporal eddies. Its hunting ground... it warped
+  causality." She gestured at the frozen cubs. "Their stolen moments ripple outward.
+  The predator’s actions over the last three cycles triggered a causal loop – a three-day
+  echo centered on a settlement near here. Time repeats there, unaware." Geralt stared
+  at her, comprehension dawning coldly. "A loop? Like... Groundhog Day?" Kaelen tilted
+  her head. "A crude analogy. But yes. The settlement lives the same three days repeatedly.
+  The loop anchors itself through unresolved trauma – likely linked to the predator’s
+  initial thefts." She met his eyes. "To break the loop, someone within must resolve
+  that anchor point. But they are trapped, unaware. You, Geralt, exist outside the
+  loop. You must enter it. Play your role. Cause the resolution... or ensure it ends."
+  She pointed towards a newly formed ice tunnel glowing faintly gold. "That conduit
+  leads to the loop''s edge. Prepare to walk the echo." Geralt pushed himself up.
+  Saving moments wasn''t enough. Now he had to save time itself. For Katherine. For
+  the settlement. For Mika, waiting somewhere beyond the loops. He followed Kaelen
+  towards the golden glow. The echo awaited.'
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_034_the_250.md
+status: captured
+supersedes: null

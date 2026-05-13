@@ -1,0 +1,26 @@
+audit_only: true
+buffer_id: STB-20260513-1438
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 151
+line_start: 151
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: The transition from foothills to the Scorch’s embrace was brutal. One moment,
+  sparse grass clung stubbornly to rocky slopes; the next, the world dropped away
+  into an ochre sea of dunes and cracked salt flats. Heat shimmered like a living
+  thing, distorting the horizon. The air itself tasted of ash and ancient dust, scraping
+  Geralt’s throat. He pulled the scarf Celly had given him tighter, squinting against
+  the glare. The Star Needle’s resonance was a steady, insistent pull beneath the
+  skin, guiding him true north, but the land fought him. Shifting sands sucked at
+  his boots. Razor-edged salt crusts sliced his hands when he scrambled over ridges.
+  He felt the desert’s gaze – not hostile, but vast, indifferent, remembering things
+  he couldn’t fathom. It was a landscape steeped in an old, deep ache. He pushed harder,
+  the applicator humming faintly as it mapped thermals and potential hazards, the
+  armor radiating cool defiance against the sun’s hammer blows.
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
+status: captured
+supersedes: null

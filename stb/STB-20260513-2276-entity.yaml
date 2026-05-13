@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-2276
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 98
+line_start: 98
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt spoke again, Luminaire’s resonance giving his words a double harmonic.
+  “We are not asking you to be whole. We are asking you to be useful. One last time.
+  Five jumps. Five spires. Then you are done. We find you a Keeper who can stabilize
+  your decay. Luminaire can—”
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
+status: captured
+supersedes: null

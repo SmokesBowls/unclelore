@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0395
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 171
+line_start: 171
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: '"Cannot think the Deep Tongue," Torrhen observed, patiently repairing
+  the damage from Zephyr''s latest attempt. "Must feel it. Must become part of the
+  music instead of trying to conduct it from outside."'
+signal_type: relationship
+source_file: raw/chapters/book_04_sage_saga_018_the_wandering.md
+status: captured
+supersedes: null

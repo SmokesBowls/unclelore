@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-2621
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 25
+line_start: 25
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Kyh's shadow flared black in the sudden resonance. The sovereigns clutched
+  their ears. Only Geralt stood unmoved, his scars glowing faintly under the strain.
+  "You want enrollment?" he shouted over the din. "Then hear the *sound* of your documentation
+  burning."
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
+status: captured
+supersedes: null

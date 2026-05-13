@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3107
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 426
+line_start: 426
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: '"Adventure!" the girl said immediately, her enthusiasm and natural courage
+  making the decision automatic despite her incomplete understanding of what such
+  acceptance might entail. "Whatever comes next, I want to be part of it!"'
+signal_type: relationship
+source_file: raw/chapters/book_12_forged_identity_070_spheres_truth.md
+status: captured
+supersedes: null

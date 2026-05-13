@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3382
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 189
+line_start: 189
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: The Brajor leader studied Tran with newfound respect. "You have reclaimed
+  what was stolen and turned the tide of battle. The Brajor owe you a debt." He gestured
+  toward the central cave entrance. "Come. The Council of Tides will want to hear
+  of this."
+signal_type: entity
+source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
+status: captured
+supersedes: null

@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-2652
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 147
+line_start: 147
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt's canteen shattered against the ground. Not from impact—from expansion.
+  The frozen water inside had grown teeth, claws, *purpose*, bursting its metal prison
+  as Blue Mika coalesced from the spreading pool, liquid still cascading off her pauldrons
+  in slow-motion droplets. To their left, the rebellious fire roared suddenly three
+  meters high—not random, but *arched*, a gateway of writhing flame. Red Mika stepped
+  through the infernal threshold unscathed, her armor drinking the fire like nectar.
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
+status: captured
+supersedes: null

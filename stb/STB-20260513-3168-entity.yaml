@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-3168
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 47
+line_start: 47
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: The Giant clans had their own ancient civilizations and territories, but
+  their current forms of organization owed their existence to Anunnaki intervention
+  during previous cosmic conflicts. Their requests for territorial clarification suggested
+  they were remembering their independent heritage while perhaps forgetting the costs
+  of defying cosmic authority.
+signal_type: entity
+source_file: raw/chapters/book_15_legends_and_gods_078_the_queens_return.md
+status: captured
+supersedes: null

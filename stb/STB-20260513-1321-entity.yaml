@@ -1,0 +1,22 @@
+audit_only: true
+buffer_id: STB-20260513-1321
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 296
+line_start: 296
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Blood remembers? Geralt's cryptic tales flooded back – stories whispered
+  in the dark about Nephoretti, beings woven from forgotten histories, who saw the
+  world as layers of echoes. They spoke in riddles of 'blood memories,' ancestral
+  imprints carried beyond death. Mika never understood it; it sounded like battlefield
+  delirium. Yet here they were, pointing the way. Was Geralt's blood calling out?
+  Her own pulse hammered against her ribs, a drumbeat of dread and desperate hope.
+  She plunged into the fissure, the Nephoretti dissolving into the fractured light
+  behind her.
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_033_the_march.md
+status: captured
+supersedes: null

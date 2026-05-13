@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-2010
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 225
+line_start: 225
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt fought beside them, the Dragon Mail allowing him to move with preternatural
+  speed. He shattered one Construct’s sensor-head with a pommel strike, but two more
+  converged on him, their movements a perfectly coordinated dance. He felt Zaron’s
+  rage surge, begging to be unleashed, but he clamped down. Fire in these confined,
+  oxygen-poor spaces would kill them all.
+signal_type: entity
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_045_the_hub_falls.md
+status: captured
+supersedes: null

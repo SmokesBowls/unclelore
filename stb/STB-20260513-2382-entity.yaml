@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-2382
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 43
+line_start: 43
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Sound behaved strangely. Geralt’s boot scuffed the floor, and the scrape
+  didn’t fade. It hung in the air, a persistent auditory fact, until it was slowly
+  absorbed by a nearby glyph.
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_052_entry_without_standing.md
+status: captured
+supersedes: null

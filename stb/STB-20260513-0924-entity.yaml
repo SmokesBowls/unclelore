@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0924
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 9
+line_start: 9
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Twenty-eight days of preparation. Of training. Of transforming freed slaves
+  into something approaching fighting force. Of Geralt learning to coordinate with
+  adolescent armor that remained unpredictable despite Zaron's best efforts and the
+  Applicator's technical mediation.
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+status: captured
+supersedes: null

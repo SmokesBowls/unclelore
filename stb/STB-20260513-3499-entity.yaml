@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-3499
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 71
+line_start: 71
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: Tran felt the armor's frustration at its limited ability to express itself.
+  Without thinking, he placed his hand over the breastplate where the crimson energy
+  pulsed strongest.
+signal_type: entity
+source_file: raw/chapters/book_16_fragmented_beginning_087_the_breath_of_life.md
+status: captured
+supersedes: null

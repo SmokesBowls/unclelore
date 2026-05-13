@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-1072
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 69
+line_start: 69
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt felt something settle in his chest—recognition that leadership wasn't
+  about having all answers but about facilitating others to contribute their expertise,
+  to build solutions through collaboration rather than waiting for single individual
+  to solve everything.
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
+status: captured
+supersedes: null

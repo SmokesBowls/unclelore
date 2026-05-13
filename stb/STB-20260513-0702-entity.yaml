@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-0702
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 1429
+line_start: 1429
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: But the Reptilian held on. Accepted damage that should have killed him.
+  Let power burn through his body, sear his flesh, break his bones—as long as his
+  claws remained embedded in the Anunnaki's throat, as long as his teeth maintained
+  their grip, as long as he could keep channeling disruption into the connection that
+  sustained god-like abilities.
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
+status: captured
+supersedes: null

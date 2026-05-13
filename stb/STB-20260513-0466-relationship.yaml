@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-0466
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 167
+line_start: 167
+parsed_payload:
+  predicate: serves
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: '"Like the Deep Waters," Torrhen smiled, his massive form beginning to
+  resonate with frequencies that existed at the intersection of individual consciousness
+  and universal awareness. "Each droplet maintains distinctiveness while serving the
+  flow that encompasses all droplets. Individual identity preserved within universal
+  wisdom that serves evolution itself."'
+signal_type: relationship
+source_file: raw/chapters/book_04_sage_saga_021_the_first_lesson.md
+status: captured
+supersedes: null

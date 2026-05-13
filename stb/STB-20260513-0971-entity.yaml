@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-0971
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 217
+line_start: 217
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: The wings caught air with force that lifted Geralt off his feet, that sent
+  him tumbling skyward in completely uncontrolled ascent that was equal parts terrifying
+  and humiliating.
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+status: captured
+supersedes: null

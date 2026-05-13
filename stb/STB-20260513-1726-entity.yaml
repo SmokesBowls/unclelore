@@ -1,0 +1,15 @@
+audit_only: true
+buffer_id: STB-20260513-1726
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 199
+line_start: 199
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt woke to the taste of copper in his mouth.
+signal_type: entity
+source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
+status: captured
+supersedes: null

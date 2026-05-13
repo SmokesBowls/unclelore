@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-2671
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 215
+line_start: 215
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Kulla's clay fingers stopped kneading abruptly. "Not horses," he muttered.
+  The creatures' flanks shimmered where muscle should be, their bodies distending
+  slightly with each breath as if barely containing something larger. Kyh's shadow
+  recoiled into a tighter knot behind Geralt. "They're wearing the riders," she breathed.
+  "Not riding them."
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
+status: captured
+supersedes: null

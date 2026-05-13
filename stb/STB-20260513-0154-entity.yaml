@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-0154
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 122
+line_start: 122
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: UNKNOWN
+raw_quote: And somewhere down there, invisible to Igigi perception, indigenous biologicals
+  lived their lives unaware that everything was about to change.
+signal_type: entity
+source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+status: captured
+supersedes: null

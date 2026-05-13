@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-3757
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 467
+line_start: 467
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: The Giants began immediately fortifying Mars as a forward base. Tsunami-Singer
+  pulled ancient water from the polar caps while Forest Giants planted rapid-growth
+  seeds that could create defensive barriers within days. Stone Giants reshaped the
+  scarred landscape into strategic positions, while Ash Giants began converting abandoned
+  Anunnaki technology into defensive systems.
+signal_type: entity
+source_file: raw/chapters/book_19_worthy_opponents_north_102_convergence_on_mars.md
+status: captured
+supersedes: null

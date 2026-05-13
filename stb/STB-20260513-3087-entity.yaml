@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3087
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 276
+line_start: 276
+parsed_payload:
+  confidence: medium
+  entity_name: Aeon Keepers
+  entity_type: UNKNOWN
+raw_quote: '"The Aeon Keepers," she whispered, the name emerging from memories that
+  weren''t her own but which felt true in ways that transcended simple recognition,
+  carrying weight that spoke of cosmic significance and responsibilities that operated
+  on scales encompassing the welfare of entire galaxies.'
+signal_type: entity
+source_file: raw/chapters/book_12_forged_identity_070_spheres_truth.md
+status: captured
+supersedes: null

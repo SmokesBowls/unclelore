@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-2267
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 7
+line_start: 7
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: '"Inversion threshold holding at 55.7%," Luminaire reported, her voice
+  a constant, low-frequency hum in Geralt’s neural architecture. "But the bleed from
+  Umbra Planes is now affecting adjacent dimensional strata. The clock is no longer
+  ticking. It is accelerating."'
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
+status: captured
+supersedes: null

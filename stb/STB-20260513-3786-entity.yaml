@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-3786
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 403
+line_start: 403
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: UNKNOWN
+raw_quote: Voices. Not Nephoretti—something deeper, more resonant. She pressed herself
+  against the rock, heart pounding, and listened. The sounds were rhythmic, almost
+  like chanting, and they seemed to come from a ledge somewhere above.
+signal_type: entity
+source_file: raw/chapters/book_20_the_discordant_pulse_south_103_the_second_song_resonance_of_a_broken_needle.md
+status: captured
+supersedes: null

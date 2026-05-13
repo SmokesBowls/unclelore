@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-0406
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 141
+line_start: 141
+parsed_payload:
+  predicate: serves
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: '"Consciousness that learns to transcend its own limitations gains capacity
+  to help others transcend theirs," the Sage explained to a gathering of their most
+  advanced students. "Individual synthesis serves collective evolution when it operates
+  through teaching, through demonstration, through creation of opportunities for others
+  to discover their own paths to transcendence."'
+signal_type: relationship
+source_file: raw/chapters/book_04_sage_saga_020_the_collapse.md
+status: captured
+supersedes: null

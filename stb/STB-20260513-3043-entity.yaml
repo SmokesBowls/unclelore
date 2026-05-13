@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3043
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 213
+line_start: 213
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: '"We''ll see each other again," Tran said, his voice breaking slightly
+  as he struggled to accept separation from the brother whose existence he had only
+  just discovered but whose importance to his understanding of himself transcended
+  any relationship in his previous experience. "This isn''t goodbye. It''s... preparation."'
+signal_type: entity
+source_file: raw/chapters/book_12_forged_identity_068_brotherhood_revealed.md
+status: captured
+supersedes: null

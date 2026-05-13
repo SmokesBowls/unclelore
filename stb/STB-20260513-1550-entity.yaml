@@ -1,0 +1,28 @@
+audit_only: true
+buffer_id: STB-20260513-1550
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 87
+line_start: 87
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Near the wreck’s skeletal prow, Geralt stood facing Sahvant, bathed in
+  the fractured light of dying engines. His clawed gauntlet traced precise arcs in
+  the air, leaving faint trails of azure resonance. "Focus the emitter’s harmonics,"
+  he commanded, his voice low and resonant, carrying over the distant clang of salvage
+  crews. "Not amplification. *Alignment*." Sahvant mirrored his movements with her
+  grafted gauntlets, their pulsing green light straining to match his effortless blue
+  arcs. Sweat beaded on her forehead beneath the helmet seal. "The waveform collapses…
+  instability…" she gasped. Geralt didn’t relent. "It resists force. Seek resonance
+  within the dissonance. Acknowledge the bleed; guide it." He gestured sharply – a
+  subtle twist of his wrist. The unstable green glow from Sahvant’s emitter smoothed
+  suddenly, stabilizing into a contained, humming sphere. She gasped, her multi-lensed
+  visor flickering wildly with stabilizing harmonic readouts. Integration. Not control.
+  Understanding. Her eyes widened behind the lenses, the frantic scholar momentarily
+  stilled by the glimpse of true mastery. A foundational shift, not a rote solution.
+signal_type: entity
+source_file: raw/chapters/book_07_light_resonance_and_the_function_037_the_circle_of_progress.md
+status: captured
+supersedes: null

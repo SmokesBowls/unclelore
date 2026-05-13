@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-1712
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 83
+line_start: 83
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Ren's trembling had stopped. He stared at Geralt—at Luminara—with something
+  like awe. "You're... you're an emergency system. For the universe."
+signal_type: entity
+source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
+status: captured
+supersedes: null

@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-2022
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 317
+line_start: 317
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: The dragon’s fury erupted within him, a burst of pure metabolic override.
+  Geralt broke free, his sword meeting the corruption-blade in a shower of sickly
+  violet sparks. He pushed forward, aiming for the core light.
+signal_type: entity
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_045_the_hub_falls.md
+status: captured
+supersedes: null

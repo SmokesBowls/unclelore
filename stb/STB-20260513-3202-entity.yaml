@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-3202
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 159
+line_start: 159
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: The revelation transformed the gathering from simple coordination of awakening
+  individuals to something that operated on scales that could challenge cosmic authority
+  itself. If Tran carried legitimate inheritance claims, then their resistance could
+  operate within galactic legal frameworks rather than being classified as simple
+  rebellion.
+signal_type: entity
+source_file: raw/chapters/book_15_legends_and_gods_079_mages_awakening.md
+status: captured
+supersedes: null

@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-1043
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 741
+line_start: 741
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: Weapons materialized from the Overseer's form—not carried but integrated,
+  biological and technological merged into systems that made distinction meaningless.
+  Energy projectors that could level buildings. Defensive fields that could deflect
+  projectiles. Combat capability that made individual Anunnaki worth entire military
+  units of lesser species.
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+status: captured
+supersedes: null

@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-0822
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 181
+line_start: 181
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: '"My partner has opinions," Geralt corrected. "And yes. Many opinions.
+  You''ll learn to tolerate them if we survive long enough."'
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+status: captured
+supersedes: null

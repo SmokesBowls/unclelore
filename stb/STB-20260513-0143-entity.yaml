@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-0143
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 94
+line_start: 94
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: He did not think about the indigenous biologicals—the massive stone-entities
+  and luminescent forms who had built their own civilization across these continents.
+  Why would he? They were resources to be managed, not persons to be considered. The
+  mathematics of power were absolute, and the Anunnaki had perfected those mathematics
+  across galactic distances and temporal scales that would break lesser minds.
+signal_type: entity
+source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+status: captured
+supersedes: null

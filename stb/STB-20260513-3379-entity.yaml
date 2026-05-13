@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-3379
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 177
+line_start: 177
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: With a surge of Crimson Blood, Tran pulled with all his might. The resistance
+  was tremendous, as if the creature's very essence fought to retain the fragment.
+  But then, with a sound like ice cracking, something gave way.
+signal_type: entity
+source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
+status: captured
+supersedes: null

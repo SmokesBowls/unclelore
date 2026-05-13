@@ -1,0 +1,26 @@
+audit_only: true
+buffer_id: STB-20260513-1294
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 67
+line_start: 67
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt poured his will into the deepest anchor point. He visualized his
+  forged harmony – applicator-structure, armor-power, his own architect-will – as
+  a cleansing wave. He pushed it *against* the Queen’s corrosive energy clinging to
+  the Spire’s roots. The applicator shrieked warnings of incompatible protocols. The
+  armor surged, amplifying the cleansing force. The Spire pulsed violently, green
+  light flaring angrily. Geralt felt resistance like pushing against a collapsing
+  star. Sweat froze on his brow. "It’s fighting back!" he roared over the wind. Kaelen’s
+  hand clamped onto his shoulder. "It’s programmed to reject intrusion! Focus! Your
+  harmony isn’t intrusion; it’s *integration*. Force the Spire to recognize your signature
+  as valid! *Make* it accept the stabilization!" Geralt gritted his teeth, pouring
+  everything into that single point. The green light flickered… dimmed… then pulsed
+  pure, stable gold for a single, crucial heartbeat. The deepest anchor solidified.
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_032_the_redo.md
+status: captured
+supersedes: null

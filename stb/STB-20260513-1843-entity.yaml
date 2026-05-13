@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-1843
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 9
+line_start: 9
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt stood beside Mika on a low hill, the morning mist curling around
+  their boots like ghosts. Below them, the swamp gave way to forest—or what had been
+  forest. From here, it looked like a great beast had breathed gray ash across the
+  canopy. The green was being eaten from the inside out.
+signal_type: entity
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_042_the_verdant_crossing.md
+status: captured
+supersedes: null

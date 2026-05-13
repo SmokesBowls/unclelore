@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-2764
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 377
+line_start: 377
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Violet Mika moved then, her cloak parting to reveal a slender blade forged
+  from third-ring shards. She pressed it into Geralt's human hand—the one still capable
+  of bleeding. "Not a vessel," she corrected softly. "A sword."
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+status: captured
+supersedes: null

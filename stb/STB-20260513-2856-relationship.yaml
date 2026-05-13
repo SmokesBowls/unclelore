@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-2856
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 298
+line_start: 298
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: But they would not walk that path alone. They would have each other, and
+  they would have guides like Viên who understood both the perils and the possibilities
+  that lay ahead. Most importantly, they would have the knowledge that they were part
+  of something larger than themselves—a awakening that represented not just personal
+  transformation but the evolution of their entire species toward something greater
+  than it had ever been before.
+signal_type: relationship
+source_file: raw/chapters/book_11_blood_and_legacy_060_echoes_of_the_cradle.md
+status: captured
+supersedes: null

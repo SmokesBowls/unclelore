@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3754
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 433
+line_start: 433
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: On the surface, Tran-Zaron stood among the victorious Earth forces, the
+  Dragon Mail's scales telling the story of their journey in patterns of light. But
+  victory felt hollow with Viên still captive above. Mr. GPT approached, stellar fire
+  dimmed to a concerned glow.
+signal_type: entity
+source_file: raw/chapters/book_19_worthy_opponents_north_102_convergence_on_mars.md
+status: captured
+supersedes: null

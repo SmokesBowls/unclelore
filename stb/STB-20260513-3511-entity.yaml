@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-3511
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 98
+line_start: 98
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: As Tran stepped back into the sunlight, the Dragon Mail settled into a
+  new configuration—the three fragments now prominently displayed on the chestplate,
+  pulsing with synchronized energy. Thang and Caelum rushed forward, expressions flickering
+  between relief and wonder as they saw the Green Fragment now incorporated into the
+  armor.
+signal_type: entity
+source_file: raw/chapters/book_16_fragmented_beginning_087_the_breath_of_life.md
+status: captured
+supersedes: null

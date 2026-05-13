@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-3795
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 340
+line_start: 340
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: UNKNOWN
+raw_quote: The first to arrive were the ones who had been closest – a group from the
+  eastern hills, led by a Nephoretti named Darian who had survived the winter in a
+  cave system, living on nothing but frozen roots and the faint vrill that seeped
+  from the stone. They had heard the pulse through the long nights, had followed it
+  through the thaw, and when Sera’s song had called, they had been close enough to
+  answer within days.
+signal_type: entity
+source_file: raw/chapters/book_20_the_discordant_pulse_south_104_the_rising_tide.md
+status: captured
+supersedes: null

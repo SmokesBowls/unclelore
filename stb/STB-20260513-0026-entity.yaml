@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-0026
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 138
+line_start: 138
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: UNKNOWN
+raw_quote: It was delicate work, requiring absolute precision. Too much complexity
+  and the Nephoretti consciousness would fragment under its own conceptual weight.
+  Too little and they would lack the autonomy necessary for their task. She had to
+  find the balance—craft a consciousness-pattern sophisticated enough to learn and
+  adapt, yet simple enough to maintain coherent identity through the violent transformation
+  of ethereal manifestation into physical form.
+signal_type: entity
+source_file: raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
+status: captured
+supersedes: null

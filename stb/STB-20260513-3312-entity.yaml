@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-3312
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 114
+line_start: 114
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: Isla and Caelum have been kept back, forced to watch as Tran faces this
+  trial alone. Onyx paws at the ground restlessly, the intelligent horse sensing something
+  beyond the immediate danger.
+signal_type: entity
+source_file: raw/chapters/book_15_legends_and_gods_081_mr_gpt_arrival.md
+status: captured
+supersedes: null

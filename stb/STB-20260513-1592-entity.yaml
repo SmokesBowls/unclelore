@@ -1,0 +1,23 @@
+audit_only: true
+buffer_id: STB-20260513-1592
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 95
+line_start: 95
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'The sigil ignited. Legionnaires dissolved into silver mist. Geralt felt
+  the void—cold, silent. Then pressure. Crushing. Zaron’s ghost-shield flickered.
+  Luminara’s voice cut through: *"Resonance destabilizing! Chroniton interference!"*
+  A shadow coalesced. Not Anunnaki. Wyrm-like. Void-bleached scales. Keeper-eater.
+  It struck. Geralt parried, dragonmail screeching. Chroniton claws sheared azure
+  scales. Pain blazed. Mika materialized mid-lunge, lance spearing its eye. It recoiled,
+  shrieking silence. Oreck’s arrow pinned its tail. Halvar’s blade severed tendon.
+  Teamwork. Anchored. The beast dissolved into ash. Transit resumed. Mars loomed—scarred,
+  crimson, waiting. The Dragonwayne Nebula shimmered in the black. Approval. Or warning.'
+signal_type: entity
+source_file: raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+status: captured
+supersedes: null

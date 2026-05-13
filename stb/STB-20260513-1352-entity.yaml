@@ -1,0 +1,25 @@
+audit_only: true
+buffer_id: STB-20260513-1352
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 44
+line_start: 44
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Kaelen’s voice cut through the din. "Stable! Now, amplify! Force the reversal!"
+  Geralt poured every shred of focus into his integrated harmony. The golden spark
+  flared, pushing against the sickly green. The Spire groaned like a dying beast.
+  Stone cracked overhead. "It’s destabilizing!" Geralt yelled. Kaelen’s eyes blazed.
+  "Exactly! The sinkhole effect weakens as its anchor shifts! Prepare to move!" She
+  gestured towards a widening fissure beneath the core. "That leads deeper – towards
+  the fracture locus!" Geralt nodded, sweat freezing on his brow. The golden light
+  surged, momentarily overwhelming the corruption. The crushing drag vanished. Gravity
+  reasserted itself violently. Geralt staggered. "Now!" Kaelen commanded. She leapt
+  into the fissure. Geralt followed without hesitation, plunging into the abyss below
+  the crumbling Spire. The sinkhole collapsed behind them.
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_034_the_250.md
+status: captured
+supersedes: null

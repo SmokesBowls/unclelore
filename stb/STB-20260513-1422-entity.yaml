@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-1422
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 93
+line_start: 93
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt scanned the impossible landscape one final time – the warship frozen
+  mid-explosion, the petrified forest, the rain-locked street where he’d ripped the
+  250 free. It felt less like a battlefield now, more like a library written in shattered
+  light. He turned back to Kaelen. "Luminaire," he said simply. The name hung between
+  them, heavy with implication.
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
+status: captured
+supersedes: null

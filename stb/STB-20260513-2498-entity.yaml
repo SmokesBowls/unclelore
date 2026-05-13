@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-2498
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 170
+line_start: 170
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Kyh was there, standing perfectly still before a towering shelf of shadow-stuff,
+  her form almost merging with it. She didn't turn as Geralt approached.
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_054_tue_lunar_spire.md
+status: captured
+supersedes: null

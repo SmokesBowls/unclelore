@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-3447
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 95
+line_start: 95
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: Isla pondered this explanation. "The texts mention something similar happening
+  around the Star Needles when they were first activated. They called it 'reality
+  harmonization'—a process where the physical world aligned itself with Anunnaki designs."
+signal_type: entity
+source_file: raw/chapters/book_16_fragmented_beginning_085_ancient_knowledge.md
+status: captured
+supersedes: null

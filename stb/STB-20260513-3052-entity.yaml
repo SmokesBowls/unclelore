@@ -1,0 +1,23 @@
+audit_only: true
+buffer_id: STB-20260513-3052
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 25
+line_start: 25
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: Tran felt his gaze drawn inexorably toward the Star Needle that dominated
+  the landscape of Sundrift Valley with its crystalline structure and mysterious emanations
+  of power that had been a constant presence throughout his childhood but which had
+  never before communicated with the directness and clarity that he was now experiencing.
+  The ancient installation was no longer simply a mysterious landmark or even a source
+  of power that could enhance his abilities under the right circumstances—it was calling
+  to him with recognition that spoke of preparation and purpose that had been ongoing
+  for decades while he remained unaware of the destiny that was being prepared for
+  his eventual fulfillment.
+signal_type: entity
+source_file: raw/chapters/book_12_forged_identity_069_divergent_paths.md
+status: captured
+supersedes: null

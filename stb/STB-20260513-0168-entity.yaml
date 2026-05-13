@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-0168
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 172
+line_start: 172
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: He did not think about the Earth reptiles whose genetic material had been
+  harvested for this project. Did not consider that these Reptilians were as much
+  victims of Anunnaki manipulation as the Igigi who served as slave labor. Why would
+  he? They were constructs, purpose-built for specific functions, their consciousness
+  intentionally limited to prevent the troublesome self-awareness that made other
+  species difficult to manage.
+signal_type: entity
+source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+status: captured
+supersedes: null

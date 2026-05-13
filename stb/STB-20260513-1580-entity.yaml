@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-1580
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 75
+line_start: 75
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'The choice carved itself into his bones. Images: Oreck disintegrating
+  into light. Mika dissolving. Five hundred souls vaporized as raw power surged through
+  him—dragon wings unfurling against the void. Silence the storm. Claim the spire.
+  Become its master. Sacrifice the anchor. Geralt’s breath hitched. Beneath the water,
+  the roots tightened.'
+signal_type: entity
+source_file: raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+status: captured
+supersedes: null

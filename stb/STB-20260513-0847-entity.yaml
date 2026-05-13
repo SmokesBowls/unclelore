@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-0847
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 309
+line_start: 309
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Threads of radiant light snaked from her scales, reaching for Geralt with
+  speed that transcended normal physics. Oreck intercepted—massive bulk throwing itself
+  into the binding spell's path, taking impact meant for human companion.
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+status: captured
+supersedes: null

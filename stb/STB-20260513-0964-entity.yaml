@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-0964
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 175
+line_start: 175
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: A Federation enforcer—this one vaguely reptilian but smaller than Oreck,
+  faster, covered in scales that shifted colors to match surroundings—appeared from
+  Geralt's blind spot, energy blade materializing in clawed hand.
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+status: captured
+supersedes: null

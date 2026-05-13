@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-1850
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 53
+line_start: 53
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Mika walked beside Geralt, her map in hand, making notes. “See the pattern?”
+  she murmured, pointing with her charcoal. “The corruption spreads along the ley
+  lines. The veins of the land.”
+signal_type: entity
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_042_the_verdant_crossing.md
+status: captured
+supersedes: null

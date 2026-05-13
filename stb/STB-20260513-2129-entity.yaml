@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-2129
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 99
+line_start: 99
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Month 1 was raw survival. They cleared a flat space near the stream with
+  axes and sheer will. The first structure was a simple hut of stone and timber—Geralt
+  and Mika's. The second was a long barracks for the soldiers. It was basic, drafty,
+  and home.
+signal_type: entity
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_047_mika.md
+status: captured
+supersedes: null

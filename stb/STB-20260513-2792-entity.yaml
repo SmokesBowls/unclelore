@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-2792
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 479
+line_start: 479
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Falconridge smelled of wet charcoal and unanswered letters. Geralt paused
+  at Mika's grave, the sword Violet had given him humming against his hip. The headstone
+  was newer than he remembered, the edges still sharp. Kyh melted into the treeline,
+  granting him the illusion of solitude.
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+status: captured
+supersedes: null

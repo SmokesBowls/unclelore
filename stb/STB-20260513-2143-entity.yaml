@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-2143
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 13
+line_start: 13
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt walked the length of the continent in those years, but always returned
+  to one place.
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_048_the_ledger_born.md
+status: captured
+supersedes: null

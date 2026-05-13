@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-3802
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 99
+line_start: 99
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: UNKNOWN
+raw_quote: 'From that day, the exchanges became more frequent. Not just Sera, but
+  others: Kael, who could feel the pulse; Renn, whose scouts had learned to read the
+  land; even some of the crafters, who found that the giants watched their work with
+  something like fascination. Words accumulated slowly – not language yet, but the
+  foundations of one. The giants learned the Nephoretti words for needle, wall, grow,
+  help. The Nephoretti learned the giant sounds for stone, water, sky, war.'
+signal_type: entity
+source_file: raw/chapters/book_20_the_discordant_pulse_south_105_garden_grove.md
+status: captured
+supersedes: null

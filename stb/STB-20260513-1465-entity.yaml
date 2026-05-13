@@ -1,0 +1,23 @@
+audit_only: true
+buffer_id: STB-20260513-1465
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 29
+line_start: 29
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: They didn’t charge. They simply… lined up. Formed a rough corridor leading
+  away from the Heart’s crater, towards the faint, treacherous path skirting the chasm’s
+  edge. Their obsidian eyes, like chips of volcanic glass, fixed not on him as prey,
+  but *through* him, towards the scarred depression he’d just climbed from. Their
+  nostrils flared, tasting the lingering psychic residue – the shared grief, the acknowledged
+  pain. One, a massive elder with cracked horns, lowered its head slightly. A low,
+  rumbling groan vibrated through the sand beneath Geralt’s boots, not aggressive,
+  but resonant. It echoed the Heart’s weary thrum. The applicator remained silent;
+  no threat detected. The dragon armor hummed softly, echoing Zaron’s shared sorrow.
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
+status: captured
+supersedes: null

@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-0407
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 142
+line_start: 142
+parsed_payload:
+  predicate: serves
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: '"And collective evolution serves individual synthesis when it creates
+  contexts that support rather than restrict consciousness development, that encourage
+  rather than punish the exploration of unprecedented possibilities," Torrhen added,
+  his geological wisdom touching patterns of social change that operated according
+  to principles similar to those governing individual growth.'
+signal_type: relationship
+source_file: raw/chapters/book_04_sage_saga_020_the_collapse.md
+status: captured
+supersedes: null

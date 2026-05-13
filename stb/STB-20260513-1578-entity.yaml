@@ -1,0 +1,23 @@
+audit_only: true
+buffer_id: STB-20260513-1578
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 68
+line_start: 68
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'Oreck moved first. Boots struck water—and the storm ignited. Arcs spiderwebbed,
+  seeking conduits. Gear sparked. Shields died. Torren screamed as an eel-thing latched
+  onto his greave, bioelectricity seizing muscle. Halvar hacked it free, blade sizzling.
+  Mika’s reflection leered: *Weakness costs lives*. She fired her lance into the water.
+  Mist rose, stinging ozone. Geralt waded deeper, Zaron’s spirit warring with the
+  storm’s pull. Azure scales flared brighter, repelling arcs. But the reflections
+  whispered. Zaren’s dragon-shadow coiled in ripples: *Accept her power. Let them
+  burn.* Truth’s weight crushed him. Each step sank deeper into liquid light. Lyra
+  stumbled, rig sputtering. "Resonance overload! Gear’'
+signal_type: entity
+source_file: raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+status: captured
+supersedes: null

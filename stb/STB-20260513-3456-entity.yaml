@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-3456
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 19
+line_start: 19
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: He paused, his hand resting on a particular section of the wall where geometric
+  patterns spiraled into infinity. Behind that wall lay the true Void Spire resonance—not
+  just a key or a fragment, but the living heart of an ancient network that predated
+  the Anunnaki's arrival on Earth. Leaving it, even temporarily, felt like abandoning
+  a piece of his own consciousness.
+signal_type: entity
+source_file: raw/chapters/book_16_fragmented_beginning_086_sanctuary_to_storm.md
+status: captured
+supersedes: null

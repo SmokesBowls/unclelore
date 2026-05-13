@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3045
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 231
+line_start: 231
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: '"The Star Needle network answers your blood," Zephyr said as he materialized
+  the transportation that would carry Tran back to Earth while his brother remained
+  among the stars to develop abilities that would serve different but complementary
+  purposes. "Go where you are needed."'
+signal_type: entity
+source_file: raw/chapters/book_12_forged_identity_068_brotherhood_revealed.md
+status: captured
+supersedes: null

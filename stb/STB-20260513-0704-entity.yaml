@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0704
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 1484
+line_start: 1484
+parsed_payload:
+  confidence: medium
+  entity_name: Nehereti
+  entity_type: UNKNOWN
+raw_quote: Figures made of flowing light. Watching from spaces that weren't quite
+  present. The Nehereti, observing with ancient patience, waiting for this critical
+  juncture—this moment of shattered chains and fallen gods—to act on purposes he couldn't
+  comprehend.
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
+status: captured
+supersedes: null

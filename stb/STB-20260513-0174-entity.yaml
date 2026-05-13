@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-0174
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 194
+line_start: 194
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: UNKNOWN
+raw_quote: Around them in the breeding chambers, hundreds of other Igigi families
+  existed in various states of reproduction. The Anunnaki had calculated optimal population
+  growth rates and implemented breeding programs designed to maximize workforce expansion
+  while maintaining genetic diversity. Pairs were selected based on compatibility
+  matrices. Reproduction was scheduled according to labor requirements.
+signal_type: entity
+source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+status: captured
+supersedes: null

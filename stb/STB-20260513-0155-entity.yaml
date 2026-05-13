@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-0155
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 126
+line_start: 126
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: UNKNOWN
+raw_quote: '"The mathematics suggest they lack the capability," Pazuzu responded,
+  though his heart—if Igigi could be said to have hearts—hoped otherwise. He hoped
+  someone, somewhere, had the strength to resist what his people had been too fragmented
+  to oppose. "But hope operates outside mathematical certainty. Perhaps they will
+  surprise us all."'
+signal_type: entity
+source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+status: captured
+supersedes: null

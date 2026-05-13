@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-2744
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 301
+line_start: 301
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: He turned his back on the shaft, his gaze now a physical weight on Geralt's
+  transformed body. "Your new composition... it is a paradox engine. But to be the
+  splinter that can shatter her stillness, it needs a power source her white sky cannot
+  filter, cannot siphon. It needs the very thing she is murdering."
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+status: captured
+supersedes: null

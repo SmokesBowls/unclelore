@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-0800
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 99
+line_start: 99
+parsed_payload:
+  confidence: medium
+  entity_name: Aeon Keepers
+  entity_type: UNKNOWN
+raw_quote: '"Will you come with me? Will you help me claim what the Aeon Keepers prepared?
+  Will you witness my transformation and ensure I remain myself despite power I''m
+  about to receive?"'
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+status: captured
+supersedes: null

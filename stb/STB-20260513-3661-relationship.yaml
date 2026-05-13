@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3661
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 112
+line_start: 112
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: '"They succeeded," Zyx-9 replied. "Found the perfect solution. But the
+  corruption learned from it. Evolved. Made the solution part of the problem. Now
+  Helix calculates infinitely, trying to solve their own solving."'
+signal_type: relationship
+source_file: raw/chapters/book_19_worthy_opponents_north_098_depths_of_memory.md
+status: captured
+supersedes: null

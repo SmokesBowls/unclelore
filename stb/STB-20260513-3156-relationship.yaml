@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-3156
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 55
+line_start: 55
+parsed_payload:
+  predicate: serves
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: Keen watched in fascination as Silver Mika created constructs of pure moonlight
+  that served as translation interfaces between different types of awareness. Through
+  these bridges, a being that existed primarily in physical reality could communicate
+  with entities that were purely spiritual, or consciousness that operated on individual
+  scales could interface with collective intelligences that spanned entire star systems.
+signal_type: relationship
+source_file: raw/chapters/book_14_lessons_of_inheritance_076_lunar_inheritance.md
+status: captured
+supersedes: null

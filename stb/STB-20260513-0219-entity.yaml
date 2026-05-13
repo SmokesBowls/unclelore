@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-0219
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 39
+line_start: 39
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: UNKNOWN
+raw_quote: Within the hour, the situation was prepared. Eduhauana stood in a clearing
+  between the construction site and the mountain caves where the jade-green Giants
+  made their home. No Reptilian guards—she had dismissed them. No Igigi workers—they
+  watched from safe distance. Just the Queen, alone, waiting with the patience of
+  one who had outlived civilizations.
+signal_type: entity
+source_file: raw/chapters/book_02_age_of_servitude_008_queens_assessment.md
+status: captured
+supersedes: null

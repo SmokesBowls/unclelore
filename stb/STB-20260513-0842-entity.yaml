@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0842
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 283
+line_start: 283
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Her face was long, elegant, tragic—adorned with six eyes that tracked Geralt
+  and Oreck with intelligence that transcended bestial awareness. The upper pair burned
+  like dying suns, the middle pair shimmered with tears that never fell, and the lowest
+  pair were dull, blind, as though mercy itself had been carved away.
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+status: captured
+supersedes: null

@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0228
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 137
+line_start: 137
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: UNKNOWN
+raw_quote: Queen Eduhauana herself administered the programming—not through crude
+  technological interfaces, but through direct consciousness-touch that bypassed all
+  the defenses Igigi psychology might have mustered. Her presence in his mind was
+  overwhelming, ancient, carrying the weight of civilizations she had personally destroyed.
+signal_type: entity
+source_file: raw/chapters/book_02_age_of_servitude_008_queens_assessment.md
+status: captured
+supersedes: null

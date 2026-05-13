@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-3423
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 139
+line_start: 139
+parsed_payload:
+  confidence: medium
+  entity_name: Aeon Keepers
+  entity_type: UNKNOWN
+raw_quote: '"We will send emissaries to our kin," Gaiana continued. "The Mountain
+  Giants of the Northern Ranges, the Forest Giants of the Emerald Depths, the Storm
+  Giants of the Howling Peaks. If the Fifth Coming truly approaches, all Giant-kind
+  must stand united once more, as we did when the Aeon Keepers still walked among
+  us."'
+signal_type: entity
+source_file: raw/chapters/book_16_fragmented_beginning_084_earth_giants_and_diverging_paths.md
+status: captured
+supersedes: null

@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-2340
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 66
+line_start: 66
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: A strange harmony, Violet observed softly in Geralt's mind. Different musics,
+  same song of survival.
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_051_arrival_in_fire.md
+status: captured
+supersedes: null

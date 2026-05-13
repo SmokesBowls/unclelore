@@ -1,0 +1,22 @@
+audit_only: true
+buffer_id: STB-20260513-2808
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 14
+line_start: 14
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: These sensations troubled him, not because they were unpleasant—quite the
+  opposite—but because they felt so utterly foreign to the life he had built, the
+  life he understood. Tran was a farmer, son of farmers, heir to nothing more exotic
+  than fertile soil and the knowledge passed down through generations of those who
+  worked it. The strange stirring in his blood, the warmth that had nothing to do
+  with the morning sun, the dreams of dragon fire—these things belonged to stories
+  told around winter hearths, not to the practical reality of grain and harvest and
+  the honest work of hands in soil.
+signal_type: entity
+source_file: raw/chapters/book_11_blood_and_legacy_060_echoes_of_the_cradle.md
+status: captured
+supersedes: null

@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-0093
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 50
+line_start: 50
+parsed_payload:
+  confidence: medium
+  entity_name: Neferati
+  entity_type: UNKNOWN
+raw_quote: More obelisks followed. Different sizes, different proportions, different
+  harmonic frequencies. Some stood alone on prominent peaks. Others clustered in groups
+  of three or five, creating interference patterns that the Neferati were still trying
+  to understand. A few failed catastrophically—stone cracking under its own weight
+  or shattering when underground water expanded during freeze-thaw cycles.
+signal_type: entity
+source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+status: captured
+supersedes: null

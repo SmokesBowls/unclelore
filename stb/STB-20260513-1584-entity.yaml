@@ -1,0 +1,22 @@
+audit_only: true
+buffer_id: STB-20260513-1584
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 83
+line_start: 83
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'Lyra’s fingers flew over her Medicae Rig’s scorched panel. "Commander...
+  the null state Sahvant theorized? Luminara—she didn’t retreat. She *split*. A fragment
+  anchored in stasis..." Her eyes locked on Geralt’s dragonmail. "...the other became
+  the storm." The implications hung thick. Luminara’s light judged because it was
+  broken. Her harmony sought not a master, but harmony itself. Geralt’s breath caught.
+  Zaren’s ghost-shadow whispered again: *Burn the roots. Ascend*. But Mika’s reflection—steadfast,
+  unyielding—answered silently: *Anchor us*. The roots coiled tighter. Below Geralt’s
+  boots, the lakebed trembled.'
+signal_type: entity
+source_file: raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+status: captured
+supersedes: null

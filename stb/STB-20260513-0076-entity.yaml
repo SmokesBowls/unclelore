@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-0076
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 60
+line_start: 60
+parsed_payload:
+  confidence: medium
+  entity_name: Neferati
+  entity_type: UNKNOWN
+raw_quote: The Giant's presence was vast. Not hostile, but ancient. Like touching
+  stone that had witnessed the birth of oceans, the rise of mountains, the patient
+  work of erosion transforming landscape across geological time. Within that vastness
+  moved currents of... confusion? Uncertainty? The Giant was as confused by the Neferati
+  as the Neferati were by the Giants' fear.
+signal_type: entity
+source_file: raw/chapters/book_01_book_of_genesis_004_the_convergence.md
+status: captured
+supersedes: null

@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3472
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 14
+line_start: 14
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: '"The Verdant Mika said we would find welcome here," Tran said, recalling
+  the green elemental guide who had appeared to them at the edge of the Earth Giant
+  settlement. The appearance had been brief but significant—the second Mika to manifest
+  directly to them after the Crimson Mika had guided them through the desert.'
+signal_type: entity
+source_file: raw/chapters/book_16_fragmented_beginning_087_the_breath_of_life.md
+status: captured
+supersedes: null

@@ -1,0 +1,22 @@
+audit_only: true
+buffer_id: STB-20260513-1388
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 27
+line_start: 27
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt took a breath. *For Mika,* he thought fiercely. He visualized his
+  tripartite harmony – applicator structure, armor power, his own defiant will – as
+  a blazing core within him. He poured his focus inward, wrapping this core in layers
+  of solidified intent. He felt the sinkhole’s pull, the thick chroniton sludge trying
+  to seep into his awareness. He pushed back, not against the sludge, but against
+  its *influence*, anchoring his internal rhythm firmly to his own heartbeat. The
+  applicator’s warnings faded to a background hum. The armor’s resonance steadied.
+  He stepped off the ledge.
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
+status: captured
+supersedes: null

@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-0286
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 24
+line_start: 24
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: Ninurta processed the data. The Dregans were a weapon that hated the hand
+  that held it. They were dangerous to the enemy, dangerous to themselves, and posed
+  a non-zero threat to Anunnaki overseers. But the strategic calculation was undeniable.
+  The desert Giants’ stone-flesh was uniquely vulnerable to this form of attack. The
+  psychological impact of facing a corrupted, raging mirror of their own potential
+  would be devastating.
+signal_type: entity
+source_file: raw/chapters/book_03_the_reckoning_011_escalation_and_desperation.md
+status: captured
+supersedes: null

@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-2677
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 235
+line_start: 235
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt counted their footfalls instead of screams. Violet Mika's absence
+  was the loudest—until reality itself hiccuped, and the last two riders simply ceased
+  mid-stride, their outlines fraying like poorly rendered ink sketches. Only then
+  did Violet Mika condense from the empty air beside Geralt, her cloak still rippling
+  with afterimages of erased spacetime. "Cleaner this way," she murmured, though her
+  voice came from everywhere and nowhere, a harmonic pressed between seconds.
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
+status: captured
+supersedes: null

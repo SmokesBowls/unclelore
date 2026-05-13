@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-2765
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 381
+line_start: 381
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: '"Appropriate," Geralt finished. He tested the weight of the blade. It
+  hummed, resonating with the shard in his pocket, not a tool for cutting. A conductor
+  for stellar rage.'
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+status: captured
+supersedes: null

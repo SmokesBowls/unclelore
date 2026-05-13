@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-1760
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 537
+line_start: 537
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: The Legion surged forward. Geralt moved with them, Lyra's hand on his arm,
+  guards forming a protective box around them. He could feel Luminaire now—close,
+  so close—her physical form somewhere beneath the pyramid, drowning in corruption,
+  crying out through their fragmenting bond.
+signal_type: entity
+source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
+status: captured
+supersedes: null

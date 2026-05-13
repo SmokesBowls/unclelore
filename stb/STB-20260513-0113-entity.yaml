@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0113
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 174
+line_start: 174
+parsed_payload:
+  confidence: medium
+  entity_name: Neferati
+  entity_type: UNKNOWN
+raw_quote: Below, a celebration was beginning. The Giants had declared this day sacred—the
+  Festival of First Contact, commemorating that terrible morning when Neferati fell
+  from the sky and Giants fled in terror. Now, centuries later, both species gathered
+  to celebrate not the fear, but what had been built beyond it.
+signal_type: entity
+source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+status: captured
+supersedes: null

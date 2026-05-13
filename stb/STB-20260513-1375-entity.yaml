@@ -1,0 +1,34 @@
+audit_only: true
+buffer_id: STB-20260513-1375
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 90
+line_start: 90
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'The ensuing month bled into Geralt’s bones like cold iron. Time within
+  the Nexus obeyed no earthly rhythm; days stretched into subjective years under Kaelen’s
+  relentless tutelage. His focus shifted decisively from brute-force stabilization
+  to the Star Needle spire’s true potential: temporal *placement*. Not just anchoring
+  points in chaos, but *understanding* them. Kaelen guided him through the spire’s
+  fractured chroniton code, layer by agonizing layer. "See the harmonic lattice?"
+  she’d snap as he wrestled with a shimmering strand of corrupted light projected
+  by the applicator. "This sequence dictates resonance decay. Alter *here*." Geralt
+  learned to rewrite the spire’s fundamental protocols, not just harmonize with them.
+  He learned to harness the chaotic streams not as obstacles, but as pathways—tunneling
+  through temporal inertia by aligning his tripartite signature with the Nexus’s own
+  turbulent flow. Each lesson was etched in pain and exhaustion, the fractured applicator
+  protesting every manipulation, Zaron’s spirit a banked fire lending stubborn endurance.
+  He learned to feel the subtle signatures of the Void Spires – distant, ancient structures
+  anchoring reality’s deeper layers. And he learned of their guardians: the Resonant
+  Keepers. Luminaire. The First. The missing piece. Kaelen’s galactic eyes held a
+  grim certainty when she spoke the name. "Luminaire’s resonance signature is the
+  key to navigating the deeper eddies. To finding *specific* pockets. To finding Mika."
+  She paused, the Nexus swirling violently around their temporary anchor point. "And
+  Luminaire… is bound to Earth."'
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_034_the_250.md
+status: captured
+supersedes: null

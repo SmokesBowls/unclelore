@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-1880
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 237
+line_start: 237
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: “Overloaded salvaged Anunnaki armor to break an energy barrier.” Zir’aeth
+  whistled. “That’s not tactics, that’s desperation.”
+signal_type: entity
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_042_the_verdant_crossing.md
+status: captured
+supersedes: null

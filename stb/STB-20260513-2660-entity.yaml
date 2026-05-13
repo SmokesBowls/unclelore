@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-2660
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 179
+line_start: 179
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt turned east—*true* east, the direction that had been forbidden when
+  the white sky ate the old constellations. The numbness in his chest pulsed once,
+  an anchor finding its seabed. Somewhere beneath Tidecaller's jagged peaks, Zypher
+  was waiting. Not hiding. *Baiting.* The realization settled between Geralt's ribs
+  with the certainty of a blade sliding home. This wasn't a rescue. It was a rendezvous
+  between two scars on reality's skin.
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
+status: captured
+supersedes: null

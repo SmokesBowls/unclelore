@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-0778
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 19
+line_start: 19
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: '"The Nehereti," Geralt answered, knowing Oreck couldn''t understand the
+  words but hoping tone conveyed meaning. "Ancient beings. Older than the Anunnaki.
+  They gave me gifts—speech and sight beyond sight. Tools for what comes next."'
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+status: captured
+supersedes: null

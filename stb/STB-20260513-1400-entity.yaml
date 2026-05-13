@@ -1,0 +1,30 @@
+audit_only: true
+buffer_id: STB-20260513-1400
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 49
+line_start: 49
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'They stepped through the arch. Reality fractured. Geralt stood simultaneously
+  on a sun-drenched savannah, a rain-lashed city street, and the frozen cavern. Sounds
+  overlapped – lion roars, honking horns, dripping water. Kaelen remained a constant
+  point beside him. "Focus!" she commanded sharply. "Anchor your *now*! See the chroniton
+  threads!" Geralt wrenched his focus inward, locking onto his tripartite core. The
+  chaotic sensory overload dimmed. He saw it: tangled chroniton threads weaving through
+  the fractured space, some frayed, some knotted impossibly. At the chamber''s chaotic
+  center pulsed a raw wound in reality – the locus fracture itself. And perched atop
+  a jagged ice spire overlooking it, hunched over a frozen grivet kit, was the predator.
+  It resembled a skeletal tromino assembled from mismatched bones, its single eye
+  a swirling vortex of stolen screams. It hissed, dropping the frozen grivet. "Katherine?"
+  Geralt breathed, recognizing the name etched on a tiny collar fragment. Kaelen’s
+  blade materialized. "It names its trophies. Now it hunts bigger prey." The predator
+  launched itself, a screech tearing through the fractured air. Geralt met its charge,
+  his blade singing against bone claws, his harmony a shield against the vortex eye’s
+  temporal pull. The true lesson had begun.'
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
+status: captured
+supersedes: null

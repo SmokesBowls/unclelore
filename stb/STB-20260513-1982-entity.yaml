@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-1982
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 264
+line_start: 264
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: He opened his eyes to the physical world. The night was still cold, the
+  wind still screamed. But the vibration in his bones was gone. His heartbeat was
+  a slow, metronomic echo of the Anchor sigil. He looked at his hands—they were steady,
+  unchanging. The boy from the forest was gone. The weapon from Kaer Morhen was gone.
+  What remained was Geralt of the Anchor. The keeper of a watch that had just begun.
+signal_type: entity
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_044_the_mountains_shadow.md
+status: captured
+supersedes: null

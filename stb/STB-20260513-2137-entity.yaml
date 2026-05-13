@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-2137
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 172
+line_start: 172
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt sat beside her. Time had not touched him. The scars that crisscrossed
+  his skin were as stark as the day he’d earned them. His face, though hardened by
+  millennia of memory, bore no new lines. "I know" he said
+signal_type: entity
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_047_mika.md
+status: captured
+supersedes: null

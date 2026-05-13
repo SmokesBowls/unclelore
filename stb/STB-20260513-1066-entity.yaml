@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-1066
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 39
+line_start: 39
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: '"Two compounds freed," Geralt began, voice amplified by armor but pitched
+  conversationally rather than authoritatively. "Two Overseers dead. Four hundred
+  guards disabled. Zero casualties among enslaved populations during actual combat."'
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
+status: captured
+supersedes: null

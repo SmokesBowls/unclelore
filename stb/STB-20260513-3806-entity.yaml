@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-3806
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 183
+line_start: 183
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: UNKNOWN
+raw_quote: The winter passed slowly, marked by the rhythm of the pulse, the work of
+  the settlement, the silent vigil of the Ma'at. The grove giants patrolled the outer
+  complex, their eyes always on the east. The Nephoretti sang to the Keeper, sending
+  their voices through the crystal veins, keeping the pulse strong. And somewhere
+  beneath them, the Keeper stirred in its dreaming, reaching toward waking.
+signal_type: entity
+source_file: raw/chapters/book_20_the_discordant_pulse_south_105_garden_grove.md
+status: captured
+supersedes: null

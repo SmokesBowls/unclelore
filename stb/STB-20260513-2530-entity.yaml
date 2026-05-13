@@ -1,0 +1,15 @@
+audit_only: true
+buffer_id: STB-20260513-2530
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 128
+line_start: 128
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: “Get in,” Geralt said.
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_055_the_anchors_forge.md
+status: captured
+supersedes: null

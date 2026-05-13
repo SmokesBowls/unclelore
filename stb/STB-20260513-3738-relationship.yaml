@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-3738
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 272
+line_start: 272
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: '"Then we change the rules," she said firmly. "If we''re part of her circuit,
+  we choose what energy we provide."'
+signal_type: relationship
+source_file: raw/chapters/book_19_worthy_opponents_north_102_convergence_on_mars.md
+status: captured
+supersedes: null

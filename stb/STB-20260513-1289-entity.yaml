@@ -1,0 +1,23 @@
+audit_only: true
+buffer_id: STB-20260513-1289
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 57
+line_start: 57
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: The third drake, smarter, circled wide, trying to flank Geralt. The applicator
+  mapped its path. The armor sensed its predatory focus. Geralt felt the chroniton
+  anchor point *within himself*—his own position, amplified by the Needle. He couldn't
+  move it, but he could... *harden* it. He visualized his presence as a fixed point,
+  radiating temporal stability outward. As the drake lunged, jaws snapping for his
+  flank, it hit the reinforced field. Its teeth grated on nothing tangible, its charge
+  halted mid-air as if hitting solid stone. Geralt spun, drawing the short blade fused
+  to his dragon-scale vambrace. The blade, humming with the armor's spirit, plunged
+  deep into the drake's exposed throat. Hot, acrid blood sprayed.
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_032_the_redo.md
+status: captured
+supersedes: null

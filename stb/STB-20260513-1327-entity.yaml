@@ -1,0 +1,23 @@
+audit_only: true
+buffer_id: STB-20260513-1327
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 308
+line_start: 308
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Then, a sharp cry pierced the heavy silence. Above, against the bruised
+  expanse, a falcon circled. It screamed again, a piercing sound that cut through
+  the oppressive hum. Another joined it, then another. Falcons. Three of them, riding
+  the thermals rising from the heated rocks. They wheeled, then dipped sharply, skimming
+  low over the ridge Mika had been heading towards. They vanished beyond its crest.
+  Water? Prey? Or… Geralt? Hope, fragile and fierce, surged. She pushed herself up,
+  her legs protesting, the bloody cloth clutched tight. She scrambled up the treacherous
+  slope, fingers scraping raw on sharp rock, following the falcons’ path. Maybe they’d
+  lead her to water. Maybe, just maybe, to him. She crested the ridge, gasping.
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_033_the_march.md
+status: captured
+supersedes: null

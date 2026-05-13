@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-3205
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 197
+line_start: 197
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: Tran opened his consciousness to the Spire's guidance, feeling ancient
+  systems recognize his authority to access cosmic infrastructure that had remained
+  dormant since the last great awakening. Through that connection, he could perceive
+  the larger picture of what they were dealing with—nine Needle Spires distributed
+  across Earth's surface, seven of them awakening under hostile control.
+signal_type: entity
+source_file: raw/chapters/book_15_legends_and_gods_079_mages_awakening.md
+status: captured
+supersedes: null

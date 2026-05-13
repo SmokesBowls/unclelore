@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0057
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 40
+line_start: 40
+parsed_payload:
+  confidence: medium
+  entity_name: Aeon Keepers
+  entity_type: UNKNOWN
+raw_quote: Senareth felt gratitude ripple through their Prime connection—not from
+  the Aeon Keepers, but from their own consciousness recognizing kindred spirit. Elyraen
+  understood observation, patient data collection. They would be valuable in the work
+  ahead.
+signal_type: entity
+source_file: raw/chapters/book_01_book_of_genesis_003_first_contact.md
+status: captured
+supersedes: null

@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-2613
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 3
+line_start: 3
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: The Guild's wards hummed as Geralt crossed the threshold—not a barrier,
+  but a sieve, testing the harmonics of his borrowed divinity. Behind him, Oreck's
+  tail lashed once against the lunar dust before the reptilian warrior melted into
+  the sprawl's shadows. Inside, the air smelled of ozone and something deeper, like
+  the scent of an old blade being reforged.
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
+status: captured
+supersedes: null

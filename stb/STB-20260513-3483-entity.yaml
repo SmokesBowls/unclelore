@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-3483
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 36
+line_start: 36
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: Tran struggled to regain control of the Dragon Mail, which continued to
+  twitch and shift as if trying to communicate in a language he couldn't understand.
+  "I'm sorry—it's never reacted like this before."
+signal_type: entity
+source_file: raw/chapters/book_16_fragmented_beginning_087_the_breath_of_life.md
+status: captured
+supersedes: null

@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-0624
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 989
+line_start: 989
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: Movement near the Anunnaki's elevated observation posts, where the golden
+  figures would manifest when they chose to survey their property. Not large movement.
+  Not the ponderous arrival of their masters or the deliberate patrol of Overseers.
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_024_the_first_spark.md
+status: captured
+supersedes: null

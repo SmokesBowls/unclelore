@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-3229
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 425
+line_start: 425
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: '"That''s our leverage," Tran realized as the approach crystallized into
+  practical strategy. "We''re not just offering partnership—we''re offering to prevent
+  a catastrophe that they don''t even know they''re creating."'
+signal_type: entity
+source_file: raw/chapters/book_15_legends_and_gods_079_mages_awakening.md
+status: captured
+supersedes: null

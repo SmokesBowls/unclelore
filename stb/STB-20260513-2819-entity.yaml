@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-2819
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 68
+line_start: 68
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: The tone of her voice—not quite alarm, but something beyond simple curiosity—caused
+  Tran to stop what he was doing and follow her gaze upward. What he saw made his
+  blood run cold, then flood with a warmth he'd never experienced before, as if his
+  very circulatory system were responding to some cosmic stimulus.
+signal_type: entity
+source_file: raw/chapters/book_11_blood_and_legacy_060_echoes_of_the_cradle.md
+status: captured
+supersedes: null

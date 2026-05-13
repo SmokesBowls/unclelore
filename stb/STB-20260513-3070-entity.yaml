@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-3070
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 119
+line_start: 119
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: '"Apart, we''re learning what we need to become complete," Tran replied,
+  his recognition of the temporary nature of their separation carrying both anticipation
+  of eventual reunion and understanding that their current specialized training was
+  strengthening rather than diminishing their partnership by preparing them for roles
+  that would require different expertise while operating toward unified goals and
+  purposes.'
+signal_type: entity
+source_file: raw/chapters/book_12_forged_identity_069_divergent_paths.md
+status: captured
+supersedes: null

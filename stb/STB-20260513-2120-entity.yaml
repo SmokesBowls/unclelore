@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-2120
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 47
+line_start: 47
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'They stayed for three days. Some of the freed slaves chose to remain in
+  Ironspire, their fight done, craving simple walls and steady work. Some Legion veterans,
+  too weary for another march, integrated into the town''s guard. The core group that
+  gathered to move on was smaller, tighter: Geralt, Mika, Oreck, and about fifty of
+  the most loyal, restless veterans.'
+signal_type: entity
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_047_mika.md
+status: captured
+supersedes: null

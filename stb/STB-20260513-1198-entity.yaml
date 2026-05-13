@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-1198
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 760
+line_start: 760
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: This was what the Anunnaki did best. Not dramatic conquest but systematic
+  administration. Converting consciousness into function. Transforming people into
+  property through procedures so normalized that fighting back seemed not just futile
+  but nonsensical.
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
+status: captured
+supersedes: null

@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-0644
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 549
+line_start: 549
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: 'One Applicator surviving: this one, the unit that had been in transit
+  between hosts when evacuation occurred, that had hidden itself in Anunnaki storage
+  until emergency protocols forced it to seek shelter in the nearest suitable consciousness—'
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
+status: captured
+supersedes: null

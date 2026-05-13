@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-1315
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 255
+line_start: 255
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: Two hundred and fifty pairs of boots crunched over shattered rock. The
+  Anunnaki ship hadn't landed; it had carved its tomb. Twenty miles of armored hull
+  lay crumpled against the peaks, plowing valleys where none existed yesterday. Jagged
+  metal cliffs rose higher than cathedrals, dripping coolant like black blood. The
+  air reeked of scorched earth and something disturbingly sweet.
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_033_the_march.md
+status: captured
+supersedes: null

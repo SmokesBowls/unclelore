@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-0305
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 39
+line_start: 39
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: '"The Aeon Keepers," Pazuzu realized, his mathematical mind connecting
+  threads across cosmological scales. "The beings who created the Neferati, who opposed
+  Anunnaki conquest from the beginning. If we could reach them in the Ethereal Realm—"'
+signal_type: entity
+source_file: raw/chapters/book_03_the_reckoning_012_nephilim_summoning.md
+status: captured
+supersedes: null

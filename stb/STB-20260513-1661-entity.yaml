@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-1661
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 224
+line_start: 224
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Oreck didn’t flinch. His arrow’s chroniton tip hummed with stolen time—the
+  spark before impact. He aimed low, beneath the root’s armored segments, toward threads
+  binding it to the deeper network. "Feeding tube," he hissed. Geralt nodded, blood
+  dripping from his temple onto Luminara’s haft. The relic drank it greedily, light
+  wavering between white and sickly gold-green imitation. Parasite logic adapted.
+  Patience wore thin.
+signal_type: entity
+source_file: raw/chapters/book_07_light_resonance_and_the_function_039_jungle_fever.md
+status: captured
+supersedes: null

@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-0646
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 611
+line_start: 611
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: 'Another concept-package, this one carrying something that might have been
+  regret if consciousness constructed from Anunnaki technology could experience such
+  emotion:'
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
+status: captured
+supersedes: null

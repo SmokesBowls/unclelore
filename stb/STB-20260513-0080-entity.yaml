@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-0080
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 116
+line_start: 116
+parsed_payload:
+  confidence: medium
+  entity_name: Aeon Keepers
+  entity_type: UNKNOWN
+raw_quote: 'Senareth felt the Prime connection pulse with sudden urgency. The Aeon
+  Keepers, sending clarification they had withheld until this moment of maximum need:
+  The jade-greens remember. Pelagor memory, encoded in their transformation. They
+  were chased. Harassed. Driven from land by beings that look like you. The memory
+  lives in their stone-flesh even if conscious thought has forgotten.'
+signal_type: entity
+source_file: raw/chapters/book_01_book_of_genesis_004_the_convergence.md
+status: captured
+supersedes: null

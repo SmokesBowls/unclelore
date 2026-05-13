@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-1747
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 421
+line_start: 421
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'Mika walked the perimeter, speaking quietly to squad leaders. Geralt couldn''t
+  hear the words, but he saw the effect—shoulders straightening, fear transforming
+  into grim determination. She had that gift: making the impossible feel survivable
+  through sheer force of will.'
+signal_type: entity
+source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
+status: captured
+supersedes: null

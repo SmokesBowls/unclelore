@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-3665
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 138
+line_start: 138
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: UNKNOWN
+raw_quote: The effect was immediate. Helix's endless calculation stuttered. The equations
+  swirling around them began to dissolve, not solved but abandoned. For the first
+  time in who knew how long, the corrupted Igigi fell silent.
+signal_type: entity
+source_file: raw/chapters/book_19_worthy_opponents_north_098_depths_of_memory.md
+status: captured
+supersedes: null

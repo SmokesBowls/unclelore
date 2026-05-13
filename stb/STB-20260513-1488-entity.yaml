@@ -1,0 +1,29 @@
+audit_only: true
+buffer_id: STB-20260513-1488
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 69
+line_start: 69
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: The cloud-bridge felt like walking through solidified thought. Each step
+  resonated with harmonics, vibrating up Geralt’s legs and into his core. It demanded
+  balance – not just physical, but intentional. A misstep in focus, a spike of fear
+  from Jorik, and the mist beneath their boots would thin alarmingly. Althurion walked
+  effortlessly ahead, his form blending with the vapour. **"Intent shapes substance,"**
+  his harmonics hummed, a lesson woven into the air itself. **"Anger? The bridge trembles.
+  Doubt? It dissolves. Clarity? It holds."** Geralt felt the applicator strain, analyzing
+  the harmonic frequencies, trying to find a stable resonance. It was useless. This
+  wasn't logic; it was *will*. He pictured Mika’s determined smile, Varik’s loyalty,
+  the desperate hope of the scattered 250. Purpose solidified. His steps grew firmer.
+  Beside him, Jorik breathed slowly, eyes fixed on Geralt’s back, drawing resolve
+  from him. The bridge steadied. Ahead, the mist parted onto a vast, impossible plaza
+  carved from living cloud and gleaming ice-crystal. Structures shimmered into view
+  – libraries formed from frozen lightning, archives held in suspended raindrops.
+  And standing sentinel were more Giants, their frost-pale eyes watching, waiting.
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
+status: captured
+supersedes: null

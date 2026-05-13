@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-2654
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 151
+line_start: 151
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'Together, they knelt. Not the stiff formality of vassals—this was collapse
+  and reclamation, joints hitting earth like stones finding their rightful place in
+  a landslide. When they spoke, the harmonics made Geralt''s scorched Applicator whimper
+  in recognition:'
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
+status: captured
+supersedes: null

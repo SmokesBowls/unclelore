@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0354
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 18
+line_start: 18
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: UNKNOWN
+raw_quote: '"Cannot?" The voice belonged to Ishara, youngest of the council, her bio-luminescent
+  skin flickering with patterns of rage. "Or  will not ? You calculate our deaths
+  with the same precision you once used to birth suns, Zephyr. Where is the fire that
+  once burned in Igigi hearts?"'
+signal_type: entity
+source_file: raw/chapters/book_04_sage_saga_016_the_choice_third_coming.md
+status: captured
+supersedes: null

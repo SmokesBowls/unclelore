@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-2454
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 221
+line_start: 221
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt’s hand—not his hand, the network’s hand—reached the edge of the
+  Resonance Pool. The liquid light recoiled from his touch, then surged upward, wrapping
+  around his armored fingers. The connection was instant, violent.
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_053_the_twilight_city.md
+status: captured
+supersedes: null

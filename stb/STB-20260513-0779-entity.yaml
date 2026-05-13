@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0779
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 21
+line_start: 21
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Oreck stared, incomprehension written across features designed for intimidation
+  rather than emotional nuance. But intelligence gleamed in those eyes—awareness that
+  something fundamental had shifted, that Geralt had crossed threshold into capabilities
+  that transcended their shared enslavement.
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+status: captured
+supersedes: null

@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-3396
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 247
+line_start: 247
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: As they prepared to ascend, Korvus approached Tran one last time. "The
+  Blue Fragment has been in our keeping for generations, entrusted to us by the one
+  who flew into the Sun himself. Its purpose was to wait for the one with Crimson
+  Blood who would unite them all." He bowed slightly. "We have fulfilled our duty.
+  Now you must fulfill yours."
+signal_type: entity
+source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
+status: captured
+supersedes: null

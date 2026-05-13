@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0190
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 67
+line_start: 67
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: Stone responded to his touch, beginning the slow process of reorganization.
+  Not the sophisticated communion he had witnessed the indigenous biologicals practicing
+  during covert observations, but crude manipulation. Force rather than partnership.
+  The Anunnaki way.
+signal_type: entity
+source_file: raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
+status: captured
+supersedes: null

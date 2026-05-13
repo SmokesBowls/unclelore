@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-1262
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 383
+line_start: 383
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: He reached the alcove as the first security forces rounded a corner behind
+  him. Anunnaki guards, he noted—not the highest tier, but professional soldiers with
+  training and gear that made the scavengers look like children playing with sticks.
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_031_the_crash_site.md
+status: captured
+supersedes: null

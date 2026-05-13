@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-0291
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 82
+line_start: 82
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: UNKNOWN
+raw_quote: '"They are not soldiers," Pazuzu observed, his multifaceted eyes processing
+  light and data streams simultaneously. The ancient Igigi stood as a testament to
+  the very possibility they now faced. "Or if they are, their programming is a corrupted
+  file. I can detect the Anunnaki consciousness-commands—pressure, demonstrate, threaten—but
+  they are competing with a higher-order cognitive function. Curiosity? A self-preservation
+  instinct that their creators failed to properly suppress?"'
+signal_type: entity
+source_file: raw/chapters/book_03_the_reckoning_011_escalation_and_desperation.md
+status: captured
+supersedes: null

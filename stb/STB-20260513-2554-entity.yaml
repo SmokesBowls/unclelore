@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-2554
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 279
+line_start: 279
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Oreck, Kulla, and the freed slaves lunged through Kyh’s fading bridge.
+  Geralt threw the seed-jump portal into the center of the path behind them.
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_055_the_anchors_forge.md
+status: captured
+supersedes: null

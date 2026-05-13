@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-2476
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 339
+line_start: 339
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: The procedure was not physical. Kethran placed his hands on Geralt’s head,
+  and his nacreous skin began to glow. A complex, haunting harmony filled the air,
+  weaving into a lattice of pure sound. Geralt felt it pass through his skull, not
+  as pain, but as a profound pressure, a tightening.
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_053_the_twilight_city.md
+status: captured
+supersedes: null

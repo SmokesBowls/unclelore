@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-0966
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 185
+line_start: 185
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: '"ZARON, NO!" Geralt screamed, but his body didn''t respond—armor had seized
+  control, was initiating emergency protocols that involved fleeing rather than fighting.'
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+status: captured
+supersedes: null

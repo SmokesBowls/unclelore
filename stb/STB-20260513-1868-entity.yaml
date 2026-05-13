@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-1868
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 161
+line_start: 161
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Mika sat beside Geralt, her map on her knees. She’d sketched the day’s
+  progress, the casualties, the terrain.
+signal_type: entity
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_042_the_verdant_crossing.md
+status: captured
+supersedes: null

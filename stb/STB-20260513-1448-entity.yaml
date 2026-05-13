@@ -1,0 +1,23 @@
+audit_only: true
+buffer_id: STB-20260513-1448
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 165
+line_start: 165
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: '"Show it," Geralt rasped, forcing the words through the psychic torrent.
+  He sheathed his blade. He couldn’t fight this with steel. He focused inward, channeling
+  Zaron’s resonance through the armor, amplifying the shared grief, the terrible necessity
+  of that sacrifice three millennia past. He didn’t justify it; he *acknowledged*
+  it. He let the memory flood him – the desperate gamble, the stolen ship groaning
+  as it plunged, the faces of his legionnaires saluting their death, the horrified
+  Anunnaki captives he hadn’t saved. He poured that raw, unvarnished truth into the
+  armor’s empathetic pulse, broadcasting it towards the writhing tendrils of solidified
+  sorrow. *We did this. We bear this. We remember them.*'
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
+status: captured
+supersedes: null

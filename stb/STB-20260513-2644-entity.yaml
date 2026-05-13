@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-2644
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 117
+line_start: 117
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Oreck's claws flexed—a tell Geralt had learned decades ago on the blood-slick
+  decks of Orion slave barges. The reptilian warrior stared at the horizon where Earth's
+  corpse hung wrapped in white frequency. His nostrils flared, tasting copper and
+  ionized air. Geralt waited. Some choices couldn't be rushed.
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
+status: captured
+supersedes: null

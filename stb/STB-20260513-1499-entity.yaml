@@ -1,0 +1,22 @@
+audit_only: true
+buffer_id: STB-20260513-1499
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 93
+line_start: 93
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: '*Prime Catalyst.* The knowledge slammed into Geralt – not learned, but
+  *remembered* from the Heartpeak spire’s deep configuration. This wasn’t Luminara
+  *in* stasis. This was Luminara *as* ignition. The Seed Jump was mid-flight. The
+  Sound Aspect – the volatile Activator – was already hurtling through the chaos of
+  the damaged Akashic pathways, aimed towards an impossibly distant Spire. Success
+  meant a new node ignited. Failure meant… annihilation. And the Light Aspect remained,
+  the Locator, radiating frantic purpose, already calculating the next iteration should
+  this one fail.'
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
+status: captured
+supersedes: null

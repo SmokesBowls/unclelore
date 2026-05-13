@@ -1,0 +1,28 @@
+audit_only: true
+buffer_id: STB-20260513-1477
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 55
+line_start: 55
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'The night passed under a canopy of icy stars. The fire burned low. Sentries
+  watched the perimeter. Geralt sat apart, not sleeping, feeling the pull of the Star
+  Needle Spire resonate deep within him. He sensed a different watchfulness too –
+  ancient, damp. Not hostile, but alien. From the distant swamps clinging to the mountain''s
+  lower flanks, he felt unseen eyes. The applicator confirmed it: *Psychic signatures
+  detected: Pattern: ''Neferati''. Classification: Aeon-Keeper thought-form manifestations.*
+  They were observing, flowing through the mist like sentient shadows. Their presence
+  was a low hum beneath the mountain''s chroniton thrum. They knew him. They knew
+  the armor. They were the silent architects who had subtly guided him towards the
+  Aeon Keepers long ago, weaving possibilities. They wouldn''t climb with him. Their
+  help was whispers on the wind, influencing perception, easing the Giants'' hostility
+  from afar. Geralt acknowledged their unseen gaze. Allies of necessity, bound by
+  secrets older than nations. His thoughts drifted northward, beyond the peaks, to
+  Mika. Soon. He clenched his fist, the dragon scale gauntlet gleaming coldly. *Soon.*'
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
+status: captured
+supersedes: null

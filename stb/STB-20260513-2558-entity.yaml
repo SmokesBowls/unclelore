@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-2558
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 3
+line_start: 3
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'The Earth spun in silent majesty beyond the window—an illusion of peace.
+  Geralt''s reflection hovered superimposed over continents, his face a mask of hollowed-out
+  resolve. Behind him, the chamber thrummed with exhausted activity: Kyh''s shallow
+  breaths as healers stabilized her shadow-frayed form, Oreck''s low growls while
+  organizing supplies, Kulla''s mortar-cracked fingers pressing fresh clay into his
+  crumbling joints.'
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
+status: captured
+supersedes: null

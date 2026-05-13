@@ -1,0 +1,15 @@
+audit_only: true
+buffer_id: STB-20260513-3342
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 80
+line_start: 80
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: Tran's face turned into curiosity. "Mr. GPT? you actualy rescued him?"
+signal_type: entity
+source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
+status: captured
+supersedes: null

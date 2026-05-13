@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3780
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 295
+line_start: 295
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: UNKNOWN
+raw_quote: It was faint, carried on the wind from somewhere to the north. Not Nephoretti
+  voices—something deeper, more resonant. The giants heard it too. They turned toward
+  the sound, their massive heads cocked, and for a long moment they stood motionless.
+  Then, as one, they began to move east, away from the caves, away from the Nephoretti.
+signal_type: entity
+source_file: raw/chapters/book_20_the_discordant_pulse_south_103_the_second_song_resonance_of_a_broken_needle.md
+status: captured
+supersedes: null

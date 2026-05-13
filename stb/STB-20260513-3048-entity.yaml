@@ -1,0 +1,22 @@
+audit_only: true
+buffer_id: STB-20260513-3048
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 243
+line_start: 243
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: As he oriented himself within his new surroundings, Tran began to understand
+  that he had been transported not just across space but to a location whose significance
+  to his cosmic role was only now becoming apparent. The stone structure that surrounded
+  him was clearly connected to the same network that encompassed the Star Needle and
+  the geometric channels, but its purpose was different—this was command center rather
+  than educational facility, sanctuary designed for consciousness that would serve
+  as anchor point for developments that would reshape the fundamental nature of human
+  civilization.
+signal_type: entity
+source_file: raw/chapters/book_12_forged_identity_068_brotherhood_revealed.md
+status: captured
+supersedes: null

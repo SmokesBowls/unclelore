@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-2565
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 33
+line_start: 33
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: 'Geralt hesitated. The numbness in him recognized the price: to join was
+  to become part of the load-bearing structure. He exhaled, and pressed forward.'
+signal_type: relationship
+source_file: raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
+status: captured
+supersedes: null

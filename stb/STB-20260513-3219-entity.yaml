@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3219
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 327
+line_start: 327
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: Tran's consciousness expanded through the Guild Spire's quantum connections
+  to encompass the global scope of what they were establishing. The awakening that
+  was occurring across the planet represented opportunity to create resistance that
+  could operate on scales that matched the threats they were facing.
+signal_type: entity
+source_file: raw/chapters/book_15_legends_and_gods_079_mages_awakening.md
+status: captured
+supersedes: null

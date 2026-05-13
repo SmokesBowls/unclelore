@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-2353
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 160
+line_start: 160
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'Geralt looked at the rift. Through it, he saw not another place, but a
+  concept: the end of thermal energy. The death of fire. It was terrifying in a way
+  violence could never be.'
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_051_arrival_in_fire.md
+status: captured
+supersedes: null

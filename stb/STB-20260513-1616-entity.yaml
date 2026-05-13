@@ -1,0 +1,23 @@
+audit_only: true
+buffer_id: STB-20260513-1616
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 13
+line_start: 13
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: 'Oreck vanished into a curtain of phosphorescent creepers. His salvaged
+  armor—scavenged from Heavens wreck—hummed in perfect resonance with the pyramid’s
+  defensive lattice. To thermal scanners, he was background radiation. To Geralt’s
+  enhanced senses, he moved like a ghost tracing fault lines: here, a buried power
+  conduit; there, a sonic tripwire disguised as orchid pollen. His bowstring glowed
+  emerald, charged by stolen energy. He knew where the nexus hid—not in the central
+  chamber, but beneath the sacrificial altar, where agony amplified the signal. The
+  Legion saw ruins. Oreck saw circuitry. And the Anunnaki weren’t building fortresses.
+  They were grafting themselves onto Earth’s bones.'
+signal_type: entity
+source_file: raw/chapters/book_07_light_resonance_and_the_function_039_jungle_fever.md
+status: captured
+supersedes: null

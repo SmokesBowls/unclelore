@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0330
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 80
+line_start: 80
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: The Dregans screamed defiance even as Flame Nephilim rewrote their existence.
+  Their rage found no purchase against beings that operated on principles preceding
+  emotion. They were disassembled with the same clinical efficiency that Anunnaki
+  had created them.
+signal_type: entity
+source_file: raw/chapters/book_03_the_reckoning_014_convergence.md
+status: captured
+supersedes: null

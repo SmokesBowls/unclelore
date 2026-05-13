@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-3322
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 238
+line_start: 238
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: '"The Draco essence you carry comes from the most ancient of bloodlines—those
+  who walked between realms long before the Anunnaki claimed dominion. The Shadowborn
+  are your distant kin, the original wielders of what mortals now call the Draco power."'
+signal_type: entity
+source_file: raw/chapters/book_15_legends_and_gods_082_pyroclasts_burning_secrets.md
+status: captured
+supersedes: null

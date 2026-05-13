@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-2547
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 209
+line_start: 209
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'And then it provided that truth. Not a grand statement. The simplest,
+  most inelastic truth it knew, drawn from the depths of Geralt’s own memory. It broadcast
+  it, not as a command, but as a fact, into the Spire’s core:'
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_055_the_anchors_forge.md
+status: captured
+supersedes: null

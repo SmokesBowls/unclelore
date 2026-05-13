@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-0446
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 104
+line_start: 104
+parsed_payload:
+  predicate: serves
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: '"The deepest First Tongue frequencies," Torrhen confirmed, his massive
+  form beginning to resonate with harmonic patterns that existed at the edge of what
+  could be safely expressed without risking dissolution of consciousness that wasn''t
+  prepared for contact with forces beyond individual identity. "Convergence Resonances
+  that speak consciousness into recognition of what it becomes when limitation serves
+  transcendence rather than restricting it."'
+signal_type: relationship
+source_file: raw/chapters/book_04_sage_saga_021_the_first_lesson.md
+status: captured
+supersedes: null

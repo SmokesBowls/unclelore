@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-0105
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 146
+line_start: 146
+parsed_payload:
+  confidence: medium
+  entity_name: Neferati
+  entity_type: UNKNOWN
+raw_quote: By year four hundred, the seven Nexus Points anchored a web of resonance
+  that spanned the known world. Giants could communicate across continental distances
+  through meditation at these sites. Neferati could coordinate activities without
+  needing to travel physically. The planet itself seemed more responsive, more alive,
+  more willing to collaborate with consciousness that approached it respectfully.
+signal_type: entity
+source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+status: captured
+supersedes: null

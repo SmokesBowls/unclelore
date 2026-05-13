@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-1302
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 18
+line_start: 18
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: '"Here''s what I''m thinking." Her voice dropped lower, forcing them to
+  lean in, to strain to hear. "Geralt didn''t build this army on fear or obligation.
+  He built it on something simpler: we don''t leave our people behind. Ever. Not when
+  they''re wounded. Not when they''re captured. And sure as hell not when they''re
+  lost."'
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_033_the_march.md
+status: captured
+supersedes: null

@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-0851
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 351
+line_start: 351
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: One chain caught Geralt—wrapped around awareness rather than body—and suddenly
+  he wasn't in the chamber anymore.
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+status: captured
+supersedes: null

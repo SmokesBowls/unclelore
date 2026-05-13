@@ -1,0 +1,28 @@
+audit_only: true
+buffer_id: STB-20260513-1549
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 83
+line_start: 83
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: 'Back at the Legion’s makeshift camp nestled amidst jagged obsidian outcrops,
+  Mika oversaw the distribution with hawk-like precision. Shock-lances were assigned
+  only to veterans like Halvar and Torren, their crackling tips reserved for breaching
+  Sentinel armor or Anunnaki constructs. The compact shield generators went to the
+  perimeter guards, creating shimmering energy barriers along vulnerable flanks –
+  Mika barking orders as operators synced overlapping fields. Jorik moved among clustered
+  recruits near the supply sleds, his weather-beaten hands adjusting grips on newly
+  distributed longbows crafted from scavenged durasteel ribs and braided sinew. "Draw
+  smooth, release cleaner! Imagine the fletching kisses the wind, *then* bites!" His
+  gruff voice carried across the dusty clearing, punctuated by the sharp *thwack*
+  of arrows hitting makeshift targets. Numbers remained frozen at five hundred souls,
+  but expertise deepened daily: shock-troopers drilling with new lances, archers finding
+  their rhythm, shield operators coordinating overlapping defenses. Growth wasn''t
+  in mass, but mastery.'
+signal_type: entity
+source_file: raw/chapters/book_07_light_resonance_and_the_function_037_the_circle_of_progress.md
+status: captured
+supersedes: null

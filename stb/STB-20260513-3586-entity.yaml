@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-3586
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 154
+line_start: 154
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: Go, Lentharis urged. The connection is established. The spire is awakening.
+  But you must reach Mars before the Anunnaki secure their control. The fate of the
+  entire network may depend on it.
+signal_type: entity
+source_file: raw/chapters/book_17_ancestral_debt_091_the_weight_of_memory.md
+status: captured
+supersedes: null

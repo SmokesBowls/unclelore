@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-0799
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 97
+line_start: 97
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: He extended his hand again—not for modification this time, but for greeting.
+  Human gesture of alliance that predated Anunnaki arrival, that spoke to cooperation
+  written into social species' evolutionary foundations.
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+status: captured
+supersedes: null

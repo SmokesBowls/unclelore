@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-3816
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 411
+line_start: 411
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: UNKNOWN
+raw_quote: The grove giants did not have words the way the Nephoretti did. Their communication
+  was woven from tone and rhythm, from the spaces between sounds, from vibrations
+  that carried meaning in their texture. But Sera learned to hear it. She learned
+  to shape her voice into the rising notes that meant danger, the falling cadence
+  that meant home, the complex harmonies that meant together.
+signal_type: entity
+source_file: raw/chapters/book_20_the_discordant_pulse_south_105_garden_grove.md
+status: captured
+supersedes: null

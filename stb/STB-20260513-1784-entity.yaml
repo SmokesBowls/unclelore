@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-1784
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 771
+line_start: 771
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Behind her, Lyra pressed shaking hands to Geralt’s chest. “Come on, Commander.
+  Come on. Your wife is fighting a Serpentor-Prime with nothing but stubbornness.
+  You don’t get to die while she’s doing that. Come ON—”
+signal_type: entity
+source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
+status: captured
+supersedes: null

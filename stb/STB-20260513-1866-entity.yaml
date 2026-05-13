@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-1866
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 149
+line_start: 149
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: UNKNOWN
+raw_quote: From the trees emerged more shapes—not Igigi, but corrupted forest dwellers,
+  their bodies half-melted into the environment. They moved with a horrible, twitching
+  grace.
+signal_type: entity
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_042_the_verdant_crossing.md
+status: captured
+supersedes: null

@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-0565
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 161
+line_start: 161
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: They descended through levels that seemed to have no logical relationship
+  to one another. Passages intersected at angles that shouldn't connect. Stairways
+  led down, then up, then somehow both simultaneously. The Anunnaki complex was vast
+  beyond comprehension, a three-dimensional labyrinth that mocked conventional understanding
+  of space and direction.
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_024_the_first_spark.md
+status: captured
+supersedes: null

@@ -1,0 +1,27 @@
+audit_only: true
+buffer_id: STB-20260513-1406
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 61
+line_start: 61
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Sully didn't look up as Geralt approached. Her fingers lingered on the
+  carved grivet kit representing Katherine. "She liked sun-warmed rocks," Sully whispered,
+  voice thick. "Best spotter in the herd." Geralt crouched beside her, careful not
+  to touch the sacred stone. "She was stolen," he stated softly, echoing Kaelen's
+  words. Sully flinched. "Lost in the mist." Geralt held up the chroniton shard. Its
+  light pulsed faintly. "Not lost. Taken. By something that steals moments." Sully
+  finally met his eyes, confusion warring with desperate hope. "You... you know?"
+  Geralt nodded. "I've seen the thief. Trapped it. But Katherine... her moment is
+  still held." He pointed to the carving. "This grief holds her here. Holds *everything*
+  here." Sully stared at the stone mother. "I couldn't protect her." "No," Geralt
+  agreed gently. "But you can remember her truly. Not just the loss. The sun-warmed
+  rocks. The spotting. Honor *that*." Sully closed her eyes. A tear traced a path
+  through the dust on her cheek. The air around the carving seemed to shimmer.
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
+status: captured
+supersedes: null

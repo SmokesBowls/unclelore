@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-3617
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 32
+line_start: 32
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: Tran saw himself reflected in impossible variations. In one, the dragon
+  mail was black as void, its power absolute but cold. In another, the armor blazed
+  with divine light, righteous but inflexible. Here stood a version where bearer and
+  armor had merged so completely that humanity was just a memory. There, one where
+  they remained forever separate, powerful but never unified.
+signal_type: entity
+source_file: raw/chapters/book_18_inquisition_of_yourself_096_violet_convergence.md
+status: captured
+supersedes: null

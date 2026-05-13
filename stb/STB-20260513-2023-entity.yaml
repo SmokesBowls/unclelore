@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-2023
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 324
+line_start: 324
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: The fight was impossible. It could choose when to be solid, when to be
+  intangible. It attacked only when solid, phased the moment Geralt or Zaron launched
+  a counter-strike. It was learning their rhythm in real-time, predicting their moves
+  from micro-expressions and muscle twitches.
+signal_type: entity
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_045_the_hub_falls.md
+status: captured
+supersedes: null

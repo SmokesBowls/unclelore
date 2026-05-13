@@ -1,0 +1,31 @@
+audit_only: true
+buffer_id: STB-20260513-1295
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 69
+line_start: 69
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: With one anchor secured, the chaotic pull lessened slightly. Geralt moved
+  to the next corrupted root, repeating the agonizing process – forcing his harmony
+  into the poisoned anchor, battling the Spire’s programmed rejection. Each purge
+  felt like dragging barbed wire through his soul. The valley below stabilized momentarily
+  – solid forest – before flickering again. "Faster!" Kaelen urged. "The decay field
+  is destabilizing the mountain!" Geralt felt the ledge tremble beneath his boots.
+  He poured his will into the final anchor point, the applicator’s warnings a shrill
+  buzz drowned by the dragon armor’s resonant roar. The Spire pulsed violently one
+  last time… then settled into a steady, golden hum. The valley below snapped into
+  permanence – vibrant, untouched forest. The mountain stopped shaking. Geralt collapsed
+  to his knees, utterly spent. Kaelen surveyed the stabilized Spire, then the valley.
+  "Acceptable," she murmured. Then her head snapped towards the sky. A distant, unnatural
+  screech echoed – metallic, predatory. "Queen’s Chronohounds," she stated flatly.
+  "They track stabilized anomalies. Lesson truly concluded. Run." She vanished into
+  the mountain shadows. Geralt forced himself up, stumbling after her, the stabilized
+  Spire humming at his back, the hunters closing in. Hands-on learning was survival
+  itself.
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_032_the_redo.md
+status: captured
+supersedes: null

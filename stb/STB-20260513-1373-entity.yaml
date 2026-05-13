@@ -1,0 +1,25 @@
+audit_only: true
+buffer_id: STB-20260513-1373
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 86
+line_start: 86
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'He stumbled back onto the rain-locked street shard. The vortex behind
+  him collapsed with a final, muted sigh. Relief warred with hollow dread. They were
+  out. The 250 were flung free. But where? Scattered across millennia, adrift in forgotten
+  eras. Saved, yet utterly lost. The applicator, fractured and sparking, offered no
+  answers. *Probability vectors indeterminate.* Mika’s face flashed—not in triumph,
+  but in desperate confusion. *Did I fail them twice?* The cost screamed through him:
+  cracked ribs, scorched spirit, the applicator dying in his grasp. Victory tasted
+  like ashes. Kaelen materialized beside him, her expression unreadable. "They are
+  beyond Xal''Zirith’s grasp," she stated, her voice flat. "Beyond immediate retrieval.
+  The scattering was… necessary." Geralt stared at his trembling, bleeding hands.
+  "Necessary?" The word felt thick, alien. "They''re lost in time."'
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_034_the_250.md
+status: captured
+supersedes: null

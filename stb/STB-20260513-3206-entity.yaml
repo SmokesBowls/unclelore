@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-3206
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 205
+line_start: 205
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: '"Coordination," Tran replied, processing information that transformed
+  his understanding of the ancient infrastructure from simple magical architecture
+  to something that operated on principles of cosmic citizenship. "The Spires weren''t
+  built as weapons or control systems. They were designed to help different types
+  of consciousness work together across vast distances. Communication nodes for beings
+  who thought in completely different ways."'
+signal_type: entity
+source_file: raw/chapters/book_15_legends_and_gods_079_mages_awakening.md
+status: captured
+supersedes: null

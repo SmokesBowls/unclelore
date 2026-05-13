@@ -1,0 +1,15 @@
+audit_only: true
+buffer_id: STB-20260513-2463
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 273
+line_start: 273
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: You fought with me, Geralt thought to it.
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_053_the_twilight_city.md
+status: captured
+supersedes: null

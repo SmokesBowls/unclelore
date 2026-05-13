@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-2795
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 491
+line_start: 491
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt adjusted the sword at his hip. The blade thrummed, resonating with
+  the third ring's wreckage. Not lost. Never lost. Just choosing which ghosts to carry
+  into the fire.
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+status: captured
+supersedes: null

@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-0301
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 29
+line_start: 29
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: UNKNOWN
+raw_quote: The Igigi elder stepped into the center of the circle, his mathematical
+  consciousness processing probabilities across millennia of observation. "I carry
+  weapons I don't remember receiving. Thoughts that feel like mine but taste like
+  implanted poison. For three thousand years, I've been whispering doubts between
+  your tribes—sometimes consciously resisting, sometimes unable to recognize the programming
+  until words were already spoken. Every suspicion you feel toward each other? I helped
+  plant it. We Igigi did. Because she made us."
+signal_type: entity
+source_file: raw/chapters/book_03_the_reckoning_012_nephilim_summoning.md
+status: captured
+supersedes: null

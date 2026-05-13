@@ -1,0 +1,22 @@
+audit_only: true
+buffer_id: STB-20260513-1606
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 127
+line_start: 127
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'Corruption shrieked—a physical sound tearing at reality. Violet energy
+  lashed viciously upwards. Then—implosion. Silence absolute. The Mars Spire flared
+  blinding gold. Luminaire’s song—whole, triumphant, harmonious—exploded outward.
+  The fracture sealed. Gleaming obsidian replaced weeping wounds. Above, the cosmic
+  battle faltered as pure resonance washed over Martian dunes. Geralt’s gauntlet cooled.
+  Luminara’s voice rang crystalline: *"Anchor secured. Pathway stabilized."* Silver
+  light engulfed the Legion—not mist this time, but a promise. The Dragon Nebula shimmered—approval?—as
+  Mars dissolved. Earth awaited.'
+signal_type: entity
+source_file: raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+status: captured
+supersedes: null

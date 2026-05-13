@@ -1,0 +1,23 @@
+audit_only: true
+buffer_id: STB-20260513-1272
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 19
+line_start: 19
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Kaelen stepped closer, her movements unnervingly smooth. "Want? To stitch
+  the wound *you* tore. The Needle's activation is premature. It creates… instability.
+  A localized temporal vortex." She pointed towards the deepest gouge in the canyon
+  floor, near the crumpled bow of the airship. The air above it shimmered, warping
+  light into impossible geometries. "See that distortion? That's *now*. But within
+  it…" Her voice dropped, heavy with implication. "...is an echo. *Your* echo. The
+  moment your legion was unmade." She looked back at him, her galactic eyes holding
+  his. "You wish to learn how to wield ancient powers? How to defy the Queen’s dominion?
+  Step into the vortex, Geralt. Step into the eye of your own storm. Learn by *undoing*."
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_032_the_redo.md
+status: captured
+supersedes: null

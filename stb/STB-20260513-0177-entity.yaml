@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0177
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 200
+line_start: 200
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: '"What will they have us build?" Ishara asked, though she already suspected
+  the answer. The Anunnaki always built the same things—infrastructure for resource
+  extraction, networks for controlling conquered populations, monuments to their own
+  terrible perfection.'
+signal_type: entity
+source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+status: captured
+supersedes: null

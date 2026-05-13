@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-0729
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 193
+line_start: 193
+parsed_payload:
+  confidence: medium
+  entity_name: Nehereti
+  entity_type: UNKNOWN
+raw_quote: Three of them—or perhaps aspects of single consciousness, like the Nehereti,
+  presenting themselves through division for purposes The Nameless One couldn't comprehend.
+  They were tall—impossibly tall—robed in garments that seemed woven from starlight
+  and shadow. Their faces were hidden beneath hoods that revealed only darkness, but
+  their presence radiated authority that transcended physical intimidation.
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_026_dragonmail.md
+status: captured
+supersedes: null

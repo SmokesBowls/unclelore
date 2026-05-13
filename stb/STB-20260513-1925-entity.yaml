@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-1925
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 273
+line_start: 273
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: UNKNOWN
+raw_quote: Six figures stood guard at an intersection. They wore tattered remnants
+  of rebel armor, but their eyes were vacant, their movements perfectly synchronized.
+  Corrupted Igigi. Rebels who had fought the Queen, captured, and reprogrammed.
+signal_type: entity
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_043_the_badlands_crucible.md
+status: captured
+supersedes: null

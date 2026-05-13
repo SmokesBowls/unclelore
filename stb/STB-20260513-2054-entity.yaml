@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-2054
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 29
+line_start: 29
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: UNKNOWN
+raw_quote: The boy’s throat worked. “My sister… she was taken in the last harvest
+  from the Eastern Vale. They might have sent her…”
+signal_type: entity
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_046_not_like_this.md
+status: captured
+supersedes: null

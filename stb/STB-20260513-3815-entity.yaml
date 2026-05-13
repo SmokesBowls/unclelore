@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-3815
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 391
+line_start: 391
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: UNKNOWN
+raw_quote: Many Nephoretti had fallen in the battle. Their bodies were laid on stones
+  shaped by the grove giants, their bioluminescence fading as the sun rose. The survivors
+  stood in silence, their work‑songs replaced by something older – a mourning chant
+  that Sera had found in the memory‑seeds, words from a language none of them had
+  spoken but all of them understood.
+signal_type: entity
+source_file: raw/chapters/book_20_the_discordant_pulse_south_105_garden_grove.md
+status: captured
+supersedes: null

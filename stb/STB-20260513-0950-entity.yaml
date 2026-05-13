@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0950
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 105
+line_start: 105
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: '"Subject identification in progress," it announced in voice like wind
+  chimes. "Species: Human. Origin: Earth, Sol System. Former designation: Slave 7-Alpha-9327.
+  Current self-designation: Geralt. Genetic modifications detected—unauthorized vocal
+  capability restoration, neural pathway alterations suggesting Nehereti intervention."'
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+status: captured
+supersedes: null

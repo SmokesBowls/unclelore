@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0274
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 239
+line_start: 239
+parsed_payload:
+  confidence: medium
+  entity_name: Neferati
+  entity_type: UNKNOWN
+raw_quote: But in those same deep places, other records existed. Igigi chronicles
+  documenting three thousand years of choosing alliance despite programming. Giant
+  oral histories preserving memories of how friendship was built from wreckage. Neferati
+  observations of how the Sundering was resisted even when resistance seemed impossible.
+signal_type: entity
+source_file: raw/chapters/book_03_the_reckoning_009_stalemate_departure_the_first_coming.md
+status: captured
+supersedes: null

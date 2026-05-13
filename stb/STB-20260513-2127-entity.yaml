@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-2127
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 89
+line_start: 89
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt climbed up to join her. He took the scarf from her trembling hands.
+  He found a straight, strong branch from a fallen tree. With careful, deliberate
+  movements, he tied the scarf to one end. He carried it down into the heart of the
+  valley, to where the stream entered from the north. He drove the branch deep into
+  the earth.
+signal_type: entity
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_047_mika.md
+status: captured
+supersedes: null

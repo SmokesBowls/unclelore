@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-0462
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 160
+line_start: 160
+parsed_payload:
+  predicate: serves
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: Around them, the sanctuary that had served as focal point for their partnership
+  was beginning its own transformation. Not dissolution, but evolution beyond the
+  need for fixed location. The principles they had discovered together were being
+  encoded into quantum foam itself, accessible wherever consciousness chose synthesis
+  over stagnation, growth over control, collaboration over domination.
+signal_type: relationship
+source_file: raw/chapters/book_04_sage_saga_021_the_first_lesson.md
+status: captured
+supersedes: null

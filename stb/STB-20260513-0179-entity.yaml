@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0179
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 208
+line_start: 208
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: '"Mathematics suggests they will resist. Whether that resistance proves
+  sufficient..." He shrugged, the gesture carrying centuries of defeat. "The Anunnaki
+  have conquered species far more advanced than these stone-entities and their luminescent
+  companions. But perhaps. Perhaps these natives will surprise us."'
+signal_type: entity
+source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+status: captured
+supersedes: null

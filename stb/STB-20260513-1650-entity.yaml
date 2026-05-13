@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-1650
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 151
+line_start: 151
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'The root-monster swayed—a grotesque parody of breath. Ren’s terror thrummed
+  through its bark-carved emitters; Halvar’s guilt pulsed in the veins of its thorns.
+  It didn’t attack. It *listened*, drinking the Legion’s silence like poison wine.
+  Geralt’s Applicator screamed:'
+signal_type: entity
+source_file: raw/chapters/book_07_light_resonance_and_the_function_039_jungle_fever.md
+status: captured
+supersedes: null

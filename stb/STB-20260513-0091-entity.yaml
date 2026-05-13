@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-0091
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 26
+line_start: 26
+parsed_payload:
+  confidence: medium
+  entity_name: Neferati
+  entity_type: UNKNOWN
+raw_quote: When the dust settled, Vairis emerged coughing, their practical nature
+  already assessing damage. Three Neferati injured but alive. No Giants hurt—their
+  stone-flesh could withstand impacts that would obliterate smaller beings. And where
+  the pyramid had stood, now only rubble remained, scattered across two hundred yards
+  of desert beach.
+signal_type: entity
+source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+status: captured
+supersedes: null

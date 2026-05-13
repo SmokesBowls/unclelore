@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-1916
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 181
+line_start: 181
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: In the deep mindspace, Zaron, the ancient dragon consciousness, watched.
+  Geralt felt his awe, his confusion. "She was eternal," Zaron rumbled. "A function
+  of the cosmos. Now she chooses to be brief. To be… spent. I have no words for this."
+signal_type: entity
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_043_the_badlands_crucible.md
+status: captured
+supersedes: null

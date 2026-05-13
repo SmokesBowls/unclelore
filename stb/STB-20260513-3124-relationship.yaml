@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-3124
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 260
+line_start: 260
+parsed_payload:
+  predicate: serves
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: The portal that opened behind them led directly back to Echo Temple's more
+  familiar chambers, providing safe transit that would remove them from cosmic forces
+  that exceeded their current capacity for safe interaction while preserving their
+  essential contributions and maintaining their connection to purposes that served
+  welfare transcending their immediate understanding.
+signal_type: relationship
+source_file: raw/chapters/book_12_forged_identity_071_cosmic_teachers_arrive.md
+status: captured
+supersedes: null

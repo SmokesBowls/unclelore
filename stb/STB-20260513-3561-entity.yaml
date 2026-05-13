@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-3561
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 159
+line_start: 159
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: '*We''re in this together,* Tran responded, marveling at the clarity of
+  their connection.'
+signal_type: entity
+source_file: raw/chapters/book_17_ancestral_debt_089_the_white_mirror.md
+status: captured
+supersedes: null

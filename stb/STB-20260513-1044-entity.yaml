@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-1044
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 745
+line_start: 745
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt felt the armor respond—Zaron's consciousness flooding with readiness
+  that bordered on eagerness, the Applicator providing tactical analysis that suggested
+  dozens of approach vectors and probability assessments, his own will hardening into
+  determination that this being, this representation of everything wrong with cosmic
+  order, would fall.
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+status: captured
+supersedes: null

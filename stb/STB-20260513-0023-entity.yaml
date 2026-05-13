@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-0023
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 120
+line_start: 120
+parsed_payload:
+  confidence: medium
+  entity_name: Aeon Keepers
+  entity_type: UNKNOWN
+raw_quote: That would not be possible now. Once the Nephoretti manifested on the physical
+  plane, they would be truly autonomous. The Aeon Keepers could observe, could send
+  impressions through the vrill currents, but could not control or command. The Nephoretti
+  would need to be... what? Independent agents? Co-creators? Partners in the work
+  of building civilization?
+signal_type: entity
+source_file: raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
+status: captured
+supersedes: null

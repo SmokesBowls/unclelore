@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-3641
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 108
+line_start: 108
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: '"The same forces spreading corruption worldwide," Mr. GPT answered. "The
+  Anunnaki''s return. The Fifth Coming. Your industrial might would be a powerful
+  asset for them—if it was already primed to serve their purposes."'
+signal_type: entity
+source_file: raw/chapters/book_18_inquisition_of_yourself_097_hearts_of_ash_and_fire.md
+status: captured
+supersedes: null

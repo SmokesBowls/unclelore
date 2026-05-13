@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-0434
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 247
+line_start: 247
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: UNKNOWN
+raw_quote: The Sage stood at the threshold between dimensions, his consciousness existing
+  simultaneously across multiple probability matrices while maintaining individual
+  identity through mathematical precision that had evolved far beyond his original
+  Igigi programming. Around him, the sanctuary had become something that transcended
+  physical location entirely—existing wherever consciousness-forms gathered to explore
+  synthesis principles, manifesting whenever awareness chose transcendence over limitation.
+signal_type: entity
+source_file: raw/chapters/book_04_sage_saga_020_the_collapse.md
+status: captured
+supersedes: null

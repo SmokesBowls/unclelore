@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0796
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 87
+line_start: 87
+parsed_payload:
+  confidence: medium
+  entity_name: Aeon Keepers
+  entity_type: UNKNOWN
+raw_quote: '"There''s armor waiting. Power the Aeon Keepers prepared. Dragon Mail
+  infused with consciousness of being who sacrificed everything to circumvent laws
+  that prevented direct intervention. But reaching it—claiming it—will require facing
+  whatever guards it."'
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+status: captured
+supersedes: null

@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-2667
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 197
+line_start: 197
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt stepped forward, deliberately keeping his hands visible. The numbness
+  in his chest didn't waver, but his Applicator sparked—a warning. Something about
+  the wall's geometry was wrong. Its height should have cast shadows across the approach,
+  yet the ground remained uniformly lit, as if the structure existed in a separate
+  pocket of spacetime. "We're Guild," he said, watching the sentry slit for any flicker
+  of recognition. "Network anchors."
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
+status: captured
+supersedes: null

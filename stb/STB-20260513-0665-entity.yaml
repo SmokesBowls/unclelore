@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0665
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 1199
+line_start: 1199
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: Freed slaves burst from concealment, weapons drawn, moving with purpose
+  that suggested weeks of planning rather than spontaneous rebellion. Groups converged
+  on key locations—the main gates, the observation platforms, the few remaining pieces
+  of Anunnaki technology that hadn't been evacuated.
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
+status: captured
+supersedes: null

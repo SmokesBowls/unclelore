@@ -1,0 +1,24 @@
+audit_only: true
+buffer_id: STB-20260513-1555
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 3
+line_start: 3
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: The Scorch lived up to its name at dawn. Heat shimmered off the dunes like
+  liquid gold, warping the horizon into a wavering mirage. Sweat evaporated before
+  it could bead, stolen by the parched air. Legionnaires shuffled forward, cloaks
+  pulled high against the glare, boots sinking ankle-deep in scalding sand. Pack-lizards
+  snorted plumes of steam, their scaled hides darkened by dust. Even Zaron’s hum within
+  Geralt’s armor felt muffled, dampened by the oppressive stillness. Only Oreck moved
+  with unbroken vigilance, his chroniton-flecked gaze scanning the blinding expanse.
+  He felt it first – a low-frequency tremor transmitted through the sand, a vibration
+  felt more than heard, prickling the skin beneath his scales. Not the wind. Something
+  heavier. Deeper.
+signal_type: entity
+source_file: raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+status: captured
+supersedes: null

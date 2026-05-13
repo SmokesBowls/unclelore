@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-2491
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 79
+line_start: 79
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: In the center, floating in a lotus position, was an Arcturian woman. Her
+  scales had long since lost their vibrant hue, faded to a dignified, weathered silver.
+  One of her eyes was a milky, sightless white, scarred by chroniton feedback—a mirror
+  to the fate that had claimed Vek'tar. The other eye, a piercing, intelligent amber,
+  fixed on Geralt as he entered.
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_054_tue_lunar_spire.md
+status: captured
+supersedes: null

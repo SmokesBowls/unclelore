@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-3613
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 6
+line_start: 6
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: The Crystalline Convergence wasn't marked on any map. It couldn't be—the
+  location existed partially outside normal space, a point where all possibilities
+  touched without quite meeting. Tran stood at what might have been its entrance,
+  though direction itself seemed negotiable here. The four fragments in his chest—Red,
+  Blue, Green, and White—pulsed with increasing urgency, their combined resonance
+  creating aurora patterns in the air around him.
+signal_type: entity
+source_file: raw/chapters/book_18_inquisition_of_yourself_096_violet_convergence.md
+status: captured
+supersedes: null

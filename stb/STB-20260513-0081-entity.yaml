@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-0081
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 118
+line_start: 118
+parsed_payload:
+  confidence: medium
+  entity_name: Neferati
+  entity_type: UNKNOWN
+raw_quote: Understanding crashed through Senareth like revelation. The fear wasn't
+  random. It was trauma, written into biology, carried forward through evolutionary
+  transformation. The Pelagor who had once ventured onto Tiamat's shores—curious,
+  vulnerable, occasionally territorial—had been chased away by Neferati ancestors.
+  By beings who threw rocks and sticks, who defended their mountain cities from what
+  they saw as invasive aquatic pests.
+signal_type: entity
+source_file: raw/chapters/book_01_book_of_genesis_004_the_convergence.md
+status: captured
+supersedes: null

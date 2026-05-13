@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-1127
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 49
+line_start: 49
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: UNKNOWN
+raw_quote: '"Jin, Kael, Tess, Vale, Ren. You''re coming with me. But—" he raised hand
+  to forestall the gesture-language protest he could see forming, "—you''re staying
+  outside. Perimeter security. The assault team goes in, you maintain external watch.
+  If something goes wrong, you''re our early warning system."'
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
+status: captured
+supersedes: null

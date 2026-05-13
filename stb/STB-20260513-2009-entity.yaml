@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-2009
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 207
+line_start: 207
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: They moved on, descending through sub-levels of impossible geometry—hallways
+  that curved upward, chambers where gravity seemed to pull sideways. The Anunnaki
+  hadn’t built for human comprehension. The air grew colder, sterile, smelling of
+  antiseptic and hot metal.
+signal_type: entity
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_045_the_hub_falls.md
+status: captured
+supersedes: null

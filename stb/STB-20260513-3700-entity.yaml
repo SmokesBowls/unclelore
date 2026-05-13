@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-3700
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 14
+line_start: 14
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: Kronocht Elder led the Stone Giants' contingent, and the very ground of
+  Mars trembled at their approach. These were beings who had slumbered in Earth's
+  depths for millennia, and their awakening for war was terrible to behold. Some carried
+  weapons carved from mountains, others simply relied on fists that could shatter
+  continental plates. Behind them marched Kronocht the Younger—the Titanborn who had
+  joined Tran's quest—his relative youth (a mere few centuries) making him swift and
+  adaptable where his elders were ponderous and certain.
+signal_type: entity
+source_file: raw/chapters/book_19_worthy_opponents_north_102_convergence_on_mars.md
+status: captured
+supersedes: null

@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-2000
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 95
+line_start: 95
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: They were met not by chaos, but by order. Reptilian guards in polished,
+  violet-tinted armor formed disciplined shield walls. Anunnaki officers directed
+  fire from elevated platforms. These were not corrupted slaves; their eyes burned
+  with fanatical conviction. They believed in the Queen’s work. They wanted to defend
+  this place.
+signal_type: entity
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_045_the_hub_falls.md
+status: captured
+supersedes: null

@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-3589
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 43
+line_start: 43
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: Rongtai accepted the pouch with a nod of gratitude. "Thank you." She looked
+  around the room one more time, memorizing faces. "Tell Tran... tell him I'm going
+  to make things right. He'll understand."
+signal_type: entity
+source_file: raw/chapters/book_17_ancestral_debt_092_departure_and_determination.md
+status: captured
+supersedes: null

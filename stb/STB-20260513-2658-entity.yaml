@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-2658
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 175
+line_start: 175
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Then she too was gone, her cloak's hem dissolving into the ozone-scented
+  air where she'd stood. Geralt exhaled sharply—not at their departure, but at the
+  *weight* of their message. Directions here weren't geography; they were living fractures
+  in the Queen's porcelain reality. *North to go east.* He flexed his fingers, feeling
+  the Guild's network hum in confirmation beneath his skin. Some paths only revealed
+  themselves to those already broken enough to walk them.
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
+status: captured
+supersedes: null

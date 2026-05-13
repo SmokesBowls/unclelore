@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-2130
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 101
+line_start: 101
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Month 2 brought order. Merra Sundrift arrived from Ironspire with a caravan
+  of seeds, tools, and stubborn hope. She walked the south-facing slope with Mika,
+  pointing where the sun would linger. They planted the first fields. Geralt and the
+  veterans channeled the stream, creating irrigation ditches with precise, military
+  efficiency. A storage cache was dug into a cool hillside.
+signal_type: entity
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_047_mika.md
+status: captured
+supersedes: null

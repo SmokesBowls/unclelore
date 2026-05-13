@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-0172
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 186
+line_start: 186
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: They were treated with the same care one might give valuable breeding animals.
+  Which, from the Anunnaki perspective, was exactly what they were.
+signal_type: entity
+source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+status: captured
+supersedes: null

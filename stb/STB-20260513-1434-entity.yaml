@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-1434
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 135
+line_start: 135
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Two months. The word landed in Geralt's gut like a stone. He had been fighting
+  in the fractures of time, but here, in the real world, it had flowed on without
+  him.
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
+status: captured
+supersedes: null

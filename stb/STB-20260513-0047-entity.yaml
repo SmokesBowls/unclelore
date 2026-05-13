@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-0047
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 137
+line_start: 137
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: UNKNOWN
+raw_quote: The other Nephoretti followed Senareth's gaze, studying the Giant who remained.
+  Its massive form was beautiful in the fading light—jade-green stone shot through
+  with veins that caught and reflected the sunset, creating the impression of bioluminescence.
+  Its eyes—deep pools that seemed to contain ocean depths—focused on the assembled
+  Nephoretti with an intensity that transcended mere observation.
+signal_type: entity
+source_file: raw/chapters/book_01_book_of_genesis_002_molten_descent.md
+status: captured
+supersedes: null

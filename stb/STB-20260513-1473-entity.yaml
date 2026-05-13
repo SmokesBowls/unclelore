@@ -1,0 +1,22 @@
+audit_only: true
+buffer_id: STB-20260513-1473
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 45
+line_start: 45
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: The camp was spare but efficient. Smoked meat hung near the fire pit; sharpened
+  stakes ringed the tents. Sella gestured Geralt towards a hide stool near the flames.
+  "Found this cleft months back," she explained, pouring bitter kaff from a dented
+  pot. "Good water. Few predators big enough to threaten us." She nodded towards the
+  peaks looming above. "The Giants pass higher. We stay low." Geralt noted the tension
+  coiled beneath her calm. "Hunted?" Sella’s eyes hardened. "Not beasts. Raiders.
+  From the lowlands. They sniffed us out last moon-cycle. Took two." She spat into
+  the fire. "We retrieved one. Buried him yesterday."
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
+status: captured
+supersedes: null

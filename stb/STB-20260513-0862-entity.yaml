@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-0862
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 471
+line_start: 471
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: But more than physical healing—Geralt could see something changing in Oreck's
+  essence. The conditioning that made obedience feel natural was dissolving. The neural
+  pathways that made rebellion feel wrong were being rewritten. Centuries of Anunnaki
+  programming were being undone through gift from being who understood bondage with
+  terrible intimacy.
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+status: captured
+supersedes: null

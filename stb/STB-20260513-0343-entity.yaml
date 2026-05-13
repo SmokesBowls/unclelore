@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-0343
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 121
+line_start: 121
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: In the northern mountains, Ash Giants were accepting Anunnaki healing treatments,
+  providing intelligence on other tribal movements, allowing Needle infrastructure
+  to be maintained through their territories without resistance.
+signal_type: entity
+source_file: raw/chapters/book_03_the_reckoning_015_betrayal.md
+status: captured
+supersedes: null

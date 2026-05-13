@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-0048
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 141
+line_start: 141
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: UNKNOWN
+raw_quote: The directive settled over the assembly like agreement crystallizing into
+  consensus. Around them, more Nephoretti were arriving—those who had landed further
+  inland making their way toward the coast, drawn by the concentration of their kin.
+  By nightfall, perhaps five hundred would be gathered. By morning, most of the thousand
+  who had manifested.
+signal_type: entity
+source_file: raw/chapters/book_01_book_of_genesis_002_molten_descent.md
+status: captured
+supersedes: null

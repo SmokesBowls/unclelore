@@ -1,0 +1,33 @@
+audit_only: true
+buffer_id: STB-20260513-1350
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 42
+line_start: 42
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'The plunge was less a fall and more a violent extrusion through layers
+  of temporal tar. Geralt’s counter-harmony surged ahead, carving a tunnel of turbulent
+  motion through the crushing stasis. Below, the Spire’s core pulsed – a monstrous,
+  corrupted chroniton engine radiating waves of decay. The applicator screamed: *Direct
+  exposure! Temporal corruption imminent!* The armor roared back, shielding him with
+  raw defiance. He landed hard on a slick, obsidian platform encircling the pulsating
+  core. The air tasted metallic and rotten. Kaelen landed beside him, her form flickering
+  momentarily. "The core’s corruption anchors the sinkhole," she shouted over the
+  Spire’s deafening thrum. "Harmonize it! Reverse its polarity!" Geralt stared at
+  the writhing mass of sickly light. "How? It’s... chaos!" Kaelen pointed sharply.
+  "See the anchor points! Three nexus points – bedrock, Spire housing, *and the corruption
+  itself*. You must integrate the corruption into your harmony! Make it part of the
+  song!" The applicator flashed frantic warnings: *Assimilation risk catastrophic!*
+  The armor pulsed fierce agreement – *Use it*. Geralt took a breath. For Mika. He
+  reached out, not to fight the corruption, but to *feel* its discordant rhythm. He
+  wove its jagged scream into his own tripartite harmony – applicator structure framing
+  it, armor power fueling it, his will directing it. The Spire shuddered violently.
+  The oppressive drag lessened. A flicker of clean, golden light sparked deep within
+  the corrupted core. He was singing the sinkhole back to life.'
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_034_the_250.md
+status: captured
+supersedes: null

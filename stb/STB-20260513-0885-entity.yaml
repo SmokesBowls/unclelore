@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-0885
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 635
+line_start: 635
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt took a step forward. The armor overcompensated, launching him forward
+  with far more force than intended. He crashed into crystalline wall with impact
+  that would have shattered human bones.
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+status: captured
+supersedes: null

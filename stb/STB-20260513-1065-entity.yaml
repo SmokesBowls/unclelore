@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-1065
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 33
+line_start: 33
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: '*You''re both terrible at pep talks,* Geralt thought, but their presences—annoying
+  as they often were—helped ground awareness that he wasn''t facing this alone, that
+  three consciousnesses meant three perspectives on every problem.'
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
+status: captured
+supersedes: null

@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-0325
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 12
+line_start: 12
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: UNKNOWN
+raw_quote: Pazuzu stood at the ritual's calculated center point—not as leader but
+  as mathematical anchor, his Igigi consciousness providing the precision needed to
+  maintain coherence when pain tried to shatter collective awareness. Around him,
+  other Igigi formed supporting nodes in the network, their three-thousand-year experience
+  with consciousness-crafting making them uniquely suited for this terrible work.
+signal_type: entity
+source_file: raw/chapters/book_03_the_reckoning_014_convergence.md
+status: captured
+supersedes: null

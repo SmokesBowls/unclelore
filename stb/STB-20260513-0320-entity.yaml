@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0320
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 111
+line_start: 111
+parsed_payload:
+  confidence: medium
+  entity_name: Aeon Keepers
+  entity_type: UNKNOWN
+raw_quote: It will test you, the Aeon Keepers corrected. Death is possible. But transformation
+  is more likely. Those who survive the convergence will emerge changed—consciousness
+  expanded, stone-flesh refined by extremes, unity forged through shared suffering
+  that no lie can fracture.
+signal_type: entity
+source_file: raw/chapters/book_03_the_reckoning_012_nephilim_summoning.md
+status: captured
+supersedes: null

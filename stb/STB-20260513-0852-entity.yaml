@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-0852
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 363
+line_start: 363
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt saw himself as tyrant. As liberator turned oppressor. As hero becoming
+  villain through incremental choices that seemed justified in moments but accumulated
+  into horror.
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+status: captured
+supersedes: null

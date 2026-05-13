@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-3390
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 224
+line_start: 224
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: '"The Memory Pool," Korvus announced, his voice hushed with reverence.
+  "Created when the First Tide met the Last Flame, in the time before the Anunnaki
+  walked our world."'
+signal_type: entity
+source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
+status: captured
+supersedes: null

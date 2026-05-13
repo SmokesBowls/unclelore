@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-2560
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 15
+line_start: 15
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: '"Too late." Geralt''s voice was hollow, not from emotion, but from the
+  sheer weight of causal certainty. The Dragon Mail''s sensors showed the truth: the
+  white sky wasn''t an overlay. It was a rewrite. The lightning strikes were stitching
+  a new baseline reality into the Akashic record, thread by thread. By the time their
+  shuttle could reach geosynchronous orbit, Earth would no longer recognize blue as
+  a possible color for its sky.'
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
+status: captured
+supersedes: null

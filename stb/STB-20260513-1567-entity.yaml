@@ -1,0 +1,25 @@
+audit_only: true
+buffer_id: STB-20260513-1567
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 43
+line_start: 43
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'Basalt yielded to fossilized roots—massive, petrified veins from the swamp
+  above. Water surged without warning, thigh-high torrents roaring through twisting
+  tunnels. Legionnaires braced against carved walls slick with millennia of scum.
+  Lyra’s rig flashed methane warnings: 82% saturation. One spark. One misfiring shield.
+  Annihilation. Geralt pressed forward, Zaron’s resonance mapping safe paths through
+  labyrinthine gloom. Torren argued with Halvar, voice tight. "We entered this gallery
+  *minutes* ago!" Halvar rasped back, "Hours! Feel this ache?" Temporal drift. Humidity
+  and void resonance stretched seconds into subjective eternities. Compasses spun
+  wildly. Maps dissolved into madness. Navigation became faith. Trust Geralt’s armored
+  back cutting through the reeking dark. Trust Oreck’s chroniton arrows flaring green
+  at intersections. Trust nothing else. Especially not time.'
+signal_type: entity
+source_file: raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+status: captured
+supersedes: null

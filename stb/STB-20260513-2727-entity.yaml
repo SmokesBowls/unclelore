@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-2727
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 215
+line_start: 215
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt's cyborg joints hissed as he flexed. The numbness was gone, replaced
+  by the visceral awareness of every bolt and graft. He could feel the Dragon Mail's
+  stolen divinity vibrating against his new alloy ribs—not armor now, but *integrated
+  systems*. When he raised his hand, the clone mirrored him perfectly. Except where
+  Geralt's fingers sparked with overloaded circuits, the clone's were steady.
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+status: captured
+supersedes: null

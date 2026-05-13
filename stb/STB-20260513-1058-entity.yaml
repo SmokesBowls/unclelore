@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-1058
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 853
+line_start: 853
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt felt the armor settle around him—Zaron's consciousness pleased with
+  combat performance despite earlier fears, the Applicator compiling tactical data
+  that would improve future operations, his own awareness trying to process that they'd
+  actually done it, that deliberate liberation campaign had succeeded, that proof
+  of concept was complete.
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+status: captured
+supersedes: null

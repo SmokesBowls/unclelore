@@ -1,0 +1,25 @@
+audit_only: true
+buffer_id: STB-20260513-1452
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 3
+line_start: 3
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: The processor core lay paralysed on the ground. She grabbed Dren’s arm—icy
+  cold, trembling. "Look at me, Dren! You’re here! *Now!*" Aldrin seized Judson, shouting
+  names, grounding them in the present. Soldiers locked eyes with comrades they’d
+  mourned, shouting reassurances, anchoring them in shared reality. The vibrating
+  hum subsided. The phantom dunes faded. Two hundred and fifty warriors stood solid,
+  bewildered, but *real*, blinking in the harsh noon light. The flats were silent
+  except for ragged breaths. The Tower loomed closer, its impossible shadow stretching
+  long across the fractured salt. Mika met Oreck’s impassive lenses. "Geralt?" she
+  demanded. Oreck shook his head. Their was a silence that overwhelmed the crowd..
+  500 soldiers to tribute Geralt sacrifice Oreck spoke "Deeper.. The Sage… awaits."
+  And the army continued its march to the Tower.
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
+status: captured
+supersedes: null

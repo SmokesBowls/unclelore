@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-1436
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 147
+line_start: 147
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Trabin nodded grimly. "Giants guard those peaks, Commander. Wary folk.
+  Show the spire’s mark." He tapped the faintly glowing Star Needle emblem on Geralt’s
+  vambrace. "They respect power anchored."
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
+status: captured
+supersedes: null

@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-1587
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 89
+line_start: 89
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'Luminara’s light settled. Warm. Welcoming. Geralt’s gauntlet pulsed with
+  hers—a crystalline key embedded in his palm. Not control. Symbiosis. "Mars Spire,"
+  he rasped. "She’ll tear it open." Mika traced the fractal patterns forming on the
+  sand. "And announce us to every spire in the network." Legionnaires murmured—fear,
+  awe. Lyra injected Halvar with stabilized chroniton fluid. "Transit requires precise
+  resonance. One error…" She trailed off. The desert wind carried whispers: Anunnaki
+  signatures converging. Distant. Hungry.'
+signal_type: entity
+source_file: raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+status: captured
+supersedes: null

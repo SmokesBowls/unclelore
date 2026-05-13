@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-3471
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 13
+line_start: 13
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: Tran thought back to what they'd learned about the Nefretti—descendants
+  of the vril entities that had once populated Tiamat, now manifesting as spore-like
+  beings in the physical world. According to Gaiana Stoneheart, they were among the
+  oldest conscious entities on Earth, carrying memories of a time before the planet's
+  current form.
+signal_type: entity
+source_file: raw/chapters/book_16_fragmented_beginning_087_the_breath_of_life.md
+status: captured
+supersedes: null

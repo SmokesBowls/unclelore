@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-2089
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 281
+line_start: 281
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: As the orders were shouted, the last of the Anunnaki guards were being
+  overwhelmed. The compound was theirs. But the victory felt hollow, perched on a
+  precipice.
+signal_type: entity
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_046_not_like_this.md
+status: captured
+supersedes: null

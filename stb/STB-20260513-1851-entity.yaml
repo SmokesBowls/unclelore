@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-1851
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 55
+line_start: 55
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt nodded. Through the bond, he felt Luminaire’s consciousness tracing
+  those same lines, a ghostly counterpoint to the corruption. She was holding a bubble
+  of clean air around them, a sphere of clarity that moved with Geralt. Every soldier
+  within it breathed easier. Every step outside it was a gamble.
+signal_type: entity
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_042_the_verdant_crossing.md
+status: captured
+supersedes: null

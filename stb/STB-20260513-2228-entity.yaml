@@ -1,0 +1,15 @@
+audit_only: true
+buffer_id: STB-20260513-2228
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 314
+line_start: 314
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: “I have to,” Geralt rasped. “To make room for her.”
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
+status: captured
+supersedes: null

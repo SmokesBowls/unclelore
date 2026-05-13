@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-2624
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 37
+line_start: 37
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt didn't grace that with an answer. He turned instead toward the guild's
+  great oculus, where Earth hung like a gutted jewel. The last blue was gone now,
+  swallowed by the Queen's relentless white. But something new flickered at the edges—a
+  tremble in the monochrome, subtle as a heartbeat under skin.
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
+status: captured
+supersedes: null

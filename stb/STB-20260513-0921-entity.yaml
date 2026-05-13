@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-0921
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 879
+line_start: 879
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'And in the back of Geralt''s awareness, two other consciousnesses observed
+  with perspectives he alone couldn''t provide:'
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+status: captured
+supersedes: null

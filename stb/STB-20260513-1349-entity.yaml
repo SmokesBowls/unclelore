@@ -1,0 +1,28 @@
+audit_only: true
+buffer_id: STB-20260513-1349
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 38
+line_start: 38
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: The applicator mapped the stasis wave’s frequency – a flat, dead hum. The
+  armor resonated with its own deep, vital thrum. Geralt poured his will into forcing
+  them into dissonance, then harmony, then dissonance again. He wasn't singing calmness
+  now; he was singing *life*. A sharp, discordant note tore from his chest, amplified
+  by the dragon armor’s core. It ripped through the oppressive silence. The stasis
+  shuddered. A crack appeared in its hold. "Yes!" Kaelen gasped, finding movement.
+  "Amplify! Target the Spire's base!" Geralt focused his discordant harmony towards
+  the fissure, towards the Spire's corrupted heart. The stasis wave fractured further.
+  He took a single, agonizing step forward. Then another. The rubble groaned. The
+  ice-vines recoiled. He was moving, pushing against the impossible drag, his counter-harmony
+  a blade slicing through frozen time. He reached the fissure. Below, utter darkness
+  pulsed with the Spire’s sickly green light. "Now!" Kaelen commanded. "Dive! Anchor
+  your descent!" Geralt didn't hesitate. He leapt into the dark abyss, his defiant
+  song echoing against the ancient stone.
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_034_the_250.md
+status: captured
+supersedes: null

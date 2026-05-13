@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-2115
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 13
+line_start: 13
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: A smudge on the horizon resolved into walls. Real, constructed walls of
+  fitted stone, rising from the mountain's scar. Smoke curled from chimneys. The skeletal
+  wreckage of the Anunnaki ship was still visible, but now it was integrated—girders
+  repurposed as support beams, hull plating forming roofs. Life had taken root in
+  the wound.
+signal_type: entity
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_047_mika.md
+status: captured
+supersedes: null

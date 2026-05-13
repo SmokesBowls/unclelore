@@ -1,0 +1,23 @@
+audit_only: true
+buffer_id: STB-20260513-1297
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 73
+line_start: 73
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: '"Enough," Kaelen’s voice drifted back, disembodied. "Focus on weaving
+  stability *while* moving. Anchor your own signature *to* the mountain’s chroniton
+  flow." Running while stabilizing? Madness. The applicator screamed impossibility.
+  The armor pulsed fiercely: *Adapt. Flow.* Geralt poured his will inward as he ran,
+  forcing his tripartite harmony to resonate *with* the mountain’s deep, slow pulse,
+  not against it. He visualized himself as a leaf caught in a vast river’s current.
+  The screeching intensified, vibrating his teeth. Glancing back, he saw them – three
+  obsidian constructs shaped like skeletal hounds, phasing *through* solid rock, their
+  eyes burning voids of corrupted chroniton energy. They gained fast.'
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_032_the_redo.md
+status: captured
+supersedes: null

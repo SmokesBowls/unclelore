@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-0035
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 69
+line_start: 69
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: UNKNOWN
+raw_quote: Movement along the tree line. Massive forms—twenty, thirty, forty feet
+  tall—turning toward the beach where the Nephoretti had fallen. For a moment, Senareth
+  felt recognition kindle in their newly-formed consciousness. These were the beings
+  they had seen from the Ethereal Realm. The transformed Pelagor. The ones they were
+  meant to help.
+signal_type: entity
+source_file: raw/chapters/book_01_book_of_genesis_002_molten_descent.md
+status: captured
+supersedes: null

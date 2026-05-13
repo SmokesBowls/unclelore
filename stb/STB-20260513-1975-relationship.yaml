@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-1975
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 206
+line_start: 206
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: “He is maintaining the calibration,” Zaron replied, his own eyes shadowed
+  with fatigue and fascination. “The Anchor bond is not passive. It requires constant,
+  subconscious harmonization with her core frequency. He is, in a very literal sense,
+  keeping a part of her alive every second. Sleep, as we know it, is a luxury his
+  biology can no longer fully afford.”
+signal_type: relationship
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_044_the_mountains_shadow.md
+status: captured
+supersedes: null

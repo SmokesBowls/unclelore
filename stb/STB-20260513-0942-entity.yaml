@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-0942
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 77
+line_start: 77
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: The lead figure was tall—impossibly tall, easily eight feet in height—humanoid
+  but clearly not human. Skin that gleamed like polished obsidian, eyes that were
+  solid white without pupil or iris, features that suggested both beauty and complete
+  absence of empathy. Robes that seemed woven from starlight itself, carrying rank
+  insignia Geralt didn't recognize but understood instinctively meant authority that
+  superseded planetary governments.
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+status: captured
+supersedes: null

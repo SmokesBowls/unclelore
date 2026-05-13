@@ -1,0 +1,28 @@
+audit_only: true
+buffer_id: STB-20260513-1553
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 93
+line_start: 93
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: A slender figure unfolded from the gloom like a startled spider. Lyra Vex
+  stood revealed, dust coating her modified enviro-suit. One bare arm gleamed under
+  moonlight, its intricate lattice of bio-conductive filaments pulsing a frantic,
+  erratic cyan against her skin. Her messy bun was disheveled, a stray lock plastered
+  to her sweat-sheened temple. The bulky Medicae Rig on her back whined softly as
+  its articulated arms retracted defensively. "Commander," she rasped, her voice raw
+  from swallowed dust. Her gaze flickered not to Mika or the wary legionnaires, but
+  directly to Geralt’s dragon armor, then Oreck’s chroniton-enhanced frame – living
+  anomalies, walking datasets. "I calculated the Ironspire garrison’s survival probability
+  as insufficient… and the desert is a prime environment for… *field testing*." She
+  shifted, revealing a hastily bandaged gash on her thigh – poorly concealed evidence
+  of her scramble across the mountains. "Professor Sahvant sends regards. And… requests
+  observational data." Her exposed hand twitched towards her rig’s primary injector
+  nozzle, stained with dried energy residue. Pragmatism painted over desperation.
+signal_type: entity
+source_file: raw/chapters/book_07_light_resonance_and_the_function_037_the_circle_of_progress.md
+status: captured
+supersedes: null

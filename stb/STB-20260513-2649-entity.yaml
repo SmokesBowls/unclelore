@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-2649
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 139
+line_start: 139
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Morning arrived like a blade between the ribs—sudden, efficient, leaving
+  no time to mourn. They packed in silence. Geralt's canteen sloshed when he lifted
+  it, half-empty from the night's ration. He set it down to adjust his gauntlet. When
+  he picked it up again, the metal seared his palm with frost, moisture beading along
+  the brim. Full. Kyh's silver-threaded shadow pulsed once in alarm. Kulla sniffed
+  the air. "Time's cracked here," the golem observed, as casually as commenting on
+  bad mortar.
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
+status: captured
+supersedes: null

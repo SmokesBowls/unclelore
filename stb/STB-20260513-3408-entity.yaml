@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-3408
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 95
+line_start: 95
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: '"Have you felt it?" Gaiana asked, studying Tran''s expression. "The awareness
+  within the fragments?"'
+signal_type: entity
+source_file: raw/chapters/book_16_fragmented_beginning_084_earth_giants_and_diverging_paths.md
+status: captured
+supersedes: null

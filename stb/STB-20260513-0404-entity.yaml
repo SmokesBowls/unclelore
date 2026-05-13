@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-0404
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 22
+line_start: 22
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: UNKNOWN
+raw_quote: The consciousness buried beneath the avalanche was not human, not Igigi,
+  not any of the recognized species that had achieved magical breakthrough. This was
+  something else entirely—a bio-form that operated on principles the Sage had never
+  encountered, consciousness structures that followed patterns that existed outside
+  his accumulated knowledge.
+signal_type: entity
+source_file: raw/chapters/book_04_sage_saga_020_the_collapse.md
+status: captured
+supersedes: null

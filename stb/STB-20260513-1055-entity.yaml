@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-1055
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 819
+line_start: 819
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: '"I already did," Geralt said quietly, channeling final surge of telekinetic
+  force that tore through weakened defenses, that reached golden flesh beneath technological
+  enhancement, that proved even gods could bleed when confronted by beings willing
+  to reject their authority.'
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+status: captured
+supersedes: null

@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-2767
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 387
+line_start: 387
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: The Dragon Mail no longer whispered in his bones. The Applicator didn't
+  scream warnings through his nerves. But the weight remained—the anchor's burden,
+  settling deeper than fused alloy or scar tissue. Geralt turned first to Kyh, whose
+  shadow-filaments still coiled around his wrist like a lifeline he wouldn't need.
+  "You'll hold the network," he said, not a request. Her darkness pulsed once in acknowledgment,
+  silver threads flaring where the Guild's harmonics had claimed her.
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+status: captured
+supersedes: null

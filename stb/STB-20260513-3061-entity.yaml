@@ -1,0 +1,22 @@
+audit_only: true
+buffer_id: STB-20260513-3061
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 87
+line_start: 87
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: As his interface skills continued to develop through sustained practice
+  and gradual enhancement of his coordination capabilities, Tran began to perceive
+  patterns in the awakening activities that suggested systematic orchestration rather
+  than random manifestation of abilities and recognition of cosmic heritage among
+  individuals scattered across the continent. The timing and nature of the awakenings
+  were too coordinated, too purposeful, to represent coincidental development of abilities
+  among unconnected individuals who happened to possess appropriate genetic heritage
+  and conscious development.
+signal_type: entity
+source_file: raw/chapters/book_12_forged_identity_069_divergent_paths.md
+status: captured
+supersedes: null

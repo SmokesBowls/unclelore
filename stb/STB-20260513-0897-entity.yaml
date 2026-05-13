@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-0897
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 731
+line_start: 731
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt looked down at himself—scales gleaming in doubled sunlight, wing-mounts
+  folded but visible, technology that radiated authority and capability beyond anything
+  freed slaves could comprehend.
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+status: captured
+supersedes: null

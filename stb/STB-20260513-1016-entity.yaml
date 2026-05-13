@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-1016
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 563
+line_start: 563
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: Mika and her team integrated with existing work parties, moving with practiced
+  subservience that hid awareness and capability beneath mask of compliance. They'd
+  spent weeks learning to weaponize the Anunnaki's expectations, to use assumptions
+  about slave incapability as tactical advantage.
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+status: captured
+supersedes: null

@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-2410
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 295
+line_start: 295
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: “There is none,” Geralt said, feeling the truth of it like a clean, cold
+  knife. “That’s the point. I reject your offer. I revoke your authority. Not because
+  I have a better system, but because the right to choose—even to choose poorly—isn’t
+  yours to take.”
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_052_entry_without_standing.md
+status: captured
+supersedes: null

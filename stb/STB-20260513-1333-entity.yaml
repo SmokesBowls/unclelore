@@ -1,0 +1,24 @@
+audit_only: true
+buffer_id: STB-20260513-1333
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 10
+line_start: 10
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Kaelen didn’t turn from the frozen waterfall. Her voice was flat, pragmatic.
+  "The plan is survival. The goal is mastery. These nodes," she tapped the ice near
+  one, "are amplifiers. Stabilizing them weakens the Queen’s foothold *here*, yes.
+  But more importantly, they are practice. Each node you harmonize strengthens *your*
+  control. Each Chronohound pack you evade teaches you to mask your signature." She
+  finally faced him, her galactic eyes hard. "The Queen seeks the Zaryonic Pattern
+  fragments. She hunts *them*. You, Geralt, are an anomaly – a potential key *and*
+  a threat. Your symbionts give you access, but without control, you are merely a
+  beacon leading her hunters straight to the fragments she covets. My goal is to ensure
+  you become neither her tool nor her casualty before you fulfill your purpose."
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_034_the_250.md
+status: captured
+supersedes: null

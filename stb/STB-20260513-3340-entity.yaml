@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-3340
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 76
+line_start: 76
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: Tran recognized both of the instantly, Rongtai and Thang,.dissapointment
+  shown on his face,, "its nice to see you both.. Keen is ok?"
+signal_type: entity
+source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
+status: captured
+supersedes: null

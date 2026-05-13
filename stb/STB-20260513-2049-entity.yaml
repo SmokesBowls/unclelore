@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-2049
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 7
+line_start: 7
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt leaned against a cracked support column, the dragon armor’s breastplate
+  dull with ash and scored by energy fire. The vestigial wing-nubs on his back twitched
+  occasionally, a phantom itch he’d learned to ignore. Mika approached, her own armor
+  scuffed, a fresh burn across her left vambrace. She didn’t speak at first, just
+  followed his gaze westward, where the late afternoon sun painted the distant foothills
+  in shades of blood and gold.
+signal_type: entity
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_046_not_like_this.md
+status: captured
+supersedes: null

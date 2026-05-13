@@ -1,0 +1,23 @@
+audit_only: true
+buffer_id: STB-20260513-1496
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 85
+line_start: 85
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Jorik shifted his horn bow, eyes wide with awe. Geralt gripped his shoulder.
+  "Stay sharp," he murmured. "The path ahead... it won't be stone." Jorik managed
+  a tight nod. "Wherever it leads, Commander." Geralt turned back to the spire. He
+  didn't activate it. He let his tripartite signature bleed into its newly forged
+  lattice – applicator’s precision, armor’s defiance, his unwavering focus on Mika.
+  The spire *recognized* him. The air shimmered violently, not tearing, but *folding*.
+  Reality buckled silently. One heartbeat, Geralt and Jorik stood before the Heartpeak
+  spire. The next, they stood upon an obsidian stairwell descending into infinite
+  darkness. Behind them, the spire’s resonance faded like a closing door.
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
+status: captured
+supersedes: null

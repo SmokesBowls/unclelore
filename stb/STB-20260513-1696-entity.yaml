@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-1696
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 5
+line_start: 5
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: The jungle's corruption had retreated—not destroyed, merely pushed back
+  by Tiamat's ancient resonance still thrumming through the soil. Geralt sat against
+  a moss-slick stone, dragon armor scorched and dented, breathing hard. Around him,
+  the Legion sprawled in exhausted clusters. Halvar's axe lay across his lap, blade
+  notched from petrified thorns. Ren stared at nothing, hands still trembling. Oreck's
+  chroniton arrows had gone dark, their stolen energy spent.
+signal_type: entity
+source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
+status: captured
+supersedes: null

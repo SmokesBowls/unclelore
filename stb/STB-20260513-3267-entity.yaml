@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-3267
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 146
+line_start: 146
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: Tran felt the weight of their offer pressing against him—to leave the familiar
+  confines of Sundrift, to journey beyond Ironspire, to discover truths about himself
+  and his heritage that he'd never known to question.
+signal_type: entity
+source_file: raw/chapters/book_15_legends_and_gods_080_the_whispers_between_worlds.md
+status: captured
+supersedes: null

@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-2694
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 41
+line_start: 41
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt exhaled through his teeth. The numbness in his chest flickered—not
+  fading, but resonating with the sage’s cadence. "The Wise Ones said cease."
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+status: captured
+supersedes: null

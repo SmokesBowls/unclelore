@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-0876
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 577
+line_start: 577
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: We need, Geralt continued with forced calm, to establish ground rules.
+  Immediately. Before someone's consciousness gets permanently damaged.
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+status: captured
+supersedes: null

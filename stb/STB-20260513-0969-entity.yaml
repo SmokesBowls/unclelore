@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-0969
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 203
+line_start: 203
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: The coordination improved marginally—enough that Geralt could engage rather
+  than simply survive, could counterattack rather than only dodge.
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+status: captured
+supersedes: null

@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-3227
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 405
+line_start: 405
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: Tran's explanation of their purpose and the threats they were facing allowed
+  Veylan to rapidly assess the strategic situation with perspective that combined
+  magical understanding with conventional political analysis.
+signal_type: entity
+source_file: raw/chapters/book_15_legends_and_gods_079_mages_awakening.md
+status: captured
+supersedes: null

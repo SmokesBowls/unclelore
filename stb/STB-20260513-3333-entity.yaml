@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3333
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 55
+line_start: 55
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: Tran accepted the fragment carefully. The moment his fingers touched it,
+  the Crimson Blood in his veins surged in recognition. This was one of the Dragon
+  Mail fragments – the Red Fragment that "burns eternal in the volcanic fields of
+  the north."
+signal_type: entity
+source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
+status: captured
+supersedes: null

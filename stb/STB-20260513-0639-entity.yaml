@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-0639
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 537
+line_start: 537
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: 'But the crystals weren''t finished. Having established the network''s
+  absence, they provided something else: memory. Information. Data stored in their
+  structures by whoever had placed them here—whoever had known, long before the Anunnaki
+  came, that crystalline formations could serve as recording medium, as archive, as
+  bridge between consciousness and stone.'
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
+status: captured
+supersedes: null

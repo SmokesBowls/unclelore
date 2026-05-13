@@ -1,0 +1,26 @@
+audit_only: true
+buffer_id: STB-20260513-1502
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 99
+line_start: 99
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Impact was imminent. Geralt acted on pure Void Spire instinct. He didn't
+  fight the Catalyst’s flow; he *conducted* it. Shoving Jorik bodily behind him onto
+  a solidified step-platform, Geralt slammed his palms downward onto the obsidian
+  stair. The Star Needle applicator shrieked, projecting latticework harmonics directly
+  into the Akashic substrate. He didn't try to contain the Sound Aspect's fury. He
+  *channeled* it. Using the Light Aspect’s navigational precision flooding his mind,
+  he shaped the screaming chroniton torrent into a focused beam, directing its colossal
+  energy *through* the stair beneath his hands. The obsidian underfoot didn't shatter;
+  it *resonated*, transforming into a lens of pure harmonic potential. The Sound Aspect
+  struck the focal point. Light and Sound collided not with destruction, but with
+  blinding, resonant *integration*. The stairwell vanished in a silent detonation
+  of stabilized power.
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
+status: captured
+supersedes: null

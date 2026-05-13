@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-2771
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 403
+line_start: 403
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: The water wasn’t water at all—it was memory, thick as tar and twice as
+  dark, clinging to Geralt’s legs with the insistence of unfinished business. He waded
+  through it anyway, the alloy in his bones humming against the current’s pull. Then
+  the shadow appeared. Not cast, but *cast out*—a silhouette carved from absence,
+  standing on the far shore with arms crossed and a smirk sharp enough to cut time.
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+status: captured
+supersedes: null

@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-0358
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 24
+line_start: 24
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: 'He gestured to the probability matrix, its crystalline surface now displaying
+  a three-dimensional map of potential futures. Each branch showed the same terminus:
+  Igigi extinction under Anunnaki conquest. All branches but one.'
+signal_type: entity
+source_file: raw/chapters/book_04_sage_saga_016_the_choice_third_coming.md
+status: captured
+supersedes: null

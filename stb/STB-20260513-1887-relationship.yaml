@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-1887
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 307
+line_start: 307
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: “Do not thank me yet,” she said, and then her presence receded, retreating
+  to the deepest part of their bond to heal.
+signal_type: relationship
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_042_the_verdant_crossing.md
+status: captured
+supersedes: null

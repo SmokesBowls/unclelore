@@ -1,0 +1,27 @@
+audit_only: true
+buffer_id: STB-20260513-1471
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 43
+line_start: 43
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: A choked sound escaped her. The spear dropped from the man’s hands with
+  a clatter. He surged forward, disbelief melting into fierce joy. "Geralt! By the
+  shattered chains!" He grabbed Geralt’s forearm in the old Legion grip—forearm to
+  forearm, a grip forged in the slave pits before they had names. The woman, Sella,
+  joined them, her calloused hand gripping Geralt’s other shoulder with bruising intensity.
+  Her eyes scanned the armor again, lingering on the subtle dragon-scale pattern fused
+  into the pauldron. "We know the feel of that power," she rasped. "It whispers of
+  old masters. But *you*..." Her grip tightened. "You broke our collars on the Bloodstone
+  Fields. Fought beside us when the sky fell." The memory—desperate charges against
+  Anunnaki overseers, the roar of breaking chains—hung thick between them. Trust wasn't
+  given lightly here. It was earned in blood and shared defiance. They trusted *him*,
+  armor or not. The shadows stirred as others emerged cautiously, drawn by the raw
+  emotion resonating from their leader’s reunion.
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
+status: captured
+supersedes: null

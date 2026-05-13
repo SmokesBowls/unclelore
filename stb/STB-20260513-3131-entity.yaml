@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3131
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 209
+line_start: 209
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: Somewhere in the back of his temporal awareness, he could sense the echo
+  of his brother Tran, also training, also growing into powers that would reshape
+  the galaxy. The bond between them remained strong despite the physical distance,
+  strengthened by shared purpose and mutual understanding of the stakes they faced.
+signal_type: entity
+source_file: raw/chapters/book_14_lessons_of_inheritance_072_flow_between_moments.md
+status: captured
+supersedes: null

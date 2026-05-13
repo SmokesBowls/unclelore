@@ -1,0 +1,30 @@
+audit_only: true
+buffer_id: STB-20260513-1554
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 95
+line_start: 95
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt’s helm turned slowly towards her. The dragon-scale plates absorbed
+  the moonlight, seeming colder amidst the desert heat. He said nothing. Mika stepped
+  forward, pistol grip tightening. "A stowaway? Circle tech-jockey?" Her tone was
+  ice. "You compromised Ironspire’s garrison strength by one." Lyra flinched, barely
+  perceptible. "Negative. My projections indicated my presence offered greater statistical
+  benefit *here*." She gestured sharply with her grafted arm. "Observe Legionnaire
+  Halvar." All eyes snapped to Halvar, leaning against a monolith. He looked weary
+  but unharmed. Lyra’s filaments flared. "Subcutaneous chroniton contamination from
+  the Sentinel sparks. Degradation factor of 3.7%. Untreated, motor function decays
+  within seventy-two hours." Halvar stiffened, touching his flank unconsciously. Lyra
+  tapped her temple. "Bio-scanner diagnostics. My rig can stabilize cellular decay.
+  Preventative field maintenance." Her voice held no triumph, only brittle certainty.
+  Mika’s gaze hardened. Pragmatism clashed with fury. The desert night crackled with
+  tension. Integration required risk assessment – biological, tactical, and deeply
+  unsettling. Geralt remained silent, his armored silhouette a judgment yet unspoken.
+  The hunt now carried a volatile healer.
+signal_type: entity
+source_file: raw/chapters/book_07_light_resonance_and_the_function_037_the_circle_of_progress.md
+status: captured
+supersedes: null

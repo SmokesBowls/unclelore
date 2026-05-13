@@ -1,0 +1,27 @@
+audit_only: true
+buffer_id: STB-20260513-1328
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 310
+line_start: 310
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: The plateau beyond was a shallow basin filled with swirling, ochre dust
+  devils. And there, near its center, lay a crumpled shape. Dark fabric against the
+  pale sand. Geralt’s armor? Her heart slammed against her ribs, a frantic drumbeat
+  drowning out the tower’s hum. She couldn’t speak. Her throat closed. Tears refused
+  to form, frozen somewhere deep inside. She didn’t run. She fell forward, slithering
+  down the loose scree slope, sand filling her boots, scraping her palms raw. She
+  reached the figure, collapsing beside it. Not Geralt. Just a dried pool of blood..  Where
+  was *he*? Her gaze swept the basin. Nothing moved but the dust devils. A dead shrub
+  protruding out of the ridge above... Falcons nest.  Babys.  Not Geralt… her last
+  conscious thought was his name, echoing emptily in her mind as the swirling dust,
+  the oppressive heat, and the crushing weight of his absence finally overwhelmed
+  her. She slumped forward, unconscious, her face pressed against the sand stained
+  with only memory of him.
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_033_the_march.md
+status: captured
+supersedes: null

@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0212
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 201
+line_start: 201
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: UNKNOWN
+raw_quote: '"Reptilian forces: two thousand, three hundred and forty-seven terminated.
+  Igigi workforce: one hundred and twelve terminated, primarily from indigenous retaliation
+  rather than direct assault. Indigenous biologicals: estimated four hundred stone-entities
+  terminated, approximately two hundred luminescent beings terminated."'
+signal_type: entity
+source_file: raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
+status: captured
+supersedes: null

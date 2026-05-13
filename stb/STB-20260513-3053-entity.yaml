@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-3053
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 39
+line_start: 39
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: '"Specialized training," Tran realized, his enhanced perception revealing
+  the logic and necessity of the paths that were opening before them. "We each need
+  to master something the other can''t teach."'
+signal_type: entity
+source_file: raw/chapters/book_12_forged_identity_069_divergent_paths.md
+status: captured
+supersedes: null

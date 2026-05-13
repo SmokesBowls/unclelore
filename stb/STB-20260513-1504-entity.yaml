@@ -1,0 +1,23 @@
+audit_only: true
+buffer_id: STB-20260513-1504
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 103
+line_start: 103
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: The implications slammed into Geralt. Luminara wasn’t a destination; she
+  was the ignition key itself, cyclically sacrificing fragments of her essence across
+  the cosmos. His spire-tuned resonance hadn't just illuminated Mika’s location; it
+  had offered the Catalyst a stable fulcrum mid-leap, transforming a desperate void-crossing
+  into instantaneous integration. This node wasn't merely *activated*; it was *forged*
+  around his purpose. The risk hadn't vanished; it had merely shifted form. Stabilizing
+  the volatile Activator mid-flight had anchored Luminara *here*, within the Akashic
+  flow, tying her immense power directly to Geralt’s quest. Her presence wasn't passive
+  aid; it was a live conduit to the deepest currents of existence.
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
+status: captured
+supersedes: null

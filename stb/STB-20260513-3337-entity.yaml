@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3337
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 66
+line_start: 66
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: The elder Dregan, who had accompanied them to the edge of his people's
+  territory, spread his wings thoughtfully. "The coastal beings remember the Masters
+  differently than we do. Their waters protected them from the worst of the experiments."
+  His gaze shifted to Tran. "They may not recognize the significance of your blood."
+signal_type: entity
+source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
+status: captured
+supersedes: null

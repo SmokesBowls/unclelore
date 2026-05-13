@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0651
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 805
+line_start: 805
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: The sound of grinding metal echoed across the compound. The main gates—sealed
+  since the evacuation, unopened for weeks—began to move. Heavy mechanisms that hadn't
+  been activated since the Anunnaki's departure suddenly engaged, pulling the massive
+  barriers apart with ponderous weight.
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
+status: captured
+supersedes: null

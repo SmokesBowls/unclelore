@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-0375
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 86
+line_start: 86
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: UNKNOWN
+raw_quote: Across the void, the dark planet began its journey toward the small blue
+  world where scattered Igigi refugees huddled in primitive shelters, still believing
+  they had chosen freedom.
+signal_type: entity
+source_file: raw/chapters/book_04_sage_saga_017_niburu_shadow.md
+status: captured
+supersedes: null

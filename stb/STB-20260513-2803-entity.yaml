@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-2803
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 111
+line_start: 111
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: I feel myself becoming less Geralt and more the Cocoon. My memories of
+  cool air, of the weight of a sword, of a friend’s touch, feel like someone else’s
+  story. I am calcifying into pure, lonely observation.
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_059_eyes_of_eternity.md
+status: captured
+supersedes: null

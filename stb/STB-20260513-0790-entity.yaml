@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0790
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 53
+line_start: 53
+parsed_payload:
+  confidence: medium
+  entity_name: Nehereti
+  entity_type: UNKNOWN
+raw_quote: He remembered the Nehereti's touch. The warmth. The sense of restrictions
+  dissolving, pathways opening, capabilities long denied suddenly granted. He tried
+  to channel that sensation, to replicate what had been done to him, to share rather
+  than take.
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+status: captured
+supersedes: null

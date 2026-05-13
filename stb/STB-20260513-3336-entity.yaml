@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-3336
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 65
+line_start: 65
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: '"We''ll manage," Tran said, his confidence bolstered by their success
+  with the Dregans. The Red Fragment in his pack pulsed occasionally, as if affirming
+  his decisions.'
+signal_type: entity
+source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
+status: captured
+supersedes: null

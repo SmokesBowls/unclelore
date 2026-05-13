@@ -1,0 +1,23 @@
+audit_only: true
+buffer_id: STB-20260513-3100
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 382
+line_start: 382
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: Keen blinked, trying to reconcile the cosmic visions still echoing in her
+  consciousness with the immediate reality of the chamber around her, while recognizing
+  that her perception of both cosmic and mundane reality had been permanently altered
+  by contact with knowledge that operated according to principles beyond normal human
+  comprehension. The sphere in her hands had dimmed to a gentle glow, but she could
+  feel its presence in her mind now—not as an external artifact that required physical
+  contact for access, but as part of her own consciousness that would remain available
+  regardless of physical proximity or external circumstances.
+signal_type: relationship
+source_file: raw/chapters/book_12_forged_identity_070_spheres_truth.md
+status: captured
+supersedes: null

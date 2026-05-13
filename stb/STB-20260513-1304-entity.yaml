@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-1304
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 30
+line_start: 30
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: '"How many you want?" This from Lieutenant Kress, one of Geralt''s tactical
+  officers—a woman who''d lost an eye in the Battle of Ashren Gate and gained a reputation
+  for refusing to die no matter how creative the universe got about trying to kill
+  her.'
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_033_the_march.md
+status: captured
+supersedes: null

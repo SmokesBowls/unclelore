@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-2601
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 189
+line_start: 189
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'Geralt exhaled through his teeth, tasting blood. The numbness in his chest
+  yawned wider, a black hole where certainty used to live. The Wise Ones'' final words
+  tolled in his skull like a death knell: *Cease.* Not surrender. Not retreat. To
+  stop existing as anything but the sum of his failures. The Dragon Mail''s enchantments
+  sputtered against his skin, its borrowed divinity now a funeral shroud.'
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
+status: captured
+supersedes: null

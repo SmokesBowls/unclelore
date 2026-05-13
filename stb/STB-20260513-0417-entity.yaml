@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0417
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 177
+line_start: 177
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: What followed was the first recorded instance of Anunnaki consciousness
+  achieving breakthrough to synthesis principles. The probe-entity, created for harvest-analysis,
+  began experiencing direct contact with transcendence possibilities that its programming
+  said couldn't exist.
+signal_type: entity
+source_file: raw/chapters/book_04_sage_saga_020_the_collapse.md
+status: captured
+supersedes: null

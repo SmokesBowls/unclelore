@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-0401
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 70
+line_start: 70
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: As he waited for the student to arrive, the Sage felt Torrhen's presence
+  threading through the wind and water around him—not words, but harmonic patterns
+  that spoke of approval, of love that transcended individual existence, of friendship
+  that had become part of the quantum structure of reality itself.
+signal_type: relationship
+source_file: raw/chapters/book_04_sage_saga_019_the_sacrafice.md
+status: captured
+supersedes: null

@@ -1,0 +1,22 @@
+audit_only: true
+buffer_id: STB-20260513-0475
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 25
+line_start: 25
+parsed_payload:
+  predicate: serves
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: '"The Deep Waters remember everything," Torrhen explained, his voice now
+  carrying overtones that seemed to come from geological formations themselves rather
+  than individual vocal apparatus. "Every consciousness that has ever achieved synthesis,
+  every wisdom that has ever transcended individual limitation, every teaching that
+  has ever served evolution rather than preservation. When individual identity dissolves
+  into universal service, it does not cease to exist—it becomes part of the memory
+  that guides all future consciousness evolution."'
+signal_type: relationship
+source_file: raw/chapters/book_04_sage_saga_022_final_calculation.md
+status: captured
+supersedes: null

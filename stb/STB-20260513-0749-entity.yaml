@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0749
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 346
+line_start: 346
+parsed_payload:
+  confidence: medium
+  entity_name: Nehereti
+  entity_type: UNKNOWN
+raw_quote: '"But my creations—" he looked toward where the Nehereti had been, though
+  they''d faded from the Library''s Ethereal aspect, "—the Nehereti. Projections of
+  Aeon Keeper consciousness into physical realm. They remembered. They searched. And
+  over centuries, they collected."'
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_026_dragonmail.md
+status: captured
+supersedes: null

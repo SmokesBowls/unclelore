@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-2230
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 322
+line_start: 322
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: The armor across Geralt’s body went rigid, locking into full battle configuration
+  with a sound like shattering ice. The applicator screamed in his head.
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
+status: captured
+supersedes: null

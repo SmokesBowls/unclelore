@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-3736
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 254
+line_start: 254
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: '"She does," Keen said with sudden certainty. "She''s counting on us finding
+  it. This is still part of her plan."'
+signal_type: relationship
+source_file: raw/chapters/book_19_worthy_opponents_north_102_convergence_on_mars.md
+status: captured
+supersedes: null

@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-0385
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 23
+line_start: 23
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: UNKNOWN
+raw_quote: '"How?" Zephyr asked, the word emerging in standard Igigi mathematical
+  notation before he caught himself and translated into the crude acoustic approximations
+  that Giants used for communication.'
+signal_type: entity
+source_file: raw/chapters/book_04_sage_saga_018_the_wandering.md
+status: captured
+supersedes: null

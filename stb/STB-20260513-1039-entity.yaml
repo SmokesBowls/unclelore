@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-1039
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 717
+line_start: 717
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: The Anunnaki Overseer was magnificent—there was no other word adequate
+  to describe being who represented divine authority made manifest, who radiated power
+  that transcended simple physical presence.
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+status: captured
+supersedes: null

@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-3518
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 109
+line_start: 109
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: '"North, then," Tran said, noting how the three fragments pulsed with light
+  that illuminated their path through the thick mist. "To the mountains and the White
+  Fragment."'
+signal_type: entity
+source_file: raw/chapters/book_16_fragmented_beginning_087_the_breath_of_life.md
+status: captured
+supersedes: null

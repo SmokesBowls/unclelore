@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-2317
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 422
+line_start: 422
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: '"Raw Light energy will burn through my chroniton structure. I know. I''m
+  at ninety-four percent decay anyway. Weeks left, at best." He met Geralt''s eyes,
+  then Oreck''s. "But this way... this way I matter."'
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
+status: captured
+supersedes: null

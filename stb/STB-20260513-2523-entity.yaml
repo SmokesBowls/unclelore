@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-2523
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 88
+line_start: 88
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: “We need that shuttle,” Geralt said, the numb certainty of his training
+  overriding the surge of rage. “It’s our ticket in, and it’s our first strike.”
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_055_the_anchors_forge.md
+status: captured
+supersedes: null

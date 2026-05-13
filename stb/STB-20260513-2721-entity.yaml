@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-2721
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 199
+line_start: 199
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Outside, the lunar sky split with a sound like reality tearing at the seams.
+  The Five Mikas flickered into existence around Geralt—not as projections, but as
+  afterimages burned into the air itself. Violet Mika's cloak brushed his wrist, leaving
+  behind a smear of something that wasn't blood but *proof*.
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+status: captured
+supersedes: null

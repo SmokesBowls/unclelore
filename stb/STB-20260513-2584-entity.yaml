@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-2584
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 109
+line_start: 109
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt flexed his hands, raw from gripping dragon spines. Eight minutes
+  borrowed from a black hole's event horizon. Eight minutes to decide. "I've fought
+  in the cracks between your wars for decades," he said. The numbness in his chest
+  didn't waver. "I've held timelines together with my ribs as splints. If the Wise
+  Ones have even one truth that can break Her frequency..." He looked up at Pyrocast's
+  supernova eyes. "I'll take the bad news."
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
+status: captured
+supersedes: null

@@ -1,0 +1,23 @@
+audit_only: true
+buffer_id: STB-20260513-1556
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 7
+line_start: 7
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt’s head snapped around. The distant cloud of settling dust registered
+  instantly—an attack vector slicing through his vulnerable rear. "Mika! Hold the
+  front!" His roar cut through the rising chaos. Dragonmail plates flared with sudden,
+  searing azure light as Zaron’s spirit surged, responding to imminent threat. Time
+  seemed to warp; Geralt blurred forward, not running, but *flowing* impossibly fast
+  across the dunes, sand kicking up in crystalline arcs behind him. He passed Oreck,
+  already reversing course with terrifying speed, the green arrows along his greaves
+  blazing like emerald beacons pointing *back*. Together, they closed the distance
+  in heartbeats, arriving as a second Dragan drew breath to scream.
+signal_type: entity
+source_file: raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+status: captured
+supersedes: null

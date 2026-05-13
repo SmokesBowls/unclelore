@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-2502
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 193
+line_start: 193
+parsed_payload:
+  predicate: created_by
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: He perceived it not as a blueprint, but as a living idea. The Spires were
+  not first created by the Anunnaki. They were discovered. They were fossilized echoes
+  of a prior universal cycle—the neural pathways of a "God-Mind" that had dreamed
+  a previous cosmos into being. The Anunnaki had simply… grafted their own systems
+  onto this corpse of godhood.
+signal_type: relationship
+source_file: raw/chapters/book_09_bureaucratic_debt_054_tue_lunar_spire.md
+status: captured
+supersedes: null

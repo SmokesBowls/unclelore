@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-3538
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 71
+line_start: 71
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: In the mirrors, Tran saw himself multiplied infinitely, but each reflection
+  was different. In one, he stood alone, the Dragon Mail fallen to pieces at his feet.
+  In another, the armor had consumed him entirely, leaving only a hollow shell that
+  moved with mechanical purpose. A third showed him aged beyond measure, still bearing
+  the armor but clearly broken by its weight.
+signal_type: entity
+source_file: raw/chapters/book_17_ancestral_debt_089_the_white_mirror.md
+status: captured
+supersedes: null

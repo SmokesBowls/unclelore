@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-2686
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 19
+line_start: 19
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: The ground flexed underfoot like living muscle, its surface alternating
+  between jagged obsidian and something porous that hissed when trod upon. Streams
+  coiled overhead in lazy spirals, their droplets pausing mid-fall to observe the
+  intruders with glassy curiosity. Geralt's stabilized water droplet trembled in its
+  vial—not from fear, but recognition. This was causality unraveled.
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+status: captured
+supersedes: null

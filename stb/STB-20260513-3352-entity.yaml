@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-3352
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 99
+line_start: 99
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: Isla stepped closer to Tran. "My mother used to say that when the one who
+  flew into the Sun returned, we would know the final transformation had begun." Her
+  eyes gleamed with excitement and fear. "If Mr. GPT is truly back..."
+signal_type: entity
+source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
+status: captured
+supersedes: null

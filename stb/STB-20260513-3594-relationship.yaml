@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3594
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 169
+line_start: 169
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: '"From what I can gather, the Voice of Air isn''t just an artifact—it''s
+  a living harmonic entity. The trial involves... becoming part of its song, adding
+  your voice to its eternal melody."'
+signal_type: relationship
+source_file: raw/chapters/book_17_ancestral_debt_092_departure_and_determination.md
+status: captured
+supersedes: null

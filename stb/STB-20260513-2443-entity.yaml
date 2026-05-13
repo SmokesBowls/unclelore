@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-2443
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 177
+line_start: 177
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: “They’re preparing the site,” Luminaire whispered, her horror a cold thread
+  in the bond. “The Spire is the catalyst. Lentharis is the fuel. And Geralt’s applicator
+  is the ignition key.”
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_053_the_twilight_city.md
+status: captured
+supersedes: null

@@ -1,0 +1,22 @@
+audit_only: true
+buffer_id: STB-20260513-1539
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 55
+line_start: 55
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Dawn arrived not with gentle light, but the grinding sound of the Tower’s
+  outer doors disengaging. The legion moved north, a grim procession winding through
+  jagged ravines choked with crystalline debris. Geralt walked point, dragon armor
+  a silhouette against the bruised sky, Zaron’s spirit humming low within the plates.
+  Mika scanned the horizon, her posture tense. Behind them, Oreck moved like a shadow
+  given form, his cleaver resting easily in his scaled grip, the green arrows pulsing
+  softly, guiding the column’s flank. The air grew thick with ozone and the metallic
+  tang of decay.
+signal_type: entity
+source_file: raw/chapters/book_07_light_resonance_and_the_function_037_the_circle_of_progress.md
+status: captured
+supersedes: null

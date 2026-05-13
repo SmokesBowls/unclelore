@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0586
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 487
+line_start: 487
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: The Anunnaki appeared from their elevated platforms, descending to meet
+  the visitors with movements that suggested this was not an unexpected arrival. Negotiations,
+  perhaps. Trade discussions. Whatever transpired between species that operated on
+  scales beyond slave comprehension.
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_024_the_first_spark.md
+status: captured
+supersedes: null

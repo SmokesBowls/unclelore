@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-3363
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 133
+line_start: 133
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: One by one, they entered the vortex – Caelum first, then Thang, and finally
+  Tran, with Rongtai herself following last.
+signal_type: entity
+source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
+status: captured
+supersedes: null

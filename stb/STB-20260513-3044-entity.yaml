@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-3044
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 229
+line_start: 229
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: But it was Tran whose separation would be most immediate and complete.
+  Zephyr's explanation revealed that his path led not toward cosmic training facilities
+  or inter-dimensional education but back to the world they had known, armed with
+  understanding and abilities that would allow him to serve purposes that required
+  his presence within the communities and civilizations that were beginning to awaken
+  to their own magical heritage.
+signal_type: entity
+source_file: raw/chapters/book_12_forged_identity_068_brotherhood_revealed.md
+status: captured
+supersedes: null

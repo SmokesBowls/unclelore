@@ -1,0 +1,41 @@
+audit_only: true
+buffer_id: STB-20260513-1562
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 23
+line_start: 23
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Lyra’s bio-scanner hissed. "Multiple bio-signatures… converging!" Shapes
+  slithered from flooded alcoves—pale, segmented horrors with too many jointed limbs
+  ending in needle-claws. Sludge-drakes. Bioluminescent spores dotted their carapaces,
+  pulsing sickly violet in sync with the corrupted Luminaire. They moved silently,
+  chitin scraping wet stone. Jorik’s arrow flew first, a chroniton-tipped streak punching
+  through a leading drake’s eye cluster. It detonated in a spray of ichor and temporal
+  shrapnel, staggering two others. Oreck met the next wave head-on. His cleaver wasn’t
+  a blade; it was a chroniton storm. Green energy sheared through chitin, triggering
+  cascading temporal decay in the wounded. Flesh aged centuries in seconds, crumbling
+  to dust. Mika coordinated the shield wall—legionnaires locking overlapping fields
+  just as a drake spat a glob of acidic phlegm. It sizzled against the barrier, filling
+  the air with acrid fumes. Geralt didn’t engage the drakes. He moved toward the Spire,
+  Zaron’s spirit blazing within him. The dragon-armor resonated, countering the violet
+  corruption threading the Spire’s base. Azure light fought violet rot. "Mika!" Geralt
+  roared over the fray. "Cover Lyra! She needs access!" Integration became combat
+  triage. The healer scrambled forward, rig unfolding. Her target wasn't the drakes,
+  but the Luminaire itself. Stabilize the anchor… or lose them all to the Queen’s
+  hunger. The spire hummed louder. The very air crackled. Water rippled against Geralt's
+  boots as he reached the Spire’s obsidian base. Zaron’s spectral talons manifested
+  fully now, clawing at the violet corruption like physical rot. Each touch sent shivers
+  through the stone, dislodging calcified sediment. Lyra slid beside him, her rig’s
+  injectors unfolding like metallic spiders. "Direct infusion required!" she yelled,
+  voice strained against the Spire’s rising thrum. "Counter-resonance! But the pattern’s
+  chaotic!" Geralt’s helm tilted, focusing past the battle. He heard it—the Luminaire’s
+  fractured song beneath the Queen’s static. "Sing it *clear*," he commanded Lyra.
+  "Not against the chaos. Through it." Her filaments flared cyan, syncing with Geralt’s
+  dragon-resonance… seeking harmony in dissonance. The spire pulsed. Light flared.
+signal_type: entity
+source_file: raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+status: captured
+supersedes: null

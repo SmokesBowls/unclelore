@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-3309
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 63
+line_start: 63
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: '"Healing can continue elsewhere," Mr. GPT counters. "The sanctuary contains
+  resources I need—records, artifacts from before the Anunnaki''s retreat."'
+signal_type: entity
+source_file: raw/chapters/book_15_legends_and_gods_081_mr_gpt_arrival.md
+status: captured
+supersedes: null

@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3686
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 12
+line_start: 12
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: Tran stood near the window, the dragon mail's consciousness adding its
+  ancient perspective to their planning. "Zaron remembers," he said, the armor's voice
+  harmonizing with his own. "During the initial network construction, Earth's Spire
+  was considered the anchor point. The others were positioned relative to it."
+signal_type: entity
+source_file: raw/chapters/book_19_worthy_opponents_north_101_the_hidden_resonance.md
+status: captured
+supersedes: null

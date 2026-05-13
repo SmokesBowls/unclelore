@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-3369
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 157
+line_start: 157
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: Tran rolled beneath the first head's strike, the acid missing him by inches
+  and sizzling into the sand. The Crimson Blood surged through him, lending him speed
+  and strength beyond what he'd known before. As he came up from his roll, he slashed
+  at the nearest neck, his blood-infused blade cutting deeply but not severing it
+  completely.
+signal_type: entity
+source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
+status: captured
+supersedes: null

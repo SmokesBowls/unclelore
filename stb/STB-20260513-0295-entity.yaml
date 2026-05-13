@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-0295
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 106
+line_start: 106
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: '"Then we must make this alliance a bridge, not a wall," Torhh replied,
+  its certainty absolute. "We will demonstrate that not every weapon forged in the
+  Crucible of the Anunnaki must strike us. That some can be turned, their purpose
+  reforged. We will show the mountains and the deserts that our strength is not in
+  hoarding, but in uniting."'
+signal_type: entity
+source_file: raw/chapters/book_03_the_reckoning_011_escalation_and_desperation.md
+status: captured
+supersedes: null

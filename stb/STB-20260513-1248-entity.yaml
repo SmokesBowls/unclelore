@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-1248
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 1064
+line_start: 1064
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt opened eyes—or rather, became aware that eyes were open, that sensory
+  input was occurring, that existence continued despite expectations otherwise.
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
+status: captured
+supersedes: null

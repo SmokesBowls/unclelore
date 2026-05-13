@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-1261
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 255
+line_start: 255
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: The first body he found was in what had been a command section, crushed
+  beneath a fallen support beam. Male, heavily muscled, with armor that bore markings
+  Zephyr recognized. Not Anunnaki standard issue. Something else. Custom work, maintained
+  with the care of someone who understood that good armor was the difference between
+  death and survival.
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_031_the_crash_site.md
+status: captured
+supersedes: null

@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-2790
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 475
+line_start: 475
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Kyh materialized between them like a bad omen, her silver-threaded fingers
+  already weaving a portal. "He's Geralt. Dying's his hobby." The smirk didn't reach
+  her eyes.
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+status: captured
+supersedes: null

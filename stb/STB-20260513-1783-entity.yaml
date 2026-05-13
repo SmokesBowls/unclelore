@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-1783
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 745
+line_start: 745
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Oreck met them with his cleaver, armorless now, fighting on pure skill
+  and fury. Halvar guarded his flank. Jorik’s remaining arrows flew, finding gaps
+  in corrupted armor. The Legion formed a defensive perimeter around Lyra, who was
+  desperately trying to restart Geralt’s heart.
+signal_type: entity
+source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
+status: captured
+supersedes: null

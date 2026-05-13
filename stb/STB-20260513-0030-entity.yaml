@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-0030
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 3
+line_start: 3
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: UNKNOWN
+raw_quote: 'THREADS INCLUDED: Nephoretti Manifestation, Pelagor Evolution (Giants),
+  Senareth Prime, Planetary Landing, Vrill Infusion, First Contact Prelude'
+signal_type: entity
+source_file: raw/chapters/book_01_book_of_genesis_002_molten_descent.md
+status: captured
+supersedes: null

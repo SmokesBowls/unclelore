@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3073
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 131
+line_start: 131
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: '"That''s him," Tran realized as recognition flowed through his consciousness,
+  connecting current perception with memories that had been preserved despite his
+  young age at the time of their original encounter. "The one who saved me twenty
+  years ago. The teacher who flew into the Sun."'
+signal_type: entity
+source_file: raw/chapters/book_12_forged_identity_069_divergent_paths.md
+status: captured
+supersedes: null

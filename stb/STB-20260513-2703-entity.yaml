@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-2703
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 135
+line_start: 135
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Zypher's vortex eyes spun faster, their gravity pulling at Geralt's scars
+  like fingers plucking harp strings. The sage's robe dissolved into fractal patterns
+  as he stepped closer, his voice dropping to a whisper that bypassed eardrums entirely—it
+  vibrated in Geralt's molars, in the fillings of old wounds. "And for the grand finale..."
+  The chamber's walls pulsed inward, breathing in sync with his words. "Are you ready
+  to experience life beyond the flesh, to shed the daggers of continuation that tear
+  at your soul?"
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+status: captured
+supersedes: null

@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-2057
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 51
+line_start: 51
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: Nibiru’s Grasp wasn’t like the other camps—makeshift prisons of force-fences
+  and prefab barracks. This was a fortress. Tiered defensive walls carved from the
+  local red stone, reinforced with shimmering energy lattice. Gun emplacements at
+  staggered heights. A central tower with a dish that pulsed slowly, scanning the
+  horizon. And patrolling the walls, not just the hulking Anunnaki guards, but sleek
+  combat drones, hovering on silent repulsors.
+signal_type: entity
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_046_not_like_this.md
+status: captured
+supersedes: null

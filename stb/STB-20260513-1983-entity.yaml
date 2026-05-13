@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-1983
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 268
+line_start: 268
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt nodded. “The vessel is sealed,” he said, his own voice sounding
+  resonant, quieter. “All that’s left is to pour out the Light.”
+signal_type: entity
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_044_the_mountains_shadow.md
+status: captured
+supersedes: null

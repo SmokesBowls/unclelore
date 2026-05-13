@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0679
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 1305
+line_start: 1305
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: He ran toward the Anunnaki who was currently holding back a wave of thirty
+  slaves with one hand while dissolving their weapons with the other. The golden figure's
+  attention was divided, focus split between multiple threats that were individually
+  insignificant but collectively persistent.
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
+status: captured
+supersedes: null

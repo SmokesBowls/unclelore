@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-2911
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 310
+line_start: 310
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: Tran's response demonstrated his understanding of the reciprocal nature
+  of the dangers they all faced, the recognition that awakened abilities were not
+  the only forces in the world that could pose threats to those who stood apart from
+  established patterns of power and authority.
+signal_type: entity
+source_file: raw/chapters/book_11_blood_and_legacy_063_the_iron_hand.md
+status: captured
+supersedes: null

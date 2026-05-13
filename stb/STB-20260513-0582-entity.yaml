@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-0582
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 469
+line_start: 469
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: The vessel settled onto a cleared landing platform with mechanical grace,
+  barely disturbing the dust. Ramps extended. Doors hissed open with precision that
+  suggested technology far beyond even the Anunnaki's considerable capabilities.
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_024_the_first_spark.md
+status: captured
+supersedes: null

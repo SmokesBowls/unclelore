@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-2269
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 21
+line_start: 21
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: UNKNOWN
+raw_quote: “Weeks old,” Oreck said, kneeling to examine the blast patterns. “He was
+  here. They found him. He left before they could close the net.” He pointed to a
+  single set of tracks leading east—an Igigi, but with a pronounced, dragging limp.
+  A dark, crystalline substance flecked the dust at intervals. Dried chroniton-tainted
+  blood.
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
+status: captured
+supersedes: null

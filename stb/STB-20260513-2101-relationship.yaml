@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-2101
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 358
+line_start: 358
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: Cylinder seals! The ancient Sumerian administrative tools—also used as
+  ritual foci. Ašar-Ku’s shield was powered by a foundational, orderly principle.
+  The chaotic reality fracture was a byproduct of his power, not a part of his defense.
+  The shield’s weakness was symmetry, order.
+signal_type: relationship
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_046_not_like_this.md
+status: captured
+supersedes: null

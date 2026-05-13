@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-3273
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 172
+line_start: 172
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: The Five began to fade—not all at once, but in sequence. Blue Mika dissolved
+  into the water channels with a ripple that might have been a wink. Green Mika sank
+  into the earth, their stone seat crumbling playfully. Red Mika dispersed into dancing
+  embers that briefly spelled out words too quick to read. White Mika scattered like
+  dandelion seeds on the wind, their whisper carrying a hint of laughter. Violet Mika
+  remained longest, star-filled eyes fixed on Tran.
+signal_type: entity
+source_file: raw/chapters/book_15_legends_and_gods_080_the_whispers_between_worlds.md
+status: captured
+supersedes: null

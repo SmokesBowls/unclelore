@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-2535
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 159
+line_start: 159
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: It was not a clean, technological facility. It was a graft. Organic, Anunnaki-grown
+  support structures—like metallic coral—crawled over the surface of the largest asteroid,
+  which pulsed with a sick, violet light. This was the Amygdala Analogue. And crawling
+  across the void between it and other fragments were lines of living light. Gravity
+  tethers. And along those tethers, like ants on a string, were figures. Slaves. Hundreds
+  of them, minds broken by neural spikes, their collective telekinetic will being
+  harvested to literally drag the god-fragments closer.
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_055_the_anchors_forge.md
+status: captured
+supersedes: null

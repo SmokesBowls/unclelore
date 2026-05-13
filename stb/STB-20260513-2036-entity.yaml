@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-2036
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 404
+line_start: 404
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: The mountain gave a titanic lurch. The floor tilted. Geralt was thrown
+  against a console, his armor screeching against the metal. A massive crack split
+  the ceiling, and dust rained down.
+signal_type: entity
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_045_the_hub_falls.md
+status: captured
+supersedes: null

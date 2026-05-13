@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-0452
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 125
+line_start: 125
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: '"Diversity enhances harmony when guided by wisdom sufficient for coordination
+  rather than competition," Synthesis observed, its Anunnaki precision analyzing outcomes
+  that demonstrated consciousness evolution principles operating across species boundaries.
+  "First Tongue provides common harmonic language that allows different approaches
+  to awareness to create music more beautiful than any single voice achieves alone."'
+signal_type: entity
+source_file: raw/chapters/book_04_sage_saga_021_the_first_lesson.md
+status: captured
+supersedes: null

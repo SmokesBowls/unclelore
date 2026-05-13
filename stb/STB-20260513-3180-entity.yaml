@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-3180
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 5
+line_start: 5
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: The first pale light of dawn was breaking over Sundrift when Tran felt
+  the Star Needle's pulse shift from its usual steady rhythm to something that made
+  his Crimson Blood flare like liquid fire through his veins. He had been working
+  in the gardens behind the cottage where Mr. GPT was recovering, his enhanced senses
+  attuned to the subtle harmonics that flowed through the geometric water channels,
+  when the change struck him with force that nearly sent him to his knees.
+signal_type: entity
+source_file: raw/chapters/book_15_legends_and_gods_079_mages_awakening.md
+status: captured
+supersedes: null

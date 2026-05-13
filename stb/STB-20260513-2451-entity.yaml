@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-2451
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 205
+line_start: 205
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt watched it happen from behind his own eyes. A prisoner in his skull.
+  He saw the horror on his friends’ faces. He saw the Proto-Dracos kneeling, their
+  bodies beginning to glow in time with the building harmonic. He saw Lentharis, weeping
+  tears of liquid light.
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_053_the_twilight_city.md
+status: captured
+supersedes: null

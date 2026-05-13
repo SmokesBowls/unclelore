@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-2208
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 155
+line_start: 155
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'Geralt looked at the readout. Subject: Oreck. Threat Level: Extreme. Ally
+  Integrity: 100%.'
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
+status: captured
+supersedes: null

@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-3442
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 51
+line_start: 51
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: Rongtai's shadows curled more tightly around her at the mention of Anunnaki
+  technology. "Did the texts say where this machinery would be located?"
+signal_type: entity
+source_file: raw/chapters/book_16_fragmented_beginning_085_ancient_knowledge.md
+status: captured
+supersedes: null

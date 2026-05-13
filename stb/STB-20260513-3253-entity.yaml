@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3253
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 50
+line_start: 50
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: Finally, a pressure settled over the gathering—not physical, but spiritual.
+  The Crimson Blood in Tran's veins surged in response, recognizing something familiar
+  yet foreign. A figure in violet robes appeared before them, their eyes filled with
+  stars, their presence extending beyond mere flesh.
+signal_type: entity
+source_file: raw/chapters/book_15_legends_and_gods_080_the_whispers_between_worlds.md
+status: captured
+supersedes: null

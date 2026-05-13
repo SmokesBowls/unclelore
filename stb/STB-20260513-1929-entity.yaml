@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-1929
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 307
+line_start: 307
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: The discord was fatal. Node Gamma solidified a single limb—a claw of hard
+  light—and raked it toward Geralt’s chest. He barely twisted away, the energy scoring
+  deep grooves in his breastplate.
+signal_type: entity
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_043_the_badlands_crucible.md
+status: captured
+supersedes: null

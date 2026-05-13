@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-2639
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 93
+line_start: 93
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: The loam clung to Geralt's boots like a memory refusing to fade—each step
+  pulling threads of luminous mycelium into the air, delicate as smoke signals. Oreck
+  crouched low, claws sifting through the black soil until they scraped something
+  that hummed. "Here," he growled, and the earth itself seemed to lean in, listening.
+  Kyh's shadow-fingers traced invisible ley lines while Kulla pressed his clay palm
+  flat against the ground, muttering about "poor foundations" even as the bioluminescent
+  veins brightened under his touch.
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
+status: captured
+supersedes: null

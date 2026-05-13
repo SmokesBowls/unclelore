@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-2768
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 391
+line_start: 391
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Kulla grunted, slapping a handful of wet clay onto Geralt's pauldron. It
+  hardened instantly, glowing faintly with captured moonlight. "Good kiln," he repeated,
+  as if that explained everything. Perhaps it did.
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+status: captured
+supersedes: null

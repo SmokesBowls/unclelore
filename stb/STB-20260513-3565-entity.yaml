@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-3565
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 179
+line_start: 179
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: '"The Keeper of Crossroads," Tran said, testing how the words felt. "What
+  can you tell us about them?"'
+signal_type: entity
+source_file: raw/chapters/book_17_ancestral_debt_089_the_white_mirror.md
+status: captured
+supersedes: null

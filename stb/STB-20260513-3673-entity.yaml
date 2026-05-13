@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3673
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 38
+line_start: 38
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: They were led not to the palace or the guild halls, but to a neutral ground—an
+  ancient amphitheater that predated Ironspire itself. Stone seats rose in concentric
+  circles around a central platform where representatives from each faction had gathered.
+  And at the center, looking haggard but determined, stood Tran.
+signal_type: entity
+source_file: raw/chapters/book_19_worthy_opponents_north_100_convergence_at_ironspire.md
+status: captured
+supersedes: null

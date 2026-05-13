@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-2456
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 235
+line_start: 235
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Oreck charged again, this time not at Geralt, but at the Proto-Draco nearest
+  the pool’s edge, trying to break the circle. A half-transformed creature, one arm
+  now a blade-like appendage, lashed out with speed it should not possess. Oreck blocked,
+  but the force drove him back.
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_053_the_twilight_city.md
+status: captured
+supersedes: null

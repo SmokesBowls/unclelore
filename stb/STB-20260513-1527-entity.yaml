@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-1527
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 23
+line_start: 23
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt stepped closer to the amber chamber, the one radiating Oreck’s fierce
+  signature. "Can they hear us?" he asked, his voice low. The swirling light within
+  seemed to pulse faintly in response to his proximity.
+signal_type: entity
+source_file: raw/chapters/book_07_light_resonance_and_the_function_037_the_circle_of_progress.md
+status: captured
+supersedes: null

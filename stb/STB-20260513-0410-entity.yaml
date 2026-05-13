@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0410
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 157
+line_start: 157
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: The Sage felt his consciousness recoil from the implications. The Culling
+  had destroyed entire species, had eliminated civilizations that had achieved consciousness-crafting
+  capabilities similar to their own current network. If the Anunnaki were preparing
+  similar action on amplified scales...
+signal_type: entity
+source_file: raw/chapters/book_04_sage_saga_020_the_collapse.md
+status: captured
+supersedes: null

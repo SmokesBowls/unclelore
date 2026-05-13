@@ -1,0 +1,15 @@
+audit_only: true
+buffer_id: STB-20260513-2099
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 343
+line_start: 343
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: “Geralt!” Mika’s voice, desperate.
+signal_type: entity
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_046_not_like_this.md
+status: captured
+supersedes: null

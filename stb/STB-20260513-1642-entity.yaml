@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-1642
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 94
+line_start: 94
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'Geralt felt it—a tremor through Luminara. Earth''s sigh of relief. But
+  his Applicator blazed crimson: WARNING: NODE GAMMA REACTIVATING. PARASITE LOGIC
+  ADAPTING.'
+signal_type: entity
+source_file: raw/chapters/book_07_light_resonance_and_the_function_039_jungle_fever.md
+status: captured
+supersedes: null

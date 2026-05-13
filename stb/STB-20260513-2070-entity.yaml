@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-2070
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 141
+line_start: 141
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: They tried to pull back. It was a slaughter. The drones harried them, the
+  turrets tracked them. Men and women fell with every step. Geralt found himself as
+  the rearguard, firing, moving, dragging a wounded soldier with him. The vestigial
+  wings on his back trembled uselessly.
+signal_type: entity
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_046_not_like_this.md
+status: captured
+supersedes: null

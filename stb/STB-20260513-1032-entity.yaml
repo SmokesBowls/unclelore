@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-1032
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 665
+line_start: 665
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: By the time Geralt's telekinetic explosion announced external assault,
+  half the compound's guard force was already disabled or scrambling to understand
+  attacks from inside.
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+status: captured
+supersedes: null

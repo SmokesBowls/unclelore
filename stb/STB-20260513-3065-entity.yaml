@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-3065
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 107
+line_start: 107
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: '"We''re not just awakening to our heritage," Tran declared, his understanding
+  of their current situation carrying both determination and recognition of the magnitude
+  of the task that confronted them. "We''re reclaiming what was stolen."'
+signal_type: entity
+source_file: raw/chapters/book_12_forged_identity_069_divergent_paths.md
+status: captured
+supersedes: null

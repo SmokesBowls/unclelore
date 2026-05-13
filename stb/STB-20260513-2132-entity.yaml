@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-2132
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 139
+line_start: 139
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: That night, by candlelight in the archive, Mika took out a blank ledger.
+  Her hand did not shake. "I need to document this," she said to Geralt, who watched
+  from the doorway. "Before I forget how easy it felt."
+signal_type: entity
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_047_mika.md
+status: captured
+supersedes: null

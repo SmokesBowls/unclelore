@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-0564
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 112
+line_start: 112
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: Behind them, high on the observation platform, the Anunnaki watched with
+  mechanical eyes that recorded every micro-expression, every biometric fluctuation,
+  every indicator of the tool's operational status.
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_024_the_first_spark.md
+status: captured
+supersedes: null

@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-3256
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 58
+line_start: 58
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: The Five surrounded them now, arranged in perfect symmetry around the convergence
+  point of the water channels. Their presences combined—water, earth, fire, air, and
+  spirit—created a harmony that made the Crimson Blood sing in Tran's veins.
+signal_type: entity
+source_file: raw/chapters/book_15_legends_and_gods_080_the_whispers_between_worlds.md
+status: captured
+supersedes: null

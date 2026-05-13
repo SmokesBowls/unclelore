@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-2892
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 265
+line_start: 265
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: Tran looked down at his hands, still stained with the strange blood of
+  creatures he should never have been able to kill, and felt the fire in his veins
+  settling into patterns that would never again allow him to be merely a farmer. His
+  scythe would never be just a farming tool again—it was a weapon forged in cosmic
+  fires, a tool that could cut through more than physical matter.
+signal_type: entity
+source_file: raw/chapters/book_11_blood_and_legacy_062_falcon_ridge_showdown.md
+status: captured
+supersedes: null

@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-2597
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 177
+line_start: 177
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: '"—cannot be stopped," the walls finished. "But you''ve stopped her before.
+  Many times." The contradiction hung in the air, glowing like a branding iron. Geralt
+  understood. This wasn''t guidance. It was an eviction notice. There was no room
+  in the cosmos for a half-god clutching broken timelines.'
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
+status: captured
+supersedes: null

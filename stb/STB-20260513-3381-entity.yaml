@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3381
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 183
+line_start: 183
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: Tran stared at the two fragments in his hands – Red and Blue, Fire and
+  Water, seemingly opposites yet somehow belonging together. As he held them, they
+  pulsed in unison, and he felt a tingle of power run up his arms, spreading through
+  his chest.
+signal_type: entity
+source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
+status: captured
+supersedes: null

@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-2050
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 11
+line_start: 11
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'Geralt nodded, his eyes never leaving the horizon. “The last encampment.
+  Intel from the freed at Hub Needle confirms it. Designation: Nibiru’s Grasp. Four
+  hundred souls in chains. Five hundred defenders. Maybe more.”'
+signal_type: entity
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_046_not_like_this.md
+status: captured
+supersedes: null

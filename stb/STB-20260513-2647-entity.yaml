@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-2647
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 133
+line_start: 133
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: The numbness in Geralt's chest didn't waver. "No," he said, watching Oreck's
+  silhouette shrink against the white glare. "He'll remind the sky what color it forgot."
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
+status: captured
+supersedes: null

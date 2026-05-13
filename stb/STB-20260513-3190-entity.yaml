@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3190
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 87
+line_start: 87
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: Through harmonic resonances that connected her to network nodes across
+  continental distances, she could feel other minds stirring. Tran's awakening urgency,
+  Lyra's transformation into something that transcended normal human limitations,
+  the gathering of forces that would reshape Earth's relationship with galactic civilization.
+signal_type: entity
+source_file: raw/chapters/book_15_legends_and_gods_079_mages_awakening.md
+status: captured
+supersedes: null

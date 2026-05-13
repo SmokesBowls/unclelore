@@ -1,0 +1,15 @@
+audit_only: true
+buffer_id: STB-20260513-2221
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 267
+line_start: 267
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: “A Void Spire,” Geralt breathed. “You hid one. Put it to sleep.”
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
+status: captured
+supersedes: null

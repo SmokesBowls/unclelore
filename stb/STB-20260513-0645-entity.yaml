@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-0645
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 555
+line_start: 555
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: 'Purpose of remaining Anunnaki: minimal intervention, passive observation,
+  enforcement only if slaves attempted to leave compound or posed threat to galactic
+  order.'
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
+status: captured
+supersedes: null

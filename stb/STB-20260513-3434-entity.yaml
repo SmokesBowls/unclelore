@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-3434
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 171
+line_start: 171
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: As they prepared to depart the Earth Giant settlement, a strange sensation
+  washed over Tran. The air before him shimmered, reality itself seeming to thin as
+  a presence materialized. Unlike the sudden materialization of the applicators or
+  the shadow-walking of Rongtai, this appearance felt natural, as if a veil had simply
+  been lifted to reveal what had always been there.
+signal_type: entity
+source_file: raw/chapters/book_16_fragmented_beginning_084_earth_giants_and_diverging_paths.md
+status: captured
+supersedes: null

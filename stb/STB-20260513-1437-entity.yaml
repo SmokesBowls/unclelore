@@ -1,0 +1,23 @@
+audit_only: true
+buffer_id: STB-20260513-1437
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 149
+line_start: 149
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt secured the skin, met their gazes. No farewells. Only purpose. He
+  turned his back on the nascent sanctuary, the hopeful faces, the echoes of Mika’s
+  presence. The Star Needle’s resonance tugged him northward, towards the foothills
+  already baking under a harsh sun. The pamphlet crinkled in his grip – a fragile
+  map for a journey through hell. Survival wasn’t guaranteed. But standing still meant
+  losing her forever. He strode into the scrubland, the dragon armor flaring briefly
+  against the sudden heat, a defiant spark against the vast, argus-eyed desert waiting
+  to swallow him whole. The hunt for anchors, for answers, for Mika, plunged into
+  the furnace.
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
+status: captured
+supersedes: null

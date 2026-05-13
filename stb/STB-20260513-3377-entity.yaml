@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3377
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 174
+line_start: 174
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: The contact was like a thunderclap. The Hydra's entire body went rigid,
+  a keening wail emerging from all its heads simultaneously. The Red Fragment seemed
+  to sink deeper, pulling Tran's hand with it until he was shoulder-deep in the creature's
+  body – yet somehow unhurt by the corrosive fluids within.
+signal_type: entity
+source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
+status: captured
+supersedes: null

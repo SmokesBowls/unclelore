@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-1255
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 1206
+line_start: 1206
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt walked—damaged but undefeated, wounded but progressing, carrying
+  weight that no one else could help bear because universe had convinced them the
+  weight didn't exist.
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
+status: captured
+supersedes: null

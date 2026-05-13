@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-1941
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 17
+line_start: 17
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'Dawn found them moving again, a somber procession beneath a lead-gray
+  sky. The grief was a communal beast they carried, but Geralt carried a second, private
+  burden: the shifting resonance in his mind.'
+signal_type: entity
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_044_the_mountains_shadow.md
+status: captured
+supersedes: null

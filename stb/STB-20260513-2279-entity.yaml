@@ -1,0 +1,15 @@
+audit_only: true
+buffer_id: STB-20260513-2279
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 118
+line_start: 118
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: “Can you do it?” Geralt asked.
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
+status: captured
+supersedes: null

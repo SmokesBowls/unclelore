@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-1749
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 427
+line_start: 427
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: She didn't smile. "Your vitals are in freefall. Kidney function at forty
+  percent. Heart rhythm erratic. Neural activity spiking and dropping randomly—that's
+  the bond fragmenting." She met his eyes. "I'm giving you everything I have. Stimulants,
+  stabilizers, synthetic metabolic boosters. It'll keep you conscious. Maybe even
+  mobile for a few hours. But Geralt..." Her voice dropped. "The crash afterward will
+  be catastrophic. If we don't free Luminaire in the first few hours, you won't survive
+  the return trip."
+signal_type: entity
+source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
+status: captured
+supersedes: null

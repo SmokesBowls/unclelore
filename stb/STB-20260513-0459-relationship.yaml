@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-0459
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 142
+line_start: 142
+parsed_payload:
+  predicate: serves
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: '"The network achieves independence," Torrhen added, his geological wisdom
+  touching patterns that suggested their work had reached the completion that would
+  allow consciousness evolution to continue through principles they had discovered
+  rather than requiring their continued direct guidance. "Teaching that serves transcendence
+  eventually makes itself unnecessary by helping consciousness recognize its own unlimited
+  nature."'
+signal_type: relationship
+source_file: raw/chapters/book_04_sage_saga_021_the_first_lesson.md
+status: captured
+supersedes: null

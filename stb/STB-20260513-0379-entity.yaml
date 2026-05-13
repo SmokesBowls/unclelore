@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0379
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 110
+line_start: 110
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: As the first storm winds began to howl across the darkening landscape,
+  carrying ice that cut like blades of glass, Zephyr felt the weight of their choice
+  settling around him like chains. The Anunnaki had given them exactly what they'd
+  asked for—survival. Just enough of it to make them regret the asking.
+signal_type: entity
+source_file: raw/chapters/book_04_sage_saga_017_niburu_shadow.md
+status: captured
+supersedes: null

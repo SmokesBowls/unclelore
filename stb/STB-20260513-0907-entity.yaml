@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-0907
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 769
+line_start: 769
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: '"The Nehereti gave me speech. Gave me spirit-walking. Gifts stolen when
+  Anunnaki modified our ancestors. I can share these gifts. Give you voice. Give all
+  of us the ability to communicate beyond gesture-language''s limitations."'
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+status: captured
+supersedes: null

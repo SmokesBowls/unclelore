@@ -1,0 +1,26 @@
+audit_only: true
+buffer_id: STB-20260513-1290
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 59
+line_start: 59
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Silence returned, heavier now with the scent of blood and drake musk. Geralt
+  stood panting, blade dripping. The stabilized anchors hummed, undisturbed. Kaelen
+  stepped forward, her gaze sweeping the carcasses. "Acceptable," she stated. "You
+  stabilized the moment *while* utilizing its structure as a weapon. The Needle remains
+  secure." She turned her galactic eyes back to him. "But temporal stability attracts
+  predators beyond beasts. This lesson is merely the primer. The Queen's hunters track
+  chroniton anomalies." She gestured towards the distant horizon, where jagged peaks
+  clawed at the sky. "We move. Now. Your next lesson requires higher ground... and
+  deeper paradoxes." She walked towards the canyon wall, not waiting to see if he
+  followed. Geralt wiped his blade on the drake's hide, the applicator coldly analyzing
+  the kill, the armor pulsing warm satisfaction. Hands-on, dangerous, and far from
+  over. He limped after her.
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_032_the_redo.md
+status: captured
+supersedes: null

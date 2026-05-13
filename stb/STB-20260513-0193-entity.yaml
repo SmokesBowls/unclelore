@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0193
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 87
+line_start: 87
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: UNKNOWN
+raw_quote: One of the luminescent beings—smaller than the Igigi but carrying consciousness-touch
+  that felt impossibly sophisticated—stepped forward. It extended awareness toward
+  Pazuzu, not aggressively but tentatively. Questioning. Trying to understand what
+  these strange elongated creatures were doing to their sacred mountain.
+signal_type: entity
+source_file: raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
+status: captured
+supersedes: null

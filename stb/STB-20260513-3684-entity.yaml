@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-3684
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 176
+line_start: 176
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: Somewhere in the void between worlds, the Anunnaki fleet adjusted its course,
+  responding to the beacon Ironspire had become. The Fifth Coming was inevitable now.
+signal_type: entity
+source_file: raw/chapters/book_19_worthy_opponents_north_100_convergence_at_ironspire.md
+status: captured
+supersedes: null

@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0976
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 251
+line_start: 251
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: '"Appreciated!" Geralt managed, using moment of distraction to channel
+  telekinetic force against crystalline being—not trying to harm but to separate,
+  to create space, to prevent overwhelming numerical advantage from deciding engagement
+  through simple attrition.'
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+status: captured
+supersedes: null

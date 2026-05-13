@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-2321
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 454
+line_start: 454
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt reached out, his armored fingers closing around the Shard. It was
+  warm, almost comforting, but he felt no presence within it—just Light, pure and
+  profound.
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
+status: captured
+supersedes: null

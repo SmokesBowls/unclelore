@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-1804
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 953
+line_start: 953
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Claws the size of blades slashed through space. Geralt rolled, came up
+  with—nothing. No weapons. Just his transformed body and whatever the armor could
+  still lend him.
+signal_type: entity
+source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
+status: captured
+supersedes: null

@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-1234
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 958
+line_start: 958
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: The armor held—Zaron's consciousness distributing damage, the Applicator
+  managing power systems, Geralt's will directing defense that transcended individual
+  capability to become collaborative resistance against overwhelming numerical advantage.
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
+status: captured
+supersedes: null

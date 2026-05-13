@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-3475
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 19
+line_start: 19
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: The extended plate shifted again, angling toward a particular direction
+  where the mist hung thicker between the twisted trees. The Red and Blue Fragments
+  at Tran's belt pulsed in synchronized rhythm, their light penetrating the fog.
+signal_type: entity
+source_file: raw/chapters/book_16_fragmented_beginning_087_the_breath_of_life.md
+status: captured
+supersedes: null

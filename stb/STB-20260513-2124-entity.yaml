@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-2124
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 59
+line_start: 59
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt moved a few meters to the east, to a patch of darker stone. "I fell
+  here first. Before you ever came looking. The Nexus spat me out. I crawled this
+  far before I passed out."
+signal_type: entity
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_047_mika.md
+status: captured
+supersedes: null

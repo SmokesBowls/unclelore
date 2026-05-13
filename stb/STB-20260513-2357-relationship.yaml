@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-2357
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 186
+line_start: 186
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: He finally lifted his head, emerald eyes regarding them. “Giving it to
+  you does not merely disarm me. It scars me. Severs a part of my soul from the earth-song.
+  It will shorten my lifespan by centuries. The stone will forget my name sooner.”
+signal_type: relationship
+source_file: raw/chapters/book_09_bureaucratic_debt_051_arrival_in_fire.md
+status: captured
+supersedes: null

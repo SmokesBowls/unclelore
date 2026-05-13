@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-2761
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 367
+line_start: 367
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Zypher nodded once, turning toward the alcove where the clone waited. Its
+  eyes flickered open at his approach, pupils dilating to absorb his silhouette. "The
+  decoy will require staging," he said. "A trail of breadcrumbs for her archivists
+  to follow. Burn marks. Struggle." He reached out, pressing his thumb against the
+  clone's forehead. A sigil flared there—not Geralt's name, but the Queen's own glyph
+  for *verified*. "Let her think she's catching you."
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+status: captured
+supersedes: null

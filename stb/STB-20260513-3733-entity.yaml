@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-3733
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 232
+line_start: 232
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: But unity had created options that neither Tran nor Zaron alone could have
+  conceived. Instead of defending, they chose multiplication. The Dragon Mail's scales
+  shifted, each one becoming a perfect mirror of the whole. For an instant, there
+  weren't one unified warrior but millions, each scale containing the complete pattern
+  of their synthesis.
+signal_type: entity
+source_file: raw/chapters/book_19_worthy_opponents_north_102_convergence_on_mars.md
+status: captured
+supersedes: null

@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-2063
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 93
+line_start: 93
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: “It’s the right tactical choice, Geralt, and you know it.” Her voice was
+  steel. “You’re too big, your armor signature is unique. They’ll be scanning for
+  you. If you vanish from the frontal assault, they’ll know. I’m smaller, faster,
+  and they won’t be looking for the commander in the pipes.”
+signal_type: entity
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_046_not_like_this.md
+status: captured
+supersedes: null

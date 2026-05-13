@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-0853
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 365
+line_start: 365
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: UNKNOWN
+raw_quote: Is this what you want? The voice pressed. To trade Anunnaki chains for
+  your own? To free slaves only to enslave them to your will?
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+status: captured
+supersedes: null

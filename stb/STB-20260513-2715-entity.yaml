@@ -1,0 +1,15 @@
+audit_only: true
+buffer_id: STB-20260513-2715
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 179
+line_start: 179
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'Geralt''s Applicator hissed a single word into the chaos: **"ENOUGH."**'
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+status: captured
+supersedes: null

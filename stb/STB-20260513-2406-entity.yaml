@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-2406
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 273
+line_start: 273
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: It showed the network again, but this time, Geralt stood at its center.
+  Not as a soldier, but as a regent. The vision depicted him wielding the Observer’s
+  own override protocols, but tempered with mortal understanding. The red nodes were
+  stabilized not by purging, but by targeted, merciful interventions. The Pyramid
+  of Order remained, but with a human face.
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_052_entry_without_standing.md
+status: captured
+supersedes: null

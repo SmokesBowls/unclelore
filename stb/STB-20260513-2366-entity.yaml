@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-2366
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 254
+line_start: 254
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: 'Geralt looked at his team: Oreck, solid and ready; Kyh, nervous but resolved;
+  the three crystals, heavy with sacrifice; and in his mind, the quiet chorus of the
+  Five Mikas, each attuned to the element they were about to confront.'
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_051_arrival_in_fire.md
+status: captured
+supersedes: null

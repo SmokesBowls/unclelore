@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-3503
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 80
+line_start: 80
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: '"I don''t know," Tran answered honestly. "And that''s part of growth too—embracing
+  uncertainty, adapting to what comes. Whatever we become, we''ll face it together."'
+signal_type: relationship
+source_file: raw/chapters/book_16_fragmented_beginning_087_the_breath_of_life.md
+status: captured
+supersedes: null

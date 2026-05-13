@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3191
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 99
+line_start: 99
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: UNKNOWN
+raw_quote: Through quantum connections that operated beyond normal space-time, she
+  could perceive Tran's location through his resonance with the Star Needle network.
+  His consciousness carried the authority of someone who had awakened to cosmic inheritance,
+  bloodline patterns that gave him legitimate standing in galactic legal frameworks.
+signal_type: entity
+source_file: raw/chapters/book_15_legends_and_gods_079_mages_awakening.md
+status: captured
+supersedes: null

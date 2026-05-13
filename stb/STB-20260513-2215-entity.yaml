@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-2215
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 214
+line_start: 214
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: “Stop,” Geralt said aloud, shutting down the stream. The armor gave a faint,
+  discordant vibration, as if frustrated.
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
+status: captured
+supersedes: null

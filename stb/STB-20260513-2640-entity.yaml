@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-2640
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 99
+line_start: 99
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: Geralt watched the spores catch in the false sky's cracks—tiny motes of
+  defiance lodged in the Queen's porcelain perfection. He crouched, pressing his bare
+  palm against the cool mycelial threads. The numbness in his chest didn't fade, but
+  the network recognized it anyway—not as absence, but as a different kind of fullness.
+  The Applicator's scorched core flared once, etching their coordinates into the Guild's
+  substrate with the permanence of a glacier's advance.
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
+status: captured
+supersedes: null

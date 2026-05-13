@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0910
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 797
+line_start: 797
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: UNKNOWN
+raw_quote: The compound erupted—not in sound, because most still lacked speech, but
+  in gesture-language forming cascades of hope, of desperate desire for the same gift,
+  of recognition that perhaps this armored figure truly was Geralt rather than new
+  form of oppression.
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+status: captured
+supersedes: null
