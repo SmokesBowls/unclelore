@@ -425,3 +425,300 @@ Report: logs/continuity_audit_20260509_231844.md
 Sources audited: 1
 Findings: 1
 Report: logs/continuity_audit_20260510_012929.md
+
+## [2026-05-10] continuity_audit | 20260510_023028
+Sources audited: 1
+Findings: 0
+Report: logs/continuity_audit_20260510_023028.md
+
+## [2026-05-10] stub | 001 The Ethereal Vigil
+
+Summary:
+- Source registered to raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
+- Source summary stub created at wiki/sources/book_01_book_of_genesis_001_the_ethereal_vigil.md
+- Full ingest pending
+
+Pages changed:
+- wiki/sources/book_01_book_of_genesis_001_the_ethereal_vigil.md (created)
+
+Contradictions opened:
+- none yet
+
+Unresolved questions opened:
+- none yet
+
+## [2026-05-10] continuity_audit | 20260510_120707
+Sources audited: 1
+Findings: 0
+Report: logs/continuity_audit_20260510_120707.md
+
+## [2026-05-11] stub | 001 The Ethereal Vigil
+
+Summary:
+- Source registered to raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
+- Source summary stub created at wiki/sources/book_01_book_of_genesis_001_the_ethereal_vigil.md
+- Full ingest pending
+
+Pages changed:
+- wiki/sources/book_01_book_of_genesis_001_the_ethereal_vigil.md (created)
+
+Contradictions opened:
+- none yet
+
+Unresolved questions opened:
+- none yet
+
+## [2026-05-11] stub | 002 Molten Descent
+
+Summary:
+- Source registered to raw/chapters/book_01_book_of_genesis_002_molten_descent.md
+- Source summary stub created at wiki/sources/book_01_book_of_genesis_002_molten_descent.md
+- Full ingest pending
+
+Pages changed:
+- wiki/sources/book_01_book_of_genesis_002_molten_descent.md (created)
+
+Contradictions opened:
+- none yet
+
+Unresolved questions opened:
+- none yet
+
+## [2026-05-11] stub | 003 First Contact
+
+Summary:
+- Source registered to raw/chapters/book_01_book_of_genesis_003_first_contact.md
+- Source summary stub created at wiki/sources/book_01_book_of_genesis_003_first_contact.md
+- Full ingest pending
+
+Pages changed:
+- wiki/sources/book_01_book_of_genesis_003_first_contact.md (created)
+
+Contradictions opened:
+- none yet
+
+Unresolved questions opened:
+- none yet
+
+## [2026-05-11] stub | 004 The Convergence
+
+Summary:
+- Source registered to raw/chapters/book_01_book_of_genesis_004_the_convergence.md
+- Source summary stub created at wiki/sources/book_01_book_of_genesis_004_the_convergence.md
+- Full ingest pending
+
+Pages changed:
+- wiki/sources/book_01_book_of_genesis_004_the_convergence.md (created)
+
+Contradictions opened:
+- none yet
+
+Unresolved questions opened:
+- none yet
+
+## [2026-05-11] stub | 005 The Garden Blooms
+
+Summary:
+- Source registered to raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+- Source summary stub created at wiki/sources/book_02_age_of_servitude_005_the_garden_blooms.md
+- Full ingest pending
+
+Pages changed:
+- wiki/sources/book_02_age_of_servitude_005_the_garden_blooms.md (created)
+
+Contradictions opened:
+- none yet
+
+Unresolved questions opened:
+- none yet
+
+## [2026-05-11] stub | 006 The First Coming
+
+Summary:
+- Source registered to raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+- Source summary stub created at wiki/sources/book_02_age_of_servitude_006_the_first_coming.md
+- Full ingest pending
+
+Pages changed:
+- wiki/sources/book_02_age_of_servitude_006_the_first_coming.md (created)
+
+Contradictions opened:
+- none yet
+
+Unresolved questions opened:
+- none yet
+
+## [2026-05-11] stub | 007 The Needle Construction
+
+Summary:
+- Source registered to raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
+- Source summary stub created at wiki/sources/book_02_age_of_servitude_007_the_needle_construction.md
+- Full ingest pending
+
+Pages changed:
+- wiki/sources/book_02_age_of_servitude_007_the_needle_construction.md (created)
+
+Contradictions opened:
+- none yet
+
+Unresolved questions opened:
+- none yet
+
+## [2026-05-11] stub | 008 Queens Assessment
+
+Summary:
+- Source registered to raw/chapters/book_02_age_of_servitude_008_queens_assessment.md
+- Source summary stub created at wiki/sources/book_02_age_of_servitude_008_queens_assessment.md
+- Full ingest pending
+
+Pages changed:
+- wiki/sources/book_02_age_of_servitude_008_queens_assessment.md (created)
+
+Contradictions opened:
+- none yet
+
+Unresolved questions opened:
+- none yet
+
+## [2026-05-11] continuity_audit | 20260511_070100
+Sources audited: 8
+Findings: 5
+Report: logs/continuity_audit_20260511_070100.md
+
+## [2026-05-11] stub | 001 The Ethereal Vigil
+
+Summary:
+- Source registered to raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
+- Source summary stub created at wiki/sources/book_01_book_of_genesis_001_the_ethereal_vigil.md
+- Full ingest pending
+
+Pages changed:
+- wiki/sources/book_01_book_of_genesis_001_the_ethereal_vigil.md (created)
+
+Contradictions opened:
+- none yet
+
+Unresolved questions opened:
+- none yet
+
+## [2026-05-11] stub | 002 Molten Descent
+
+Summary:
+- Source registered to raw/chapters/book_01_book_of_genesis_002_molten_descent.md
+- Source summary stub created at wiki/sources/book_01_book_of_genesis_002_molten_descent.md
+- Full ingest pending
+
+Pages changed:
+- wiki/sources/book_01_book_of_genesis_002_molten_descent.md (created)
+
+Contradictions opened:
+- none yet
+
+Unresolved questions opened:
+- none yet
+
+## [2026-05-11] stub | 003 First Contact
+
+Summary:
+- Source registered to raw/chapters/book_01_book_of_genesis_003_first_contact.md
+- Source summary stub created at wiki/sources/book_01_book_of_genesis_003_first_contact.md
+- Full ingest pending
+
+Pages changed:
+- wiki/sources/book_01_book_of_genesis_003_first_contact.md (created)
+
+Contradictions opened:
+- none yet
+
+Unresolved questions opened:
+- none yet
+
+## [2026-05-11] stub | 004 The Convergence
+
+Summary:
+- Source registered to raw/chapters/book_01_book_of_genesis_004_the_convergence.md
+- Source summary stub created at wiki/sources/book_01_book_of_genesis_004_the_convergence.md
+- Full ingest pending
+
+Pages changed:
+- wiki/sources/book_01_book_of_genesis_004_the_convergence.md (created)
+
+Contradictions opened:
+- none yet
+
+Unresolved questions opened:
+- none yet
+
+## [2026-05-11] stub | 005 The Garden Blooms
+
+Summary:
+- Source registered to raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+- Source summary stub created at wiki/sources/book_02_age_of_servitude_005_the_garden_blooms.md
+- Full ingest pending
+
+Pages changed:
+- wiki/sources/book_02_age_of_servitude_005_the_garden_blooms.md (created)
+
+Contradictions opened:
+- none yet
+
+Unresolved questions opened:
+- none yet
+
+## [2026-05-11] stub | 006 The First Coming
+
+Summary:
+- Source registered to raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+- Source summary stub created at wiki/sources/book_02_age_of_servitude_006_the_first_coming.md
+- Full ingest pending
+
+Pages changed:
+- wiki/sources/book_02_age_of_servitude_006_the_first_coming.md (created)
+
+Contradictions opened:
+- none yet
+
+Unresolved questions opened:
+- none yet
+
+## [2026-05-11] stub | 007 The Needle Construction
+
+Summary:
+- Source registered to raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
+- Source summary stub created at wiki/sources/book_02_age_of_servitude_007_the_needle_construction.md
+- Full ingest pending
+
+Pages changed:
+- wiki/sources/book_02_age_of_servitude_007_the_needle_construction.md (created)
+
+Contradictions opened:
+- none yet
+
+Unresolved questions opened:
+- none yet
+
+## [2026-05-11] stub | 008 Queens Assessment
+
+Summary:
+- Source registered to raw/chapters/book_02_age_of_servitude_008_queens_assessment.md
+- Source summary stub created at wiki/sources/book_02_age_of_servitude_008_queens_assessment.md
+- Full ingest pending
+
+Pages changed:
+- wiki/sources/book_02_age_of_servitude_008_queens_assessment.md (created)
+
+Contradictions opened:
+- none yet
+
+Unresolved questions opened:
+- none yet
+
+## [2026-05-11] continuity_audit | 20260511_071021
+Sources audited: 8
+Findings: 5
+Report: logs/continuity_audit_20260511_071021.md
+
+## [2026-05-12] continuity_audit | 20260512_184231
+Sources audited: 986
+Findings: 301
+Report: logs/continuity_audit_20260512_184231.md

@@ -9,3 +9,17 @@ cocowatch/output/
 raw/changed_files.txt
 raw/cocoindex_delta.txt
 *.tmp
+
+# Runtime outputs
+logs/run_*.md
+logs/continuity_audit_*.md
+logs/audit_*.md
+logs/vault_audit_*.md
+
+# Generated ingest/runtime artifacts
+raw/chapters/
+proofs/phase_4/
+
+# Coco watch outputs
+cocowatch/output/
+cocowatch/state/
