@@ -35,12 +35,15 @@ RELATIONSHIP_PATTERNS = [
 # MRLORE_SCHEMA type mapping from directory paths
 TYPE_MAP_FROM_PATH = {
     "characters": "CHR",
-    "factions": "FAC",
-    "species": "SPEC",
-    "locations": "LOC",
-    "systems": "SYS",
-    "artifacts": "ART",
-    "events": "EVT"
+    "factions":   "FAC",
+    "species":    "SPEC",
+    "locations":  "LOC",
+    "systems":    "SYS",
+    "artifacts":  "ART",
+    "events":     "EVT",
+    "arcs":       "ARC",
+    "timelines":  "TML",
+    "terms":      "TRM",
 }
 
 def load_registry_entities():
