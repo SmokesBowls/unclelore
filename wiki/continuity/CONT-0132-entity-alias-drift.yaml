@@ -1,0 +1,16 @@
+chapter:
+  source: .engain/build/book01_garden_genesis/scenes/_work/out_pass1_chapter_36_the_circle_of_progress.txt
+conflict_id: CONT-0132
+detected:
+  count: 2
+  token: Graviton[^i]
+human_review_required: true
+instances: 2
+notes: ''
+proposal_available: false
+registry:
+  canonical: REVIEW_REQUIRED
+resolution_log: []
+severity: info
+status: auto_resolved
+type: entity_alias_drift

@@ -1,0 +1,16 @@
+chapter:
+  source: book_22_listening_stone_south/115_the_shape_of_asking.txt
+conflict_id: CONT-0230
+detected:
+  count: 1
+  token: Aaon Keepers?
+human_review_required: true
+instances: 1
+notes: ''
+proposal_available: true
+registry:
+  canonical: Aeon Keepers
+resolution_log: []
+severity: warning
+status: auto_resolved
+type: entity_alias_drift

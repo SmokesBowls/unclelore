@@ -1,0 +1,16 @@
+chapter:
+  source: book_09_bureaucratic_debt/052_entry_without_standing.md
+conflict_id: CONT-0219
+detected:
+  count: 1
+  token: nehereti
+human_review_required: true
+instances: 1
+notes: ''
+proposal_available: true
+registry:
+  canonical: Nephoretti
+resolution_log: []
+severity: warning
+status: auto_resolved
+type: entity_alias_drift

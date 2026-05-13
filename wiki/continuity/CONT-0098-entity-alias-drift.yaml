@@ -1,0 +1,17 @@
+chapter:
+  source: .engain/build/book01_garden_genesis/scenes/_work/out_pass1_chapter 5 named
+    charactors.txt
+conflict_id: CONT-0098
+detected:
+  count: 11
+  token: neferati
+human_review_required: true
+instances: 11
+notes: ''
+proposal_available: true
+registry:
+  canonical: Nephoretti
+resolution_log: []
+severity: warning
+status: auto_resolved
+type: entity_alias_drift

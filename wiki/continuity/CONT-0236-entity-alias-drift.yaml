@@ -1,0 +1,16 @@
+chapter:
+  source: book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south/118_the_constant_and_friction_of_becoming.txt
+conflict_id: CONT-0236
+detected:
+  count: 5
+  token: Graviton[^i]
+human_review_required: true
+instances: 5
+notes: ''
+proposal_available: false
+registry:
+  canonical: REVIEW_REQUIRED
+resolution_log: []
+severity: info
+status: auto_resolved
+type: entity_alias_drift

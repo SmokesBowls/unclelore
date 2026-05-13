@@ -1,0 +1,16 @@
+chapter:
+  source: .engain/build/book01_garden_genesis/scenes/_work/out_pass1_01_the_ethereal_vigil.txt
+conflict_id: CONT-0020
+detected:
+  count: 22
+  token: neferati
+human_review_required: true
+instances: 22
+notes: ''
+proposal_available: true
+registry:
+  canonical: Nephoretti
+resolution_log: []
+severity: warning
+status: auto_resolved
+type: entity_alias_drift

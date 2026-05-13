@@ -1,0 +1,16 @@
+chapter:
+  source: .engain/build/book01_garden_genesis/scenes/_work/out_pass1_chapter_35_highland_giants.txt
+conflict_id: CONT-0131
+detected:
+  count: 1
+  token: aaon keepers
+human_review_required: true
+instances: 1
+notes: ''
+proposal_available: true
+registry:
+  canonical: Nephoretti
+resolution_log: []
+severity: warning
+status: auto_resolved
+type: entity_alias_drift

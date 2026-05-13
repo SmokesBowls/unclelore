@@ -1,0 +1,16 @@
+chapter:
+  source: building_the_world/Character lore/book 21 character lore.txt
+conflict_id: CONT-0257
+detected:
+  count: 3
+  token: Graviton[^i]
+human_review_required: true
+instances: 3
+notes: ''
+proposal_available: false
+registry:
+  canonical: REVIEW_REQUIRED
+resolution_log: []
+severity: info
+status: auto_resolved
+type: entity_alias_drift

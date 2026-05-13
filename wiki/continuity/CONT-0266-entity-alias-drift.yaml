@@ -1,0 +1,16 @@
+chapter:
+  source: building_the_world/Character lore/nlm book 24 character lore.txt
+conflict_id: CONT-0266
+detected:
+  count: 2
+  token: Graviton[^i]
+human_review_required: true
+instances: 2
+notes: ''
+proposal_available: false
+registry:
+  canonical: REVIEW_REQUIRED
+resolution_log: []
+severity: info
+status: auto_resolved
+type: entity_alias_drift

@@ -1,0 +1,16 @@
+chapter:
+  source: book_05_the_nameless_one/026_dragonmail.md
+conflict_id: CONT-0201
+detected:
+  count: 13
+  token: Nehereti
+human_review_required: true
+instances: 13
+notes: ''
+proposal_available: true
+registry:
+  canonical: Nephoretti
+resolution_log: []
+severity: warning
+status: auto_resolved
+type: entity_alias_drift

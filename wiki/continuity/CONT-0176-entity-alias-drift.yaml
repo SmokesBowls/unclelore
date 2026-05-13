@@ -1,0 +1,16 @@
+chapter:
+  source: .engain/build/book01_garden_genesis/scenes/_work/out_pass1_temporal guardian.txt
+conflict_id: CONT-0176
+detected:
+  count: 7
+  token: Graviton[^i]
+human_review_required: true
+instances: 7
+notes: ''
+proposal_available: false
+registry:
+  canonical: REVIEW_REQUIRED
+resolution_log: []
+severity: info
+status: auto_resolved
+type: entity_alias_drift

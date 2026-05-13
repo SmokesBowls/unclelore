@@ -1,0 +1,16 @@
+chapter:
+  source: book_21_needle_and_thread_south/108_evolution_of_the_keeper.txt
+conflict_id: CONT-0221
+detected:
+  count: 1
+  token: Graviton[^i]
+human_review_required: true
+instances: 1
+notes: ''
+proposal_available: false
+registry:
+  canonical: REVIEW_REQUIRED
+resolution_log: []
+severity: info
+status: auto_resolved
+type: entity_alias_drift

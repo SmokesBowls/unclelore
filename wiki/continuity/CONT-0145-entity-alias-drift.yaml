@@ -1,0 +1,16 @@
+chapter:
+  source: .engain/build/book01_garden_genesis/scenes/_work/out_pass1_continuity_ch1.txt
+conflict_id: CONT-0145
+detected:
+  count: 20
+  token: Neferati
+human_review_required: true
+instances: 20
+notes: ''
+proposal_available: true
+registry:
+  canonical: Nephoretti
+resolution_log: []
+severity: warning
+status: auto_resolved
+type: entity_alias_drift

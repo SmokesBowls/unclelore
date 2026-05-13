@@ -1,0 +1,16 @@
+chapter:
+  source: building_the_world/soul.txt
+conflict_id: CONT-0298
+detected:
+  count: 10
+  token: Neferati
+human_review_required: true
+instances: 10
+notes: ''
+proposal_available: true
+registry:
+  canonical: Nephoretti
+resolution_log: []
+severity: warning
+status: auto_resolved
+type: entity_alias_drift

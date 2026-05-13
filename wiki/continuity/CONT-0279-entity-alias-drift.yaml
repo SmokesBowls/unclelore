@@ -1,0 +1,16 @@
+chapter:
+  source: building_the_world/burdens of a forgotten past passage two.txt
+conflict_id: CONT-0279
+detected:
+  count: 4
+  token: neferati
+human_review_required: true
+instances: 4
+notes: ''
+proposal_available: true
+registry:
+  canonical: Nephoretti
+resolution_log: []
+severity: warning
+status: auto_resolved
+type: entity_alias_drift

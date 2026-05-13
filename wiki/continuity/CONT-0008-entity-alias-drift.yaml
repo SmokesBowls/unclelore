@@ -1,0 +1,16 @@
+chapter:
+  source: book_02_age_of_servitude/006_the_first_coming.md
+conflict_id: CONT-0008
+detected:
+  count: 1
+  token: Aaon Keepers?
+human_review_required: true
+instances: 1
+notes: ''
+proposal_available: true
+registry:
+  canonical: Aeon Keepers
+resolution_log: []
+severity: warning
+status: auto_resolved
+type: entity_alias_drift

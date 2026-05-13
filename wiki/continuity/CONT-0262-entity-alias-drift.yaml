@@ -1,0 +1,16 @@
+chapter:
+  source: building_the_world/Character lore/graviton Canon.txt
+conflict_id: CONT-0262
+detected:
+  count: 13
+  token: Graviton[^i]
+human_review_required: true
+instances: 13
+notes: ''
+proposal_available: false
+registry:
+  canonical: REVIEW_REQUIRED
+resolution_log: []
+severity: info
+status: auto_resolved
+type: entity_alias_drift

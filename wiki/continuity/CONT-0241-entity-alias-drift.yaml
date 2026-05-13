@@ -1,0 +1,16 @@
+chapter:
+  source: book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south/extra_23/toc.txt
+conflict_id: CONT-0241
+detected:
+  count: 2
+  token: Graviton[^i]
+human_review_required: true
+instances: 2
+notes: ''
+proposal_available: false
+registry:
+  canonical: REVIEW_REQUIRED
+resolution_log: []
+severity: info
+status: auto_resolved
+type: entity_alias_drift

@@ -1,0 +1,16 @@
+chapter:
+  source: book_05_the_nameless_one/extra_05/mechanical_lore.txt
+conflict_id: CONT-0208
+detected:
+  count: 2
+  token: nehereti
+human_review_required: true
+instances: 2
+notes: ''
+proposal_available: true
+registry:
+  canonical: Nephoretti
+resolution_log: []
+severity: warning
+status: auto_resolved
+type: entity_alias_drift

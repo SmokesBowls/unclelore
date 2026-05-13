@@ -1,0 +1,16 @@
+chapter:
+  source: .engain/build/book01_garden_genesis/scenes/_work/out_pass1_chapter_12_nephilim_summoning.txt
+conflict_id: CONT-0112
+detected:
+  count: 4
+  token: neferati
+human_review_required: true
+instances: 4
+notes: ''
+proposal_available: true
+registry:
+  canonical: Nephoretti
+resolution_log: []
+severity: warning
+status: auto_resolved
+type: entity_alias_drift

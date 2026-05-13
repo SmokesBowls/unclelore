@@ -1,0 +1,16 @@
+chapter:
+  source: .engain/Book 6 the Ragnarok/36_highland_giants.md
+conflict_id: CONT-0016
+detected:
+  count: 3
+  token: neferati
+human_review_required: true
+instances: 3
+notes: ''
+proposal_available: true
+registry:
+  canonical: Nephoretti
+resolution_log: []
+severity: warning
+status: auto_resolved
+type: entity_alias_drift

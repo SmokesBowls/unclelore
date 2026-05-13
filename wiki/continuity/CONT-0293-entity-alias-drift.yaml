@@ -1,0 +1,16 @@
+chapter:
+  source: building_the_world/gravotextual doctrine.txt
+conflict_id: CONT-0293
+detected:
+  count: 5
+  token: Graviton[^i]
+human_review_required: true
+instances: 5
+notes: ''
+proposal_available: false
+registry:
+  canonical: REVIEW_REQUIRED
+resolution_log: []
+severity: info
+status: auto_resolved
+type: entity_alias_drift

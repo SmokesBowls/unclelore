@@ -1,0 +1,16 @@
+chapter:
+  source: building_the_world/The north.txt
+conflict_id: CONT-0272
+detected:
+  count: 9
+  token: Nehereti
+human_review_required: true
+instances: 9
+notes: ''
+proposal_available: true
+registry:
+  canonical: Nephoretti
+resolution_log: []
+severity: warning
+status: auto_resolved
+type: entity_alias_drift
