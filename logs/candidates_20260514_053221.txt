@@ -1,0 +1,1096 @@
+CANDIDATE PROPER NOUNS (>= 3 chapters | registry excluded)
+================================================================================
+[TOKEN]    It's                           |  75 files | e.g., book_01_book_of_genesis_001_the_ethereal_vigil.md
+[TOKEN]    They're                        |  66 files | e.g., book_01_book_of_genesis_001_the_ethereal_vigil.md
+[TOKEN]    That's                         |  63 files | e.g., book_01_book_of_genesis_002_molten_descent.md
+[TOKEN]    Then                           |  59 files | e.g., book_03_the_reckoning_009_stalemate_departure_the_first_coming.md
+[TOKEN]    Earth                          |  57 files | e.g., book_01_book_of_genesis_001_the_ethereal_vigil.md
+[TOKEN]    I'm                            |  56 files | e.g., book_03_the_reckoning_009_stalemate_departure_the_first_coming.md
+[TOKEN]    We're                          |  52 files | e.g., book_01_book_of_genesis_003_first_contact.md
+[TOKEN]    Giants                         |  51 files | e.g., book_01_book_of_genesis_002_molten_descent.md
+[TOKEN]    You're                         |  49 files | e.g., book_03_the_reckoning_014_convergence.md
+[TOKEN]    Keeper                         |  48 files | e.g., book_01_book_of_genesis_001_the_ethereal_vigil.md
+[TOKEN]    Queen                          |  47 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[TOKEN]    I've                           |  43 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[TOKEN]    Spire                          |  43 files | e.g., book_06_the_ragnarok_032_the_redo.md
+[TOKEN]    Needle                         |  42 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[TOKEN]    Mika                           |  41 files | e.g., book_05_the_nameless_one_024_the_first_spark.md
+[TOKEN]    Giant                          |  40 files | e.g., book_01_book_of_genesis_002_molten_descent.md
+[TOKEN]    Void                           |  40 files | e.g., book_04_sage_saga_016_the_choice_third_coming.md
+[TOKEN]    Five                           |  39 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[TOKEN]    I'll                           |  39 files | e.g., book_04_sage_saga_019_the_sacrafice.md
+[TOKEN]    Keepers                        |  36 files | e.g., book_01_book_of_genesis_001_the_ethereal_vigil.md
+[TOKEN]    One                            |  36 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[TOKEN]    Aeon                           |  34 files | e.g., book_01_book_of_genesis_001_the_ethereal_vigil.md
+[TOKEN]    Dragon                         |  34 files | e.g., book_03_the_reckoning_010_shadow_returns_second_coming.md
+[TOKEN]    Yes                            |  34 files | e.g., book_01_book_of_genesis_001_the_ethereal_vigil.md
+[TOKEN]    Three                          |  32 files | e.g., book_02_age_of_servitude_007_the_needle_construction.md
+[TOKEN]    Zephyr                         |  32 files | e.g., book_04_sage_saga_016_the_choice_third_coming.md
+[TOKEN]    How                            |  30 files | e.g., book_01_book_of_genesis_002_molten_descent.md
+[TOKEN]    We've                          |  30 files | e.g., book_01_book_of_genesis_001_the_ethereal_vigil.md
+[TOKEN]    Deep                           |  29 files | e.g., book_03_the_reckoning_009_stalemate_departure_the_first_coming.md
+[TOKEN]    Earth's                        |  29 files | e.g., book_01_book_of_genesis_001_the_ethereal_vigil.md
+[TOKEN]    Ironspire                      |  29 files | e.g., book_02_age_of_servitude_005_the_garden_blooms.md
+[TOKEN]    Queen's                        |  29 files | e.g., book_02_age_of_servitude_007_the_needle_construction.md
+[TOKEN]    Echo                           |  28 files | e.g., book_05_the_nameless_one_027_the_claiming.md
+[TOKEN]    There's                        |  28 files | e.g., book_05_the_nameless_one_026_dragonmail.md
+[TOKEN]    Coming                         |  27 files | e.g., book_02_age_of_servitude_005_the_garden_blooms.md
+[TOKEN]    Day                            |  27 files | e.g., book_01_book_of_genesis_003_first_contact.md
+[TOKEN]    Before                         |  26 files | e.g., book_04_sage_saga_018_the_wandering.md
+[TOKEN]    Keen                           |  26 files | e.g., book_04_sage_saga_021_the_first_lesson.md
+[TOKEN]    Luminaire                      |  26 files | e.g., book_06_the_ragnarok_034_the_250.md
+[TOKEN]    Needle's                       |  26 files | e.g., book_02_age_of_servitude_007_the_needle_construction.md
+[TOKEN]    Oreck                          |  26 files | e.g., book_05_the_nameless_one_026_dragonmail.md
+[TOKEN]    Tongue                         |  26 files | e.g., book_01_book_of_genesis_003_first_contact.md
+[TOKEN]    Year                           |  26 files | e.g., book_02_age_of_servitude_005_the_garden_blooms.md
+[TOKEN]    You've                         |  26 files | e.g., book_02_age_of_servitude_008_queens_assessment.md
+[PHRASE]   Aeon Keepers                   |  25 files | e.g., book_01_book_of_genesis_001_the_ethereal_vigil.md
+[TOKEN]    We'll                          |  25 files | e.g., book_01_book_of_genesis_003_first_contact.md
+[TOKEN]    Geralt's                       |  24 files | e.g., book_05_the_nameless_one_026_dragonmail.md
+[TOKEN]    Isla                           |  24 files | e.g., book_11_blood_and_legacy_060_echoes_of_the_cradle.md
+[TOKEN]    Lyra                           |  24 files | e.g., book_06_the_ragnarok_031_the_crash_site.md
+[TOKEN]    Nexus                          |  24 files | e.g., book_02_age_of_servitude_005_the_garden_blooms.md
+[TOKEN]    Shadow                         |  24 files | e.g., book_03_the_reckoning_010_shadow_returns_second_coming.md
+[TOKEN]    Zephyr's                       |  24 files | e.g., book_04_sage_saga_016_the_choice_third_coming.md
+[TOKEN]    Don't                          |  23 files | e.g., book_05_the_nameless_one_025_confined_freedom.md
+[TOKEN]    Star                           |  23 files | e.g., book_06_the_ragnarok_032_the_redo.md
+[TOKEN]    Zaron                          |  23 files | e.g., book_05_the_nameless_one_026_dragonmail.md
+[PHRASE]   Void Spire                     |  22 files | e.g., book_06_the_ragnarok_036_highland_giants.md
+[TOKEN]    Forest                         |  22 files | e.g., book_01_book_of_genesis_004_the_convergence.md
+[TOKEN]    Mika's                         |  22 files | e.g., book_05_the_nameless_one_027_the_claiming.md
+[TOKEN]    There                          |  22 files | e.g., book_04_sage_saga_022_final_calculation.md
+[PHRASE]   Dragon Mail                    |  21 files | e.g., book_05_the_nameless_one_027_the_claiming.md
+[TOKEN]    Chamber                        |  21 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[TOKEN]    Dawn                           |  21 files | e.g., book_05_the_nameless_one_024_the_first_spark.md
+[TOKEN]    End                            |  21 files | e.g., book_01_book_of_genesis_002_molten_descent.md
+[TOKEN]    Kael                           |  21 files | e.g., book_05_the_nameless_one_026_dragonmail.md
+[TOKEN]    Mail                           |  21 files | e.g., book_05_the_nameless_one_027_the_claiming.md
+[TOKEN]    Moon                           |  21 files | e.g., book_09_bureaucratic_debt_054_tue_lunar_spire.md
+[TOKEN]    Resonance                      |  21 files | e.g., book_04_sage_saga_021_the_first_lesson.md
+[TOKEN]    Vale's                         |  21 files | e.g., book_21_needle_and_thread_south_109_the_thread_and_cage.txt
+[TOKEN]    Anchor                         |  20 files | e.g., book_06_the_ragnarok_034_the_250.md
+[TOKEN]    Garden                         |  20 files | e.g., book_01_book_of_genesis_001_the_ethereal_vigil.md
+[TOKEN]    Guardian                       |  20 files | e.g., book_05_the_nameless_one_027_the_claiming.md
+[TOKEN]    Luminaire's                    |  20 files | e.g., book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
+[TOKEN]    Mikas                          |  20 files | e.g., book_09_bureaucratic_debt_048_the_ledger_born.md
+[TOKEN]    Sundrift                       |  20 files | e.g., book_06_the_ragnarok_033_the_march.md
+[TOKEN]    They'll                        |  20 files | e.g., book_02_age_of_servitude_008_queens_assessment.md
+[TOKEN]    They've                        |  20 files | e.g., book_01_book_of_genesis_001_the_ethereal_vigil.md
+[TOKEN]    Enlil                          |  19 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[TOKEN]    Keen's                         |  19 files | e.g., book_11_blood_and_legacy_060_echoes_of_the_cradle.md
+[TOKEN]    Silence                        |  19 files | e.g., book_01_book_of_genesis_001_the_ethereal_vigil.md
+[TOKEN]    Stone                          |  19 files | e.g., book_03_the_reckoning_011_escalation_and_desperation.md
+[TOKEN]    Sun                            |  19 files | e.g., book_03_the_reckoning_011_escalation_and_desperation.md
+[TOKEN]    Tran's                         |  19 files | e.g., book_11_blood_and_legacy_060_echoes_of_the_cradle.md
+[TOKEN]    You'll                         |  19 files | e.g., book_04_sage_saga_019_the_sacrafice.md
+[PHRASE]   Aeon Keeper                    |  18 files | e.g., book_01_book_of_genesis_001_the_ethereal_vigil.md
+[PHRASE]   Star Needle                    |  18 files | e.g., book_06_the_ragnarok_032_the_redo.md
+[TOKEN]    Anunnaki's                     |  18 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[TOKEN]    Blood                          |  18 files | e.g., book_06_the_ragnarok_033_the_march.md
+[TOKEN]    Ethereal                       |  18 files | e.g., book_01_book_of_genesis_001_the_ethereal_vigil.md
+[TOKEN]    Giant's                        |  18 files | e.g., book_01_book_of_genesis_002_molten_descent.md
+[TOKEN]    Igigi's                        |  18 files | e.g., book_02_age_of_servitude_008_queens_assessment.md
+[TOKEN]    Sera                           |  18 files | e.g., book_06_the_ragnarok_033_the_march.md
+[TOKEN]    Two                            |  18 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[TOKEN]    I'd                            |  17 files | e.g., book_05_the_nameless_one_025_confined_freedom.md
+[TOKEN]    Ironspire's                    |  17 files | e.g., book_08_the_vigil_of_the_anchor_047_mika.md
+[TOKEN]    Nephilim                       |  17 files | e.g., book_02_age_of_servitude_007_the_needle_construction.md
+[TOKEN]    Return                         |  17 files | e.g., book_05_the_nameless_one_027_the_claiming.md
+[TOKEN]    She's                          |  17 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[TOKEN]    Something's                    |  17 files | e.g., book_01_book_of_genesis_004_the_convergence.md
+[TOKEN]    Temporal                       |  17 files | e.g., book_04_sage_saga_021_the_first_lesson.md
+[TOKEN]    Thang                          |  17 files | e.g., book_10_infernal_vigil_059_eyes_of_eternity.md
+[TOKEN]    Thread                         |  17 files | e.g., book_20_the_discordant_pulse_south_103_the_second_song_resonance_of_a_broken_needle.md
+[TOKEN]    Through                        |  17 files | e.g., book_03_the_reckoning_014_convergence.md
+[PHRASE]   Forest Giants                  |  16 files | e.g., book_01_book_of_genesis_004_the_convergence.md
+[TOKEN]    Akashic                        |  16 files | e.g., book_01_book_of_genesis_001_the_ethereal_vigil.md
+[TOKEN]    Didn't                         |  16 files | e.g., book_01_book_of_genesis_003_first_contact.md
+[TOKEN]    He's                           |  16 files | e.g., book_05_the_nameless_one_025_confined_freedom.md
+[TOKEN]    Morning                        |  16 files | e.g., book_03_the_reckoning_009_stalemate_departure_the_first_coming.md
+[TOKEN]    Oreck's                        |  16 files | e.g., book_05_the_nameless_one_027_the_claiming.md
+[TOKEN]    Reptilian                      |  16 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[TOKEN]    Rongtai                        |  16 files | e.g., book_10_infernal_vigil_059_eyes_of_eternity.md
+[TOKEN]    Shore                          |  16 files | e.g., book_19_worthy_opponents_north_099_the_final_breath.md
+[TOKEN]    Spires                         |  16 files | e.g., book_06_the_ragnarok_034_the_250.md
+[TOKEN]    Sundering                      |  16 files | e.g., book_02_age_of_servitude_008_queens_assessment.md
+[TOKEN]    All                            |  15 files | e.g., book_02_age_of_servitude_007_the_needle_construction.md
+[TOKEN]    Applicator                     |  15 files | e.g., book_05_the_nameless_one_024_the_first_spark.md
+[TOKEN]    Because                        |  15 files | e.g., book_05_the_nameless_one_025_confined_freedom.md
+[TOKEN]    Commander                      |  15 files | e.g., book_04_sage_saga_017_niburu_shadow.md
+[TOKEN]    Convergence                    |  15 files | e.g., book_01_book_of_genesis_003_first_contact.md
+[TOKEN]    Enlil's                        |  15 files | e.g., book_03_the_reckoning_015_betrayal.md
+[TOKEN]    Graviton                       |  15 files | e.g., book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
+[TOKEN]    Isla's                         |  15 files | e.g., book_11_blood_and_legacy_060_echoes_of_the_cradle.md
+[TOKEN]    Keth                           |  15 files | e.g., book_22_listening_stone_south_115_the_shape_of_asking.txt
+[TOKEN]    Prime                          |  15 files | e.g., book_01_book_of_genesis_002_molten_descent.md
+[TOKEN]    Realm                          |  15 files | e.g., book_01_book_of_genesis_001_the_ethereal_vigil.md
+[TOKEN]    Tiamat                         |  15 files | e.g., book_01_book_of_genesis_001_the_ethereal_vigil.md
+[TOKEN]    Zaron's                        |  15 files | e.g., book_05_the_nameless_one_026_dragonmail.md
+[PHRASE]   Five Mikas                     |  14 files | e.g., book_09_bureaucratic_debt_048_the_ledger_born.md
+[TOKEN]    Gruulith                       |  14 files | e.g., book_03_the_reckoning_010_shadow_returns_second_coming.md
+[TOKEN]    Guild                          |  14 files | e.g., book_09_bureaucratic_debt_054_tue_lunar_spire.md
+[TOKEN]    Legion                         |  14 files | e.g., book_06_the_ragnarok_032_the_redo.md
+[TOKEN]    Lyra's                         |  14 files | e.g., book_06_the_ragnarok_031_the_crash_site.md
+[TOKEN]    Mars                           |  14 files | e.g., book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+[TOKEN]    Mountain                       |  14 files | e.g., book_01_book_of_genesis_004_the_convergence.md
+[TOKEN]    Now                            |  14 files | e.g., book_01_book_of_genesis_002_molten_descent.md
+[TOKEN]    Phase                          |  14 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[TOKEN]    Rongtai's                      |  14 files | e.g., book_11_blood_and_legacy_061_the_hier.md
+[TOKEN]    Sage                           |  14 files | e.g., book_04_sage_saga_017_niburu_shadow.md
+[TOKEN]    Spire's                        |  14 files | e.g., book_06_the_ragnarok_034_the_250.md
+[TOKEN]    Thang's                        |  14 files | e.g., book_11_blood_and_legacy_061_the_hier.md
+[TOKEN]    Tidecallers                    |  14 files | e.g., book_02_age_of_servitude_005_the_garden_blooms.md
+[TOKEN]    When                           |  14 files | e.g., book_02_age_of_servitude_008_queens_assessment.md
+[PHRASE]   Ethereal Realm                 |  13 files | e.g., book_01_book_of_genesis_001_the_ethereal_vigil.md
+[TOKEN]    Another                        |  13 files | e.g., book_04_sage_saga_018_the_wandering.md
+[TOKEN]    Around                         |  13 files | e.g., book_01_book_of_genesis_003_first_contact.md
+[TOKEN]    Brak                           |  13 files | e.g., book_22_listening_stone_south_115_the_shape_of_asking.txt
+[TOKEN]    GPT's                          |  13 files | e.g., book_11_blood_and_legacy_065_secrets_of_the_deep.md
+[TOKEN]    Heart                          |  13 files | e.g., book_06_the_ragnarok_035_sands_of_time.md
+[TOKEN]    Highland                       |  13 files | e.g., book_02_age_of_servitude_008_queens_assessment.md
+[TOKEN]    Pattern                        |  13 files | e.g., book_06_the_ragnarok_034_the_250.md
+[TOKEN]    Sera's                         |  13 files | e.g., book_06_the_ragnarok_033_the_march.md
+[TOKEN]    Seven                          |  13 files | e.g., book_04_sage_saga_019_the_sacrafice.md
+[TOKEN]    Threshold                      |  13 files | e.g., book_09_bureaucratic_debt_049_the_eastern_claim.md
+[PHRASE]   Void Spires                    |  12 files | e.g., book_06_the_ragnarok_034_the_250.md
+[TOKEN]    Behind                         |  12 files | e.g., book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
+[TOKEN]    Below                          |  12 files | e.g., book_07_light_resonance_and_the_function_039_jungle_fever.md
+[TOKEN]    Brajor                         |  12 files | e.g., book_03_the_reckoning_010_shadow_returns_second_coming.md
+[TOKEN]    Grove                          |  12 files | e.g., book_15_legends_and_gods_081_mr_gpt_arrival.md
+[TOKEN]    High                           |  12 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[TOKEN]    III                            |  12 files | e.g., book_08_the_vigil_of_the_anchor_046_not_like_this.md
+[TOKEN]    Kingdom                        |  12 files | e.g., book_09_bureaucratic_debt_054_tue_lunar_spire.md
+[TOKEN]    Month                          |  12 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[TOKEN]    Network                        |  12 files | e.g., book_02_age_of_servitude_005_the_garden_blooms.md
+[TOKEN]    Overseer                       |  12 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[TOKEN]    Tidecaller                     |  12 files | e.g., book_02_age_of_servitude_005_the_garden_blooms.md
+[TOKEN]    Torrhen                        |  12 files | e.g., book_03_the_reckoning_012_nephilim_summoning.md
+[TOKEN]    Without                        |  12 files | e.g., book_05_the_nameless_one_028_ragnarok.md
+[PHRASE]   Akashic Records                |  11 files | e.g., book_01_book_of_genesis_001_the_ethereal_vigil.md
+[PHRASE]   Mages Guild                    |  11 files | e.g., book_09_bureaucratic_debt_054_tue_lunar_spire.md
+[PHRASE]   Moon Kingdom                   |  11 files | e.g., book_09_bureaucratic_debt_054_tue_lunar_spire.md
+[TOKEN]    Annunaki                       |  11 files | e.g., book_06_the_ragnarok_036_highland_giants.md
+[TOKEN]    Ash                            |  11 files | e.g., book_03_the_reckoning_010_shadow_returns_second_coming.md
+[TOKEN]    Can't                          |  11 files | e.g., book_01_book_of_genesis_004_the_convergence.md
+[TOKEN]    Flame                          |  11 files | e.g., book_03_the_reckoning_014_convergence.md
+[TOKEN]    Jump                           |  11 files | e.g., book_06_the_ragnarok_036_highland_giants.md
+[TOKEN]    Mages                          |  11 files | e.g., book_09_bureaucratic_debt_054_tue_lunar_spire.md
+[TOKEN]    Memory                         |  11 files | e.g., book_01_book_of_genesis_004_the_convergence.md
+[TOKEN]    Nammu                          |  11 files | e.g., book_22_listening_stone_south_113_the_edge_of_return.txt
+[TOKEN]    New                            |  11 files | e.g., book_05_the_nameless_one_025_confined_freedom.md
+[TOKEN]    Records                        |  11 files | e.g., book_01_book_of_genesis_001_the_ethereal_vigil.md
+[TOKEN]    Ridge                          |  11 files | e.g., book_08_the_vigil_of_the_anchor_047_mika.md
+[TOKEN]    Torhh                          |  11 files | e.g., book_01_book_of_genesis_003_first_contact.md
+[TOKEN]    What's                         |  11 files | e.g., book_05_the_nameless_one_024_the_first_spark.md
+[PHRASE]   Ash Giants                     |  10 files | e.g., book_03_the_reckoning_010_shadow_returns_second_coming.md
+[PHRASE]   Deep Tongue                    |  10 files | e.g., book_03_the_reckoning_012_nephilim_summoning.md
+[PHRASE]   Mountain Giants                |  10 files | e.g., book_01_book_of_genesis_004_the_convergence.md
+[PHRASE]   Temporal Guardian              |  10 files | e.g., book_06_the_ragnarok_032_the_redo.md
+[TOKEN]    Dregans                        |  10 files | e.g., book_03_the_reckoning_010_shadow_returns_second_coming.md
+[TOKEN]    Eduhauana                      |  10 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[TOKEN]    Fragment                       |  10 files | e.g., book_08_the_vigil_of_the_anchor_044_the_mountains_shadow.md
+[TOKEN]    Gamma                          |  10 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[TOKEN]    Great                          |  10 files | e.g., book_04_sage_saga_016_the_choice_third_coming.md
+[TOKEN]    Keth's                         |  10 files | e.g., book_22_listening_stone_south_115_the_shape_of_asking.txt
+[TOKEN]    Let's                          |  10 files | e.g., book_05_the_nameless_one_028_ragnarok.md
+[TOKEN]    Nefretti                       |  10 files | e.g., book_08_the_vigil_of_the_anchor_042_the_verdant_crossing.md
+[TOKEN]    Northern                       |  10 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[TOKEN]    Pazuzu's                       |  10 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[TOKEN]    Recognition                    |  10 files | e.g., book_11_blood_and_legacy_065_secrets_of_the_deep.md
+[TOKEN]    Southern                       |  10 files | e.g., book_02_age_of_servitude_007_the_needle_construction.md
+[TOKEN]    Tiamat's                       |  10 files | e.g., book_01_book_of_genesis_001_the_ethereal_vigil.md
+[TOKEN]    Ulric                          |  10 files | e.g., book_11_blood_and_legacy_063_the_iron_hand.md
+[TOKEN]    Voice                          |  10 files | e.g., book_11_blood_and_legacy_062_falcon_ridge_showdown.md
+[PHRASE]   Falcon Ridge                   |   9 files | e.g., book_08_the_vigil_of_the_anchor_047_mika.md
+[PHRASE]   Mika Oreck                     |   9 files | e.g., book_06_the_ragnarok_029_bounty_hunter.md
+[PHRASE]   Month Day                      |   9 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[PHRASE]   Queen Eduhauana                |   9 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[PHRASE]   Star Needle's                  |   9 files | e.g., book_08_the_vigil_of_the_anchor_047_mika.md
+[PHRASE]   Thang Rongtai                  |   9 files | e.g., book_10_infernal_vigil_059_eyes_of_eternity.md
+[PHRASE]   Year Month                     |   9 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[PHRASE]   Year Month Day                 |   9 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[TOKEN]    Applicator's                   |   9 files | e.g., book_05_the_nameless_one_025_confined_freedom.md
+[TOKEN]    Caelum                         |   9 files | e.g., book_15_legends_and_gods_080_the_whispers_between_worlds.md
+[TOKEN]    Cliff                          |   9 files | e.g., book_02_age_of_servitude_005_the_garden_blooms.md
+[TOKEN]    Complete                       |   9 files | e.g., book_01_book_of_genesis_001_the_ethereal_vigil.md
+[TOKEN]    Descent                        |   9 files | e.g., book_01_book_of_genesis_001_the_ethereal_vigil.md
+[TOKEN]    Desert                         |   9 files | e.g., book_01_book_of_genesis_004_the_convergence.md
+[TOKEN]    Every                          |   9 files | e.g., book_05_the_nameless_one_025_confined_freedom.md
+[TOKEN]    Falcon                         |   9 files | e.g., book_08_the_vigil_of_the_anchor_047_mika.md
+[TOKEN]    Hand                           |   9 files | e.g., book_03_the_reckoning_010_shadow_returns_second_coming.md
+[TOKEN]    Kaelen                         |   9 files | e.g., book_06_the_ragnarok_032_the_redo.md
+[TOKEN]    Kyh                            |   9 files | e.g., book_09_bureaucratic_debt_051_arrival_in_fire.md
+[TOKEN]    Line                           |   9 files | e.g., book_01_book_of_genesis_003_first_contact.md
+[TOKEN]    Marduk                         |   9 files | e.g., book_01_book_of_genesis_001_the_ethereal_vigil.md
+[TOKEN]    Needles                        |   9 files | e.g., book_03_the_reckoning_009_stalemate_departure_the_first_coming.md
+[TOKEN]    Nibiru's                       |   9 files | e.g., book_03_the_reckoning_009_stalemate_departure_the_first_coming.md
+[TOKEN]    Night                          |   9 files | e.g., book_02_age_of_servitude_007_the_needle_construction.md
+[TOKEN]    Path                           |   9 files | e.g., book_09_bureaucratic_debt_049_the_eastern_claim.md
+[TOKEN]    Pazuzu                         |   9 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[TOKEN]    Pyroclast                      |   9 files | e.g., book_09_bureaucratic_debt_049_the_eastern_claim.md
+[TOKEN]    Ragnarok                       |   9 files | e.g., book_05_the_nameless_one_025_confined_freedom.md
+[TOKEN]    Torrhen's                      |   9 files | e.g., book_03_the_reckoning_012_nephilim_summoning.md
+[TOKEN]    Understanding                  |   9 files | e.g., book_04_sage_saga_018_the_wandering.md
+[TOKEN]    Valley                         |   9 files | e.g., book_02_age_of_servitude_005_the_garden_blooms.md
+[TOKEN]    Water                          |   9 files | e.g., book_01_book_of_genesis_003_first_contact.md
+[TOKEN]    Years                          |   9 files | e.g., book_01_book_of_genesis_001_the_ethereal_vigil.md
+[PHRASE]   Aaon Keepers                   |   8 files | e.g., book_01_book_of_genesis_001_the_ethereal_vigil.md
+[PHRASE]   Brak Keth                      |   8 files | e.g., book_22_listening_stone_south_116_keepers_recognition.txt
+[PHRASE]   Captain Ulric                  |   8 files | e.g., book_11_blood_and_legacy_063_the_iron_hand.md
+[PHRASE]   Cliff Giants                   |   8 files | e.g., book_21_needle_and_thread_south_111_the_resonance_a_garden_under_shadow.txt
+[PHRASE]   Day Enkialu                    |   8 files | e.g., book_18_inquisition_of_yourself_095_roots_of_change.md
+[PHRASE]   Day Enkialu Year               |   8 files | e.g., book_18_inquisition_of_yourself_095_roots_of_change.md
+[PHRASE]   Enkialu Year                   |   8 files | e.g., book_18_inquisition_of_yourself_095_roots_of_change.md
+[PHRASE]   Garden Grove                   |   8 files | e.g., book_20_the_discordant_pulse_south_104_the_rising_tide.md
+[PHRASE]   Highland Giants                |   8 files | e.g., book_02_age_of_servitude_008_queens_assessment.md
+[PHRASE]   Voice Air                      |   8 files | e.g., book_16_fragmented_beginning_086_sanctuary_to_storm.md
+[TOKEN]    Aaon                           |   8 files | e.g., book_01_book_of_genesis_001_the_ethereal_vigil.md
+[TOKEN]    Air                            |   8 files | e.g., book_16_fragmented_beginning_086_sanctuary_to_storm.md
+[TOKEN]    Captain                        |   8 files | e.g., book_11_blood_and_legacy_063_the_iron_hand.md
+[TOKEN]    Circle                         |   8 files | e.g., book_07_light_resonance_and_the_function_037_the_circle_of_progress.md
+[TOKEN]    Citadel                        |   8 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[TOKEN]    Contact                        |   8 files | e.g., book_01_book_of_genesis_002_molten_descent.md
+[TOKEN]    Couldn't                       |   8 files | e.g., book_01_book_of_genesis_002_molten_descent.md
+[TOKEN]    Council                        |   8 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[TOKEN]    Draco                          |   8 files | e.g., book_09_bureaucratic_debt_053_the_twilight_city.md
+[TOKEN]    END                            |   8 files | e.g., book_05_the_nameless_one_026_dragonmail.md
+[TOKEN]    Echoes                         |   8 files | e.g., book_09_bureaucratic_debt_053_the_twilight_city.md
+[TOKEN]    Enkialu                        |   8 files | e.g., book_18_inquisition_of_yourself_095_roots_of_change.md
+[TOKEN]    Exactly                        |   8 files | e.g., book_02_age_of_servitude_008_queens_assessment.md
+[TOKEN]    Federation                     |   8 files | e.g., book_05_the_nameless_one_024_the_first_spark.md
+[TOKEN]    Good                           |   8 files | e.g., book_05_the_nameless_one_025_confined_freedom.md
+[TOKEN]    Grand                          |   8 files | e.g., book_03_the_reckoning_011_escalation_and_desperation.md
+[TOKEN]    Granite                        |   8 files | e.g., book_21_needle_and_thread_south_107_the_waking.txt
+[TOKEN]    Halvar                         |   8 files | e.g., book_07_light_resonance_and_the_function_037_the_circle_of_progress.md
+[TOKEN]    He'd                           |   8 files | e.g., book_05_the_nameless_one_025_confined_freedom.md
+[TOKEN]    Hour                           |   8 files | e.g., book_18_inquisition_of_yourself_095_roots_of_change.md
+[TOKEN]    Keeper's                       |   8 files | e.g., book_05_the_nameless_one_026_dragonmail.md
+[TOKEN]    Language                       |   8 files | e.g., book_04_sage_saga_018_the_wandering.md
+[TOKEN]    Library                        |   8 files | e.g., book_01_book_of_genesis_001_the_ethereal_vigil.md
+[TOKEN]    Long                           |   8 files | e.g., book_20_the_discordant_pulse_south_104_the_rising_tide.md
+[TOKEN]    Martian                        |   8 files | e.g., book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+[TOKEN]    Master                         |   8 files | e.g., book_10_infernal_vigil_057_enforced_enrollment.md
+[TOKEN]    Nammu's                        |   8 files | e.g., book_22_listening_stone_south_113_the_edge_of_return.txt
+[TOKEN]    Nibiru                         |   8 files | e.g., book_04_sage_saga_017_niburu_shadow.md
+[TOKEN]    Observer                       |   8 files | e.g., book_05_the_nameless_one_025_confined_freedom.md
+[TOKEN]    Onyx                           |   8 files | e.g., book_12_forged_identity_071_cosmic_teachers_arrive.md
+[TOKEN]    Phoenix                        |   8 files | e.g., book_11_blood_and_legacy_061_the_hier.md
+[TOKEN]    Shattered                      |   8 files | e.g., book_06_the_ragnarok_032_the_redo.md
+[TOKEN]    Storm                          |   8 files | e.g., book_05_the_nameless_one_027_the_claiming.md
+[TOKEN]    Torhh's                        |   8 files | e.g., book_01_book_of_genesis_003_first_contact.md
+[TOKEN]    VII                            |   8 files | e.g., book_20_the_discordant_pulse_south_103_the_second_song_resonance_of_a_broken_needle.md
+[TOKEN]    Why                            |   8 files | e.g., book_02_age_of_servitude_007_the_needle_construction.md
+[TOKEN]    Zeph                           |   8 files | e.g., book_21_needle_and_thread_south_110_the_bleeding_convergance.txt
+[PHRASE]   Dragon Mail's                  |   7 files | e.g., book_10_infernal_vigil_056_erasures_edge.md
+[PHRASE]   Enkialu Year Hour              |   7 files | e.g., book_18_inquisition_of_yourself_096_violet_convergence.md
+[PHRASE]   Forest Giant                   |   7 files | e.g., book_03_the_reckoning_010_shadow_returns_second_coming.md
+[PHRASE]   Let Luminaire's                |   7 files | e.g., book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
+[PHRASE]   Moon Kingdom's                 |   7 files | e.g., book_11_blood_and_legacy_061_the_hier.md
+[PHRASE]   Year Hour                      |   7 files | e.g., book_18_inquisition_of_yourself_096_violet_convergence.md
+[TOKEN]    Balance                        |   7 files | e.g., book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+[TOKEN]    Beyond                         |   7 files | e.g., book_04_sage_saga_023_beyond_identity.md
+[TOKEN]    Breath                         |   7 files | e.g., book_16_fragmented_beginning_085_ancient_knowledge.md
+[TOKEN]    Chaos                          |   7 files | e.g., book_05_the_nameless_one_028_ragnarok.md
+[TOKEN]    Cost                           |   7 files | e.g., book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
+[TOKEN]    DETECTED                       |   7 files | e.g., book_06_the_ragnarok_031_the_crash_site.md
+[TOKEN]    Days                           |   7 files | e.g., book_01_book_of_genesis_003_first_contact.md
+[TOKEN]    Departure                      |   7 files | e.g., book_02_age_of_servitude_008_queens_assessment.md
+[TOKEN]    Dregan                         |   7 files | e.g., book_03_the_reckoning_011_escalation_and_desperation.md
+[TOKEN]    Eastern                        |   7 files | e.g., book_08_the_vigil_of_the_anchor_043_the_badlands_crucible.md
+[TOKEN]    Elara                          |   7 files | e.g., book_06_the_ragnarok_032_the_redo.md
+[TOKEN]    Elder                          |   7 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[TOKEN]    Ember                          |   7 files | e.g., book_17_ancestral_debt_088_shadows_of_umbrageous_fixed.md
+[TOKEN]    Evening                        |   7 files | e.g., book_22_listening_stone_south_113_the_edge_of_return.txt
+[TOKEN]    Freedom                        |   7 files | e.g., book_04_sage_saga_016_the_choice_third_coming.md
+[TOKEN]    GPT                            |   7 files | e.g., book_11_blood_and_legacy_065_secrets_of_the_deep.md
+[TOKEN]    Guild's                        |   7 files | e.g., book_09_bureaucratic_debt_054_tue_lunar_spire.md
+[TOKEN]    Harbinger                      |   7 files | e.g., book_06_the_ragnarok_030_ummade_army.md
+[TOKEN]    Host                           |   7 files | e.g., book_05_the_nameless_one_025_confined_freedom.md
+[TOKEN]    Hub                            |   7 files | e.g., book_08_the_vigil_of_the_anchor_043_the_badlands_crucible.md
+[TOKEN]    INCLUDED                       |   7 files | e.g., book_01_book_of_genesis_001_the_ethereal_vigil.md
+[TOKEN]    Indeed                         |   7 files | e.g., book_06_the_ragnarok_032_the_redo.md
+[TOKEN]    Integration                    |   7 files | e.g., book_04_sage_saga_020_the_collapse.md
+[TOKEN]    Jorik                          |   7 files | e.g., book_06_the_ragnarok_036_highland_giants.md
+[TOKEN]    Kingdom's                      |   7 files | e.g., book_11_blood_and_legacy_061_the_hier.md
+[TOKEN]    Ma'at                          |   7 files | e.g., book_20_the_discordant_pulse_south_105_garden_grove.md
+[TOKEN]    Mail's                         |   7 files | e.g., book_10_infernal_vigil_056_erasures_edge.md
+[TOKEN]    Mora's                         |   7 files | e.g., book_21_needle_and_thread_south_107_the_waking.txt
+[TOKEN]    More                           |   7 files | e.g., book_01_book_of_genesis_004_the_convergence.md
+[TOKEN]    Node                           |   7 files | e.g., book_07_light_resonance_and_the_function_039_jungle_fever.md
+[TOKEN]    ONE                            |   7 files | e.g., book_05_the_nameless_one_024_the_first_spark.md
+[TOKEN]    Plains                         |   7 files | e.g., book_08_the_vigil_of_the_anchor_043_the_badlands_crucible.md
+[TOKEN]    Point                          |   7 files | e.g., book_05_the_nameless_one_025_confined_freedom.md
+[TOKEN]    Precisely                      |   7 files | e.g., book_02_age_of_servitude_008_queens_assessment.md
+[TOKEN]    Reptilians                     |   7 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[TOKEN]    SPIRE                          |   7 files | e.g., book_09_bureaucratic_debt_049_the_eastern_claim.md
+[TOKEN]    Sathinee                       |   7 files | e.g., book_18_inquisition_of_yourself_093_voices_between_worlds.md
+[TOKEN]    Scene                          |   7 files | e.g., book_05_the_nameless_one_025_confined_freedom.md
+[TOKEN]    Sector                         |   7 files | e.g., book_07_light_resonance_and_the_function_037_the_circle_of_progress.md
+[TOKEN]    Site                           |   7 files | e.g., book_01_book_of_genesis_002_molten_descent.md
+[TOKEN]    South                          |   7 files | e.g., book_04_sage_saga_017_niburu_shadow.md
+[TOKEN]    Speaker                        |   7 files | e.g., book_06_the_ragnarok_036_highland_giants.md
+[TOKEN]    They'd                         |   7 files | e.g., book_05_the_nameless_one_024_the_first_spark.md
+[TOKEN]    Total                          |   7 files | e.g., book_02_age_of_servitude_005_the_garden_blooms.md
+[TOKEN]    Tower                          |   7 files | e.g., book_06_the_ragnarok_031_the_crash_site.md
+[TOKEN]    Ulric's                        |   7 files | e.g., book_11_blood_and_legacy_063_the_iron_hand.md
+[TOKEN]    Umbrageous                     |   7 files | e.g., book_09_bureaucratic_debt_049_the_eastern_claim.md
+[TOKEN]    Vairis                         |   7 files | e.g., book_01_book_of_genesis_002_molten_descent.md
+[TOKEN]    Verdant                        |   7 files | e.g., book_07_light_resonance_and_the_function_037_the_circle_of_progress.md
+[TOKEN]    Warden                         |   7 files | e.g., book_06_the_ragnarok_029_bounty_hunter.md
+[TOKEN]    Weight                         |   7 files | e.g., book_17_ancestral_debt_091_the_weight_of_memory.md
+[PHRASE]   Breath Deep                    |   6 files | e.g., book_16_fragmented_beginning_085_ancient_knowledge.md
+[PHRASE]   Host Applicator's              |   6 files | e.g., book_05_the_nameless_one_025_confined_freedom.md
+[PHRASE]   Kavurn's Echo                  |   6 files | e.g., book_15_legends_and_gods_081_mr_gpt_arrival.md
+[PHRASE]   Keen Isla                      |   6 files | e.g., book_11_blood_and_legacy_062_falcon_ridge_showdown.md
+[PHRASE]   Node Gamma                     |   6 files | e.g., book_07_light_resonance_and_the_function_039_jungle_fever.md
+[PHRASE]   Post Shattering                |   6 files | e.g., book_01_book_of_genesis_001_the_ethereal_vigil.md
+[PHRASE]   Post Shattering Years          |   6 files | e.g., book_01_book_of_genesis_001_the_ethereal_vigil.md
+[PHRASE]   Shattered Mind                 |   6 files | e.g., book_09_bureaucratic_debt_049_the_eastern_claim.md
+[PHRASE]   Shattering Years               |   6 files | e.g., book_01_book_of_genesis_001_the_ethereal_vigil.md
+[PHRASE]   Void Jump                      |   6 files | e.g., book_09_bureaucratic_debt_049_the_eastern_claim.md
+[TOKEN]    Above                          |   6 files | e.g., book_08_the_vigil_of_the_anchor_045_the_hub_falls.md
+[TOKEN]    Agreed                         |   6 files | e.g., book_06_the_ragnarok_029_bounty_hunter.md
+[TOKEN]    Ancient                        |   6 files | e.g., book_11_blood_and_legacy_066_the_first_tongue.md
+[TOKEN]    Applicators                    |   6 files | e.g., book_05_the_nameless_one_025_confined_freedom.md
+[TOKEN]    Approach                       |   6 files | e.g., book_05_the_nameless_one_028_ragnarok.md
+[TOKEN]    Architect                      |   6 files | e.g., book_08_the_vigil_of_the_anchor_046_not_like_this.md
+[TOKEN]    Arrival                        |   6 files | e.g., book_02_age_of_servitude_005_the_garden_blooms.md
+[TOKEN]    Assessment                     |   6 files | e.g., book_02_age_of_servitude_007_the_needle_construction.md
+[TOKEN]    Bearer                         |   6 files | e.g., book_09_bureaucratic_debt_050_the_scout.md
+[TOKEN]    Brak's                         |   6 files | e.g., book_22_listening_stone_south_116_keepers_recognition.txt
+[TOKEN]    Chambers                       |   6 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[TOKEN]    Choice                         |   6 files | e.g., book_03_the_reckoning_015_betrayal.md
+[TOKEN]    City                           |   6 files | e.g., book_09_bureaucratic_debt_053_the_twilight_city.md
+[TOKEN]    Coastal                        |   6 files | e.g., book_01_book_of_genesis_002_molten_descent.md
+[TOKEN]    Coil                           |   6 files | e.g., book_09_bureaucratic_debt_049_the_eastern_claim.md
+[TOKEN]    Cold                           |   6 files | e.g., book_03_the_reckoning_014_convergence.md
+[TOKEN]    Edge                           |   6 files | e.g., book_06_the_ragnarok_035_sands_of_time.md
+[TOKEN]    Enheduanna                     |   6 files | e.g., book_09_bureaucratic_debt_052_entry_without_standing.md
+[TOKEN]    Expanded                       |   6 files | e.g., book_11_blood_and_legacy_063_the_iron_hand.md
+[TOKEN]    Fire                           |   6 files | e.g., book_09_bureaucratic_debt_049_the_eastern_claim.md
+[TOKEN]    Foundation                     |   6 files | e.g., book_09_bureaucratic_debt_049_the_eastern_claim.md
+[TOKEN]    Four                           |   6 files | e.g., book_03_the_reckoning_009_stalemate_departure_the_first_coming.md
+[TOKEN]    Gate                           |   6 files | e.g., book_06_the_ragnarok_031_the_crash_site.md
+[TOKEN]    Guard                          |   6 files | e.g., book_05_the_nameless_one_027_the_claiming.md
+[TOKEN]    He'll                          |   6 files | e.g., book_05_the_nameless_one_025_confined_freedom.md
+[TOKEN]    Hours                          |   6 files | e.g., book_04_sage_saga_023_beyond_identity.md
+[TOKEN]    Kavurn's                       |   6 files | e.g., book_15_legends_and_gods_081_mr_gpt_arrival.md
+[TOKEN]    Like                           |   6 files | e.g., book_04_sage_saga_020_the_collapse.md
+[TOKEN]    Luminara                       |   6 files | e.g., book_06_the_ragnarok_036_highland_giants.md
+[TOKEN]    Lunar                          |   6 files | e.g., book_09_bureaucratic_debt_049_the_eastern_claim.md
+[TOKEN]    Manifestation                  |   6 files | e.g., book_01_book_of_genesis_001_the_ethereal_vigil.md
+[TOKEN]    Mind                           |   6 files | e.g., book_09_bureaucratic_debt_049_the_eastern_claim.md
+[TOKEN]    Mora                           |   6 files | e.g., book_21_needle_and_thread_south_107_the_waking.txt
+[TOKEN]    Mountains                      |   6 files | e.g., book_02_age_of_servitude_005_the_garden_blooms.md
+[TOKEN]    Nebula                         |   6 files | e.g., book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+[TOKEN]    Nephoretti's                   |   6 files | e.g., book_20_the_discordant_pulse_south_106_sky_fallen.txt
+[TOKEN]    OPENING                        |   6 files | e.g., book_04_sage_saga_016_the_choice_third_coming.md
+[TOKEN]    Ones                           |   6 files | e.g., book_05_the_nameless_one_024_the_first_spark.md
+[TOKEN]    PROTOCOL                       |   6 files | e.g., book_07_light_resonance_and_the_function_039_jungle_fever.md
+[TOKEN]    Pool                           |   6 files | e.g., book_09_bureaucratic_debt_053_the_twilight_city.md
+[TOKEN]    Post                           |   6 files | e.g., book_01_book_of_genesis_001_the_ethereal_vigil.md
+[TOKEN]    Progress                       |   6 files | e.g., book_09_bureaucratic_debt_051_arrival_in_fire.md
+[TOKEN]    Protocol                       |   6 files | e.g., book_09_bureaucratic_debt_049_the_eastern_claim.md
+[TOKEN]    Ren                            |   6 files | e.g., book_05_the_nameless_one_026_dragonmail.md
+[TOKEN]    Resistance                     |   6 files | e.g., book_02_age_of_servitude_007_the_needle_construction.md
+[TOKEN]    Response                       |   6 files | e.g., book_11_blood_and_legacy_063_the_iron_hand.md
+[TOKEN]    Sage's                         |   6 files | e.g., book_04_sage_saga_020_the_collapse.md
+[TOKEN]    Shattering                     |   6 files | e.g., book_01_book_of_genesis_001_the_ethereal_vigil.md
+[TOKEN]    Show                           |   6 files | e.g., book_02_age_of_servitude_008_queens_assessment.md
+[TOKEN]    Six                            |   6 files | e.g., book_04_sage_saga_021_the_first_lesson.md
+[TOKEN]    Some                           |   6 files | e.g., book_01_book_of_genesis_004_the_convergence.md
+[TOKEN]    Song                           |   6 files | e.g., book_03_the_reckoning_010_shadow_returns_second_coming.md
+[TOKEN]    Stoneheart                     |   6 files | e.g., book_11_blood_and_legacy_060_echoes_of_the_cradle.md
+[TOKEN]    Sundrift's                     |   6 files | e.g., book_08_the_vigil_of_the_anchor_047_mika.md
+[TOKEN]    Together                       |   6 files | e.g., book_04_sage_saga_020_the_collapse.md
+[TOKEN]    Vine                           |   6 files | e.g., book_20_the_discordant_pulse_south_104_the_rising_tide.md
+[TOKEN]    Wars                           |   6 files | e.g., book_09_bureaucratic_debt_049_the_eastern_claim.md
+[TOKEN]    Watch                          |   6 files | e.g., book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+[TOKEN]    Weaver                         |   6 files | e.g., book_09_bureaucratic_debt_051_arrival_in_fire.md
+[TOKEN]    Whatever's                     |   6 files | e.g., book_11_blood_and_legacy_064_pass_through_shadow_and_flame.md
+[TOKEN]    Won't                          |   6 files | e.g., book_05_the_nameless_one_027_the_claiming.md
+[TOKEN]    World                          |   6 files | e.g., book_06_the_ragnarok_035_sands_of_time.md
+[TOKEN]    Zaryonic                       |   6 files | e.g., book_06_the_ragnarok_034_the_250.md
+[PHRASE]   Aetheric Coil                  |   5 files | e.g., book_09_bureaucratic_debt_049_the_eastern_claim.md
+[PHRASE]   Ash Giant                      |   5 files | e.g., book_03_the_reckoning_010_shadow_returns_second_coming.md
+[PHRASE]   Bones Stone                    |   5 files | e.g., book_18_inquisition_of_yourself_095_roots_of_change.md
+[PHRASE]   Caelum Onyx                    |   5 files | e.g., book_15_legends_and_gods_080_the_whispers_between_worlds.md
+[PHRASE]   Circle Progress                |   5 files | e.g., book_16_fragmented_beginning_085_ancient_knowledge.md
+[PHRASE]   Cliff Giant                    |   5 files | e.g., book_22_listening_stone_south_116_keepers_recognition.txt
+[PHRASE]   Dragon Wars                    |   5 files | e.g., book_09_bureaucratic_debt_049_the_eastern_claim.md
+[PHRASE]   Dragonwayne Nebula             |   5 files | e.g., book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+[PHRASE]   Earth Giant                    |   5 files | e.g., book_15_legends_and_gods_081_mr_gpt_arrival.md
+[PHRASE]   Echo Temple                    |   5 files | e.g., book_11_blood_and_legacy_066_the_first_tongue.md
+[PHRASE]   Echo Tower                     |   5 files | e.g., book_06_the_ragnarok_031_the_crash_site.md
+[PHRASE]   Geralt's Applicator            |   5 files | e.g., book_06_the_ragnarok_029_bounty_hunter.md
+[PHRASE]   Heart Flame                    |   5 files | e.g., book_16_fragmented_beginning_086_sanctuary_to_storm.md
+[PHRASE]   Host Applicator                |   5 files | e.g., book_05_the_nameless_one_026_dragonmail.md
+[PHRASE]   Lyra Isla                      |   5 files | e.g., book_12_forged_identity_070_spheres_truth.md
+[PHRASE]   Mika Five                      |   5 files | e.g., book_05_the_nameless_one_028_ragnarok.md
+[PHRASE]   Nameless One                   |   5 files | e.g., book_05_the_nameless_one_024_the_first_spark.md
+[PHRASE]   Seed Jump                      |   5 files | e.g., book_06_the_ragnarok_036_highland_giants.md
+[PHRASE]   Then Mika                      |   5 files | e.g., book_05_the_nameless_one_024_the_first_spark.md
+[PHRASE]   Where Mika                     |   5 files | e.g., book_06_the_ragnarok_036_highland_giants.md
+[TOKEN]    APPROACH                       |   5 files | e.g., book_05_the_nameless_one_025_confined_freedom.md
+[TOKEN]    Acknowledged                   |   5 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[TOKEN]    Aetheric                       |   5 files | e.g., book_09_bureaucratic_debt_049_the_eastern_claim.md
+[TOKEN]    Aftermath                      |   5 files | e.g., book_06_the_ragnarok_030_ummade_army.md
+[TOKEN]    Ain't                          |   5 files | e.g., book_22_listening_stone_south_113_the_edge_of_return.txt
+[TOKEN]    Anu                            |   5 files | e.g., book_05_the_nameless_one_028_ragnarok.md
+[TOKEN]    Assyrian                       |   5 files | e.g., book_10_infernal_vigil_059_eyes_of_eternity.md
+[TOKEN]    Begins                         |   5 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[TOKEN]    Between                        |   5 files | e.g., book_14_lessons_of_inheritance_072_flow_between_moments.md
+[TOKEN]    Bones                          |   5 files | e.g., book_18_inquisition_of_yourself_095_roots_of_change.md
+[TOKEN]    Brajor's                       |   5 files | e.g., book_03_the_reckoning_011_escalation_and_desperation.md
+[TOKEN]    Breach                         |   5 files | e.g., book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+[TOKEN]    Break                          |   5 files | e.g., book_17_ancestral_debt_091_the_weight_of_memory.md
+[TOKEN]    Chains                         |   5 files | e.g., book_05_the_nameless_one_025_confined_freedom.md
+[TOKEN]    Claim                          |   5 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[TOKEN]    Compliance                     |   5 files | e.g., book_05_the_nameless_one_028_ragnarok.md
+[TOKEN]    Dragonwayne                    |   5 files | e.g., book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+[TOKEN]    Each                           |   5 files | e.g., book_02_age_of_servitude_008_queens_assessment.md
+[TOKEN]    Eduhauana's                    |   5 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[TOKEN]    Enough                         |   5 files | e.g., book_06_the_ragnarok_032_the_redo.md
+[TOKEN]    Faraxar                        |   5 files | e.g., book_06_the_ragnarok_035_sands_of_time.md
+[TOKEN]    Forge                          |   5 files | e.g., book_11_blood_and_legacy_065_secrets_of_the_deep.md
+[TOKEN]    Fracture                       |   5 files | e.g., book_06_the_ragnarok_034_the_250.md
+[TOKEN]    Fragments                      |   5 files | e.g., book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
+[TOKEN]    Gruulith's                     |   5 files | e.g., book_03_the_reckoning_010_shadow_returns_second_coming.md
+[TOKEN]    Guardians                      |   5 files | e.g., book_11_blood_and_legacy_065_secrets_of_the_deep.md
+[TOKEN]    Harmonic                       |   5 files | e.g., book_04_sage_saga_021_the_first_lesson.md
+[TOKEN]    Healing                        |   5 files | e.g., book_01_book_of_genesis_001_the_ethereal_vigil.md
+[TOKEN]    Iron                           |   5 files | e.g., book_11_blood_and_legacy_063_the_iron_hand.md
+[TOKEN]    Kaelen's                       |   5 files | e.g., book_06_the_ragnarok_034_the_250.md
+[TOKEN]    Kronocht                       |   5 files | e.g., book_17_ancestral_debt_089_the_white_mirror.md
+[TOKEN]    Kyh's                          |   5 files | e.g., book_09_bureaucratic_debt_051_arrival_in_fire.md
+[TOKEN]    Legionnaires                   |   5 files | e.g., book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+[TOKEN]    Lesson                         |   5 files | e.g., book_21_needle_and_thread_south_107_the_waking.txt
+[TOKEN]    Many                           |   5 files | e.g., book_05_the_nameless_one_025_confined_freedom.md
+[TOKEN]    Marduk's                       |   5 files | e.g., book_01_book_of_genesis_001_the_ethereal_vigil.md
+[TOKEN]    NETWORK                        |   5 files | e.g., book_04_sage_saga_020_the_collapse.md
+[TOKEN]    Nameless                       |   5 files | e.g., book_05_the_nameless_one_024_the_first_spark.md
+[TOKEN]    North                          |   5 files | e.g., book_04_sage_saga_017_niburu_shadow.md
+[TOKEN]    Onyx's                         |   5 files | e.g., book_15_legends_and_gods_080_the_whispers_between_worlds.md
+[TOKEN]    Orion                          |   5 files | e.g., book_09_bureaucratic_debt_054_tue_lunar_spire.md
+[TOKEN]    Outside                        |   5 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[TOKEN]    Overseers                      |   5 files | e.g., book_05_the_nameless_one_024_the_first_spark.md
+[TOKEN]    Paths                          |   5 files | e.g., book_11_blood_and_legacy_064_pass_through_shadow_and_flame.md
+[TOKEN]    Perhaps                        |   5 files | e.g., book_05_the_nameless_one_026_dragonmail.md
+[TOKEN]    Prelude                        |   5 files | e.g., book_01_book_of_genesis_002_molten_descent.md
+[TOKEN]    Pyramid                        |   5 files | e.g., book_02_age_of_servitude_005_the_garden_blooms.md
+[TOKEN]    Rebellion                      |   5 files | e.g., book_05_the_nameless_one_024_the_first_spark.md
+[TOKEN]    Reptilian's                    |   5 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[TOKEN]    Resonant                       |   5 files | e.g., book_06_the_ragnarok_034_the_250.md
+[TOKEN]    Roric                          |   5 files | e.g., book_06_the_ragnarok_031_the_crash_site.md
+[TOKEN]    Sanctuary                      |   5 files | e.g., book_09_bureaucratic_debt_054_tue_lunar_spire.md
+[TOKEN]    Sathinee's                     |   5 files | e.g., book_18_inquisition_of_yourself_093_voices_between_worlds.md
+[TOKEN]    Seed                           |   5 files | e.g., book_06_the_ragnarok_036_highland_giants.md
+[TOKEN]    Senareth                       |   5 files | e.g., book_01_book_of_genesis_002_molten_descent.md
+[TOKEN]    She'd                          |   5 files | e.g., book_05_the_nameless_one_025_confined_freedom.md
+[TOKEN]    She'll                         |   5 files | e.g., book_09_bureaucratic_debt_054_tue_lunar_spire.md
+[TOKEN]    Singer                         |   5 files | e.g., book_04_sage_saga_020_the_collapse.md
+[TOKEN]    Sky                            |   5 files | e.g., book_19_worthy_opponents_north_100_convergence_at_ironspire.md
+[TOKEN]    Solar                          |   5 files | e.g., book_10_infernal_vigil_059_eyes_of_eternity.md
+[TOKEN]    Someone's                      |   5 files | e.g., book_06_the_ragnarok_031_the_crash_site.md
+[TOKEN]    Sound                          |   5 files | e.g., book_05_the_nameless_one_026_dragonmail.md
+[TOKEN]    Subject                        |   5 files | e.g., book_05_the_nameless_one_028_ragnarok.md
+[TOKEN]    Subterranean                   |   5 files | e.g., book_03_the_reckoning_010_shadow_returns_second_coming.md
+[TOKEN]    Surface                        |   5 files | e.g., book_01_book_of_genesis_002_molten_descent.md
+[TOKEN]    Temple                         |   5 files | e.g., book_11_blood_and_legacy_066_the_first_tongue.md
+[TOKEN]    Ten                            |   5 files | e.g., book_04_sage_saga_020_the_collapse.md
+[TOKEN]    Teryn                          |   5 files | e.g., book_20_the_discordant_pulse_south_103_the_second_song_resonance_of_a_broken_needle.md
+[TOKEN]    Tessik                         |   5 files | e.g., book_22_listening_stone_south_115_the_shape_of_asking.txt
+[TOKEN]    Tide                           |   5 files | e.g., book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
+[TOKEN]    Too                            |   5 files | e.g., book_05_the_nameless_one_025_confined_freedom.md
+[TOKEN]    Truth                          |   5 files | e.g., book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+[TOKEN]    Unity                          |   5 files | e.g., book_05_the_nameless_one_025_confined_freedom.md
+[TOKEN]    Unknown                        |   5 files | e.g., book_05_the_nameless_one_028_ragnarok.md
+[TOKEN]    VIII                           |   5 files | e.g., book_20_the_discordant_pulse_south_104_the_rising_tide.md
+[TOKEN]    Veil                           |   5 files | e.g., book_01_book_of_genesis_001_the_ethereal_vigil.md
+[TOKEN]    Veins                          |   5 files | e.g., book_16_fragmented_beginning_086_sanctuary_to_storm.md
+[TOKEN]    Waiting                        |   5 files | e.g., book_20_the_discordant_pulse_south_104_the_rising_tide.md
+[TOKEN]    War                            |   5 files | e.g., book_04_sage_saga_017_niburu_shadow.md
+[TOKEN]    Wasn't                         |   5 files | e.g., book_01_book_of_genesis_004_the_convergence.md
+[TOKEN]    Waters                         |   5 files | e.g., book_04_sage_saga_020_the_collapse.md
+[TOKEN]    Words                          |   5 files | e.g., book_05_the_nameless_one_024_the_first_spark.md
+[TOKEN]    Xal'Zirith                     |   5 files | e.g., book_06_the_ragnarok_030_ummade_army.md
+[TOKEN]    Yeah                           |   5 files | e.g., book_22_listening_stone_south_114_resonance_of_stone.txt
+[PHRASE]   Aaon Keepers Earth             |   4 files | e.g., book_01_book_of_genesis_002_molten_descent.md
+[PHRASE]   Akashic Library                |   4 files | e.g., book_01_book_of_genesis_001_the_ethereal_vigil.md
+[PHRASE]   Behind Reptilian               |   4 files | e.g., book_02_age_of_servitude_007_the_needle_construction.md
+[PHRASE]   Below Spire                    |   4 files | e.g., book_06_the_ragnarok_034_the_250.md
+[PHRASE]   City Echoes                    |   4 files | e.g., book_09_bureaucratic_debt_053_the_twilight_city.md
+[PHRASE]   Crescent Mountains             |   4 files | e.g., book_06_the_ragnarok_035_sands_of_time.md
+[PHRASE]   Dawn New                       |   4 files | e.g., book_18_inquisition_of_yourself_095_roots_of_change.md
+[PHRASE]   Day Citadel                    |   4 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[PHRASE]   Day Deep                       |   4 files | e.g., book_03_the_reckoning_012_nephilim_summoning.md
+[PHRASE]   Day Enkialu Dawn               |   4 files | e.g., book_18_inquisition_of_yourself_095_roots_of_change.md
+[PHRASE]   Day Northern                   |   4 files | e.g., book_02_age_of_servitude_007_the_needle_construction.md
+[PHRASE]   Deep Waters                    |   4 files | e.g., book_04_sage_saga_020_the_collapse.md
+[PHRASE]   END EXPANSION                  |   4 files | e.g., book_11_blood_and_legacy_063_the_iron_hand.md
+[PHRASE]   Earth Prime                    |   4 files | e.g., book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+[PHRASE]   Earth Surface                  |   4 files | e.g., book_01_book_of_genesis_002_molten_descent.md
+[PHRASE]   Enkialu Dawn                   |   4 files | e.g., book_18_inquisition_of_yourself_095_roots_of_change.md
+[PHRASE]   Enkialu Dawn New               |   4 files | e.g., book_18_inquisition_of_yourself_095_roots_of_change.md
+[PHRASE]   Enlil Nammu                    |   4 files | e.g., book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_119_resonance_of_the_first_point.txt
+[PHRASE]   Ghost Spire                    |   4 files | e.g., book_09_bureaucratic_debt_049_the_eastern_claim.md
+[PHRASE]   Good Kaelen                    |   4 files | e.g., book_06_the_ragnarok_032_the_redo.md
+[PHRASE]   Heart Faraxar                  |   4 files | e.g., book_06_the_ragnarok_035_sands_of_time.md
+[PHRASE]   Hub Needle                     |   4 files | e.g., book_08_the_vigil_of_the_anchor_044_the_mountains_shadow.md
+[PHRASE]   Iron Guard                     |   4 files | e.g., book_11_blood_and_legacy_063_the_iron_hand.md
+[PHRASE]   It's Isla                      |   4 files | e.g., book_16_fragmented_beginning_085_ancient_knowledge.md
+[PHRASE]   Kael Renn                      |   4 files | e.g., book_20_the_discordant_pulse_south_103_the_second_song_resonance_of_a_broken_needle.md
+[PHRASE]   Keen Moon                      |   4 files | e.g., book_14_lessons_of_inheritance_077_introducing_the_sage.md
+[PHRASE]   Keepers Earth                  |   4 files | e.g., book_01_book_of_genesis_002_molten_descent.md
+[PHRASE]   Keepers Earth Surface          |   4 files | e.g., book_01_book_of_genesis_002_molten_descent.md
+[PHRASE]   Mars Spire                     |   4 files | e.g., book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+[PHRASE]   Mika Keen                      |   4 files | e.g., book_12_forged_identity_071_cosmic_teachers_arrive.md
+[PHRASE]   Month Day Citadel              |   4 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[PHRASE]   Month Day Northern             |   4 files | e.g., book_02_age_of_servitude_007_the_needle_construction.md
+[PHRASE]   Moon Queen                     |   4 files | e.g., book_09_bureaucratic_debt_054_tue_lunar_spire.md
+[PHRASE]   Nammu Enlil                    |   4 files | e.g., book_24_threshold_and_network_south_121_aligning_the_pattern_at_the_labyrinths_threshold.txt
+[PHRASE]   Needle Spire                   |   4 files | e.g., book_06_the_ragnarok_036_highland_giants.md
+[PHRASE]   Other Giants                   |   4 files | e.g., book_01_book_of_genesis_002_molten_descent.md
+[PHRASE]   Queen Eduhauana's              |   4 files | e.g., book_02_age_of_servitude_008_queens_assessment.md
+[PHRASE]   Resonance Keeper               |   4 files | e.g., book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+[PHRASE]   Sage Torrhen's                 |   4 files | e.g., book_04_sage_saga_019_the_sacrafice.md
+[PHRASE]   Senareth Prime                 |   4 files | e.g., book_01_book_of_genesis_002_molten_descent.md
+[PHRASE]   Sera Zephyr                    |   4 files | e.g., book_22_listening_stone_south_116_keepers_recognition.txt
+[PHRASE]   Shadow Weaver                  |   4 files | e.g., book_09_bureaucratic_debt_051_arrival_in_fire.md
+[PHRASE]   Sundrift Valley                |   4 files | e.g., book_11_blood_and_legacy_060_echoes_of_the_cradle.md
+[PHRASE]   Temporal Nexus                 |   4 files | e.g., book_12_forged_identity_068_brotherhood_revealed.md
+[PHRASE]   Thang Caelum                   |   4 files | e.g., book_16_fragmented_beginning_084_earth_giants_and_diverging_paths.md
+[PHRASE]   Then Enlil                     |   4 files | e.g., book_04_sage_saga_017_niburu_shadow.md
+[PHRASE]   Then Zephyr                    |   4 files | e.g., book_14_lessons_of_inheritance_077_introducing_the_sage.md
+[PHRASE]   Through Keen                   |   4 files | e.g., book_11_blood_and_legacy_060_echoes_of_the_cradle.md
+[PHRASE]   Tidecaller Giants              |   4 files | e.g., book_02_age_of_servitude_008_queens_assessment.md
+[PHRASE]   Total End                      |   4 files | e.g., book_02_age_of_servitude_007_the_needle_construction.md
+[PHRASE]   Void Needle                    |   4 files | e.g., book_15_legends_and_gods_082_pyroclasts_burning_secrets.md
+[PHRASE]   Void Spire's                   |   4 files | e.g., book_17_ancestral_debt_088_shadows_of_umbrageous_fixed.md
+[PHRASE]   Warden Breach                  |   4 files | e.g., book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+[PHRASE]   Why Because                    |   4 files | e.g., book_06_the_ragnarok_031_the_crash_site.md
+[PHRASE]   Wise Ones                      |   4 files | e.g., book_10_infernal_vigil_056_erasures_edge.md
+[PHRASE]   Xal Zirith                     |   4 files | e.g., book_07_light_resonance_and_the_function_037_the_circle_of_progress.md
+[PHRASE]   Zar Vokh                       |   4 files | e.g., book_09_bureaucratic_debt_049_the_eastern_claim.md
+[TOKEN]    ALL                            |   4 files | e.g., book_03_the_reckoning_014_convergence.md
+[TOKEN]    ANCHOR                         |   4 files | e.g., book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+[TOKEN]    ARRIVAL                        |   4 files | e.g., book_09_bureaucratic_debt_048_the_ledger_born.md
+[TOKEN]    ASSAULT                        |   4 files | e.g., book_08_the_vigil_of_the_anchor_042_the_verdant_crossing.md
+[TOKEN]    Absence                        |   4 files | e.g., book_08_the_vigil_of_the_anchor_045_the_hub_falls.md
+[TOKEN]    Across                         |   4 files | e.g., book_04_sage_saga_020_the_collapse.md
+[TOKEN]    Althurion                      |   4 files | e.g., book_06_the_ragnarok_036_highland_giants.md
+[TOKEN]    Always                         |   4 files | e.g., book_06_the_ragnarok_033_the_march.md
+[TOKEN]    Ambient                        |   4 files | e.g., book_06_the_ragnarok_034_the_250.md
+[TOKEN]    Analysis                       |   4 files | e.g., book_08_the_vigil_of_the_anchor_045_the_hub_falls.md
+[TOKEN]    Awakening                      |   4 files | e.g., book_14_lessons_of_inheritance_075_anchor_points_of_time.md
+[TOKEN]    Born                           |   4 files | e.g., book_04_sage_saga_021_the_first_lesson.md
+[TOKEN]    Breaking                       |   4 files | e.g., book_05_the_nameless_one_027_the_claiming.md
+[TOKEN]    Bridge                         |   4 files | e.g., book_14_lessons_of_inheritance_073_stone_and_root.md
+[TOKEN]    Broken                         |   4 files | e.g., book_03_the_reckoning_011_escalation_and_desperation.md
+[TOKEN]    CONTROL                        |   4 files | e.g., book_05_the_nameless_one_025_confined_freedom.md
+[TOKEN]    Chronohounds                   |   4 files | e.g., book_06_the_ragnarok_032_the_redo.md
+[TOKEN]    Collapse                       |   4 files | e.g., book_02_age_of_servitude_005_the_garden_blooms.md
+[TOKEN]    Coming's                       |   4 files | e.g., book_03_the_reckoning_010_shadow_returns_second_coming.md
+[TOKEN]    Construction                   |   4 files | e.g., book_02_age_of_servitude_005_the_garden_blooms.md
+[TOKEN]    Containment                    |   4 files | e.g., book_09_bureaucratic_debt_049_the_eastern_claim.md
+[TOKEN]    Correct                        |   4 files | e.g., book_05_the_nameless_one_024_the_first_spark.md
+[TOKEN]    Cosmic                         |   4 files | e.g., book_12_forged_identity_071_cosmic_teachers_arrive.md
+[TOKEN]    Crescent                       |   4 files | e.g., book_06_the_ragnarok_035_sands_of_time.md
+[TOKEN]    Crossroads                     |   4 files | e.g., book_15_legends_and_gods_079_mages_awakening.md
+[TOKEN]    Crown                          |   4 files | e.g., book_09_bureaucratic_debt_053_the_twilight_city.md
+[TOKEN]    Culling                        |   4 files | e.g., book_04_sage_saga_020_the_collapse.md
+[TOKEN]    Current                        |   4 files | e.g., book_09_bureaucratic_debt_049_the_eastern_claim.md
+[TOKEN]    Damu                           |   4 files | e.g., book_20_the_discordant_pulse_south_106_sky_fallen.txt
+[TOKEN]    Darkness                       |   4 files | e.g., book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+[TOKEN]    Depths                         |   4 files | e.g., book_12_forged_identity_071_cosmic_teachers_arrive.md
+[TOKEN]    Distance                       |   4 files | e.g., book_05_the_nameless_one_025_confined_freedom.md
+[TOKEN]    Doesn't                        |   4 files | e.g., book_21_needle_and_thread_south_112_eastern_system.txt
+[TOKEN]    Dominion                       |   4 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[TOKEN]    Draconic                       |   4 files | e.g., book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+[TOKEN]    Dren                           |   4 files | e.g., book_05_the_nameless_one_028_ragnarok.md
+[TOKEN]    EXPANSION                      |   4 files | e.g., book_11_blood_and_legacy_063_the_iron_hand.md
+[TOKEN]    Elyraen                        |   4 files | e.g., book_01_book_of_genesis_002_molten_descent.md
+[TOKEN]    Enheduanna's                   |   4 files | e.g., book_09_bureaucratic_debt_054_tue_lunar_spire.md
+[TOKEN]    Environmental                  |   4 files | e.g., book_08_the_vigil_of_the_anchor_043_the_badlands_crucible.md
+[TOKEN]    Even                           |   4 files | e.g., book_05_the_nameless_one_024_the_first_spark.md
+[TOKEN]    Evolution                      |   4 files | e.g., book_01_book_of_genesis_001_the_ethereal_vigil.md
+[TOKEN]    Extreme                        |   4 files | e.g., book_06_the_ragnarok_032_the_redo.md
+[TOKEN]    FIRE                           |   4 files | e.g., book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
+[TOKEN]    Galactic                       |   4 files | e.g., book_05_the_nameless_one_024_the_first_spark.md
+[TOKEN]    Gathering                      |   4 files | e.g., book_15_legends_and_gods_079_mages_awakening.md
+[TOKEN]    Genesis                        |   4 files | e.g., book_01_book_of_genesis_001_the_ethereal_vigil.md
+[TOKEN]    Ghost                          |   4 files | e.g., book_09_bureaucratic_debt_049_the_eastern_claim.md
+[TOKEN]    Guardian's                     |   4 files | e.g., book_09_bureaucratic_debt_050_the_scout.md
+[TOKEN]    Heaven                         |   4 files | e.g., book_08_the_vigil_of_the_anchor_045_the_hub_falls.md
+[TOKEN]    Hope                           |   4 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[TOKEN]    Inside                         |   4 files | e.g., book_08_the_vigil_of_the_anchor_043_the_badlands_crucible.md
+[TOKEN]    Ishara                         |   4 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[TOKEN]    Jin                            |   4 files | e.g., book_05_the_nameless_one_026_dragonmail.md
+[TOKEN]    Journey                        |   4 files | e.g., book_05_the_nameless_one_027_the_claiming.md
+[TOKEN]    Kael's                         |   4 files | e.g., book_20_the_discordant_pulse_south_106_sky_fallen.txt
+[TOKEN]    Knowing                        |   4 files | e.g., book_17_ancestral_debt_089_the_white_mirror.md
+[TOKEN]    Korr                           |   4 files | e.g., book_21_needle_and_thread_south_107_the_waking.txt
+[TOKEN]    Korrhan                        |   4 files | e.g., book_03_the_reckoning_010_shadow_returns_second_coming.md
+[TOKEN]    Kulla                          |   4 files | e.g., book_09_bureaucratic_debt_055_the_anchors_forge.md
+[TOKEN]    Later                          |   4 files | e.g., book_20_the_discordant_pulse_south_104_the_rising_tide.md
+[TOKEN]    Lentharis                      |   4 files | e.g., book_09_bureaucratic_debt_049_the_eastern_claim.md
+[TOKEN]    Let                            |   4 files | e.g., book_03_the_reckoning_009_stalemate_departure_the_first_coming.md
+[TOKEN]    Living                         |   4 files | e.g., book_14_lessons_of_inheritance_073_stone_and_root.md
+[TOKEN]    Lord                           |   4 files | e.g., book_11_blood_and_legacy_063_the_iron_hand.md
+[TOKEN]    Ma'at's                        |   4 files | e.g., book_20_the_discordant_pulse_south_106_sky_fallen.txt
+[TOKEN]    Mathematics                    |   4 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[TOKEN]    NOW                            |   4 files | e.g., book_05_the_nameless_one_025_confined_freedom.md
+[TOKEN]    Nothing                        |   4 files | e.g., book_05_the_nameless_one_027_the_claiming.md
+[TOKEN]    Null                           |   4 files | e.g., book_09_bureaucratic_debt_052_entry_without_standing.md
+[TOKEN]    Nyxthoria                      |   4 files | e.g., book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+[TOKEN]    Observer's                     |   4 files | e.g., book_09_bureaucratic_debt_054_tue_lunar_spire.md
+[TOKEN]    Old                            |   4 files | e.g., book_09_bureaucratic_debt_053_the_twilight_city.md
+[TOKEN]    Olythae                        |   4 files | e.g., book_01_book_of_genesis_002_molten_descent.md
+[TOKEN]    Orbital                        |   4 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[TOKEN]    Overseer's                     |   4 files | e.g., book_05_the_nameless_one_024_the_first_spark.md
+[TOKEN]    PROTOCOLS                      |   4 files | e.g., book_07_light_resonance_and_the_function_039_jungle_fever.md
+[TOKEN]    Planetary                      |   4 files | e.g., book_01_book_of_genesis_001_the_ethereal_vigil.md
+[TOKEN]    Presence                       |   4 files | e.g., book_08_the_vigil_of_the_anchor_045_the_hub_falls.md
+[TOKEN]    Probably                       |   4 files | e.g., book_06_the_ragnarok_030_ummade_army.md
+[TOKEN]    Processing                     |   4 files | e.g., book_05_the_nameless_one_028_ragnarok.md
+[TOKEN]    Pulse                          |   4 files | e.g., book_20_the_discordant_pulse_south_105_garden_grove.md
+[TOKEN]    Purpose                        |   4 files | e.g., book_05_the_nameless_one_025_confined_freedom.md
+[TOKEN]    Question                       |   4 files | e.g., book_05_the_nameless_one_025_confined_freedom.md
+[TOKEN]    RETURN                         |   4 files | e.g., book_08_the_vigil_of_the_anchor_047_mika.md
+[TOKEN]    Ragnarok's                     |   4 files | e.g., book_05_the_nameless_one_028_ragnarok.md
+[TOKEN]    Renn                           |   4 files | e.g., book_20_the_discordant_pulse_south_103_the_second_song_resonance_of_a_broken_needle.md
+[TOKEN]    SACRIFICE                      |   4 files | e.g., book_04_sage_saga_019_the_sacrafice.md
+[TOKEN]    Safe                           |   4 files | e.g., book_07_light_resonance_and_the_function_039_jungle_fever.md
+[TOKEN]    Saresh                         |   4 files | e.g., book_03_the_reckoning_011_escalation_and_desperation.md
+[TOKEN]    Scorch                         |   4 files | e.g., book_06_the_ragnarok_035_sands_of_time.md
+[TOKEN]    Sek'han                        |   4 files | e.g., book_08_the_vigil_of_the_anchor_047_mika.md
+[TOKEN]    Senareth's                     |   4 files | e.g., book_01_book_of_genesis_002_molten_descent.md
+[TOKEN]    Sensory                        |   4 files | e.g., book_11_blood_and_legacy_063_the_iron_hand.md
+[TOKEN]    Sequence                       |   4 files | e.g., book_11_blood_and_legacy_064_pass_through_shadow_and_flame.md
+[TOKEN]    Shaping                        |   4 files | e.g., book_01_book_of_genesis_003_first_contact.md
+[TOKEN]    Shared                         |   4 files | e.g., book_05_the_nameless_one_025_confined_freedom.md
+[TOKEN]    Solantri                       |   4 files | e.g., book_09_bureaucratic_debt_053_the_twilight_city.md
+[TOKEN]    Something                      |   4 files | e.g., book_04_sage_saga_020_the_collapse.md
+[TOKEN]    Sovereign                      |   4 files | e.g., book_02_age_of_servitude_008_queens_assessment.md
+[TOKEN]    Split                          |   4 files | e.g., book_20_the_discordant_pulse_south_106_sky_fallen.txt
+[TOKEN]    Subchapter                     |   4 files | e.g., book_04_sage_saga_016_the_choice_third_coming.md
+[TOKEN]    Sun's                          |   4 files | e.g., book_12_forged_identity_067_the_shattered_mind.md
+[TOKEN]    Sundering's                    |   4 files | e.g., book_03_the_reckoning_010_shadow_returns_second_coming.md
+[TOKEN]    Swami'Pai's                    |   4 files | e.g., book_14_lessons_of_inheritance_074_sunbound.md
+[TOKEN]    Synthesis                      |   4 files | e.g., book_04_sage_saga_020_the_collapse.md
+[TOKEN]    THREE                          |   4 files | e.g., book_06_the_ragnarok_030_ummade_army.md
+[TOKEN]    Territory                      |   4 files | e.g., book_03_the_reckoning_010_shadow_returns_second_coming.md
+[TOKEN]    Test                           |   4 files | e.g., book_15_legends_and_gods_078_the_queens_return.md
+[TOKEN]    Thirty                         |   4 files | e.g., book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
+[TOKEN]    Throne                         |   4 files | e.g., book_11_blood_and_legacy_064_pass_through_shadow_and_flame.md
+[TOKEN]    Tides                          |   4 files | e.g., book_03_the_reckoning_011_escalation_and_desperation.md
+[TOKEN]    Titanborn                      |   4 files | e.g., book_17_ancestral_debt_089_the_white_mirror.md
+[TOKEN]    Torren                         |   4 files | e.g., book_07_light_resonance_and_the_function_037_the_circle_of_progress.md
+[TOKEN]    Tree                           |   4 files | e.g., book_01_book_of_genesis_003_first_contact.md
+[TOKEN]    True                           |   4 files | e.g., book_01_book_of_genesis_001_the_ethereal_vigil.md
+[TOKEN]    Use                            |   4 files | e.g., book_05_the_nameless_one_026_dragonmail.md
+[TOKEN]    Veylan                         |   4 files | e.g., book_15_legends_and_gods_079_mages_awakening.md
+[TOKEN]    Vokh                           |   4 files | e.g., book_09_bureaucratic_debt_049_the_eastern_claim.md
+[TOKEN]    Voss                           |   4 files | e.g., book_07_light_resonance_and_the_function_037_the_circle_of_progress.md
+[TOKEN]    Wait                           |   4 files | e.g., book_07_light_resonance_and_the_function_039_jungle_fever.md
+[TOKEN]    Wastes                         |   4 files | e.g., book_06_the_ragnarok_031_the_crash_site.md
+[TOKEN]    Where                          |   4 files | e.g., book_05_the_nameless_one_025_confined_freedom.md
+[TOKEN]    Word                           |   4 files | e.g., book_15_legends_and_gods_081_mr_gpt_arrival.md
+[TOKEN]    Work                           |   4 files | e.g., book_04_sage_saga_016_the_choice_third_coming.md
+[TOKEN]    Xal                            |   4 files | e.g., book_07_light_resonance_and_the_function_037_the_circle_of_progress.md
+[TOKEN]    Xal'Zirith's                   |   4 files | e.g., book_06_the_ragnarok_030_ummade_army.md
+[TOKEN]    Xytheria                       |   4 files | e.g., book_09_bureaucratic_debt_049_the_eastern_claim.md
+[TOKEN]    Zar                            |   4 files | e.g., book_09_bureaucratic_debt_049_the_eastern_claim.md
+[TOKEN]    Zirith                         |   4 files | e.g., book_07_light_resonance_and_the_function_037_the_circle_of_progress.md
+[TOKEN]    Zypher                         |   4 files | e.g., book_06_the_ragnarok_036_highland_giants.md
+[PHRASE]   Aeon Keeper's                  |   3 files | e.g., book_05_the_nameless_one_026_dragonmail.md
+[PHRASE]   Air Veins                      |   3 files | e.g., book_18_inquisition_of_yourself_097_hearts_of_ash_and_fire.md
+[PHRASE]   Before Keen                    |   3 files | e.g., book_15_legends_and_gods_082_pyroclasts_burning_secrets.md
+[PHRASE]   Before Sera                    |   3 files | e.g., book_20_the_discordant_pulse_south_106_sky_fallen.txt
+[PHRASE]   Brak Keth Sera                 |   3 files | e.g., book_22_listening_stone_south_116_keepers_recognition.txt
+[PHRASE]   Caelum Onyx's                  |   3 files | e.g., book_15_legends_and_gods_080_the_whispers_between_worlds.md
+[PHRASE]   Causal Inertia                 |   3 files | e.g., book_09_bureaucratic_debt_054_tue_lunar_spire.md
+[PHRASE]   Coming Giant                   |   3 files | e.g., book_16_fragmented_beginning_084_earth_giants_and_diverging_paths.md
+[PHRASE]   Day Genesis                    |   3 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[PHRASE]   Day Northern Nexus             |   3 files | e.g., book_02_age_of_servitude_007_the_needle_construction.md
+[PHRASE]   Deep Waters Torrhen            |   3 files | e.g., book_04_sage_saga_020_the_collapse.md
+[PHRASE]   Desert Giants                  |   3 files | e.g., book_01_book_of_genesis_004_the_convergence.md
+[PHRASE]   Draconic Warden                |   3 files | e.g., book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+[PHRASE]   Draconic Warden Breach         |   3 files | e.g., book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+[PHRASE]   Dragon Mail Zaron's            |   3 files | e.g., book_06_the_ragnarok_030_ummade_army.md
+[PHRASE]   Dragon Nebula                  |   3 files | e.g., book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+[PHRASE]   Earth Giants                   |   3 files | e.g., book_16_fragmented_beginning_084_earth_giants_and_diverging_paths.md
+[PHRASE]   Earth Moon                     |   3 files | e.g., book_14_lessons_of_inheritance_073_stone_and_root.md
+[PHRASE]   Earth Spire                    |   3 files | e.g., book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+[PHRASE]   Earth Surface Coastal          |   3 files | e.g., book_01_book_of_genesis_002_molten_descent.md
+[PHRASE]   Echo Crown                     |   3 files | e.g., book_09_bureaucratic_debt_053_the_twilight_city.md
+[PHRASE]   End End                        |   3 files | e.g., book_19_worthy_opponents_north_102_convergence_on_mars.md
+[PHRASE]   Enhanced Sensory               |   3 files | e.g., book_11_blood_and_legacy_064_pass_through_shadow_and_flame.md
+[PHRASE]   Enlil Sera                     |   3 files | e.g., book_24_threshold_and_network_south_122_unravealing.txt
+[PHRASE]   Enlil's Sera's                 |   3 files | e.g., book_24_threshold_and_network_south_122_unravealing.txt
+[PHRASE]   Finally Mika                   |   3 files | e.g., book_06_the_ragnarok_030_ummade_army.md
+[PHRASE]   Forest Needle                  |   3 files | e.g., book_08_the_vigil_of_the_anchor_043_the_badlands_crucible.md
+[PHRASE]   Forge Primarch                 |   3 files | e.g., book_18_inquisition_of_yourself_097_hearts_of_ash_and_fire.md
+[PHRASE]   Foundation Chamber             |   3 files | e.g., book_14_lessons_of_inheritance_073_stone_and_root.md
+[PHRASE]   Fracture Nexus                 |   3 files | e.g., book_06_the_ragnarok_034_the_250.md
+[PHRASE]   Fragment Bearer                |   3 files | e.g., book_16_fragmented_beginning_084_earth_giants_and_diverging_paths.md
+[PHRASE]   Fragment Keeper                |   3 files | e.g., book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
+[PHRASE]   Fragment Keeper Crossroads     |   3 files | e.g., book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
+[PHRASE]   Gaiana Stoneheart              |   3 files | e.g., book_16_fragmented_beginning_084_earth_giants_and_diverging_paths.md
+[PHRASE]   Galactic Federation            |   3 files | e.g., book_05_the_nameless_one_024_the_first_spark.md
+[PHRASE]   Genesis Chambers               |   3 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[PHRASE]   Giant Giant                    |   3 files | e.g., book_03_the_reckoning_010_shadow_returns_second_coming.md
+[PHRASE]   Giants Zephyr                  |   3 files | e.g., book_22_listening_stone_south_113_the_edge_of_return.txt
+[PHRASE]   Grand Spire                    |   3 files | e.g., book_19_worthy_opponents_north_099_the_final_breath.md
+[PHRASE]   Grove Giants                   |   3 files | e.g., book_20_the_discordant_pulse_south_103_the_second_song_resonance_of_a_broken_needle.md
+[PHRASE]   Highland Forest                |   3 files | e.g., book_18_inquisition_of_yourself_095_roots_of_change.md
+[PHRASE]   Highland Giant                 |   3 files | e.g., book_16_fragmented_beginning_086_sanctuary_to_storm.md
+[PHRASE]   How Kaelen                     |   3 files | e.g., book_06_the_ragnarok_034_the_250.md
+[PHRASE]   How Zephyr                     |   3 files | e.g., book_04_sage_saga_018_the_wandering.md
+[PHRASE]   Irix Thal                      |   3 files | e.g., book_17_ancestral_debt_088_shadows_of_umbrageous_fixed.md
+[PHRASE]   Ironspire Isla                 |   3 files | e.g., book_16_fragmented_beginning_085_ancient_knowledge.md
+[PHRASE]   Ironspire Mika                 |   3 files | e.g., book_06_the_ragnarok_035_sands_of_time.md
+[PHRASE]   Isla Tongue                    |   3 files | e.g., book_12_forged_identity_071_cosmic_teachers_arrive.md
+[PHRASE]   Isla Voice                     |   3 files | e.g., book_18_inquisition_of_yourself_095_roots_of_change.md
+[PHRASE]   Isla Voice Air                 |   3 files | e.g., book_18_inquisition_of_yourself_095_roots_of_change.md
+[PHRASE]   Isla's Tongue                  |   3 files | e.g., book_11_blood_and_legacy_066_the_first_tongue.md
+[PHRASE]   Kael Tess                      |   3 files | e.g., book_05_the_nameless_one_026_dragonmail.md
+[PHRASE]   Kael Tess Ren                  |   3 files | e.g., book_05_the_nameless_one_026_dragonmail.md
+[PHRASE]   Keen Moon Kingdom              |   3 files | e.g., book_14_lessons_of_inheritance_077_introducing_the_sage.md
+[PHRASE]   Keen Rongtai                   |   3 files | e.g., book_18_inquisition_of_yourself_094_chains_of_light.md
+[PHRASE]   Keeper Crossroads              |   3 files | e.g., book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
+[PHRASE]   Keeper Void                    |   3 files | e.g., book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
+[PHRASE]   Keepers Tiamat                 |   3 files | e.g., book_16_fragmented_beginning_084_earth_giants_and_diverging_paths.md
+[PHRASE]   Keth Sera                      |   3 files | e.g., book_22_listening_stone_south_116_keepers_recognition.txt
+[PHRASE]   Khal Zur                       |   3 files | e.g., book_17_ancestral_debt_088_shadows_of_umbrageous_fixed.md
+[PHRASE]   Kronocht Elder                 |   3 files | e.g., book_19_worthy_opponents_north_098_depths_of_memory.md
+[PHRASE]   Like Kaelen                    |   3 files | e.g., book_06_the_ragnarok_032_the_redo.md
+[PHRASE]   Lord Stormhelm                 |   3 files | e.g., book_11_blood_and_legacy_063_the_iron_hand.md
+[PHRASE]   Mail Zaron's                   |   3 files | e.g., book_06_the_ragnarok_030_ummade_army.md
+[PHRASE]   Manifestation Senareth         |   3 files | e.g., book_01_book_of_genesis_002_molten_descent.md
+[PHRASE]   Manifestation Senareth Prime   |   3 files | e.g., book_01_book_of_genesis_002_molten_descent.md
+[PHRASE]   Mars Keen                      |   3 files | e.g., book_17_ancestral_debt_091_the_weight_of_memory.md
+[PHRASE]   Mars Void                      |   3 files | e.g., book_17_ancestral_debt_091_the_weight_of_memory.md
+[PHRASE]   Mars Void Spire                |   3 files | e.g., book_17_ancestral_debt_091_the_weight_of_memory.md
+[PHRASE]   Medicae Rig                    |   3 files | e.g., book_07_light_resonance_and_the_function_037_the_circle_of_progress.md
+[PHRASE]   Memory Pool                    |   3 files | e.g., book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
+[PHRASE]   Mika Legion                    |   3 files | e.g., book_08_the_vigil_of_the_anchor_043_the_badlands_crucible.md
+[PHRASE]   Mika Zephyr                    |   3 files | e.g., book_08_the_vigil_of_the_anchor_047_mika.md
+[PHRASE]   Month Day Genesis              |   3 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[PHRASE]   Moon Queen's                   |   3 files | e.g., book_09_bureaucratic_debt_054_tue_lunar_spire.md
+[PHRASE]   Mountain Giant                 |   3 files | e.g., book_01_book_of_genesis_004_the_convergence.md
+[PHRASE]   Nameless One's                 |   3 files | e.g., book_05_the_nameless_one_024_the_first_spark.md
+[PHRASE]   Nammu Enlil Sera               |   3 files | e.g., book_24_threshold_and_network_south_122_unravealing.txt
+[PHRASE]   Nammu's Enlil's                |   3 files | e.g., book_24_threshold_and_network_south_121_aligning_the_pattern_at_the_labyrinths_threshold.txt
+[PHRASE]   Needle Spires                  |   3 files | e.g., book_06_the_ragnarok_036_highland_giants.md
+[PHRASE]   Nexus Site                     |   3 files | e.g., book_02_age_of_servitude_007_the_needle_construction.md
+[PHRASE]   Northern Nexus                 |   3 files | e.g., book_02_age_of_servitude_007_the_needle_construction.md
+[PHRASE]   Northern Nexus Site            |   3 files | e.g., book_02_age_of_servitude_007_the_needle_construction.md
+[PHRASE]   Now I'm                        |   3 files | e.g., book_05_the_nameless_one_028_ragnarok.md
+[PHRASE]   Now Kaelen                     |   3 files | e.g., book_06_the_ragnarok_032_the_redo.md
+[PHRASE]   Oreck Kyh                      |   3 files | e.g., book_09_bureaucratic_debt_051_arrival_in_fire.md
+[PHRASE]   Oreck Mika                     |   3 files | e.g., book_06_the_ragnarok_033_the_march.md
+[PHRASE]   Overseer Marduk                |   3 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[PHRASE]   Overseer Ninurta               |   3 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[PHRASE]   PUNISHMENT Subchapter          |   3 files | e.g., book_04_sage_saga_016_the_choice_third_coming.md
+[PHRASE]   PUNISHMENT Subchapter Freedom  |   3 files | e.g., book_04_sage_saga_016_the_choice_third_coming.md
+[PHRASE]   Phoenix Host                   |   3 files | e.g., book_11_blood_and_legacy_061_the_hier.md
+[PHRASE]   Plains Needle                  |   3 files | e.g., book_08_the_vigil_of_the_anchor_043_the_badlands_crucible.md
+[PHRASE]   Post Manifestation             |   3 files | e.g., book_01_book_of_genesis_002_molten_descent.md
+[PHRASE]   Post Manifestation Senareth    |   3 files | e.g., book_01_book_of_genesis_002_molten_descent.md
+[PHRASE]   Prime Resonance                |   3 files | e.g., book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+[PHRASE]   Private Ren                    |   3 files | e.g., book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+[PHRASE]   Queen Enheduanna               |   3 files | e.g., book_09_bureaucratic_debt_052_entry_without_standing.md
+[PHRASE]   Queen Spire                    |   3 files | e.g., book_06_the_ragnarok_032_the_redo.md
+[PHRASE]   Resonant Keeper                |   3 files | e.g., book_06_the_ragnarok_035_sands_of_time.md
+[PHRASE]   Rongtai Isla                   |   3 files | e.g., book_16_fragmented_beginning_084_earth_giants_and_diverging_paths.md
+[PHRASE]   Rongtai Thang                  |   3 files | e.g., book_11_blood_and_legacy_061_the_hier.md
+[PHRASE]   Roric Kael                     |   3 files | e.g., book_06_the_ragnarok_033_the_march.md
+[PHRASE]   Scene Establishes              |   3 files | e.g., book_26_the_seam_long_dark_south_132_white_lightning.txt
+[PHRASE]   Sector Gamma                   |   3 files | e.g., book_07_light_resonance_and_the_function_037_the_circle_of_progress.md
+[PHRASE]   Solar Throne                   |   3 files | e.g., book_11_blood_and_legacy_064_pass_through_shadow_and_flame.md
+[PHRASE]   Somewhere Earth                |   3 files | e.g., book_10_infernal_vigil_056_erasures_edge.md
+[PHRASE]   Speaker Words                  |   3 files | e.g., book_12_forged_identity_071_cosmic_teachers_arrive.md
+[PHRASE]   Star Needles                   |   3 files | e.g., book_15_legends_and_gods_079_mages_awakening.md
+[PHRASE]   Starbound Queen                |   3 files | e.g., book_15_legends_and_gods_081_mr_gpt_arrival.md
+[PHRASE]   Stone Giants                   |   3 files | e.g., book_19_worthy_opponents_north_098_depths_of_memory.md
+[PHRASE]   Stone Jaw                      |   3 files | e.g., book_20_the_discordant_pulse_south_104_the_rising_tide.md
+[PHRASE]   Subchapter Freedom             |   3 files | e.g., book_04_sage_saga_016_the_choice_third_coming.md
+[PHRASE]   Sundrift Star                  |   3 files | e.g., book_11_blood_and_legacy_060_echoes_of_the_cradle.md
+[PHRASE]   Surface Coastal                |   3 files | e.g., book_01_book_of_genesis_002_molten_descent.md
+[PHRASE]   Targun Mossbinder              |   3 files | e.g., book_15_legends_and_gods_081_mr_gpt_arrival.md
+[PHRASE]   Temporal Guardians             |   3 files | e.g., book_14_lessons_of_inheritance_072_flow_between_moments.md
+[PHRASE]   Teryn Sera                     |   3 files | e.g., book_20_the_discordant_pulse_south_104_the_rising_tide.md
+[PHRASE]   Tess Ren                       |   3 files | e.g., book_05_the_nameless_one_026_dragonmail.md
+[PHRASE]   Thang Phoenix                  |   3 files | e.g., book_14_lessons_of_inheritance_074_sunbound.md
+[PHRASE]   That's I've                    |   3 files | e.g., book_05_the_nameless_one_026_dragonmail.md
+[PHRASE]   That's Isla                    |   3 files | e.g., book_15_legends_and_gods_079_mages_awakening.md
+[PHRASE]   That's Zephyr                  |   3 files | e.g., book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_118_the_constant_and_friction_of_becoming.txt
+[PHRASE]   Then Korr                      |   3 files | e.g., book_21_needle_and_thread_south_109_the_thread_and_cage.txt
+[PHRASE]   Then Oreck                     |   3 files | e.g., book_05_the_nameless_one_027_the_claiming.md
+[PHRASE]   Then Then                      |   3 files | e.g., book_21_needle_and_thread_south_110_the_bleeding_convergance.txt
+[PHRASE]   Then Torhh                     |   3 files | e.g., book_01_book_of_genesis_004_the_convergence.md
+[PHRASE]   They're Caelum                 |   3 files | e.g., book_15_legends_and_gods_080_the_whispers_between_worlds.md
+[PHRASE]   Through Luminaire              |   3 files | e.g., book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
+[PHRASE]   Tidecaller Mountain            |   3 files | e.g., book_02_age_of_servitude_005_the_garden_blooms.md
+[PHRASE]   Torrhen Deep                   |   3 files | e.g., book_04_sage_saga_021_the_first_lesson.md
+[PHRASE]   Tran's Zaron's                 |   3 files | e.g., book_18_inquisition_of_yourself_096_violet_convergence.md
+[PHRASE]   Tsunami Singer                 |   3 files | e.g., book_19_worthy_opponents_north_099_the_final_breath.md
+[PHRASE]   Ulric Lyra                     |   3 files | e.g., book_12_forged_identity_070_spheres_truth.md
+[PHRASE]   Umbra Planes                   |   3 files | e.g., book_09_bureaucratic_debt_049_the_eastern_claim.md
+[PHRASE]   Underground Giants             |   3 files | e.g., book_01_book_of_genesis_004_the_convergence.md
+[PHRASE]   Verdant Patriarch              |   3 files | e.g., book_18_inquisition_of_yourself_095_roots_of_change.md
+[PHRASE]   Voice Air Veins                |   3 files | e.g., book_18_inquisition_of_yourself_097_hearts_of_ash_and_fire.md
+[PHRASE]   Waters Torrhen                 |   3 files | e.g., book_04_sage_saga_020_the_collapse.md
+[PHRASE]   We're Caelum                   |   3 files | e.g., book_15_legends_and_gods_080_the_whispers_between_worlds.md
+[PHRASE]   Weight Knowing                 |   3 files | e.g., book_20_the_discordant_pulse_south_106_sky_fallen.txt
+[PHRASE]   When Thang                     |   3 files | e.g., book_15_legends_and_gods_081_mr_gpt_arrival.md
+[PHRASE]   When Tiamat                    |   3 files | e.g., book_01_book_of_genesis_001_the_ethereal_vigil.md
+[PHRASE]   When Torhh                     |   3 files | e.g., book_01_book_of_genesis_003_first_contact.md
+[PHRASE]   Yes Then                       |   3 files | e.g., book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_119_resonance_of_the_first_point.txt
+[PHRASE]   Zaron Aeon                     |   3 files | e.g., book_05_the_nameless_one_026_dragonmail.md
+[PHRASE]   Zaron Aeon Keeper              |   3 files | e.g., book_05_the_nameless_one_026_dragonmail.md
+[TOKEN]    AFTERMATH                      |   3 files | e.g., book_08_the_vigil_of_the_anchor_042_the_verdant_crossing.md
+[TOKEN]    APPLICATOR                     |   3 files | e.g., book_06_the_ragnarok_029_bounty_hunter.md
+[TOKEN]    Abyssal                        |   3 files | e.g., book_03_the_reckoning_011_escalation_and_desperation.md
+[TOKEN]    Accord                         |   3 files | e.g., book_09_bureaucratic_debt_052_entry_without_standing.md
+[TOKEN]    Activation                     |   3 files | e.g., book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_119_resonance_of_the_first_point.txt
+[TOKEN]    Agricultural                   |   3 files | e.g., book_11_blood_and_legacy_066_the_first_tongue.md
+[TOKEN]    Ahead                          |   3 files | e.g., book_06_the_ragnarok_034_the_250.md
+[TOKEN]    Alpha                          |   3 files | e.g., book_05_the_nameless_one_028_ragnarok.md
+[TOKEN]    Approved                       |   3 files | e.g., book_03_the_reckoning_009_stalemate_departure_the_first_coming.md
+[TOKEN]    Architects                     |   3 files | e.g., book_09_bureaucratic_debt_052_entry_without_standing.md
+[TOKEN]    Archive                        |   3 files | e.g., book_09_bureaucratic_debt_054_tue_lunar_spire.md
+[TOKEN]    Arcturian                      |   3 files | e.g., book_09_bureaucratic_debt_051_arrival_in_fire.md
+[TOKEN]    Armor                          |   3 files | e.g., book_05_the_nameless_one_026_dragonmail.md
+[TOKEN]    Asteroid                       |   3 files | e.g., book_09_bureaucratic_debt_055_the_anchors_forge.md
+[TOKEN]    Atmospheric                    |   3 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[TOKEN]    Awakens                        |   3 files | e.g., book_15_legends_and_gods_078_the_queens_return.md
+[TOKEN]    Basin                          |   3 files | e.g., book_02_age_of_servitude_005_the_garden_blooms.md
+[TOKEN]    Becoming                       |   3 files | e.g., book_04_sage_saga_018_the_wandering.md
+[TOKEN]    Betrayal                       |   3 files | e.g., book_03_the_reckoning_014_convergence.md
+[TOKEN]    Both                           |   3 files | e.g., book_06_the_ragnarok_030_ummade_army.md
+[TOKEN]    COMBAT                         |   3 files | e.g., book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
+[TOKEN]    COMPLETE                       |   3 files | e.g., book_03_the_reckoning_014_convergence.md
+[TOKEN]    CORRUPTION                     |   3 files | e.g., book_07_light_resonance_and_the_function_039_jungle_fever.md
+[TOKEN]    Caelum's                       |   3 files | e.g., book_15_legends_and_gods_080_the_whispers_between_worlds.md
+[TOKEN]    Calm                           |   3 files | e.g., book_20_the_discordant_pulse_south_104_the_rising_tide.md
+[TOKEN]    Cannot                         |   3 files | e.g., book_04_sage_saga_016_the_choice_third_coming.md
+[TOKEN]    Celly                          |   3 files | e.g., book_06_the_ragnarok_035_sands_of_time.md
+[TOKEN]    Center                         |   3 files | e.g., book_04_sage_saga_021_the_first_lesson.md
+[TOKEN]    Child                          |   3 files | e.g., book_21_needle_and_thread_south_111_the_resonance_a_garden_under_shadow.txt
+[TOKEN]    Chroniton                      |   3 files | e.g., book_06_the_ragnarok_032_the_redo.md
+[TOKEN]    Cliffs                         |   3 files | e.g., book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
+[TOKEN]    Coherence                      |   3 files | e.g., book_26_the_seam_long_dark_south_132_white_lightning.txt
+[TOKEN]    Collective                     |   3 files | e.g., book_01_book_of_genesis_002_molten_descent.md
+[TOKEN]    Come                           |   3 files | e.g., book_05_the_nameless_one_025_confined_freedom.md
+[TOKEN]    Completion                     |   3 files | e.g., book_14_lessons_of_inheritance_077_introducing_the_sage.md
+[TOKEN]    Complex                        |   3 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[TOKEN]    Constant                       |   3 files | e.g., book_21_needle_and_thread_south_110_the_bleeding_convergance.txt
+[TOKEN]    Constructs                     |   3 files | e.g., book_08_the_vigil_of_the_anchor_043_the_badlands_crucible.md
+[TOKEN]    Control                        |   3 files | e.g., book_05_the_nameless_one_028_ragnarok.md
+[TOKEN]    Core                           |   3 files | e.g., book_08_the_vigil_of_the_anchor_043_the_badlands_crucible.md
+[TOKEN]    Cradle                         |   3 files | e.g., book_03_the_reckoning_011_escalation_and_desperation.md
+[TOKEN]    Creation                       |   3 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[TOKEN]    Crimsonblood                   |   3 files | e.g., book_11_blood_and_legacy_065_secrets_of_the_deep.md
+[TOKEN]    Crystal                        |   3 files | e.g., book_05_the_nameless_one_025_confined_freedom.md
+[TOKEN]    DEEP                           |   3 files | e.g., book_04_sage_saga_020_the_collapse.md
+[TOKEN]    DESCENT                        |   3 files | e.g., book_09_bureaucratic_debt_050_the_scout.md
+[TOKEN]    DRAGON                         |   3 files | e.g., book_08_the_vigil_of_the_anchor_042_the_verdant_crossing.md
+[TOKEN]    Decision                       |   3 files | e.g., book_14_lessons_of_inheritance_075_anchor_points_of_time.md
+[TOKEN]    Deeper                         |   3 files | e.g., book_06_the_ragnarok_036_highland_giants.md
+[TOKEN]    Delta                          |   3 files | e.g., book_20_the_discordant_pulse_south_103_the_second_song_resonance_of_a_broken_needle.md
+[TOKEN]    Desperation                    |   3 files | e.g., book_03_the_reckoning_010_shadow_returns_second_coming.md
+[TOKEN]    Despite                        |   3 files | e.g., book_06_the_ragnarok_031_the_crash_site.md
+[TOKEN]    Discovery                      |   3 files | e.g., book_02_age_of_servitude_005_the_garden_blooms.md
+[TOKEN]    Door                           |   3 files | e.g., book_08_the_vigil_of_the_anchor_045_the_hub_falls.md
+[TOKEN]    Drift                          |   3 files | e.g., book_25_the_seam_evolutionary_south_130_within_tolerance.txt
+[TOKEN]    EASTERN                        |   3 files | e.g., book_08_the_vigil_of_the_anchor_043_the_badlands_crucible.md
+[TOKEN]    ENOUGH                         |   3 files | e.g., book_03_the_reckoning_014_convergence.md
+[TOKEN]    ETERNAL                        |   3 files | e.g., book_04_sage_saga_019_the_sacrafice.md
+[TOKEN]    Elyse                          |   3 files | e.g., book_11_blood_and_legacy_060_echoes_of_the_cradle.md
+[TOKEN]    Ember's                        |   3 files | e.g., book_25_the_seam_evolutionary_south_130_within_tolerance.txt
+[TOKEN]    Enhanced                       |   3 files | e.g., book_11_blood_and_legacy_064_pass_through_shadow_and_flame.md
+[TOKEN]    Enki                           |   3 files | e.g., book_20_the_discordant_pulse_south_106_sky_fallen.txt
+[TOKEN]    Enki's                         |   3 files | e.g., book_20_the_discordant_pulse_south_106_sky_fallen.txt
+[TOKEN]    Escalation                     |   3 files | e.g., book_02_age_of_servitude_007_the_needle_construction.md
+[TOKEN]    Establishes                    |   3 files | e.g., book_26_the_seam_long_dark_south_132_white_lightning.txt
+[TOKEN]    FIVE                           |   3 files | e.g., book_06_the_ragnarok_030_ummade_army.md
+[TOKEN]    Fall                           |   3 files | e.g., book_20_the_discordant_pulse_south_106_sky_fallen.txt
+[TOKEN]    False                          |   3 files | e.g., book_21_needle_and_thread_south_110_the_bleeding_convergance.txt
+[TOKEN]    Father                         |   3 files | e.g., book_09_bureaucratic_debt_049_the_eastern_claim.md
+[TOKEN]    Federation's                   |   3 files | e.g., book_05_the_nameless_one_024_the_first_spark.md
+[TOKEN]    Fifteen                        |   3 files | e.g., book_04_sage_saga_020_the_collapse.md
+[TOKEN]    Flames                         |   3 files | e.g., book_09_bureaucratic_debt_051_arrival_in_fire.md
+[TOKEN]    Flow                           |   3 files | e.g., book_14_lessons_of_inheritance_072_flow_between_moments.md
+[TOKEN]    Freeze                         |   3 files | e.g., book_04_sage_saga_017_niburu_shadow.md
+[TOKEN]    Future                         |   3 files | e.g., book_02_age_of_servitude_007_the_needle_construction.md
+[TOKEN]    Gaiana                         |   3 files | e.g., book_16_fragmented_beginning_084_earth_giants_and_diverging_paths.md
+[TOKEN]    Garden's                       |   3 files | e.g., book_01_book_of_genesis_004_the_convergence.md
+[TOKEN]    Garric                         |   3 files | e.g., book_11_blood_and_legacy_060_echoes_of_the_cradle.md
+[TOKEN]    General                        |   3 files | e.g., book_15_legends_and_gods_078_the_queens_return.md
+[TOKEN]    God                            |   3 files | e.g., book_08_the_vigil_of_the_anchor_046_not_like_this.md
+[TOKEN]    Granite's                      |   3 files | e.g., book_21_needle_and_thread_south_107_the_waking.txt
+[TOKEN]    Grid                           |   3 files | e.g., book_14_lessons_of_inheritance_072_flow_between_moments.md
+[TOKEN]    Grotto                         |   3 files | e.g., book_03_the_reckoning_011_escalation_and_desperation.md
+[TOKEN]    Ground                         |   3 files | e.g., book_20_the_discordant_pulse_south_103_the_second_song_resonance_of_a_broken_needle.md
+[TOKEN]    HERE                           |   3 files | e.g., book_08_the_vigil_of_the_anchor_045_the_hub_falls.md
+[TOKEN]    HOST                           |   3 files | e.g., book_07_light_resonance_and_the_function_039_jungle_fever.md
+[TOKEN]    Hadn't                         |   3 files | e.g., book_01_book_of_genesis_003_first_contact.md
+[TOKEN]    Herald                         |   3 files | e.g., book_09_bureaucratic_debt_050_the_scout.md
+[TOKEN]    Herald's                       |   3 files | e.g., book_09_bureaucratic_debt_050_the_scout.md
+[TOKEN]    Here's                         |   3 files | e.g., book_06_the_ragnarok_033_the_march.md
+[TOKEN]    Hidden                         |   3 files | e.g., book_11_blood_and_legacy_066_the_first_tongue.md
+[TOKEN]    Holding                        |   3 files | e.g., book_26_the_seam_long_dark_south_133_threshold.txt
+[TOKEN]    Holds                          |   3 files | e.g., book_22_listening_stone_south_114_resonance_of_stone.txt
+[TOKEN]    Home                           |   3 files | e.g., book_08_the_vigil_of_the_anchor_047_mika.md
+[TOKEN]    House                          |   3 files | e.g., book_10_infernal_vigil_057_enforced_enrollment.md
+[TOKEN]    Human                          |   3 files | e.g., book_05_the_nameless_one_028_ragnarok.md
+[TOKEN]    Inertia                        |   3 files | e.g., book_09_bureaucratic_debt_054_tue_lunar_spire.md
+[TOKEN]    Infrastructure                 |   3 files | e.g., book_01_book_of_genesis_001_the_ethereal_vigil.md
+[TOKEN]    Interior                       |   3 files | e.g., book_01_book_of_genesis_004_the_convergence.md
+[TOKEN]    Irix                           |   3 files | e.g., book_17_ancestral_debt_088_shadows_of_umbrageous_fixed.md
+[TOKEN]    Ironward                       |   3 files | e.g., book_11_blood_and_legacy_063_the_iron_hand.md
+[TOKEN]    Ishara's                       |   3 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[TOKEN]    Island                         |   3 files | e.g., book_01_book_of_genesis_004_the_convergence.md
+[TOKEN]    It'll                          |   3 files | e.g., book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
+[TOKEN]    Jaw                            |   3 files | e.g., book_20_the_discordant_pulse_south_104_the_rising_tide.md
+[TOKEN]    Jin's                          |   3 files | e.g., book_05_the_nameless_one_027_the_claiming.md
+[TOKEN]    Just                           |   3 files | e.g., book_07_light_resonance_and_the_function_039_jungle_fever.md
+[TOKEN]    Keep                           |   3 files | e.g., book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
+[TOKEN]    Kelvin                         |   3 files | e.g., book_16_fragmented_beginning_086_sanctuary_to_storm.md
+[TOKEN]    Kessa                          |   3 files | e.g., book_08_the_vigil_of_the_anchor_043_the_badlands_crucible.md
+[TOKEN]    Khal                           |   3 files | e.g., book_17_ancestral_debt_088_shadows_of_umbrageous_fixed.md
+[TOKEN]    Korr's                         |   3 files | e.g., book_21_needle_and_thread_south_109_the_thread_and_cage.txt
+[TOKEN]    Korrhan's                      |   3 files | e.g., book_03_the_reckoning_010_shadow_returns_second_coming.md
+[TOKEN]    Kulla's                        |   3 files | e.g., book_10_infernal_vigil_056_erasures_edge.md
+[TOKEN]    Kyreth                         |   3 files | e.g., book_01_book_of_genesis_003_first_contact.md
+[TOKEN]    LEVEL                          |   3 files | e.g., book_09_bureaucratic_debt_053_the_twilight_city.md
+[TOKEN]    Landing                        |   3 files | e.g., book_01_book_of_genesis_002_molten_descent.md
+[TOKEN]    Legionnaire                    |   3 files | e.g., book_07_light_resonance_and_the_function_037_the_circle_of_progress.md
+[TOKEN]    Level                          |   3 files | e.g., book_07_light_resonance_and_the_function_039_jungle_fever.md
+[TOKEN]    Lieutenant                     |   3 files | e.g., book_06_the_ragnarok_032_the_redo.md
+[TOKEN]    Life                           |   3 files | e.g., book_01_book_of_genesis_001_the_ethereal_vigil.md
+[TOKEN]    Location                       |   3 files | e.g., book_02_age_of_servitude_007_the_needle_construction.md
+[TOKEN]    Luminara's                     |   3 files | e.g., book_06_the_ragnarok_036_highland_giants.md
+[TOKEN]    MEMORY                         |   3 files | e.g., book_07_light_resonance_and_the_function_039_jungle_fever.md
+[TOKEN]    Mage                           |   3 files | e.g., book_14_lessons_of_inheritance_074_sunbound.md
+[TOKEN]    Magic                          |   3 files | e.g., book_04_sage_saga_018_the_wandering.md
+[TOKEN]    Masters                        |   3 files | e.g., book_15_legends_and_gods_081_mr_gpt_arrival.md
+[TOKEN]    Medicae                        |   3 files | e.g., book_07_light_resonance_and_the_function_037_the_circle_of_progress.md
+[TOKEN]    Miral                          |   3 files | e.g., book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_119_resonance_of_the_first_point.txt
+[TOKEN]    Miral's                        |   3 files | e.g., book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_119_resonance_of_the_first_point.txt
+[TOKEN]    Mirror                         |   3 files | e.g., book_17_ancestral_debt_089_the_white_mirror.md
+[TOKEN]    Moment                         |   3 files | e.g., book_08_the_vigil_of_the_anchor_045_the_hub_falls.md
+[TOKEN]    Moon's                         |   3 files | e.g., book_10_infernal_vigil_058_paradox_engine.md
+[TOKEN]    Mossbinder                     |   3 files | e.g., book_15_legends_and_gods_081_mr_gpt_arrival.md
+[TOKEN]    Murmurs                        |   3 files | e.g., book_05_the_nameless_one_025_confined_freedom.md
+[TOKEN]    NEW                            |   3 files | e.g., book_08_the_vigil_of_the_anchor_043_the_badlands_crucible.md
+[TOKEN]    Narrative                      |   3 files | e.g., book_09_bureaucratic_debt_054_tue_lunar_spire.md
+[TOKEN]    Ninety                         |   3 files | e.g., book_19_worthy_opponents_north_098_depths_of_memory.md
+[TOKEN]    Ninurta                        |   3 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[TOKEN]    Nyssa                          |   3 files | e.g., book_12_forged_identity_068_brotherhood_revealed.md
+[TOKEN]    OUT                            |   3 files | e.g., book_06_the_ragnarok_030_ummade_army.md
+[TOKEN]    Observatory                    |   3 files | e.g., book_09_bureaucratic_debt_053_the_twilight_city.md
+[TOKEN]    One's                          |   3 files | e.g., book_05_the_nameless_one_024_the_first_spark.md
+[TOKEN]    Open                           |   3 files | e.g., book_05_the_nameless_one_025_confined_freedom.md
+[TOKEN]    Order                          |   3 files | e.g., book_09_bureaucratic_debt_052_entry_without_standing.md
+[TOKEN]    PUNISHMENT                     |   3 files | e.g., book_04_sage_saga_016_the_choice_third_coming.md
+[TOKEN]    Panic                          |   3 files | e.g., book_08_the_vigil_of_the_anchor_043_the_badlands_crucible.md
+[TOKEN]    Patriarch                      |   3 files | e.g., book_18_inquisition_of_yourself_095_roots_of_change.md
+[TOKEN]    Patterns                       |   3 files | e.g., book_01_book_of_genesis_004_the_convergence.md
+[TOKEN]    Peaks                          |   3 files | e.g., book_03_the_reckoning_010_shadow_returns_second_coming.md
+[TOKEN]    Pelagor                        |   3 files | e.g., book_01_book_of_genesis_001_the_ethereal_vigil.md
+[TOKEN]    Perception                     |   3 files | e.g., book_11_blood_and_legacy_063_the_iron_hand.md
+[TOKEN]    Perfect                        |   3 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[TOKEN]    Plan                           |   3 files | e.g., book_06_the_ragnarok_030_ummade_army.md
+[TOKEN]    Planes                         |   3 files | e.g., book_09_bureaucratic_debt_049_the_eastern_claim.md
+[TOKEN]    Points                         |   3 files | e.g., book_02_age_of_servitude_005_the_garden_blooms.md
+[TOKEN]    Position                       |   3 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[TOKEN]    Power                          |   3 files | e.g., book_05_the_nameless_one_025_confined_freedom.md
+[TOKEN]    Preparation                    |   3 files | e.g., book_05_the_nameless_one_025_confined_freedom.md
+[TOKEN]    Primarch                       |   3 files | e.g., book_18_inquisition_of_yourself_097_hearts_of_ash_and_fire.md
+[TOKEN]    Primary                        |   3 files | e.g., book_03_the_reckoning_009_stalemate_departure_the_first_coming.md
+[TOKEN]    Refusal                        |   3 files | e.g., book_05_the_nameless_one_025_confined_freedom.md
+[TOKEN]    Release                        |   3 files | e.g., book_21_needle_and_thread_south_109_the_thread_and_cage.txt
+[TOKEN]    Relief                         |   3 files | e.g., book_05_the_nameless_one_025_confined_freedom.md
+[TOKEN]    Rig                            |   3 files | e.g., book_07_light_resonance_and_the_function_037_the_circle_of_progress.md
+[TOKEN]    Running                        |   3 files | e.g., book_01_book_of_genesis_003_first_contact.md
+[TOKEN]    SEED                           |   3 files | e.g., book_09_bureaucratic_debt_049_the_eastern_claim.md
+[TOKEN]    SIGNATURES                     |   3 files | e.g., book_07_light_resonance_and_the_function_039_jungle_fever.md
+[TOKEN]    Sacrifice                      |   3 files | e.g., book_05_the_nameless_one_026_dragonmail.md
+[TOKEN]    Safety                         |   3 files | e.g., book_05_the_nameless_one_025_confined_freedom.md
+[TOKEN]    Secrets                        |   3 files | e.g., book_11_blood_and_legacy_065_secrets_of_the_deep.md
+[TOKEN]    Sentinel                       |   3 files | e.g., book_07_light_resonance_and_the_function_037_the_circle_of_progress.md
+[TOKEN]    Separation                     |   3 files | e.g., book_11_blood_and_legacy_063_the_iron_hand.md
+[TOKEN]    Shale                          |   3 files | e.g., book_21_needle_and_thread_south_109_the_thread_and_cage.txt
+[TOKEN]    Shift                          |   3 files | e.g., book_19_worthy_opponents_north_099_the_final_breath.md
+[TOKEN]    Sol                            |   3 files | e.g., book_04_sage_saga_017_niburu_shadow.md
+[TOKEN]    Solis                          |   3 files | e.g., book_11_blood_and_legacy_063_the_iron_hand.md
+[TOKEN]    Sorrow                         |   3 files | e.g., book_02_age_of_servitude_007_the_needle_construction.md
+[TOKEN]    Spiral                         |   3 files | e.g., book_16_fragmented_beginning_085_ancient_knowledge.md
+[TOKEN]    Stalemate                      |   3 files | e.g., book_02_age_of_servitude_007_the_needle_construction.md
+[TOKEN]    Stand                          |   3 files | e.g., book_06_the_ragnarok_032_the_redo.md
+[TOKEN]    Starbound                      |   3 files | e.g., book_15_legends_and_gods_081_mr_gpt_arrival.md
+[TOKEN]    Stillness                      |   3 files | e.g., book_20_the_discordant_pulse_south_105_garden_grove.md
+[TOKEN]    Stormhelm                      |   3 files | e.g., book_11_blood_and_legacy_063_the_iron_hand.md
+[TOKEN]    Study                          |   3 files | e.g., book_18_inquisition_of_yourself_094_chains_of_light.md
+[TOKEN]    Survival                       |   3 files | e.g., book_05_the_nameless_one_025_confined_freedom.md
+[TOKEN]    Swamp                          |   3 files | e.g., book_08_the_vigil_of_the_anchor_042_the_verdant_crossing.md
+[TOKEN]    System                         |   3 files | e.g., book_05_the_nameless_one_028_ragnarok.md
+[TOKEN]    TEACHING                       |   3 files | e.g., book_04_sage_saga_020_the_collapse.md
+[TOKEN]    TEMPORAL                       |   3 files | e.g., book_09_bureaucratic_debt_054_tue_lunar_spire.md
+[TOKEN]    Targun                         |   3 files | e.g., book_15_legends_and_gods_081_mr_gpt_arrival.md
+[TOKEN]    Tarn                           |   3 files | e.g., book_21_needle_and_thread_south_109_the_thread_and_cage.txt
+[TOKEN]    Teacher                        |   3 files | e.g., book_06_the_ragnarok_031_the_crash_site.md
+[TOKEN]    Tension                        |   3 files | e.g., book_11_blood_and_legacy_063_the_iron_hand.md
+[TOKEN]    Terrace                        |   3 files | e.g., book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_117_the_constant_calibration_living_as_anchor.txt
+[TOKEN]    Tess                           |   3 files | e.g., book_05_the_nameless_one_026_dragonmail.md
+[TOKEN]    Thal                           |   3 files | e.g., book_17_ancestral_debt_088_shadows_of_umbrageous_fixed.md
+[TOKEN]    Thank                          |   3 files | e.g., book_05_the_nameless_one_025_confined_freedom.md
+[TOKEN]    Thaw                           |   3 files | e.g., book_20_the_discordant_pulse_south_104_the_rising_tide.md
+[TOKEN]    Though                         |   3 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[TOKEN]    Tidal                          |   3 files | e.g., book_03_the_reckoning_009_stalemate_departure_the_first_coming.md
+[TOKEN]    Tidecaller's                   |   3 files | e.g., book_03_the_reckoning_014_convergence.md
+[TOKEN]    Time's                         |   3 files | e.g., book_10_infernal_vigil_056_erasures_edge.md
+[TOKEN]    Tomorrow                       |   3 files | e.g., book_05_the_nameless_one_025_confined_freedom.md
+[TOKEN]    Torren's                       |   3 files | e.g., book_25_the_seam_evolutionary_south_126_i_am_island.txt
+[TOKEN]    Trade                          |   3 files | e.g., book_05_the_nameless_one_024_the_first_spark.md
+[TOKEN]    Transformation                 |   3 files | e.g., book_11_blood_and_legacy_064_pass_through_shadow_and_flame.md
+[TOKEN]    Trial                          |   3 files | e.g., book_05_the_nameless_one_028_ragnarok.md
+[TOKEN]    Twelve                         |   3 files | e.g., book_21_needle_and_thread_south_112_eastern_system.txt
+[TOKEN]    Twenty                         |   3 files | e.g., book_08_the_vigil_of_the_anchor_042_the_verdant_crossing.md
+[TOKEN]    UNITS                          |   3 files | e.g., book_08_the_vigil_of_the_anchor_045_the_hub_falls.md
+[TOKEN]    Umbra                          |   3 files | e.g., book_09_bureaucratic_debt_050_the_scout.md
+[TOKEN]    VIOLATION                      |   3 files | e.g., book_09_bureaucratic_debt_049_the_eastern_claim.md
+[TOKEN]    VOID                           |   3 files | e.g., book_09_bureaucratic_debt_049_the_eastern_claim.md
+[TOKEN]    Vaelthane                      |   3 files | e.g., book_09_bureaucratic_debt_051_arrival_in_fire.md
+[TOKEN]    Vaelthane's                    |   3 files | e.g., book_09_bureaucratic_debt_051_arrival_in_fire.md
+[TOKEN]    Vex                            |   3 files | e.g., book_07_light_resonance_and_the_function_037_the_circle_of_progress.md
+[TOKEN]    Vigil                          |   3 files | e.g., book_01_book_of_genesis_001_the_ethereal_vigil.md
+[TOKEN]    WAR                            |   3 files | e.g., book_08_the_vigil_of_the_anchor_045_the_hub_falls.md
+[TOKEN]    WIN                            |   3 files | e.g., book_05_the_nameless_one_025_confined_freedom.md
+[TOKEN]    Walk                           |   3 files | e.g., book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
+[TOKEN]    Walker                         |   3 files | e.g., book_12_forged_identity_067_the_shattered_mind.md
+[TOKEN]    Warleader                      |   3 files | e.g., book_21_needle_and_thread_south_109_the_thread_and_cage.txt
+[TOKEN]    Warleader's                    |   3 files | e.g., book_21_needle_and_thread_south_109_the_thread_and_cage.txt
+[TOKEN]    Warrior                        |   3 files | e.g., book_02_age_of_servitude_006_the_first_coming.md
+[TOKEN]    Weeks                          |   3 files | e.g., book_08_the_vigil_of_the_anchor_042_the_verdant_crossing.md
+[TOKEN]    Welcome                        |   3 files | e.g., book_05_the_nameless_one_025_confined_freedom.md
+[TOKEN]    Weren't                        |   3 files | e.g., book_05_the_nameless_one_024_the_first_spark.md
+[TOKEN]    While                          |   3 files | e.g., book_14_lessons_of_inheritance_075_anchor_points_of_time.md
+[TOKEN]    Who'd                          |   3 files | e.g., book_05_the_nameless_one_026_dragonmail.md
+[TOKEN]    Whose                          |   3 files | e.g., book_17_ancestral_debt_090_echoes_of_the_culling_corrected.md
+[TOKEN]    Wise                           |   3 files | e.g., book_10_infernal_vigil_056_erasures_edge.md
+[TOKEN]    Within                         |   3 files | e.g., book_02_age_of_servitude_008_queens_assessment.md
+[TOKEN]    Worlds                         |   3 files | e.g., book_15_legends_and_gods_078_the_queens_return.md
+[TOKEN]    Wrong                          |   3 files | e.g., book_17_ancestral_debt_091_the_weight_of_memory.md
+[TOKEN]    XII                            |   3 files | e.g., book_20_the_discordant_pulse_south_104_the_rising_tide.md
+[TOKEN]    Yarrow                         |   3 files | e.g., book_21_needle_and_thread_south_109_the_thread_and_cage.txt
+[TOKEN]    Yet                            |   3 files | e.g., book_02_age_of_servitude_008_queens_assessment.md
+[TOKEN]    You'd                          |   3 files | e.g., book_25_the_seam_evolutionary_south_125_farwell.txt
+[TOKEN]    Zar'Vokh                       |   3 files | e.g., book_09_bureaucratic_debt_050_the_scout.md
+[TOKEN]    Zur                            |   3 files | e.g., book_17_ancestral_debt_088_shadows_of_umbrageous_fixed.md
+================================================================================
+Total candidates: 1091
+Generated: 2026-05-14 05:32:21
