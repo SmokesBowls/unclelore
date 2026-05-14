@@ -2,16 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-0721
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 121
-line_start: 121
+line_end: 513
+line_start: 513
 parsed_payload:
   confidence: medium
   entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: These gifts require no payment. They are yours by right. Stolen when the
-  Anunnaki claimed your species. Returned because you have proven yourself capable
-  of wielding them.
+  entity_type: FAC
+raw_quote: Not the absence of sound, but the absence of presence—the void where consciousness
+  should exist but didn't. The Applicator's reach extended across vast distances,
+  touching coordinates where Anunnaki facilities had operated, where other Applicators
+  should be maintaining control over enslaved populations, where the network's nodes
+  should respond with instant recognition.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_026_dragonmail.md
+source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
 status: captured
 supersedes: null

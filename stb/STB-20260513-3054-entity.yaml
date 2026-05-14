@@ -2,21 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-3054
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 49
-line_start: 49
+line_end: 117
+line_start: 117
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: Tran approached the Star Needle alone, his solitude enhanced rather than
-  diminished by the knowledge that Viên's consciousness remained accessible through
-  their shared bond regardless of physical distance or the specialized nature of the
-  training they would each receive. The crystalline structure that had dominated the
-  landscape of Sundrift Valley throughout his childhood now revealed itself as something
-  far more sophisticated and purposeful than he had ever imagined possible, even after
-  his recent experiences with cosmic revelation and enhanced awareness of forces that
-  transcended terrestrial origin.
+  entity_type: CHR
+raw_quote: Tran's fire dimmed from brilliant crimson to rust-orange—a permanent power
+  reduction as cosmic truth seared through his consciousness. Nearby, Viên's left
+  hand aged rapidly to leathery parchment during the revelation, temporal energies
+  hemorrhaging from his system in response to the trauma of inherited knowledge.
 signal_type: entity
-source_file: raw/chapters/book_12_forged_identity_069_divergent_paths.md
+source_file: raw/chapters/book_11_blood_and_legacy_065_secrets_of_the_deep.md
 status: captured
 supersedes: null

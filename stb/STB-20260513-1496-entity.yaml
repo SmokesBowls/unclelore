@@ -2,22 +2,26 @@ audit_only: true
 buffer_id: STB-20260513-1496
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 85
-line_start: 85
+line_end: 73
+line_start: 73
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Jorik shifted his horn bow, eyes wide with awe. Geralt gripped his shoulder.
-  "Stay sharp," he murmured. "The path ahead... it won't be stone." Jorik managed
-  a tight nod. "Wherever it leads, Commander." Geralt turned back to the spire. He
-  didn't activate it. He let his tripartite signature bleed into its newly forged
-  lattice – applicator’s precision, armor’s defiance, his unwavering focus on Mika.
-  The spire *recognized* him. The air shimmered violently, not tearing, but *folding*.
-  Reality buckled silently. One heartbeat, Geralt and Jorik stood before the Heartpeak
-  spire. The next, they stood upon an obsidian stairwell descending into infinite
-  darkness. Behind them, the spire’s resonance faded like a closing door.
+  entity_type: CHR
+raw_quote: 'The ascent was brutal. Chroniton winds screamed off the peaks, tearing
+  at them like spectral claws. Geralt anchored his signature constantly, a blazing
+  core against the storm. Kaelen moved with preternatural grace, her form flickering
+  slightly as she phased through the worst gusts. They crested a razorback ridge.
+  Below sprawled a vast, impossible basin – the Fracture Nexus. Time didn''t flow
+  here; it shattered. Jagged shards of frozen moments jutted from the basin floor:
+  a warship mid-explosion, a forest petrified by lightning, a city street frozen in
+  rain. Between them swirled chaotic chroniton streams, twisting like liquid mercury.
+  At the basin''s heart pulsed a raw, swirling vortex of fractured light – the gateway.
+  "The Nexus," Kaelen stated, her voice tight. "Navigate the shards. Anchor against
+  the streams. Reach the vortex. That is the entrance to the filing pocket." Geralt
+  stared. "How?" Kaelen met his gaze. "By becoming the anchor. Your harmony *is* the
+  path. Move."'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
+source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
 status: captured
 supersedes: null

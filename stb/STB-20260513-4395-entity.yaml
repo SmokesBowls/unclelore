@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-4395
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 498
+line_start: 498
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: You are an anomaly. You are a Graviton. You are not what the old stories
+  claimed. You are one of the original Dominion race of the known galaxy. Remnants
+  of the past, removed by the Aeon Keepers and replaced by the Anunnaki. That is…
+  unprecedented.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_111_the_resonance_a_garden_under_shadow.txt
+status: captured
+supersedes: null

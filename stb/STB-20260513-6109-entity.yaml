@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-6109
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 313
+line_start: 313
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: In the quarantine pens, Igigi-Three—the one who had stepped forward in
+  the chamber, whose lips had been forming the shape of the syllable for days—felt
+  the second fragment pass through the stone like a ripple through still water. Her
+  lips paused. Then resumed. Zeph— Soundlessly. Continuously. The memory becoming
+  rhythm.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_129_calibration_drift.txt
+status: captured
+supersedes: null

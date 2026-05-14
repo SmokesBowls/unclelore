@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0448
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 50
+line_start: 50
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: '"Those who choose honor," Elder Pazuzu declared, his ancient form beginning
+  to glow with the accumulated power of eons, "will stand with me. We will face the
+  Anunnaki as our ancestors faced the Void-Spawn. We will remind them that the Igigi
+  do not yield."'
+signal_type: entity
+source_file: raw/chapters/book_04_sage_saga_016_the_choice_third_coming.md
+status: captured
+supersedes: null

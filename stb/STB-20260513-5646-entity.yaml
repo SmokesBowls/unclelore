@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-5646
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 107
+line_start: 107
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: '"We''ll build it together," Sera said. Her voice was quiet, but it carried.
+  "The giants holding the physical ground. The Nephoretti weaving the resonance. The
+  Igigi translating the pattern. And you, Vale—the constant. The bridge between layers."'
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_121_aligning_the_pattern_at_the_labyrinths_threshold.txt
+status: captured
+supersedes: null

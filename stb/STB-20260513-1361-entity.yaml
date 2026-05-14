@@ -2,26 +2,24 @@ audit_only: true
 buffer_id: STB-20260513-1361
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 62
-line_start: 62
+line_end: 29
+line_start: 29
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Sully didn't look up as Geralt approached. Her fingers lingered on the
-  carved grivet kit representing Katherine. "She liked sun-warmed rocks," Sully whispered,
-  voice thick. "Best spotter in the herd." Geralt crouched beside her, careful not
-  to touch the sacred stone. "She was stolen," he stated softly, echoing Kaelen's
-  words. Sully flinched. "Lost in the mist." Geralt held up the chroniton shard. Its
-  light pulsed faintly. "Not lost. Taken. By something that steals moments." Sully
-  finally met his eyes, confusion warring with desperate hope. "You... you know?"
-  Geralt nodded. "I've seen the thief. Trapped it. But Katherine... her moment is
-  still held." He pointed to the carving. "This grief holds her here. Holds *everything*
-  here." Sully stared at the stone mother. "I couldn't protect her." "No," Geralt
-  agreed gently. "But you can remember her truly. Not just the loss. The sun-warmed
-  rocks. The spotting. Honor *that*." Sully closed her eyes. A tear traced a path
-  through the dust on her cheek. The air around the carving seemed to shimmer.
+  entity_type: CHR
+raw_quote: Kaelen’s voice cut through the din, calm and immediate, yet seeming to
+  originate from everywhere and nowhere. "Feel the *texture* of the moment, Geralt.
+  Not the sights, not the sounds – the *chroniton weave*. Your applicator perceives
+  it as danger. Your armor feels it as resistance. *You* must feel it as potential."
+  Geralt forced himself to stop reaching for Varik. He closed his eyes against the
+  horror, focusing inward. Beneath the applicator’s frantic alerts and the armor’s
+  defiant thrum, he sensed… threads. Millions of shimmering filaments, taut with tension,
+  fraying under the Harbinger’s assault. One thick, fraying cord pulsed directly ahead
+  – Varik’s thread, snapping violently. "That cord!" Kaelen urged. "Not to catch it
+  – to *reinforce* its anchor point *before* the stress! See the point of imminent
+  fracture?"
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_034_the_250.md
+source_file: raw/chapters/book_06_the_ragnarok_032_the_redo.md
 status: captured
 supersedes: null

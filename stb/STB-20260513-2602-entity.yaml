@@ -2,17 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-2602
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 193
-line_start: 193
+line_end: 156
+line_start: 156
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'Vaelthaneroared then, a sound that shattered the void''s silence into
-  a thousand glittering fragments. When the last echo faded, only one truth remained:
-  Earth was still bleeding white. The Queen''s frequency still pulsed. And Geralt,
-  the hollowed-out Anchor, would have to build a weapon from his own fractures.'
+  entity_type: CHR
+raw_quote: She floated before him, her aged face stern. "The strongest timeline is
+  not the safest, Geralt. It is not the one where you outsmart fate. It is the one
+  where you choose anyway. Where you plant your feet in the river of time, knowing
+  it will erode you, knowing you might be wrong, and you act. Because the alternative
+  is to become a ghost, haunting every possibility and living none."
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
+source_file: raw/chapters/book_09_bureaucratic_debt_054_tue_lunar_spire.md
 status: captured
 supersedes: null

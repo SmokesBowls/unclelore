@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-3302
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 139
+line_start: 139
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: '"Different powers, but yes," Lyra confirmed as she approached the edge
+  of the stone circle. "The network recognizes him as... family isn''t the right word,
+  but something similar. Someone who belongs to the same cosmic order that we''re
+  becoming part of."'
+signal_type: relationship
+source_file: raw/chapters/book_15_legends_and_gods_079_mages_awakening.md
+status: captured
+supersedes: null

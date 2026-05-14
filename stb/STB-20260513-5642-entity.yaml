@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5642
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 95
+line_start: 95
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale turned to face the young grove giant. "You can enter. Physically.
+  The passages are wide enough. But the labyrinth won't respond to you. No green confirmation.
+  No blue current. No guidance at all. You'll walk into the silence and feel... nothing.
+  Just dead stone."
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_121_aligning_the_pattern_at_the_labyrinths_threshold.txt
+status: captured
+supersedes: null

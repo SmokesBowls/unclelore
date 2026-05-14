@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5884
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 195
+line_start: 195
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Now, in this moment—between the eruption and the first true strike—Vale
+  carried something new. Not understanding. Not closure. Just the image of Luminaire's
+  face in the static, and the knowledge that the corruption, in trying to consume
+  him, had shown him a truth it did not intend.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_125_farwell.txt
+status: captured
+supersedes: null

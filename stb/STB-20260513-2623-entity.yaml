@@ -2,15 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-2623
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 31
-line_start: 31
+line_end: 38
+line_start: 38
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt flexed his hand, watching silvered scars ripple. "No. I broke the
-  *narrative*."
+  entity_type: CHR
+raw_quote: She conjured a phantom version of the compound. In it, Mika and the Five
+  were about to be overrun by Anunnaki hunters. Geralt had the telekinetic power to
+  save them, but only by collapsing a section of the wall on a group of newly-freed,
+  nameless slaves hiding nearby.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
+source_file: raw/chapters/book_09_bureaucratic_debt_055_the_anchors_forge.md
 status: captured
 supersedes: null

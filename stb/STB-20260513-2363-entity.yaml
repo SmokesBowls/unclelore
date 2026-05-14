@@ -2,19 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2363
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 234
-line_start: 234
+line_end: 601
+line_start: 601
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: He took the crystal back only long enough to breathe upon it once, a final
-  binding, then let it float to Geralt’s hand. The moment it left his possession,
-  the brilliant corona of heat around him dulled. He was no less deadly, but the sure,
-  controlled focus was gone. He gave them one last, unreadable look, then launched
-  himself back into the sky without another word, his flight just slightly less precise
-  than before.
+  entity_type: CHR
+raw_quote: Oreck stopped, looking at Geralt. “How many can we hit? Two men, against
+  fortified positions, during a multi-front war, with the Federation and possibly
+  ancient machine-gods watching?”
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_051_arrival_in_fire.md
+source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
 status: captured
 supersedes: null

@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-6035
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 328
+line_start: 328
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: The eastern terrace wall emerged from the marsh haze like a sleeper opening
+  one eye. It was not the grand fortification it had been. The occupation had not
+  repaired what the siege had broken. The outer facing was scarred, the mortar between
+  the stones pried loose by two centuries of damp and neglect. The vrill-glass canopy
+  that had once crowned the parapet was gone—shattered in the fall, or salvaged, or
+  simply fallen. The wall was a ruin.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_128_one_degree_above.txt
+status: captured
+supersedes: null

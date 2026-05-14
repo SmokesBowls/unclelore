@@ -2,17 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-0245
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 63
-line_start: 63
+line_end: 17
+line_start: 17
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: '"This pattern," Torhh rumbled, its massive hands shaping crystalline growth
-  with precision that took Pazuzu months to achieve, "it speaks to fundamental forces.
-  Not Anunnaki invention—they discovered something older. Something that existed before
-  their civilization."'
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The manufacturing complex had exceeded production quotas. The Igigi population
+  had expanded to three thousand through aggressive breeding programs. The Reptilian
+  forces now numbered eight thousand, with new generations maturing at accelerated
+  rates. Infrastructure was stable. Supply chains were efficient. Everything proceeding
+  according to the Queen's directives.
 signal_type: entity
-source_file: raw/chapters/book_03_the_reckoning_009_stalemate_departure_the_first_coming.md
+source_file: raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
 status: captured
 supersedes: null

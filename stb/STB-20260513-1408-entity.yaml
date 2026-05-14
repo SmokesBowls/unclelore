@@ -2,21 +2,22 @@ audit_only: true
 buffer_id: STB-20260513-1408
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 65
-line_start: 65
+line_end: 300
+line_start: 300
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'A tremor ran through the ground. Not collapse – release. High above, Kaelen
-  watched, a faint nod of approval her only movement. Geralt helped Sully stand. Around
-  them, settlers blinked, murmuring in confusion as three days of trapped memories
-  flooded back. Sully squeezed Geralt’s arm. "Thank you." Geralt felt the applicator
-  hum softly: *Localized temporal anomaly resolved. Anchor point stabilized.* He looked
-  towards the cliff path where Kaelen waited. One echo silenced. But deeper in the
-  valley’s shadowed heart, the air shimmered with a far older, colder dissonance.
-  The true quarry lingered. Xal''Zirith’s echo awaited.'
+  entity_type: CHR
+raw_quote: 'Her fingers traced the cold stone, seeking purchase, seeking sanity. Memories
+  surfaced unbidden: Geralt’s laugh, rough and warm; the fierce pride in his eyes
+  when the Five stood beside him; the chilling emptiness after Xal''Zirith’s touch.
+  The grief, sharp and fresh despite the universe’s forgetting, clawed at her throat.
+  Was this the tower’s doing? Manipulating her fears? Or was she simply unraveling?
+  She pressed her palm flat against the vibrating rock. *Find him. Just find him.*
+  The mantra pulsed with her frantic heartbeat. She stumbled around another bend,
+  blind to the passage’s unnatural symmetry, consumed by the desperate search within
+  and without.'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
+source_file: raw/chapters/book_06_the_ragnarok_033_the_march.md
 status: captured
 supersedes: null

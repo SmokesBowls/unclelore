@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-3026
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 105
+line_start: 105
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: Even the soil beneath their feet felt different, humming with subsonic
+  frequencies that spoke of technologies buried so deep they'd become part of the
+  ecosystem itself. Ancient root systems formed circuit patterns, carrying information
+  through biological networks that had been running continuously for millennia.
+signal_type: relationship
+source_file: raw/chapters/book_11_blood_and_legacy_064_pass_through_shadow_and_flame.md
+status: captured
+supersedes: null

@@ -2,26 +2,22 @@ audit_only: true
 buffer_id: STB-20260513-1381
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 15
-line_start: 15
+line_end: 73
+line_start: 73
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt turned back to the pulsing crystals. His ribs screamed. The applicator’s
-  fatigue warnings blared crimson across his vision. The dragon armor pulsed sluggishly,
-  its fire banked low. *How?* he thought, desperation clawing. *How do I harmonize
-  this last one? I’m spent.* He closed his eyes, reaching inward past the pain. *Applicator.
-  Armor. Help me understand. How does this resonance work? Show me the frequency.*
-  The applicator flashed a complex waveform overlay – the node’s chaotic signature
-  mapped against the stable harmonic they needed. Cold, precise data. The dragon armor
-  rumbled deep within, flooding his awareness with the raw *feel* of stability – warmth,
-  solidity, the immovable weight of bedrock. *Together,* Geralt willed. *Show me together.*
-  The applicator’s waveform snapped into alignment with the armor’s resonant signature.
-  A blueprint of harmony. Geralt poured his flagging will into replicating it, humming
-  the synthesized tone. The final node’s jagged pulse softened, smoothed, settled
-  into a steady amber glow. Done.
+  entity_type: CHR
+raw_quote: '"Enough," Kaelen’s voice drifted back, disembodied. "Focus on weaving
+  stability *while* moving. Anchor your own signature *to* the mountain’s chroniton
+  flow." Running while stabilizing? Madness. The applicator screamed impossibility.
+  The armor pulsed fiercely: *Adapt. Flow.* Geralt poured his will inward as he ran,
+  forcing his tripartite harmony to resonate *with* the mountain’s deep, slow pulse,
+  not against it. He visualized himself as a leaf caught in a vast river’s current.
+  The screeching intensified, vibrating his teeth. Glancing back, he saw them – three
+  obsidian constructs shaped like skeletal hounds, phasing *through* solid rock, their
+  eyes burning voids of corrupted chroniton energy. They gained fast.'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
+source_file: raw/chapters/book_06_the_ragnarok_032_the_redo.md
 status: captured
 supersedes: null

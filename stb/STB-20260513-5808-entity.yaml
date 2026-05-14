@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-5808
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 329
+line_start: 329
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Zephyr walked beside him, his sandals scraping the stone, his breathing
+  even. The old Igigi had said little since they left the courtyard. He was watching—not
+  the terrain, but Vale. The way he moved. The way he paused before stepping, not
+  because the ground might shift, but because he had learned to feel it before he
+  committed his weight. The way his presence no longer pressed against the world,
+  but simply accompanied it.
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_124_the_last_threshold_release_of_the_constant.txt
+status: captured
+supersedes: null

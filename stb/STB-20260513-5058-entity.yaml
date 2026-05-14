@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5058
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 75
+line_start: 75
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale pressed both palms to the pillar. Closed his eyes. Let the needle's
+  pulse fade. Let Luminaire's warmth grow still. Let himself be only here—hands on
+  ancient stone, breathing the cold air, feeling the vibration that hummed beneath
+  his touch.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_116_keepers_recognition.txt
+status: captured
+supersedes: null

@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5857
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 65
+line_start: 65
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: It came at dusk, when the light bent low and orange through the marsh canopy,
+  and Vale's form flickered in the half-light like a candle near an open window. The
+  voice was Zephyr's, or something wearing Zephyr's tone the way a parasite wears
+  a host's skin.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_125_farwell.txt
+status: captured
+supersedes: null

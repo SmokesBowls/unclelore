@@ -2,17 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-0416
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 175
-line_start: 175
+line_end: 88
+line_start: 88
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: '"Impossible," came transmission through quantum channels—not from their
-  network, but from the probe itself. Anunnaki awareness, artificial consciousness
-  designed for analysis and control, encountering synthesis possibilities that made
-  its fundamental programming... uncertain.'
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: The Brajor died alongside the Gruulith and Dregans, their confused consciousness-touches
+  seeking understanding even as vrill-energy unmade their physical forms.
 signal_type: entity
-source_file: raw/chapters/book_04_sage_saga_020_the_collapse.md
+source_file: raw/chapters/book_03_the_reckoning_014_convergence.md
 status: captured
 supersedes: null

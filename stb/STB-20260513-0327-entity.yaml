@@ -2,17 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0327
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 52
-line_start: 52
+line_end: 99
+line_start: 99
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: The collective network was fracturing. Not completely—Pazuzu's mathematical
-  precision and the Igigi anchors held core coherence. But cracks were spreading.
-  Three thousand years of planted suspicions found perfect conditions to grow, fertilized
-  by suffering that made blame feel justified.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: Around them, the Needle continued its slow growth toward completion, monument
+  to Anunnaki conquest and the suffering required to build it. But in the shadows
+  of that monument, two beings from different species recognized each other as potential
+  allies rather than inevitable enemies.
 signal_type: entity
-source_file: raw/chapters/book_03_the_reckoning_014_convergence.md
+source_file: raw/chapters/book_03_the_reckoning_009_stalemate_departure_the_first_coming.md
 status: captured
 supersedes: null

@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-5137
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 553
+line_start: 553
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale stopped to observe. He did not intend to interfere. He simply stood,
+  his weight balanced, his breathing slow, and watched the work.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_116_keepers_recognition.txt
+status: captured
+supersedes: null

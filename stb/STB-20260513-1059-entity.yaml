@@ -2,15 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-1059
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 857
-line_start: 857
+line_end: 239
+line_start: 239
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: Unknown, the Applicator replied. But each success increases probability
-  of subsequent successes. Freed slaves become liberators. Liberators teach tactics.
-  Tactics spread faster than Anunnaki can adapt. Momentum builds.
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: Geralt fought with everything three consciousnesses could muster—telekinesis
+  creating barriers and projectiles, armor providing strength beyond human norm, tactical
+  analysis suggesting optimal responses even as adolescent fear threatened to overwhelm
+  coordination.
 signal_type: entity
 source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured

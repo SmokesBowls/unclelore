@@ -1,0 +1,25 @@
+audit_only: true
+buffer_id: STB-20260513-4510
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 293
+line_start: 293
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The sun climbed higher. The rock grew warm beneath their feet. Vale had
+  stopped glancing east. His attention had shifted—not to the path, but to the man
+  behind him. The Igigi was still slow, still careful, but he was learning. He had
+  begun to anticipate the rough patches, to shift his weight before the rock cut.
+  His breathing was steadier. His eyes were on the terrain, not on his feet. He was
+  adapting. Vale noticed. Not consciously—just a recognition, deep in his chest, that
+  the stranger was not helpless. He was recovering. The Igigi noticed something too.
+  Vale moved without thought, without hesitation, his body a machine of efficiency.
+  But his head turned east every few minutes, even when there was nothing to see.
+  He was looking for something that was not there. The Igigi did not ask. He simply
+  watched.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_112_eastern_system.txt
+status: captured
+supersedes: null

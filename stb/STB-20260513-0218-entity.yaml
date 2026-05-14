@@ -2,19 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0218
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 21
-line_start: 21
+line_end: 132
+line_start: 132
 parsed_payload:
   confidence: medium
   entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: They walked toward the Needle construction site—a crystalline tower rising
-  perhaps a hundred twenty feet from mountain bedrock, its geometric patterns incomplete,
-  its vrill-channeling systems operating at suboptimal capacity. Around the perimeter,
-  Reptilian guards maintained defensive positions. In the excavation zones, Igigi
-  workers manipulated stone through consciousness-touch that looked crude compared
-  to what Eduhauana knew these sites required.
+  entity_type: SPEC
+raw_quote: Anunnaki overseers waited outside the pods, their golden forms terrible
+  in the morning light. They did not speak—communication with Igigi rarely required
+  words. Consciousness-commands flooded through established channels, directives that
+  bypassed choice and demanded obedience.
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_008_queens_assessment.md
+source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
 status: captured
 supersedes: null

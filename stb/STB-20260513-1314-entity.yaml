@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-1314
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 253
-line_start: 253
+line_end: 930
+line_start: 930
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: The old igigi compass spun wildly, its needle pointing at everything except
-  north. Mika kicked it into the canyon's dust. "We're going that way," she declared,
-  gesturing toward the unnatural tear in the mountains ahead.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: '*Command systems accessible,* the Applicator reported while interfacing
+  with technology that predated most current Anunnaki installations. *Override protocols
+  are... complex. Will require time to fully compromise. Recommend securing perimeter
+  while I work.*'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_033_the_march.md
+source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured
 supersedes: null

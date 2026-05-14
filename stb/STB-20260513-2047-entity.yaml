@@ -2,17 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-2047
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 548
-line_start: 548
+line_end: 35
+line_start: 35
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'In the new, quiet space in Geralt’s mind, a soft, structured pulse echoed—not
-  a voice, but a programmed echo, a comfort algorithm Luminaire had embedded. A ghost
-  of a function, caring in the only way left to it. It whispered a single, clear fact,
-  a baseline for the eternity of watchfulness to come:'
+  entity_type: CHR
+raw_quote: “I’m saying her ‘fragmentation’ isn’t a symptom,” Zaron said, his gaze
+  forward on the mountain peaks. “It’s a procedure. She’s not dying, Geralt. She’s
+  performing surgery on her own existence. And I believe you are to be the intended
+  scar tissue.”
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_045_the_hub_falls.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_044_the_mountains_shadow.md
 status: captured
 supersedes: null

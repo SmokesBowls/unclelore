@@ -2,21 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-2030
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 369
-line_start: 369
+line_end: 303
+line_start: 303
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt stumbled inside, the door sealing with a final, echoing thud behind
-  him. The air thrummed with a pressure that went beyond sound, vibrating in his teeth,
-  his bones, the fillings of his soul. Before him, rising through the center of the
-  cylindrical space, was the Source Conduit—a column of molten, corrupted light, violet
-  and black and angry green, twisting like a tormented serpent. Around it, floating
-  in the air without support, hung concentric rings of holographic interfaces, streaming
-  torrents of alien data. This was not just one Needle’s heart. This was the control
-  nexus for all five. The font of the continent’s poison.
+  entity_type: CHR
+raw_quote: 'Geralt: Lyra’s down! Protect her! Find cover!'
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_045_the_hub_falls.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_043_the_badlands_crucible.md
 status: captured
 supersedes: null

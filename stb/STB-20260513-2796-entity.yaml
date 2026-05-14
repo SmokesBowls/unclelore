@@ -2,20 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2796
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 493
-line_start: 493
+line_end: 31
+line_start: 31
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt nodded—a fractional tilt of the chin that meant more than any oath.
-  Kyh turned without ceremony, her shadow splitting at the edges like overstrained
-  fabric. "Home? Now? It's time.. wait for me." The portal tore open with a sound
-  like a star collapsing inward, its edges braided with flames that smelled of Vaelthane's
-  last breath. Figures writhed within—draconian silhouettes moving too fast to track,
-  their motions leaving afterimages of solar plasma. Kyh didn't hesitate. She lunged
-  into the inferno like a woman diving off a cliff, her silver threads snapping taut
-  before vanishing into the conflagration.
+  entity_type: CHR
+raw_quote: The corridor beyond defied geometry. Its walls flexed like ribcages inhaling,
+  the ceiling descending in viscous drips that never quite touched the floor. Bioluminescent
+  fungi clung to the rock in spiral patterns, their glow waxing and waning in time
+  with Geralt's pulse.
 signal_type: entity
 source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
 status: captured

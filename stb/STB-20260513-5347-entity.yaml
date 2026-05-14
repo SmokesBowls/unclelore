@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-5347
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 332
+line_start: 332
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: Vale looked at the city below. The giants working without supervision.
+  The vrill flowing without constant attention. The Igigi learning to be present instead
+  of calculating. The ordinary sounds of a place that was learning to live.
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_118_the_constant_and_friction_of_becoming.txt
+status: captured
+supersedes: null

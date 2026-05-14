@@ -2,18 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-2743
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 299
-line_start: 299
+line_end: 85
+line_start: 85
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"The Magnetospheric Recoil," Zypher said, his voice clinical, drained
-  of all poetry. "The planet''s lifeblood, the energy meant to fuel solar renewal.
-  Every forty-seven minutes, her sky drinks it. The sun starves. The world cools.
-  She is not just writing a final edict, Geralt. She is turning the system that feeds
-  a star into a battery for a silent, white tomb."'
+  entity_type: CHR
+raw_quote: The Guild's lobby doors parted before them without hinges moving—an architectural
+  sigh. Inside, Kyh waited by the humming enrollment plinth, her shadow-form now stitched
+  with silver threads where the network had claimed her. Kulla crouched beside her,
+  patting the floor like a nervous mason. Geralt didn't speak. He thought *forward*,
+  and the lobby's stonework unraveled around them in a slow-motion landslide of impossible
+  geometry.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
 status: captured
 supersedes: null

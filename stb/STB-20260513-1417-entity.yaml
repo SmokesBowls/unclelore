@@ -2,29 +2,23 @@ audit_only: true
 buffer_id: STB-20260513-1417
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 83
-line_start: 83
+line_end: 10
+line_start: 10
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'Silence. Utter, crushing silence. Geralt collapsed to his knees within
-  the negation, gasping. The applicator sputtered, its casing spiderwebbed with cracks.
-  Zaron’s warmth felt seared, diminished. But the scar still pulsed before him—weakened,
-  but alive. Xal''Zirith’s stain. Rage, cold and absolute, replaced exhaustion. He
-  pushed himself up. The scar wasn''t just a wound. It was the Harbinger’s fingerprint.
-  Geralt didn''t raise his fists this time. He reached *into* the scar with both hands,
-  fingers plunging into the anti-light. He didn''t seek to destroy it. He sought to
-  *fill* it. Pouring his tripartite harmony—broken applicator, scorched armor, bleeding
-  will—directly into the negation. He forced reality *into* the unmaking. Made the
-  scar experience existence. Light. Sound. Sensation. Memory. The scar convulsed,
-  thrashing like a speared eel as Geralt’s defiance flooded its emptiness. It wasn''t
-  annihilation. It was forced incarnation. And under the unbearable weight of *being*,
-  the conceptual stain shattered. Gone. Only exhaustion remained. And purpose. Beyond
-  the fading scar, a new path glimmered—the way forward. Kaelen’s voice echoed, faint
-  but clear: "The Nexus shifts. Move." Geralt staggered towards the light. The hunt
-  continued.'
+  entity_type: CHR
+raw_quote: Kaelen didn’t turn from the frozen waterfall. Her voice was flat, pragmatic.
+  "The plan is survival. The goal is mastery. These nodes," she tapped the ice near
+  one, "are amplifiers. Stabilizing them weakens the Queen’s foothold *here*, yes.
+  But more importantly, they are practice. Each node you harmonize strengthens *your*
+  control. Each Chronohound pack you evade teaches you to mask your signature." She
+  finally faced him, her galactic eyes hard. "The Queen seeks the Zaryonic Pattern
+  fragments. She hunts *them*. You, Geralt, are an anomaly – a potential key *and*
+  a threat. Your symbionts give you access, but without control, you are merely a
+  beacon leading her hunters straight to the fragments she covets. My goal is to ensure
+  you become neither her tool nor her casualty before you fulfill your purpose."
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
+source_file: raw/chapters/book_06_the_ragnarok_034_the_250.md
 status: captured
 supersedes: null

@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-4037
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 604
+line_start: 604
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: And in the silence between the beats, he heard something else. A voice—not
+  Nephoretti, not giant, not Igigi. Something older. Something that had been waiting
+  in the Ma'at for as long as he had been waiting in the stone.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_107_the_waking.txt
+status: captured
+supersedes: null

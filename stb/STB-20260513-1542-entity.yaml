@@ -2,26 +2,24 @@ audit_only: true
 buffer_id: STB-20260513-1542
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 61
-line_start: 61
+line_end: 17
+line_start: 17
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt didn’t flinch. His gaze swept Sahvant’s tech-fused suit, the humming
-  Anunnaki gauntlets, the glowing power-pack grafts. A flicker of understanding crossed
-  his weary face. *Survivors. Adapting.* “Acquire?” His voice held a low, resonant
-  growl, echoing strangely within his helm. “This armor is *bonded*. A relic tempered
-  in temporal crucibles far deeper than your scavenged graves.” He gestured sharply
-  towards the wrecked command spire. “Your generators, Professor. They hum wrong.
-  Off-key.” Sahvant blinked, momentarily thrown. Geralt pressed, sensing her fixation.
-  “You seek mastery? Start by listening. That shield node you’re gutting… its core
-  frequency bleeds chroniton dissonance. Touch it wrong, and your Circle vanishes
-  in a temporal hiccup.” His clawed gauntlet pointed unerringly at a frayed conduit
-  she’d missed. “Salvage smarter. Or your progress ends in ash.” It was a lesson,
-  harshly delivered – a warning against reckless innovation using tools they barely
-  comprehended.
+  entity_type: CHR
+raw_quote: 'The corridor abruptly ended at a circular chamber. Utterly bare. Utterly
+  silent. No Sage. No artifacts. Only a single, immense mirror dominating the far
+  wall. Its surface was liquid obsidian, swirling with impossible depth. Mika approached
+  cautiously. Her reflection didn''t appear. Instead, the mirror revealed a desolate
+  courtyard under a bruised sky. Five arched doorways stood open around its perimeter,
+  dark mouths leading deeper into shadow. Standing calmly in the courtyard’s center,
+  gazing directly *through* the mirror at Mika, was Zypher. His expression was unreadable,
+  a flicker of something like weary resignation in his eyes. He wasn''t trapped; he
+  was waiting. He gestured slowly towards the five open chambers. Mika knew without
+  seeing: Geralt''s five loyal followers lay within. This was the Echo''s heart –
+  a gateway, not a destination.'
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_037_the_circle_of_progress.md
+source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
 status: captured
 supersedes: null

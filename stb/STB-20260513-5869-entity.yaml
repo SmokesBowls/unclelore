@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-5869
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 123
+line_start: 123
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale flickered constantly now. His edges blurred and sharpened, blurred
+  and sharpened, a strobing pattern that cast no shadow on the ground. The silver-black
+  currents of his being flowed faster, agitated—not by fear, but by proximity. The
+  needle was close. He could feel its resonance through the soles of his feet, a steady,
+  ancient thrum that no corruption could mimic.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_125_farwell.txt
+status: captured
+supersedes: null

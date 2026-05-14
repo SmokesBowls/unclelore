@@ -2,16 +2,20 @@ audit_only: true
 buffer_id: STB-20260513-2714
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 173
-line_start: 173
+line_end: 213
+line_start: 213
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The abyss fought back. Time-spirals cinched around Geralt's ribs like nooses,
-  each one whispering the Queen's erasure edicts. His scars burned where they contradicted
-  reality.
+  entity_type: CHR
+raw_quote: Pyrocast's roar wasn't sound—it was vibration, the kind that split rock
+  and rattled teeth loose. The net's filaments pulsed in response, each strand tightening
+  like a piano wire tuned to agony. Geralt's fingers dug into the regolith as the
+  dragon's thrashing sent shockwaves through the lunar crust. He could see the moment
+  Vaelthaneunderstood—the crimson spines flattening not in submission, but calculation.
+  The net wasn't just physical. It was harmonic. Every movement fed back into its
+  tension, a perfect feedback loop of entrapment.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+source_file: raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
 status: captured
 supersedes: null

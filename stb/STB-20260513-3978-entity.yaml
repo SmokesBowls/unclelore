@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-3978
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 432
+line_start: 432
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: '"The Nephoretti. We live at the needle. The pulse—you must have felt it,"
+  she said, hoping they could at least understand intent.'
+signal_type: entity
+source_file: raw/chapters/book_20_the_discordant_pulse_south_106_sky_fallen.txt
+status: captured
+supersedes: null

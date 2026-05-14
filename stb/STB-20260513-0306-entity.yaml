@@ -2,18 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0306
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 43
-line_start: 43
+line_end: 195
+line_start: 195
 parsed_payload:
   confidence: medium
-  entity_name: Neferati
-  entity_type: UNKNOWN
-raw_quote: '"But the planet can touch both sides," Torhh continued, its ancient awareness
-  remembering lessons from the Garden era. "The Neferati taught us that consciousness
-  embedded in geological structures exists partially in multiple realms. Torrhen,
-  the first teacher, sacrificed himself to become part of the planetary matrix. If
-  we commune deeply enough, we might reach through him to the Keepers themselves."'
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: The Igigi had become... not friends exactly, but something close. Colleagues
+  in suffering. Two species trapped by Anunnaki will, finding small dignities in cooperation
+  despite the violence surrounding them.
 signal_type: entity
-source_file: raw/chapters/book_03_the_reckoning_012_nephilim_summoning.md
+source_file: raw/chapters/book_02_age_of_servitude_008_queens_assessment.md
 status: captured
 supersedes: null

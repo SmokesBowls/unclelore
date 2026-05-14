@@ -2,17 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-0231
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 179
-line_start: 179
+line_end: 184
+line_start: 184
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: And three thousand years later, when the Anunnaki returned, they would
-  find Giants who barely remembered they were once unified, who fought each other
-  over resources and territories and ancient grievances that no one could quite trace
-  to their source.
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The breeding facilities were efficient, at least. Clean. Well-maintained.
+  The Anunnaki understood that healthy livestock produced better yields. The Igigi
+  were fed adequately, housed in spaces that mimicked their former homeworld's environmental
+  parameters, given access to medical care that prevented disease from reducing population
+  numbers.
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_008_queens_assessment.md
+source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
 status: captured
 supersedes: null

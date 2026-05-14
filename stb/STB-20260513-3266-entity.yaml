@@ -2,14 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-3266
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 130
-line_start: 130
+line_end: 135
+line_start: 135
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: '"You know of these trials?" Tran asked Caelum quietly.'
+  entity_type: CHR
+raw_quote: As Keen ascended from the depths of the Foundation Chamber, carrying within
+  her consciousness the permanent connections to both Earth and Moon, she understood
+  that her individual awakening was part of a larger pattern of cosmic restoration.
+  Viên's temporal abilities, Tran's network coordination, Thang's stellar heritage,
+  Rongtai's cosmic shadow mastery—all of these awakenings were pieces of a cosmic
+  puzzle that was finally coming together.
 signal_type: entity
-source_file: raw/chapters/book_15_legends_and_gods_080_the_whispers_between_worlds.md
+source_file: raw/chapters/book_14_lessons_of_inheritance_076_lunar_inheritance.md
 status: captured
 supersedes: null

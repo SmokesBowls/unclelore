@@ -2,15 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2647
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 133
-line_start: 133
+line_end: 190
+line_start: 190
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The numbness in Geralt's chest didn't waver. "No," he said, watching Oreck's
-  silhouette shrink against the white glare. "He'll remind the sky what color it forgot."
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: I am an Anunnaki control symbiote. My primary function is neural interface
+  and modulation. I can… attempt to interface with the Spire’s core. To issue a shutdown
+  command from within the system’s own hierarchy.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
+source_file: raw/chapters/book_09_bureaucratic_debt_055_the_anchors_forge.md
 status: captured
 supersedes: null

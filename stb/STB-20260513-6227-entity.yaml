@@ -1,0 +1,24 @@
+audit_only: true
+buffer_id: STB-20260513-6227
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 159
+line_start: 159
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: In the drainage channel, the Igigi's trace hum returned. Not as a flicker.
+  Not as a brief, fragile tone that vanished the moment she noticed it. It came quietly,
+  a low sub-auditory frequency that matched the stone's steady hum, and it stayed.
+  She did not feel the silence close over it. She did not feel her throat deplete.
+  The hum was not demanding energy from her; it was receiving energy from the stone,
+  carried on the same current that had vented through the network when the almost-word
+  fractured. The corridor had released its excess. The release had found her, and
+  the finding was not a drain but a gift—a small, steady surplus that asked nothing
+  in return. She hummed, and the stone hummed with her, and the handler's instruments
+  logged sub-auditory vocalization and dismissed it as environmental resonance bleed.
+signal_type: entity
+source_file: raw/chapters/book_26_the_seam_long_dark_south_134_phase_drift.txt
+status: captured
+supersedes: null

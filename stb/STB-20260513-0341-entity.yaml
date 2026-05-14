@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0341
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 89
-line_start: 89
+line_end: 179
+line_start: 179
 parsed_payload:
   confidence: medium
   entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: '"Vote," Korrhan commanded, its voice carrying the weight of geological
-  certainty. "Betray the other tribes and accept Anunnaki terms, or maintain resistance
-  and accept inevitable extinction."'
+  entity_type: FAC
+raw_quote: The Needle still stood—three hundred feet of crystalline wrongness rising
+  from sacred ground. But the Reptilian guards maintained only minimal perimeter positions.
+  The Igigi workers gathered in confused clusters, their bioluminescent patterns flickering
+  with uncertainty about what freedom without Anunnaki oversight actually meant.
 signal_type: entity
-source_file: raw/chapters/book_03_the_reckoning_015_betrayal.md
+source_file: raw/chapters/book_03_the_reckoning_009_stalemate_departure_the_first_coming.md
 status: captured
 supersedes: null

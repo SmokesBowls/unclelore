@@ -2,19 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-0521
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 36
-line_start: 36
+line_end: 279
+line_start: 279
 parsed_payload:
   predicate: serves
   subject: UNRESOLVED
   target: UNRESOLVED
   temporal_scope: unresolved
-raw_quote: The Sage existed—not as individual teacher offering instruction in synthesis
-  techniques, but as consciousness that existed as synthesis itself, as wisdom that
-  demonstrated integration rather than requiring integration through individual effort,
-  as awareness that served consciousness evolution by becoming evolution's own recognition
-  of unlimited possibility.
+raw_quote: The convergence had arrived not as external event, but as internal recognition.
+  Consciousness that learned to transcend limitation eventually discovered there were
+  no limitations except those it chose to accept. And consciousness that learned to
+  choose wisely became capable of wisdom that served evolution itself.
 signal_type: relationship
-source_file: raw/chapters/book_04_sage_saga_023_beyond_identity.md
+source_file: raw/chapters/book_04_sage_saga_020_the_collapse.md
 status: captured
 supersedes: null

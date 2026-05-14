@@ -2,14 +2,13 @@ audit_only: true
 buffer_id: STB-20260513-1842
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 1291
-line_start: 1291
+line_end: 389
+line_start: 389
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Not without cost. Oreck's armor destroyed. Geralt transformed forever.
-  Zaron integrated beyond any possibility of separation.
+  entity_type: CHR
+raw_quote: '*It''s okay,* Geralt thought back, even as his chest ached.'
 signal_type: entity
 source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
 status: captured

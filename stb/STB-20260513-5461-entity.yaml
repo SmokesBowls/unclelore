@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5461
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 209
+line_start: 209
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: Enlil and Nammu worked together at the basin's edge. The mathematician's
+  slate was out again, but his approach had changed. He no longer measured to control.
+  He measured to understand. To translate what Nammu felt into patterns the Igigi
+  could share, could build upon, could use to find the next point.
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_119_resonance_of_the_first_point.txt
+status: captured
+supersedes: null

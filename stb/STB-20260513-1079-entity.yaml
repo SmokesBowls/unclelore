@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-1079
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 153
-line_start: 153
+line_end: 373
+line_start: 373
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"Two hundred armored fighters," Geralt said thoughtfully. "That''s...
-  that''s actually substantial. Combined with training Oreck''s providing, with tactical
-  coordination we''re developing—"'
+  entity_type: CHR
+raw_quote: Geralt looked at the armor encasing him—at scales that gleamed in doubled
+  sunlight, at technology that represented sacrifice and choice and consciousness
+  willing to fragment itself for purposes that transcended individual existence.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured
 supersedes: null

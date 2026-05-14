@@ -2,18 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-0093
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 50
-line_start: 50
+line_end: 58
+line_start: 58
 parsed_payload:
   confidence: medium
-  entity_name: Neferati
-  entity_type: UNKNOWN
-raw_quote: More obelisks followed. Different sizes, different proportions, different
-  harmonic frequencies. Some stood alone on prominent peaks. Others clustered in groups
-  of three or five, creating interference patterns that the Neferati were still trying
-  to understand. A few failed catastrophically—stone cracking under its own weight
-  or shattering when underground water expanded during freeze-thaw cycles.
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: The three Nephoretti froze, then slowly backed away. No point pursuing
+  when the reaction was so clear.
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+source_file: raw/chapters/book_01_book_of_genesis_003_first_contact.md
 status: captured
 supersedes: null

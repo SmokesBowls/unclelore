@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0406
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 40
+line_start: 40
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: '"Hold!" Pazuzu commanded through the network, his mathematical consciousness
+  calculating stress points where the collective threatened to shatter. "The Nephilim
+  are forming! I can sense vrill-energy coalescing in the quantum foam! If we break
+  now, the convergence becomes explosion rather than manifestation!"'
+signal_type: entity
+source_file: raw/chapters/book_03_the_reckoning_014_convergence.md
+status: captured
+supersedes: null

@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-4550
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 342
+line_start: 342
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale said nothing. He did not ask what kind of thing. He did not ask how.
+  He simply sat, the words settling in his chest. Found one that wasn't gone. He thought
+  of the water. The cold. The body he had pulled from the sea two nights ago. He had
+  found one too. He did not say it. But his silence was different now—recognition,
+  not surprise.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_112_eastern_system.txt
+status: captured
+supersedes: null

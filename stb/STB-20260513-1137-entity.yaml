@@ -2,17 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-1137
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 143
-line_start: 143
+line_end: 801
+line_start: 801
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: The name would come later, pieced together from Anunnaki records that referenced
-  it only as "the Harbinger," from Aeon Keeper texts that called it "the First Forgetting,"
-  from fragmentary accounts of civilizations that had encountered it and failed to
-  remember the experience.
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: But adaptation took time. And time was resource Geralt had denied through
+  strategic positioning, through coordinated assault from multiple vectors, through
+  being surrounded by allies who'd ensure the Overseer remained focused on single
+  target.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured
 supersedes: null

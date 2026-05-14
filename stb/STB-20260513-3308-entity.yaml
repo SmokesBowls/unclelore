@@ -2,17 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3308
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 300
-line_start: 300
+line_end: 155
+line_start: 155
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: With a final glance back at the village that had been his home, Tran shouldered
-  his pack. The weight of the Star Needle's binding pulled at him, but he forced himself
-  forward, following the impossible footprints that would lead them first to Ironspire's
-  walls, and then beyond, to whatever trials the Five Mikas had prepared.
+  entity_type: CHR
+raw_quote: Tran met his gaze directly, understanding that the question required an
+  answer that would reshape their understanding of the current situation and the stakes
+  they were facing.
 signal_type: entity
-source_file: raw/chapters/book_15_legends_and_gods_080_the_whispers_between_worlds.md
+source_file: raw/chapters/book_15_legends_and_gods_079_mages_awakening.md
 status: captured
 supersedes: null

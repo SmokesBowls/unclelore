@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-5580
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 207
+line_start: 207
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale walked to the pillar. The young Cliff Giant studied him for a moment—its
+  milky eyes unreadable—then turned and began to climb the ridge. Vale followed.
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_120_the_language_of_stone.txt
+status: captured
+supersedes: null

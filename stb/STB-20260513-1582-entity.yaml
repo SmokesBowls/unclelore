@@ -2,21 +2,22 @@ audit_only: true
 buffer_id: STB-20260513-1582
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 79
-line_start: 79
+line_end: 85
+line_start: 85
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt plunged his clawed hand into the pool. Not toward the core. Into
-  the root-mass choking it. Zaron’s will surged—not domination, but *alignment*. Azure
-  light flared from his gauntlet, weaving through the metal vines. The roots stiffened.
-  The Luminaire’s pulse stuttered. For a heartbeat, the storm stilled. Reflections
-  cleared—Mika’s fierce determination, Oreck’s unwavering vigilance, Lyra’s exhausted
-  resolve. Real. Uncorrupted. Then the roots *shrieked*, recoiling. The pool churned
-  black as the Luminaire’s light dimmed to ember-red. Something deeper than roots
-  stirred in the depths. Revelation’s price waited in the dark.
+  entity_type: CHR
+raw_quote: Jorik shifted his horn bow, eyes wide with awe. Geralt gripped his shoulder.
+  "Stay sharp," he murmured. "The path ahead... it won't be stone." Jorik managed
+  a tight nod. "Wherever it leads, Commander." Geralt turned back to the spire. He
+  didn't activate it. He let his tripartite signature bleed into its newly forged
+  lattice – applicator’s precision, armor’s defiance, his unwavering focus on Mika.
+  The spire *recognized* him. The air shimmered violently, not tearing, but *folding*.
+  Reality buckled silently. One heartbeat, Geralt and Jorik stood before the Heartpeak
+  spire. The next, they stood upon an obsidian stairwell descending into infinite
+  darkness. Behind them, the spire’s resonance faded like a closing door.
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
 status: captured
 supersedes: null

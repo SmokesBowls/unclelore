@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5012
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 442
+line_start: 442
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: And beneath it, Vale felt something else. Not a presence. Not a memory.
+  A path. A direction. A thread that ran from this fracture southward, deeper into
+  the terrain, toward something he could not see but could suddenly feel—like a door
+  left slightly open, light spilling through the crack.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_115_the_shape_of_asking.txt
+status: captured
+supersedes: null

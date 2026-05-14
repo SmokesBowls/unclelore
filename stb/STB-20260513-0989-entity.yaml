@@ -2,17 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0989
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 323
-line_start: 323
+line_end: 763
+line_start: 763
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"It means," he said carefully, "that I''m not just Geralt anymore. I''m
-  symbol. I''m threat. I''m representation of everything they fear—that slaves can
-  resist, that armor can bond with unworthy, that cosmic law can be defied through
-  choice and courage."'
+  entity_type: CHR
+raw_quote: '"Yes," he said with certainty that came from consciousness contested by
+  two other entities, from self-awareness forged through trial that tested character
+  rather than simple power. "Still me. Still Geralt."'
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured
 supersedes: null

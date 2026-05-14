@@ -2,18 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-2762
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 369
-line_start: 369
+line_end: 169
+line_start: 169
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Kulla lumbered to the alcove, his clay fingers kneading the air around
-  the clone's shoulders like assessing dough. "Bad copy," he muttered. "No cracks."
-  With a sudden, violent twist, he wrenched the clone's left arm backward until the
-  joint popped. The clone didn't scream. It blinked, processing the damage, then smiled—a
-  perfect mirror of Geralt's feral grin.
+  entity_type: CHR
+raw_quote: Geralt exhaled. The numbness in his chest didn't fade—it *recognized* itself.
+  These weren't soldiers. They were his own scorch marks given sentience. "Stand,"
+  he ordered softly. Five armored figures rose as one, their movements synchronized
+  like fingers on a single hand. Behind them, the false sun's cracks deepened another
+  fraction. Some silences weren't empty—they were coiled.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
 status: captured
 supersedes: null

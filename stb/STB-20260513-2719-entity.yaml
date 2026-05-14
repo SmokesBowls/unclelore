@@ -2,19 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-2719
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 195
-line_start: 195
+line_end: 3
+line_start: 3
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Zypher's laughter was the sound of glass breaking underwater. He spread
-  his hands—a conductor before the crescendo—and the chamber's inverted geometry sharpened.
-  Torn's coral groaned as it petrified mid-growth; Kulla's clay hardened to obsidian.
-  "The Queen's erasure requires a counterweight," the sage admitted. His vortex eyes
-  fixed on Geralt's chest, where the deepest scars glowed like fissures in a reactor
-  core. "Something equally absolute."
+  entity_type: CHR
+raw_quote: The Guild's wards hummed as Geralt crossed the threshold—not a barrier,
+  but a sieve, testing the harmonics of his borrowed divinity. Behind him, Oreck's
+  tail lashed once against the lunar dust before the reptilian warrior melted into
+  the sprawl's shadows. Inside, the air smelled of ozone and something deeper, like
+  the scent of an old blade being reforged.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
 status: captured
 supersedes: null

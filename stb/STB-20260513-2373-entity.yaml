@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-2373
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 349
-line_start: 349
+line_end: 7
+line_start: 7
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The Worm, sensing a massive, pure source of thermal energy, did what it
-  was designed to do. It consumed. The bore-ring dilated, and a cable-tendril snatched
-  the crystal from Geralt's hand, retracting it into the core feeding chamber.
+  entity_type: CHR
+raw_quote: '"Inversion threshold holding at 55.7%," Luminaire reported, her voice
+  a constant, low-frequency hum in Geralt’s neural architecture. "But the bleed from
+  Umbra Planes is now affecting adjacent dimensional strata. The clock is no longer
+  ticking. It is accelerating."'
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_051_arrival_in_fire.md
+source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
 status: captured
 supersedes: null

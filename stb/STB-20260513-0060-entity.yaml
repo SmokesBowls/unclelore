@@ -2,18 +2,20 @@ audit_only: true
 buffer_id: STB-20260513-0060
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 54
-line_start: 54
+line_end: 63
+line_start: 63
 parsed_payload:
   confidence: medium
   entity_name: Nephoretti
-  entity_type: UNKNOWN
-raw_quote: 'Senareth had selected three Nephoretti—Elyraen for observation skills,
-  Vairis for practical thinking, and a fourth named Kyreth whose consciousness carried
-  an unusual gentleness—to approach the tree line at first light. The plan was simple:
-  move slowly, maintain non-threatening postures, demonstrate vulnerability through
-  deliberate exposure.'
+  entity_type: SPEC
+raw_quote: Around them, the others were experiencing similar struggles. Bodies sprawled
+  across the beach in various states of functionality. Some had managed to sit up,
+  staring at their hands with expressions of wonder and horror. Others were still
+  mostly translucent, their forms solidifying in slow waves as the last traces of
+  vrill-energy crystallized into flesh. One Nephoretti—the consciousness-pattern that
+  would eventually call itself Elyraen—had landed in the shallows and now lay half-submerged,
+  coughing water from lungs that didn't quite understand breathing yet.
 signal_type: entity
-source_file: raw/chapters/book_01_book_of_genesis_003_first_contact.md
+source_file: raw/chapters/book_01_book_of_genesis_002_molten_descent.md
 status: captured
 supersedes: null

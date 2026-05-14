@@ -2,14 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0783
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 31
-line_start: 31
+line_end: 1421
+line_start: 1421
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt gestured toward his own forehead, then toward Oreck's.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: Up the Anunnaki's arm. Into his body. Disrupting rather than attacking,
+  interfering with the energy connection to Earth's planetary grid, creating cascade
+  failure in systems that had never been designed to defend against assault from within
+  grasping range.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
 status: captured
 supersedes: null

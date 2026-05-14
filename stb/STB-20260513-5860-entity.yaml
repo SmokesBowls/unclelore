@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-5860
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 71
+line_start: 71
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: '"The real Zephyr," Vale said quietly, to no one in particular, "never
+  spoke to me like that."'
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_125_farwell.txt
+status: captured
+supersedes: null

@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2355
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 172
-line_start: 172
+line_end: 519
+line_start: 519
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: As they left, Geralt felt Blue reach out toward the crystal, not to take
-  it, but to hum in recognition. A kindred spirit. It knows how to hold what is too
-  hot to touch.
+  entity_type: CHR
+raw_quote: Geralt stood. He felt Oreck's hand on his shoulder, the grip fierce and
+  real.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_051_arrival_in_fire.md
+source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
 status: captured
 supersedes: null

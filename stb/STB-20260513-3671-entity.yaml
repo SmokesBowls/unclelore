@@ -2,18 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3671
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 26
-line_start: 26
+line_end: 177
+line_start: 177
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: 'The welcoming committee was already waiting—a mix of massive Giants whose
-  blue-green skin seemed to shift like tidal pools, and smaller figures that moved
-  with amphibious grace between the waves and sand. The Brajor were as Tran had described
-  them: humanoid but clearly adapted for aquatic life, with elongated limbs, webbed
-  appendages, and skin that glistened with protective oils.'
+  entity_type: CHR
+raw_quote: The Dragon Mail pulsed with what felt like anticipation mixed with apprehension.
+  Four fragments unified had brought it close to full awareness, but also close to
+  a transformation that neither Tran nor the armor fully understood.
 signal_type: entity
-source_file: raw/chapters/book_19_worthy_opponents_north_099_the_final_breath.md
+source_file: raw/chapters/book_17_ancestral_debt_089_the_white_mirror.md
 status: captured
 supersedes: null

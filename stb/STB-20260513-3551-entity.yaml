@@ -2,17 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3551
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 113
-line_start: 113
+line_end: 75
+line_start: 75
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: Tran rolled aside from another strike, his mind racing. The mirror-version
-  was right—in terms of pure combat capability, it was superior. The Dragon Mail on
-  his body was reacting defensively, but he could feel its confusion. It couldn't
-  properly fight another version of itself.
+  entity_type: CHR
+raw_quote: Isla nodded, but her attention was already captured by something else—geometric
+  patterns barely visible beneath the soil, pulsing with faint energy that mirrored
+  the rhythm Tran had described in the Star Needle.
 signal_type: entity
-source_file: raw/chapters/book_17_ancestral_debt_089_the_white_mirror.md
+source_file: raw/chapters/book_16_fragmented_beginning_085_ancient_knowledge.md
 status: captured
 supersedes: null

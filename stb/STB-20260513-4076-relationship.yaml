@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-4076
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 304
+line_start: 304
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: '"They are trying to make it permanent," he said. "The nullification. They
+  want it to be part of them, not just something they build."'
+signal_type: relationship
+source_file: raw/chapters/book_21_needle_and_thread_south_108_evolution_of_the_keeper.txt
+status: captured
+supersedes: null

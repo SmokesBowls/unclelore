@@ -2,20 +2,23 @@ audit_only: true
 buffer_id: STB-20260513-1589
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 91
-line_start: 91
+line_end: 101
+line_start: 101
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'Oreck slammed his cleaver into the glass. Green fire traced Mars’ coordinates.
-  "She holds the gateway. We walk it." Geralt flexed his new hand. Zaron’s presence
-  lingered—dimmer, fused. Dragon and keeper. Anchor and storm. Luminara’s final warning
-  echoed: *"They hunt keepers. They hunt me."* The dunes shimmered. Not with heat.
-  With transit signatures. Mika loaded her lance. "Then we hunt first." Five hundred
-  souls readied weapons. Above, Earth’s spire pulsed gold. The Dragon Nebula watched.
-  Judgment had come.'
+  entity_type: CHR
+raw_quote: 'Silence descended, thick and profound. The Akashic starscape slowly reformed
+  around them. Standing where the focal point had been, radiating impossible calm
+  amidst fading chroniton sparks, was Luminara: whole, unified, and terrifyingly present.
+  Her eyes, swirling galaxies of ancient knowledge, fixed on Geralt. A faint harmonic
+  hum resonated deep within Jorik''s bones – the newly anchored Spire node, born not
+  on a distant world, but *here*, within the Akashic pathway itself. Luminara inclined
+  her head, her voice a chorus echoing with the weight of countless Seed Jumps. "You
+  provided the anchor, Resonant Keeper. An unforeseen variable." Her gaze shifted
+  towards the depths where Mika’s signature pulsed faintly. "Now. Shall we retrieve
+  what *you* seek?"'
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
 status: captured
 supersedes: null

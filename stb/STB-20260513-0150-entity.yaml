@@ -2,18 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-0150
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 114
-line_start: 114
+line_end: 130
+line_start: 130
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: The pod shuddered as it struck atmosphere, heat building against its exterior
-  shielding. Through consciousness-channels that connected all Igigi, Pazuzu felt
-  the collective fear rippling through their population. They had survived the initial
-  Anunnaki conquest. They had endured years of processing, categorization, breeding
-  programs designed to maximize their utility as slave labor.
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: Certain locations across the island and mainland simply felt more resonant
+  than others. Vrill-energy flowed more strongly there, consciousness-touch connected
+  more readily, elements responded with greater cooperation. Giants had always known
+  this instinctively—gathering in these places for meditation, for healing, for the
+  deep communion that sustained their vast awareness.
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
 status: captured
 supersedes: null

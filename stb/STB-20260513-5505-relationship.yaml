@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5505
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 465
+line_start: 465
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: '"I don''t want to fight," he said. "Not the Cliff Giants. Not the guardian.
+  I want to connect. To show them what we built at the first point. To let them feel
+  what it means to be part of something larger."'
+signal_type: relationship
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_119_resonance_of_the_first_point.txt
+status: captured
+supersedes: null

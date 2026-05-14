@@ -2,18 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-3324
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 30
-line_start: 30
+line_end: 279
+line_start: 279
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: The sands shifted beneath Tran's feet, alive with malevolent hunger. Halfway
-  across the Heart of Faraxar, he could feel the desert's awareness focusing on him,
-  testing his resolve with each step. The Crimson Blood pulsed stronger now after
-  that strange connection to the Star Needle, giving him an almost intuitive sense
-  of where to place his feet.
+  entity_type: CHR
+raw_quote: '"I don''t know," Tran admitted, the uncertainty adding personal stakes
+  to cosmic responsibilities that were already overwhelming in their scope.'
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
+source_file: raw/chapters/book_15_legends_and_gods_079_mages_awakening.md
 status: captured
 supersedes: null

@@ -2,26 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-1331
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 4
-line_start: 4
+line_end: 1044
+line_start: 1044
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'The cavern was vast, filled with the groan of shifting ice and the scent
-  of frozen stone. Kaelen walked towards its center where a frozen waterfall plunged
-  into a deep, dark pool. Embedded within the icefall pulsed a cluster of fist-sized
-  crystals – raw chroniton nodes, humming with unstable energy. "These nodes," Kaelen
-  said, pointing, "amplify instability. They resonate with the Queen’s corrupted Spire
-  we stabilized. Left unchecked, they’ll attract worse than Chronohounds." Geralt
-  pushed himself up, ribs protesting. The applicator flashed warnings: *Unstable chroniton
-  resonance detected. Cascade risk: High.* The armor vibrated with wary interest.
-  "How?" he rasped. "Dampen them?" Kaelen shook her head. "Dampening invites collapse.
-  They must be *harmonized*. Your tripartite signature can resonate with their chaotic
-  frequency. Calm them. Like singing a wild beast to sleep." She gestured sharply.
-  "Begin. Focus on the dissonance within each node. Match it, then guide it towards
-  stability."'
+  entity_type: CHR
+raw_quote: The armor held—barely, desperately, edges of capability that Zaron provided
+  stretched beyond design parameters, the Applicator maintaining biological functions
+  that should have failed dozens of impacts ago, Geralt's will refusing to accept
+  that extinction was inevitable just because probable.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_034_the_250.md
+source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured
 supersedes: null

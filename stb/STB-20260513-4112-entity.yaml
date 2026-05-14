@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-4112
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 573
+line_start: 573
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: The word was soft, almost lost in the pulse. But it was there. And in the
+  silence that followed, Vale felt something that had been waiting for centuries finally
+  begin to move.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_108_evolution_of_the_keeper.txt
+status: captured
+supersedes: null

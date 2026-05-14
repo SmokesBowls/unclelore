@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-3255
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 71
+line_start: 71
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: The concept was both inspiring and terrifying. Viên could perceive the
+  courage required to voluntarily become part of the temporal grid, to sacrifice individual
+  freedom of movement for the sake of maintaining cosmic stability. But he could also
+  sense the profound importance of what such sacrifice could achieve.
+signal_type: relationship
+source_file: raw/chapters/book_14_lessons_of_inheritance_075_anchor_points_of_time.md
+status: captured
+supersedes: null

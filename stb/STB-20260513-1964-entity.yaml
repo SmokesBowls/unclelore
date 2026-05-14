@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-1964
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 144
-line_start: 144
+line_end: 139
+line_start: 139
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The physical proof came during a skirmish with a lone, scavenging plains-beast—a
-  sleek, furred thing with too many teeth, drawn by the scent of their exhaustion.
-  It lunged for Elara. Geralt moved.
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: Three Igigi, their once-golden armor now stained violet with corruption,
+  moving through the dead trees with mechanical precision. They weren’t guarding the
+  Needle—they were harvesting. One carried a device that siphoned the last dregs of
+  vrill from the dying trees, storing it in glowing canisters.
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_044_the_mountains_shadow.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_042_the_verdant_crossing.md
 status: captured
 supersedes: null

@@ -2,16 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-1920
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 237
-line_start: 237
+line_end: 1119
+line_start: 1119
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Mika, her face smudged with ash, made the call. "Then we hold here! We
-  hit it! We hit it and we keep hitting it until it breaks! Geralt needs time! We
-  BUY it!"
+  entity_type: CHR
+raw_quote: '*Always,* Geralt thought back.'
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_043_the_badlands_crucible.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
 status: captured
 supersedes: null

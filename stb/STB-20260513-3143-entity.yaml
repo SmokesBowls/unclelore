@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-3143
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 163
+line_start: 163
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: The flame-wreathed sword that appeared before Tran pulsed with energies
+  that connected to stellar processes operating on cosmic scales. As he grasped it,
+  feeling its power merge seamlessly with his Crimson Blood, he understood that this
+  weapon was not separate from his abilities but an extension of his will made manifest,
+  capable of channeling elemental fire in combinations and applications that would
+  allow him to serve purposes that encompassed more than simple combat or even defense.
+signal_type: entity
+source_file: raw/chapters/book_12_forged_identity_068_brotherhood_revealed.md
+status: captured
+supersedes: null

@@ -2,17 +2,20 @@ audit_only: true
 buffer_id: STB-20260513-2754
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 343
-line_start: 343
+line_end: 137
+line_start: 137
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The chamber’s air thickened with the scent of molten alloy and damp clay.
-  Geralt rolled the shard between his fingers, its resonance syncing with the faint
-  hum of his reforged bones. Violet Mika’s cloak brushed his shoulder—a whisper of
-  solidarity, or maybe just the draft from the vent shaft’s sealed maw.
+  entity_type: CHR
+raw_quote: The ash clung to Geralt's thighs like a ghost's fingerprints—first one
+  gust, then another, swirling the ember-flecked remnants of last night's fire directly
+  into his lap. No wind had touched the camp. The air was still as a held breath.
+  Kyh's shadow recoiled from the phenomenon, her edges flickering like a candle in
+  a draft. "Reality hiccups," Kulla muttered, kneading a fistful of clay into the
+  ground as if to plug a leak. Geralt said nothing. He brushed the ash away, watching
+  it dissolve before hitting the earth. Some farewells didn't need words.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
 status: captured
 supersedes: null

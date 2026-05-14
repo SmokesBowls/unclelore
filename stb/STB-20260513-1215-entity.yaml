@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-1215
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 848
-line_start: 848
+line_end: 89
+line_start: 89
 parsed_payload:
   confidence: medium
   entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: They moved through corridors that suggested architecture designed for beings
-  larger than humans, that carried aesthetic suggesting divine authority rather than
-  simple functionality. Everything gleamed—golden surfaces, sophisticated systems,
-  technology that made Anunnaki ground facilities seem crude by comparison.
+  entity_type: FAC
+raw_quote: '*Host,* the Applicator stirred with unusual caution. *I''m detecting...
+  anomalies. Energy signatures that don''t match standard Anunnaki technology. Frequencies
+  that suggest something older. Pre-conquest.*'
 signal_type: entity
 source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured

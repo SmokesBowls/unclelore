@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-6078
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 157
+line_start: 157
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: In the grove, the Nephoretti sharpened their tones another fraction. The
+  binding tones held. The shield held. The dregans' screams were further away now,
+  and the singers did not know why, and they did not stop to ask. They were inside
+  the song, and the song was returning to itself, quarter-step by quarter-step, toward
+  the old First Shore baseline that had been silent for a year and was silent no longer.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_129_calibration_drift.txt
+status: captured
+supersedes: null

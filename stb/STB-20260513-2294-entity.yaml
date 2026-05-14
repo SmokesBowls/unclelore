@@ -2,15 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-2294
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 262
-line_start: 262
+line_end: 38
+line_start: 38
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Luminaire's voice, weak but clear, spoke through Geralt. "The spire is
-  a bridge. A neutral instrument. It serves the network—"
+  entity_type: CHR
+raw_quote: They were everywhere. Clinging to shelves, peering from behind woven hangings.
+  One dropped from the ceiling, landing with a soft thump. Geralt’s hand twitched,
+  the armor plating on his forearm snapping an inch from his skin before he forced
+  it down.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
+source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
 status: captured
 supersedes: null

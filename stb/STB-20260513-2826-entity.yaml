@@ -2,18 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-2826
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 108
-line_start: 108
+line_end: 197
+line_start: 197
 parsed_payload:
   confidence: medium
-  entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: Something in Tran's chest exploded into flame—not literal fire, but something
-  far more fundamental, a burning that seemed to originate in his very soul and flow
-  outward through every cell of his body. The heat he had felt earlier was nothing
-  compared to this, a conflagration that should have consumed him but instead filled
-  him with strength beyond anything he had ever imagined possible.
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: 'Geralt inhaled. The air smelled of lightning and wet ink. He understood
+  now—Zypher hadn''t sent him to die, but to *crystallize*. The abyss had stripped
+  away everything contingent, leaving only the irreducible contradictions: the wounds
+  that remembered being whole, the stolen divinity that refused to fade. He was no
+  longer an anchor. He was the *hook*.'
 signal_type: entity
-source_file: raw/chapters/book_11_blood_and_legacy_060_echoes_of_the_cradle.md
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
 status: captured
 supersedes: null

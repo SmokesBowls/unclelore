@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-5629
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 39
+line_start: 39
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: '"They''ll feel it," Vale said. "When they try to enter. The absence. The
+  silence."'
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_121_aligning_the_pattern_at_the_labyrinths_threshold.txt
+status: captured
+supersedes: null

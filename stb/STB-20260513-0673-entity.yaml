@@ -2,18 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0673
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 1257
-line_start: 1257
+line_end: 523
+line_start: 523
 parsed_payload:
   confidence: medium
   entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: Around the compound, freed slaves rallied. The five converged on the Anunnaki
-  from different angles, attacking with coordinated strategy that suggested either
-  practiced teamwork or residual connection to each other they hadn't fully acknowledged.
-  Their spears struck from multiple directions, forcing the golden figure to defend,
-  to divide attention.
+  entity_type: FAC
+raw_quote: '"We observe. We report. We do not interfere with indigenous development,
+  no matter how... unpleasant the circumstances." The second Pleiadian''s voice carried
+  finality. "That is the law. That is what separates us from the Anunnaki."'
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
+source_file: raw/chapters/book_05_the_nameless_one_024_the_first_spark.md
 status: captured
 supersedes: null

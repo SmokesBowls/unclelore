@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0846
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 307
-line_start: 307
+line_end: 408
+line_start: 408
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Before Geralt could answer, her body moved—impossibly fast for something
-  so large, coils shifting through space that should have required far more time to
-  traverse.
+  entity_type: CHR
+raw_quote: '"That''s... actually acceptable. Unexpected benefit of your presence."
+  Zaron''s attention returned to Geralt. "So. Three minds. One body. One purpose.
+  Can you handle that? Can you be yourself while hosting Aeon Keeper AND Anunnaki
+  construct?"'
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+source_file: raw/chapters/book_05_the_nameless_one_026_dragonmail.md
 status: captured
 supersedes: null

@@ -2,17 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2232
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 331
-line_start: 331
+line_end: 81
+line_start: 81
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Oreck didn’t hesitate. He threw a smoke-charge from his belt, grabbed Geralt,
-  and dove off the canyon trail into the raging river below as the false Emissary’s
-  hand extended, not to grab, but to serve papers of foreclosure that would have unmade
-  them from history.
+  entity_type: CHR
+raw_quote: Geralt pointed. High on the cliff face, beneath the falcons' now-visible
+  nest, a scrap of fabric fluttered. Mika scrambled up the loose scree, her heart
+  pounding. She pulled it free.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_047_mika.md
 status: captured
 supersedes: null

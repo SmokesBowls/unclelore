@@ -2,15 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-1822
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 1147
-line_start: 1147
+line_end: 161
+line_start: 161
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: Around her, the cistern fell still. The corrupted Igigi had dissolved.
-  The Sludge-drakes returned to ordinary water. Even Serpentor-Prime's armor cracked,
-  violet circuits dying as Mika's lance remained buried in its chest.
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: Geralt was silent for a long moment. In the background hum of Luminara's
+  presence, he felt her listening. Learning.
 signal_type: entity
 source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
 status: captured

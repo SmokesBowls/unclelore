@@ -2,16 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-3409
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 97
-line_start: 97
+line_end: 280
+line_start: 280
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: '"Yes," Tran admitted, remembering the sensation in the Memory Pool. "After
-  we retrieved the Blue Fragment... it''s as if they''re trying to communicate. Like
-  they''re starting to remember me."'
+  entity_type: CHR
+raw_quote: Tran ran a hand through his hair in frustration. "Isla—"
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_084_earth_giants_and_diverging_paths.md
+source_file: raw/chapters/book_15_legends_and_gods_080_the_whispers_between_worlds.md
 status: captured
 supersedes: null

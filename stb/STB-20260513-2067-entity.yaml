@@ -2,17 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2067
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 131
-line_start: 131
+line_end: 144
+line_start: 144
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt’s world narrowed to fire, noise, and death. He ran, the dragon armor
-  deflecting glancing bolts that would have cooked a normal man. He fired his energy
-  staff, the recoil a steady beat against his palm. A soldier to his left vanished
-  in a flash of light. Another fell, screaming, his leg gone below the knee.
+  entity_type: CHR
+raw_quote: The physical proof came during a skirmish with a lone, scavenging plains-beast—a
+  sleek, furred thing with too many teeth, drawn by the scent of their exhaustion.
+  It lunged for Elara. Geralt moved.
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_046_not_like_this.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_044_the_mountains_shadow.md
 status: captured
 supersedes: null

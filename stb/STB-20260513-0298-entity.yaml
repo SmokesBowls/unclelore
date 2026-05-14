@@ -2,16 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-0298
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 11
-line_start: 11
+line_end: 113
+line_start: 113
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: And among them, Pazuzu—elder of the Igigi, having survived three and a
-  half millennia of slavery, his elongated form diminished by age but consciousness
-  sharper than ever.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: Eduhauana turned back toward her vessel, calculation complete, strategy
+  determined. "Continue construction with current resources. Accept the delays—they're
+  now serving secondary purposes. Before departure, I will personally program select
+  Igigi with consciousness-commands carrying the lies we need planted. The Giants
+  will trust them because they recognize fellow victims of Anunnaki conquest."
 signal_type: entity
-source_file: raw/chapters/book_03_the_reckoning_012_nephilim_summoning.md
+source_file: raw/chapters/book_02_age_of_servitude_008_queens_assessment.md
 status: captured
 supersedes: null

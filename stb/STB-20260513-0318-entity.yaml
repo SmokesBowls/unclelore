@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0318
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 87
-line_start: 87
+line_end: 59
+line_start: 59
 parsed_payload:
   confidence: medium
-  entity_name: Aeon Keepers
-  entity_type: UNKNOWN
-raw_quote: The Aeon Keepers didn't manifest—they couldn't, sealed in the Ethereal
-  Realm to maintain the Akashic Records. But their consciousness touched the communion,
-  ancient and vast and carrying weight of purposes that spanned cosmological scales.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: The Giant was working on the Needle's upper structure—not because Anunnaki
+  commanded it, but because Pazuzu had asked. Had explained that this particular geometric
+  pattern, if left incomplete, would create vrill-resonance instabilities that might
+  harm both Giants and Igigi in the surrounding area.
 signal_type: entity
-source_file: raw/chapters/book_03_the_reckoning_012_nephilim_summoning.md
+source_file: raw/chapters/book_03_the_reckoning_009_stalemate_departure_the_first_coming.md
 status: captured
 supersedes: null

@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-2609
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 217
-line_start: 217
+line_end: 203
+line_start: 203
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Kyh's shadow-form flickered beside Geralt, her edges frayed where the net's
-  afterglow had licked too close. "It's tuned to dragon-song," she breathed. "The
-  more they fight—"
+  entity_type: CHR
+raw_quote: The information was vast, cold, and absolute. It threatened to unravel
+  his own sense of self. The story of Geralt, the slave, the rebel, the wearer of
+  Dragon Mail—it felt terrifyingly small, a flickering subplot against this canvas
+  of dying gods and rewritten destiny.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
+source_file: raw/chapters/book_09_bureaucratic_debt_054_tue_lunar_spire.md
 status: captured
 supersedes: null

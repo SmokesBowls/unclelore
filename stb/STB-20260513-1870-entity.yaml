@@ -2,14 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-1870
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 173
-line_start: 173
+line_end: 642
+line_start: 642
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt had no answer.
+  entity_type: CHR
+raw_quote: Geralt stumbled behind her, Lyra and four guards forming a protective box.
+  Each step sent jolts of agony through his failing body. His vision kept graying
+  out, consciousness flickering.
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_042_the_verdant_crossing.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
 status: captured
 supersedes: null

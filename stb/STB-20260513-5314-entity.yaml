@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-5314
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 125
+line_start: 125
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: The city was alive with the sounds of work—stone being shaped, vrill humming
+  through new channels, voices calling back and forth across the terraces. But beneath
+  the ordinary noise, Vale felt something different. A quality of sound. Not discord.
+  Not harmony. Something in between. The productive friction of people who were learning
+  to build together, argue together, grow together.
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_118_the_constant_and_friction_of_becoming.txt
+status: captured
+supersedes: null

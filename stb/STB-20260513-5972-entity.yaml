@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5972
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 35
+line_start: 35
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: First Shore was lost. Not in a day, but in an attrition as grinding as
+  any Shadow. The Needle chamber was taken. The vrill channels were severed or redirected.
+  The resonance that had sustained the city through two centuries of darkness was
+  finally, utterly broken.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_128_one_degree_above.txt
+status: captured
+supersedes: null

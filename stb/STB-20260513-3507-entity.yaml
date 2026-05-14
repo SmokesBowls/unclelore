@@ -2,14 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-3507
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 90
-line_start: 90
+line_end: 19
+line_start: 19
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: Tran stared at the images with growing horror. "They're... harvesting you?"
+  entity_type: CHR
+raw_quote: As the group settled on the shore, taking a moment to dry themselves and
+  rest, Tran recounted what the Memory Pool had revealed—the living world of Tiamat,
+  the shattering that scattered its essence, the Aeon Keeper named Zaron who sacrificed
+  himself to preserve balance by binding his consciousness to the fragments, and the
+  approaching vessel carrying the Starbound Queen, Enheduanna.
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_087_the_breath_of_life.md
+source_file: raw/chapters/book_16_fragmented_beginning_084_earth_giants_and_diverging_paths.md
 status: captured
 supersedes: null

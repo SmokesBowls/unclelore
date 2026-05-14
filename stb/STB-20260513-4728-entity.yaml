@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-4728
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 920
+line_start: 920
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: They walked in silence. Vale did not ask what the sound was. He did not
+  ask what happened next. But he watched Zephyr's posture—straight, not tense. A man
+  who had faced something and not broken.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_112_eastern_system.txt
+status: captured
+supersedes: null

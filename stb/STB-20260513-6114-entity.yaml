@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-6114
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 13
+line_start: 13
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: She was old. Older than the female who had spoken the first syllable in
+  the eastern channel. Older than the male who had spoken the second in the south.
+  Her robes were the same patched robes all the enslaved Igigi wore, but they hung
+  on her frame like something that had been worn for centuries, washed and mended
+  and washed again until the original thread was only memory. She was kneeling in
+  the corner where the chimney met the wall, her palm pressed flat against the stone,
+  her lips moving soundlessly.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_130_within_tolerance.txt
+status: captured
+supersedes: null

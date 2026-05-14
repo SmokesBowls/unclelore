@@ -2,21 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3164
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 5
-line_start: 5
+line_end: 67
+line_start: 67
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: In the depths of space, where starlight bent around gravitational wells
-  that defied conventional physics, the Anunnaki flagship Nibiru's Crown hung like
-  a bleeding star against the void. Its crystalline spires cut through the darkness
-  with geometries that hurt to perceive directly, their surfaces reflecting light
-  that hadn't originated from any known stellar source. The massive vessel was less
-  ship than mobile fortress-world, its bio-mechanical architecture pulsing with the
-  rhythm of technologies that merged consciousness with matter in ways that transcended
-  purely mechanical engineering.
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: '"And I''m the activation key," Tran declared, his recognition of his role
+  carrying both pride in his heritage and awareness of the magnitude of responsibilities
+  that were being prepared for his acceptance.'
 signal_type: entity
-source_file: raw/chapters/book_15_legends_and_gods_078_the_queens_return.md
+source_file: raw/chapters/book_12_forged_identity_069_divergent_paths.md
 status: captured
 supersedes: null

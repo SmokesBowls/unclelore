@@ -2,18 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-3810
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 345
-line_start: 345
+line_end: 34
+line_start: 34
 parsed_payload:
   confidence: medium
-  entity_name: Nephoretti
-  entity_type: UNKNOWN
-raw_quote: The grove giants became part of Garden Grove in a way they had not been
-  before. They helped rebuild the walls, shaping stone with techniques the Nephoretti
-  had taught them, adding their own geometries to the defenses. They shared the language
-  that was growing between them, word by word, note by note. And they stood watch
-  at the boundary, their eyes always on the east.
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: Tran came next, the Dragon Mail complete and singing with power. But something
+  was different—there was an emptiness in the armor that hadn't been there before,
+  as if it was waiting for something. Zaron's consciousness, so recently unified with
+  Tran's, seemed subdued, expectant. Those who knew the armor's history could sense
+  the anticipation—the final piece of the ancient puzzle was about to fall into place.
 signal_type: entity
-source_file: raw/chapters/book_20_the_discordant_pulse_south_105_garden_grove.md
+source_file: raw/chapters/book_19_worthy_opponents_north_102_convergence_on_mars.md
 status: captured
 supersedes: null

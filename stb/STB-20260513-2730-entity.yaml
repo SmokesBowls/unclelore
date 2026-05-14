@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-2730
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 231
-line_start: 231
+line_end: 37
+line_start: 37
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'Geralt''s cyborg heart stuttered. His vision split—one eye tracking the
-  clone''s seamless face, the other whirring through fractured spectra. He saw it
-  then: the faintest tremor in the clone''s lower lip. Not a flaw. A *hesitation*.'
+  entity_type: CHR
+raw_quote: Geralt didn't grace that with an answer. He turned instead toward the guild's
+  great oculus, where Earth hung like a gutted jewel. The last blue was gone now,
+  swallowed by the Queen's relentless white. But something new flickered at the edges—a
+  tremble in the monochrome, subtle as a heartbeat under skin.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
 status: captured
 supersedes: null

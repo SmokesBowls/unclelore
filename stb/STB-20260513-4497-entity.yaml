@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-4497
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 273
+line_start: 273
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: When the light began to fade, Vale made a decision. "We stay one more night,"
+  he said. "You need the rest. Tomorrow we start walking west." The Igigi nodded—a
+  small dip of the head. Vale pulled the robe higher over the Igigi's shoulders, then
+  sat beside him, back against the log. The cold crept in, but they had each other's
+  warmth. The stars came out. The water was dark. No shimmer. No pressure. Just the
+  two of them on the shore. Vale did not sleep. He watched the stranger breathe, and
+  waited for the morning.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_112_eastern_system.txt
+status: captured
+supersedes: null

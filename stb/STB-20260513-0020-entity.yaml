@@ -2,17 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-0020
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 118
-line_start: 118
+line_end: 94
+line_start: 94
 parsed_payload:
   confidence: medium
-  entity_name: Aeon Keepers
-  entity_type: UNKNOWN
-raw_quote: Lyaris considered this carefully. On Tiamat, the Nephoretti had served
-  as extensions of the Aeon Keepers' will—helpers, assistants, intermediaries between
-  ethereal consciousness and physical reality. But that relationship had been built
-  on proximity. The Aeon Keepers had walked among them in physical form, had provided
-  direct guidance and immediate correction.
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: The discussion continued, each consciousness contributing expertise from
+  their specialized domains. Theron calculated the optimal timing for manifestation—when
+  planetary conditions would be most favorable. Korath designed the fundamental parameters
+  that would govern Nephoretti physiology and abilities. Lyaris crafted the consciousness-seeds
+  that would give the Nephoretti autonomy while maintaining their connection to the
+  Aeon Keepers' purpose.
 signal_type: entity
 source_file: raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
 status: captured

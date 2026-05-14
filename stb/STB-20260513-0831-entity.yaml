@@ -2,15 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0831
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 221
-line_start: 221
+line_end: 318
+line_start: 318
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt stepped through the doorway, and Oreck followed—both entering darkness
-  that swallowed light and sound with equal efficiency.
+  entity_name: Aeon Keepers
+  entity_type: FAC
+raw_quote: '"Aeon Keepers cannot fight. Cannot intervene directly. Cannot tip scales
+  or influence outcomes. But a weapon can. A tool wielded by a champion is not an
+  Aeon Keeper acting—it''s the champion acting with Aeon Keeper knowledge."'
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+source_file: raw/chapters/book_05_the_nameless_one_026_dragonmail.md
 status: captured
 supersedes: null

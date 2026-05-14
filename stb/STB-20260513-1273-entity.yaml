@@ -2,22 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-1273
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 21
-line_start: 21
+line_end: 678
+line_start: 678
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'A harsh cry shattered the tense silence. Geralt flinched, eyes snapping
-  upward. A falcon circled high overhead, its silhouette stark against the bruised
-  sky. Its cry echoed again, sharp and demanding. Geralt’s gaze flicked to Kaelen.
-  Her expression hadn''t changed, yet he caught it – a fleeting micro-expression,
-  a flicker of recognition directed skyward. Memory slammed into him: the desperate
-  climb onto the airship’s deck, the falcon’s piercing cry moments before the impact,
-  its wings catching the last light as darkness swallowed him. *That falcon*. His
-  eyes narrowed, locking onto Kaelen’s impassive face. "Yours?" he rasped, suspicion
-  hardening his voice. "How long have you been watching? Since before the crash?"'
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: '"Geralt. That vessel is twenty-five miles in diameter. It carries thousands
+  of Anunnaki. Weapons systems that could vaporize this entire region. Defensive capabilities
+  that make approaching it suicidal. How exactly do you propose we—"'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_032_the_redo.md
+source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured
 supersedes: null

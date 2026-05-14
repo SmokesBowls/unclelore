@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-4938
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 62
+line_start: 62
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale watched the grove giants. They were communicating—quick flickers of
+  crystal light, subtle shifts in stance. Coordinating. But their coordination was
+  with each other, not with the stone. They moved like a hunting pack circling prey,
+  but the prey was a fracture in bedrock that had been spreading for three hundred
+  years. It did not care about their formations.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_115_the_shape_of_asking.txt
+status: captured
+supersedes: null

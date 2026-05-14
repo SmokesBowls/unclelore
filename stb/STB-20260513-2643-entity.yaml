@@ -2,16 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-2643
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 115
-line_start: 115
+line_end: 176
+line_start: 176
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt didn't ask the golem. Kulla paused mid-motion, regolith dripping
-  between his fingers. "Foundation holds," he grunted, patting the earth like a loyal
-  hound. The ground pulsed once in agreement.
+  entity_type: CHR
+raw_quote: The walk across the tether was a journey through a nightmare. The psychic
+  residue of agony buzzed in their teeth. They passed slaves, their eyes vacant, their
+  mouths moving in silent prayers. Geralt marked them as soft nodes—their fate could
+  be changed. He absorbed the cascade of that hope, holding it as a knot of tension
+  in his gut.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
+source_file: raw/chapters/book_09_bureaucratic_debt_055_the_anchors_forge.md
 status: captured
 supersedes: null

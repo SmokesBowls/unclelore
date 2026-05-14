@@ -2,17 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0727
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 181
-line_start: 181
+line_end: 547
+line_start: 547
 parsed_payload:
   confidence: medium
-  entity_name: Nehereti
-  entity_type: UNKNOWN
-raw_quote: This is the Ethereal aspect, the Nehereti's voice came from everywhere
-  and nowhere. The Library exists in multiple realms simultaneously. What you see
-  in physical space is projection. This—this is the truth of it. The space between
-  spaces where consciousness can move unbound by flesh.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: 'One Anunnaki remaining: designated overseer for transitional period, tasked
+  with ensuring freed slaves didn''t immediately destroy what had been built, monitoring
+  compliance with Federation directive, reporting violations if they occurred.'
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_026_dragonmail.md
+source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
 status: captured
 supersedes: null

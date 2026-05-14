@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3592
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 40
+line_start: 40
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: The Dragon Mail finally settled, though Tran could still feel it humming
+  with excitement or anxiety—he couldn't tell which. The sentience within the armor
+  seemed overwhelmed by the presence of the Nefretti, like someone encountering old
+  friends after centuries of separation.
+signal_type: entity
+source_file: raw/chapters/book_16_fragmented_beginning_087_the_breath_of_life.md
+status: captured
+supersedes: null

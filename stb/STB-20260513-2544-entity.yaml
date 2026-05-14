@@ -2,16 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-2544
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 197
-line_start: 197
+line_end: 151
+line_start: 151
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: There was no time for a better plan. With Oreck and Kulla holding off the
-  alerted slaver guards, and Kyh weaving shadows to blunt the worst of the psychic
-  barrage, Geralt approached the pulsating crystal core.
+  entity_type: CHR
+raw_quote: They burst into the vast cavern, and the sight stole Geralt’s breath.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_055_the_anchors_forge.md
+source_file: raw/chapters/book_09_bureaucratic_debt_053_the_twilight_city.md
 status: captured
 supersedes: null

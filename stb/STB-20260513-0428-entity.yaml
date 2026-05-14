@@ -2,19 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0428
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 209
-line_start: 209
+line_end: 127
+line_start: 127
 parsed_payload:
   confidence: medium
   entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: '"Collective-individual integration protocol," the Sage observed as he
-  monitored teaching sessions that included consciousness-forms from seven different
-  species. "Anunnaki network-awareness provides instantaneous information distribution.
-  Human experiential learning ensures thorough integration of complex concepts. Igigi
-  mathematical precision offers logical frameworks for organizing diverse approaches.
-  Each contribution enhances the others rather than competing with them."'
+  entity_type: FAC
+raw_quote: The Nephilim had completed their purpose—eliminated Anunnaki creatures,
+  fulfilled cosmic law's requirements for balance. They departed as efficiently as
+  they'd manifested, their consciousness returning to quantum foam, their forms dissolving
+  back into the vrill-energy from which they'd been constructed.
 signal_type: entity
-source_file: raw/chapters/book_04_sage_saga_020_the_collapse.md
+source_file: raw/chapters/book_03_the_reckoning_015_betrayal.md
 status: captured
 supersedes: null

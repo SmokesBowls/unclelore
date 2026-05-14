@@ -2,26 +2,28 @@ audit_only: true
 buffer_id: STB-20260513-1489
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 71
-line_start: 71
+line_end: 59
+line_start: 59
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'Althurion turned, facing them fully on the plaza''s edge. **"You seek
-  the Buried Resonance,"** he stated, harmonics resonating with the deep thrum of
-  the mountain itself. **"The Annunaki artifact beneath our peaks. Not a trophy. A
-  ward."** His gaze pinned Geralt. **"Its activation risks unleashing what it contains.
-  The Akashic Records are not mere data. They are *potential*. Unfiltered, they consume."**
-  He gestured towards the crystalline archives. **"Prove you understand consequence.
-  Prove you seek not just power, but wisdom’s anchor."** The implication was clear:
-  Access required a demonstration of harmony beyond mere survival. Geralt felt the
-  Star Needle emblem pulse against his chest. The Spire wasn’t just a tool. It was
-  a responsibility echoing the Giants’ own guardianship. He glanced at Jorik, whose
-  hand rested protectively on his unique bow – a symbol of necessity tempered by purpose.
-  Humanity’s footprint wasn''t just defiance. It was the understanding Althurion demanded.
-  Geralt squared his shoulders. "Show me the trial."'
+  entity_type: CHR
+raw_quote: Kaelen pressed a small, cold chroniton shard into his palm. "This holds
+  your external timeline. Wear it visibly. It marks you as... unusual. Use it." She
+  gestured towards the shimmering boundary. "Step through. Find the key individual
+  – the one whose unresolved pain resonates strongest with the anchor carving. Help
+  them face it before the cycle resets." Geralt gripped the shard. "What happens if
+  I fail?" Kaelen's expression was stark. "The loop continues. The settlement stagnates.
+  And Xal'Zirith's influence grows stronger within fractured time." Geralt took a
+  breath. Failure wasn't an option. He stepped forward, the temporal boundary parting
+  like cold water. The world shifted subtly – sounds sharpened, colors deepened. He
+  stood at the settlement's edge. A farmer trudged past, leading grivets. He glanced
+  at Geralt, eyes widening slightly at the glowing shard pinned to Geralt's overshirt.
+  The echo had begun. Geralt scanned the plaza. His eyes locked onto a young woman
+  kneeling by the grivet carving, silently tracing the stone kits with trembling fingers.
+  Her grief was a raw, palpable thing. The anchor point. Katherine's owner. Sully.
+  Geralt walked towards her. The settlement held its breath.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
+source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
 status: captured
 supersedes: null

@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-0711
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 1101
+line_start: 1101
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: And in the deep places beneath the mines, something ancient stirred in
+  response to the new presence, recognizing power that hadn't walked these tunnels
+  since before the Anunnaki came.
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_024_the_first_spark.md
+status: captured
+supersedes: null

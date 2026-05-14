@@ -2,16 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-2422
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 19
-line_start: 19
+line_end: 420
+line_start: 420
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: He is correct, Violet murmured in Geralt’s mind, her harmonics tinged with
-  unease. This is not soil. It is memory given particulate form. The entire world
-  is an archive of its own death.
+  entity_type: CHR
+raw_quote: '"Vek, no—" Geralt began, but Vek''tar cut him off.'
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_053_the_twilight_city.md
+source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
 status: captured
 supersedes: null

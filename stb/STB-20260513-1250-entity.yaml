@@ -2,15 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-1250
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 1094
-line_start: 1094
+line_end: 428
+line_start: 428
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt stood—armor protesting, consciousness fragmenting slightly before
-  three minds coordinated to maintain coherence, body suggesting strongly that remaining
-  prone was preferable to continued movement.
+  entity_type: CHR
+raw_quote: Geralt turned toward the Five—desperate for validation, for proof that
+  he wasn't insane, for confirmation that memory was shared rather than isolated hallucination.
 signal_type: entity
 source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured

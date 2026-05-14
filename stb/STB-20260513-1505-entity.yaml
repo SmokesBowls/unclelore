@@ -2,28 +2,22 @@ audit_only: true
 buffer_id: STB-20260513-1505
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 105
-line_start: 105
+line_end: 91
+line_start: 91
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'Luminara stepped forward, her form shimmering slightly. "Your Legion Commander,"
-  she stated, her voice resonating with the Akashic pulse, "did not merely endure
-  the void. They *clung*." She gestured, and the starscape fractured into a vision:
-  soldiers adrift in temporal eddies, drowning in oblivion. Then, a familiar resonance
-  pulsed – Mika’s raw, desperate focus on Geralt’s survival, amplified by the temporal
-  bleed rippling from his assault on Xal''Zirith’s scar. "Your fury tore the scar,
-  Geralt, but it spilled chroniton chaos outward. Within that bleed, Mika’s unwavering
-  belief in you became a lifeline. Her echo of existence, her primal drive to reunite,
-  resonated across the Eddy." The vision shifted: warriors latching onto Mika’s psychic
-  signature, pulled from non-existence not by Geralt’s straining hands, but by the
-  anchor forged from *her* love and *his* relentless refusal to yield. "Where others
-  felt loss, you pushed harder. Your determination sculpted the Eddy itself. Your
-  Legion didn’t escape oblivion. They were *salvaged* by the bond you share." Luminara’s
-  galactic eyes held his. "This node isn’t just my anchor. It’s the confluence of
-  your purpose."'
+  entity_type: CHR
+raw_quote: Now, Geralt stood at the Nexus’s primary anchor point – a stable platform
+  overlooking the churning basin of fractured moments. The Star Needle spire, its
+  chroniton core now humming with calibrated purpose, pulsed steadily beside him.
+  Kaelen faced him, her form shimmering slightly against the vortex-light. "The spire
+  is attuned," she stated, her voice devoid of inflection. "It will translate you
+  back to your origin point – the crash site. Its chroniton resonance will guide you
+  to the other Void Spires. Nine anchors. Two dormant. Find them. Stabilize them.
+  Learn their secrets." She gestured towards the spire. "Your path lies outward now.
+  Not within."
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
+source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
 status: captured
 supersedes: null

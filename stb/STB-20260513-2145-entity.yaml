@@ -2,15 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2145
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 31
-line_start: 31
+line_end: 415
+line_start: 415
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: No Anunnaki signals had been detected in eight years. No corruption blooms.
-  No temporal rifts. The network held. The land, though scarred, was clean.
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: The mountain screamed. The chamber shuddered like a dying beast. Geralt
+  clawed his way to his feet.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_048_the_ledger_born.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_045_the_hub_falls.md
 status: captured
 supersedes: null

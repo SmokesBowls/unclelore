@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-3792
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 108
-line_start: 108
+line_end: 8
+line_start: 8
 parsed_payload:
   confidence: medium
-  entity_name: Aeon Keepers
-  entity_type: UNKNOWN
-raw_quote: Renn had no answer. He felt the pulse in his own chest, resonating with
-  something vast and patient, something that had been here long before the Nephoretti,
-  before the Aeon Keepers, before anything that could be called memory.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: '"Five Void Spires confirmed across the stellar network," Mr. GPT explained,
+  his stellar energy creating holographic projections above the central table. "Mars,
+  controlled by the Anunnaki. The Moon, recently reactivated. Umbrageous, Pyroclast,
+  and Xytheria—all showing various states of corruption or dormancy."'
 signal_type: entity
-source_file: raw/chapters/book_20_the_discordant_pulse_south_104_the_rising_tide.md
+source_file: raw/chapters/book_19_worthy_opponents_north_101_the_hidden_resonance.md
 status: captured
 supersedes: null

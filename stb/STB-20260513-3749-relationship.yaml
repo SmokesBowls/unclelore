@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-3749
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 114
+line_start: 114
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: '"Because it wanted to remain hidden," Sathinee explained. "It''s been
+  part of your systems so long, it feels natural. But watch—"'
+signal_type: relationship
+source_file: raw/chapters/book_18_inquisition_of_yourself_097_hearts_of_ash_and_fire.md
+status: captured
+supersedes: null

@@ -2,15 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-0893
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 695
-line_start: 695
+line_end: 141
+line_start: 141
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: By the time they emerged into desert sunlight, coordination had improved
-  marginally. Enough that Geralt could walk without destroying his surroundings. Not
-  enough that he felt confident attempting anything more complex.
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: '"Tell me about them. The Nehereti. The Aeon Keepers. The beings who gave
+  you speech and now offer armor."'
 signal_type: entity
 source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured

@@ -2,21 +2,20 @@ audit_only: true
 buffer_id: STB-20260513-3110
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 436
-line_start: 436
+line_end: 417
+line_start: 417
 parsed_payload:
   predicate: serves
   subject: UNRESOLVED
   target: UNRESOLVED
   temporal_scope: unresolved
-raw_quote: She sensed that others like her were awakening in distant places, accepting
-  similar responsibilities and accessing comparable repositories of preserved knowledge
-  while preparing for challenges that would reshape the very foundations of existence
-  according to principles that served cosmic welfare through individual development
-  and cooperative achievement. The recognition of cosmic scope and systematic preparation
-  provided both encouragement and sobering awareness of the magnitude of what was
-  approaching.
+raw_quote: The library that had served as the site of Isla's awakening to the First
+  Tongue now became the launching point for adventures that would test everything
+  they had learned about their own nature and cosmic purpose. The ancient knowledge
+  they had discovered was about to be applied to challenges that would determine not
+  just their own development but the successful fulfillment of patterns that encompassed
+  the welfare of consciousness throughout the galaxy.
 signal_type: relationship
-source_file: raw/chapters/book_12_forged_identity_070_spheres_truth.md
+source_file: raw/chapters/book_11_blood_and_legacy_066_the_first_tongue.md
 status: captured
 supersedes: null

@@ -2,23 +2,26 @@ audit_only: true
 buffer_id: STB-20260513-1694
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 47
-line_start: 47
+line_end: 4
+line_start: 4
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'The core nexus beckoned—a pulsing heart of corrupted crystal deep within
-  the spire’s base. Lyra’s rig spat diagnostics onto the sand: "Harmonic dissonance
-  peaking—threshold in eighteen seconds!" Geralt plunged his gauntlet into the fracture.
-  Luminara’s agony seared his nerves—but beneath the violet decay, her true song fought.
-  Pure. Golden. Desperate for release. "Pour it into her!" Geralt commanded. Oreck
-  channeled chroniton stability through the lattice. Mika’s shieldbearers amplified
-  Luminaire’s fading pulse. Halvar roared as his blade glowed white-hot, severing
-  corrupted energy tendrils anchoring the decay. The Legion became a single instrument.
-  Five hundred souls resonating with one purpose: cleanse the anchor. Free the Keeper.
-  Go home.'
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: 'Geralt didn’t shout. He pointed. Oreck’s arrows flew—green chroniton trails
+  cutting precise arcs. They struck three Needles simultaneously. Crystal shrieked.
+  Violet light stuttered. Halvar charged—a silent avalanche of muscle and fury. His
+  blade sliced through Reptilian spines before they turned. Shieldbearers surged forward,
+  locking overlapping barriers as Igigi scattered in confusion. Mika’s lance became
+  a conductor’s baton, directing Legionnaires to isolate each spire. Luminaire’s song
+  surged through Geralt, pure and furious. He plunged his gauntlet into the corrupted
+  Nexus pool. Cold fire raced up his arm—Anunnaki rot fighting Earth’s heartbeat.
+  Black tendrils lashed, tearing at his soul. *"Pour it back!"* Luminaire cried. Geralt
+  roared, pouring five hundred Legion souls’ harmonic will through the gauntlet. Gold
+  light erupted, incinerating the darkness. The Needles shattered like glass. For
+  a heartbeat, the Garden breathed free. Luminaire sighed: *"Anchor... held..."* But
+  reptilian horns blared in the distance. The hunt was on.'
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_040_the_dragon_wars.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_039_jungle_fever.md
 status: captured
 supersedes: null

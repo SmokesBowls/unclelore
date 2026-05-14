@@ -2,18 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-2416
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 369
-line_start: 369
+line_end: 376
+line_start: 376
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt clutched his chest. The Anchor bond was intact, but the pathway
-  Luminaire had used—the conduit for the raw, founding Architect authority—was gone.
-  Not damaged. Consumed. The crystallized scars on his skin had turned a dull, opaque
-  white, like marble. They were no longer wounds; they were monuments to a power spent
-  forever.
+  entity_type: CHR
+raw_quote: Geralt looked at the shattered warning. "Prison for what?"
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_052_entry_without_standing.md
+source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
 status: captured
 supersedes: null

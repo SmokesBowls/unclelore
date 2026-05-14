@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-2367
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 278
-line_start: 278
+line_end: 636
+line_start: 636
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: · When a tunnel ahead pulsed with the promise of a flash-vent, Geralt would
-  raise the Hydros Crystal. A wave of cold, silent absorption would wash forward,
-  quenching the thermal build-up, leaving the passage dark and brittle but safe.
+  entity_type: CHR
+raw_quote: Luminaire’s anger was a cold fire in Geralt’s veins. “If they control this
+  spire, they control the only stable access point to the network. They will not stabilize
+  it. They will dissect it. Weaponize the correlations. They will become the arbiters
+  of reality, and they will fail, because they understand power, not harmony.”
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_051_arrival_in_fire.md
+source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
 status: captured
 supersedes: null

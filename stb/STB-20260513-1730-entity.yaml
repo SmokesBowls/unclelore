@@ -2,14 +2,20 @@ audit_only: true
 buffer_id: STB-20260513-1730
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 229
-line_start: 229
+line_end: 62
+line_start: 62
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Lyra's scanner painted Geralt in shades of crimson warning.
+  entity_type: CHR
+raw_quote: 'The jungle pressed closer, its whispers threading through the shield-dome
+  like poisoned needles. Halvar’s axe trembled—not from fatigue, but from the vine-murmur
+  replaying his brother’s last rattling breath. He slammed the blade into the soil,
+  anchoring himself in the vibration. "Weight," Geralt commanded. "Focus on gravity."
+  Legionnaires echoed the mantra, gripping weapons until knuckles bled white. Ren’s
+  eyelids fluttered as the corruption hissed: *Coward. Weak.* He bit his tongue, tasting
+  copper, and whispered his daughter’s name instead. A small defiance.'
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_039_jungle_fever.md
 status: captured
 supersedes: null

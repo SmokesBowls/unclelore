@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-4082
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 340
+line_start: 340
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: It was not a council, not a celebration. It was simply what they did now—the
+  Nephoretti and the grove giants and the Igigi, sitting together in the fading light,
+  their voices rising in the songs that had sustained the city for millennia.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_108_evolution_of_the_keeper.txt
+status: captured
+supersedes: null

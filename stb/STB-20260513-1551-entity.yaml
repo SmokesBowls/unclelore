@@ -2,27 +2,25 @@ audit_only: true
 buffer_id: STB-20260513-1551
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 89
-line_start: 89
+line_end: 33
+line_start: 33
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The final shield generator hissed into standby mode. Legionnaires shifted
-  gear onto scaled reptilian pack-lizards newly acquired from spire traders. Mika’s
-  chosen fireteam gathered near Trabin – Halvar, Torren, and three other grizzled
-  faces, packs laden with shock-lances and spare power cells. Sahvant bowed stiffly
-  towards Geralt, her earlier recklessness replaced by wary respect. "The Circle will
-  analyze the resonator… cautiously," she promised. Her techs were already buzzing
-  around Kael, who clutched the Sentinel core like a holy relic. Geralt gave one curt
-  nod, his gaze already lifting towards the serpentine cleft leading into the Crescent
-  Mountains’ shadowed embrace. The hunt pressed onward. The crevasse swallowed the
-  column – five hundred souls moving single-file along an icy, wind-scoured path beneath
-  cliffs glittering with embedded chroniton crystals. Above, snow swirled. Ahead,
-  the vast, golden desolation of the Faraxar Desert shimmered under a merciless sun.
-  Behind them, Ironspire Refuge receded, a lone spike guarded by borrowed steel, its
-  fate now woven into theirs. The true crucible lay beyond the peaks.
+  entity_type: CHR
+raw_quote: The path northward shifted dramatically. The choking dunes gave way to
+  rocky plateaus, the air cooling as elevation climbed. Snow-capped peaks loomed in
+  the distance—the first fingers of the Crescent Mountains. Scrubby trees, twisted
+  but alive, dotted the landscape where groundwater seeped up through fractured stone.
+  Sand yielded to gravel, then to packed earth strewn with hardy alpine grasses. The
+  oppressive heat lifted, replaced by a wind carrying the scent of pine and distant
+  ice. Geralt crested a ridge, muscles burning from the climb but lungs grateful for
+  the cleaner air. Below, nestled in a sheltered valley bowl beside a rushing glacial
+  stream, stood a small encampment. Sturdy hide tents clustered around a central fire
+  pit. Sharpened stakes formed a defensive perimeter—overkill for such a remote location.
+  Geralt counted eight figures moving with military precision among the tents. All
+  wore patched leathers, but their movements spoke of Legion training.
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_037_the_circle_of_progress.md
+source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
 status: captured
 supersedes: null

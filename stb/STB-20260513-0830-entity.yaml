@@ -2,15 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0830
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 215
-line_start: 215
+line_end: 308
+line_start: 308
 parsed_payload:
   confidence: medium
-  entity_name: Nehereti
-  entity_type: UNKNOWN
-raw_quote: It recognizes you, the Applicator observed. Genetic signature. Neural pattern.
-  Or perhaps recognition that you've been touched by the Nehereti, marked as worthy.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: '"The Anunnaki didn''t just conquer Tiamat. They broke it. Destabilized
+  its core. Tore it apart for resources without understanding—or caring—what they
+  were destroying."'
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+source_file: raw/chapters/book_05_the_nameless_one_026_dragonmail.md
 status: captured
 supersedes: null

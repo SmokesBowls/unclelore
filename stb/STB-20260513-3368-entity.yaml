@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-3368
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 152
-line_start: 152
+line_end: 102
+line_start: 102
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: The Hydra Servitor turned all its attention toward this new threat, sensing
-  the power of Crimson Blood and ancient fragments combined. Its roar shook the very
-  cliffs, and the full might of the reptilian assault converged on Tran and his companions.
+  entity_type: CHR
+raw_quote: '"What transformation?" Tran asked. "What heritage? I was told the Star
+  Needle was—"'
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
+source_file: raw/chapters/book_15_legends_and_gods_080_the_whispers_between_worlds.md
 status: captured
 supersedes: null

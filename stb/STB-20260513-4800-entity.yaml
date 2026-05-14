@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-4800
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 189
+line_start: 189
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: Zephyr looked at the city behind her—the needle, the terraces, the giants
+  and Nephoretti moving together. He was quiet for a long moment.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_113_the_edge_of_return.txt
+status: captured
+supersedes: null

@@ -2,15 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-0943
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 81
-line_start: 81
+line_end: 421
+line_start: 421
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The leader's white eyes fixed on Geralt—on the armor, on his exposed face,
-  on the wing-mounts and scales and technology that screamed Aeon Keeper origin.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: '"The central sigil," she indicated point on her chest where chains converged,
+  where Anunnaki glyphs concentrated most densely. "It''s nexus. Keystone. Break it,
+  and divine bindings lose coherence. But touching it will hurt. Divine punishment
+  for defying sacred law. You will suffer as I have suffered. Feel what binding feels
+  like from both sides."'
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured
 supersedes: null

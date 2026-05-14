@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-0140
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 84
-line_start: 84
+line_end: 82
+line_start: 82
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: Command centers formed the complex's heart—spaces where Anunnaki overseers
-  could coordinate operations, interface with the Crimson Citadel's tactical consciousness,
-  and monitor both construction progress and indigenous biological activities.
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: And Neferati provided the mathematics—precise angles calculated to maximize
+  vrill-resonance while minimizing structural stress.
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
 status: captured
 supersedes: null

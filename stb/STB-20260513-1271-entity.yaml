@@ -2,17 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-1271
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 17
-line_start: 17
+line_end: 672
+line_start: 672
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'The applicator hissed a neural command: *Threat assessment inconclusive.
-  Recommend disengage.* Simultaneously, the armor growled deep within his bones, a
-  visceral challenge: *Stand firm.* Geralt swayed, the conflicting impulses warring
-  with the agony in his body. "What… what do you want?" he managed.'
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: '"The fourth compound," he said simply, gesturing toward maps showing facility
+  now dwarfed by vessel hovering above it. "Population of hundred fifty slaves. Under
+  shadow of Anunnaki mobile city. Being processed for transport or elimination—intelligence
+  suggests they''re systematizing response, establishing permanent occupation infrastructure
+  rather than temporary enforcement."'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_032_the_redo.md
+source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured
 supersedes: null

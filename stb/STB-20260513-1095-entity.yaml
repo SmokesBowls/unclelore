@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-1095
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 275
-line_start: 275
+line_end: 531
+line_start: 531
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"You have chosen well," he said to Geralt, who was fighting desperately
-  to maintain control over body being systematically hijacked. "Courage. Determination.
-  Tactical competence. All admirable."'
+  entity_type: CHR
+raw_quote: Try not to get us killed, Geralt thought to both of them. Confidence is
+  good. Overconfidence gets everyone dead.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured
 supersedes: null

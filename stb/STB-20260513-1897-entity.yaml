@@ -2,15 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-1897
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 23
-line_start: 23
+line_end: 901
+line_start: 901
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"We push," Geralt said, the words ash in his mouth. "Speed is our only
-  shield now."'
+  entity_type: CHR
+raw_quote: “I learned.” Luminaire turned to Mika. “From you. Caring is not observation.
+  It is action. It is sacrifice.” She looked down at her hands—solid light, dancing
+  with possibility. “I am whole now. And he…” She gestured at Geralt. “He is changed.
+  No longer sustained by technology. Sustained by… connection. To me. To you. To the
+  planet itself.”
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_043_the_badlands_crucible.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
 status: captured
 supersedes: null

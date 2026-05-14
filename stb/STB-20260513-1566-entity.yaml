@@ -2,27 +2,32 @@ audit_only: true
 buffer_id: STB-20260513-1566
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 37
-line_start: 37
+line_end: 59
+line_start: 59
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'The shaft opened. A cathedral-sized dome unfolded—stalactites hung like
-  shattered chandeliers, wrapped in crystalline filaments humming with trapped resonance.
-  Water pooled ankle-deep, hiding razor-edged mineral ridges. Geralt motioned: halt.
-  Sound here wasn''t trust. Corporal Vess’s whisper echoed back seconds later—*"Watch
-  the—"*—overlapping her own caution. Auditory ghosts. Hallucinations whispered commands
-  Mika never gave. Legionnaire Ren spun, shock-lance raised toward empty darkness.
-  "Who’s there?" Oreck’s amber gaze scanned the vaulted ceiling. Translucent shapes
-  clung there—blind, choral fauna, spider-limbed and thin as paper. Harmonic pulses
-  rippled across their bodies. A dropped power-cell clanged. Instantly, the creatures
-  *stirred*. Legs unfolding in eerie silence. They flowed down stalactites like liquid
-  shadow, drawn to the sound’s epicenter. Mika’s hand signal was sharp: *Absolute
-  silence.* Survival demanded it. Move slow. Step careful. Trust nothing your ears
-  say. The fauna settled. Waiting. Every scrape of boot, every rasp of breath, risked
-  awakening the choir.'
+  entity_type: CHR
+raw_quote: Geralt faced him squarely. "The Spire isn't just *my* path, Jorik. its
+  where i find my answers, Where the Harbinger filed the Five." Geralt gestured towards
+  the mist-shrouded peaks, doubt for the first time crossed his mind.. what does any
+  of thos have to do with Mika? She was by the crashsite and not seen from since then...
+  And the five.. they were on that ship with me when it crashed.. when did they get
+  filed away? Shaking the thoughts away he continued. "Knowledge buried there can
+  break chains far heavier than ours. Knowledge the Giants hoard, while others suffer,
+  but giants in general.. they are stewards of this land.. at all costs we need them
+  on our side as much as they will need us" He tapped the Star Needle emblem on his
+  vambrace. "This resonance pulls north. It’s our compass. Yours feels it too, deeper
+  than fear. Trust that." Jorik stared at the mist, then down at his bow. He remembered
+  the raiders, the stolen Legionaries, the helplessness. He remembered crafting this
+  weapon from necessity. His jaw clenched. "They'll see us," he muttered, not looking
+  at Geralt. "They'll feel us climbing." "Then let them see determination," Geralt
+  countered softly. "And let them add humanity to the first page in their archives."
+  Jorik met Geralt’s gaze. The fear didn't vanish, but resolve hardened beneath it.
+  He gave a single, sharp nod, adjusted his quiver, and stepped deliberately past
+  the Whispering Stone into the mist. The mountain's disapproval sharpened instantly,
+  a psychic wind threatening to push them back.
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
 status: captured
 supersedes: null

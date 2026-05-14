@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-3848
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 296
+line_start: 296
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: But something else was happening. The awakened Dragon Mail's entropy absorption
+  had created an unexpected effect—it was becoming a strange attractor for the battle's
+  chaos. Improbable events began clustering around Tran-Zaron. Enemy weapons misfired
+  at precisely the wrong moments. Allied strikes hit with impossible precision. The
+  mathematics of warfare itself was bending around their presence.
+signal_type: entity
+source_file: raw/chapters/book_19_worthy_opponents_north_102_convergence_on_mars.md
+status: captured
+supersedes: null

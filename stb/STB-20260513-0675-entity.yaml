@@ -2,17 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-0675
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 1263
-line_start: 1263
+line_end: 549
+line_start: 549
 parsed_payload:
   confidence: medium
   entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: But they kept coming. Three hundred freed slaves willing to die for freedom
-  they'd never truly possessed. And their sheer numbers—their desperate, suicidal
-  willingness to continue attacking—began creating pressure even the Anunnaki had
-  to acknowledge.
+  entity_type: FAC
+raw_quote: Then we will make them see, it promised. When we break these chains, when
+  we burn this place to ash, when we scatter the Anunnaki's bones across the stars...
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
+source_file: raw/chapters/book_05_the_nameless_one_024_the_first_spark.md
 status: captured
 supersedes: null

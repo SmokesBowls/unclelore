@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0997
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 403
-line_start: 403
+line_end: 817
+line_start: 817
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: And Geralt—human wearing god-consciousness, trinity of awareness unified
-  in purpose despite constant disagreement, former slave who'd claimed identity through
-  choice rather than accepting designation—stood at the center of it all.
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: The other four—Kael, Tess, Vale, Ren—formed similar rejections. United
+  not through synchronization but through shared understanding that some gifts carried
+  prices they couldn't accept paying again.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured
 supersedes: null

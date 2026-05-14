@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-4490
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 267
+line_start: 267
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: '"Can you walk?" Vale asked. The Igigi tried to move his legs. A wince.
+  A shake of the head. Not yet. "Can you eat?" A slow blink. Maybe yes, maybe no.
+  "Do you know where you are?" The Igigi''s eyes drifted to the water, then back to
+  Vale. He shook his head once, a small motion.'
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_112_eastern_system.txt
+status: captured
+supersedes: null

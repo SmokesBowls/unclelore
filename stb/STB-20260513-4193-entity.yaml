@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-4193
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 754
+line_start: 754
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: '"The southern factions are fighting each other," the Queen continued,
+  turning from the portal. "The grove giants try to force the system. The swamp giants
+  try to endure it. The Nephoretti try to record it. None of them understand what
+  they are dealing with."'
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_109_the_thread_and_cage.txt
+status: captured
+supersedes: null

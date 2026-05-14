@@ -2,21 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-2632
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 71
-line_start: 71
+line_end: 114
+line_start: 114
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt turned toward the sanctum's arched exit, his Dragon Mail whispering
-  against stone. Three paces from the threshold, he stopped. Not a hesitation, but
-  a punctuation. "Not now," he said, without looking back. The guild's oculus reflected
-  in his peripheral vision—Earth's white corpse hanging in the void. "Not tomorrow."
-  Kulla's clay fingers paused mid-kneading, sensing the shift in tone. "But someday,"
-  Geralt continued, "Earth will call for you." His shadow stretched long across the
-  sanctum floor, jagged where it intersected with Kyh's pooled darkness. "Not by my
-  voice. By my doing."
+  entity_type: CHR
+raw_quote: The thing—Kulla—tilted its mismatched head. “I am not a spirit. I am the
+  foreman. And you,” its thumb-socket eyes fixed on Geralt, specifically on the Dragon
+  Mail, “are adding unstable weight to a stressed foundation. Your destiny is a load-bearing
+  wall in a design I did not approve.”
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
+source_file: raw/chapters/book_09_bureaucratic_debt_055_the_anchors_forge.md
 status: captured
 supersedes: null

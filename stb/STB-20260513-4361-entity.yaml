@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-4361
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 64
+line_start: 64
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: Vex considered this. The Queen had not mentioned graviton resonance. She
+  had mentioned indigenous hosts, Igigi refugees, a Needle that had activated without
+  authorization. She had not mentioned the possibility that something older was stirring
+  beneath the ice.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_111_the_resonance_a_garden_under_shadow.txt
+status: captured
+supersedes: null

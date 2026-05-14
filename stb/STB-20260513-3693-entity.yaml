@@ -2,17 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3693
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 112
-line_start: 112
+line_end: 154
+line_start: 154
 parsed_payload:
   confidence: medium
-  entity_name: Void Spire Network
-  entity_type: UNKNOWN
-raw_quote: '"I am Luminara," she said, her voice carrying harmonics that resonated
-  with every power source present. "First Echo of the Void Spire network. I have slept
-  in null state since the network''s corruption, waiting for the resonance that would
-  signal safe awakening."'
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: Go, Lentharis urged. The connection is established. The spire is awakening.
+  But you must reach Mars before the Anunnaki secure their control. The fate of the
+  entire network may depend on it.
 signal_type: entity
-source_file: raw/chapters/book_19_worthy_opponents_north_101_the_hidden_resonance.md
+source_file: raw/chapters/book_17_ancestral_debt_091_the_weight_of_memory.md
 status: captured
 supersedes: null

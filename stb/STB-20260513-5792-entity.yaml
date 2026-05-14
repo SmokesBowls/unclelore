@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-5792
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 253
+line_start: 253
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: Brak lowered the second ring. The stone settled with the same soft, deep
+  sound—a recognition, an acceptance. The Nephoretti wove the vrill. Enlil confirmed
+  the geometry. Nammu listened for the thread. Sera sang the activation.
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_124_the_last_threshold_release_of_the_constant.txt
+status: captured
+supersedes: null

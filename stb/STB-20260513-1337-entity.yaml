@@ -2,25 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-1337
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 18
-line_start: 18
+line_end: 1118
+line_start: 1118
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: He slumped against the ice wall, gasping. The screeching outside intensified.
-  Closer. "Kaelen," he rasped. "Mika… the Five… we need to know what happened to them.
-  The Harbinger took them. We have to bring them home." Kaelen was already moving
-  towards a narrow ice tunnel at the cavern’s rear. "Knowing requires accessing the
-  unmaking point," she called back, voice echoing. "That requires the Pattern’s authority.
-  Which *you* lack. She," Kaelen paused, glancing back, her galactic eyes holding
-  Geralt’s, "the Temporal Guardian essence *is* the Zaryonic Pattern’s anchor in this
-  timeline. Fragmented, yes, but the key resides in mastering the temporal arts *through*
-  her training. With or without her help, you must learn to walk the fractures. Only
-  then can you reach the pocket where the 250 were filed away. Only then can you attempt
-  the retrieval." She vanished into the tunnel. "Training continues. Move, Geralt.
-  Or the Chronohounds will file *you* away permanently."
+  entity_type: CHR
+raw_quote: Geralt chose continuation.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_034_the_250.md
+source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured
 supersedes: null

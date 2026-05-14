@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-4229
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 39
+line_start: 39
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: They debated for many seasons. Some argued for isolation — keep Vale away
+  from the system entirely, let the calibration events fall where they may. Others
+  argued for directed use — move him to the most dangerous zones, let him soften the
+  pulses, but never let him stay in one place long enough to become a fixed point.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_110_the_bleeding_convergance.txt
+status: captured
+supersedes: null

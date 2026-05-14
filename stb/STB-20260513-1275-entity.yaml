@@ -2,22 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-1275
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 25
-line_start: 25
+line_end: 682
+line_start: 682
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'The applicator screamed warnings: *Temporal instability detected! Extreme
-  chroniton flux! Withdraw immediately!* Simultaneously, the dragon-scale armor pulsed,
-  radiating fierce encouragement: *Confront! Prevail!* Geralt stared at the shimmering
-  distortion. Within its heart, he thought he saw fleeting shapes – armored figures
-  locked in desperate combat against a towering shadow wreathed in impossible light.
-  The Harbinger. His friends. His failure. Pain lanced through his ribs, sharp and
-  grounding. He spat blood onto the scree. Watching wasn''t enough. Learning couldn''t
-  be passive. He met Kaelen’s gaze. "Teach me," he growled, taking a staggering step
-  towards the vortex. "Now."'
+  entity_type: CHR
+raw_quote: Oreck's vertical pupils contracted—recognition crossing features that suggested
+  he understood something Geralt hadn't explicitly stated.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_032_the_redo.md
+source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured
 supersedes: null

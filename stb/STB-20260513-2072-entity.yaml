@@ -2,18 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-2072
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 157
-line_start: 157
+line_end: 170
+line_start: 170
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: It was too late. The energy net passed over the ridge. It didn’t burn;
-  it paralyzed. Legionnaires stiffened and dropped, muscles locked, weapons falling
-  from nerveless fingers. Geralt felt the charge hit the dragon armor. The scales
-  flared hot, resisting, grounding out the current, but the shock still sent him to
-  his knees, his vision swimming.
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: '“I am seeding a network,” she corrected. “The Sound fragments are not
+  inert. Once placed in their corresponding Needles, they will interact with the cleansed
+  Vrill flow, generating a low-level harmonized resonance field. This field serves
+  two functions: it will accelerate the land’s healing, and it will create a detectable
+  signature—a beacon for the proper frequency.”'
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_046_not_like_this.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_044_the_mountains_shadow.md
 status: captured
 supersedes: null

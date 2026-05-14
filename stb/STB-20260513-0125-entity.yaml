@@ -2,18 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0125
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 3
-line_start: 3
+line_end: 178
+line_start: 178
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: 'THREADS INCLUDED: Anunnaki Arrival (Queen Eduhauana), Crimson Citadel
-  Orbital Station, Overseer Council (Marduk, Enlil, Ninurta, Ishkur), Igigi Deployment
-  (Pazuzu, Ishara), Reptilian Genesis (Warrior Creation), Breeding Facilities & Workforce
-  Expansion, Indigenous Biological Monitoring (Giants & Nephoretti), Phase One Infrastructure
-  Construction, First Confrontation Foreshadowing'
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: '"Tomorrow," Senareth said to the assembled Neferati as bioluminescence
+  intensified in the gathering dark, "we begin showing them what cooperation looks
+  like. Not forcing integration, but demonstrating possibility. Building something
+  together that none of us could build alone."'
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+source_file: raw/chapters/book_01_book_of_genesis_004_the_convergence.md
 status: captured
 supersedes: null

@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-5090
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 215
+line_start: 215
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: '"We go in," Vale said. "Zephyr, take Keth and Tessik to the eastern wall.
+  Reinforce the giants there. Sera, get to the needle''s base. Find Granite. Tell
+  him I''m coming."'
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_116_keepers_recognition.txt
+status: captured
+supersedes: null

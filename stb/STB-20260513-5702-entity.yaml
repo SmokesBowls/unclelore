@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5702
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 281
+line_start: 281
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale stood. The iridescent stone pulsed once—a gentle farewell—then faded
+  into the dark stone. The guardian's attention remained, but it was no longer focused
+  solely on him. It was distributed. Watching all of them. Waiting to see what they
+  would become together.
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_122_unravealing.txt
+status: captured
+supersedes: null

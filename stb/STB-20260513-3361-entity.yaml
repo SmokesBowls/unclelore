@@ -2,15 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-3361
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 129
-line_start: 129
+line_end: 52
+line_start: 52
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: The girl opened her mouth to protest, but Tran cut her off. "He's right,
-  Isla. We need you to watch our approach and warn us if you see new threats coming."
+  entity_type: CHR
+raw_quote: '"Violet Mika," Tran completed.'
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
+source_file: raw/chapters/book_15_legends_and_gods_080_the_whispers_between_worlds.md
 status: captured
 supersedes: null

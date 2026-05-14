@@ -2,15 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3742
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 298
-line_start: 298
+line_end: 114
+line_start: 114
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: The Igigi recognized it first. "Reality cascade!" Helix shouted in mingled
-  fear and excitement. "The synthesis is creating a probability well!"
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: '"It''s us," they replied, marveling at how natural the plural felt. "Tran
+  and Zaron, unified at last. But also something new. Something that hasn''t existed
+  before."'
 signal_type: entity
-source_file: raw/chapters/book_19_worthy_opponents_north_102_convergence_on_mars.md
+source_file: raw/chapters/book_18_inquisition_of_yourself_096_violet_convergence.md
 status: captured
 supersedes: null

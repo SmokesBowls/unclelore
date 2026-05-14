@@ -2,18 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-2171
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 264
-line_start: 264
+line_end: 111
+line_start: 111
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'Violet looked at Geralt, and for a moment, he saw not a cosmic entity,
-  but the young warrior she had been—the one Mika had trained, had trusted, had grieved.
-  “We speak now because we have something to say. We are the Five Mikas. We are her
-  lesson given form: that protection is not control. That power is not domination.
-  That legacy is not a monument—it is a living thing.”'
+  entity_type: CHR
+raw_quote: Below them, the Legion prepared for a terrible, final gamble. Weapons were
+  checked with solemn care. Letters to no one were written in the dirt and then scuffed
+  away. The dragon armor on Geralt’s chest felt like a dead weight. It had not stirred.
+  It had not answered his silent, desperate plea for more. It was just armor. And
+  it would not be enough.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_048_the_ledger_born.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_046_not_like_this.md
 status: captured
 supersedes: null

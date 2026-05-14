@@ -2,27 +2,26 @@ audit_only: true
 buffer_id: STB-20260513-1445
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 161
-line_start: 161
+line_end: 62
+line_start: 62
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'A low groan echoed, not through the air, but through the fused glass beneath
-  his boots. Ahead, partially buried in the obsidian plain, lay the colossal, shattered
-  spine of the city-ship – an alloy ribcage twisted and blackened. As Geralt approached,
-  the groaning intensified, vibrating up his legs. The applicator flared: *Structural
-  instability! Chroniton feedback loop amplifying!* Suddenly, the ground *heaved*.
-  A section of fused glass the size of a house buckled upwards with a sound like tearing
-  stone. From the rupture, thick tendrils of viscous, shimmering darkness erupted
-  – not liquid, not gas, but solidified *grief*, the Heart’s corrupted memory given
-  form. They lashed out, not at Geralt, but at the ship’s spine, coiling around the
-  ancient wreckage with possessive, mournful fury. They pulsed with the same sickly
-  green light as the chroniton decay veins. The land itself was attacking its own
-  scar, trying to reclaim or reject the source of its eternal pain. Geralt drew his
-  blade, the dragon armor flaring bright gold against the oppressive gloom. He hadn’t
-  come to fight the desert’s heartache. But the desert had other plans.'
+  entity_type: CHR
+raw_quote: Sully didn't look up as Geralt approached. Her fingers lingered on the
+  carved grivet kit representing Katherine. "She liked sun-warmed rocks," Sully whispered,
+  voice thick. "Best spotter in the herd." Geralt crouched beside her, careful not
+  to touch the sacred stone. "She was stolen," he stated softly, echoing Kaelen's
+  words. Sully flinched. "Lost in the mist." Geralt held up the chroniton shard. Its
+  light pulsed faintly. "Not lost. Taken. By something that steals moments." Sully
+  finally met his eyes, confusion warring with desperate hope. "You... you know?"
+  Geralt nodded. "I've seen the thief. Trapped it. But Katherine... her moment is
+  still held." He pointed to the carving. "This grief holds her here. Holds *everything*
+  here." Sully stared at the stone mother. "I couldn't protect her." "No," Geralt
+  agreed gently. "But you can remember her truly. Not just the loss. The sun-warmed
+  rocks. The spotting. Honor *that*." Sully closed her eyes. A tear traced a path
+  through the dust on her cheek. The air around the carving seemed to shimmer.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
+source_file: raw/chapters/book_06_the_ragnarok_034_the_250.md
 status: captured
 supersedes: null

@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-5827
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 421
+line_start: 421
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: '"Torrhen used to say that the hardest part of survivin'' ain''t the freezin''
+  or the starvin'' or the fightin''. It''s the stillness after. When everythin'' you''ve
+  been holdin'' together finally holds itself, and you don''t know what to do with
+  your hands."'
+signal_type: relationship
+source_file: raw/chapters/book_24_threshold_and_network_south_124_the_last_threshold_release_of_the_constant.txt
+status: captured
+supersedes: null

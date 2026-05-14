@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-5689
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 131
+line_start: 131
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: And Vale, alone in the center, felt the threads that connected them stretch—thin,
+  fragile, but holding—as they each turned toward their separate paths.
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_122_unravealing.txt
+status: captured
+supersedes: null

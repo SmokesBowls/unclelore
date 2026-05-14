@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-1115
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 410
-line_start: 410
+line_end: 661
+line_start: 661
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt felt the weight of those words—recognition that even if they defeated
-  this hunter, others would follow. Better equipped. More numerous. Carrying authorization
-  for lethal force that Sath'rak still seemed reluctant to fully embrace.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: Communication systems went dark—crystalline relay that connected compound
+  to Anunnaki network shattered through telekinetic force that Mika had been developing,
+  that remained crude compared to Geralt's capability but sufficient for sabotage.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured
 supersedes: null

@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0334
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 92
-line_start: 92
+line_end: 127
+line_start: 127
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: '"They were Anunnaki constructs," a Mountain Giant countered, its consciousness
-  still compressed by atmospheric extremes. "The Nephilim fulfilled their purpose—eliminating
-  corruption. If the Tidecallers hadn''t been so eager to ally with enemy creations—"'
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: '"Departure authorization," Eduhauana commanded. "Withdraw all Anunnaki
+  personnel. Transfer Needle maintenance protocols to Igigi workforce. Program Reptilian
+  forces for autonomous garrison operations. Estimated return timeline: 3,500 solar
+  cycles, Second Coming configuration."'
 signal_type: entity
-source_file: raw/chapters/book_03_the_reckoning_014_convergence.md
+source_file: raw/chapters/book_03_the_reckoning_009_stalemate_departure_the_first_coming.md
 status: captured
 supersedes: null

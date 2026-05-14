@@ -2,14 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-1070
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 65
-line_start: 65
+line_end: 305
+line_start: 305
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: She looked at Geralt specifically.
+  entity_type: CHR
+raw_quote: Geralt stood motionless, armor settling around him as Zaron's consciousness
+  relaxed from combat readiness, as the Applicator compiled damage assessments and
+  tactical analysis, as his own awareness tried to comprehend what he'd just accepted.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured
 supersedes: null

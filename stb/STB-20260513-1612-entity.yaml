@@ -2,25 +2,27 @@ audit_only: true
 buffer_id: STB-20260513-1612
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 8
-line_start: 8
+line_end: 21
+line_start: 21
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'Silence slammed down—deep, sterile, red. Geralt’s boots crunched Martian
-  sand. Dragon Nebula light bathed the Legion in sapphire gloom. Luminara’s spire
-  stood whole again—obsidian gleaming under alien stars. Luminaire sighed within Geralt’s
-  palm: *"Duty... fulfilled."* Relief warred with exhaustion. Halvar spat crimson
-  dust. Mika scanned dead skies. No dragons. No wyrms. Only desolation. Oreck lowered
-  his bow, fingers trembling. Lyra’s scanner blinked: "Transit integrity confirmed.
-  Earth resonance stable." But Geralt felt it—the Nebula’s watchful gaze. Judgment
-  deferred. Not ended. He tightened his grip on Luminara’s fading warmth. The war
-  waited. Earth bled. And four storm-lit figures lingered in memory—lightning fists,
-  star-woven robes, shadows that killed. Questions coiled like vipers. But for now...
-  breath. Silence. Sand. Home for the weary. Victory tasted like ashes and ozone.
-  The Legion lived. The Garden endured. Next?'
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The ancient Igigi peered at Geralt over a complex chroniton lattice he
+  was weaving around the sapphire cylinder. "Transparency? Ha! Not transparency, Commander!
+  Potential!" Zypher’s eyes sparkled with manic glee. "Those aren't gems *yet*. They're
+  Affinity Cores – solidified manifestations of the dominant resonance each soul naturally
+  attuned to *during* their Remission crucible. Think of them as... soul-lenses focusing
+  primordial energies!" He gestured wildly. "The true definition? Ahhhh! That's the
+  beauty! It crystallizes *upon* awakening, shaped by their first conscious act, their
+  intent, their deepest self reborn!" He tapped the crimson cylinder swirling violently.
+  "Red *could* be Warrior-Fury incarnate... or perhaps Forge-Mastery bending metal
+  with a thought! Or... ah!" He grinned, "Pure Pyrokinesis? Depends entirely on *who*
+  Orell is when he steps out!" He pointed to the emerald core, pulsing steadily. "Green?
+  Could be Verdant Life-Healing... or Earth-Shaping command... or even Poison-Synergy!
+  The metaphysics are... delightfully chaotic! The color hints at the *domain*, but
+  the *expression*? Pure, glorious individuality!"
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_039_jungle_fever.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_037_the_circle_of_progress.md
 status: captured
 supersedes: null

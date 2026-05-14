@@ -2,15 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2320
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 450
-line_start: 450
+line_end: 196
+line_start: 196
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Oreck stood beside Geralt, looking at the radiant crystal. "Can we get
-  him out?"
+  entity_type: CHR
+raw_quote: “They’re bureaucrats,” Geralt muttered. “They think this is a paperwork
+  problem.”
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
+source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
 status: captured
 supersedes: null

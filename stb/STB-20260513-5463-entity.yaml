@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5463
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 223
+line_start: 223
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale felt the words settle into his chest. Cliff Giants. And something
+  else. He thought of the sentinel in the needle. The thing that had stopped mid-attack
+  and recognized him. It had returned to its vigil—guarding the labyrinth, the buried
+  spire, the last intact node of the Graviton network.
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_119_resonance_of_the_first_point.txt
+status: captured
+supersedes: null

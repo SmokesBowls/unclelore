@@ -2,15 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-1765
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 583
-line_start: 583
+line_end: 272
+line_start: 272
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: He was right. The corrupted Igigi weren’t trying to win—they were buying
-  time.
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: Geralt’s lips curled. Not a smile. A baring of teeth.
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_039_jungle_fever.md
 status: captured
 supersedes: null

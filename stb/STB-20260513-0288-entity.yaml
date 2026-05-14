@@ -2,17 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-0288
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 30
-line_start: 30
+line_end: 17
+line_start: 17
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: 'Ninurta withdrew, the data stream confirming his calculations. These were
-  not mere soldiers. They were a philosophical argument given flesh and fury. They
-  were the embodiment of Anunnaki power: the ability to not only destroy a species,
-  but to pervert its very potential into a weapon of self-loathing against others.'
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: '"Construction timeline extended by estimated thirty-seven solar cycles
+  across all seven sites," Marduk replied without preamble. She appreciated efficiency.
+  "Indigenous biological interference exceeds initial capability assessments. Casualty
+  rates among Reptilian forces approach sustainability thresholds. Igigi workforce
+  morale degrading due to extended combat exposure."'
 signal_type: entity
-source_file: raw/chapters/book_03_the_reckoning_011_escalation_and_desperation.md
+source_file: raw/chapters/book_02_age_of_servitude_008_queens_assessment.md
 status: captured
 supersedes: null

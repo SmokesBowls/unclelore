@@ -2,20 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0301
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 29
-line_start: 29
+line_end: 137
+line_start: 137
 parsed_payload:
   confidence: medium
   entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: The Igigi elder stepped into the center of the circle, his mathematical
-  consciousness processing probabilities across millennia of observation. "I carry
-  weapons I don't remember receiving. Thoughts that feel like mine but taste like
-  implanted poison. For three thousand years, I've been whispering doubts between
-  your tribes—sometimes consciously resisting, sometimes unable to recognize the programming
-  until words were already spoken. Every suspicion you feel toward each other? I helped
-  plant it. We Igigi did. Because she made us."
+  entity_type: SPEC
+raw_quote: Queen Eduhauana herself administered the programming—not through crude
+  technological interfaces, but through direct consciousness-touch that bypassed all
+  the defenses Igigi psychology might have mustered. Her presence in his mind was
+  overwhelming, ancient, carrying the weight of civilizations she had personally destroyed.
 signal_type: entity
-source_file: raw/chapters/book_03_the_reckoning_012_nephilim_summoning.md
+source_file: raw/chapters/book_02_age_of_servitude_008_queens_assessment.md
 status: captured
 supersedes: null

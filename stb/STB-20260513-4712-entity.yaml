@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-4712
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 856
+line_start: 856
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: '"We got close," he said. Vale waited. "Too close." A beat. "Didn''t see
+  it." He looked at the ground. "But it moved."'
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_112_eastern_system.txt
+status: captured
+supersedes: null

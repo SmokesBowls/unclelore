@@ -2,16 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-2369
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 319
-line_start: 319
+line_end: 643
+line_start: 643
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt was the anvil. His dragon armor flared, absorbing and dissipating
-  the searing radiant heat the Worm emitted. He drew its lashing, cable-like appendages,
-  weathering blows that would have pulverized stone.
+  entity_type: CHR
+raw_quote: “We’ve been fugitives before,” Geralt said, echoing Oreck’s earlier words.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_051_arrival_in_fire.md
+source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
 status: captured
 supersedes: null

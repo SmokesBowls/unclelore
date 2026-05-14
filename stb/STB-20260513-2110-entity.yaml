@@ -2,15 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-2110
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 422
-line_start: 422
+line_end: 197
+line_start: 197
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: They stumbled out onto the bloodied plain as Nibiru’s Grasp imploded behind
-  them, a final tomb for the last Anunnaki slavers on the continent.
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: The world was shaking itself apart. The muffled thunder of the North Front’s
+  battle echoed through the stone, a constant reminder of the minutes draining away.
+  Geralt led the thirteen deeper into the mountain’s bowels, the air growing hotter,
+  thicker, tasting of sulfur and ozone. Luminaire’s voice was a compass needle in
+  his mind, guiding them through a maze of volcanic tubes and ancient, repurposed
+  maintenance tunnels.
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_046_not_like_this.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_045_the_hub_falls.md
 status: captured
 supersedes: null

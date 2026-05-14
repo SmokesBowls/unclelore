@@ -2,17 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-1926
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 279
-line_start: 279
+line_end: 1173
+line_start: 1173
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: There was no time for mercy. They showed none. Jorik’s first arrow took
-  one through the throat. His hand shook as he fired the second. Geralt moved like
-  a shadow, his blade a silver flash, cutting them down with efficient, soul-crushing
-  strokes. Each kill felt like murder. Each was a comrade lost twice over.
+  entity_type: CHR
+raw_quote: Luminaire's eyes widened. She heard him. Through the bond, through Geralt,
+  she could hear the dragon who'd helped build this place millennia ago.
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_043_the_badlands_crucible.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
 status: captured
 supersedes: null

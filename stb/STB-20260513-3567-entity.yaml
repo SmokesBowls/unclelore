@@ -2,17 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-3567
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 183
-line_start: 183
+line_end: 99
+line_start: 99
 parsed_payload:
   confidence: medium
-  entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: As they prepared to leave the threshold, Tran felt the Dragon Mail settling
-  into its new configuration. Four fragments pulsed in steady rhythm across his chest,
-  their combined light casting strange shadows in the mountain air. The armor felt...
-  different. More present, more aware, more genuinely partnered with his own consciousness.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: '"And after the Anunnaki left?" Isla asked.'
 signal_type: entity
-source_file: raw/chapters/book_17_ancestral_debt_089_the_white_mirror.md
+source_file: raw/chapters/book_16_fragmented_beginning_086_sanctuary_to_storm.md
 status: captured
 supersedes: null

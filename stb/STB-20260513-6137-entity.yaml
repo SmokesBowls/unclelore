@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-6137
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 133
+line_start: 133
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The catch in her throat had become familiar. The fragment Zeph— pressed
+  against her larynx each morning and evening, not yet complete, not yet spoken, but
+  closer. She did not know what it meant. She did not know that the same fragment
+  was forming soundlessly on the lips of an Igigi in the quarantine pens, and in the
+  throat of a young male in the southern channel, and against the chimney stone in
+  the old woman's house on the eastern terrace. She only knew that the song was almost
+  home, and the home was almost ready, and the readiness was a condition, not a decision.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_130_within_tolerance.txt
+status: captured
+supersedes: null

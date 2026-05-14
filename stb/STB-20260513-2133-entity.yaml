@@ -2,19 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-2133
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 148
-line_start: 148
+line_end: 350
+line_start: 350
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Year 3. Zephyr became a regular visitor, though never a resident. He and
-  Mika would spend hours in the archive, her writing, him offering corrections that
-  felt less like instruction and more like reminders. "The word for 'binding' has
-  a secondary resonance for 'healing,' but only if your heart- tone is in the minor
-  key," he'd say, and she would nod, scribbling in the margin. Geralt learned by osmosis,
-  the concepts weaving into his understanding of the dragon armor's power.
+  entity_type: CHR
+raw_quote: Geralt, guided by Zaron’s predatory instinct and Luminaire’s pinpoint calculation,
+  did not “strike.” He simply reappeared inside the noise, his blade already moving
+  on a vector the noise had hidden. The true attack was a silent harmonic, a single
+  clean note in the symphony of lies.
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_047_mika.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_045_the_hub_falls.md
 status: captured
 supersedes: null

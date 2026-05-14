@@ -1,0 +1,23 @@
+audit_only: true
+buffer_id: STB-20260513-5852
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 39
+line_start: 39
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: But Zephyr didn’t turn. He didn’t even slow. The water reached Zephyr's
+  chest when the current caught him. Not the sluggish marsh flow, but something older—a
+  liquid pull that bent light around its edges, turning his silhouette into a warped
+  reflection. The golden threads in the current wrapping around him like living tethers.
+  His shoulders relaxed—a small thing, barely noticeable unless you’d spent years
+  watching the way he carried the weight of dead spires and broken equations.For a
+  heartbeat, Vale saw seven Zephyrs superimposed in the rippling gold, their images
+  fraying at the edges like pages from different timelines. Then the marsh exhaled,
+  and he was gone
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_125_farwell.txt
+status: captured
+supersedes: null

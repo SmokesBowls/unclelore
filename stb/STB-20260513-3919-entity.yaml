@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-3919
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 56
+line_start: 56
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: They found the survivors huddled in a side chamber, their bioluminescence
+  barely visible in the darkness. Their leader, a Nephoretti named Theran, had been
+  watching the sea for days.
+signal_type: entity
+source_file: raw/chapters/book_20_the_discordant_pulse_south_104_the_rising_tide.md
+status: captured
+supersedes: null

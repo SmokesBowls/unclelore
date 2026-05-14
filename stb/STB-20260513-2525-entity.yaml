@@ -2,17 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2525
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 100
-line_start: 100
+line_end: 415
+line_start: 415
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: They had the shuttle. Oreck had won his brutal fight, Kyh had sliced through
-  the encryption, and Geralt had woven a tapestry of tiny, guaranteed moments to get
-  them aboard. But as they powered up the engines, the lunar ground beneath the hangar
-  rejected them.
+  entity_type: CHR
+raw_quote: 'Geralt followed his gaze. Two spires remained: Umbrageous, and the Shattered
+  Mind. But the mission had changed. They were no longer just fixing broken machines.
+  They were now being hunted by the mechanic who owned them.'
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_055_the_anchors_forge.md
+source_file: raw/chapters/book_09_bureaucratic_debt_052_entry_without_standing.md
 status: captured
 supersedes: null

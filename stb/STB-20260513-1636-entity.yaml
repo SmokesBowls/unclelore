@@ -2,21 +2,27 @@ audit_only: true
 buffer_id: STB-20260513-1636
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 64
-line_start: 64
+line_end: 87
+line_start: 87
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: 'Above, the canopy writhed. Violet light pulsed through veins in the leaves—Anunnaki
-  tech feeding on doubt. Lyra’s scanner flared crimson. "Cognitive resonance intensifying!
-  Shield integrity at 65%." Mika’s lance dug deeper into the earth, silver light fraying
-  at the edges. Oreck pressed his palm against a glyph-carved obelisk. Emerald energy
-  flared, pushing back the gloom. "They’re amplifying our fears," he rasped. "Twisting
-  memory into traps." Senareth’s voice slithered from a nearby vine: *"You failed
-  me."* Oreck snarled, shattering the stone with a chroniton-charged arrow. The lie
-  crumbled.'
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: Near the wreck’s skeletal prow, Geralt stood facing Sahvant, bathed in
+  the fractured light of dying engines. His clawed gauntlet traced precise arcs in
+  the air, leaving faint trails of azure resonance. "Focus the emitter’s harmonics,"
+  he commanded, his voice low and resonant, carrying over the distant clang of salvage
+  crews. "Not amplification. *Alignment*." Sahvant mirrored his movements with her
+  grafted gauntlets, their pulsing green light straining to match his effortless blue
+  arcs. Sweat beaded on her forehead beneath the helmet seal. "The waveform collapses…
+  instability…" she gasped. Geralt didn’t relent. "It resists force. Seek resonance
+  within the dissonance. Acknowledge the bleed; guide it." He gestured sharply – a
+  subtle twist of his wrist. The unstable green glow from Sahvant’s emitter smoothed
+  suddenly, stabilizing into a contained, humming sphere. She gasped, her multi-lensed
+  visor flickering wildly with stabilizing harmonic readouts. Integration. Not control.
+  Understanding. Her eyes widened behind the lenses, the frantic scholar momentarily
+  stilled by the glimpse of true mastery. A foundational shift, not a rote solution.
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_039_jungle_fever.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_037_the_circle_of_progress.md
 status: captured
 supersedes: null

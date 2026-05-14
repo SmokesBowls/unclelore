@@ -2,17 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-1087
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 247
-line_start: 247
+line_end: 461
+line_start: 461
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt felt his body seize—not from armor malfunction but from the Applicator
-  losing control, from synthetic consciousness that had been partner suddenly becoming
-  battlefield, from awareness being compressed under assault that targeted the most
-  vulnerable component of their trinity.
+  entity_type: CHR
+raw_quote: '"Fifteen visible guards," Geralt reported to the assembled strike team—twenty
+  volunteers from their compound, chosen for capability and commitment rather than
+  simple willingness. "One Overseer, based on the golden sheen visible in the central
+  structure. Standard patrol patterns, rotating every four hours. No indication they''re
+  aware we''re coming."'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured
 supersedes: null

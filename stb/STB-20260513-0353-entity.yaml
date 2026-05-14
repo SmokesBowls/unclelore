@@ -2,17 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-0353
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 14
-line_start: 14
+line_end: 245
+line_start: 245
 parsed_payload:
   confidence: medium
   entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: The word struck the chamber like a physical blow. Livestock. The Igigi
-  had once been architects of star systems, weavers of dimensional fabric, builders
-  of worlds. Now they were reduced to biological resources, their advanced consciousness
-  siphoned to power Anunnaki technology.
+  entity_type: FAC
+raw_quote: The alliance would fracture immediately after, some Giants choosing Anunnaki
+  promises over unified resistance.
 signal_type: entity
-source_file: raw/chapters/book_04_sage_saga_016_the_choice_third_coming.md
+source_file: raw/chapters/book_03_the_reckoning_009_stalemate_departure_the_first_coming.md
 status: captured
 supersedes: null

@@ -2,14 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0998
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 415
-line_start: 415
+line_end: 819
+line_start: 819
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'SUBJECT: RAGNAROK (Primary Identity: Geralt)'
+  entity_type: CHR
+raw_quote: Geralt lowered his hand slowly—feeling grief for damage that couldn't be
+  undone, for trauma that would shape these five forever, for cost of his earlier
+  mistake that continued reverberating through lives he'd violated.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured
 supersedes: null

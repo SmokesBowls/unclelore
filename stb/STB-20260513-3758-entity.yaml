@@ -2,16 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-3758
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 469
-line_start: 469
+line_end: 62
+line_start: 62
 parsed_payload:
   confidence: medium
   entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: The Igigi calculated probability matrices for the coming invasion, their
-  joy in mathematics now tempered by the grimness of their conclusions. Helix worked
-  alongside them, but even their liberated perspective couldn't find encouraging odds.
+  entity_type: SPEC
+raw_quote: They were interrupted by the arrival of more Igigi—three beings who emerged
+  from the mathematical shadows with bodies that seemed to exist in multiple states
+  simultaneously. One appeared elderly, their crystalline skin clouded with complex
+  calculations. Another vibrated between young and middle-aged, their temporal state
+  uncertain. The third...
 signal_type: entity
-source_file: raw/chapters/book_19_worthy_opponents_north_102_convergence_on_mars.md
+source_file: raw/chapters/book_19_worthy_opponents_north_098_depths_of_memory.md
 status: captured
 supersedes: null

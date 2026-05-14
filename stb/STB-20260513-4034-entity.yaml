@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-4034
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 544
+line_start: 544
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: Colors. Not the colors of light—the colors of force. Purple and gold where
+  the vrill gathered, slow and patient. Black and silver where the graviton currents
+  coiled, waiting for a hand to shape them. And between them, threads of something
+  else—green, blue, red—the colors of life, of will, of the world choosing itself.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_107_the_waking.txt
+status: captured
+supersedes: null

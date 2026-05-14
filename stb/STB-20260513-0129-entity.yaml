@@ -2,15 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-0129
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 5
-line_start: 5
+line_end: 20
+line_start: 20
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: 'REGION: Crimson Citadel (High Orbit), Landing Site Gamma (Northern Continental
-  Mass), Igigi Transport Pods, Genesis Chambers, Breeding Facilities'
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: The collapse started at the base—one block shifting fractionally as desert
+  heat expanded the stone unevenly. That shift propagated upward through fifty vertical
+  feet of carefully stacked architecture, each layer magnifying the instability of
+  the one below. For a moment, the entire structure seemed to hang suspended, geometry
+  fighting gravity, vrill-binding struggling to maintain cohesion against physical
+  reality.
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
 status: captured
 supersedes: null

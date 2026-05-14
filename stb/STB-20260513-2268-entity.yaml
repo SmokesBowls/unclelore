@@ -2,17 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2268
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 13
-line_start: 13
+line_end: 191
+line_start: 191
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt’s armor, sensing the elevated threat, had maintained a low-level
-  defensive charge, making the air around him smell of ozone. The applicator scrolled
-  constant threat assessments, but the true guide was the resonance map Luminaire
-  projected onto his senses—a pulsing, unstable star of chroniton decay ahead of them.
+  entity_type: CHR
+raw_quote: Violet spoke a single word. It wasn’t in any language Geralt knew. It was
+  the sound of a law being repealed.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
+source_file: raw/chapters/book_09_bureaucratic_debt_048_the_ledger_born.md
 status: captured
 supersedes: null

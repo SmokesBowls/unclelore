@@ -2,15 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-3301
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 274
-line_start: 274
+line_end: 135
+line_start: 135
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: '"This journey is too dangerous," Tran insisted, recovering his voice.
-  "We''re going into territories that aren''t safe even for experienced travelers."'
+  entity_type: CHR
+raw_quote: Captain Ulric studied Tran with a soldier's eye for tactical assessment,
+  noting his confident stance, the way he moved in harmony with forces that exceeded
+  normal understanding, the aura of authority that surrounded someone who had awakened
+  to cosmic inheritance.
 signal_type: entity
-source_file: raw/chapters/book_15_legends_and_gods_080_the_whispers_between_worlds.md
+source_file: raw/chapters/book_15_legends_and_gods_079_mages_awakening.md
 status: captured
 supersedes: null

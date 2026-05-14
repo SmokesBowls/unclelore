@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-4776
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 105
+line_start: 105
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: The terraces stepped down toward the water, each level green with crops
+  that had not been there two months ago. The channels that had been carved by the
+  flood had been shaped into gardens, their banks lined with stone that held the vrill
+  and let it flow where it was needed. The marsh that had been grey for three hundred
+  years was green now, alive with reeds and birds and the slow movement of water.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_113_the_edge_of_return.txt
+status: captured
+supersedes: null

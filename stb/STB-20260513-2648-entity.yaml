@@ -2,20 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2648
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 137
-line_start: 137
+line_end: 192
+line_start: 192
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The ash clung to Geralt's thighs like a ghost's fingerprints—first one
-  gust, then another, swirling the ember-flecked remnants of last night's fire directly
-  into his lap. No wind had touched the camp. The air was still as a held breath.
-  Kyh's shadow recoiled from the phenomenon, her edges flickering like a candle in
-  a draft. "Reality hiccups," Kulla muttered, kneading a fistful of clay into the
-  ground as if to plug a leak. Geralt said nothing. He brushed the ash away, watching
-  it dissolve before hitting the earth. Some farewells didn't need words.
+  entity_type: CHR
+raw_quote: It was a desperate risk. The Applicator was a fragment of the very empire
+  that built this atrocity. Connecting it directly to the Spire could corrupt it,
+  or worse, give the Queen a backdoor into Geralt’s own mind.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
+source_file: raw/chapters/book_09_bureaucratic_debt_055_the_anchors_forge.md
 status: captured
 supersedes: null

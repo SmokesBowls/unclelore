@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-4992
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 354
+line_start: 354
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: The terrain south of the city was different from the eastern approach.
+  Less volcanic rock, more packed sediment—ancient seabed, lifted and dried by forces
+  Vale did not fully understand. The flood channels here were deeper, their walls
+  carved smooth by centuries of water that no longer flowed. The vrill ran thin in
+  some places, pooled in others, following paths that seemed random until Sera pointed
+  out the pattern.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_115_the_shape_of_asking.txt
+status: captured
+supersedes: null

@@ -2,18 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-0136
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 74
-line_start: 74
+line_end: 60
+line_start: 60
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: The ground didn't just move—it reorganized. Stone flowed like liquid, arranging
-  itself into foundations that would support structures designed to last millennia.
-  Mineral deposits rose from deep earth, already processed into materials required
-  for construction. Water diverted from underground aquifers, creating channels that
-  would serve both Igigi life support and Reptilian genesis chambers.
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: The mountain Giants working the crescent's edge had lost count of how many
+  catastrophic collapses they'd survived. Wet sand techniques had failed. Vrill-binding
+  without proper foundation had failed. Aggressive reshaping that ignored the stone's
+  natural grain had failed spectacularly, creating landslides that buried their work
+  under tons of debris.
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
 status: captured
 supersedes: null

@@ -2,16 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-2159
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 139
-line_start: 139
+line_end: 27
+line_start: 27
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Something moved—too fast to see. A blur of cobalt and sea-foam. Geralt
-  was yanked from the ground an instant before the chain struck. The cobbles where
-  he’d lain erupted into geometric dust.
+  entity_type: CHR
+raw_quote: “Yes,” Geralt said.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_048_the_ledger_born.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_046_not_like_this.md
 status: captured
 supersedes: null

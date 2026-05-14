@@ -2,19 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-2077
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 203
-line_start: 203
+line_end: 190
+line_start: 190
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The newly formed wings had snapped forward on instinct, curving around
-  him in a sweeping, protective arc. They met the blasts not as flesh, but as shields.
-  The energy detonated against their surface in cascading, eye-searing fireworks.
-  The concussive force slammed Geralt into the dirt, skidding him back ten feet, but
-  he was intact. The wings shimmered, dissipating the residual energy with a low,
-  angry hum.
+  entity_type: CHR
+raw_quote: “Acknowledged. Continue observation.” Her form began to fade, the silver
+  wires of her Sound-structure dissolving first, leaving only the steady, dark-blue
+  Anchor pulse hanging for a moment in the air—a perfect, lonely star—before it too
+  winked out, pulling the sensation back into the core of Geralt’s being.
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_046_not_like_this.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_044_the_mountains_shadow.md
 status: captured
 supersedes: null

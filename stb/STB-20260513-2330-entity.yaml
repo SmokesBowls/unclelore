@@ -2,15 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2330
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 12
-line_start: 12
+line_end: 288
+line_start: 288
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: · VALDRASIL-backed Anunnaki constructs, massive biomechanical horrors,
-  tore at the planet's crust, digging for something deep below.
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: The armor across Geralt’s back heated, then cooled rapidly. A series of
+  sharp, distinct vibrations tapped against his spine. It took him a moment to understand.
+  Morse code. An old, dead language from Earth’s wars.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_051_arrival_in_fire.md
+source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
 status: captured
 supersedes: null

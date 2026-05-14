@@ -2,14 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-1734
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 309
-line_start: 309
+line_end: 72
+line_start: 72
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '*I know,* Geralt thought back.'
+  entity_type: CHR
+raw_quote: 'In the lull, Oreck touched a dying scout’s armor. Resonance flickered—a
+  map of pain etched in vrill. "They’re conduits," he breathed. "The corruption flows
+  *through* them." Geralt’s Applicator burned: *Parasitic symbiosis confirmed*. Cut
+  the scouts, and the roots would bleed.'
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_039_jungle_fever.md
 status: captured
 supersedes: null

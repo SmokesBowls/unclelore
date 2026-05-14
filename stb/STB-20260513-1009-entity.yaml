@@ -2,15 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-1009
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 513
-line_start: 513
+line_end: 13
+line_start: 13
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"Then we move," Geralt said with finality. "Mika''s team infiltrates at
-  dawn. Blends with slave work parties heading to mining operations. Gets inside compound
-  boundaries without raising suspicion. Positions near guard posts and weapon storage."'
+  entity_type: CHR
+raw_quote: Geralt stood watch on the compound's eastern boundary—the direction from
+  which threats had historically arrived, the approach any sensible military force
+  would use given terrain advantages and sight lines. The twin suns were descending,
+  painting the desert in shades that made distance difficult to judge, shadows stretching
+  long enough to hide entire armies if positioned correctly.
 signal_type: entity
 source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured

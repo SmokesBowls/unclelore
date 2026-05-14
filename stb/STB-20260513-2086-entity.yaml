@@ -2,18 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2086
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 267
-line_start: 267
+line_end: 262
+line_start: 262
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: Geralt stood in the shattered gateway, his new wings flexing with a sound
-  like grinding tectonic plates. Behind him, the Legion poured into the compound,
-  meeting the freed slaves in a chaotic, roaring convergence. Four hundred emaciated,
-  furious souls were tearing apart the inner yard with their bare hands, seizing weapons
-  from fallen guards, turning the Anunnaki’s own architecture into rubble.
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: The tether finished its binding. The calm settled into a permanent, deep
+  background state. Geralt felt, for the first time, truly immortal. And truly, utterly
+  alone, save for the resident scientist in his soul.
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_046_not_like_this.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_044_the_mountains_shadow.md
 status: captured
 supersedes: null

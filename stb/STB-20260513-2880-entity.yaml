@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-2880
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 413
+line_start: 413
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: The water deepened. Geralt pocketed the shard, felt its weight settle beside
+  Mika’s blade. Not lost. Never lost. Just choosing which ghosts to carry into the
+  fire.
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+status: captured
+supersedes: null

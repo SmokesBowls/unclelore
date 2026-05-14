@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-4400
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 530
+line_start: 530
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale looked at the city below—the islands that had been mountains, the
+  shelters rising from the stone, the survivors who had learned to live with water
+  instead of land. He thought of Korr, standing on the drowned Ma'at , waiting. He
+  thought of Granite, old and dying, teaching the young ones to sing. He thought of
+  the cliff giants, broken by their silence, learning to trust.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_111_the_resonance_a_garden_under_shadow.txt
+status: captured
+supersedes: null

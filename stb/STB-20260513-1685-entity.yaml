@@ -2,23 +2,27 @@ audit_only: true
 buffer_id: STB-20260513-1685
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 23
-line_start: 23
+line_end: 105
+line_start: 105
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'Above, the Dragon Nebula shimmered. Aelxion’s spectral gaze pierced the
-  void. The **Draconic Warden of Breach** saw the frayed connection—Geralt’s key struggling
-  against Mars’ dissonance. Not a flaw. A plea. Luminara needed equilibrium. Geralt
-  roared. "Oreck! Chroniton lattice! Sector Gamma pattern!" Arrows flew. Green light
-  wove a containment field. The constructs faltered. Lyra injected her rig into the
-  fused sand. "Resonance override initiating!" Luminara’s voice strengthened: *"Syncing...
-  anchor restored."* The spire pulsed gold. Pure. Momentary. Violet shadows recoiled.
-  A path opened—a fracture in the spire’s base. Mika pointed. "There! The core nexus!"
-  But Nyxthoria’s warning echoed from the nebula: Balance demanded sacrifice. Void
-  flames flickered. The fracture bled darkness. Keepers hunted. Anchors tested.'
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: 'Entropy beams lanced out. Not fire, but void made manifest. Twisting black-and-silver
+  ribbons swallowed starlight. Where they struck a VALDRASIL, the serpent didn’t explode.
+  It unraveled. Color drained. Form dissolved into translucency. Gone. As if it never
+  existed. Geralt’s chroniton-sight flared—Zaron’s panic spiking at the violation
+  of physics. Beside him, Lyra’s scanner shorted out, vomiting sparks. "Resonance
+  collapse!" she shrieked soundlessly. Above, dragons retaliated. Torrents of plasma—stellar
+  fire twisted into solar prominences—erupted in electric blue and violent purple.
+  They washed over Anunnaki dreadnoughts. Metal vaporized into lingering nebulae—glowing
+  gravesites slowly fading. Temporal weapons warped the battlefield. Patches of space
+  kaleidoscoped into probability cascades. Light bent around invisible singularities,
+  lensing stars into impossible arcs. Bio-electric pulses flashed—green and violet
+  lightning arcing between combatants. The entire sky ignited in neon auroras: corrosive
+  yellows pulsing with distant detonations. Legionnaires shielded their eyes. Oreck’s
+  arrow trembled.'
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_040_the_dragon_wars.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
 status: captured
 supersedes: null

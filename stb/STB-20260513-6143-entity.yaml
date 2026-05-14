@@ -1,0 +1,22 @@
+audit_only: true
+buffer_id: STB-20260513-6143
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 171
+line_start: 171
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: 'The junior analyst flagged it and appended a note: Possible sensor degradation.
+  Recommend replacement at next maintenance cycle. The note was reasonable. The note
+  was wrong. The instrument was not degraded. The instrument was registering a thermal
+  bleed that the dampeners could not account for—a seepage of warmth through stone
+  that had no vrill channels to carry it, no resonance to measure, no mechanism to
+  classify. The warmth was traveling through something older than the occupation''s
+  physics, and the instruments, honest and precise, were beginning to stutter in its
+  presence.'
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_130_within_tolerance.txt
+status: captured
+supersedes: null

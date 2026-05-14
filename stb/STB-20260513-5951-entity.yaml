@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-5951
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 61
+line_start: 61
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The war did not end. It became a condition. The Gruulith remained at large,
+  a ghost in the deadlands, hunting anything that strayed too far. The dregans occasionally
+  tested the perimeter, screaming at the walls, their hatred undimmed. The reptilians
+  were seen less and less, as if they had no further business with a city that refused
+  to die. The enslaved Igigi were never seen again after the last Nexus fell. Their
+  fate was unknown.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_127_ember_stone.txt
+status: captured
+supersedes: null

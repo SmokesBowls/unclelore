@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-4478
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 253
+line_start: 253
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale sat in the dark, two bodies on a shore, one barely alive, one keeping
+  him that way. He did not speak. He did not ask questions. He simply stayed.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_112_eastern_system.txt
+status: captured
+supersedes: null

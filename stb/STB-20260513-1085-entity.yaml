@@ -2,16 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-1085
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 227
-line_start: 227
+line_end: 455
+line_start: 455
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"I am Geralt," he said clearly, voice carrying across compound despite
-  hunter''s presence seeming to suppress sound itself. "Also known as Ragnarok. You''re
-  here for the armor. For me. Let''s skip the dramatic posturing and get to—"'
+  entity_type: CHR
+raw_quote: Geralt studied the compound from distance—using magnification capabilities
+  the Applicator could provide through interface with his optic nerve, seeing details
+  that unaided human vision couldn't distinguish. The layout was nearly identical
+  to their own former prison. Same architectural design. Same defensive positions.
+  Same assumption that slaves required containment rather than fortification against
+  external threat.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured
 supersedes: null

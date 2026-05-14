@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-6230
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 229
+line_start: 229
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The almost-word had given the network a template. The template was accurate—the
+  stone knew what coherence felt like, and it was preparing for it, biasing warmth
+  and humming readiness and shaping the space for convergence. But the template was
+  also active, and its activity was causing the network to respond to its own expectations.
+  The corridor anticipated the child before she arrived. The mason's fragment tightened
+  in sympathy with an event that had not occurred. The singer paused too early. The
+  Igigi's hum wavered when the anticipated signal did not come.
+signal_type: entity
+source_file: raw/chapters/book_26_the_seam_long_dark_south_134_phase_drift.txt
+status: captured
+supersedes: null

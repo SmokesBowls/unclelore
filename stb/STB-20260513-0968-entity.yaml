@@ -2,17 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-0968
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 199
-line_start: 199
+line_end: 621
+line_start: 621
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"We need better communication!" Geralt shouted—speaking aloud despite
-  internal audience because vocalization helped focus thought under combat stress.
-  "Zaron, animate! Applicator, analyze! I''ll direct! Stop fighting each other and
-  START WORKING TOGETHER!"'
+  entity_type: CHR
+raw_quote: 'Geralt opened his mouth to answer, but three voices emerged simultaneously:'
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured
 supersedes: null

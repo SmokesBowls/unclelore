@@ -2,17 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-1259
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 137
-line_start: 137
+line_end: 524
+line_start: 524
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: The first survivor he found was pinned beneath a collapsed bulkhead, conscious
-  but fading. Anunnaki, judging by the bone structure and the faint shimmer of genetic
-  modifications that had once granted enhanced reflexes. Those reflexes hadn't saved
-  him from several tons of falling metal.
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: Geralt stared at it—feeling armor settle around him, feeling three consciousnesses
+  united in recognition that liberation couldn't stop despite catastrophic losses,
+  that freedom demanded continuation regardless of costs that couldn't be calculated
+  in advance.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_031_the_crash_site.md
+source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured
 supersedes: null

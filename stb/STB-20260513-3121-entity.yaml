@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-3121
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 73
+line_start: 73
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: Tran watched the carnage with growing understanding as his Crimson Blood
+  responded not to the dragons themselves but to the aftermath of their forced deaths,
+  the way their life essence was absorbed and transformed into tools and weapons that
+  would serve the Queen's purposes for millennia to come. His recognition was not
+  simply intellectual—it was cellular, spiritual, as if every aspect of his being
+  was responding to witnessing the source of forces that flowed through his own consciousness.
+signal_type: entity
+source_file: raw/chapters/book_12_forged_identity_068_brotherhood_revealed.md
+status: captured
+supersedes: null

@@ -2,18 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-1190
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 680
-line_start: 680
+line_end: 340
+line_start: 340
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: '"We don''t approach it," he interrupted. "We use it. The Anunnaki are
-  deploying ground forces to secure the compound, to process population, to establish
-  presence. That means access points are open. Security is focused on population below
-  rather than threats from ground level. Windows of opportunity exist for beings they
-  don''t expect to be capable of offensive action."'
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: The sand around Sath'rak erupted—not in simple barrier but in complex geometric
+  patterns that the Applicator calculated, that Zaron animated, that Geralt visualized.
+  Fractal structures that interfered with psionic broadcast. Crystalline formations
+  that disrupted the thousand-eyed mask's targeting. Environmental manipulation that
+  forced hunter to divide attention between maintaining neural assault and defending
+  against physical threat.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
+source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
 status: captured
 supersedes: null

@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-4886
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 270
+line_start: 270
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: Zephyr's face changed. Not grief—something older than grief. Something
+  that had been carried so long it had become part of him.
+signal_type: relationship
+source_file: raw/chapters/book_22_listening_stone_south_114_resonance_of_stone.txt
+status: captured
+supersedes: null

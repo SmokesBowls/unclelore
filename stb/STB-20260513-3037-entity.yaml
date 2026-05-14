@@ -2,18 +2,20 @@ audit_only: true
 buffer_id: STB-20260513-3037
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 165
-line_start: 165
+line_end: 15
+line_start: 15
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: '"Fire that freezes," Voss instructed as Tran''s blood ignited with recognition
-  of capabilities that transcended normal understanding of elemental manipulation.
-  "Fire that flows like water, strikes like lightning, endures like stone. Your flame
-  is not destruction but transformation—the power to change anything it touches into
-  what it needs to become."'
+  entity_type: CHR
+raw_quote: Tran felt the crimson fire in his blood respond to the geometric precision
+  with increasing intensity, as if the pathways themselves were designed to resonate
+  with the specific frequencies that characterized his awakened heritage. The scythe
+  that had served him so well during the battle at Falcon Ridge seemed to grow lighter
+  with each mile they traveled, its balance becoming so perfect that it felt less
+  like a tool he carried and more like an extension of his will made manifest in steel
+  and flame.
 signal_type: entity
-source_file: raw/chapters/book_12_forged_identity_068_brotherhood_revealed.md
+source_file: raw/chapters/book_11_blood_and_legacy_065_secrets_of_the_deep.md
 status: captured
 supersedes: null

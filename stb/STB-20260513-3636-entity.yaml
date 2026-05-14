@@ -2,17 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-3636
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 128
-line_start: 128
+line_end: 37
+line_start: 37
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: As they began the journey back, the transformed being that was both Tran
-  and Zaron reflected on what they'd become. The choice hadn't been easy, but it felt
-  right. In a world facing cosmic threat, half-measures wouldn't suffice. They had
-  chosen unity not through domination or balance but through genuine transformation.
+  entity_type: CHR
+raw_quote: The Dragon Mail suddenly lurched forward, nearly pulling Tran off balance.
+  It had done this before when approaching the fragments, but never with such urgency.
 signal_type: entity
-source_file: raw/chapters/book_18_inquisition_of_yourself_096_violet_convergence.md
+source_file: raw/chapters/book_17_ancestral_debt_089_the_white_mirror.md
 status: captured
 supersedes: null

@@ -2,18 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2736
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 265
-line_start: 265
+line_end: 65
+line_start: 65
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Kyh's shadow peels itself from the ceiling, coalescing into her form beside
-  him. Her silver threads, blackened at the tips from touching the clone, now reach
-  tentatively toward Geralt's glowing scars. "The paradox is the point," she says,
-  understanding coloring her voice with awe. "Zypher, you tried to edit out the contradiction.
-  But the contradiction is what she can't erase. It's the crack in her perfect system."
+  entity_type: CHR
+raw_quote: Geralt's glyph pulsed once—a heartbeat in stone—and the guild's ancient
+  foundations groaned awake.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
 status: captured
 supersedes: null

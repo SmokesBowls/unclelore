@@ -2,18 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0105
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 146
-line_start: 146
+line_end: 24
+line_start: 24
 parsed_payload:
   confidence: medium
-  entity_name: Neferati
-  entity_type: UNKNOWN
-raw_quote: By year four hundred, the seven Nexus Points anchored a web of resonance
-  that spanned the known world. Giants could communicate across continental distances
-  through meditation at these sites. Neferati could coordinate activities without
-  needing to travel physically. The planet itself seemed more responsive, more alive,
-  more willing to collaborate with consciousness that approached it respectfully.
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: Vairis was already organizing defensive positions—not that the Neferati
+  had any real defense against beings that could crush them accidentally, but the
+  instinct to prepare ran deep. "How many?"
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+source_file: raw/chapters/book_01_book_of_genesis_004_the_convergence.md
 status: captured
 supersedes: null

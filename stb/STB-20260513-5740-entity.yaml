@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-5740
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 233
+line_start: 233
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: The thread between her and Vale did not align. It settled. Still off-frequency.
+  Still different. But no longer straining. The system was stabilizing around the
+  difference, making space for two truths that did not need to match to hold together.
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_123_the_conduit_geometry_of_difference.txt
+status: captured
+supersedes: null

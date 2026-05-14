@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3376
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 173
-line_start: 173
+line_end: 156
+line_start: 156
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: The distraction gave Tran his opening. He thrust both the Red Fragment
-  and his blood-infused blade into the Hydra's central mass, aiming for the heart
-  he could somehow perceive beneath layers of armored flesh.
+  entity_type: CHR
+raw_quote: Caelum placed a hand on Tran's shoulder. "This decision isn't mine to make,"
+  he said quietly. "But if you choose to follow them, Onyx and I will accompany you.
+  We have our own reasons to venture beyond Ironspire's influence."
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
+source_file: raw/chapters/book_15_legends_and_gods_080_the_whispers_between_worlds.md
 status: captured
 supersedes: null

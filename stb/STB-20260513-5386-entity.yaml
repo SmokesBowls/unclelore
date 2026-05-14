@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-5386
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 446
+line_start: 446
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: Vale felt the difference. Not in the stone or the vrill or the needle's
+  pulse. In himself. The weight of his presence had shifted. He was still a constant—still
+  a reference that the world corrected toward. But now he was part of something larger.
+  A web of connection that included the Nephoretti's resonance, the giants' shaping,
+  Sera's flow-reading, Zephyr's watchfulness.
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_118_the_constant_and_friction_of_becoming.txt
+status: captured
+supersedes: null

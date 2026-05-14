@@ -2,19 +2,21 @@ audit_only: true
 buffer_id: STB-20260513-3171
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 251
-line_start: 251
+line_end: 105
+line_start: 105
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: '"By right of First Contact," she began, her voice echoing across dimensions
-  as the ritual activated cosmic legal protocols that had been established before
-  most current civilizations had learned to manipulate fire, "by right of Genetic
-  Manipulation, by right of Civilizational Development, by right of Technological
-  Advancement, and by right of Spiritual Elevation—I, Enheduanna, Queen of the Anunnaki,
-  Sovereign of the Void, Mother of Worlds, reclaim what was always mine."'
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: The implications of this revelation struck Tran with force that transcended
+  simple surprise or even anger at the recognition of deliberate sabotage and systematic
+  oppression. The challenges and limitations that had characterized human civilization
+  for millennia, the inability to coordinate effectively across large distances, the
+  repeated failures of defensive efforts against threats that operated on scales beyond
+  local comprehension—all of these difficulties had been artificially imposed through
+  systematic destruction of capabilities and systems that had been designed to enable
+  exactly the kind of coordination and defense that might have made resistance possible.
 signal_type: entity
-source_file: raw/chapters/book_15_legends_and_gods_078_the_queens_return.md
+source_file: raw/chapters/book_12_forged_identity_069_divergent_paths.md
 status: captured
 supersedes: null

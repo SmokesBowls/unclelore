@@ -2,14 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2228
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 314
-line_start: 314
+line_end: 51
+line_start: 51
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: “I have to,” Geralt rasped. “To make room for her.”
+  entity_type: CHR
+raw_quote: The path was familiar in Geralt's bones. He had walked it alone, bleeding
+  and desperate, years ago.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_047_mika.md
 status: captured
 supersedes: null

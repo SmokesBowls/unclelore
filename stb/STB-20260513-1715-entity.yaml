@@ -2,17 +2,21 @@ audit_only: true
 buffer_id: STB-20260513-1715
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 103
-line_start: 103
+line_end: 31
+line_start: 31
 parsed_payload:
   confidence: medium
-  entity_name: Void Spire Network
-  entity_type: UNKNOWN
-raw_quote: '"The Queen uses it as a broadcast tower," Luminara confirmed. "Her resonance
-  grafted onto mine, twisting Graviton technology into a weapon. While I remain split—consciousness
-  here, vessel there—she continues to pervert the Void Spire network." The strain
-  in her voice increased. "And I... I suffocate. Slowly. The corruption tightens."'
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: Below, Serpentor’s corpse twitched. Obsidian armor melted. Gold-black nexus
+  fragments seeped into stone. Oreck staggered. "Primary node... underground... beneath
+  the altar." Halvar grinned—blood on teeth. Legionnaires formed ranks. Shields locked.
+  Mika raised her lance. Geralt nodded. Fight deeper. Cut deeper. Roots waited. Silence
+  gathered. Thunder roared closer. Mist thickened. Rain began—acid-slick. The jungle
+  watched. Legion marched. Down. Into darkness. Toward the heart. Oreck’s bow hummed.
+  Emerald light bled through cracks. Earth trembled. Not in fear. In fury. The Garden
+  awakened—and it remembered vengeance.
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_039_jungle_fever.md
 status: captured
 supersedes: null

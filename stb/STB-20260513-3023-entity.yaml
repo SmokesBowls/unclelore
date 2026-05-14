@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-3023
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 352
+line_start: 352
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: The morning sun, struggling to pierce the shadow cast by Nibiru's approach,
+  painted their diverging paths with light that seemed to carry blessings and warnings
+  in equal measure. Where Keen and Isla walked toward Ironspire, the light took on
+  a crystalline quality that made technological surfaces gleam with cold efficiency.
+  Where Tran and Viên followed the geometric channels, the same light warmed to gold
+  and copper, picking out ancient symbols carved into stone that had been invisible
+  moments before.
+signal_type: entity
+source_file: raw/chapters/book_11_blood_and_legacy_063_the_iron_hand.md
+status: captured
+supersedes: null

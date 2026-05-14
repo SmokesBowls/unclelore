@@ -2,15 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-0074
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 46
-line_start: 46
+line_end: 121
+line_start: 121
 parsed_payload:
   confidence: medium
-  entity_name: Neferati
-  entity_type: UNKNOWN
-raw_quote: And all of them stopped at the tree line, forming a semicircle that enclosed
-  the Neferati position without approaching close enough to threaten.
+  entity_name: Aeon Keepers
+  entity_type: FAC
+raw_quote: Senareth felt the truth of this observation resonating through their Prime
+  connection. The Aeon Keepers didn't send clarification—they were allowing autonomy,
+  allowing discovery—but the resonance itself was confirmation. The Giants' fear had
+  origin in memory. In history that the Nephoretti didn't possess but the transformed
+  Pelagor somehow retained.
 signal_type: entity
-source_file: raw/chapters/book_01_book_of_genesis_004_the_convergence.md
+source_file: raw/chapters/book_01_book_of_genesis_002_molten_descent.md
 status: captured
 supersedes: null

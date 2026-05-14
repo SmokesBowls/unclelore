@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-5817
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 353
+line_start: 353
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale stood on the ridge, feeling the city breathe. The needle's pulse.
+  The Nexus threads. The distant warmth of Luminaire. The ordinary sounds of a place
+  that was learning to live.
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_124_the_last_threshold_release_of_the_constant.txt
+status: captured
+supersedes: null

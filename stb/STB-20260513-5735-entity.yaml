@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5735
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 189
+line_start: 189
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: The old impulse rose—to steady, to align, to bring the wandering thread
+  back into harmony with the whole. He had done it before, without thinking. At the
+  wall. At the vrill pool. In a hundred small moments when his presence had smoothed
+  what should have remained rough.
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_123_the_conduit_geometry_of_difference.txt
+status: captured
+supersedes: null

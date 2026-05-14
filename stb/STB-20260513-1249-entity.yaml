@@ -2,15 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-1249
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 1078
-line_start: 1078
+line_end: 410
+line_start: 410
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt pushed himself upright—movement requiring conscious effort where
-  it should have been automatic, awareness of damage that adrenaline and determination
-  had suppressed during final descent.
+  entity_type: CHR
+raw_quote: Geralt looked at her—at scarred face showing genuine concern rather than
+  recognition, at eyes searching his features for evidence of trauma or injury or
+  explanation for claims that made no sense within her frame of reference.
 signal_type: entity
 source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured

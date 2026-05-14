@@ -2,15 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-0130
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 7
-line_start: 7
+line_end: 24
+line_start: 24
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: 'POV / FOCUS: Queen Eduhauana, Overseer Marduk, Pazuzu (Igigi Elder), Ishara,
-  Overseer Ninurta'
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: The sound was like thunder compressed into a single point—crack of stone
+  against stone multiplied by hundreds of tons of falling mass. Dust exploded outward
+  in a wave that temporarily obscured the sun. Giants scattered, their massive forms
+  surprisingly nimble when survival required it. Neferati dove for cover behind surviving
+  structures or simply threw themselves flat against sand and hoped the debris wouldn't
+  reach them.
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
 status: captured
 supersedes: null

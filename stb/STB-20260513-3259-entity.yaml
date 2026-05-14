@@ -2,16 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-3259
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 82
-line_start: 82
+line_end: 269
+line_start: 269
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: '"Magic abandoned is not magic forgotten," Blue Mika said, their rippling
-  form reflecting memories Tran didn''t recognize. "When others turned away from the
-  old knowledge, we preserved it."'
+  entity_type: CHR
+raw_quote: '"I can feel them," Viên said, his awareness extending through the temporal
+  grid to touch anchor points where other awakening heroes were following their own
+  paths toward cosmic understanding. "Tran with his Crimson Blood, learning to coordinate
+  resistance across planetary networks. Thang with his stellar heritage, becoming
+  a guardian of cosmic fire. Rongtai with her cosmic shadow mastery, adapting to forces
+  that transcend normal understanding."'
 signal_type: entity
-source_file: raw/chapters/book_15_legends_and_gods_080_the_whispers_between_worlds.md
+source_file: raw/chapters/book_14_lessons_of_inheritance_075_anchor_points_of_time.md
 status: captured
 supersedes: null

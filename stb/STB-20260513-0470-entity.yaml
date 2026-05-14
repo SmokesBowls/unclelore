@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-0470
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 29
+line_start: 29
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: It flowed like liquid while remaining solid, reshaping itself according
+  to patterns that existed in Torrhen's mind but operated according to principles
+  that made Zephyr's mathematical consciousness ache with incomprehension. There were
+  no equations for what he was witnessing. No formulas that could describe how thought
+  became reality without passing through the logical frameworks that governed all
+  Igigi consciousness-crafting.
+signal_type: entity
+source_file: raw/chapters/book_04_sage_saga_018_the_wandering.md
+status: captured
+supersedes: null

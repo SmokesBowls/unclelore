@@ -2,15 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2392
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 137
-line_start: 137
+line_end: 146
+line_start: 146
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt opened his mouth, but Luminaire’s presence flared in warning. “It’s
-  not asking for your story. It’s asking for your legal standing. Let me.”
+  entity_type: CHR
+raw_quote: “Untargeted?” Oreck growled, suspended in Geralt’s grip. “Where does it
+  go?”
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_052_entry_without_standing.md
+source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
 status: captured
 supersedes: null

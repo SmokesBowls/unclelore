@@ -2,16 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-3433
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 169
-line_start: 169
+line_end: 36
+line_start: 36
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: With the decision made, a weight seemed to lift from Tran's shoulders,
-  even as another settled in its place—the responsibility of their chosen paths, separate
-  but united in purpose.
+  entity_type: CHR
+raw_quote: Tran faltered as the singing intensified, his consciousness wavering. The
+  sand beneath him began to swirl, forming a funnel that threatened to pull him under.
+  But as the vortex deepened, the Crimson Blood responded – not just flowing through
+  his veins but emerging from his skin in thin rivulets that hardened instantly, forming
+  a crimson network around his body.
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_084_earth_giants_and_diverging_paths.md
+source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
 status: captured
 supersedes: null

@@ -2,16 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-0771
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 448
-line_start: 448
+line_end: 1353
+line_start: 1353
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"One more thing, Geralt. When your time comes—when death or miracle allows
-  the armor to be removed—the fragments will scatter again. Must scatter. That''s
-  the nature of what I''ve become. Cycles of unity and division."'
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: Then the Anunnaki simply... escalated.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_026_dragonmail.md
+source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
 status: captured
 supersedes: null

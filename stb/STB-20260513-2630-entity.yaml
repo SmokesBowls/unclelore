@@ -2,15 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-2630
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 65
-line_start: 65
+line_end: 90
+line_start: 90
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt's glyph pulsed once—a heartbeat in stone—and the guild's ancient
-  foundations groaned awake.
+  entity_type: CHR
+raw_quote: 'The Plan: A heist. Not a frontal assault. The slaver captain was known
+  to be arrogant, greedy, and fond of gambling on pit-fights in the lower lunar taverns.
+  Oreck would be the bait—a fearsome, exotic challenger. Kyh would be the shadow,
+  infiltrating the ship’s systems. Geralt would be the anchor, applying causal inertia
+  in tiny, crucial moments: a guard’s hesitation, a lock’s failure, a distracted glance
+  at the wrong time.'
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
+source_file: raw/chapters/book_09_bureaucratic_debt_055_the_anchors_forge.md
 status: captured
 supersedes: null

@@ -2,22 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-1624
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 29
-line_start: 29
+line_end: 53
+line_start: 53
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: 'Oreck leaned against cracked stone. His armor flickered—camouflage failing.
-  Halvar scanned the treeline. Geralt raised Luminara. Her light traced crimson emitters
-  in writhing vines. The Legion froze. Below their boots, stone hummed. Vrill-lines
-  pulsed, bleeding violet energy toward distant peaks. Mika whispered: "They''re feeding
-  the network." Lyra’s scanner hissed. "Resonance rebuilding. Node Gamma... regenerating."
-  Oreck choked out words: "Weakening roots. Parasite logic. Cut one... others compensate."
-  He touched a vine. Stolen armor synced. Emerald light bled through corrupted veins.
-  Geralt’s gauntlet tightened. *Roots.* Always roots. Anunnaki weren’t invading. They
-  were grafting. Feeding. Becoming. Luminara wept: *The Garden remembers pain...*'
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: 'Oreck shifted silently, a low growl vibrating his armored chest. His chroniton-flecked
+  amber eyes tracked the glyph Geralt drew. The faint green arrows along his greaves
+  flared briefly, pointing northwest. *Towards Luminaire.* He understood the hunt’s
+  heart now: not just destruction, but restoration. Reclaiming a fractured song before
+  the Queen corrupted it into a scream.'
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_039_jungle_fever.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_037_the_circle_of_progress.md
 status: captured
 supersedes: null

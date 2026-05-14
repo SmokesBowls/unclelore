@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-3134
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 127
+line_start: 127
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: But the vision revealed that Geralt's mission had been even more significant
+  than simple rescue of a single engineered being. As the scene unfolded, they saw
+  him emerging with two bundles—one the infant Tran, the other a slightly older child
+  whose eyes already held flecks of chaotic darkness that spoke of Draco essence achieving
+  stable manifestation in genetic form capable of supporting conscious development.
+signal_type: entity
+source_file: raw/chapters/book_12_forged_identity_068_brotherhood_revealed.md
+status: captured
+supersedes: null

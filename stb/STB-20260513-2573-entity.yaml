@@ -2,19 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2573
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 73
-line_start: 73
+line_end: 293
+line_start: 293
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Pyrocast's spines vibrated under Geralt's grip as the crimson dragon rolled
-  sideways, narrowly avoiding a Vasthril's lash. "They're tuning forks!" Kyh's voice
-  was raw against the windless void. "The Vasthril resonate at Her frequency—dragons
-  can't hold harmony against that!" Indeed, the sapphire dragon nearby faltered mid-strike,
-  its frost-breath scattering harmlessly as a Vasthril pulsed white light through
-  its core.
+  entity_type: CHR
+raw_quote: “No,” Geralt said. “There has to be another way. We can cage the signal
+  in my head. Isolate it.”
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
+source_file: raw/chapters/book_09_bureaucratic_debt_053_the_twilight_city.md
 status: captured
 supersedes: null

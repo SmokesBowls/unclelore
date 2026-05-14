@@ -2,15 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0124
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 236
-line_start: 236
+line_end: 146
+line_start: 146
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: 'Next: chapter 006 The First Coming - Anunnaki arrival, Igigi creation,
-  the shattering of paradise'
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: 'For long moments, nothing happened. The beach held its breath again, waves
+  barely moving, wind dying to whisper. Every consciousness present—Neferati and Giant
+  alike—focused on the tableau unfolding: small being kneeling at the feet of massive
+  one, offering apology across ten thousand years of trauma.'
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+source_file: raw/chapters/book_01_book_of_genesis_004_the_convergence.md
 status: captured
 supersedes: null

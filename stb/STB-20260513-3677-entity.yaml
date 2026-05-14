@@ -2,17 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-3677
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 64
-line_start: 64
+line_end: 199
+line_start: 199
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: The word carried power—not volume, but authority. It came from the dragon
-  mail, from Zaron's awakened consciousness channeled through Tran's will. The armor's
-  scales flared with light that was neither crimson nor gold but something between,
-  something new.
+  entity_type: CHR
+raw_quote: '"Only that it represents unity and transcendence," Tran replied. "That
+  it''s the key to bringing all the pieces together."'
 signal_type: entity
-source_file: raw/chapters/book_19_worthy_opponents_north_100_convergence_at_ironspire.md
+source_file: raw/chapters/book_17_ancestral_debt_089_the_white_mirror.md
 status: captured
 supersedes: null

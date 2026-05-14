@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3842
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 242
+line_start: 242
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: The psychological impact rippled through both armies. The Earth forces
+  surged with renewed determination, seeing their champion achieve the impossible.
+  The Anunnaki forces wavered, their certainty in technological superiority suddenly
+  questionable.
+signal_type: entity
+source_file: raw/chapters/book_19_worthy_opponents_north_102_convergence_on_mars.md
+status: captured
+supersedes: null

@@ -2,17 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2288
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 174
-line_start: 174
+line_end: 9
+line_start: 9
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt hit the ground on his knees, vomiting nothing but bile and light.
-  The neural scars along his spine burned white-hot. The Anchor bond wasn't just stretched—it
-  was lacerated. Each of Luminaire's three failed jumps had ripped through him like
-  sympathetic damage, a psychic feedback loop of catastrophic arrival.
+  entity_type: CHR
+raw_quote: 'Geralt and Zephyr traveled east for three weeks. The land changed. The
+  applicator in Geralt’s head fed him a constant, useless stream of data:'
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
+source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
 status: captured
 supersedes: null

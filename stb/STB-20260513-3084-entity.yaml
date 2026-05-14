@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-3084
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 337
+line_start: 337
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: Tran's response demonstrated both his growing understanding of his cosmic
+  heritage and his refusal to be intimidated by consciousness that operated on scales
+  beyond normal comprehension. "You want to test what I carry? Fine," he said, his
+  scythe feeling suddenly very small in his hands despite the crimson fire that blazed
+  along its blade with intensity that spoke of stellar processes channeled through
+  awakened will. "But I'm not just carrying power—I'm carrying purpose."
+signal_type: entity
+source_file: raw/chapters/book_11_blood_and_legacy_065_secrets_of_the_deep.md
+status: captured
+supersedes: null

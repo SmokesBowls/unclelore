@@ -2,18 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2613
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 3
-line_start: 3
+line_end: 243
+line_start: 243
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The Guild's wards hummed as Geralt crossed the threshold—not a barrier,
-  but a sieve, testing the harmonics of his borrowed divinity. Behind him, Oreck's
-  tail lashed once against the lunar dust before the reptilian warrior melted into
-  the sprawl's shadows. Inside, the air smelled of ozone and something deeper, like
-  the scent of an old blade being reforged.
+  entity_type: CHR
+raw_quote: She smiled, sad and knowing, then turned her full attention to Geralt.
+  "I don't have much time. The Records allow this meeting, but only briefly."
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
+source_file: raw/chapters/book_09_bureaucratic_debt_054_tue_lunar_spire.md
 status: captured
 supersedes: null

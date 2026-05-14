@@ -2,18 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-2760
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 365
-line_start: 365
+line_end: 151
+line_start: 151
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The hematite archivist exhaled—a sound like vellum tearing—and pressed
-  their forehead to the chamber wall. Their fingers traced the glyph Geralt had left
-  earlier, now pulsing faintly in time with the third ring's wreckage. "You'll need
-  a vessel," they murmured. "Not armor. Not a ship. Something that can hold stellar
-  fury without interpreting it."
+  entity_type: CHR
+raw_quote: 'Together, they knelt. Not the stiff formality of vassals—this was collapse
+  and reclamation, joints hitting earth like stones finding their rightful place in
+  a landslide. When they spoke, the harmonics made Geralt''s scorched Applicator whimper
+  in recognition:'
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
 status: captured
 supersedes: null

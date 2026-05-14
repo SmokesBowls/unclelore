@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-6059
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 27
+line_start: 27
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: The erasure did not reverse. It did not recoil. It did not fail in the
+  way the dampeners had failed, or the counter-frequency, or the quarantine. It simply
+  did not resolve. The Gruulith's presence pressed against Vale's edges, and the edges
+  held, and the holding was not resistance. It was incompatibility. Two ontologies
+  occupying the same coordinate. One invalidated existence. The other was existence
+  that had already been invalidated and remained anyway.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_129_calibration_drift.txt
+status: captured
+supersedes: null

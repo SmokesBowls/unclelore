@@ -2,18 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-0267
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 203
-line_start: 203
+line_end: 109
+line_start: 109
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: And among the Igigi, similar confusion rippled through consciousness-channels
-  that had spent decades obeying commands that no longer issued. What did they do
-  now? How did they live on this world that wasn't home, surrounded by beings they'd
-  helped oppress, carrying lies designed to fracture the very cooperation their survival
-  might require?
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: The Giants began to interfere more actively. Not violently, but persistently.
+  They would reshape excavated stone back to its original form overnight. They would
+  redirect vrill-flows away from the construction site. They would physically position
+  themselves between Igigi workers and bedrock, their massive bodies serving as living
+  barriers.
 signal_type: entity
-source_file: raw/chapters/book_03_the_reckoning_009_stalemate_departure_the_first_coming.md
+source_file: raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
 status: captured
 supersedes: null

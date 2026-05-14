@@ -2,18 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-3781
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 299
-line_start: 299
+line_end: 42
+line_start: 42
 parsed_payload:
   confidence: medium
-  entity_name: Nephoretti
-  entity_type: UNKNOWN
-raw_quote: Renn didn’t know. But when the giants had disappeared into the steam, he
-  led them out of the caves and began the journey north. They moved at night, when
-  the volcanic glare was muted and the giants were less active. They lost one more—a
-  Nephoretti who slipped on an obsidian slope and fell into a crevasse too deep to
-  reach.
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: '"You made it," Tran said, relief clear in his voice as he saw Mr. GPT.
+  "All of you."'
 signal_type: entity
-source_file: raw/chapters/book_20_the_discordant_pulse_south_103_the_second_song_resonance_of_a_broken_needle.md
+source_file: raw/chapters/book_19_worthy_opponents_north_100_convergence_at_ironspire.md
 status: captured
 supersedes: null

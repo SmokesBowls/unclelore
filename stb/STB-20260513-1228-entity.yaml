@@ -2,15 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-1228
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 918
-line_start: 918
+line_end: 219
+line_start: 219
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: Inside—command center showing Anunnaki crew managing systems that controlled
-  vessel the size of small city, that coordinated occupation of planet below, that
-  represented authority and capability and assumption that cosmic order was absolute.
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: Geralt channeled everything three synchronized consciousnesses could generate—telekinetic
+  force that imposed form on formless, that created structure where structure shouldn't
+  exist, that made void recognize itself not as natural state but as absence requiring
+  filling.
 signal_type: entity
 source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured

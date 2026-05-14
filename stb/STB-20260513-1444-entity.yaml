@@ -2,27 +2,28 @@ audit_only: true
 buffer_id: STB-20260513-1444
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 159
-line_start: 159
+line_end: 60
+line_start: 60
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: 'The crater floor wasn’t sand. It was fused glass, black and jagged, veined
-  with streaks of sickly, phosphorescent green where lingering chroniton decay bled
-  through. Every step crunched unnervingly. The air hung thick, tasting of ozone and
-  something older, metallic and sour – the psychic tang of final breaths held for
-  three thousand years. Geralt moved cautiously, the applicator mapping residual energy
-  spikes like landmines. He felt the desert’s gaze intensify here, not indifferent
-  now, but watchful, wounded. He remembered the desperate gamble: the stolen leviathan
-  ship, the trap sprung too soon, the gut-wrenching order to crash it, sacrificing
-  half his legion, half a city’s stolen population, to cripple the Anunnaki foothold.
-  The armor, Zaron’s spirit within it, resonated with the memory, a shared pulse of
-  ancient fury and profound regret. *This is where we broke them,* it seemed to whisper.
-  *And broke the world.* He saw phantom flickers at the edge of vision – not Chronohounds,
-  but ghostly outlines of falling structures, screams trapped in the glass. The Heart
-  of Faraxar remembered everything the crash had seared into the land.'
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: Kaelen pressed a small, cold chroniton shard into his palm. "This holds
+  your external timeline. Wear it visibly. It marks you as... unusual. Use it." She
+  gestured towards the shimmering boundary. "Step through. Find the key individual
+  – the one whose unresolved pain resonates strongest with the anchor carving. Help
+  them face it before the cycle resets." Geralt gripped the shard. "What happens if
+  I fail?" Kaelen's expression was stark. "The loop continues. The settlement stagnates.
+  And Xal'Zirith's influence grows stronger within fractured time." Geralt took a
+  breath. Failure wasn't an option. He stepped forward, the temporal boundary parting
+  like cold water. The world shifted subtly – sounds sharpened, colors deepened. He
+  stood at the settlement's edge. A farmer trudged past, leading grivets. He glanced
+  at Geralt, eyes widening slightly at the glowing shard pinned to Geralt's overshirt.
+  The echo had begun. Geralt scanned the plaza. His eyes locked onto a young woman
+  kneeling by the grivet carving, silently tracing the stone kits with trembling fingers.
+  Her grief was a raw, palpable thing. The anchor point. Katherine's owner. Sully.
+  Geralt walked towards her. The settlement held its breath.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
+source_file: raw/chapters/book_06_the_ragnarok_034_the_250.md
 status: captured
 supersedes: null

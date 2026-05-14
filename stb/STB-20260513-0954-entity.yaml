@@ -2,15 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-0954
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 115
-line_start: 115
+line_end: 537
+line_start: 537
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"It''s complicated," Geralt said, feeling the Applicator''s presence stir
-  with something approaching indignation at being referred to as "device."'
+  entity_type: CHR
+raw_quote: Geralt thought of the trial they'd just completed. Of Ušumgallu's testing.
+  Of what he'd learned about power and plurality and the necessity of contested consciousness.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured
 supersedes: null

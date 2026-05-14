@@ -1,0 +1,15 @@
+audit_only: true
+buffer_id: STB-20260513-4225
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 1126
+line_start: 1126
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: And Vale — Vale went back to the Ma'at with Korr.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_109_the_thread_and_cage.txt
+status: captured
+supersedes: null

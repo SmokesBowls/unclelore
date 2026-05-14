@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0475
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 101
+line_start: 101
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: It went against every survival instinct Zephyr possessed. Igigi consciousness-crafting
+  relied on precise definition of self versus environment. Losing those boundaries
+  meant losing control, possibly losing identity entirely. It was a form of death,
+  from his mathematical perspective.
+signal_type: entity
+source_file: raw/chapters/book_04_sage_saga_018_the_wandering.md
+status: captured
+supersedes: null

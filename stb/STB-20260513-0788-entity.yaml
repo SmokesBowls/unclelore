@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0788
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 51
-line_start: 51
+line_end: 1484
+line_start: 1484
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt placed his hand against Oreck's forehead—scales warm beneath his
-  palm, feeling the ridge-work that marked this being as predator, as weapon, as tool
-  the Anunnaki had shaped for purposes he'd transcended through choice.
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: Figures made of flowing light. Watching from spaces that weren't quite
+  present. The Nehereti, observing with ancient patience, waiting for this critical
+  juncture—this moment of shattered chains and fallen gods—to act on purposes he couldn't
+  comprehend.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
 status: captured
 supersedes: null

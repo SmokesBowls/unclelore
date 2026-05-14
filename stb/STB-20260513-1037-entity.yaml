@@ -2,15 +2,13 @@ audit_only: true
 buffer_id: STB-20260513-1037
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 703
-line_start: 703
+line_end: 113
+line_start: 113
 parsed_payload:
   confidence: medium
   entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: Others hesitated—conditioning warring with reality, centuries of belief
-  that Anunnaki supremacy was absolute colliding with evidence that slaves could coordinate,
-  could fight, could WIN.
+  entity_type: FAC
+raw_quote: '"You carry Anunnaki control device willingly? Explain."'
 signal_type: entity
 source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured

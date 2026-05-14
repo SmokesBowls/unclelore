@@ -2,17 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-3666
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 148
-line_start: 148
+line_end: 149
+line_start: 149
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: The corruption in the chamber began to writhe, its mathematical precision
-  disrupted by the pure unpredictability of emotion and instinct. Isla pulled out
-  the Voice of Air, but instead of using it properly, she simply blew across it randomly,
-  creating atonal sounds that made the Igigi wince.
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: Tran stepped forward, the Dragon Mail moving with him in perfect synchronization—not
+  the mechanical precision of the mirror-version, but the natural harmony of two consciousness
+  choosing to act as one. His hand closed around the White Fragment, and the moment
+  it touched his palm, the mirror-version simply... ceased.
 signal_type: entity
-source_file: raw/chapters/book_19_worthy_opponents_north_098_depths_of_memory.md
+source_file: raw/chapters/book_17_ancestral_debt_089_the_white_mirror.md
 status: captured
 supersedes: null

@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-4113
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 583
+line_start: 583
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale stood on the eastern wall, watching the light spread across the marsh.
+  Beside him stood Elara, her eyes closed, her hands tracing the currents that flowed
+  from the needle to the Ma'at.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_108_evolution_of_the_keeper.txt
+status: captured
+supersedes: null

@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-4118
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 18
+line_start: 18
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale nodded slowly. He had spent five centuries preparing for this. Five
+  centuries of learning, of waiting, of becoming something that was not a weapon.
+  The voice from the Ma'at had not spoken again since that night the scout ships entered
+  the system, but he had felt its presence constant, patient, as if it too was waiting
+  for him to be ready.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_109_the_thread_and_cage.txt
+status: captured
+supersedes: null

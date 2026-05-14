@@ -2,17 +2,40 @@ audit_only: true
 buffer_id: STB-20260513-1650
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 151
-line_start: 151
+line_end: 25
+line_start: 25
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'The root-monster swayed—a grotesque parody of breath. Ren’s terror thrummed
-  through its bark-carved emitters; Halvar’s guilt pulsed in the veins of its thorns.
-  It didn’t attack. It *listened*, drinking the Legion’s silence like poison wine.
-  Geralt’s Applicator screamed:'
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: The violet veins flickered. Dimmed. For an instant, the Luminaire’s core
+  shone pure, trapped lightning refracted through murk—a dazzling prism of sound made
+  visible. Hope sparked. Then the Sludge-drake Alpha emerged. Twice the size of the
+  others, its carapace bore scars of Anunnaki implants forcibly welded to its spine.
+  It reared, throat swelling. Not acid. A beam of corrupted luminescence ripped toward
+  Lyra—a mimicry of the Spire’s own power, twisted and vile. Mika lunged, shield-first.
+  The blast hammered her back, cracking her kinetic field like glass. She skidded
+  across wet stone, gasping. Oreck intercepted the Alpha’s follow-up strike. His cleaver
+  met its descending claw. Metal screamed. Chroniton sparks showered the water. Halvar
+  and Torren flanked the beast, blades useless against its thick plates. Jorik peppered
+  its eyes, buying seconds. Geralt’s focus never wavered from the Spire. Zaron’s power
+  intensified. Azure light coiled around the obsidian needle, peeling back the violet
+  corruption strand by agonizing strand. Lyra’s hands trembled as her filaments fused
+  deeper into the resonance field. "Almost… synced!" The Alpha screeched. Its tail
+  whipped, sending Torren crashing into a crumbling wall. Halvar leapt atop its back,
+  dagger stabbing for implant seams. Useless. The beast bucked, flinging him into
+  dark water. Mika staggered upright, shock-lance spitting unstable energy. "Geralt!
+  We need—". The Luminaire flared again. Brighter. Cleaner. The Alpha recoiled, its
+  corrupted light beam sputtering. Oreck seized the moment. His cleaver plunged into
+  the beast’s neck joint. Not flesh. The chroniton blade targeted the pulsing Anunnaki
+  implant grafted to its spine. Melted wiring exploded outward. The Alpha shrieked,
+  collapsing. Silence fell. Only the drip of water and the Luminaire’s pure, strengthening
+  hum remained. Lyra withdrew her filaments, swaying. "Anchor stabilized… for now."
+  The violet veins were faded ghosts. But beneath the obsidian spire, the water still
+  churned. Something deeper than drakes stirred. The descent wasn’t over. Geralt turned
+  toward the Stair’s shadowed continuation. "Move." Integration had bought them time.
+  The Darkness ahead? That was revelation’s price.
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_039_jungle_fever.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
 status: captured
 supersedes: null

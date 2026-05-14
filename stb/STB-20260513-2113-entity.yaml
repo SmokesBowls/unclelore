@@ -2,19 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-2113
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 7
-line_start: 7
+line_end: 203
+line_start: 203
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt walked at the head, his Stage 1 wings folded tight against his back.
-  They caught the sun, casting a jagged, dragon-shaped shadow that stretched ahead
-  of him like a guide. Mika walked at his side, her eyes perpetually scanning the
-  horizon, a habit war had etched into her bones. They spoke little. The silence between
-  them was not empty; it was full of the unspoken understanding that the mission was
-  over, and the weight of what came next was settling upon them.
+  entity_type: CHR
+raw_quote: The Red Hand didn’t hesitate. There was no ceremony, no challenge. They
+  simply attacked. Kael’s axe took the lead guard’s head off in a spray of dark fluid
+  and sparks. The others followed, a blur of brutal, efficient violence. It was over
+  in twenty seconds. Two Red Hand bore fresh, sizzling wounds from energy blades,
+  but they waved off Geralt’s look. “Scratches,” one grunted, binding it with a rough
+  bandage.
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_047_mika.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_045_the_hub_falls.md
 status: captured
 supersedes: null

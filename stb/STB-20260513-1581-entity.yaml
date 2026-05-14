@@ -2,20 +2,20 @@ audit_only: true
 buffer_id: STB-20260513-1581
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 77
-line_start: 77
+line_end: 83
+line_start: 83
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Lyra’s medicae rig spat a final spark. Her reflection showed bone where
-  flesh should be—a healer’s failure made manifest. She met Geralt’s eyes across the
-  churning light. "It needs balance," she gasped. "Not a master. An anchor." The Luminaire
-  flared, its light searing. Mika fought beside him, shieldless, lance spearing another
-  root-tendril. Chroniton droplets rained down like molten stars. Time liquefied.
-  Halvar hauled Torren free, both bleeding phosphorescent fluid. The cavern walls
-  shimmered, dissolving into resonance.
+  entity_type: CHR
+raw_quote: 'The cavern plunged into profound silence. The spire’s dark metal now pulsed
+  with a deep, internal light – resonant, but contained. Geralt felt its new purpose
+  humming through his armor: To light, and to Sound.. To Luminaire. To the Resonant
+  Keeper whose signature was the final compass. He rose, turning towards the causeway.
+  Althurion watched, a silent mountain. Geralt met his gaze. "The spire sings only
+  for my purpose," Geralt stated. "It brings no threat. Only answers." The Giant gave
+  a slow, resonant nod. **"Harmony endures."**'
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
 status: captured
 supersedes: null

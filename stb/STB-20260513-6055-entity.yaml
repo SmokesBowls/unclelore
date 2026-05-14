@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-6055
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 21
+line_start: 21
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: It was not an attack. It was a condition. The Gruulith's presence pressed
+  against the chamber's geometry, seeking the edges of what could be invalidated.
+  The air thinned. The light flattened. The stone beneath the Gruulith's advance forgot
+  itself—not breaking, not cracking, but becoming less. A perfect circle of absence
+  began to spread from the threshold, erasing the dust, the tool marks, the faint
+  residue of Igigi footsteps left during the quarantine. The chamber was being unmade
+  by degrees.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_129_calibration_drift.txt
+status: captured
+supersedes: null

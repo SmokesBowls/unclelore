@@ -2,29 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-1291
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 61
-line_start: 61
+line_end: 802
+line_start: 802
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'The climb was brutal. Every shift of loose scree sent agony screaming
-  through Geralt''s ribs. Kaelen moved with impossible grace, finding purchase where
-  none seemed to exist. Halfway up, she paused beside a sheer rock face. "Observe,"
-  she commanded, placing her palm against the stone. It shimmered, revealing a hidden
-  fissure – not a cave, but a *fold* in the rock itself, a spatial distortion. "A
-  temporal slipstream," she explained. "A shortcut... and a trap. Unstable. Feel its
-  resonance." Geralt approached cautiously. The applicator screamed warnings: *Severe
-  spatial-temporal distortion! Gravimetric shear detected!* The armor vibrated with
-  wary curiosity. He reached out, fingers brushing the folded air. It felt like pushing
-  against thick, vibrating jelly. "Its anchor points are fraying," Kaelen said. "Stabilize
-  it enough for passage. Not permanently – just long enough for us to traverse. Focus
-  on the weakest junction." Geralt closed his eyes, ignoring the pain. He sensed the
-  shimmering chroniton weave of the slipstream – thin, frayed threads vibrating wildly.
-  One junction pulsed erratically, threatening to snap. He poured his will into reinforcing
-  it, visualizing steel bands clamping around the fraying point. The jelly-like resistance
-  solidified slightly. "Go!" Kaelen ordered. Geralt lunged through the fissure.'
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: The vessel's shadow wasn't complete—gaps existed where structure curved,
+  where architectural features created spaces that shadow didn't reach. And from those
+  gaps—transport beams descended. Energy signatures that the Applicator identified
+  as matter transfer systems, ways for Anunnaki to deploy forces without physically
+  landing or establishing permanent ground connection.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_032_the_redo.md
+source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured
 supersedes: null

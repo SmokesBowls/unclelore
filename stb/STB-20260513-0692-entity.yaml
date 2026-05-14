@@ -2,17 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0692
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 1403
-line_start: 1403
+line_end: 769
+line_start: 769
 parsed_payload:
   confidence: medium
   entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: The Reptilian crashed into the Anunnaki with force that made the compound's
-  stone floor crack. His massive bulk knocked the golden figure aside just as the
-  power released—killing strike missing its target by inches, instead vaporizing section
-  of perimeter wall in blinding flash.
+  entity_type: FAC
+raw_quote: 'Not violently. Not earthquake or explosion. But steady vibration that
+  grew in intensity, resolving into recognizable pattern: engines. Massive engines
+  generating thrust on scales that dwarfed anything the Anunnaki complex had displayed.'
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
+source_file: raw/chapters/book_05_the_nameless_one_024_the_first_spark.md
 status: captured
 supersedes: null

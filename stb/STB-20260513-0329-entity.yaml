@@ -2,17 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0329
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 72
-line_start: 72
+line_end: 117
+line_start: 117
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: The Nephilim didn't require clarity. They possessed awareness that exceeded
-  mortal understanding. They could perceive the Anunnaki threat directly, sense the
-  Gruulith and Dregans and Brajor, recognize corruption attempting to reshape this
-  world according to purposes that violated cosmic balance.
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: 'Infrastructure Achievement: Four Needles operational at 70%+ capacity.
+  Three Needles at 45-60% completion, requiring Second Coming resources. Network established
+  but suboptimal. Vrill-channeling functional. Communication protocols degraded but
+  serviceable.'
 signal_type: entity
-source_file: raw/chapters/book_03_the_reckoning_014_convergence.md
+source_file: raw/chapters/book_03_the_reckoning_009_stalemate_departure_the_first_coming.md
 status: captured
 supersedes: null

@@ -2,17 +2,20 @@ audit_only: true
 buffer_id: STB-20260513-0071
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 28
-line_start: 28
+line_end: 105
+line_start: 105
 parsed_payload:
   confidence: medium
-  entity_name: Neferati
-  entity_type: UNKNOWN
-raw_quote: The surface Giants were retreating now, backing toward the tree line in
-  a movement that felt coordinated despite no visible communication. Torhh lingered
-  longest, caught between curiosity about the Neferati and whatever instinct was pulling
-  them toward the forest.
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: Within the span of perhaps an hour—time felt strange now, linear and irreversible
+  rather than the fluid probability-space of ethereal existence—approximately two
+  hundred Nephoretti had assembled into something resembling coordination. The others
+  remained scattered across the landscape, visible as rising steam and shimmer-distortions
+  where vrill-energy still dissipated into atmosphere. But two hundred was enough.
+  Enough for initial assessment. Enough to begin understanding the situation they
+  had fallen into.
 signal_type: entity
-source_file: raw/chapters/book_01_book_of_genesis_004_the_convergence.md
+source_file: raw/chapters/book_01_book_of_genesis_002_molten_descent.md
 status: captured
 supersedes: null

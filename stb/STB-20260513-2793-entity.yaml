@@ -2,17 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-2793
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 483
-line_start: 483
+line_end: 23
+line_start: 23
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"Going dark," Geralt told the silent stone. Not a promise. Not a plea.
-  Just coordinates whispered into the void where a listener might have been. Above
-  him, the false sky pulsed—forty-seven minutes exact. Somewhere beyond the ridge,
-  Kyh''s shadow spasmed violently enough to send a shockwave through the mycelial
-  network.'
+  entity_type: CHR
+raw_quote: Tidecaller's entrance wasn't a cave or archway, but a sheer cliff face
+  whose mineral veins rearranged themselves into spiraling sigils whenever Geralt
+  blinked. The stone breathed in glacial increments, its exhalations frosting the
+  air with needles of condensed time. Somewhere within those depths, Zypher waited.
+  And judging by the way the mountain's shadow now stretched toward them like a hand
+  anticipating a weapon, so did everything that had ever been buried alive.
 signal_type: entity
 source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
 status: captured

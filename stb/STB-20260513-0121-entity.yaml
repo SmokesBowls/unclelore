@@ -2,17 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-0121
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 216
-line_start: 216
+line_end: 124
+line_start: 124
 parsed_payload:
   confidence: medium
-  entity_name: Aeon Keepers
-  entity_type: UNKNOWN
-raw_quote: 'Seraneth felt the Prime connection pulse with grief and determination
-  in equal measure. The Aeon Keepers were sending their final briefing, compressed
-  understanding flooding through dimensions into consciousness barely prepared to
-  receive it:'
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: The mountain Giant holding Senareth tilted their head—question evident
+  in the gesture. Senareth extended consciousness-touch again, this time creating
+  images that hurt to form. Tiamat's mountain cities. Pelagor crawling from ocean
+  onto land. Neferati throwing stones, driving them back into water. The cycle repeating
+  across centuries, casual cruelty built into territorial defense.
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+source_file: raw/chapters/book_01_book_of_genesis_004_the_convergence.md
 status: captured
 supersedes: null

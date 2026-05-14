@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5010
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 432
+line_start: 432
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale closed his eyes. Let the needle's pulse fade. Let Luminaire's distant
+  warmth grow still. Let himself be only here—palm pressed to ancient stone, breathing
+  the salt-thick air, feeling the weight of something that had been holding longer
+  than he had been alive.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_115_the_shape_of_asking.txt
+status: captured
+supersedes: null

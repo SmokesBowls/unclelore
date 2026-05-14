@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-5174
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 81
+line_start: 81
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: Vale moved through the city and watched the pattern unfold like a tide
+  only he could stand in. A terrace gate latch clicked true as he passed, though no
+  hand had touched it. A drainage channel realigned, vrill pooling for a breath before
+  finding its true path. A loose retaining stone settled into the packed ash, weight
+  distributing itself before the mason could reach it.
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_117_the_constant_calibration_living_as_anchor.txt
+status: captured
+supersedes: null

@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-4184
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 637
+line_start: 637
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale knew, somehow, that they were not from the marsh. They were from somewhere
+  else. Somewhere the void ran deeper than stone. The thread warned him – a pulse
+  of static, a note of discord – but he could not move. The anchors held him. The
+  feed fed him. The shapes watched.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_109_the_thread_and_cage.txt
+status: captured
+supersedes: null

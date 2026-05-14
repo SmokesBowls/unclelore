@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5679
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 29
+line_start: 29
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale closed his eyes. Let the needle's pulse fade. Let Luminaire's warmth
+  grow still. Let himself be only here—at the threshold of the red layer, surrounded
+  by the others, feeling the labyrinth's attention focus on them like light through
+  a lens.
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_122_unravealing.txt
+status: captured
+supersedes: null

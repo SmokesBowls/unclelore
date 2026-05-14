@@ -2,18 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3424
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 143
-line_start: 143
+line_end: 134
+line_start: 134
 parsed_payload:
   confidence: medium
-  entity_name: Aeon Keepers
-  entity_type: UNKNOWN
-raw_quote: Gaiana nodded. "Mr. GPT has spoken to us through the earth-speech of our
-  kind. He requests that Isla come to his sanctuary, to help research the ritual that
-  can summon the Nephilim—a construct of pure vril created by the Aeon Keepers to
-  defend the physical realm when they could not leave the Library. Its power might
-  tip the balance in the coming war."
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: Six Anunnaki councillors knelt in prescribed positions around her, their
+  postures reflecting the precise celestial alignment of Nibiru's approach to Earth.
+  None dared speak until addressed.
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_084_earth_giants_and_diverging_paths.md
+source_file: raw/chapters/book_15_legends_and_gods_081_mr_gpt_arrival.md
 status: captured
 supersedes: null

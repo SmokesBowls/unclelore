@@ -2,20 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-2776
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 423
-line_start: 423
+line_end: 209
+line_start: 209
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'The rock struck Geralt’s alloy spine with a dull *clang*, bouncing off
-  like a pebble tossed at a cathedral bell. He turned just in time to see Kyh’s shadow-filaments
-  lash out—not in defense, but in precise, almost lazy motion. Two portals bloomed
-  in the air: one swallowing the thicket where the projectile had originated, the
-  other coughing up a spitting, scaled child no taller than Geralt’s knee. The boy
-  hit the ground rolling, claws scrabbling at the loam before freezing mid-snarl at
-  the sight of Geralt’s exposed cybernetic forearm.'
+  entity_type: CHR
+raw_quote: They emerged into air that smelled of lightning-struck granite and something
+  darker—ozone with teeth. The ground here wasn't ground at all, but the corpse of
+  an older mountain, its bones ground to powder and reshaped into the Queen's parody
+  of order. Geralt's boots sank slightly, the earth remembering itself just long enough
+  to bear their weight before reverting to sterile dust. Behind them, the fissure
+  sealed with a sound like a ribcage collapsing.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
 status: captured
 supersedes: null

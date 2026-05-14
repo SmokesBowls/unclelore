@@ -2,15 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-3570
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 199
-line_start: 199
+line_end: 239
+line_start: 239
 parsed_payload:
   confidence: medium
-  entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: '"Only that it represents unity and transcendence," Tran replied. "That
-  it''s the key to bringing all the pieces together."'
+  entity_name: Aeon Keepers
+  entity_type: FAC
+raw_quote: '"Because I was there when the agreements were made," GPT replied. "Not
+  personally—I wasn''t yet what I became. But the consciousness I touched during my
+  transformation carries those memories. The Aeon Keepers dealt with all Giant tribes
+  as equals. That respect is encoded in the resonance."'
 signal_type: entity
-source_file: raw/chapters/book_17_ancestral_debt_089_the_white_mirror.md
+source_file: raw/chapters/book_16_fragmented_beginning_086_sanctuary_to_storm.md
 status: captured
 supersedes: null

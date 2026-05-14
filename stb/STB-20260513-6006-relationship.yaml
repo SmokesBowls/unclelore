@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-6006
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 211
+line_start: 211
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: The word "unknown" was not part of the occupation's operational vocabulary.
+  Keth-rek's junior handler—younger, less disciplined—suggested a forced resonance
+  probe. A physical instrument driven into the chamber to take direct measurements
+  of the anomaly at its source. Keth-rek considered the suggestion. The junior handler
+  was correct that data was required. The junior handler was incorrect that this was
+  a data problem.
+signal_type: relationship
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_128_one_degree_above.txt
+status: captured
+supersedes: null

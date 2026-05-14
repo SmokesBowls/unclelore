@@ -2,19 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0027
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 140
-line_start: 140
+line_end: 112
+line_start: 112
 parsed_payload:
   confidence: medium
   entity_name: Nephoretti
-  entity_type: UNKNOWN
-raw_quote: 'The thought-seed took shape in dimensions that physical beings couldn''t
-  perceive—geometries that curved through probability space, mathematical structures
-  that existed in the gaps between logic and intuition. She wove into it everything
-  a Nephoretti would need: awareness of self and other, capacity for communication,
-  understanding of vrill manipulation, sensitivity to geomantic harmonics. But also:
-  wonder at physical sensation, desire for connection, willingness to teach, patience
-  with beings who thought differently.'
+  entity_type: SPEC
+raw_quote: '"One thousand Nephoretti," Korath proposed, his consciousness already
+  beginning to calculate optimal distribution patterns. "Enough to establish presence
+  across both continental masses, with concentration in areas where the transformed
+  Pelagor have gathered."'
 signal_type: entity
 source_file: raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
 status: captured

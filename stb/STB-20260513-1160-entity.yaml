@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-1160
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 382
-line_start: 382
+line_end: 139
+line_start: 139
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"Geralt! Thank the—" she paused, gaze traveling across the Five, registering
-  absence. "Where''s the assault team? Where are the two hundred fifty warriors you
-  deployed?"'
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: The freed slaves couldn't replicate Anunnaki technology—couldn't create
+  energy weapons or defensive fields or sophisticated combat systems that required
+  manufacturing capabilities they didn't possess.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
+source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
 status: captured
 supersedes: null

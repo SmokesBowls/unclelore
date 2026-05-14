@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5656
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 155
+line_start: 155
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: The green veins were bright here—confirming, steady, aligned. Vale felt
+  the vibration beneath his feet, the gentle pulse of a system that was watching them
+  move through it. But there was something else. A quality of tension that had not
+  been present when he walked alone.
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_121_aligning_the_pattern_at_the_labyrinths_threshold.txt
+status: captured
+supersedes: null

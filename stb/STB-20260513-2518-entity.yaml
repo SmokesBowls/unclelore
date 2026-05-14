@@ -2,17 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2518
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 38
-line_start: 38
+line_end: 311
+line_start: 311
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: She conjured a phantom version of the compound. In it, Mika and the Five
-  were about to be overrun by Anunnaki hunters. Geralt had the telekinetic power to
-  save them, but only by collapsing a section of the wall on a group of newly-freed,
-  nameless slaves hiding nearby.
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: Two converged on Geralt, citing “Unlawful Authority Usurpation.” Bands
+  of solid legal citation, tighter and stronger than steel, shot towards his limbs
+  to bind him permanently to the spot of his “crime.”
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_055_the_anchors_forge.md
+source_file: raw/chapters/book_09_bureaucratic_debt_052_entry_without_standing.md
 status: captured
 supersedes: null

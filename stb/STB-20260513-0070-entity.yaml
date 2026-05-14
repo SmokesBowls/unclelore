@@ -2,16 +2,20 @@ audit_only: true
 buffer_id: STB-20260513-0070
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 24
-line_start: 24
+line_end: 105
+line_start: 105
 parsed_payload:
   confidence: medium
-  entity_name: Neferati
-  entity_type: UNKNOWN
-raw_quote: Vairis was already organizing defensive positions—not that the Neferati
-  had any real defense against beings that could crush them accidentally, but the
-  instinct to prepare ran deep. "How many?"
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: Within the span of perhaps an hour—time felt strange now, linear and irreversible
+  rather than the fluid probability-space of ethereal existence—approximately two
+  hundred Nephoretti had assembled into something resembling coordination. The others
+  remained scattered across the landscape, visible as rising steam and shimmer-distortions
+  where vrill-energy still dissipated into atmosphere. But two hundred was enough.
+  Enough for initial assessment. Enough to begin understanding the situation they
+  had fallen into.
 signal_type: entity
-source_file: raw/chapters/book_01_book_of_genesis_004_the_convergence.md
+source_file: raw/chapters/book_01_book_of_genesis_002_molten_descent.md
 status: captured
 supersedes: null

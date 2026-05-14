@@ -2,16 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-2651
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 143
-line_start: 143
+line_end: 201
+line_start: 201
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt stopped mid-stride—and smiled. A slow, blade-sharp curve of lips
-  that hadn't known warmth in decades. "Alright," he murmured to the uncanny ash still
-  clinging to his boots. "Show yourself."
+  entity_type: CHR
+raw_quote: The Applicator extended its consciousness through Geralt’s neural pathways,
+  into the Spire. Geralt’s vision whited out. He was flooded with the Scream—the raw,
+  unedited death-throes of the God-Mind. It was a pain that could unmake stars. Beneath
+  it, he felt the Applicator’s precise, synthetic mind, a tiny scalpel in an ocean
+  of madness, searching for the root command.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
+source_file: raw/chapters/book_09_bureaucratic_debt_055_the_anchors_forge.md
 status: captured
 supersedes: null

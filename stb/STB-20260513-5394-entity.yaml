@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-5394
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 470
+line_start: 470
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale thought of the Graviton network. The spires that had spanned the galaxy,
+  their pulses synchronized across impossible distances. They had been built by the
+  Graviton. Powered by Void energy. But what had made them a network—what had let
+  each spire feel the others across the void—must have been something else. Something
+  like the Nephoretti. Resonance carriers. Pattern binders. The ones who remembered
+  the connections.
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_118_the_constant_and_friction_of_becoming.txt
+status: captured
+supersedes: null

@@ -2,15 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-3410
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 101
-line_start: 101
+line_end: 286
+line_start: 286
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: '"What happens when all fragments are united?" Tran asked quietly. "Will
-  this Aeon Keeper simply... take over whoever wears the armor?"'
+  entity_type: CHR
+raw_quote: '"Caelum?" Tran appealed to the warrior.'
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_084_earth_giants_and_diverging_paths.md
+source_file: raw/chapters/book_15_legends_and_gods_080_the_whispers_between_worlds.md
 status: captured
 supersedes: null

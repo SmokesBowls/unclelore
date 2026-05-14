@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-4948
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 152
+line_start: 152
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale saw her approach—the same woman from the day before, her robes still
+  streaked with mud, her hands still carrying the memory of stone. She moved with
+  the easy grace of someone who had spent her life walking uneven ground, her weight
+  shifting automatically to match the terrain.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_115_the_shape_of_asking.txt
+status: captured
+supersedes: null

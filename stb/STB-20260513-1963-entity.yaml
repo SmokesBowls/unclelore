@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-1963
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 142
-line_start: 142
+line_end: 139
+line_start: 139
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: It is becoming something else. A hybrid resonance. The anchor point for
-  a triune being is not a passive socket, Geralt. It is an active tuning fork. You
-  are changing to better hold the note.
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: Three Igigi, their once-golden armor now stained violet with corruption,
+  moving through the dead trees with mechanical precision. They weren’t guarding the
+  Needle—they were harvesting. One carried a device that siphoned the last dregs of
+  vrill from the dying trees, storing it in glowing canisters.
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_044_the_mountains_shadow.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_042_the_verdant_crossing.md
 status: captured
 supersedes: null

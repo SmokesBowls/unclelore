@@ -1,0 +1,22 @@
+audit_only: true
+buffer_id: STB-20260513-6204
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 104
+line_start: 104
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The child was sleeping, her fragment held open by the stone itself. The
+  mason was limping, his body slowly giving ground to the cost of persistence. The
+  Igigi in the drainage channel had stopped humming—not because the patrols had silenced
+  her, but because the sustained tone in her throat had begun to ache, and the ache
+  had spread to her chest, and she had paused to rest and found that the rest did
+  not restore. The older singer in the grove had faltered twice during the vigil,
+  her voice cracking on notes that should have been easy, the silence she had learned
+  to hold for the lightning stretching longer than she intended.
+signal_type: entity
+source_file: raw/chapters/book_26_the_seam_long_dark_south_133_threshold.txt
+status: captured
+supersedes: null

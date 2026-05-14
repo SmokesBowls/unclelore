@@ -2,18 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-0183
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 17
-line_start: 17
+line_end: 7
+line_start: 7
 parsed_payload:
   confidence: medium
   entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: The manufacturing complex had exceeded production quotas. The Igigi population
-  had expanded to three thousand through aggressive breeding programs. The Reptilian
-  forces now numbered eight thousand, with new generations maturing at accelerated
-  rates. Infrastructure was stable. Supply chains were efficient. Everything proceeding
-  according to the Queen's directives.
+  entity_type: SPEC
+raw_quote: 'POV / FOCUS: Queen Eduhauana, Overseer Marduk, Pazuzu (Igigi Elder), Ishara,
+  Overseer Ninurta'
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
+source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
 status: captured
 supersedes: null

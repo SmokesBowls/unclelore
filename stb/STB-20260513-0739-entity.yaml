@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0739
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 243
-line_start: 243
+line_end: 931
+line_start: 931
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: But you, the second continued, and now all three focused on Geralt with
-  intensity that made his spirit-form feel solid despite lacking flesh. You emerged.
-  Fought. Won. Did what we could not.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: Days blurred into weeks as the compound transformed beneath surface appearances.
+  To casual observation—to the Anunnaki overseer watching from his distant platform—freed
+  slaves simply adapted to their new circumstances. Worked. Organized. Established
+  routines that appeared peaceful and compliant.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_026_dragonmail.md
+source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
 status: captured
 supersedes: null

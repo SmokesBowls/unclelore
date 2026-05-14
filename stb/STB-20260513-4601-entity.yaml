@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-4601
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 417
+line_start: 417
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale didn't rush. He stepped forward—but not into the space he had been
+  watching. He stepped between. A narrow gap where nothing had appeared yet. The air
+  held. He moved again. Another distortion formed—behind him this time. Not ahead.
+  Tracking. The Igigi didn't interrupt. Didn't guide. But his posture had changed.
+  Still. Focused. Like he recognized this.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_112_eastern_system.txt
+status: captured
+supersedes: null

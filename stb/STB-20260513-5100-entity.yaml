@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5100
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 268
+line_start: 268
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: It was smaller than Vale had expected. Perhaps eight feet tall—tiny by
+  giant standards. Its form was humanoid but wrong, proportions slightly shifted,
+  surface like stone that hadn't settled properly. The air around it shimmered with
+  the same distortion Vale remembered from the east. The same presence. The same architecture.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_116_keepers_recognition.txt
+status: captured
+supersedes: null

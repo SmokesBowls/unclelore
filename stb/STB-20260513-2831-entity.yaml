@@ -2,17 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-2831
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 150
-line_start: 150
+line_end: 211
+line_start: 211
 parsed_payload:
   confidence: medium
-  entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: Isla's eyes fluttered open, focusing first on her mysterious healer and
-  then on Tran and Keen, who had rushed to her side. "What..." she whispered, her
-  voice weak but growing stronger by the moment. "What's happening? What were those
-  things?"
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: 'Zypher circled them both, his robe dissolving into the chamber''s inverted
+  geometry. "Correction: I built a *baseline*." He tapped the clone''s sternum, where
+  a heartbeat should be. "This is what the Queen''s erasure would leave behind—a story
+  with all the contradictions edited out." The clone smiled then, and it was worse
+  than any weapon—Geralt''s own grin stripped of bitterness, of fatigue, of the thousand
+  tiny fractures that made him more than documentation.'
 signal_type: entity
-source_file: raw/chapters/book_11_blood_and_legacy_060_echoes_of_the_cradle.md
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
 status: captured
 supersedes: null

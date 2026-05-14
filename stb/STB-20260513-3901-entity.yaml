@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-3901
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 285
+line_start: 285
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: She didn’t finish. Renn didn’t need her to. The marks were everywhere—clawed
+  stone, shattered crystals, the faint vrill-ash that marked where a Nephoretti had
+  dissolved back into raw potential.
+signal_type: entity
+source_file: raw/chapters/book_20_the_discordant_pulse_south_103_the_second_song_resonance_of_a_broken_needle.md
+status: captured
+supersedes: null

@@ -2,19 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-2688
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 25
-line_start: 25
+line_end: 99
+line_start: 99
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The door wasn't a door—not in any conventional sense. It was more an absence
-  where the mountain had forgotten to be solid, its edges fraying like torn vellum
-  against the cliff face. Geralt's knuckles came away bloody from the first attempt;
-  the stone didn't so much resist as fail to acknowledge the concept of "knocking"
-  altogether. Behind him, Kulla sniffed at the mineral deposits clotting the faux
-  threshold. "Bad hinges," he muttered, kneading his barnacle-armored forearm absently.
+  entity_type: CHR
+raw_quote: '"Eight minutes," Vaelthanerumbled, his voice a landslide in slow motion.
+  "Then we ride the chromatic shift." The dragon didn’t elaborate. He didn’t need
+  to. Geralt’s Applicator whispered the math: this moonlet orbited a black hole’s
+  ergosphere. Their respite was borrowed from gravity’s patience.'
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+source_file: raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
 status: captured
 supersedes: null

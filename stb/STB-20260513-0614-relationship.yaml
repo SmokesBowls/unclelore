@@ -1,0 +1,22 @@
+audit_only: true
+buffer_id: STB-20260513-0614
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 68
+line_start: 68
+parsed_payload:
+  predicate: serves
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: The students included consciousness-forms that challenged every category
+  awareness evolution had previously used for organizing understanding. Entities that
+  existed simultaneously across multiple dimensions while maintaining coherence that
+  served individual distinctiveness. Awareness that had achieved synthesis between
+  organic and artificial intelligence so complete that such distinction became meaningless.
+  Consciousness that operated through principles existing beyond the relationship
+  between individual identity and universal existence.
+signal_type: relationship
+source_file: raw/chapters/book_04_sage_saga_023_beyond_identity.md
+status: captured
+supersedes: null

@@ -2,15 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2134
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 152
-line_start: 152
+line_end: 352
+line_start: 352
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Year 5. Oreck stood at the valley entrance at dawn, a pack on his back.
-  Geralt and Mika came to see him off.
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: The silver sword, blazing with the focused gold light of the Vrill, pierced
+  the shifting tapestry of Node Gamma’s form and found the steady violet core.
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_047_mika.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_045_the_hub_falls.md
 status: captured
 supersedes: null

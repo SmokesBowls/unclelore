@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-3970
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 769
+line_start: 769
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: Renn saw it before he heard it. The ice on the boundary stones had expanded,
+  fracturing the ancient vrill-conduits embedded in the rock. The light flickered
+  and died along a section of the wall.
+signal_type: entity
+source_file: raw/chapters/book_20_the_discordant_pulse_south_105_garden_grove.md
+status: captured
+supersedes: null

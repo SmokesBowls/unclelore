@@ -2,29 +2,27 @@ audit_only: true
 buffer_id: STB-20260513-1561
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 21
-line_start: 21
+line_end: 55
+line_start: 55
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Water lapped at crumbling steps. Chroniton arrows on Oreck’s greaves cast
-  jade fractals over algae-slick walls. Silence choked the passage—not the desert’s
-  stillness, but the swamp’s heavy, listening quiet. Only the rhythmic drip of condensation
-  pierced it. Geralt moved like shadow given form, Zaron’s spirit coiled taut within
-  the armor, sensing dimensional fractures. A legionnaire’s boot slipped on wet stone.
-  Mika’s hand snapped out, steadying him. "Three seconds," she hissed. "Scan your
-  footing." Lyra’s filaments pulsed cyan, mapping the unstable geometry. "Resonance
-  spikes ahead," she whispered, voice tight. "Micro-voids. Unstable." The corridor
-  widened abruptly into a cavernous cistern. At its heart, rising from black water,
-  stood the Void Spire—a needle of pure obsidian humming with trapped thunder. Above
-  it, refracted through murk, the Buried Luminaire’s crystalline core glowed… but
-  its light was sickly, threaded with veins of deep violet corruption. The Queen’s
-  touch. Geralt’s fist clenched. "Prime Keeper’s shard. Under siege." Oreck’s growl
-  vibrated the air. "Anchor point… compromised." The water rippled. Shapes coalesced
-  in the gloom—pale, multi-limbed, drawn by the dissonant light. Guardians twisted.
-  Or hungry things.
+  entity_type: CHR
+raw_quote: 'The night passed under a canopy of icy stars. The fire burned low. Sentries
+  watched the perimeter. Geralt sat apart, not sleeping, feeling the pull of the Star
+  Needle Spire resonate deep within him. He sensed a different watchfulness too –
+  ancient, damp. Not hostile, but alien. From the distant swamps clinging to the mountain''s
+  lower flanks, he felt unseen eyes. The applicator confirmed it: *Psychic signatures
+  detected: Pattern: ''Neferati''. Classification: Aeon-Keeper thought-form manifestations.*
+  They were observing, flowing through the mist like sentient shadows. Their presence
+  was a low hum beneath the mountain''s chroniton thrum. They knew him. They knew
+  the armor. They were the silent architects who had subtly guided him towards the
+  Aeon Keepers long ago, weaving possibilities. They wouldn''t climb with him. Their
+  help was whispers on the wind, influencing perception, easing the Giants'' hostility
+  from afar. Geralt acknowledged their unseen gaze. Allies of necessity, bound by
+  secrets older than nations. His thoughts drifted northward, beyond the peaks, to
+  Mika. Soon. He clenched his fist, the dragon scale gauntlet gleaming coldly. *Soon.*'
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
 status: captured
 supersedes: null

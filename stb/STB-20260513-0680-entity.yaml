@@ -2,17 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0680
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 1309
-line_start: 1309
+line_end: 582
+line_start: 582
 parsed_payload:
   confidence: medium
   entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: The Nameless One reached out with telekinesis refined by the Applicator's
-  knowledge. Not attacking the Anunnaki directly—that would be futile. Instead targeting
-  the ground beneath him. The stone that connected to Earth's energy grid. The substrate
-  through which power flowed to sustain the golden figure's reality-bending abilities.
+  entity_type: FAC
+raw_quote: One of the Anunnaki descended from the platform. Not walking, exactly.
+  More like reality rearranged itself to place the golden figure precisely where it
+  wished to be. It materialized before the frozen Reptilian with the casual ease of
+  beings for whom physics were suggestions rather than laws.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
+source_file: raw/chapters/book_05_the_nameless_one_024_the_first_spark.md
 status: captured
 supersedes: null

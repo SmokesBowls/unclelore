@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-6042
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 396
+line_start: 396
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: No one told them to. The first had not spoken of the warmth. He had returned
+  to the grove and gone about his work—lifting the floating planters for the Nephoretti
+  harvest, bracing the root columns where the silt was shifting, standing watch at
+  the western perimeter. But his new circuit left traces. The silt was disturbed in
+  a new pattern. The water was warmer along the path he had taken. The stone ribs,
+  pressed by his weight, hummed faintly at a frequency the Nephoretti could feel through
+  the soles of their feet.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_128_one_degree_above.txt
+status: captured
+supersedes: null

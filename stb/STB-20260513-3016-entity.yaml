@@ -2,19 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-3016
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 87
-line_start: 87
+line_end: 298
+line_start: 298
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: As the vision revealed the true nature of the bloodlines that the Queen
-  had created through systematic exploitation of forces that had shaped the development
-  of cosmic civilization, both Tran and Viên began to understand that their meeting
-  in Sundrift, their shared awakening, their journey together—none of these events
-  had been coincidental. They were manifestations of planning and preparation that
-  had been ongoing for millennia.
+  entity_type: CHR
+raw_quote: But it was Tran's choice that reflected the deepest currents of awakening
+  and the strongest pull toward mysteries that had been waiting for his return since
+  before his current incarnation began. "The old paths," he said, his voice carrying
+  conviction that came from sources deeper than rational analysis. "There's something
+  down there. Something connected to what happened last night."
 signal_type: entity
-source_file: raw/chapters/book_12_forged_identity_068_brotherhood_revealed.md
+source_file: raw/chapters/book_11_blood_and_legacy_063_the_iron_hand.md
 status: captured
 supersedes: null

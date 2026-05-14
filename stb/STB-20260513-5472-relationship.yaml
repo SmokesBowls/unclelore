@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5472
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 269
+line_start: 269
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: And when the time came—when they stood before the Cliff Giants, before
+  whatever guarded the southern point—he would not stand at the center. He would stand
+  with. Part of the circle. Part of the weave. Part of something larger than himself.
+signal_type: relationship
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_119_resonance_of_the_first_point.txt
+status: captured
+supersedes: null

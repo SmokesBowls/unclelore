@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-6185
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 329
+line_start: 329
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The corridor was warm. The cloth was still wrapped around the young Igigi's
+  hand. The tuber rind was still on the stone. The handler was drifting. The dampeners
+  were cascading. The singer had faltered. The child had reached for the door. The
+  file was growing. The map was accurate. The center was holding.
+signal_type: entity
+source_file: raw/chapters/book_26_the_seam_long_dark_south_131_stable_contradiction.txt
+status: captured
+supersedes: null

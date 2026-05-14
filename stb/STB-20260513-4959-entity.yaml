@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-4959
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 186
+line_start: 186
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: The vrill in the channel responded immediately. It pooled beneath her palms,
+  gold-blue, warm. The stone drank it in. Not greedily. Gratefully. Like a thirst
+  that had been building for centuries.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_115_the_shape_of_asking.txt
+status: captured
+supersedes: null

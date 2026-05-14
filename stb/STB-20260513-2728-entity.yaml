@@ -2,19 +2,21 @@ audit_only: true
 buffer_id: STB-20260513-2728
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 219
-line_start: 219
+line_end: 27
+line_start: 27
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'Zypher''s laughter was the sound of a scalpel dropped on tile. "Now you
-  see." He stepped back as the clone reached for Geralt, its flawless fingers brushing
-  his corroded ones. Contact sparked a harmonic—the same frequency that had shattered
-  the guild''s third ring. The chamber''s inverted geometry resonated, and for one
-  terrible moment, Geralt saw himself through the Queen''s eyes: a living paradox,
-  a story too contradictory to erase.'
+  entity_type: CHR
+raw_quote: The ringing silence after the third ring's shattering was its own kind
+  of violence. Geralt watched the guild's sovereigns—twelve faces carved from various
+  species' ideals of wisdom—blink in staggered unison, their pupils dilating against
+  the afterimage of harmonic disruption. One, a Threnody singer whose throat-sacs
+  pulsed with muted distress, reached instinctively for the ledger at her bench. Her
+  fingers passed through it as though it were mist. Ink-stained documentation didn't
+  just dissolve; it *unwrote itself*, lines of text retreating into the vellum like
+  startled eels.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
 status: captured
 supersedes: null

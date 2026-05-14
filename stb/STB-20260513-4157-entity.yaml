@@ -1,0 +1,15 @@
+audit_only: true
+buffer_id: STB-20260513-4157
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 471
+line_start: 471
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale turned from the wound. His eyes, the color of nothing, met Korr's.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_109_the_thread_and_cage.txt
+status: captured
+supersedes: null

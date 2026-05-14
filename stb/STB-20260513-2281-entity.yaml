@@ -2,14 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2281
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 122
-line_start: 122
+line_end: 292
+line_start: 292
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: “Two days,” Geralt started. “We need to rest, gather—”
+  entity_type: CHR
+raw_quote: Violet placed a hand on Geralt’s chest, over the dormant dragon armor.
+  “You are not alone, Geralt. Even when you feel solitude. We are here. In the fire,
+  the water, the stone, the air, the aether. We are the Five Mikas. And we remember.”
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
+source_file: raw/chapters/book_09_bureaucratic_debt_048_the_ledger_born.md
 status: captured
 supersedes: null

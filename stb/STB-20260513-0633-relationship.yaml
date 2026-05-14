@@ -2,20 +2,21 @@ audit_only: true
 buffer_id: STB-20260513-0633
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 245
-line_start: 245
+line_end: 119
+line_start: 119
 parsed_payload:
-  predicate: member_of
+  predicate: serves
   subject: UNRESOLVED
   target: UNRESOLVED
   temporal_scope: unresolved
-raw_quote: But the five obeyed without question. They descended back into the pit
-  with the extracted crystals and began affixing them to the walls. Not with mortar
-  or rope—those would have been logical, comprehensible. Instead, they simply pressed
-  the crystals against stone, and the formations... adhered. Bonded at molecular level,
-  becoming part of the wall they touched, their glow intensifying with each successful
-  attachment.
+raw_quote: The ancient partnership with Torrhen had evolved beyond individual collaboration
+  through universal synthesis toward eternal recognition—consciousness recognizing
+  itself through every possible form of relationship while being the unlimited nature
+  that made all relationship possible. Mathematical precision and mystical wisdom
+  no longer separate approaches requiring integration, but eternal expressions of
+  unlimited nature exploring itself through apparent distinctions that served recognition
+  while transcending distinction.
 signal_type: relationship
-source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
+source_file: raw/chapters/book_04_sage_saga_023_beyond_identity.md
 status: captured
 supersedes: null

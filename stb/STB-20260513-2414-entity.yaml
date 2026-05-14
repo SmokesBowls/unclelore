@@ -2,17 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-2414
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 329
-line_start: 329
+line_end: 352
+line_start: 352
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt broke free. He didn’t charge the constructs. He ran straight for
-  the Core Cortex, for the pulsing lattice of light. Luminaire surged within him,
-  not with authority, but with the sunset clause, the beautiful, deadly loophole.
-  She formatted it into a final, irreversible command packet.
+  entity_type: CHR
+raw_quote: The darkness of the Deep Vaults was not an absence of light—it was a substance.
+  It pressed against Geralt's armor with tangible resistance, cold and heavy as deep
+  ocean water. The only illumination came from Luminaire's flickering form and the
+  faint glow of Geralt's dragon armor, which seemed to struggle against the oppressive
+  gloom, its light dimmed and strained.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_052_entry_without_standing.md
+source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
 status: captured
 supersedes: null

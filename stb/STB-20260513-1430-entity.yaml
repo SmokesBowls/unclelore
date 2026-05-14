@@ -2,14 +2,24 @@ audit_only: true
 buffer_id: STB-20260513-1430
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 121
-line_start: 121
+line_end: 34
+line_start: 34
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt nodded, absorbing it. "You said survivors scattered. Who else?"
+  entity_type: CHR
+raw_quote: Kaelen halted abruptly before a collapsed archway choked with glowing ice-vines.
+  The corrupted Spire pulsed sickly green light directly ahead, its base obscured
+  by rubble. "The path lies beneath," she stated, pointing to a jagged fissure barely
+  visible beneath the rubble. "But the sinkhole's drag intensifies exponentially near
+  the Spire's core. Your anchor must be absolute." Geralt nodded, sweat freezing on
+  his brow despite the effort. He poured everything into the tripartite core – applicator
+  structure locking his temporal signature, armor power fueling the effort, his own
+  iron will commanding it all. He felt the drag intensify, a physical pressure threatening
+  to crush his lungs. He pushed forward, step by grinding step, towards the fissure.
+  For Mika. For the Five. For the 250 filed away. He’d drag them back through sheer,
+  bloody-minded will.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
+source_file: raw/chapters/book_06_the_ragnarok_034_the_250.md
 status: captured
 supersedes: null

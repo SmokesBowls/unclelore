@@ -2,17 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-3680
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 124
-line_start: 124
+line_end: 209
+line_start: 209
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: As the power reached the Grand Spire, the entire structure began to change.
-  The chaotic pulsing stabilized, synchronized, became something greater. Light erupted
-  from its apex—not the harsh glare of corrupted Anunnaki technology, but something
-  organic, alive.
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: The Dragon Mail pulsed steadily, its four fragments creating a rhythm like
+  a heartbeat. Almost complete, almost whole, almost ready for whatever transformation
+  awaited. But in the clarity granted by the White Fragment, both Tran and the armor
+  understood that "almost" was perhaps the most dangerous state of all.
 signal_type: entity
-source_file: raw/chapters/book_19_worthy_opponents_north_100_convergence_at_ironspire.md
+source_file: raw/chapters/book_17_ancestral_debt_089_the_white_mirror.md
 status: captured
 supersedes: null

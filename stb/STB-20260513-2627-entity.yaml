@@ -2,18 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-2627
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 53
-line_start: 53
+line_end: 68
+line_start: 68
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt inhaled the scent of fractured ink and ozone—the guild's dying breath
-  of neutrality. The moment stretched, elastic. This was the demand coiled in his
-  throat, the one Vaelthane was captured to make space for. He stepped forward, his
-  boots crushing vellum underfoot like fallen leaves. "Your archives are already burning,"
-  he said, voice rough with harmonic backlash. "But ash makes good mortar."
+  entity_type: CHR
+raw_quote: Geralt nodded, the movement feeling mechanical. “Thank you.”
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
+source_file: raw/chapters/book_09_bureaucratic_debt_055_the_anchors_forge.md
 status: captured
 supersedes: null

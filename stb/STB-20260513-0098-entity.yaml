@@ -2,14 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-0098
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 100
-line_start: 100
+line_end: 108
+line_start: 108
 parsed_payload:
   confidence: medium
-  entity_name: Neferati
-  entity_type: UNKNOWN
-raw_quote: The Tidecallers finally invited Neferati into their mountain.
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: Olythae, watching from the Nephoretti assembly, made a small sound of recognition.
+  "They saw the offering. They understood it was communication."
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+source_file: raw/chapters/book_01_book_of_genesis_003_first_contact.md
 status: captured
 supersedes: null

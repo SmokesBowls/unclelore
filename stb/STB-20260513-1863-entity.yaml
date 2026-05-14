@@ -2,14 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-1863
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 143
-line_start: 143
+line_end: 583
+line_start: 583
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: “Quietly,” Geralt ordered.
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: He was right. The corrupted Igigi weren’t trying to win—they were buying
+  time.
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_042_the_verdant_crossing.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
 status: captured
 supersedes: null

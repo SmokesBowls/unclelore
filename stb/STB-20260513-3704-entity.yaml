@@ -2,18 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-3704
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 38
-line_start: 38
+line_end: 123
+line_start: 123
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: Sathinee glided through the portal with movements that seemed to skip frames
-  of reality. Their hybrid nature—part thought-form, part flesh, part living harmony—made
-  them uniquely suited to detecting and countering the corruption that saturated Mars.
-  Every step they took created ripples of purification, small bubbles of reality where
-  the Anunnaki's influence couldn't fully penetrate.
+  entity_name: Aeon Keepers
+  entity_type: FAC
+raw_quote: The being was quiet for a long moment, then spoke with new certainty. "Sathinee.
+  I will be Sathinee. It means 'harmony' in the old tongue of the Aeon Keepers."
 signal_type: entity
-source_file: raw/chapters/book_19_worthy_opponents_north_102_convergence_on_mars.md
+source_file: raw/chapters/book_18_inquisition_of_yourself_093_voices_between_worlds.md
 status: captured
 supersedes: null

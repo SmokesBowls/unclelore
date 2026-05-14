@@ -2,15 +2,20 @@ audit_only: true
 buffer_id: STB-20260513-1667
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 262
-line_start: 262
+line_end: 77
+line_start: 77
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: And in that silence, Geralt’s real Applicator—the one buried in his occipital
-  nerve cluster, dormant since Mars—booted up.
+  entity_type: CHR
+raw_quote: Lyra’s medicae rig spat a final spark. Her reflection showed bone where
+  flesh should be—a healer’s failure made manifest. She met Geralt’s eyes across the
+  churning light. "It needs balance," she gasped. "Not a master. An anchor." The Luminaire
+  flared, its light searing. Mika fought beside him, shieldless, lance spearing another
+  root-tendril. Chroniton droplets rained down like molten stars. Time liquefied.
+  Halvar hauled Torren free, both bleeding phosphorescent fluid. The cavern walls
+  shimmered, dissolving into resonance.
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_039_jungle_fever.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
 status: captured
 supersedes: null

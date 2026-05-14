@@ -2,13 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-1829
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 1207
-line_start: 1207
+line_end: 233
+line_start: 233
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"Waiting for what?" Geralt asked.'
+  entity_type: CHR
+raw_quote: '"The bond," Geralt managed. "Luminaire. She''s... incomplete. Drawing
+  from me to maintain coherence."'
 signal_type: entity
 source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
 status: captured

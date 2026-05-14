@@ -2,19 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-2674
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 223
-line_start: 223
+line_end: 59
+line_start: 59
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt moved last. Not because he hesitated, but because his body had become
-  the anchor point for a different kind of physics now. When his fist connected with
-  the lead horseman's chest, the impact didn't send the rider flying—it sent reality
-  itself recoiling in a concentric shockwave. The carapace armor cracked like eggshell,
-  revealing writhing Spire-code beneath. The numbness in Geralt's chest held firm.
-  This wasn't a battle. It was punctuation.
+  entity_type: CHR
+raw_quote: Geralt burst from the Guild's sanctum with the Dragon Mail's joints screaming—not
+  from exertion, but from the sheer gravitational distortion as the lunar sky tore
+  open above them. He didn't shout. He roared. The sound wasn't human, wasn't even
+  language, but a vibration tuned to the marrow-deep frequency that only elder dragons
+  recognize.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
+source_file: raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
 status: captured
 supersedes: null

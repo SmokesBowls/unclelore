@@ -2,15 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-0786
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 41
-line_start: 41
+line_end: 1429
+line_start: 1429
 parsed_payload:
   confidence: medium
-  entity_name: Aeon Keepers
-  entity_type: UNKNOWN
-raw_quote: '"If you accept, we become brothers. Allies by choice rather than circumstance.
-  And together, we claim what the Aeon Keepers prepared for humanity''s liberation."'
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: But the Reptilian held on. Accepted damage that should have killed him.
+  Let power burn through his body, sear his flesh, break his bones—as long as his
+  claws remained embedded in the Anunnaki's throat, as long as his teeth maintained
+  their grip, as long as he could keep channeling disruption into the connection that
+  sustained god-like abilities.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
 status: captured
 supersedes: null

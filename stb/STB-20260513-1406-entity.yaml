@@ -2,26 +2,21 @@ audit_only: true
 buffer_id: STB-20260513-1406
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 61
-line_start: 61
+line_end: 296
+line_start: 296
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Sully didn't look up as Geralt approached. Her fingers lingered on the
-  carved grivet kit representing Katherine. "She liked sun-warmed rocks," Sully whispered,
-  voice thick. "Best spotter in the herd." Geralt crouched beside her, careful not
-  to touch the sacred stone. "She was stolen," he stated softly, echoing Kaelen's
-  words. Sully flinched. "Lost in the mist." Geralt held up the chroniton shard. Its
-  light pulsed faintly. "Not lost. Taken. By something that steals moments." Sully
-  finally met his eyes, confusion warring with desperate hope. "You... you know?"
-  Geralt nodded. "I've seen the thief. Trapped it. But Katherine... her moment is
-  still held." He pointed to the carving. "This grief holds her here. Holds *everything*
-  here." Sully stared at the stone mother. "I couldn't protect her." "No," Geralt
-  agreed gently. "But you can remember her truly. Not just the loss. The sun-warmed
-  rocks. The spotting. Honor *that*." Sully closed her eyes. A tear traced a path
-  through the dust on her cheek. The air around the carving seemed to shimmer.
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: Blood remembers? Geralt's cryptic tales flooded back – stories whispered
+  in the dark about Nephoretti, beings woven from forgotten histories, who saw the
+  world as layers of echoes. They spoke in riddles of 'blood memories,' ancestral
+  imprints carried beyond death. Mika never understood it; it sounded like battlefield
+  delirium. Yet here they were, pointing the way. Was Geralt's blood calling out?
+  Her own pulse hammered against her ribs, a drumbeat of dread and desperate hope.
+  She plunged into the fissure, the Nephoretti dissolving into the fractured light
+  behind her.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
+source_file: raw/chapters/book_06_the_ragnarok_033_the_march.md
 status: captured
 supersedes: null

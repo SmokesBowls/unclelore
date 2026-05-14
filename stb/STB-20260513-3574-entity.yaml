@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-3574
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 217
-line_start: 217
+line_end: 6
+line_start: 6
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: The Dragon Mail hummed softly against Tran's skin, and he placed a hand
-  over the fragments in a gesture that had become habit, comfort, and promise all
-  at once.
+  entity_type: CHR
+raw_quote: Tran adjusted the Dragon Mail armor uncomfortably. Since bonding with it
+  after the underwater trial, he'd grown accustomed to its weight, but not its temperament.
+  Even now, it seemed to pulse with nervous energy, the metal warming and cooling
+  against his skin in an unpredictable rhythm.
 signal_type: entity
-source_file: raw/chapters/book_17_ancestral_debt_089_the_white_mirror.md
+source_file: raw/chapters/book_16_fragmented_beginning_087_the_breath_of_life.md
 status: captured
 supersedes: null

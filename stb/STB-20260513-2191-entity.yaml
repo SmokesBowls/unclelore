@@ -2,16 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-2191
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 64
-line_start: 64
+line_end: 267
+line_start: 267
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: He had changed. The fury was banked, buried under a layer of domestic calm.
-  But Geralt saw it in the way his eyes scanned the room in a millisecond—checking
-  exits, threats, children—before landing on him.
+  entity_type: CHR
+raw_quote: Geralt stood in the shattered gateway, his new wings flexing with a sound
+  like grinding tectonic plates. Behind him, the Legion poured into the compound,
+  meeting the freed slaves in a chaotic, roaring convergence. Four hundred emaciated,
+  furious souls were tearing apart the inner yard with their bare hands, seizing weapons
+  from fallen guards, turning the Anunnaki’s own architecture into rubble.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_046_not_like_this.md
 status: captured
 supersedes: null

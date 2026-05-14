@@ -2,17 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0188
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 61
-line_start: 61
+line_end: 40
+line_start: 40
 parsed_payload:
   confidence: medium
   entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: '"We''re supposed to build... here?" Ishara asked, her bioluminescent patterns
-  flickering with confusion. She stood beside him, one of forty Igigi assigned to
-  this construction crew. Behind them, two hundred Reptilian guards maintained perimeter
-  positions, their consciousness simple and absolute in its programmed obedience.'
+  entity_type: SPEC
+raw_quote: '"Acknowledged. Dispatching Overseer Council for ground coordination. Initiating
+  manufacturing protocol authorization. Preparing Igigi transport vessels and Reptilian
+  genesis facilities."'
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
+source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
 status: captured
 supersedes: null

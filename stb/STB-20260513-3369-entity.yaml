@@ -2,18 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-3369
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 157
-line_start: 157
+line_end: 104
+line_start: 104
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: Tran rolled beneath the first head's strike, the acid missing him by inches
-  and sizzling into the sand. The Crimson Blood surged through him, lending him speed
-  and strength beyond what he'd known before. As he came up from his roll, he slashed
-  at the nearest neck, his blood-infused blade cutting deeply but not severing it
-  completely.
+  entity_type: CHR
+raw_quote: '"One node in a vast network," Green Mika interrupted, stomping their foot.
+  The ground vibrated, and for a moment, Tran could sense through the water channels—not
+  just the local passages, but lines extending far beyond Sundrift, beyond Ironspire,
+  reaching to distant lands he''d never seen.'
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
+source_file: raw/chapters/book_15_legends_and_gods_080_the_whispers_between_worlds.md
 status: captured
 supersedes: null

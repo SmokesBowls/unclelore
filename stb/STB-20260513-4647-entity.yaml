@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-4647
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 598
+line_start: 598
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: The ground was uneven today—more rock, less ash. Vale moved with the rhythm
+  he had learned, pauses placed, steps measured. Zephyr followed. Neither spoke.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_112_eastern_system.txt
+status: captured
+supersedes: null

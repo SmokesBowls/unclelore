@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-0467
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 146
+line_start: 146
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: The primitive species that had inhabited this world before the Anunnaki
+  brought winter. Most had died in the early years of the freeze, but some had adapted,
+  their consciousness expanding to encompass magics that didn't follow logical rules.
+  Tidecaller Giants, they were called, beings who commanded water and storm through
+  intuition rather than calculation.
+signal_type: entity
+source_file: raw/chapters/book_04_sage_saga_017_niburu_shadow.md
+status: captured
+supersedes: null

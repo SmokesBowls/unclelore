@@ -2,18 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-3042
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 211
-line_start: 211
+line_end: 33
+line_start: 33
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: The weight of cosmic necessity settling over them like judgment that could
-  not be appealed or avoided. Viên looked at Tran and felt the weight of separation
-  like physical pain, despite understanding that his own destiny lay among possibilities
-  that stretched across infinite timelines where he could serve purposes that encompassed
-  the welfare of consciousness across multiple realities.
+  entity_type: CHR
+raw_quote: '"These aren''t natural caves," Tran observed as the seal completed its
+  opening sequence and revealed stone steps leading down into depths that seemed to
+  extend far beyond what the local geology should have been able to accommodate. He
+  ran his fingers along walls that bore geometric patterns too precise for erosion,
+  too ancient for human craft, too sophisticated for any civilization represented
+  in conventional historical records.'
 signal_type: entity
-source_file: raw/chapters/book_12_forged_identity_068_brotherhood_revealed.md
+source_file: raw/chapters/book_11_blood_and_legacy_065_secrets_of_the_deep.md
 status: captured
 supersedes: null

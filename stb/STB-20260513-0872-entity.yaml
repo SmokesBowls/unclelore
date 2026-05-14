@@ -2,15 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-0872
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 545
-line_start: 545
+line_end: 51
+line_start: 51
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt approached the floating armor slowly—each step measured, conscious,
-  accepting rather than grasping. This was choice. Commitment. Threshold that once
-  crossed couldn't be uncrossed except through death or miracle neither could predict.
+  entity_type: CHR
+raw_quote: Geralt placed his hand against Oreck's forehead—scales warm beneath his
+  palm, feeling the ridge-work that marked this being as predator, as weapon, as tool
+  the Anunnaki had shaped for purposes he'd transcended through choice.
 signal_type: entity
 source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured

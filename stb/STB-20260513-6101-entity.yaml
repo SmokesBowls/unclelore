@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-6101
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 281
+line_start: 281
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: He had been moved after the quarantine lifted. The handlers rotated the
+  exposed Igigi away from the chamber's proximity, not to contain the anomaly but
+  because containment was protocol and protocol demanded distance. Distance was meaningless.
+  The warmth did not recognize distance. The warmth was in his palms still, two weeks
+  after the pen, two weeks after the grating, two weeks after he had risen from the
+  floor with a smoothness that did not match his collapse and stood at the edge of
+  the warm circle and felt something he could not name.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_129_calibration_drift.txt
+status: captured
+supersedes: null

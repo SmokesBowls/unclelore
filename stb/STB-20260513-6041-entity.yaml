@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-6041
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 376
+line_start: 376
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: 'He had been wading the same circuit for a year: the deep channel between
+  the western root columns, the shallows where the Nephoretti gathered reed-fiber,
+  the return loop past the submerged terrace stones that marked the old boundary.
+  The circuit was efficient. It distributed his weight where the marsh floor could
+  bear it. It kept him visible to the watchers in the high branches. It was safe.'
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_128_one_degree_above.txt
+status: captured
+supersedes: null

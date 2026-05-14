@@ -2,17 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3346
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 86
-line_start: 86
+line_end: 535
+line_start: 535
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: The message ended, the crystal's light dimming. Tran stared at the now-dark
-  object, his mind racing. The message felt genuine—the energy signature matched the
-  Star Needle's, and the figure's knowledge of his binding was too specific to be
-  fabricated.
+  entity_type: CHR
+raw_quote: '"More than enough time," Tran confirmed, understanding that their missions
+  would need to be completed quickly but recognizing that the timeframe provided adequate
+  margins for successful operations.'
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
+source_file: raw/chapters/book_15_legends_and_gods_079_mages_awakening.md
 status: captured
 supersedes: null

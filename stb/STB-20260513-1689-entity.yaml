@@ -2,24 +2,21 @@ audit_only: true
 buffer_id: STB-20260513-1689
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 29
-line_start: 29
+line_end: 121
+line_start: 121
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Below the cosmic ballet, Geralt’s army stood exposed. Undisciplined. Unanchored.
-  Violet corruption pulsed from the spire’s base—Luminara’s fracture weeping darkness.
-  VALDRASIL phantoms skimmed low, targeting the Legion’s chroniton signatures. Mika’s
-  lance flared uselessly against phased matter. "Shields! Rho formation—now!" Geralt
-  roared. Too late. A VALDRASIL solidified overhead, crystalline jaws wide. Its bio-electric
-  maw crackled—aimed at Halvar. Geralt lunged. Dragonfire met green lightning in a
-  silent detonation. Legionnaires scattered. Shields buckled under stray entropy shrapnel.
-  Two men crystallized mid-sprint—their terror frozen in obsidian glass. "They’re
-  harvesting us!" Lyra gasped. "Feeding the spire’s decay!" Geralt’s symbiosis with
-  Luminara faltered. Her light dimmed against Mars’ dissonance. Anchor points dissolved.
-  The Dragon Nebula watched—T’Zurakai’s sapphire gaze tracking every branching doom.
+  entity_type: CHR
+raw_quote: The assault lasted seconds. Immediate threats vanished. Annihilated. The
+  crimson warrior turned. His eyes—Geralt’s own eyes—locked onto Geralt’s. Recognition
+  deeper than blood. A silent nod. Acknowledgement. Warning. Then—a bronze dragon
+  descended like fury incarnate. They leapt onto its back—four impossible saviors—vanishing
+  into the cosmic storm above. Gone. Leaving only the echo of thunder and the scent
+  of ozone deep within Geralt’s soul. Questions burned hotter than dragonfire. Ancestors?
+  Heirs? Or something far stranger? The Dragon Nebula watched. Judgment paused. Curiosity
+  sparked.
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_040_the_dragon_wars.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
 status: captured
 supersedes: null

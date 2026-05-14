@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5484
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 359
+line_start: 359
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: '"That''s the truth of it," he said finally. "A Nexus doesn''t just connect
+  places. It connects what lives there. The giants, the vrill, the memory in the stone—all
+  of it becomes part of somethin'' larger. And that''s not always welcome. Some things
+  want to stay separate. Some things have reasons for guardin'' what they guard."'
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_119_resonance_of_the_first_point.txt
+status: captured
+supersedes: null

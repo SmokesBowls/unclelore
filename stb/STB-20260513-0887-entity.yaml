@@ -2,15 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-0887
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 651
-line_start: 651
+line_end: 115
+line_start: 115
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt looked down at himself—noticing for the first time that yes, the
-  chest plate rose and fell slightly with each breath, scales shifting in patterns
-  that suggested respiration rather than remaining static.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: The compound watched them depart—Mika and the five and three hundred freed
+  slaves bearing witness to alliance that transcended everything the Anunnaki had
+  tried to instill through genetic modification and cultural conditioning.
 signal_type: entity
 source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured

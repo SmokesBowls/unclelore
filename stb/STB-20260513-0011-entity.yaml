@@ -2,18 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-0011
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 94
-line_start: 94
+line_end: 78
+line_start: 78
 parsed_payload:
   confidence: medium
-  entity_name: Nephoretti
-  entity_type: UNKNOWN
-raw_quote: The discussion continued, each consciousness contributing expertise from
-  their specialized domains. Theron calculated the optimal timing for manifestation—when
-  planetary conditions would be most favorable. Korath designed the fundamental parameters
-  that would govern Nephoretti physiology and abilities. Lyaris crafted the consciousness-seeds
-  that would give the Nephoretti autonomy while maintaining their connection to the
-  Aeon Keepers' purpose.
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: '"And we," Lyaris continued the thought, "exist in the Ethereal Realm,
+  maintaining vrill flow while the planet we were created to serve reforms itself
+  without us."'
 signal_type: entity
 source_file: raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
 status: captured

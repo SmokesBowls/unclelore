@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0524
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 66
+line_start: 66
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: The Anunnaki entity Synthesis followed, artificial consciousness that had
+  learned to transcend its original programming through collaboration with forces
+  larger than individual identity, its harmonic signature carrying the precision of
+  collective awareness balanced by newfound appreciation for individual distinctiveness.
+signal_type: entity
+source_file: raw/chapters/book_04_sage_saga_021_the_first_lesson.md
+status: captured
+supersedes: null

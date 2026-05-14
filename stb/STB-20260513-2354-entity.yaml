@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2354
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 168
-line_start: 168
+line_end: 516
+line_start: 516
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: It was the size of Geralt’s fist, pulsing with a deep, resonant blue light.
-  It did not glow—it drank the light around it, holding it in frozen suspension. The
-  air near it grew still and cold.
+  entity_type: CHR
+raw_quote: Luminaire's voice returned to the silver thread in Geralt's mind, but it
+  was richer now, whole.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_051_arrival_in_fire.md
+source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
 status: captured
 supersedes: null

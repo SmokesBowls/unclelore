@@ -2,19 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-1940
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 11
-line_start: 11
+line_end: 1283
+line_start: 1283
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt found a spot apart, his back against cool stone. He closed his eyes,
-  and the silence within was worse. But it was a different silence. Before, the bond
-  with Luminaire had been a constant, low hum of presence, like standing near a powered
-  spire. Now, it felt thin. Not absent, but stretched. And beneath the fatigue, he
-  sensed a new, unsettling precision to her diminishing state. It felt less like a
-  slow bleed, and more like a controlled dissection.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: '"We rest," Mika announced. "Three days. Real rest. Then..." She met Geralt''s
+  eyes. "Then we finish what we started. The final slave encampment. The Anunnaki
+  know we''re coming now. They''ll be ready."'
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_044_the_mountains_shadow.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
 status: captured
 supersedes: null

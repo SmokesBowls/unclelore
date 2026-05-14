@@ -2,17 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-3131
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 209
-line_start: 209
+line_end: 123
+line_start: 123
 parsed_payload:
   confidence: medium
-  entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: Somewhere in the back of his temporal awareness, he could sense the echo
-  of his brother Tran, also training, also growing into powers that would reshape
-  the galaxy. The bond between them remained strong despite the physical distance,
-  strengthened by shared purpose and mutual understanding of the stakes they faced.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: The young man who infiltrated the Anunnaki breeding facility moved with
+  determination and purpose that spoke of someone whose own awakening to cosmic truth
+  had led him to choices that would reshape the fundamental patterns of galactic development.
+  His mission was not simply rescue—it was liberation that would free consciousness
+  from purposes it had not chosen and enable development according to principles of
+  self-determination rather than external design.
 signal_type: entity
-source_file: raw/chapters/book_14_lessons_of_inheritance_072_flow_between_moments.md
+source_file: raw/chapters/book_12_forged_identity_068_brotherhood_revealed.md
 status: captured
 supersedes: null

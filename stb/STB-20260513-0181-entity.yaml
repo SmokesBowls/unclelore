@@ -2,17 +2,13 @@ audit_only: true
 buffer_id: STB-20260513-0181
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 212
-line_start: 212
+line_end: 4
+line_start: 4
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: Pazuzu placed his hand on Ishara's shoulder—a gesture of comfort that predated
-  Anunnaki conquest, that connected them to who they had been before they became livestock.
-  "Then let us hope, Ishara. Hope that Layla lives to see freedom. Hope that these
-  indigenous biologicals prove stronger than we were. Hope that somewhere in the mathematics
-  of the universe, there exists a probability branch where slavery ends."
+  entity_name: Aeon Keepers
+  entity_type: FAC
+raw_quote: 'ARC: Aaon Keepers'
 signal_type: entity
 source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
 status: captured

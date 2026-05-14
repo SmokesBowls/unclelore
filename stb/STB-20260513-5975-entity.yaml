@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-5975
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 47
+line_start: 47
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: They live now in the old grove territory—the deep, ancient canopy where
+  the water below runs too deep for the Nephoretti and Igigi to stand. The giants
+  have become the ground. Swamp giants and cliff giants alike wade chest-deep in the
+  marsh, their shoulders and raised palms forming the platforms where the smaller
+  survivors sleep, eat, whisper plans. The trees themselves, shaped by centuries of
+  resonance and careful tending, offer their branches as shelter.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_128_one_degree_above.txt
+status: captured
+supersedes: null

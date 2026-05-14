@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-1266
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 580
+line_start: 580
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: Geralt felt something settling in his chest—not peace but purpose, not
+  acceptance but determination that transcended rational calculation.
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
+status: captured
+supersedes: null

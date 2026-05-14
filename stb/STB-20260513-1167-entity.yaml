@@ -2,16 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-1167
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 436
-line_start: 436
+line_end: 223
+line_start: 223
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Mika looked at Jin—then at the other four members of constellation, at
-  beings who'd maintained protective formation throughout exchange, who were gesturing
-  confirmation of Geralt's claims despite how impossible those claims seemed.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: The assembly froze—five hundred people who'd been organized and trained
+  and equipped suddenly confronting reality that transcended everything they'd prepared
+  for. This wasn't Anunnaki Overseer. Wasn't Federation enforcer following protocols.
+  This was specialist. Hunter. Being who existed specifically to reclaim technology
+  and purify populations that had learned to remember freedom.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
+source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
 status: captured
 supersedes: null

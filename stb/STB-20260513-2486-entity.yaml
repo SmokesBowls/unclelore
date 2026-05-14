@@ -1,0 +1,15 @@
+audit_only: true
+buffer_id: STB-20260513-2486
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 25
+line_start: 25
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: “Do it,” Geralt said.
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_052_entry_without_standing.md
+status: captured
+supersedes: null

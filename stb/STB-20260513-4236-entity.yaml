@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-4236
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 114
+line_start: 114
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale looked at his hands. The hands that had smoothed the system's questions.
+  The hands that had failed to choose. The hands that had become a conduit for something
+  that should never have been released.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_110_the_bleeding_convergance.txt
+status: captured
+supersedes: null

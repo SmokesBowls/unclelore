@@ -2,18 +2,20 @@ audit_only: true
 buffer_id: STB-20260513-0054
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 30
-line_start: 30
+line_end: 37
+line_start: 37
 parsed_payload:
   confidence: medium
-  entity_name: Nephoretti
-  entity_type: UNKNOWN
-raw_quote: Senareth listened to the discussion ripple through the assembled Nephoretti.
-  Different perspectives, different priorities, all valid. But beneath the surface
-  dialogue ran a deeper current of uncertainty. None of them had expected fear. The
-  briefing—that compressed understanding of purpose they'd received during descent—had
-  prepared them for curiosity, maybe caution. Not terror.
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: Then the vrill itself began accumulating around that framework like flesh
+  growing over skeleton. Muscles that weren't quite muscle. Organs that served purposes
+  beyond mere biology. Neural networks that connected thought to matter in ways that
+  bridged ethereal and physical. The sensation was overwhelming—not pain exactly,
+  but the shock of limitation. Consciousness that had existed everywhere simultaneously
+  being compressed into a single point of presence. Awareness that had touched infinite
+  probability becoming anchored to one specific reality.
 signal_type: entity
-source_file: raw/chapters/book_01_book_of_genesis_003_first_contact.md
+source_file: raw/chapters/book_01_book_of_genesis_002_molten_descent.md
 status: captured
 supersedes: null

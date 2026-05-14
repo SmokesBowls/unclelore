@@ -2,19 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3273
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 172
-line_start: 172
+line_end: 25
+line_start: 25
 parsed_payload:
   confidence: medium
-  entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: The Five began to fade—not all at once, but in sequence. Blue Mika dissolved
-  into the water channels with a ripple that might have been a wink. Green Mika sank
-  into the earth, their stone seat crumbling playfully. Red Mika dispersed into dancing
-  embers that briefly spelled out words too quick to read. White Mika scattered like
-  dandelion seeds on the wind, their whisper carrying a hint of laughter. Violet Mika
-  remained longest, star-filled eyes fixed on Tran.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: Marduk consulted his bio-mechanical interface, data streams flowing directly
+  into his enhanced consciousness as he accessed reports from across the vast military
+  operation that was establishing Anunnaki control over Earth and its solar system.
 signal_type: entity
-source_file: raw/chapters/book_15_legends_and_gods_080_the_whispers_between_worlds.md
+source_file: raw/chapters/book_15_legends_and_gods_078_the_queens_return.md
 status: captured
 supersedes: null

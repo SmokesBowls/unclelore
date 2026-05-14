@@ -2,14 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-2310
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 376
-line_start: 376
+line_end: 120
+line_start: 120
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt looked at the shattered warning. "Prison for what?"
+  entity_type: CHR
+raw_quote: 'The dragon armor across Geralt’s chest flared hot, then cooled, the plates
+  aligning with a new, fierce purpose. The applicator displayed a single, scrolling
+  line of text, not in its usual dialect, but in the jagged script of the First Tongue:
+  < Path Calculated: Foundation Through Fire. Probability of Success: 0.00%. Proceed?
+  >'
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
+source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
 status: captured
 supersedes: null

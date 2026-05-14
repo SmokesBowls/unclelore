@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2459
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 255
-line_start: 255
+line_end: 160
+line_start: 160
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: That’s right, Geralt thought, pouring every ounce of his will, his memory,
-  his feeling into that single point of contact. We’re a disease. We’re an error.
-  We’re the thing your perfect logic can’t parse. We’re partners.
+  entity_type: CHR
+raw_quote: 'Geralt looked at the rift. Through it, he saw not another place, but a
+  concept: the end of thermal energy. The death of fire. It was terrifying in a way
+  violence could never be.'
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_053_the_twilight_city.md
+source_file: raw/chapters/book_09_bureaucratic_debt_051_arrival_in_fire.md
 status: captured
 supersedes: null

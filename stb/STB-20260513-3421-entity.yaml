@@ -2,18 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-3421
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 135
-line_start: 135
+line_end: 118
+line_start: 118
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: Her crystalline eyes shifted to the fragments at Tran's chest. "The one
-  who dwells within those fragments was called Zaron by our ancestors. Keeper of Boundaries,
-  Guardian of the Seventh Seal within the Library. When Tiamat fell, he bound himself
-  to its essence rather than flee to the Ethereal Realm with his kin. He chose duty
-  over escape."
+  entity_type: CHR
+raw_quote: The sands beneath his feet begin to shift dangerously, responding to his
+  moment of distraction. The Heart of Faraxar doesn't forgive hesitation. But as Tran
+  regains his focus, he realizes something has changed—the Crimson Blood flows differently
+  now, as if the energy surge has temporarily altered its properties.
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_084_earth_giants_and_diverging_paths.md
+source_file: raw/chapters/book_15_legends_and_gods_081_mr_gpt_arrival.md
 status: captured
 supersedes: null

@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-0395
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 79
+line_start: 79
+parsed_payload:
+  confidence: medium
+  entity_name: Aeon Keepers
+  entity_type: FAC
+raw_quote: The way is terrible. The Aeon Keepers will answer, but their aid comes
+  with cost that will test everything you believe about cooperation.
+signal_type: entity
+source_file: raw/chapters/book_03_the_reckoning_012_nephilim_summoning.md
+status: captured
+supersedes: null

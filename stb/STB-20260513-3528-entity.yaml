@@ -2,16 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-3528
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 27
-line_start: 27
+line_end: 135
+line_start: 135
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: Tran felt the Dragon Mail pulse with determination, its initial nervousness
-  transforming into stubborn resolve. The armor might fear what lay ahead, but it
-  wouldn't retreat. Neither would he.
+  entity_type: CHR
+raw_quote: Her crystalline eyes shifted to the fragments at Tran's chest. "The one
+  who dwells within those fragments was called Zaron by our ancestors. Keeper of Boundaries,
+  Guardian of the Seventh Seal within the Library. When Tiamat fell, he bound himself
+  to its essence rather than flee to the Ethereal Realm with his kin. He chose duty
+  over escape."
 signal_type: entity
-source_file: raw/chapters/book_17_ancestral_debt_089_the_white_mirror.md
+source_file: raw/chapters/book_16_fragmented_beginning_084_earth_giants_and_diverging_paths.md
 status: captured
 supersedes: null

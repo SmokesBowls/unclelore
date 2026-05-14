@@ -2,17 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0382
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 142
-line_start: 142
+line_end: 39
+line_start: 39
 parsed_payload:
   confidence: medium
   entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: Through the howling wind and driving snow, he sensed something. Not another
-  Igigi—their bio-signatures were familiar to his consciousness. This was something
-  else. Something vast and ancient and touched with power that didn't operate on the
-  same mathematical principles as Anunnaki technology.
+  entity_type: FAC
+raw_quote: '"The Aeon Keepers," Pazuzu realized, his mathematical mind connecting
+  threads across cosmological scales. "The beings who created the Neferati, who opposed
+  Anunnaki conquest from the beginning. If we could reach them in the Ethereal Realm—"'
 signal_type: entity
-source_file: raw/chapters/book_04_sage_saga_017_niburu_shadow.md
+source_file: raw/chapters/book_03_the_reckoning_012_nephilim_summoning.md
 status: captured
 supersedes: null

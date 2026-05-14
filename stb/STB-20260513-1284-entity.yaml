@@ -2,24 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-1284
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 45
-line_start: 45
+line_end: 764
+line_start: 764
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"Reinforce the anchor points," Kaelen commanded, her voice crisp. "Not
-  the fraying threads themselves—the *causal anchors* holding this moment to the timeline.
-  Find the strongest junctions radiating from the Needle." Geralt focused. Three pulsing
-  nexus points flared in his awareness: the spire''s base fused to bedrock, the twisted
-  prow of the crashed airship embedded in scree, and... himself. His own presence,
-  amplified by the Needle''s resonance. The applicator shrieked: *Self-designation
-  as temporal anchor violates Directive Prime!* The armor growled louder, flooding
-  him with stubborn certainty. He poured his will into the bedrock anchor first, visualizing
-  its deep roots strengthening. The unstable vibrations near the vortex site dampened
-  slightly. "Good," Kaelen acknowledged. "Now the airship wreck. Its mass is a lodestone
-  for instability."'
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: '*That''s our target,* he projected to three consciousnesses and five allies
+  simultaneously. *We liberate population while finding access point to vessel above.
+  Use chaos to create opportunity. Strike fast enough that Anunnaki can''t coordinate
+  response before we''re aboard.*'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_032_the_redo.md
+source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured
 supersedes: null

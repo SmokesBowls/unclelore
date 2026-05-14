@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0433
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 178
+line_start: 178
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: Torhh rumbled acknowledgment, its damaged stone-flesh settling into the
+  geological patience that had sustained it across centuries of occupation. The Tidecaller
+  looked toward the ocean where Brajor allies had died despite their choice to resist
+  programming, toward the mountains where Ash Giants were accepting Anunnaki
+signal_type: entity
+source_file: raw/chapters/book_03_the_reckoning_015_betrayal.md
+status: captured
+supersedes: null

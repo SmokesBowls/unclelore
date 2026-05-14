@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-3658
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 102
-line_start: 102
+line_end: 113
+line_start: 113
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: The Igigi exchanged what might have been worried glances—hard to tell when
-  their faces were mathematical constructs. Finally, Zyx-9 gestured, and a section
-  of the floor became transparent, revealing a chamber below.
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: Tran rolled aside from another strike, his mind racing. The mirror-version
+  was right—in terms of pure combat capability, it was superior. The Dragon Mail on
+  his body was reacting defensively, but he could feel its confusion. It couldn't
+  properly fight another version of itself.
 signal_type: entity
-source_file: raw/chapters/book_19_worthy_opponents_north_098_depths_of_memory.md
+source_file: raw/chapters/book_17_ancestral_debt_089_the_white_mirror.md
 status: captured
 supersedes: null

@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5685
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 93
+line_start: 93
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: For a moment, Vale felt it working. The tension in his chest began to ease.
+  The others' presences, still distinct, still holding their separate truths, began
+  to feel less like strain and more like texture. The weave of a pattern that was
+  stronger for its complexity.
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_122_unravealing.txt
+status: captured
+supersedes: null

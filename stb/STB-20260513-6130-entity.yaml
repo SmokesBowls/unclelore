@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-6130
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 91
+line_start: 91
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: By the time Ember and the Igigi boy left, nothing had been agreed. No words
+  had been exchanged. The woman had not spoken. The child had not spoken. The mason
+  had nodded once, and the nod was a cache like any other, stored against future use.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_130_within_tolerance.txt
+status: captured
+supersedes: null

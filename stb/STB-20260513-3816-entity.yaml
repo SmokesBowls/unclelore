@@ -2,18 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-3816
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 411
-line_start: 411
+line_end: 60
+line_start: 60
 parsed_payload:
   confidence: medium
-  entity_name: Nephoretti
-  entity_type: UNKNOWN
-raw_quote: The grove giants did not have words the way the Nephoretti did. Their communication
-  was woven from tone and rhythm, from the spaces between sounds, from vibrations
-  that carried meaning in their texture. But Sera learned to hear it. She learned
-  to shape her voice into the rising notes that meant danger, the falling cadence
-  that meant home, the complex harmonies that meant together.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: He gestured, and null-field generators activated along the canyon walls.
+  These weren't the crude antimagic devices the Earth forces had encountered before,
+  but sophisticated reality anchors that attempted to lock local physics into states
+  hostile to non-Anunnaki technology. The air itself became thick, oppressive, actively
+  resistant to Earth-based life.
 signal_type: entity
-source_file: raw/chapters/book_20_the_discordant_pulse_south_105_garden_grove.md
+source_file: raw/chapters/book_19_worthy_opponents_north_102_convergence_on_mars.md
 status: captured
 supersedes: null

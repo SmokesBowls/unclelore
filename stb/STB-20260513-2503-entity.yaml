@@ -2,17 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-2503
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 203
-line_start: 203
+line_end: 173
+line_start: 173
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The information was vast, cold, and absolute. It threatened to unravel
-  his own sense of self. The story of Geralt, the slave, the rebel, the wearer of
-  Dragon Mail—it felt terrifyingly small, a flickering subplot against this canvas
-  of dying gods and rewritten destiny.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: 'The chamber darkened. Between them and the Cortex, a scene resolved with
+  terrible clarity: The final moment of the 250. Not as Geralt remembered it in his
+  grief-haunted dreams, but as a cold, tactical display. The Anunnaki entropy beam
+  was highlighted, its power output calculated. The 250’s defensive formation was
+  analyzed, its flaws laid bare. Alternative formations were suggested, each with
+  projected survival rates marginally higher.'
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_054_tue_lunar_spire.md
+source_file: raw/chapters/book_09_bureaucratic_debt_052_entry_without_standing.md
 status: captured
 supersedes: null

@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2224
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 288
-line_start: 288
+line_end: 35
+line_start: 35
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The armor across Geralt’s back heated, then cooled rapidly. A series of
-  sharp, distinct vibrations tapped against his spine. It took him a moment to understand.
-  Morse code. An old, dead language from Earth’s wars.
+  entity_type: CHR
+raw_quote: Celly shrugged, turning back to Geralt and Mika. "They do this. Work themselves
+  into the ground for days, then crash for twelve hours straight. Sleep like the dead."
+  She paused, a flicker of memory crossing her face. "Some things never change, huh?"
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_047_mika.md
 status: captured
 supersedes: null

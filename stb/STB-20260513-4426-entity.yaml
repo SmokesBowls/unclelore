@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-4426
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 716
+line_start: 716
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: “Then we will build a city that does not need walls. We will learn to move
+  with the water instead of against it. We will become something that does not need
+  to hide from the Anunnaki, because we will be something they cannot break.”
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_111_the_resonance_a_garden_under_shadow.txt
+status: captured
+supersedes: null

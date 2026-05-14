@@ -2,19 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-1106
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 340
-line_start: 340
+line_end: 621
+line_start: 621
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The sand around Sath'rak erupted—not in simple barrier but in complex geometric
-  patterns that the Applicator calculated, that Zaron animated, that Geralt visualized.
-  Fractal structures that interfered with psionic broadcast. Crystalline formations
-  that disrupted the thousand-eyed mask's targeting. Environmental manipulation that
-  forced hunter to divide attention between maintaining neural assault and defending
-  against physical threat.
+  entity_type: CHR
+raw_quote: '"Halt," the guard called out in Anunnaki dialect that Geralt''s newly
+  restored speech allowed him to comprehend. "Identify yourself. State your business.
+  This is authorized Anunnaki facility operating under—"'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured
 supersedes: null

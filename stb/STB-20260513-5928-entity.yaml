@@ -1,0 +1,29 @@
+audit_only: true
+buffer_id: STB-20260513-5928
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 188
+line_start: 188
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: The static thinned. For an unmeasured fraction, the mechanical pressure
+  lifted just enough to let a signal through. Luminaire’s thread caught the gap and
+  pressed inward, carrying the old opposition that had carved void into vrill beneath
+  his skin. Node Gamma adjusted. A temporary axis aligned, testing the contradiction,
+  allowing the heat to settle against his ribs. A vector formed. The pull suggested
+  a way forward. He leaned into it. The system paused. Then the architecture rejected
+  the anomaly. The thread did not fray. It severed cleanly at the point of closest
+  contact. The warmth vanished without resonance. The grid locked back into its fixed
+  parameters. The calculation held its refusal. The breath did not complete. The pressure
+  reset into its original alignment, and the millennia stretched outward again, folding
+  into the same unmoving instant. A new second began. It carried the same weight.
+  It offered the same silence. The thread was gone. The system demanded nothing. The
+  void and vrill hummed beneath his skin, locked in a loop that would not resolve
+  into motion. He had not moved. He would not arrive. The suspension did not break.
+  It simply became the ground beneath him.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_126_i_am_island.txt
+status: captured
+supersedes: null

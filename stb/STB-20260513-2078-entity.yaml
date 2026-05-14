@@ -2,17 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-2078
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 207
-line_start: 207
+line_end: 202
+line_start: 202
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt pushed himself up on one elbow, coughing dust. He looked at his
-  arms. Plated from shoulder to elbow. He looked at his legs. Armored to the knee.
-  He felt the weight of the wings—immense, powerful, real—anchored to his back. They
-  thrummed with potential.
+  entity_type: CHR
+raw_quote: Morale, that fragile new construct of purpose, began to fray against the
+  grinding hostility of the landscape. The precision that had settled over Geralt
+  became a lifeline. He navigated not by instinct, but by reading the resonant instability
+  of the rock, finding paths of slightly less violent energy flow. He directed them
+  to sheltered lees that held the wind’s scream at bay for a few precious hours. His
+  decisions were quiet, unchallenged, and unnervingly correct.
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_046_not_like_this.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_044_the_mountains_shadow.md
 status: captured
 supersedes: null

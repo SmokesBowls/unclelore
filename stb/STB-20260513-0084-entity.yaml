@@ -2,16 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-0084
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 130
-line_start: 130
+line_end: 20
+line_start: 20
 parsed_payload:
   confidence: medium
-  entity_name: Neferati
-  entity_type: UNKNOWN
-raw_quote: '"We can''t undo the past," Vairis said, their practical mind cutting through
-  the emotional weight. "But we can change the present. Demonstrate that we''re not
-  those Neferati. That we choose cooperation over domination."'
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: Now two hundred Nephoretti huddled on the beach, their bioluminescent skin
+  providing the only light beyond starshine. They glowed with soft blues and greens
+  and purples—the residual vrill-energy of their manifestation expressing itself as
+  visible radiance. It was beautiful, in a way. Like living auroras scattered across
+  sand.
 signal_type: entity
-source_file: raw/chapters/book_01_book_of_genesis_004_the_convergence.md
+source_file: raw/chapters/book_01_book_of_genesis_003_first_contact.md
 status: captured
 supersedes: null

@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-5756
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 19
+line_start: 19
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: It held the shape of what Vale had been when it was made—seven thousand
+  years ago, when the Graviton still walked this world, when the anchor was sealed,
+  when the constant was not yet tempered by six thousand years of song. A sentinel.
+  A function given form. Built from his own essence to guard the threshold between
+  what the labyrinth protected and what might intrude.
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_124_the_last_threshold_release_of_the_constant.txt
+status: captured
+supersedes: null

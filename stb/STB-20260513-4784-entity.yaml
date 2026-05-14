@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-4784
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 129
+line_start: 129
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale did not ask where he was from. He had learned, in thirty days of walking,
+  that Zephyr's story came in pieces—when the ground was steady, when the silence
+  was right, when something in the walking opened a door that had been closed.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_113_the_edge_of_return.txt
+status: captured
+supersedes: null

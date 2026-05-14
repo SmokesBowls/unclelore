@@ -2,17 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-1129
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 79
-line_start: 79
+line_end: 757
+line_start: 757
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt led two hundred fifty armored warriors through darkness—moving with
-  coordination that month of intensive training had developed, that made them appear
-  more professional than their actual experience suggested. Not soldiers in traditional
-  sense, but freed slaves who'd learned tactical thinking through necessity and repetition.
+  entity_type: CHR
+raw_quote: Geralt dodged—armor responding with increasing confidence as Zaron learned
+  combat rhythms, as the Applicator provided predictions based on energy signatures,
+  as three consciousnesses began functioning as true unified system.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured
 supersedes: null

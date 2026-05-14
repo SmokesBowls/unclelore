@@ -2,14 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2530
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 128
-line_start: 128
+line_end: 47
+line_start: 47
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: “Get in,” Geralt said.
+  entity_type: CHR
+raw_quote: A younger Solantri, standing at the edge of the council ring, stepped forward.
+  His name-pulse came through as Kethran. His light was a sharper, more inquisitive
+  blue. He stared directly at Geralt, his head tilted.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_055_the_anchors_forge.md
+source_file: raw/chapters/book_09_bureaucratic_debt_053_the_twilight_city.md
 status: captured
 supersedes: null

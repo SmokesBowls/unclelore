@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3759
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 475
-line_start: 475
+line_end: 66
+line_start: 66
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: '"She''s preparing something unprecedented," Xerion observed, their resonance
-  still carrying echoes of Anunnaki planning. "This wasn''t just tactical withdrawal.
-  She''s excited."'
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: '"The surface dwellers," the elderly Igigi observed, voice layered with
+  harmonic mathematics. "We calculated their arrival. Eighty-seven percent probability.
+  Though Vrex insisted it was closer to ninety-one."'
 signal_type: entity
-source_file: raw/chapters/book_19_worthy_opponents_north_102_convergence_on_mars.md
+source_file: raw/chapters/book_19_worthy_opponents_north_098_depths_of_memory.md
 status: captured
 supersedes: null

@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-5230
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 389
+line_start: 389
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale stopped at the edge of the group. He did not know what to say. He
+  did not have words for what he was, for what his presence did, for the weight of
+  being a constant in a world that was still learning to heal.
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_117_the_constant_calibration_living_as_anchor.txt
+status: captured
+supersedes: null

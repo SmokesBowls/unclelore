@@ -2,19 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-3726
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 146
-line_start: 146
+line_end: 44
+line_start: 44
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: Lyra had taken a form she'd never attempted before—a hybrid of dragon and
-  phoenix, mythological opposites unified in a single shape. She dove through the
-  air, breathing fire that burned in spectrums visible and invisible, her wings leaving
-  trails of transformation in the air itself. Where her shadow passed, Anunnaki soldiers
-  found their armor growing scales and feathers, their weapons evolution into organic
-  forms that refused to function.
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: '"How do I choose?" Tran asked, overwhelmed by the sheer scope of potential
+  futures.'
 signal_type: entity
-source_file: raw/chapters/book_19_worthy_opponents_north_102_convergence_on_mars.md
+source_file: raw/chapters/book_18_inquisition_of_yourself_096_violet_convergence.md
 status: captured
 supersedes: null

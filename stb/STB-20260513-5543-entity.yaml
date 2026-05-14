@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-5543
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 9
+line_start: 9
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: Miral was already standing at the camp's edge, her ancient eyes fixed on
+  the ridge. The other Nephoretti sat behind her, their presence a quiet web, their
+  faces unreadable. She did not turn as Vale approached.
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_120_the_language_of_stone.txt
+status: captured
+supersedes: null

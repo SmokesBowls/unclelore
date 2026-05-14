@@ -2,14 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-1996
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 60
-line_start: 60
+line_end: 15
+line_start: 15
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt took a breath that felt like his first and last. “Ready on Interior.”
+  entity_type: CHR
+raw_quote: '"We rest for three days, the Plains die," Geralt said, his voice gravel.
+  He felt the twin pressures in his mind: the tactical necessity and the human cost.'
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_045_the_hub_falls.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_043_the_badlands_crucible.md
 status: captured
 supersedes: null

@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5253
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 489
+line_start: 489
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: Sera's song deepened. Her voice wove through the vrill's resistance, not
+  forcing, but inviting. Showing it the channels that waited, the new paths that would
+  carry it to places where it was needed. Promising that ending here did not mean
+  ceasing to exist. Only changing. Becoming something else.
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_117_the_constant_calibration_living_as_anchor.txt
+status: captured
+supersedes: null

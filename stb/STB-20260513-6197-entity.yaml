@@ -1,0 +1,22 @@
+audit_only: true
+buffer_id: STB-20260513-6197
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 216
+line_start: 216
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: She had been experimenting for days—not consciously, not with the precision
+  of the Igigi's half-second delay, but with the slow, intuitive calibration of a
+  body that had been singing the binding tones for seventy years. The lightning disrupted
+  the shield when it struck mid-note. The shield held better when the tones peaked
+  before the pulse, leaving a brief silence for the flash to pass through. She had
+  learned this through trial and error, through the wobble of the shield and the catch
+  in her throat and the way the dregans' distant screams seemed sharper when the timing
+  was wrong.
+signal_type: entity
+source_file: raw/chapters/book_26_the_seam_long_dark_south_132_white_lightning.txt
+status: captured
+supersedes: null

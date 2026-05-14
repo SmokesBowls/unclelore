@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-5996
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 161
+line_start: 161
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: Below her, the giants shift their weight. The marsh water keeps its new
+  rhythm. The Nephoretti hum a binding tone that is half a step flatter than it was
+  yesterday, and they do not know why, and they do not stop.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_128_one_degree_above.txt
+status: captured
+supersedes: null

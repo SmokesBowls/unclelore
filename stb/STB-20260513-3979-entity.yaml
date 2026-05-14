@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3979
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 448
+line_start: 448
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: Vine's kin moved ahead, their massive forms silent in the water, their
+  eyes seeing what Nephoretti eyes could not. The marsh was still, the reeds motionless,
+  the channels running dark. The Ma'at pulsed on the horizon, its rhythm slow, deliberate,
+  and somewhere in the deep marsh, the thing that had fallen waited in the dark.
+signal_type: entity
+source_file: raw/chapters/book_20_the_discordant_pulse_south_106_sky_fallen.txt
+status: captured
+supersedes: null

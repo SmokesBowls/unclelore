@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-0169
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 180
+line_start: 180
+parsed_payload:
+  confidence: medium
+  entity_name: Aeon Keepers
+  entity_type: FAC
+raw_quote: This was what the Aeon Keepers had envisioned when they sent their thought-seeds
+  falling through the Veil toward a world that needed healing.
+signal_type: entity
+source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+status: captured
+supersedes: null

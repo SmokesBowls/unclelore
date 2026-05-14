@@ -2,17 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-0148
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 112
-line_start: 112
+line_end: 114
+line_start: 114
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: Around them in the transport pod, hundreds of other Igigi waited in various
-  states of resignation. They had been selected for this deployment based on genetic
-  diversity and reproductive capacity—breeding stock, essentially, though the Anunnaki
-  never used such crude terminology. "Workforce optimization" was the preferred phrase.
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: Neferati taught precision-shaping through consciousness-touch. Giants provided
+  the raw power and scale. Together, they carved spiraling chambers that descended
+  deep into the mountain's heart, their walls polished smooth as glass, their acoustic
+  properties creating spaces where even whispered harmonics resonated with cathedral
+  clarity.
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
 status: captured
 supersedes: null

@@ -2,14 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-0871
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 543
-line_start: 543
+line_end: 47
+line_start: 47
 parsed_payload:
   confidence: medium
-  entity_name: Aeon Keepers
-  entity_type: UNKNOWN
-raw_quote: '"Now go. Claim what the Aeon Keepers prepared. Become what Earth needs
-  you to be."'
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: Slowly. Deliberately. The massive reptilian leaned forward, lowering his
+  head slightly, bringing his forehead within reach of Geralt's extended hand.
 signal_type: entity
 source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured

@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2436
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 125
-line_start: 125
+line_end: 12
+line_start: 12
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'The carrier wave is modulating, the Applicator reported, its clinical
-  tone now laced with something Geralt had never heard before: apprehension. It is
-  adapting to local energy signatures. My emissions are being… absorbed. Cataloged.'
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: · VALDRASIL-backed Anunnaki constructs, massive biomechanical horrors,
+  tore at the planet's crust, digging for something deep below.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_053_the_twilight_city.md
+source_file: raw/chapters/book_09_bureaucratic_debt_051_arrival_in_fire.md
 status: captured
 supersedes: null

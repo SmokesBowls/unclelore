@@ -2,14 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-1998
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 85
-line_start: 85
+line_end: 21
+line_start: 21
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt didn’t hesitate. The North Front was being butchered. “Do it.”
+  entity_type: CHR
+raw_quote: Geralt looked back at the column. He saw Halvar helping a limping soldier.
+  Saw Jorik’s scouts moving with a weariness that went beyond the body. Saw Tharn,
+  the young Giant, moving with a slight, painful hitch in his step—nerve damage from
+  the Forest, Lyra said. Permanent.
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_045_the_hub_falls.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_043_the_badlands_crucible.md
 status: captured
 supersedes: null

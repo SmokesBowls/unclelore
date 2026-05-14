@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-4875
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 138
+line_start: 138
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Enlil arrived first. The scholar's hands were still dusted with crystal
+  powder from the morning's measurements, his eyes sharp with the focus of a mind
+  that never stopped calculating. He stopped at the edge of the chamber, seeing Vale
+  and Zephyr sitting in silence, and his brow furrowed.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_114_resonance_of_stone.txt
+status: captured
+supersedes: null

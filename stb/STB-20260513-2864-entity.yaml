@@ -1,0 +1,15 @@
+audit_only: true
+buffer_id: STB-20260513-2864
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 359
+line_start: 359
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: Geralt pocketed the shard. "I know."
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+status: captured
+supersedes: null

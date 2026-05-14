@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0152
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 116
-line_start: 116
+line_end: 132
+line_start: 132
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: Now they were being deployed to another world. To serve another function.
-  To build another piece of whatever vast infrastructure the Anunnaki were constructing
-  across this region of space.
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: But Neferati, with their more analytical approach, began mapping the pattern.
+  They identified seven primary sites where vrill-currents converged—places where
+  the planetary consciousness seemed closest to surface, most accessible to beings
+  who knew how to listen.
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
 status: captured
 supersedes: null

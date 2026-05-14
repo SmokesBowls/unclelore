@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-6093
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 239
+line_start: 239
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: It was not the absolute cold of the deadlands. It was the cold of occupation—severed
+  vrill channels, silenced stone, the absence of the warmth she had grown accustomed
+  to. Her breath caught. Her jaw tightened. Behind her, the Igigi boy hesitated at
+  the breach.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_129_calibration_drift.txt
+status: captured
+supersedes: null

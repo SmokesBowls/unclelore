@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2482
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 11
-line_start: 11
+line_end: 391
+line_start: 391
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: The silence after Zar'Vokh was not peaceful. It was the quiet of a wound
-  clotting, thick and fragile. In the dim hold of their repurposed Anunnaki skiff,
-  Luminaire's light pulsed weakly as he delivered the verdict.
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: Geralt turned to Kyh, who was leaning against a wall, shaking from exhaustion.
+  "You're with us now?"
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_054_tue_lunar_spire.md
+source_file: raw/chapters/book_09_bureaucratic_debt_051_arrival_in_fire.md
 status: captured
 supersedes: null

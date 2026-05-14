@@ -2,15 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-1031
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 661
-line_start: 661
+line_end: 91
+line_start: 91
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: Communication systems went dark—crystalline relay that connected compound
-  to Anunnaki network shattered through telekinetic force that Mika had been developing,
-  that remained crude compared to Geralt's capability but sufficient for sabotage.
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: Geralt felt the armor tense around him—Zaron's consciousness reacting to
+  threat of separation, the Applicator calculating probability of successful resistance,
+  his own will hardening into refusal that transcended rational thought.
 signal_type: entity
 source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured

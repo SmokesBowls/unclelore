@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-4056
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 120
+line_start: 120
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: Damu’s face was unreadable. “We have seen it. The Igigi have been measuring
+  it for three hundred years. It is why the Ma'at’s rhythm mimics the needle. Why
+  the swamp giants have not been able to cut themselves off completely.”
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_108_evolution_of_the_keeper.txt
+status: captured
+supersedes: null

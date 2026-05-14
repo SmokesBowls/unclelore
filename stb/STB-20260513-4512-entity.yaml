@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-4512
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 295
+line_start: 295
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: They stopped on a low ridge, where the rock flattened and a few stunted
+  bushes offered shade. Vale sat on a block of basalt, his legs stretched out, his
+  eyes on the horizon. The Igigi sat a few paces away, his back against a boulder,
+  his feet raw but not bleeding. Vale passed him the  leafbowl. The Igigi drank. Passed
+  it back. They sat in silence. The wind was light, carrying the smell of salt and
+  dry stone. A bird circled far above, too distant to name. Vale did not speak. The
+  Igigi did not ask.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_112_eastern_system.txt
+status: captured
+supersedes: null

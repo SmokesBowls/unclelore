@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-0516
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 225
+line_start: 225
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: The Anunnaki representative contributed network-linking that allowed instantaneous
+  sharing of insights across all participants. The human consciousness provided experiential
+  depth that ensured genuine integration rather than mere information transfer. The
+  Igigi entity offered mathematical frameworks that organized the complexity into
+  comprehensible patterns.
+signal_type: entity
+source_file: raw/chapters/book_04_sage_saga_020_the_collapse.md
+status: captured
+supersedes: null

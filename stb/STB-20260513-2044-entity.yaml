@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2044
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 532
-line_start: 532
+line_end: 17
+line_start: 17
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The name came to Geralt then, fully formed. “Ironspire. We’ll call it Ironspire.”
-  He met their eyes. “For the crash. For the battle. For the iron in our spines that
-  kept us standing when everything else fell.”
+  entity_type: CHR
+raw_quote: 'Dawn found them moving again, a somber procession beneath a lead-gray
+  sky. The grief was a communal beast they carried, but Geralt carried a second, private
+  burden: the shifting resonance in his mind.'
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_045_the_hub_falls.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_044_the_mountains_shadow.md
 status: captured
 supersedes: null

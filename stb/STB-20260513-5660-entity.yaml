@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-5660
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 167
+line_start: 167
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: '"We don''t fix it," Vale said. "We align. Not by forcing. By... being
+  present together. Letting the labyrinth feel us as one thing instead of many."'
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_121_aligning_the_pattern_at_the_labyrinths_threshold.txt
+status: captured
+supersedes: null

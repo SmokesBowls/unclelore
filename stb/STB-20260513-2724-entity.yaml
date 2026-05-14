@@ -2,19 +2,20 @@ audit_only: true
 buffer_id: STB-20260513-2724
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 209
-line_start: 209
+line_end: 19
+line_start: 19
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt felt the transformation like a second skin peeling away. Zypher's
-  fractal equations crawled under his flesh, replacing muscle with humming steel tendons,
-  threading his bones with lunar silica. His left eye shorted out first—the iris dilating
-  into a black aperture that whirred as it focused on his own clone's uncanny symmetry.
-  "You built a lie," Geralt grated. His voice came out spliced with static, half-human,
-  half-transmission.
+  entity_type: CHR
+raw_quote: The Dragon Mail's pauldrons hissed as they unfolded, revealing the latticework
+  of old wounds beneath—not just battle scars, but the precise, surgical marks of
+  a man who'd been taken apart and reassembled too many times. "Ragnarok's Shadow,"
+  Geralt continued, tapping one jagged line along his collarbone. "Breaker of Chains,"
+  he added, tracing the brand on his forearm. Each title was a scar, each scar a story
+  they'd documented but never *witnessed*. He let his hand drop. "You've written about
+  anchors. Have you ever held one?"
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
 status: captured
 supersedes: null

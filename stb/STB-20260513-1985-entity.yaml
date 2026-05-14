@@ -2,17 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-1985
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 286
-line_start: 286
+line_end: 285
+line_start: 285
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt looked from her fading outline to the monstrous spire below, then
-  to the faces of his people—Kael’s grim resolve, Elara’s tear-streaked determination,
-  Zaron’s solemn scholarly acceptance. They were all part of the equation now. “We’ll
-  be at the rim,” he said.
+  entity_type: CHR
+raw_quote: They rewrote the protocols together, line by line, symbol by symbol. Changing
+  the broadcast from corruption to purge. The crystal resisted, fighting them. Geralt’s
+  muscles screamed. Luminaire’s essence burned at the edges.
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_044_the_mountains_shadow.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_042_the_verdant_crossing.md
 status: captured
 supersedes: null

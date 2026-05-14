@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-5781
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 173
+line_start: 173
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: Nammu came next. Her face was tired, but her eyes were clear. She had walked
+  the mirror-light, seen Vale's silhouette across the impossible distance, and learned
+  that connection did not require sameness. The thread between them was still off-frequency,
+  still other, but it no longer strained. It had been accepted. Integrated. Made part
+  of the pattern without being forced to match.
+signal_type: relationship
+source_file: raw/chapters/book_24_threshold_and_network_south_124_the_last_threshold_release_of_the_constant.txt
+status: captured
+supersedes: null

@@ -2,15 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-0184
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 41
-line_start: 41
+line_end: 16
+line_start: 16
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: Also unacceptable. Negotiation implied equality, which was philosophically
-  incompatible with Anunnaki operational parameters.
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: The planet turned beneath them like a jewel carved from water and stone,
+  its two continental masses rising from oceanic blue like the backs of sleeping titans.
+  Queen Eduhauana stood before the observation aperture—not window, for the Crimson
+  Citadel did not require such primitive interfaces—and felt the planetary vrill-signature
+  resonating through crystalline decks that had witnessed the birth and death of civilizations.
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
+source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
 status: captured
 supersedes: null

@@ -2,14 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-1117
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 426
-line_start: 426
+line_end: 671
+line_start: 671
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt didn't let him.
+  entity_type: CHR
+raw_quote: Through the shattered gate, Geralt entered—armor moving with confidence
+  that weeks of practice had developed, that made him appear more competent than he
+  felt given how recently the armor had been bonding and trying to flee from combat.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured
 supersedes: null

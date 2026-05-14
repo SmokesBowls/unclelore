@@ -2,17 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-0109
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 164
-line_start: 164
+line_end: 46
+line_start: 46
 parsed_payload:
   confidence: medium
-  entity_name: Neferati
-  entity_type: UNKNOWN
-raw_quote: And everywhere—in every valley, on every beach, through every forest—Giants
-  and Neferati worked together. Not perfectly. Tensions still existed, old fears occasionally
-  resurfaced, territorial disputes required mediation. But the foundation held. Cooperation
-  had become the default rather than the exception.
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: And all of them stopped at the tree line, forming a semicircle that enclosed
+  the Neferati position without approaching close enough to threaten.
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+source_file: raw/chapters/book_01_book_of_genesis_004_the_convergence.md
 status: captured
 supersedes: null

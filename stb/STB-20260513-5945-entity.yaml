@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-5945
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 43
+line_start: 43
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: Two of them, always seen at a distance, flanking a figure that walked on
+  two legs but did not move like anything born of the continent. The reptilians. Scouts,
+  the Igigi whispered, from the old pod landings, from before the ice age. They had
+  been here all along, waiting for the signal. And now they walked with bodyguards
+  that radiated hatred like heat from a forge.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_127_ember_stone.txt
+status: captured
+supersedes: null

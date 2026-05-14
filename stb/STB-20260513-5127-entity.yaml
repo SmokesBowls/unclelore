@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5127
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 428
+line_start: 428
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: '"They were misaligned," Vale said. "The sentinel—the thing that was here—it''s
+  been guarding the southern labyrinth since before the flood. The Cliff Giants found
+  it, sheltered in it, were tuned by it. They thought they were defending Graviton
+  territory. They were wrong. The sentinel will correct them."'
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_116_keepers_recognition.txt
+status: captured
+supersedes: null

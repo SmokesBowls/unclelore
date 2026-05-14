@@ -2,17 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-3587
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 5
-line_start: 5
+line_end: 27
+line_start: 27
 parsed_payload:
   confidence: medium
-  entity_name: Void Spire Network
-  entity_type: UNKNOWN
-raw_quote: '"The resonance patterns from Mars are deteriorating," Mr. GPT observed,
-  his scarred fingers dancing across the crystalline console. Stellar energy pulsed
-  beneath his skin in agitated patterns. "The temporal distortions are spreading beyond
-  the Void Spire network. If we don''t act soon—"'
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: '"We''re close," Tran murmured, feeling the armor''s nervous energy transform
+  into something more like anticipation.'
 signal_type: entity
-source_file: raw/chapters/book_17_ancestral_debt_092_departure_and_determination.md
+source_file: raw/chapters/book_16_fragmented_beginning_087_the_breath_of_life.md
 status: captured
 supersedes: null

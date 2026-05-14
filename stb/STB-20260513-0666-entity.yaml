@@ -2,18 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0666
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 1201
-line_start: 1201
+line_end: 469
+line_start: 469
 parsed_payload:
   confidence: medium
   entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: At the gates, fifty slaves with clubs and spears attacked the locking mechanisms.
-  Not randomly—the scarred one had studied them for weeks, identified vulnerable points,
-  developed strategy for forcing them open. Metal rang against metal. Sparks flew.
-  And impossibly, against all logic that said slave-made weapons couldn't damage Anunnaki
-  engineering, the locks began to give.
+  entity_type: FAC
+raw_quote: The vessel settled onto a cleared landing platform with mechanical grace,
+  barely disturbing the dust. Ramps extended. Doors hissed open with precision that
+  suggested technology far beyond even the Anunnaki's considerable capabilities.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
+source_file: raw/chapters/book_05_the_nameless_one_024_the_first_spark.md
 status: captured
 supersedes: null

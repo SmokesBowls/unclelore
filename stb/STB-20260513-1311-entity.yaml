@@ -2,16 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-1311
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 126
-line_start: 126
+line_end: 916
+line_start: 916
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: She stared up at the stars, wondering if Geralt could see them too, wherever
-  he was. Wondering if he was scared, or hurt, or fighting. Probably fighting. Geralt's
-  answer to most problems involved hitting them until they stopped being problems.
+  entity_type: CHR
+raw_quote: Not because Geralt had forced it. But because he'd convinced it.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_033_the_march.md
+source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured
 supersedes: null

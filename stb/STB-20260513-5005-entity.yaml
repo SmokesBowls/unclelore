@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-5005
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 412
+line_start: 412
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: '"It''s been told to hold," he said. "Not by Giants. Not by Nephoretti.
+  Somethin'' older. Somethin'' that knew how to speak to stone before any of us were
+  born."'
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_115_the_shape_of_asking.txt
+status: captured
+supersedes: null

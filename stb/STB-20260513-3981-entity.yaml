@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-3981
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 478
+line_start: 478
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: They walked in silence, Nephoretti and the ones who had fallen, and when
+  they reached the boundary, when the Keeper's light washed over them, Renn heard
+  the figure beside him draw a breath that was almost a sob.
+signal_type: entity
+source_file: raw/chapters/book_20_the_discordant_pulse_south_106_sky_fallen.txt
+status: captured
+supersedes: null

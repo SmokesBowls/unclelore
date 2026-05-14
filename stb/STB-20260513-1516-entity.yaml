@@ -2,21 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-1516
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 5
-line_start: 5
+line_end: 127
+line_start: 127
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'Beyond him lay the Remission Chambers. Five crystalline cylinders, each
-  radiating intense light – crimson, emerald, sapphire, violet, amber – bathing the
-  chamber in fractured hues. Within the pulsing light, Geralt glimpsed blurred, shifting
-  forms: the Five, suspended in liquid radiance. Their features were indistinct, warped
-  by the energies reshaping them, but their signature resonances burned fiercely –
-  loyalty tempered to an incandescent edge. Geralt felt the dragon armor resonate
-  in recognition, a low thrum of kinship. "Status?" Geralt demanded, his gaze locked
-  on the amber chamber where a familiar, fiercely protective signature blazed brightest.'
+  entity_type: CHR
+raw_quote: At the mention of Mika, the dragon armor against Geralt's chest began to
+  hum, a low, resonant thrum of anticipation.
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_037_the_circle_of_progress.md
+source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
 status: captured
 supersedes: null

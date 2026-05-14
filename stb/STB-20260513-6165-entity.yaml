@@ -1,0 +1,23 @@
+audit_only: true
+buffer_id: STB-20260513-6165
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 55
+line_start: 55
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: It was nothing special. A square of coarse weave, hemmed with thread salvaged
+  from a torn tunic, stained at one corner with the dark juice of marsh berries. She
+  had woven it before the fall, in the last weeks of the occupation's siege, when
+  the vrill-looms were still singing and the Nephoretti were still sharpening their
+  tones toward a baseline that would soon be silenced. She had woven it without knowing
+  why—a small, useless thing, too rough for a garment, too fine for a rag. She had
+  kept it through the evacuation, through the year of hiding, through the cold months
+  in the second house. She kept it because it was hers, and the slaves owned nothing,
+  and the cloth was nothing but it was hers.
+signal_type: entity
+source_file: raw/chapters/book_26_the_seam_long_dark_south_131_stable_contradiction.txt
+status: captured
+supersedes: null

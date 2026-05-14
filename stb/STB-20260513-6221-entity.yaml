@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-6221
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 473
+line_start: 473
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: This morning, the handler issued the command—lift—and the Igigi's body
+  responded after a full second. The delay had doubled. The handler noticed. The handler
+  logged it. The log was transmitted to the ship and filed in the general operations
+  log alongside sixty-five other anomalies, all clustering around the same coordinate,
+  all developing behavior, all ignored.
+signal_type: entity
+source_file: raw/chapters/book_26_the_seam_long_dark_south_133_threshold.txt
+status: captured
+supersedes: null

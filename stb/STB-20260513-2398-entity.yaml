@@ -2,14 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-2398
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 185
-line_start: 185
+line_end: 220
+line_start: 220
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: “Stop this!” Geralt roared.
+  entity_type: CHR
+raw_quote: '"Are you the Keeper?" Geralt asked, his own voice flat in the dead air.'
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_052_entry_without_standing.md
+source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
 status: captured
 supersedes: null

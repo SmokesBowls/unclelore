@@ -2,20 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-2669
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 207
-line_start: 207
+line_end: 27
+line_start: 27
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The fissure wasn't a crack—it was a wound. Not in the rock, but in the
-  Queen's perfect geometry. Geralt's fingers found purchase where there should have
-  been none, his gauntlets scraping against mineral veins that pulsed faintly with
-  old magic. Somewhere above, Kyh's shadow-form oozed through a hairline fracture
-  that should have been impassable, her silver threads vibrating with stolen resonance.
-  Kulla climbed last, his clay fingers reshaping themselves to grip surfaces that
-  crumbled under his touch like stale bread.
+  entity_type: CHR
+raw_quote: 'A figure coalesced from the swirling motes of light—tall, robed, with
+  eyes like polished hematite. "Registration requires threefold alignment," the Guild
+  representative intoned, extending a palm where three concentric rings glowed: silver
+  for causality, gold for narrative, and a third, shifting hue none could name. Geralt
+  felt the Applicator stir in his mind, recognizing the protocol. This wasn''t about
+  loyalty. It was about becoming a living circuit in the network''s deeper architecture.'
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
+source_file: raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
 status: captured
 supersedes: null

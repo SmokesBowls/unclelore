@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-6014
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 243
+line_start: 243
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The sound was not a song. The Igigi had not sung since Zephyr's thread
+  was severed, since the Gruulith learned to hunt, since the occupation broke their
+  resonance into something useful. What Igigi-Three produced was not a melody. It
+  was a tone. Low. Steady. Half a beat slower than the occupation's monitoring hum.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_128_one_degree_above.txt
+status: captured
+supersedes: null

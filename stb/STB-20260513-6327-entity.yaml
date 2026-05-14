@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-6327
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 886
+line_start: 886
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: Not for the whole ship—he wasn't suicidal. But there was a fail-safe the
+  Anunnaki had installed in the command stratum's private network. A way to purge
+  the bridge, kill everyone in it, and leave the rest of Heaven intact for reclamation.
+signal_type: entity
+source_file: raw/chapters/book_27_the_seam_deadly_words_south_1139_1139.txt
+status: captured
+supersedes: null

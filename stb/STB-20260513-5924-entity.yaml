@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-5924
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 143
+line_start: 143
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: The Shadow had swallowed the sky. Noon was indistinguishable from dusk.
+  Light did not fall; it pooled, thick and amber, catching on dust and damp stone.
+  Visibility shrank to the space between breaths. Fighters relied on vibration, on
+  the grind of carved armor against channel-ribs, on the low hum of Nephoretti binding
+  tones cutting through the dark. The war was no longer seen. It was felt. Measured
+  in shifts of weight. In the sudden absence of a footfall. In the way the stone flinched
+  before the next strike.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_126_i_am_island.txt
+status: captured
+supersedes: null

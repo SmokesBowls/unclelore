@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-1766
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 595
-line_start: 595
+line_end: 278
+line_start: 278
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: These weren’t Anunnaki shields. This was something new—the barrier pulsed
-  with the same violet corruption as Node Gamma, learning, adapting, strengthening
-  with each impact.
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: “You wanted our resonance?” Geralt’s voice cut through the stillness. “Here
+  it is. Filtered. Weaponized.”
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_039_jungle_fever.md
 status: captured
 supersedes: null

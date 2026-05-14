@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-6215
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 396
+line_start: 396
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: His leg ached. The warmth eased it, as it always had, but the easing was
+  less complete now. The cold that lived in his twisted bones had found new purchase
+  in the spaces where the warmth was stretched thin—where the corridor's constant
+  hum was drawing energy that had once been available for his body, where the Igigi's
+  trace hum and the singer's unstrained vigil and the child's sustained fragment were
+  all drawing from the same finite reservoir.
+signal_type: entity
+source_file: raw/chapters/book_26_the_seam_long_dark_south_133_threshold.txt
+status: captured
+supersedes: null

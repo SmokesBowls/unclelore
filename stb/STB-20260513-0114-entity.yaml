@@ -2,18 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-0114
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 176
-line_start: 176
+line_end: 70
+line_start: 70
 parsed_payload:
   confidence: medium
-  entity_name: Neferati
-  entity_type: UNKNOWN
-raw_quote: Music rose from the valleys—harmonics created by Giants vocalizing in synchronization
-  with Neferati who had learned to shape air itself into instrument. Pyramids resonated,
-  obelisks sang, the Tidecaller mountain hummed its deep ocean-song. Consciousness
-  touched consciousness across the planetary network, creating moments of unity that
-  transcended individual identity.
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: They were talking. Not in language the Neferati could understand, but communicating
+  nonetheless. About the Neferati? About the landing? About what should happen next?
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+source_file: raw/chapters/book_01_book_of_genesis_004_the_convergence.md
 status: captured
 supersedes: null

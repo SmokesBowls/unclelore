@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5047
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 13
+line_start: 13
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale nodded. He felt it too—a subtle tension beneath his feet, as if the
+  ground was holding its breath. Not hostile. Expectant. The same feeling he'd had
+  in the east, when the shimmer first appeared on the horizon and the system began
+  to coordinate around him.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_116_keepers_recognition.txt
+status: captured
+supersedes: null

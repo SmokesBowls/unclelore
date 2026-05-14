@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-4187
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 680
+line_start: 680
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: 'And Vale, who had learned to choose over five centuries of freedom, was
+  learning something new: that choice could be stolen without anyone laying a hand
+  on him.'
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_109_the_thread_and_cage.txt
+status: captured
+supersedes: null

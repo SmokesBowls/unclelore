@@ -2,16 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-2058
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 55
-line_start: 55
+line_end: 108
+line_start: 108
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt took the magnoculars. The slave quarters were easy to spot—a sunken
-  yard in the compound’s center, surrounded by high walls. He could see tiny figures
-  moving listlessly down there. Four hundred. Maybe more. The math was brutal.
+  entity_type: CHR
+raw_quote: Geralt glanced at him. “Is that what she is?”
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_046_not_like_this.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_044_the_mountains_shadow.md
 status: captured
 supersedes: null

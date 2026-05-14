@@ -2,15 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-3770
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 87
-line_start: 87
+line_end: 122
+line_start: 122
 parsed_payload:
   confidence: medium
-  entity_name: Aeon Keepers
-  entity_type: UNKNOWN
-raw_quote: “The Aeon Keepers said it was damaged,” she said. “We knew it wouldn’t
-  be stable.”
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The Giant's ancient features shifted into what might have been a smile.
+  "You feel. You act without calculation. You embrace the chaos the Igigi fear most."
 signal_type: entity
-source_file: raw/chapters/book_20_the_discordant_pulse_south_103_the_second_song_resonance_of_a_broken_needle.md
+source_file: raw/chapters/book_19_worthy_opponents_north_098_depths_of_memory.md
 status: captured
 supersedes: null

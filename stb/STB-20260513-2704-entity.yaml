@@ -2,17 +2,21 @@ audit_only: true
 buffer_id: STB-20260513-2704
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 139
-line_start: 139
+line_end: 179
+line_start: 179
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt's numbness resonated—not with fear, but recognition. This wasn't
-  metaphysics. It was surgery. "You need me to die." The words left his lips already
-  bloodless, the Applicator in his spine parsing their truth before his mind could
-  protest.
+  entity_type: CHR
+raw_quote: The walls exhaled—a slow, deliberate contraction that pushed them outward
+  like unwanted breath from cosmic lungs. One moment the Wise Ones' voice vibrated
+  in Geralt's marrow; the next, the nebula spat them into the void with the indifference
+  of a god flicking away gnats. Pyrocast's wings snapped open just in time to catch
+  them, the sudden deceleration cracking Geralt's ribs against dragon scale. Behind
+  them, the nebula's maw sealed shut, its luminous teeth knitting back into an unbroken
+  sphere of swirling gas. No farewell. No clarification. Just the echo of their own
+  futility ringing in the sudden silence.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+source_file: raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
 status: captured
 supersedes: null

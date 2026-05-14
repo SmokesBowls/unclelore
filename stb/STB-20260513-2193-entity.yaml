@@ -2,14 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2193
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 70
-line_start: 70
+line_end: 271
+line_start: 271
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: “You smell of clay and milk,” Geralt replied.
+  entity_type: CHR
+raw_quote: Mika emerged from a maintenance conduit, her face streaked with grime and
+  blood that wasn’t her own. She saw Geralt and for a moment, her fierce composure
+  broke into raw, stunned awe. “Your… wings.”
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_046_not_like_this.md
 status: captured
 supersedes: null

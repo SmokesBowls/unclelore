@@ -1,0 +1,15 @@
+audit_only: true
+buffer_id: STB-20260513-6347
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 147
+line_start: 147
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: In the drainage channel, the Igigi’s hum shifted.
+signal_type: entity
+source_file: raw/chapters/book_27_the_seam_deadly_words_south_136_completion_defered.txt
+status: captured
+supersedes: null

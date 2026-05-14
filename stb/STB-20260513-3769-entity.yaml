@@ -2,17 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3769
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 59
-line_start: 59
+line_end: 118
+line_start: 118
 parsed_payload:
   confidence: medium
-  entity_name: Nephoretti
-  entity_type: UNKNOWN
-raw_quote: Behind her, other Nephoretti were gathering at the plaza’s edge. None spoke.
-  The memory‑seeds they carried included language, but this moment required no words.
-  They stood together, survivors of a violent birth, staring up at a monument from
-  a time before memory.
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: '"You don''t," Kronocht the Elder rumbled. "That''s what the Igigi never
+  understood. You can''t calculate your way out of a paradox. You can''t think your
+  way free from a trap made of thought."'
 signal_type: entity
-source_file: raw/chapters/book_20_the_discordant_pulse_south_103_the_second_song_resonance_of_a_broken_needle.md
+source_file: raw/chapters/book_19_worthy_opponents_north_098_depths_of_memory.md
 status: captured
 supersedes: null

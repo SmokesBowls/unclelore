@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3430
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 161
-line_start: 161
+line_end: 27
+line_start: 27
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: Tran frowned, considering. "We'll have to address that later. The fragments
-  are the priority, and with the Anunnaki's return drawing closer, we need to gather
-  them as quickly as possible."
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: '"Remember," he warned as they prepared to step through, "the fragments
+  change those who carry them. Tran may not be the same person you remember, Rongtai.
+  And Thang—he doesn''t know what to make of Swami''Pai''s heir. Approach with caution."'
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_084_earth_giants_and_diverging_paths.md
+source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
 status: captured
 supersedes: null

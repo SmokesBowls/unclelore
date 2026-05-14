@@ -2,15 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0650
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 757
-line_start: 757
+line_end: 173
+line_start: 173
 parsed_payload:
   confidence: medium
   entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: Observer-gesture, pointing toward the distant platform where the Anunnaki
-  overseer stood
+  entity_type: FAC
+raw_quote: The thought carried weight. Many of the Nameless Ones stumbling through
+  these corridors wouldn't survive their first shift. The weak would expire, just
+  as the Anunnaki had predicted. Natural selection serving their purposes.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
+source_file: raw/chapters/book_05_the_nameless_one_024_the_first_spark.md
 status: captured
 supersedes: null

@@ -2,16 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-0923
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 7
-line_start: 7
+line_end: 261
+line_start: 261
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: Twenty-eight days since Anunnaki patrol had witnessed the compound's impossible
-  defiance, since they'd fled Earth to report what should never have been possible—slaves
-  speaking, Overseer dead, resistance organized and successful.
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: Empty space where the Nehereti had said armor would wait.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured
 supersedes: null

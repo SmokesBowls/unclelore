@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-6434
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 593
+line_start: 593
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: His second strike lands lower—where an Anunnaki heart would be, if they
+  had hearts. The architect's chest cavity implodes inward, golden flesh folding into
+  itself like a black hole's event horizon.
+signal_type: entity
+source_file: raw/chapters/book_27_the_seam_deadly_words_south_139_final_calculations.txt
+status: captured
+supersedes: null

@@ -2,14 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-1831
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 1217
-line_start: 1217
+line_end: 303
+line_start: 303
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Relief flooded through Geralt. She wasn't rushing to activate anything.
-  Wasn't assuming victory.
+  entity_type: CHR
+raw_quote: As the planning session continued, Geralt lay on a bedroll nearby, too
+  weak to participate. He watched Mika command with quiet pride. She was born for
+  this—tactical mind sharp as any blade, voice carrying absolute authority without
+  ever rising to a shout.
 signal_type: entity
 source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
 status: captured

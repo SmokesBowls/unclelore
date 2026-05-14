@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-4614
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 454
+line_start: 454
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale looked at him. Zephyr didn't meet his eyes. "Too late," he said. That
+  was all.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_112_eastern_system.txt
+status: captured
+supersedes: null

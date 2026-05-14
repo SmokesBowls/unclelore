@@ -2,18 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-3216
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 269
-line_start: 269
+line_end: 432
+line_start: 432
 parsed_payload:
-  predicate: member_of
+  predicate: serves
   subject: UNRESOLVED
   target: UNRESOLVED
   temporal_scope: unresolved
-raw_quote: '"There''s one more thing," Tran continued, his voice carrying the weight
-  of personal responsibility that transcended organizational concerns. "The man who
-  saved me—GPT—he''s still being tortured by temporal manipulators. Part of establishing
-  the Guild has to include putting an end to that harassment."'
+raw_quote: '"Together, then," she said, extending her hand toward the blazing portal
+  of possibility that had opened in response to their combined will and shared commitment
+  to purposes that served understanding and growth regardless of personal cost or
+  individual preference. "Into the infinite."'
 signal_type: relationship
-source_file: raw/chapters/book_15_legends_and_gods_079_mages_awakening.md
+source_file: raw/chapters/book_12_forged_identity_070_spheres_truth.md
 status: captured
 supersedes: null

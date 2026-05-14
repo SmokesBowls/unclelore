@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-2227
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 311
-line_start: 311
+line_end: 49
+line_start: 49
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: “No,” the Companion Protocol whispered, this time through Geralt’s own
-  lips. “He must hold. The threshold is 80%. He must be strong enough to touch the
-  Spire.”
+  entity_type: CHR
+raw_quote: They left at dawn, passing through Ironspire's gates and making the short
+  trek to the nearby Star Needle Spire. It stood where Geralt had first returned from
+  the Nexus, humming softly. From there, they picked up an old, faint trail leading
+  north and east, into the rocky foothills.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_047_mika.md
 status: captured
 supersedes: null

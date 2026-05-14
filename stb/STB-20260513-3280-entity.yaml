@@ -2,15 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-3280
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 198
-line_start: 198
+line_end: 285
+line_start: 285
 parsed_payload:
   confidence: medium
-  entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: '"And a plan," Tran added, thinking of Lord Stormhelm''s watchful eyes,
-  the Ironguard''s patrols, the Silver Flame''s suspicious priests.'
+  entity_name: Void Spire Network
+  entity_type: SYS
+raw_quote: The massive crystalline interface that served as her primary control node
+  pulsed with information streams that carried data about every energy fluctuation,
+  every quantum signature, every microscopic deviation from baseline parameters that
+  had occurred within the Void Spire network across the specified timeframe.
 signal_type: entity
-source_file: raw/chapters/book_15_legends_and_gods_080_the_whispers_between_worlds.md
+source_file: raw/chapters/book_15_legends_and_gods_078_the_queens_return.md
 status: captured
 supersedes: null

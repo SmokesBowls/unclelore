@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-2708
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 151
-line_start: 151
+line_end: 193
+line_start: 193
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Zypher pressed his palm against Geralt's ribs. The Dragon Mail hissed as
-  its plates retracted, exposing the raw, luminous scars beneath. "You've been holding
-  onto a lie," the sage whispered. "That you're still human enough to bleed."
+  entity_type: CHR
+raw_quote: 'Vaelthaneroared then, a sound that shattered the void''s silence into
+  a thousand glittering fragments. When the last echo faded, only one truth remained:
+  Earth was still bleeding white. The Queen''s frequency still pulsed. And Geralt,
+  the hollowed-out Anchor, would have to build a weapon from his own fractures.'
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+source_file: raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
 status: captured
 supersedes: null

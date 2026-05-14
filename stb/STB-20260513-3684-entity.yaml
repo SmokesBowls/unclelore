@@ -2,15 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3684
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 176
-line_start: 176
+line_end: 196
+line_start: 196
 parsed_payload:
   confidence: medium
   entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: Somewhere in the void between worlds, the Anunnaki fleet adjusted its course,
-  responding to the beacon Ironspire had become. The Fifth Coming was inevitable now.
+  entity_type: FAC
+raw_quote: '"Because knowledge is power | Power attracts hunters | Hunters serve the
+  Queen." Khal-Zur''s eyes dimmed slightly. "The Anunnaki Queen has sought Zaryon''s
+  secrets for eons. The scattering was protection."'
 signal_type: entity
-source_file: raw/chapters/book_19_worthy_opponents_north_100_convergence_at_ironspire.md
+source_file: raw/chapters/book_17_ancestral_debt_090_echoes_of_the_culling_corrected.md
 status: captured
 supersedes: null

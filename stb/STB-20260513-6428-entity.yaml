@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-6428
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 557
+line_start: 557
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: The eastern Anunnaki staggers. Its perfect skin splits along geometric
+  fault lines.
+signal_type: entity
+source_file: raw/chapters/book_27_the_seam_deadly_words_south_139_final_calculations.txt
+status: captured
+supersedes: null

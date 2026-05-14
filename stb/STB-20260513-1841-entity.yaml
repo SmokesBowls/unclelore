@@ -2,15 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-1841
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 1283
-line_start: 1283
+line_end: 383
+line_start: 383
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: '"We rest," Mika announced. "Three days. Real rest. Then..." She met Geralt''s
-  eyes. "Then we finish what we started. The final slave encampment. The Anunnaki
-  know we''re coming now. They''ll be ready."'
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: That night, Geralt lay awake despite exhaustion. His body felt like it
+  belonged to someone else—heavy, unresponsive, barely functional. Each breath rattled.
+  His heart beat irregularly, skipping beats like a failing engine.
 signal_type: entity
 source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
 status: captured

@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-1905
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 967
+line_start: 967
+parsed_payload:
+  predicate: serves
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: This one was different—smaller, faster, made of violet corruption. A twisted
+  version, the Zaron that had served the Queen.
+signal_type: relationship
+source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
+status: captured
+supersedes: null

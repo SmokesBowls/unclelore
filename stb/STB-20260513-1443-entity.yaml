@@ -2,27 +2,29 @@ audit_only: true
 buffer_id: STB-20260513-1443
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 159
-line_start: 159
+line_end: 58
+line_start: 58
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'The crater floor wasn’t sand. It was fused glass, black and jagged, veined
-  with streaks of sickly, phosphorescent green where lingering chroniton decay bled
-  through. Every step crunched unnervingly. The air hung thick, tasting of ozone and
-  something older, metallic and sour – the psychic tang of final breaths held for
-  three thousand years. Geralt moved cautiously, the applicator mapping residual energy
-  spikes like landmines. He felt the desert’s gaze intensify here, not indifferent
-  now, but watchful, wounded. He remembered the desperate gamble: the stolen leviathan
-  ship, the trap sprung too soon, the gut-wrenching order to crash it, sacrificing
-  half his legion, half a city’s stolen population, to cripple the Anunnaki foothold.
-  The armor, Zaron’s spirit within it, resonated with the memory, a shared pulse of
-  ancient fury and profound regret. *This is where we broke them,* it seemed to whisper.
-  *And broke the world.* He saw phantom flickers at the edge of vision – not Chronohounds,
-  but ghostly outlines of falling structures, screams trapped in the glass. The Heart
-  of Faraxar remembered everything the crash had seared into the land.'
+  entity_type: CHR
+raw_quote: 'The tunnel opened onto a windswept plateau overlooking a valley choked
+  with dense, alien forest. Below, nestled against a sheer cliff face, lay a settlement
+  – crude stone huts clustered around a central plaza. Smoke curled lazily from chimneys.
+  The air smelled of pine resin and damp earth. "Observe," Kaelen commanded. Geralt
+  focused his chroniton perception. The settlement pulsed with a faint, shimmering
+  bubble – the temporal boundary. Within it, time flowed... but cyclically. He saw
+  faint ghost-images overlapping the scene: a farmer leading the same grivet team
+  past the same hut three times; children chasing a leather ball in identical paths.
+  The applicator mapped the cycle: *Three standard days. Pattern repeats precisely.*
+  "The loop anchor," Kaelen murmured, pointing towards the cliff face behind the settlement.
+  Embedded high in the rock was a massive, weathered stone carving – a stylized grivet
+  mother protecting her kits. "The predator stole Katherine, the settlement''s favored
+  grivet kit, triggering the trauma. The carving embodies their unresolved grief.
+  Someone must confront that grief *within* the loop to break it." Geralt frowned.
+  "How? They don''t remember." Kaelen''s gaze was unyielding. "You enter. You remember.
+  You guide."'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
+source_file: raw/chapters/book_06_the_ragnarok_034_the_250.md
 status: captured
 supersedes: null

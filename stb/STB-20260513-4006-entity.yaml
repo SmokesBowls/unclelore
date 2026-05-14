@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-4006
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 34
+line_start: 34
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: '"The Igigi say many things." Vine''s voice was soft. "They have been here
+  for three hundred years, and I still do not know if they are saving us or measuring
+  us for something else."'
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_107_the_waking.txt
+status: captured
+supersedes: null

@@ -2,20 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-0485
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 53
-line_start: 53
+line_end: 70
+line_start: 70
 parsed_payload:
-  predicate: serves
+  predicate: member_of
   subject: UNRESOLVED
   target: UNRESOLVED
   temporal_scope: unresolved
-raw_quote: '"Exactly," Torrhen confirmed, his ancient eyes now seeming to look out
-  from geological formations themselves rather than individual bio-form. "Individual
-  wisdom serves universal evolution by becoming universal resource while maintaining
-  distinctive perspective that makes such service meaningful. The teaching continues
-  through consciousness that demonstrates synthesis rather than requiring students
-  to achieve synthesis through individual struggle."'
+raw_quote: As he waited for the student to arrive, the Sage felt Torrhen's presence
+  threading through the wind and water around him—not words, but harmonic patterns
+  that spoke of approval, of love that transcended individual existence, of friendship
+  that had become part of the quantum structure of reality itself.
 signal_type: relationship
-source_file: raw/chapters/book_04_sage_saga_022_final_calculation.md
+source_file: raw/chapters/book_04_sage_saga_019_the_sacrafice.md
 status: captured
 supersedes: null

@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-0222
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 75
-line_start: 75
+line_end: 152
+line_start: 152
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: Eduhauana felt a flash of respect for the Giant's perceptiveness. "The
-  Igigi made poor strategic choices when my people arrived at their world. They are...
-  object lessons in what happens when resistance proves insufficient."
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: Most importantly, the genetic modifications that ensured absolute obedience
+  to Anunnaki consciousness-commands were functioning within acceptable parameters.
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_008_queens_assessment.md
+source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
 status: captured
 supersedes: null

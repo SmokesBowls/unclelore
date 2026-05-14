@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-4226
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 15
+line_start: 15
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Not because it was destroyed — the chamber, the anchors, the feed — those
+  were gone. But the idea of the Coalition, the belief that they could control the
+  system by controlling Vale, died in the moment the river flew.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_110_the_bleeding_convergance.txt
+status: captured
+supersedes: null

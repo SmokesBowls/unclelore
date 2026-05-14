@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-6147
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 211
+line_start: 211
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: The patrol was not due for another hour. The young giant in the drowned
+  channels had mapped the pattern, and Ember had marked it on her fourth crossing,
+  and the watchers in the high branches had adjusted their shifts to cover the gaps.
+  The mason did not know any of this. He was not part of the network. He was a crippled
+  old man who had spent eleven months against a cold floor, and the floor was warm,
+  and he was walking.
+signal_type: relationship
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_130_within_tolerance.txt
+status: captured
+supersedes: null

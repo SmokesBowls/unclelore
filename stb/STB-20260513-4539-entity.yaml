@@ -1,0 +1,22 @@
+audit_only: true
+buffer_id: STB-20260513-4539
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 327
+line_start: 327
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: They stopped on a low rise, where the ash gave way to a shelf of flat rock.
+  Vale sat on a boulder, his eyes on the western horizon—the direction of First Shore.
+  The Igigi sat a few paces away, his back against a stone, his legs stretched out.
+  For a while, neither spoke. Then the Igigi's head tilted. Slightly. Slowly. Like
+  a man listening for a sound that had not yet arrived. His eyes were not on Vale.
+  They were on the space beside Vale—or through him, or around him. He was not looking
+  at the rock or the sky. He was listening. The silence held. The Igigi's brow furrowed,
+  just a fraction. Then his head straightened. He turned to Vale.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_112_eastern_system.txt
+status: captured
+supersedes: null

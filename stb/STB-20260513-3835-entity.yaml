@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-3835
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 166
+line_start: 166
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: It was brilliant tactical thinking. The essences integrated during the
+  Nephilim ritual created bonds that transcended physical senses. Giants felt each
+  other's positions through their elemental connections. Humans sensed allies through
+  shared magical resonances. The Igigi calculated probability clouds that mapped friendly
+  positions even without visual confirmation.
+signal_type: entity
+source_file: raw/chapters/book_19_worthy_opponents_north_102_convergence_on_mars.md
+status: captured
+supersedes: null

@@ -2,15 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-0909
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 779
-line_start: 779
+line_end: 191
+line_start: 191
 parsed_payload:
   confidence: medium
-  entity_name: Nehereti
-  entity_type: UNKNOWN
-raw_quote: Geralt closed his eyes—focusing on the gift, on channeling what the Nehereti
-  had done, on the Applicator's assistance with genetic modification, on Zaron's understanding
-  of consciousness-manipulation that transcended crude control.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: '"The Anunnaki don''t just modify bodies. They modify minds. Condition
+  responses. Create neural pathways that make obedience feel natural, rebellion feel
+  wrong at fundamental level that transcends conscious thought."'
 signal_type: entity
 source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured

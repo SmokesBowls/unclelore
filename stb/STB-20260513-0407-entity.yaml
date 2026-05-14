@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0407
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 52
+line_start: 52
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The collective network was fracturing. Not completely—Pazuzu's mathematical
+  precision and the Igigi anchors held core coherence. But cracks were spreading.
+  Three thousand years of planted suspicions found perfect conditions to grow, fertilized
+  by suffering that made blame feel justified.
+signal_type: entity
+source_file: raw/chapters/book_03_the_reckoning_014_convergence.md
+status: captured
+supersedes: null

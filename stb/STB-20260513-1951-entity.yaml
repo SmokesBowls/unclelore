@@ -2,15 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-1951
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 86
-line_start: 86
+line_end: 61
+line_start: 61
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: “After this… you’ll be gone. Just a voice in my head. A manual,” Geralt
-  said.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: They weren’t Anunnaki. They were forest creatures—wolves, bears, a great
+  stag—twisted by the corruption. Their eyes wept black fluid, their flesh sagged,
+  and they moved with a jerky, pained aggression. They attacked not with strategy,
+  but with the desperate madness of things dying in agony.
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_044_the_mountains_shadow.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_042_the_verdant_crossing.md
 status: captured
 supersedes: null

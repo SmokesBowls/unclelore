@@ -1,0 +1,15 @@
+audit_only: true
+buffer_id: STB-20260513-2271
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 221
+line_start: 221
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: Violet last, meeting Geralt’s gaze as she knelt.
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_048_the_ledger_born.md
+status: captured
+supersedes: null

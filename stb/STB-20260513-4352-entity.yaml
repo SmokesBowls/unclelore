@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-4352
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 1965
+line_start: 1965
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale did not correct them. He did not know how to explain the thread, the
+  choice, the system's need for a reference point. He only knew that as long as he
+  kept choosing — to walk, to stay, to help, to be — the world would not break.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_110_the_bleeding_convergance.txt
+status: captured
+supersedes: null

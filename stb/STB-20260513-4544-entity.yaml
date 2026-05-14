@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-4544
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 336
+line_start: 336
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: The following day again they walked. The terrain was open—packed ash, low
+  scrub, an occasional outcrop of lava rock. The sea was a grey‑blue line to the south.
+  The Igigi's sandals held. His pace matched Vale's. The leafbowl swung from his shoulder.
+  No events. No tension. Just the rhythm of two people moving west. Vale led. The
+  Igigi followed. The silence was ordinary.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_112_eastern_system.txt
+status: captured
+supersedes: null

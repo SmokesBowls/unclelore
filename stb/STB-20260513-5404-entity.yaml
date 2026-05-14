@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-5404
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 504
+line_start: 504
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: He thought of what the old Nephoretti woman had said. Not finished. Not
+  complete. But begun.
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_118_the_constant_and_friction_of_becoming.txt
+status: captured
+supersedes: null

@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-6090
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 211
+line_start: 211
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The quarantine was supposed to contain the anomaly. The anomaly was not
+  in the chamber. The anomaly was in the Igigi, and the Igigi were everywhere, and
+  the warmth was spreading, and the syllable was spreading, and the occupation had
+  sealed the wrong door
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_129_calibration_drift.txt
+status: captured
+supersedes: null

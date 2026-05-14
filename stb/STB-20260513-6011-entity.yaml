@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-6011
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 235
+line_start: 235
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The one who had collapsed—designation Igigi-Seven, though the Igigi had
+  not used designations among themselves for centuries—sat against the pen wall and
+  did not move. His eyes were open. His breathing was steady. He did not respond to
+  the food left at the grating. He did not respond to the handlers' queries. He did
+  not respond to the dregans' screams when they passed. He was present and absent
+  in equal measure, and neither the present nor the absent could be measured by the
+  instruments that monitored him.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_128_one_degree_above.txt
+status: captured
+supersedes: null

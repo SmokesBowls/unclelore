@@ -2,15 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-0843
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 297
-line_start: 297
+line_end: 388
+line_start: 388
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Oreck stepped forward, positioning himself between Geralt and the dragon,
-  combat instincts overriding awe that presence like this naturally inspired.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: Anunnaki construct, the Applicator responded before Geralt could. Control
+  mechanism. Currently symbiotic with host.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+source_file: raw/chapters/book_05_the_nameless_one_026_dragonmail.md
 status: captured
 supersedes: null

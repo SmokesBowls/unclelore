@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-0963
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 171
-line_start: 171
+line_end: 591
+line_start: 591
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt dodged—armor responding with increasing confidence as Zaron learned
-  combat rhythms, as the Applicator provided tactical analysis, as three consciousnesses
-  began functioning as unified system rather than competing entities.
+  entity_type: CHR
+raw_quote: 'Rules, Geralt insisted. First: my body, my choices. You two can advise,
+  argue, and complain, but final decisions are mine.'
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured
 supersedes: null

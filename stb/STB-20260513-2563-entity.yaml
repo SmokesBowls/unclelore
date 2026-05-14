@@ -2,19 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2563
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 27
-line_start: 27
+line_end: 237
+line_start: 237
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'A figure coalesced from the swirling motes of light—tall, robed, with
-  eyes like polished hematite. "Registration requires threefold alignment," the Guild
-  representative intoned, extending a palm where three concentric rings glowed: silver
-  for causality, gold for narrative, and a third, shifting hue none could name. Geralt
-  felt the Applicator stir in his mind, recognizing the protocol. This wasn''t about
-  loyalty. It was about becoming a living circuit in the network''s deeper architecture.'
+  entity_type: CHR
+raw_quote: “Geralt, I know you’re in there!” Oreck bellowed, desperation edging his
+  voice. “Fight it! It’s using you! It’s using both of you!”
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
+source_file: raw/chapters/book_09_bureaucratic_debt_053_the_twilight_city.md
 status: captured
 supersedes: null

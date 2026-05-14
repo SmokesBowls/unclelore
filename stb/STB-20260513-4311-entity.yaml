@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-4311
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 856
+line_start: 856
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: They were smaller than the adults, more flexible, less burdened by the
+  weight of memory. They learned to move through the cold the way the Igigi had once
+  moved through the channels — quickly, quietly, always watching for the next shelter.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_110_the_bleeding_convergance.txt
+status: captured
+supersedes: null

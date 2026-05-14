@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-5894
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 3
+line_start: 3
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: The eastern door of the needle chamber remained open, its hinge grinding
+  on stone that had forgotten its counterweight. Sera stood where Vale had been, her
+  fingers still pressed to the wall where the temperature split down the middle. Warm
+  on one side. Cold on the other. The air between them felt stretched thin, like glass
+  drawn over an empty frame.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_126_i_am_island.txt
+status: captured
+supersedes: null

@@ -2,15 +2,21 @@ audit_only: true
 buffer_id: STB-20260513-1789
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 799
-line_start: 799
+line_end: 43
+line_start: 43
 parsed_payload:
   confidence: medium
-  entity_name: Neferati
-  entity_type: UNKNOWN
-raw_quote: The pyramid as it was meant to be—a resonator linking planetary consciousness
-  (Giants, Neferati) to cosmic function (Luminaire).
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: The assault lasted seconds. Immediate threats vanished. Annihilated. The
+  lightning-clad warrior turned. His eyes—Geralt’s own eyes—locked onto Geralt’s.
+  Recognition deeper than blood. A silent nod. Acknowledgement. Warning. Then—a bronze
+  dragon descended like fury incarnate. They leapt onto its back—four impossible saviors—vanishing
+  into the cosmic storm above. Gone. Leaving only the echo of thunder and the scent
+  of ozone deep within Geralt’s soul. Questions burned hotter than dragonfire. Ancestors?
+  Heirs? Or something far stranger? The Dragon Nebula watched. Judgment paused. Curiosity
+  sparked.
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_040_the_dragon_wars.md
 status: captured
 supersedes: null

@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-0396
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 87
+line_start: 87
+parsed_payload:
+  confidence: medium
+  entity_name: Aeon Keepers
+  entity_type: FAC
+raw_quote: The Aeon Keepers didn't manifest—they couldn't, sealed in the Ethereal
+  Realm to maintain the Akashic Records. But their consciousness touched the communion,
+  ancient and vast and carrying weight of purposes that spanned cosmological scales.
+signal_type: entity
+source_file: raw/chapters/book_03_the_reckoning_012_nephilim_summoning.md
+status: captured
+supersedes: null

@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-5667
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 231
+line_start: 231
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale looked at the courtyard. Brak and Keth stood where they had stood
+  before—massive and patient, their null-pressure soft, their presence steady. They
+  had not entered the labyrinth. They had not felt the green confirmation or the blue
+  current or the tension of misalignment. But they had held the ground. The physical
+  anchor. The weight that the resonance would rest against when the next point was
+  built.
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_121_aligning_the_pattern_at_the_labyrinths_threshold.txt
+status: captured
+supersedes: null

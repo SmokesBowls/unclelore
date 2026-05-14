@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-5694
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 167
+line_start: 167
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: The pressure in Vale's chest shifted. Not heavier. Deeper. The labyrinth
+  was not testing his ability to hold the pattern for others. It was testing his ability
+  to hold it for himself. To be the constant—not because Nammu needed direction, or
+  Enlil needed structure, or Sera needed flow—but because constancy was his nature.
+  His truth. The thing he was even when no one was watching.
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_122_unravealing.txt
+status: captured
+supersedes: null

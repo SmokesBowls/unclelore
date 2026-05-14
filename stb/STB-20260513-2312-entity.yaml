@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2312
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 404
-line_start: 404
+line_end: 141
+line_start: 141
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Oreck's cleaver shattered one of its arms, only to watch it reform in seconds.
-  Geralt's dragon armor deflected beams of corrupted light that would have unmade
-  matter, but the feedback staggered him.
+  entity_type: CHR
+raw_quote: 'He did not look back. He couldn’t. The applicator in Geralt’s head, scanning
+  him, gave a final, bleak readout:'
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
+source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
 status: captured
 supersedes: null

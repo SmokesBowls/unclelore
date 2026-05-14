@@ -2,16 +2,22 @@ audit_only: true
 buffer_id: STB-20260513-1772
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 642
-line_start: 642
+line_end: 9
+line_start: 9
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt stumbled behind her, Lyra and four guards forming a protective box.
-  Each step sent jolts of agony through his failing body. His vision kept graying
-  out, consciousness flickering.
+  entity_type: CHR
+raw_quote: 'Silence. Geralt stood on obsidian glass fused by his own power. Legionnaires
+  stared, shields dark, lances lowered. Below, the lake flowed clear. Healing. Luminara’s
+  voice hummed through Geralt’s shattered armor: *"Anchor established. Transit protocols
+  initiated."* Mika touched the liquid—not teal, but silver. "She’s mapping coordinates."
+  Lyra collapsed, her rig humming as it repaired itself. "Integration complete. The
+  null state… she didn’t hide. She synchronized." Halvar flexed his hand—no trace
+  of decay. Oreck scanned the horizon. Chroniton sight showed branching paths: Mars,
+  scarred and waiting; Dragon Nebula, shimmering beyond time. The storm hadn’t ended.
+  It had shifted.'
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_040_the_dragon_wars.md
 status: captured
 supersedes: null

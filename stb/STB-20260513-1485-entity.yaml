@@ -2,27 +2,30 @@ audit_only: true
 buffer_id: STB-20260513-1485
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 63
-line_start: 63
+line_end: 51
+line_start: 51
 parsed_payload:
   confidence: medium
-  entity_name: Neferati
-  entity_type: UNKNOWN
-raw_quote: Suddenly, the rock beneath Geralt’s boot dissolved. Not crumbled – *flowed*.
-  The ledge liquefied into swirling vapour. He pitched sideways into thin air. Jorik
-  yelled, grabbing futilely. The mountain itself was rejecting them. Geralt plummeted
-  – then slammed onto an invisible platform of solidified mist. It shimmered beneath
-  him, icy cold. Looking up, he saw Jorik frozen mid-reach, suspended on another disc
-  of cloud-stone. Before them, impossibly tall, stood Althurion, First Speaker. His
-  skin held the blue-white sheen of glacial ice, his eyes the pale, infinite expanse
-  of a winter sky. Tendrils of cloud wreathed his form. He didn't speak; the harmonics
-  emerged directly from the vibrating air itself, deep and resonant, making Geralt’s
-  bones hum. **"Trespassers."** The word wasn't accusation, merely fact. **"You wear
-  stolen fire. You climb with violence. You disturb the Aetherhold's song."** His
-  gaze, ancient and utterly alien, locked onto Geralt’s armor, then flicked to Jorik’s
-  bow. The mountain’s disapproval solidified into crushing pressure. Geralt felt the
-  Neferati’s subtle influence fraying like old rope. This was raw Giantsong, unmediated.
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: 'The predator fought with stolen moments – claws phasing through time to
+  strike from impossible angles, screeches echoing from three different eras simultaneously.
+  Geralt moved on instinct, the applicator predicting temporal shifts milliseconds
+  ahead, the armor deflecting chroniton claws. He landed a solid blow, shattering
+  a rib-bone. The predator shrieked, retreating towards the fracture. "It draws us
+  in!" Kaelen warned, intercepting another lunge. Geralt felt the fracture’s pull
+  intensify, whispering promises of forgotten timelines. He saw a fleeting image:
+  Mika, trapped mid-fall through swirling void-light. *No.* He anchored deeper. "How
+  do we stop it?" he yelled, parrying a claw aimed at his throat. "End its paradox!"
+  Kaelen shouted back, her blade tracing a complex temporal sigil that momentarily
+  solidified the air. "It exists by trapping moments outside their flow! Force its
+  stolen time *back* into sequence!" Geralt understood. He wasn''t just fighting;
+  he was conducting time itself. He poured his will into the applicator, targeting
+  the knotted threads binding a stolen city street scene. He visualized the sequence
+  restored – the honking car completing its turn. He pulsed his harmony. The street
+  scene snapped back into its temporal lane and vanished. The predator stumbled, its
+  stolen power flickering.'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
+source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
 status: captured
 supersedes: null

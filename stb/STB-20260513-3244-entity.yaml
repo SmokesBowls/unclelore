@@ -2,17 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-3244
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 12
-line_start: 12
+line_end: 141
+line_start: 141
 parsed_payload:
   confidence: medium
-  entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: The water channels beside them flowed in geometric precision, each stream
-  a perfect line connecting to others in patterns that shouldn't occur naturally.
-  Since his binding to the Star Needle, Tran had grown more sensitive to these patterns,
-  could feel how they connected to each other beneath Sundrift's peaceful surface.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: Through her expanded awareness, Keen could sense that greater challenges
+  awaited beyond Earth itself. The planetary network was part of a larger cosmic system,
+  connections that extended between worlds and across star systems. The Anunnaki had
+  disrupted those connections, isolating planets and making them vulnerable to conquest
+  through forced separation from the cosmic community.
 signal_type: entity
-source_file: raw/chapters/book_15_legends_and_gods_080_the_whispers_between_worlds.md
+source_file: raw/chapters/book_14_lessons_of_inheritance_073_stone_and_root.md
 status: captured
 supersedes: null

@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-6201
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 281
+line_start: 281
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The pauses returned—not as they had been, but stronger. Keth-var stopped
+  at the collapsed workshop and stood there for 4.3 seconds, his jaw unclenched, his
+  breath slow, the patrol log recording the deviation and filing it without comment.
+  The Igigi hummed louder—still sub-auditory, still below the threshold of detection,
+  but strong enough that the stone hummed back. The older singer shifted the vigil
+  by twelve heartbeats instead of nine, and the silence she created was deeper, and
+  the shield held better than it had before the interruption.
+signal_type: entity
+source_file: raw/chapters/book_26_the_seam_long_dark_south_132_white_lightning.txt
+status: captured
+supersedes: null

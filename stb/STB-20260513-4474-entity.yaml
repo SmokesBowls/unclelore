@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-4474
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 247
+line_start: 247
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: Vale sat back on his heels. The water was dark, the sky darker. The shimmer
+  was gone—or hidden by the distance. The pressure was absent. The system had released
+  him. He looked at the Igigi. At the water. At the shore where they had landed. He
+  did not know what he had found. Only that it had broken the system long enough for
+  him to reach it.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_112_eastern_system.txt
+status: captured
+supersedes: null

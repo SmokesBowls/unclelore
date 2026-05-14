@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-6045
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 414
+line_start: 414
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: The stone beneath the marsh remembered that song. The ribs in the channel
+  remembered it. The wall at the eastern boundary, cold and scarred and silent, remembered
+  it. And the warmth that traveled through the stone without needing the vrill channels—the
+  warmth the occupation could not measure—carried the memory outward, toward the lost
+  city, toward the Needle's heart.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_128_one_degree_above.txt
+status: captured
+supersedes: null

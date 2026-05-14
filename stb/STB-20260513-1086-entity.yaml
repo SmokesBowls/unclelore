@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-1086
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 233
-line_start: 233
+line_end: 457
+line_start: 457
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"You speak tongues that were not yours to learn. You have made others
-  remember what freedom feels like. And worse—" the thousand eyes within the mask
-  focused entirely on Geralt, "—you have infected eternity with memory."'
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: The Anunnaki didn't build walls to keep enemies out. They built them to
+  keep property in.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured
 supersedes: null

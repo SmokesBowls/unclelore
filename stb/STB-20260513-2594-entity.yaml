@@ -2,20 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-2594
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 159
-line_start: 159
+line_end: 53
+line_start: 53
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Kyh's shadow-form coalesced beside him, her edges frayed but eyes sharp.
-  "Don't look directly at the walls," she warned. "They're not just walls." Geralt
-  obeyed, catching glimpses from his periphery—the surfaces weren't static. They pulsed
-  with slow, rhythmic expansions and contractions, like the throat of a sleeping beast.
-  The Wise Ones didn't inhabit this place. They *were* this place. Every arch, every
-  shimmering curve was a dragon who had folded itself into the nebula's heart, becoming
-  both sanctuary and sentinel.
+  entity_type: CHR
+raw_quote: '"I will not wait idly," the reptilian interrupted, his voice firm. "This
+  is Orion territory. Quiet, but not dead. I will scout the perimeter. Identify outposts.
+  Guard your blind side." He placed a heavy hand on Geralt''s armored shoulder. "Protection
+  sometimes means clearing the field so the mage can work. Do what you must learn.
+  I will ensure you have the time to do it."'
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
+source_file: raw/chapters/book_09_bureaucratic_debt_054_tue_lunar_spire.md
 status: captured
 supersedes: null

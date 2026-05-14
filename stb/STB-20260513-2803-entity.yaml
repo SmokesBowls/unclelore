@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2803
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 111
-line_start: 111
+line_end: 65
+line_start: 65
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: I feel myself becoming less Geralt and more the Cocoon. My memories of
-  cool air, of the weight of a sword, of a friend’s touch, feel like someone else’s
-  story. I am calcifying into pure, lonely observation.
+  entity_type: CHR
+raw_quote: The Five Mikas phased ahead, their forms bleeding color into the stone.
+  Geralt followed, his numbness now threaded with something colder—the certainty that
+  Zypher's curiosity was merely the prelude to surgery without anesthesia.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_059_eyes_of_eternity.md
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
 status: captured
 supersedes: null

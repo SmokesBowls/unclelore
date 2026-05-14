@@ -2,17 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-1207
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 802
-line_start: 802
+line_end: 9
+line_start: 9
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: The vessel's shadow wasn't complete—gaps existed where structure curved,
-  where architectural features created spaces that shadow didn't reach. And from those
-  gaps—transport beams descended. Energy signatures that the Applicator identified
-  as matter transfer systems, ways for Anunnaki to deploy forces without physically
-  landing or establishing permanent ground connection.
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: And confidence, Geralt would later reflect during decades of self-recrimination,
+  was exactly what made them vulnerable to threat they couldn't anticipate.
 signal_type: entity
 source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured

@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-3783
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 327
-line_start: 327
+line_end: 54
+line_start: 54
 parsed_payload:
   confidence: medium
-  entity_name: Nephoretti
-  entity_type: UNKNOWN
-raw_quote: The scout—a young Nephoretti named Corin—found them at the edge of the
-  lowlands, where the delta gave way to firmer ground. He had been sent west days
-  ago, following the same pulse that had guided Venn’s group.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: '"The city tears itself apart because you built it on lies," a new voice
+  challenged. From the Silver Flame section rose a figure in pristine white robes—High
+  Priestess Amara, her blind eyes seeing more than mere sight allowed. "The Anunnaki
+  taint you claimed to oppose was woven into Ironspire''s very foundations."'
 signal_type: entity
-source_file: raw/chapters/book_20_the_discordant_pulse_south_103_the_second_song_resonance_of_a_broken_needle.md
+source_file: raw/chapters/book_19_worthy_opponents_north_100_convergence_at_ironspire.md
 status: captured
 supersedes: null

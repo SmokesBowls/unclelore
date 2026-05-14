@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-0398
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 93
+line_start: 93
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: The Nephilim can be summoned. But they are not weapons to be wielded casually.
+  They are constructs of pure vrill-energy—manifestations of the light/dark balance
+  that underlies all physical reality. To call them into form requires creating conditions
+  of perfect elemental convergence. And those conditions will harm you in ways that
+  fracture exactly the unity that summoning requires.
+signal_type: entity
+source_file: raw/chapters/book_03_the_reckoning_012_nephilim_summoning.md
+status: captured
+supersedes: null

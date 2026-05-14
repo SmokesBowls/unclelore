@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-5949
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 55
+line_start: 55
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: By the hundredth year of the darkness, First Shore was an island in a silent
+  sea. The vrill channels still ran beneath the town, sustained by the needle’s residual
+  pulse and the patient work of the grove giants. But beyond the perimeter, the land
+  was dead. Not barren — the roots still grew, the water still moved — but the resonance
+  was gone. The stone no longer sang. It only remembered.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_127_ember_stone.txt
+status: captured
+supersedes: null

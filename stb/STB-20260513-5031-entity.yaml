@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5031
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 552
+line_start: 552
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale was quiet. He thought of the shimmer in the east. The green stone
+  that pulsed when he stepped on it. The humanoid that had attacked, then stopped,
+  then tilted its head like it was listening. All of it—remnants. Sentinels. A system
+  that recognized him not as enemy, but as kin.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_115_the_shape_of_asking.txt
+status: captured
+supersedes: null

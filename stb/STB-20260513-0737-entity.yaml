@@ -2,17 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0737
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 233
-line_start: 233
+line_end: 832
+line_start: 832
 parsed_payload:
   confidence: medium
   entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: Then another. And another. Planet after planet showing the same terrible
-  pattern—the Anunnaki arrived, harvested, departed, left nothing behind except ruins
-  and trauma and slowly dying populations that couldn't recover from what had been
-  taken.
+  entity_type: FAC
+raw_quote: Host, the Applicator's voice suddenly sharp in his awareness. They must
+  not discover the chamber. They will recognize Anunnaki technology. Will flag it
+  as violation of evacuation terms.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_026_dragonmail.md
+source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
 status: captured
 supersedes: null

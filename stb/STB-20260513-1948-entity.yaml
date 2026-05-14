@@ -2,15 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-1948
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 63
-line_start: 63
+line_end: 45
+line_start: 45
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: It was not a suicide note. It was a blueprint for a resurrection, drafted
-  across millennia. And Geralt’s name was on every page.
+  entity_type: CHR
+raw_quote: “We move at dawn,” Geralt said, and the words felt like stones dropped
+  into still water. “Pack for speed, not comfort. We’re racing a poison that doesn’t
+  sleep.”
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_044_the_mountains_shadow.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_042_the_verdant_crossing.md
 status: captured
 supersedes: null

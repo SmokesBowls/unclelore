@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-4475
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 249
+line_start: 249
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: He pulled the body higher up the beach—past the high tide line, onto a
+  patch of gravel and packed sand. He turned him onto his side, clearing the airway.
+  Then he removed his own outer robe—a thick, woven thing, worn but warm—and draped
+  it over the Igigi's body, tucking the edges under. The night was cold. Vale sat
+  close, shoulder to shoulder, sharing what warmth his own body could give. He did
+  not build a fire. He had no tools, no tricks. Only his presence and his endurance.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_112_eastern_system.txt
+status: captured
+supersedes: null

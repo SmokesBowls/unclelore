@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-6065
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 59
+line_start: 59
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The quarantine logs were within tolerance. Behavioral anomalies had spread
+  through the Igigi population at a rate that correlated with proximity to the chamber.
+  The half-second compliance delay was stable across multiple subjects. The sub-auditory
+  humming had resumed after each dampening cycle. Vareth flagged the correlation and
+  noted that behavioral contagion without communication was not a known phenomenon.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_129_calibration_drift.txt
+status: captured
+supersedes: null

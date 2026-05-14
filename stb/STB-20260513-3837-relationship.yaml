@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3837
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 216
+line_start: 216
+parsed_payload:
+  predicate: serves
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: '"Not easy," Xerion corrected. "Permitted. The Echo served its purpose—testing
+  whether we understood the true nature of the convergence. The real Queen wanted
+  to know if the resistance could transcend physical combat."'
+signal_type: relationship
+source_file: raw/chapters/book_19_worthy_opponents_north_102_convergence_on_mars.md
+status: captured
+supersedes: null

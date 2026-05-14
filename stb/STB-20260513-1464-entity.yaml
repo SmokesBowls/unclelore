@@ -2,27 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-1464
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 27
-line_start: 27
+line_end: 11
+line_start: 11
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: As he climbed the crater’s northern rim, leaving the fused glass behind,
-  the harsh ochre sands returned. The Edge of the World Chasm loomed ahead, a monstrous
-  gash splitting the Scorch, its depths lost in perpetual shadow. Geralt paused on
-  the precipice, the wind whipping his scarf, tasting of dust and the void below.
-  Movement caught his eye – not Chronohounds, but forms emerging from the dunes below
-  the chasm’s lip. Massive bodies, Tufts of fur the color of dried blood and burnt
-  sand, a visual scar of how harsh this terrain was to endure living in, lumbered
-  into view. *Dregans*. Desert predators. Each stood thrice his height, their powerful
-  hind legs built for bounding leaps, their forelimbs ending in shovel-like claws
-  for digging. Useless, leathery wings, too small for flight, flapped agitatedly against
-  their flanks. Deadliest of all were the thick, muscular tails, tipped with a crushing,
-  bony grip capable of pulverizing stone. A pack. Ten, maybe twelve. Normally, they’d
-  scent prey instantly – a lone human was easy meat. Geralt tensed, hand instinctively
-  going to his blade hilt. This many would be overwhelming.
+  entity_type: CHR
+raw_quote: '"My purpose?" Geralt pushed off the wall, exhaustion warring with frustration.
+  "To be hunted? To fix broken time?"'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
+source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
 status: captured
 supersedes: null

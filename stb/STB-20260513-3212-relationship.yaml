@@ -2,18 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-3212
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 263
-line_start: 263
+line_end: 406
+line_start: 406
 parsed_payload:
   predicate: serves
   subject: UNRESOLVED
   target: UNRESOLVED
   temporal_scope: unresolved
-raw_quote: But underlying the massive awakening was a more disturbing pattern. Other
-  forces were moving to intercept and control newly awakening consciousness, organizations
-  that sought to co-opt human magical development for purposes that served cosmic
-  tyranny rather than independence.
+raw_quote: Her recognition of cosmic connections provided both context for their individual
+  experiences and foundation for understanding the systematic nature of preparation
+  that had been ongoing across multiple worlds and civilizations simultaneously, while
+  emphasizing that individual development served purposes that transcended personal
+  advancement to encompass welfare measured in galactic rather than planetary terms.
 signal_type: relationship
-source_file: raw/chapters/book_15_legends_and_gods_079_mages_awakening.md
+source_file: raw/chapters/book_12_forged_identity_070_spheres_truth.md
 status: captured
 supersedes: null

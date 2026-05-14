@@ -2,22 +2,21 @@ audit_only: true
 buffer_id: STB-20260513-1594
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 97
-line_start: 97
+line_end: 137
+line_start: 137
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Landing was impact. Bone-jarring. Sand replaced by rusted regolith. The
-  Mars spire stabbed the horizon—cracked, weeping violet corruption. Geralt rose.
-  Five hundred stood. Behind them, the silver gateway collapsed. Ahead, shambling
-  forms emerged from dust-devils. Not soldiers. Twisted spire-constructs. Half-metal,
-  half-flesh. Luminara’s light pulsed in Geralt’s palm. Warmth against Martian cold.
-  "She’s weak here," Lyra warned, scanner glitching. "Corruption resonance overwhelming."
-  Oreck nocked an arrow. "Then we purify." Geralt drew his sword. Dragonfire ignited
-  the blade. "For Earth. For anchors." The constructs charged. Silence fell. Only
-  the spire’s broken heartbeat throbbed. Hungry.
+  entity_type: CHR
+raw_quote: '"The way down," Geralt finished, his voice rough. Below that Akashic library
+  lay the path not just to answers, but to *her*. To the Legion pulled back from the
+  brink by the force of Mika’s faith and his own indomitable will. The stairs solidified,
+  leading unmistakly towards the archway. Through it, Geralt glimpsed flickering torchlight
+  on rough-hewn stone – the entrance hall of the Echo Tower. He could almost hear
+  the muffled tread of boots, the low hum of displaced warriors grounding themselves.
+  He felt Mika’s presence there, a fierce, familiar warmth cutting through the Tower’s
+  psychic chill. She was close. Real. Waiting.'
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
 status: captured
 supersedes: null

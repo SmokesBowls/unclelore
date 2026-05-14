@@ -2,17 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-1757
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 513
-line_start: 513
+line_end: 220
+line_start: 220
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: Humanoid figures pulled themselves from the liquid—dozens of them. Igigi,
-  but wrong. Their bodies were translucent, threaded with violet circuitry. Their
-  eyes glowed with the same sick light as Node Gamma. They moved in perfect unison,
-  weapons forming from the water itself—blades and spears of solidified corruption.
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: The blinding white light seared Geralt’s vision, throbbing against Node
+  Gamma’s corrupted heart. Acidic sap hissed where it struck vines, vaporizing into
+  acrid clouds that stung the Legionnaires’ throats. Through the glare, Geralt glimpsed
+  the parasite’s core pulsing faster—not overwhelmed, but analyzing. Absorbing. Its
+  gold-green veins flared brighter, synchronizing with Luminara’s desperate resonance.
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_039_jungle_fever.md
 status: captured
 supersedes: null

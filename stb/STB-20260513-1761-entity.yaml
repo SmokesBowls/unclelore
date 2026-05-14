@@ -2,14 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-1761
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 543
-line_start: 543
+line_end: 232
+line_start: 232
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: From the pyramid's entrance, something massive moved. Not Igigi. Not Sludge-drake.
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: But Geralt’s Applicator—the one fused to his temple—didn’t just analyze
+  the attack.
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_039_jungle_fever.md
 status: captured
 supersedes: null

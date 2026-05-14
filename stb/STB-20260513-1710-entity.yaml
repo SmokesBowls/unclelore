@@ -2,17 +2,21 @@ audit_only: true
 buffer_id: STB-20260513-1710
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 75
-line_start: 75
+line_end: 23
+line_start: 23
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The vision intensified—showing their descent through those treacherous
-  passages, the battle with Sludge-drakes, the psychic traps, the temporal distortions.
-  And finally, Geralt's clawed hand plunging into the root-mass, choosing to anchor
-  rather than claim.
+  entity_type: CHR
+raw_quote: Above, Lyra’s scanner flashed crimson. "Anomaly detected! Sub-Level Bio-Signature—Oreck’s
+  vitals spiking!" Geralt spun. Luminara pulsed frantic warnings. *Trapped. Betrayed.*
+  Halvar snarled, already moving toward the pyramid’s hidden entrance. Mika locked
+  shields, buying seconds. Legionnaires formed a retreating wedge. Geralt’s command
+  sliced through chaos. "Halvar—extract him. Now!" But vines snapped shut, sealing
+  the entrance. Stone groaned. The pyramid *moved*. Roots anchoring. Serpentor’s laughter
+  echoed through tremoring earth. Oreck’s bow lay broken. His armor dimmed. Crimson
+  eyes closed in.
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_039_jungle_fever.md
 status: captured
 supersedes: null

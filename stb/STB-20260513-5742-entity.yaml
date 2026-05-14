@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-5742
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 275
+line_start: 275
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: And she was bringing that understanding back with her. Not as knowledge.
+  As presence. The thread between her and Vale was still off-frequency. Still different.
+  But it was no longer a problem to be solved. It was a fact to be held. The labyrinth
+  had made space for it. Vale had made space for it. Now she had to make space for
+  it in herself.
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_123_the_conduit_geometry_of_difference.txt
+status: captured
+supersedes: null

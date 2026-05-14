@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-6119
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 35
+line_start: 35
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: The house became a waypoint. Not a base. Not a camp. A place where a body
+  could pause before moving deeper. The old woman's presence made it safe—not because
+  she guarded it, but because she had been there for decades, overlooked by the occupation
+  as too old to be useful, too silent to be a threat. She was part of the city's furniture.
+  The furniture was now a node in a network that did not know it was a network.
+signal_type: relationship
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_130_within_tolerance.txt
+status: captured
+supersedes: null

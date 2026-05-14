@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0376
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 94
-line_start: 94
+line_end: 17
+line_start: 17
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: He emerged from the shelter and looked up at the sky, his enhanced Igigi
-  vision perceiving electromagnetic spectra far beyond the range of the primitive
-  indigenous species. What he saw made his mathematical mind stagger with the implications.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: The Forest Giants reported similar devastation. The Highland tribes had
+  lost contact with three settlements entirely. Even the Subterranean populations,
+  protected by depth and darkness, were detecting Anunnaki probes seeking their hidden
+  strongholds.
 signal_type: entity
-source_file: raw/chapters/book_04_sage_saga_017_niburu_shadow.md
+source_file: raw/chapters/book_03_the_reckoning_012_nephilim_summoning.md
 status: captured
 supersedes: null

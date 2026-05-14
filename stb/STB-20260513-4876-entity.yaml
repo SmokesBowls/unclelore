@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-4876
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 144
+line_start: 144
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Enlil hesitated. His mathematical mind was clearly processing—cataloging
+  variables, calculating probabilities, trying to reduce what he was seeing to a framework
+  he understood. Vale watched him struggle with it. The silence. The stillness. The
+  absence of anything measurable.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_114_resonance_of_stone.txt
+status: captured
+supersedes: null

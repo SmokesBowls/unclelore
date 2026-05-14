@@ -2,18 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0371
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 56
-line_start: 56
+line_end: 92
+line_start: 92
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: The chamber fell silent. Anunnaki punishment was legendary even among their
-  own kind—not mere destruction, but existential horror designed to demonstrate the
-  futility of resistance across entire galactic regions. It served as both retribution
-  and psychological warfare, ensuring that other subject species witnessed the cost
-  of defiance.
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: '"Then they are adrift," Torhh rumbled, a deep pang of recognition flowing
+  through its stone. "As you were. As the Igigi were during the First Coming. Sent
+  to serve a purpose they cannot internalize, holding a weapon they have no innate
+  desire to use."'
 signal_type: entity
-source_file: raw/chapters/book_04_sage_saga_017_niburu_shadow.md
+source_file: raw/chapters/book_03_the_reckoning_011_escalation_and_desperation.md
 status: captured
 supersedes: null

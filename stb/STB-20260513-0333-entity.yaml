@@ -2,17 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0333
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 86
-line_start: 86
+line_end: 123
+line_start: 123
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: 'But the Nephilim didn''t recognize "choosing" as relevant parameter. They
-  operated according to cosmic law: Anunnaki corruption must be eliminated to restore
-  balance. Whether that corruption was willing or resistant was irrelevant to beings
-  that predated moral philosophy.'
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: 'Garrison Deployment: 4,100 Reptilian warriors remaining. 3,847 Igigi workers
+  and support population. Both species adequate for basic Needle maintenance and indigenous
+  containment. Projected sustainability: indefinite with minimal degradation.'
 signal_type: entity
-source_file: raw/chapters/book_03_the_reckoning_014_convergence.md
+source_file: raw/chapters/book_03_the_reckoning_009_stalemate_departure_the_first_coming.md
 status: captured
 supersedes: null

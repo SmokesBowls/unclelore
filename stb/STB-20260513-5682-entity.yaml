@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5682
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 59
+line_start: 59
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale stood at the center. Feeling the pattern they had built begin to strain.
+  Not breaking. Not yet. But pulling in different directions. Each of them sensing
+  something true—something the labyrinth was showing them—but none of those truths
+  leading to the same place.
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_122_unravealing.txt
+status: captured
+supersedes: null

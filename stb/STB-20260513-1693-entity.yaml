@@ -2,24 +2,26 @@ audit_only: true
 buffer_id: STB-20260513-1693
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 45
-line_start: 45
+line_end: 4
+line_start: 4
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'Silence crashed down. A fleeting pause—a breath stolen from chaos. "Now!"
-  Geralt roared, his voice slicing through stunned stillness. "Anchors—form!" Time
-  bled away. The Mars Spire pulsed, its violet corruption recoiling from Luminara’s
-  renewed harmonic surge within Geralt’s gauntlet. The fracture lay exposed—a jagged
-  tear weeping entropy. Forget the war overhead. Forget the strangers. The window
-  was slim: Luminaire’s brief purification. Halvar slammed his chroniton-infused blade
-  into the fused glass ground. "Circuits aligned!" Oreck’s arrows traced the dragon-spire
-  sigil, green fire igniting dormant pathways. Mika’s shieldbearers locked overlapping
-  fields—a shimmering dome beneath the fractured sky. Legionnaires surged forward,
-  not toward battle, but toward resonance. Precision replaced panic. This was not
-  war. It was surgery.'
+  entity_type: CHR
+raw_quote: 'Geralt didn’t shout. He pointed. Oreck’s arrows flew—green chroniton trails
+  cutting precise arcs. They struck three Needles simultaneously. Crystal shrieked.
+  Violet light stuttered. Halvar charged—a silent avalanche of muscle and fury. His
+  blade sliced through Reptilian spines before they turned. Shieldbearers surged forward,
+  locking overlapping barriers as Igigi scattered in confusion. Mika’s lance became
+  a conductor’s baton, directing Legionnaires to isolate each spire. Luminaire’s song
+  surged through Geralt, pure and furious. He plunged his gauntlet into the corrupted
+  Nexus pool. Cold fire raced up his arm—Anunnaki rot fighting Earth’s heartbeat.
+  Black tendrils lashed, tearing at his soul. *"Pour it back!"* Luminaire cried. Geralt
+  roared, pouring five hundred Legion souls’ harmonic will through the gauntlet. Gold
+  light erupted, incinerating the darkness. The Needles shattered like glass. For
+  a heartbeat, the Garden breathed free. Luminaire sighed: *"Anchor... held..."* But
+  reptilian horns blared in the distance. The hunt was on.'
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_040_the_dragon_wars.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_039_jungle_fever.md
 status: captured
 supersedes: null

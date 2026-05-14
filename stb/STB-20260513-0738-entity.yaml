@@ -2,17 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-0738
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 241
-line_start: 241
+line_end: 907
+line_start: 907
 parsed_payload:
   confidence: medium
-  entity_name: Aeon Keepers
-  entity_type: UNKNOWN
-raw_quote: Cannot intervene, the first corrected. Galactic law is absolute. The Aeon
-  Keepers maintain balance but do not tip scales. We observe. We facilitate. We wait
-  for champions to emerge naturally because creating them artificially would violate
-  the very principles we exist to uphold.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: (Practice in small groups. Learn to fight. But do it secretly, where the
+  Anunnaki cannot see from his platform.)
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_026_dragonmail.md
+source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
 status: captured
 supersedes: null

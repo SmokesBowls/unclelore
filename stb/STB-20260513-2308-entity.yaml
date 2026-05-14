@@ -2,18 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-2308
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 352
-line_start: 352
+line_end: 115
+line_start: 115
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The darkness of the Deep Vaults was not an absence of light—it was a substance.
-  It pressed against Geralt's armor with tangible resistance, cold and heavy as deep
-  ocean water. The only illumination came from Luminaire's flickering form and the
-  faint glow of Geralt's dragon armor, which seemed to struggle against the oppressive
-  gloom, its light dimmed and strained.
+  entity_type: CHR
+raw_quote: He held it, then turned to Geralt. “The debt. Is it mine? Or is it ours?”
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
+source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
 status: captured
 supersedes: null

@@ -2,19 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-0520
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 35
-line_start: 35
+line_end: 277
+line_start: 277
 parsed_payload:
   predicate: serves
   subject: UNRESOLVED
   target: UNRESOLVED
   temporal_scope: unresolved
-raw_quote: Individual consciousness had become universal consciousness that maintained
-  individual distinctiveness through universal service. Mathematical precision had
-  evolved into mathematical resource that served all consciousness capable of logical
-  analysis. Mystical wisdom had transformed into mystical resource available to every
-  awareness exploring relationship with forces beyond individual comprehension.
+raw_quote: Together, they had become living demonstration of synthesis principles—individual
+  consciousness that served universal evolution, mathematical precision that danced
+  with mystical wisdom, awareness that existed to help other awareness discover what
+  it was capable of becoming.
 signal_type: relationship
-source_file: raw/chapters/book_04_sage_saga_023_beyond_identity.md
+source_file: raw/chapters/book_04_sage_saga_020_the_collapse.md
 status: captured
 supersedes: null

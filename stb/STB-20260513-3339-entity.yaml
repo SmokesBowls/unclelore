@@ -2,15 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-3339
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 74
-line_start: 74
+line_end: 467
+line_start: 467
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: Caelum was instantly alert, Onyx's ears flicking forward attentively. Isla
-  moved closer to Tran, her expression a mixture of fear and determination.
+  entity_type: CHR
+raw_quote: '"The network is highlighting specific types of expertise," Tran realized
+  as he processed the information that was flowing through the Guild Spire''s analysis
+  systems. "Not just magical potential, but the knowledge and skills needed to build
+  a complete organization."'
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
+source_file: raw/chapters/book_15_legends_and_gods_079_mages_awakening.md
 status: captured
 supersedes: null

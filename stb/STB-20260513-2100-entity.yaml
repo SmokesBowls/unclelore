@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2100
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 351
-line_start: 351
+line_end: 57
+line_start: 57
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt fought through the dissonance, his new armor humming as it tried
-  to stabilize his personal timeline. He saw Mika, moving in slow motion, about to
-  be bisected by an Echo Clone’s temporal blade.
+  entity_type: CHR
+raw_quote: Geralt closed his eyes, reaching through the tripartite link. He felt Mika’s
+  resolve, a solid, unyielding wall. He felt Jorik’s watchful patience. He felt the
+  resigned fire of the thirteen behind him.
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_046_not_like_this.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_045_the_hub_falls.md
 status: captured
 supersedes: null

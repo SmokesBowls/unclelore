@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5959
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 101
+line_start: 101
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale pressed his palm to the island floor. The stone answered — not with
+  the old subsonic hum of endurance, but with something brighter. A harmonic that
+  ran up through his fingers and into the void anchor in his chest, setting it vibrating
+  at a frequency that matched nothing he had ever felt.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_127_ember_stone.txt
+status: captured
+supersedes: null

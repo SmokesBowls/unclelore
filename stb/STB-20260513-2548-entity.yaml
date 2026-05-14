@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2548
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 217
-line_start: 217
+line_end: 167
+line_start: 167
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: It was the story of Geralt. Of Oreck. Of the Five. A narrative of defiance,
-  tiny and personal, injected into a machine designed to perpetuate a story of absolute
-  domination.
+  entity_type: CHR
+raw_quote: Geralt’s head throbbed. A line of text, cold and green, scrolled behind
+  his eyes. It did not come from his conscious interface. It bubbled up from a deep,
+  dark well in the machine he carried.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_055_the_anchors_forge.md
+source_file: raw/chapters/book_09_bureaucratic_debt_053_the_twilight_city.md
 status: captured
 supersedes: null

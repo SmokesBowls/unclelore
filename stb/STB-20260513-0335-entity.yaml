@@ -2,17 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0335
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 100
-line_start: 100
+line_end: 127
+line_start: 127
 parsed_payload:
   confidence: medium
-  entity_name: Aeon Keepers
-  entity_type: UNKNOWN
-raw_quote: The Nephilim had manifested, but cosmic law demanded balance. The suffering
-  that summoned them couldn't simply stop—it had to resolve through transformation
-  or dissolution. The Giants could maintain the ritual conditions until their bodies
-  completed the change the Aeon Keepers had promised, emerging transformed and unified.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: '"Departure authorization," Eduhauana commanded. "Withdraw all Anunnaki
+  personnel. Transfer Needle maintenance protocols to Igigi workforce. Program Reptilian
+  forces for autonomous garrison operations. Estimated return timeline: 3,500 solar
+  cycles, Second Coming configuration."'
 signal_type: entity
-source_file: raw/chapters/book_03_the_reckoning_014_convergence.md
+source_file: raw/chapters/book_03_the_reckoning_009_stalemate_departure_the_first_coming.md
 status: captured
 supersedes: null

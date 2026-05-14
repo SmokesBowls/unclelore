@@ -2,14 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-0879
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 591
-line_start: 591
+line_end: 83
+line_start: 83
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'Rules, Geralt insisted. First: my body, my choices. You two can advise,
-  argue, and complain, but final decisions are mine.'
+  entity_type: CHR
+raw_quote: '"Because," Geralt said honestly, "I need someone who understands what
+  it means to choose sides. Who knows the weight of betraying masters for conscience.
+  Who proved themselves through action rather than declaration."'
 signal_type: entity
 source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured

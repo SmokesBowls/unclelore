@@ -1,0 +1,15 @@
+audit_only: true
+buffer_id: STB-20260513-6383
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 2404
+line_start: 2404
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: the Igigi’s hum bent.
+signal_type: entity
+source_file: raw/chapters/book_27_the_seam_deadly_words_south_138_quiet_lean.txt
+status: captured
+supersedes: null

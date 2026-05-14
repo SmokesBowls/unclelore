@@ -2,17 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2472
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 325
-line_start: 325
+line_end: 254
+line_start: 254
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: “The spire is orphaned,” Luminaire confirmed, her voice heavy. “Umbrageous
-  is stable, but dormant. Network resonance is dropping… 55% to 47%. The cascade is
-  slowed. But Geralt, your applicator remains. The architecture the network used is
-  still there. It is a door they can try to open again.”
+  entity_type: CHR
+raw_quote: 'Geralt looked at his team: Oreck, solid and ready; Kyh, nervous but resolved;
+  the three crystals, heavy with sacrifice; and in his mind, the quiet chorus of the
+  Five Mikas, each attuned to the element they were about to confront.'
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_053_the_twilight_city.md
+source_file: raw/chapters/book_09_bureaucratic_debt_051_arrival_in_fire.md
 status: captured
 supersedes: null

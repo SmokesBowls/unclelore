@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-4403
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 564
+line_start: 564
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: The stars came out, bright and cold, reflected in the water that had drowned
+  the old world. Vale sat in silence, feeling Luminaire’s presence, feeling the pulse
+  of the needle, feeling the thread that connected him to the Ma'at  where Korr stood
+  watch.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_111_the_resonance_a_garden_under_shadow.txt
+status: captured
+supersedes: null

@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0146
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 110
-line_start: 110
+line_end: 106
+line_start: 106
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: '"Calculations are all we have," Pazuzu replied, though his voice carried
-  none of the authority he''d once possessed as Elder of the Igigi councils. That
-  was before the Anunnaki came. Before their people became livestock.'
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: The mountain at the island's center had always been the Tidecallers' territory—the
+  place they retreated to when fear overwhelmed curiosity, where they maintained their
+  largest population concentration. Allowing Neferati inside meant allowing them into
+  the heart of Tidecaller identity, into spaces where vulnerability couldn't be hidden.
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
 status: captured
 supersedes: null

@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-4293
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 711
+line_start: 711
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: Enki sat by the null-fire, his old hands wrapped around a cup of melted
+  permafrost. The Igigi had found shelter on the high ground, but they had lost many
+  in the flood. Their navigator's eyes were hollow.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_110_the_bleeding_convergance.txt
+status: captured
+supersedes: null

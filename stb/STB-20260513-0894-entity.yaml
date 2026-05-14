@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-0894
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 697
-line_start: 697
+line_end: 143
+line_start: 143
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The twin suns blazed overhead—orbital alignment still creating doubled
-  light that painted the landscape in harsh shadows. Geralt felt the solar radiation
-  differently now. The armor drank it in, converting stellar energy into reserve power
-  that pulsed through the scales like second circulatory system.
+  entity_type: CHR
+raw_quote: Geralt glanced at his companion, noting how Oreck's eyes scanned the horizon
+  constantly—predator's awareness that never fully deactivated regardless of alliance
+  or redemption.
 signal_type: entity
 source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured

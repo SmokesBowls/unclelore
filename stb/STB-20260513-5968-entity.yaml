@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-5968
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 197
+line_start: 197
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale took his first step in two hundred years — not onto the ground, but
+  into the air where the ground had already risen to meet him. The island did not
+  release him. It accompanied him. Because he was not leaving it behind.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_127_ember_stone.txt
+status: captured
+supersedes: null

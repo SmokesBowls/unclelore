@@ -2,14 +2,21 @@ audit_only: true
 buffer_id: STB-20260513-1668
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 272
-line_start: 272
+line_end: 79
+line_start: 79
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt’s lips curled. Not a smile. A baring of teeth.
+  entity_type: CHR
+raw_quote: Geralt plunged his clawed hand into the pool. Not toward the core. Into
+  the root-mass choking it. Zaron’s will surged—not domination, but *alignment*. Azure
+  light flared from his gauntlet, weaving through the metal vines. The roots stiffened.
+  The Luminaire’s pulse stuttered. For a heartbeat, the storm stilled. Reflections
+  cleared—Mika’s fierce determination, Oreck’s unwavering vigilance, Lyra’s exhausted
+  resolve. Real. Uncorrupted. Then the roots *shrieked*, recoiling. The pool churned
+  black as the Luminaire’s light dimmed to ember-red. Something deeper than roots
+  stirred in the depths. Revelation’s price waited in the dark.
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_039_jungle_fever.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
 status: captured
 supersedes: null

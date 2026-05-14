@@ -1,0 +1,15 @@
+audit_only: true
+buffer_id: STB-20260513-4753
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 1036
+line_start: 1036
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale looked at him. Zephyr's eyes were open. Not looking at anything.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_112_eastern_system.txt
+status: captured
+supersedes: null

@@ -1,0 +1,15 @@
+audit_only: true
+buffer_id: STB-20260513-6236
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 429
+line_start: 429
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: In the drainage channel, the Igigi's hum split into two frequencies.
+signal_type: entity
+source_file: raw/chapters/book_26_the_seam_long_dark_south_134_phase_drift.txt
+status: captured
+supersedes: null

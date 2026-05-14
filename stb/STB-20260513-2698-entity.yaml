@@ -2,15 +2,20 @@ audit_only: true
 buffer_id: STB-20260513-2698
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 83
-line_start: 83
+line_end: 155
+line_start: 155
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt's numbness thrummed in recognition. This wasn't instruction. It
-  was transfusion.
+  entity_type: CHR
+raw_quote: 'Vaelthanebanked sharply, his wingbeats slowing as if caught in viscous
+  honey. The other dragons followed, their movements suddenly precise, reverent. The
+  "material" beneath them hummed—not a sound, but a vibration Geralt felt in his molars,
+  the marrow of his bones. It was neither stone nor metal, but something shaped by
+  forces beyond magic: the compressed resonance of a thousand dragon songs, the fossilized
+  breath of supernovae, the weight of a thousand millennia of dragon wars pressed
+  into a single, perfect architecture.'
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+source_file: raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
 status: captured
 supersedes: null

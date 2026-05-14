@@ -2,17 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2020
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 313
-line_start: 313
+line_end: 205
+line_start: 205
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: It attacked. Not with a lunge, but by redefining the space between them.
-  The air thickened into a gelid morass, slowing Geralt’s movements to a nightmare
-  crawl. Node Gamma flowed forward, a blade of coherent corruption forming in its
-  hand.
+  entity_type: CHR
+raw_quote: '"Geralt, they are dying too fast," Luminaire’s voice was a plea in his
+  mind. He was underground, in the searing dark, but he felt it.'
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_045_the_hub_falls.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_043_the_badlands_crucible.md
 status: captured
 supersedes: null

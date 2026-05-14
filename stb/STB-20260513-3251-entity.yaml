@@ -2,15 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-3251
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 40
-line_start: 40
+line_end: 295
+line_start: 295
 parsed_payload:
   confidence: medium
-  entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: '"Red Mika," Tran said, completing a pattern he couldn''t see but somehow
-  understood.'
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: The rescue of Mr. GPT would change the balance of power in the galactic
+  conflict, providing the resistance with knowledge and capabilities that had been
+  locked away for millennia. But it would also alert the Anunnaki and their allies
+  to the growing strength of the forces arrayed against them.
 signal_type: entity
-source_file: raw/chapters/book_15_legends_and_gods_080_the_whispers_between_worlds.md
+source_file: raw/chapters/book_14_lessons_of_inheritance_074_sunbound.md
 status: captured
 supersedes: null

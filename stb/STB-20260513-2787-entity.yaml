@@ -2,14 +2,21 @@ audit_only: true
 buffer_id: STB-20260513-2787
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 463
-line_start: 463
+line_end: 7
+line_start: 7
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt pried one off and flicked it at Kyh. It passed through her shadow
-  and vanished. "Tell him about the star."
+  entity_type: CHR
+raw_quote: Tidecaller's Mountain grew teeth as they approached. What had been a distant
+  smudge of violet-grey against the horizon now loomed like a snapped bone jutting
+  from the earth's flesh, its upper slopes sheathed in ice that glittered with unnatural
+  clarity. Geralt's Applicator throbbed in time with their footsteps—not a warning,
+  but a tuning fork resonating with something buried beneath the scree. Kyh's form
+  frayed at the edges whenever they passed cairns of stacked obsidian shards, her
+  silver threads vibrating as if plucked by invisible fingers. "They're markers,"
+  she whispered once, though her lips didn't move. "Not for travelers. For whatever
+  walked here before continents cooled."
 signal_type: entity
 source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
 status: captured

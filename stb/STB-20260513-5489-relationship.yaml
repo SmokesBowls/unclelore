@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-5489
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 373
+line_start: 373
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: He turned to face Vale fully. "This is the hard part, my boy. Not the building.
+  Not the resonance. The people. The ones who've been guardin' their piece of the
+  world for so long they've forgotten it was ever meant to be part of somethin' larger.
+  You can't force that. You can only invite. And trust that the invitation, offered
+  with patience and respect, will eventually be heard."
+signal_type: relationship
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_119_resonance_of_the_first_point.txt
+status: captured
+supersedes: null

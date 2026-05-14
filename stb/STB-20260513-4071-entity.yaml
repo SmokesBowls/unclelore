@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-4071
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 278
+line_start: 278
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale thought about it. He had not let himself think about it—the long darkness,
+  the slow fading, the threads of song that had held him together when everything
+  else was falling apart.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_108_evolution_of_the_keeper.txt
+status: captured
+supersedes: null

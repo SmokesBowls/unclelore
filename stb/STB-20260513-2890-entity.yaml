@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-2890
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 449
+line_start: 449
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: Geralt stabbed the stick into the ashes. "I didn’t die. The star remembered
+  me backward."
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+status: captured
+supersedes: null

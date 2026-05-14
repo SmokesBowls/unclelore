@@ -2,14 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-3634
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 112
-line_start: 112
+line_end: 15
+line_start: 15
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: '"Tran?" Thang asked cautiously. "Is it still you?"'
+  entity_type: CHR
+raw_quote: '"Easy," Tran murmured, as much to himself as to the armor. "Whatever we
+  face up there, we face it together."'
 signal_type: entity
-source_file: raw/chapters/book_18_inquisition_of_yourself_096_violet_convergence.md
+source_file: raw/chapters/book_17_ancestral_debt_089_the_white_mirror.md
 status: captured
 supersedes: null

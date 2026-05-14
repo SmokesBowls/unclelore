@@ -2,14 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-1854
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 83
-line_start: 83
+line_end: 505
+line_start: 505
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Mika moved past Geralt, her hands open. “What’s your name?”
+  entity_type: CHR
+raw_quote: Geralt stood at the formation's heart, Lyra beside him, feeling his borrowed
+  strength already beginning to fray at the edges.
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_042_the_verdant_crossing.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
 status: captured
 supersedes: null

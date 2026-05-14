@@ -2,17 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-1200
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 764
-line_start: 764
+line_end: 416
+line_start: 416
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: '*That''s our target,* he projected to three consciousnesses and five allies
-  simultaneously. *We liberate population while finding access point to vessel above.
-  Use chaos to create opportunity. Strike fast enough that Anunnaki can''t coordinate
-  response before we''re aboard.*'
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: '*Then we don''t defend indefinitely,* Geralt projected with certainty
+  that surprised him. *We attack. We spread. We move faster than they can respond.
+  We turn liberation into wildfire that jumps containment barriers faster than they
+  can establish them.*'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
+source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
 status: captured
 supersedes: null

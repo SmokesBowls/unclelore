@@ -2,14 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-1128
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 67
-line_start: 67
+line_end: 745
+line_start: 745
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: The ones that predated Anunnaki occupation.
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: Geralt felt the armor respond—Zaron's consciousness flooding with readiness
+  that bordered on eagerness, the Applicator providing tactical analysis that suggested
+  dozens of approach vectors and probability assessments, his own will hardening into
+  determination that this being, this representation of everything wrong with cosmic
+  order, would fall.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured
 supersedes: null

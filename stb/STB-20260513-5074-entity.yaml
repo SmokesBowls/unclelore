@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-5074
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 135
+line_start: 135
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale felt the words like a physical blow. He reached for the needle's pulse—the
+  thread that had been thin but steady—and found it frayed. Not broken. But stretched,
+  distorted, fighting against something that was trying to unmake it.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_116_keepers_recognition.txt
+status: captured
+supersedes: null

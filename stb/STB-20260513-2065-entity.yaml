@@ -2,18 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-2065
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 111
-line_start: 111
+line_end: 140
+line_start: 140
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Below them, the Legion prepared for a terrible, final gamble. Weapons were
-  checked with solemn care. Letters to no one were written in the dirt and then scuffed
-  away. The dragon armor on Geralt’s chest felt like a dead weight. It had not stirred.
-  It had not answered his silent, desperate plea for more. It was just armor. And
-  it would not be enough.
+  entity_type: CHR
+raw_quote: It feels less human, Geralt sent back, a thread of panic in the thought.
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_046_not_like_this.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_044_the_mountains_shadow.md
 status: captured
 supersedes: null

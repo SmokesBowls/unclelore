@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-4477
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 251
+line_start: 251
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: He watched the Igigi's breathing. Shallow, but steady. He checked the pulse
+  again—still there, still weak. He adjusted the robe once, twice, making sure the
+  cold did not creep in. He did not sleep. He stayed awake, listening to the slow
+  rhythm of the stranger's breath, feeling the cold settle around them. The stars
+  came out. The water lapped against the shore, ordinary now, no longer coordinated.
+  The shimmer did not return.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_112_eastern_system.txt
+status: captured
+supersedes: null

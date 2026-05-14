@@ -2,24 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-1389
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 29
-line_start: 29
+line_end: 48
+line_start: 48
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Time thickened instantly. His descent felt agonizingly slow, like falling
-  through syrup. Sounds stretched and warped – the drip of water became a deep, booming
-  thud. He focused solely on his internal anchor, the blazing core of *self*. He landed
-  beside Kaelen, the impact jarring despite the slowed time. Around them, dust motes
-  hung suspended, frozen in the thick air. "Good," Kaelen acknowledged, a flicker
-  of approval in her galactic eyes. "Maintain that anchor. Follow my path *exactly*.
-  Deviate, and the drag intensifies." She began moving towards the central Spire,
-  her steps deliberate, navigating a path only she could see through the temporal
-  sludge. Geralt followed, each step a battle against the crushing weight of stagnant
-  time, his anchor the only thing keeping him from freezing solid. The hunt continued,
-  deeper into the sinkhole.
+  entity_type: CHR
+raw_quote: She found her armor where she'd left it—Dragon Armor, the same type Geralt
+  wore, though hers was lighter, designed for speed rather than raw protection. The
+  scales gleamed dully in the afternoon light, each one a masterwork of Anunnaki engineering
+  that Geralt had... liberated... during one of their more legally questionable operations.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
+source_file: raw/chapters/book_06_the_ragnarok_033_the_march.md
 status: captured
 supersedes: null

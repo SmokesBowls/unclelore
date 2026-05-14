@@ -2,22 +2,26 @@ audit_only: true
 buffer_id: STB-20260513-1465
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 29
-line_start: 29
+line_end: 15
+line_start: 15
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: They didn’t charge. They simply… lined up. Formed a rough corridor leading
-  away from the Heart’s crater, towards the faint, treacherous path skirting the chasm’s
-  edge. Their obsidian eyes, like chips of volcanic glass, fixed not on him as prey,
-  but *through* him, towards the scarred depression he’d just climbed from. Their
-  nostrils flared, tasting the lingering psychic residue – the shared grief, the acknowledged
-  pain. One, a massive elder with cracked horns, lowered its head slightly. A low,
-  rumbling groan vibrated through the sand beneath Geralt’s boots, not aggressive,
-  but resonant. It echoed the Heart’s weary thrum. The applicator remained silent;
-  no threat detected. The dragon armor hummed softly, echoing Zaron’s shared sorrow.
+  entity_type: CHR
+raw_quote: Geralt turned back to the pulsing crystals. His ribs screamed. The applicator’s
+  fatigue warnings blared crimson across his vision. The dragon armor pulsed sluggishly,
+  its fire banked low. *How?* he thought, desperation clawing. *How do I harmonize
+  this last one? I’m spent.* He closed his eyes, reaching inward past the pain. *Applicator.
+  Armor. Help me understand. How does this resonance work? Show me the frequency.*
+  The applicator flashed a complex waveform overlay – the node’s chaotic signature
+  mapped against the stable harmonic they needed. Cold, precise data. The dragon armor
+  rumbled deep within, flooding his awareness with the raw *feel* of stability – warmth,
+  solidity, the immovable weight of bedrock. *Together,* Geralt willed. *Show me together.*
+  The applicator’s waveform snapped into alignment with the armor’s resonant signature.
+  A blueprint of harmony. Geralt poured his flagging will into replicating it, humming
+  the synthesized tone. The final node’s jagged pulse softened, smoothed, settled
+  into a steady amber glow. Done.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
+source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
 status: captured
 supersedes: null

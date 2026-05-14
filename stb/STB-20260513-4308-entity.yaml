@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-4308
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 834
+line_start: 834
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: '"I speak as someone who has been calibrated by it." Vale''s eyes, no longer
+  the color of nothing, met Korr''s. "The system is not trying to kill us. It is trying
+  to balance. And balance, in a world that has forgotten how to be still, looks like
+  death."'
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_110_the_bleeding_convergance.txt
+status: captured
+supersedes: null

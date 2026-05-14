@@ -2,18 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0163
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 156
-line_start: 156
+line_end: 166
+line_start: 166
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: The Reptilian's eyes—vertical slits that could see across multiple wavelengths—focused
-  on him with appropriate deference. Its consciousness was simple compared to Igigi
-  or Anunnaki, but sufficient for its purpose. It could understand orders. It could
-  apply violence when directed. It could recognize indigenous biologicals as threats
-  when programmed to do so.
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: '"We built this," Elyraen said, joining Seraneth on the platform. They
+  had aged in ways that Neferati consciousness shouldn''t age—their bioluminescence
+  dimmed slightly, their movements carrying weight of centuries. "Not just structures.
+  A world. A way of being together that didn''t exist before we fell from the sky."'
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
 status: captured
 supersedes: null

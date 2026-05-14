@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2240
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 407
-line_start: 407
+line_end: 152
+line_start: 152
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt sat cross-legged, facing the fractured air. Oreck stood ten paces
-  behind him, cleaver in hand, facing the valley entrance. The Five stood unmoving
-  at the cardinal points.
+  entity_type: CHR
+raw_quote: Year 5. Oreck stood at the valley entrance at dawn, a pack on his back.
+  Geralt and Mika came to see him off.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_047_mika.md
 status: captured
 supersedes: null

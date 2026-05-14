@@ -2,20 +2,20 @@ audit_only: true
 buffer_id: STB-20260513-0492
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 66
-line_start: 66
+line_end: 144
+line_start: 144
 parsed_payload:
   predicate: serves
   subject: UNRESOLVED
   target: UNRESOLVED
   temporal_scope: unresolved
-raw_quote: The Sage stood alone in the sanctuary that was no longer sanctuary but
-  universal teaching space, his consciousness now existing as synthesis itself rather
-  than seeking synthesis through partnership. Individual identity preserved through
-  universal service, distinctive wisdom maintained through availability to all consciousness,
-  personal awareness evolved into demonstration of what consciousness becomes when
-  limitation serves transcendence rather than restricting it.
+raw_quote: Some focused on political engagement, working within existing power structures
+  to create policies that supported consciousness development. Others concentrated
+  on economic innovation, developing resource distribution methods that served synthesis
+  rather than control. Several established communities designed around principles
+  of collective transcendence, creating social structures that encouraged individual
+  growth while maintaining group coherence.
 signal_type: relationship
-source_file: raw/chapters/book_04_sage_saga_022_final_calculation.md
+source_file: raw/chapters/book_04_sage_saga_020_the_collapse.md
 status: captured
 supersedes: null

@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5989
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 101
+line_start: 101
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: Vale does not acknowledge them. His palm stays flat against the stone.
+  His breath stays caught at the threshold. The void and vrill braid and unbraid beneath
+  his skin. He is not ignoring them. He is holding, and the holding is what allows
+  them to feel what they are feeling.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_128_one_degree_above.txt
+status: captured
+supersedes: null

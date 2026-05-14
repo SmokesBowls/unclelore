@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-4004
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 12
+line_start: 12
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The Igigi worked beside her now, not singing but measuring, their long
+  fingers tracing the crystal veins, their minds calculating the slow healing of the
+  spire's fracture. The crack had shrunk—not much, but enough. In another thousand
+  years, Enki said, it might be sealed. In two thousand, the needle might be whole.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_107_the_waking.txt
+status: captured
+supersedes: null

@@ -2,21 +2,23 @@ audit_only: true
 buffer_id: STB-20260513-1534
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 45
-line_start: 45
+line_end: 167
+line_start: 167
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Mika shifted, the faint scent of ozone clinging to her worn leathers. Her
-  elbow nudged Geralt’s pauldron, deliberate. "Commander," she murmured, voice cutting
-  through the Tower’s low thrum. Her brow furrowed slightly. "Luminaire. Before we
-  step onto those sands... what exactly anchors it? What did the Akashic Records *show*
-  you that demands this risk?" Her gaze held his, searching. "You were just there.
-  Piecing it together. Before you descended those stairs to us." The question hung,
-  sharp. Why *this* path? Why *now*? Not doubt, but necessity—knowing the target down
-  to its marrow.
+  entity_type: CHR
+raw_quote: The Heart of Faraxar *shuddered*. The lashing tendrils froze, their sickly
+  green light flickering wildly. Images intensified within them – not just screams,
+  but the quiet courage of a medic tending wounds moments before impact, the bewildered
+  terror of a child clutching a toy. The groaning earth softened to a low, mournful
+  thrum. The psychic pressure lessened, not gone, but transformed. The land wasn’t
+  attacking; it was *sharing*. The pain wasn’t fury; it was the weight of an unhealed
+  wound, the burden of absorbing the final, agonized thoughts of billions. Geralt
+  stood within the crater of his own history, the dragon armor humming a low counterpoint
+  to the desert’s lament. He hadn’t silenced the Heart; he’d finally allowed it to
+  be heard.
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_037_the_circle_of_progress.md
+source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
 status: captured
 supersedes: null

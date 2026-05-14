@@ -2,19 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2637
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 85
-line_start: 85
+line_end: 130
+line_start: 130
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The Guild's lobby doors parted before them without hinges moving—an architectural
-  sigh. Inside, Kyh waited by the humming enrollment plinth, her shadow-form now stitched
-  with silver threads where the network had claimed her. Kulla crouched beside her,
-  patting the floor like a nervous mason. Geralt didn't speak. He thought *forward*,
-  and the lobby's stonework unraveled around them in a slow-motion landslide of impossible
-  geometry.
+  entity_type: CHR
+raw_quote: As Kulla shuffled toward the shuttle, moving with the devastating, patient
+  speed of continental drift, Oreck shot Geralt a look.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
+source_file: raw/chapters/book_09_bureaucratic_debt_055_the_anchors_forge.md
 status: captured
 supersedes: null

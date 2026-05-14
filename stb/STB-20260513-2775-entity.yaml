@@ -2,14 +2,20 @@ audit_only: true
 buffer_id: STB-20260513-2775
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 417
-line_start: 417
+line_end: 207
+line_start: 207
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"Tell Kulla—" Geralt started.'
+  entity_type: CHR
+raw_quote: The fissure wasn't a crack—it was a wound. Not in the rock, but in the
+  Queen's perfect geometry. Geralt's fingers found purchase where there should have
+  been none, his gauntlets scraping against mineral veins that pulsed faintly with
+  old magic. Somewhere above, Kyh's shadow-form oozed through a hairline fracture
+  that should have been impassable, her silver threads vibrating with stolen resonance.
+  Kulla climbed last, his clay fingers reshaping themselves to grip surfaces that
+  crumbled under his touch like stale bread.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
 status: captured
 supersedes: null

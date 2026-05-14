@@ -2,28 +2,27 @@ audit_only: true
 buffer_id: STB-20260513-1559
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 15
-line_start: 15
+line_end: 51
+line_start: 51
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The air thickened, losing its knife’s edge dryness. Boots crunched on gravelly
-  earth now, sand yielding to cracked hardpan radiating heat upward like coals. Ahead,
-  blinding white salt flats stretched—cracked crusts whispering false promises of
-  water under the midday glare. Geralt’s dragonmail hummed differently here; Zaron’s
-  spirit recoiled faintly against the mineral scent carried on sudden, sluggish breezes.
-  Thorny bushes clawed upward from the baking soil, razor-edged grasses scratching
-  against scaled greaves. Silence draped itself like a shroud. No wind whispers. Only
-  the scuff of weary boots and the low thrum of shield generators. Then, a sharp cry
-  echoed—Corporal Vess stumbled backward from a low mound. Her boot sank calf-deep
-  into liquefied clay where solid ground seemed moments before. The earth pulsed visibly
-  around her leg, drawing her deeper. Panic flared. Legionnaires froze. Oreck surged
-  forward, his chroniton-enhanced strength anchoring him on firmer ground as he seized
-  Vess’s arm. "Don’t struggle!" Mika barked, seeing the suction intensify. The clay
-  gulped hungrily. "Guide her slowly!" Geralt ordered, scanning the treacherous basin—this
-  was no desert. This was the land’s wounded throat.
+  entity_type: CHR
+raw_quote: Geralt set his cup down. The dragon armor pulsed faintly, reacting to the
+  mountain’s proximity and the Giants’ unseen gaze. "I need their knowledge," he stated
+  flatly. "The Needle Spires. Accessing the Akashic records." A ripple of surprise
+  went through the small group. Sella stared at him. "The Spires? They're... buried.
+  Lost." Geralt met her gaze. "One isn't. Buried, yes. But not lost. The Giants guard
+  it. I need to configure it." He felt the applicator stir, analyzing pathways. "To
+  find an army." Silence fell, thick with unspoken questions and the crackle of the
+  fire. Sella leaned back, her scarred face thoughtful in the flickering light. "The
+  path is treacherous," she finally said. "The Giants watch. And worse things crawl
+  near their peaks." She glanced at her companions, a silent agreement passing between
+  them. "We know the lower slopes. We'll take you as far as the Whispering Stone.
+  Beyond that..." She shrugged. "You face the Giants alone." The offer was simple,
+  born of loyalty forged in chains. Geralt inclined his head. "Thank you, Sella."
+  Tomorrow, the ascent would begin. The mountain waited.
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
 status: captured
 supersedes: null

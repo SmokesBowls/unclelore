@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-6115
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 17
+line_start: 17
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: 'Ember stopped at the threshold. The Igigi boy stopped behind her. The
+  old woman did not look up, but her soundless lips paused, and her palm lifted from
+  the stone, and she turned it outward—not a greeting, not a signal, but an acknowledgment.
+  The gesture meant: I feel the warmth you brought. It is the same warmth I have been
+  feeling. You are not the source. You are only carrying it.'
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_130_within_tolerance.txt
+status: captured
+supersedes: null

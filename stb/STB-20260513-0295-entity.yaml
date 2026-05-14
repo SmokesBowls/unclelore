@@ -2,18 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0295
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 106
-line_start: 106
+line_end: 75
+line_start: 75
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: '"Then we must make this alliance a bridge, not a wall," Torhh replied,
-  its certainty absolute. "We will demonstrate that not every weapon forged in the
-  Crucible of the Anunnaki must strike us. That some can be turned, their purpose
-  reforged. We will show the mountains and the deserts that our strength is not in
-  hoarding, but in uniting."'
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: Eduhauana felt a flash of respect for the Giant's perceptiveness. "The
+  Igigi made poor strategic choices when my people arrived at their world. They are...
+  object lessons in what happens when resistance proves insufficient."
 signal_type: entity
-source_file: raw/chapters/book_03_the_reckoning_011_escalation_and_desperation.md
+source_file: raw/chapters/book_02_age_of_servitude_008_queens_assessment.md
 status: captured
 supersedes: null

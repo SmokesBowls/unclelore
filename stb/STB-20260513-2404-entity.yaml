@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2404
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 259
-line_start: 259
+line_end: 280
+line_start: 280
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: “It’s processing,” Luminaire corrected, her presence in Geralt’s mind taut
-  with focus. “It has never been countermanded. It is evaluating a universe where
-  its authority is not absolute. This is… unprecedented data.”
+  entity_type: CHR
+raw_quote: Luminaire reacted violently within Geralt. "That would cripple the network's
+  dimensional transit capabilities! The Umbra Spire is the primary nexus for—"
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_052_entry_without_standing.md
+source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
 status: captured
 supersedes: null

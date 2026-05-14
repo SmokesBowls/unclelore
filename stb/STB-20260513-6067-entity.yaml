@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-6067
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 79
+line_start: 79
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: Study was rejected because the behavioral contagion was spreading. Additional
+  exposure would accelerate the spread. The Igigi were too useful to lose to an unclassified
+  phenomenon.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_129_calibration_drift.txt
+status: captured
+supersedes: null

@@ -2,17 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3381
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 183
-line_start: 183
+line_end: 176
+line_start: 176
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: Tran stared at the two fragments in his hands – Red and Blue, Fire and
-  Water, seemingly opposites yet somehow belonging together. As he held them, they
-  pulsed in unison, and he felt a tingle of power run up his arms, spreading through
-  his chest.
+  entity_type: CHR
+raw_quote: Then they too were gone, leaving Tran, Caelum, and Onyx alone by the converging
+  water channels. Only the impossible footprints remained, now leading away from Sundrift,
+  toward Ironspire—and beyond.
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
+source_file: raw/chapters/book_15_legends_and_gods_080_the_whispers_between_worlds.md
 status: captured
 supersedes: null

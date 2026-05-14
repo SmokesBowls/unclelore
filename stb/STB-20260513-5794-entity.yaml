@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-5794
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 257
+line_start: 257
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale stood at the edge, feeling the network begin to take shape. Two points
+  now. Two anchors outside the labyrinth. Two places where the resonance could remain
+  without being guarded. The thread between them was thin, fragile, but there. A beginning.
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_124_the_last_threshold_release_of_the_constant.txt
+status: captured
+supersedes: null

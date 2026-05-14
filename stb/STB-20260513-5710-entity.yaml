@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-5710
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 354
+line_start: 354
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: The ring did not glow. Did not pulse. Did not acknowledge their presence
+  in any way Vale could feel. But it was not empty. It was expectant. The way a still
+  pond expects the stone. The way a held breath expects release.
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_122_unravealing.txt
+status: captured
+supersedes: null

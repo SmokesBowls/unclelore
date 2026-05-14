@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-5653
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 135
+line_start: 135
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale turned to Brak and Keth. The two giants stood at the courtyard's center,
+  their null-pressure soft, their presence steady.
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_121_aligning_the_pattern_at_the_labyrinths_threshold.txt
+status: captured
+supersedes: null

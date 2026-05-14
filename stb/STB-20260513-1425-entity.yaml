@@ -2,17 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-1425
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 103
-line_start: 103
+line_end: 24
+line_start: 24
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt approached deliberately, his gait unhurried, hands visible. His
-  dragon armor, though battered, gleamed faintly, a stark contrast to the rugged,
-  homespun clothes of the builders. One figure paused, wiping sweat from his brow,
-  then froze, his eyes widening.
+  entity_type: CHR
+raw_quote: '"A chroniton sinkhole," Kaelen murmured, her voice barely audible over
+  the distant drip of meltwater. "Time pools here, stagnant. Feel it?" Geralt closed
+  his eyes. The applicator screamed warnings: *Chroniton saturation critical! Temporal
+  inertia detected!* The dragon armor vibrated, resonating with the deep, sluggish
+  pulse beneath the city. It felt like wading through frozen tar. "It’s… thick," he
+  gasped. "Slow."'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
+source_file: raw/chapters/book_06_the_ragnarok_034_the_250.md
 status: captured
 supersedes: null

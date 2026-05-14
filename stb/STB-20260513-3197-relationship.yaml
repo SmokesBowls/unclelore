@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-3197
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 300
+line_start: 300
+parsed_payload:
+  predicate: serves
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: Her question reflected both recognition of the sphere's true ownership
+  and willingness to accept that her role as guardian had always been temporary, designed
+  to preserve the artifact until conditions permitted its transfer to someone whose
+  abilities could access its preserved knowledge and apply that understanding to purposes
+  that served cosmic welfare rather than individual advancement.
+signal_type: relationship
+source_file: raw/chapters/book_12_forged_identity_070_spheres_truth.md
+status: captured
+supersedes: null

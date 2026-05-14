@@ -2,18 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-2723
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 207
-line_start: 207
+line_end: 15
+line_start: 15
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The clone emerged from Zypher's vortex like a negative exposed—too perfect,
-  too whole. No scars, no grafts, just seamless flesh that smelled faintly of ozone
-  and fresh parchment. It blinked Geralt's eyes with Geralt's memories, but its fingers
-  didn't tremble when it touched the Dragon Mail's ruined pauldrons. "I remember the
-  whip-hand," it said, voice smooth as poured mercury.
+  entity_type: CHR
+raw_quote: '"You''ve recorded storms," Geralt said, his voice low enough that the
+  guild''s acoustics strained to catch it. "But have you ever stood in one?" He lifted
+  his left hand, palm up. The Applicator''s scorched core pulsed once, and the hovering
+  shards rearranged themselves—no longer displaying images, but *names*. They flickered
+  too fast to read, a cascade of titles and epithets, until finally settling into
+  a single word, etched in silvered scars across his palm: *Geralt*.'
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
 status: captured
 supersedes: null

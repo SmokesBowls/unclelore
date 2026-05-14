@@ -2,17 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-0603
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 664
-line_start: 664
+line_end: 32
+line_start: 32
 parsed_payload:
-  predicate: member_of
+  predicate: serves
   subject: UNRESOLVED
   target: UNRESOLVED
   temporal_scope: unresolved
-raw_quote: 'Finally, the Nameless One spoke. Or tried to. The words came out as grunts
-  and clicks, tongue still struggling with coordination that hadn''t been part of
-  their design. But meaning was clear enough in tone and gesture:'
+raw_quote: He was becoming what consciousness recognized when individual limitation
+  served universal wisdom. Not elimination of personality, but personality that existed
+  to demonstrate synthesis possibilities for every awareness approaching transcendence
+  of individual boundary. Not loss of accumulated experience, but accumulated experience
+  that served universal education rather than individual possession.
 signal_type: relationship
-source_file: raw/chapters/book_05_the_nameless_one_024_the_first_spark.md
+source_file: raw/chapters/book_04_sage_saga_023_beyond_identity.md
 status: captured
 supersedes: null

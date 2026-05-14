@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5159
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 679
+line_start: 679
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: '"No." Vale shook his head. "The stone moved because it knew I was there.
+  Because it''s been waiting for me to return for seven thousand years. And now that
+  I have... it''s listening. Adjusting. Trying to understand what I am now, after
+  all this time."'
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_116_keepers_recognition.txt
+status: captured
+supersedes: null

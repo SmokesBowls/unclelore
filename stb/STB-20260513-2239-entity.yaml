@@ -2,17 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-2239
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 397
-line_start: 397
+line_end: 148
+line_start: 148
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Violet turned her starry gaze toward Geralt as he reached the island. She
-  extended a hand that was both there and not. When she touched his chest, he felt
-  not pressure, but a conceptual alignment—his heartbeat synced with the deep, slow
-  pulse of the planet.
+  entity_type: CHR
+raw_quote: Year 3. Zephyr became a regular visitor, though never a resident. He and
+  Mika would spend hours in the archive, her writing, him offering corrections that
+  felt less like instruction and more like reminders. "The word for 'binding' has
+  a secondary resonance for 'healing,' but only if your heart- tone is in the minor
+  key," he'd say, and she would nod, scribbling in the margin. Geralt learned by osmosis,
+  the concepts weaving into his understanding of the dragon armor's power.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_047_mika.md
 status: captured
 supersedes: null

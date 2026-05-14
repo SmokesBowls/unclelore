@@ -2,20 +2,31 @@ audit_only: true
 buffer_id: STB-20260513-1571
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 53
-line_start: 53
+line_end: 67
+line_start: 67
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'Lyra stumbled, rig sputtering. "Resonance overload! Gear’s failing!" Her
-  own reflection showed her hands decayed, bones protruding—a healer’s failure made
-  flesh. The Luminaire pulsed. Not a beacon. A predator. It sensed Geralt’s proximity.
-  The lake boiled. Energy tendrils lashed, wrapping his legs. Zaron roared within
-  him, a sound swallowed by static. Mika fought beside him, shieldless, lance spearing
-  eel-things. Torren dragged Halvar from the water, both convulsing. Then came the
-  voice—not sound, but thought etching bone:'
+  entity_type: CHR
+raw_quote: Geralt straightened on the disc of mist. His voice cut through the harmonic
+  hum, sharp with conviction. "It speaks of survival. Of defiance against entropy.
+  Against *Xal'Zirith*." He projected the name, letting the Harbinger’s psychic stain
+  resonate faintly through his applicator – a discordant counterpoint to the Giantsong.
+  Althurion recoiled microscopically, a ripple passing through his cloud-wisp form.
+  **"The Devourer’s stain..."** The harmonics deepened, vibrating with grim recognition.
+  **"It festers across the skein."** He studied Geralt anew, the pale eyes narrowing.
+  **"You wield stolen fire against the Devourer’s shadow?"** The question hung, heavy
+  with implication. Geralt met his gaze unflinchingly. "I wield it *because* of the
+  shadow. To pull back what was taken." He gestured northward, towards the unseen
+  spire’s pull. "The Spire holds answers locked away. Answers the Devourer fears."
+  Althurion was silent for a long moment. The mist-platforms solidified further beneath
+  their feet. The crushing pressure eased fractionally, replaced by intense, humming
+  focus. **"Harmony against discord,"** the harmonics resonated, softer now. **"A
+  worthy trial. But understanding…"** The Giant’s gaze swept over them both, lingering
+  on Jorik’s tense posture, Geralt’s cracked armor. **"...must be earned."** He raised
+  a hand. The path ahead shimmered, revealing not rock, but swirling clouds forming
+  a treacherous bridge deeper into the Aetherhold. The first test awaited.
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
 status: captured
 supersedes: null

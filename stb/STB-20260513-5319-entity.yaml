@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-5319
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 147
+line_start: 147
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale looked at the two giants—the mountain and the storm, partners who
+  had learned to trust each other enough to fight. They were learning, too. Not just
+  to build walls, but to be together. To let friction shape them into something stronger.
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_118_the_constant_and_friction_of_becoming.txt
+status: captured
+supersedes: null

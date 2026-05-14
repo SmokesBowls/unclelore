@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2257
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 601
-line_start: 601
+line_end: 95
+line_start: 95
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Oreck stopped, looking at Geralt. “How many can we hit? Two men, against
-  fortified positions, during a multi-front war, with the Federation and possibly
-  ancient machine-gods watching?”
+  entity_type: CHR
+raw_quote: Geralt tried reason. Tried diplomacy. Tried explaining the war, the sacrifices,
+  the peace earned.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
+source_file: raw/chapters/book_09_bureaucratic_debt_048_the_ledger_born.md
 status: captured
 supersedes: null

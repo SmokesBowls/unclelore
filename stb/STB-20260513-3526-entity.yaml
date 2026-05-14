@@ -2,17 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-3526
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 13
-line_start: 13
+line_end: 129
+line_start: 129
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: The Dragon Mail responded to his words with a subtle tremor, plates clicking
-  together in what Tran had come to recognize as its anxiety pattern. Since gaining
-  the Green Fragment, the armor had become increasingly expressive, its consciousness
-  growing more complex with each addition.
+  entity_type: CHR
+raw_quote: Tran considered their options carefully. The fragments—pieces of an ancient
+  guardian—were his responsibility, but so was Isla's safety. And if Mr. GPT held
+  knowledge about the Star Needle's connection to vril magic and the Aeon Keepers,
+  that could prove vital to understanding his own Crimson Blood.
 signal_type: entity
-source_file: raw/chapters/book_17_ancestral_debt_089_the_white_mirror.md
+source_file: raw/chapters/book_16_fragmented_beginning_084_earth_giants_and_diverging_paths.md
 status: captured
 supersedes: null

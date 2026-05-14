@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-5002
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 394
+line_start: 394
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale felt the word land in his chest. Guarding. Not resisting. Not withholding
+  out of exhaustion. Actively keeping something in—or out.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_115_the_shape_of_asking.txt
+status: captured
+supersedes: null

@@ -2,16 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-0918
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 853
-line_start: 853
+line_end: 229
+line_start: 229
 parsed_payload:
   confidence: medium
   entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: '"Then we begin training tomorrow. Teaching combat. Organizing supply lines.
-  Preparing for campaigns that will test everything we''ve built. The first camp liberation
-  will be crucible—succeed, and others will join us. Fail, and we prove the Anunnaki
-  correct that resistance is futile."'
+  entity_type: FAC
+raw_quote: '"The Nehereti said it predates Anunnaki arrival. Perhaps even predates
+  human civilization. Tiamat''s children, maybe? Beings who existed before the shattering?"'
 signal_type: entity
 source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured

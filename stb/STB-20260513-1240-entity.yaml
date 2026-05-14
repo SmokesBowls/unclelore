@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-1240
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 1010
-line_start: 1010
+line_end: 319
+line_start: 319
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt reached piloting interface—placing armored hands against systems
-  designed for Anunnaki physiology, feeling the Applicator extend through contact
-  to strengthen control that was systematically degrading as crew worked to reclaim
-  their vessel.
+  entity_type: CHR
+raw_quote: The Five formed constellation around Geralt—protective formation maintained
+  through trauma and loyalty and recognition that some burdens required sharing even
+  when sharing didn't reduce weight.
 signal_type: entity
 source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured

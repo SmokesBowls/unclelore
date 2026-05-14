@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-4079
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 314
+line_start: 314
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: '"Yes." Enlil looked at him. "You feel it too. The connection between the
+  needle and the Ma''at. It should not exist. The vrill and the graviton are opposites.
+  Enemies. They should repel each other."'
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_108_evolution_of_the_keeper.txt
+status: captured
+supersedes: null

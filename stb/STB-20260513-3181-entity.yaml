@@ -2,20 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3181
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 13
-line_start: 13
+line_end: 135
+line_start: 135
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: The words hit him with the force of cosmic revelation. Through his connection
-  to the network, Tran could feel other consciousness stirring—ancient minds that
-  touched his briefly, awareness that bridged the gap between mortal understanding
-  and cosmic intelligence. These were not human thoughts, nor were they the alien
-  patterns he associated with Anunnaki authority. They were something that existed
-  in the spaces between, consciousness that had evolved beyond the limitations that
-  defined normal existence.
+  entity_type: CHR
+raw_quote: '"Patience," Tran told himself as he arranged for the injured figure to
+  be transported to appropriate facilities for healing and recovery. "First he needs
+  to heal. Then the real work begins."'
 signal_type: entity
-source_file: raw/chapters/book_15_legends_and_gods_079_mages_awakening.md
+source_file: raw/chapters/book_12_forged_identity_069_divergent_paths.md
 status: captured
 supersedes: null

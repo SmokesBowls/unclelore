@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-5235
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 409
+line_start: 409
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: '"The lower terrace," she said. "The vrill there is stagnant. It needs
+  to be drained. Rerouted. It''s a small death—a necessary one." Her eyes held his.
+  "I''ll need to do that work tomorrow. And I''ll need you to not be there."'
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_117_the_constant_calibration_living_as_anchor.txt
+status: captured
+supersedes: null

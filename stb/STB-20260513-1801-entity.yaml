@@ -2,15 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-1801
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 927
-line_start: 927
+line_end: 37
+line_start: 37
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Not metaphorically. The dragon scales shrieked with metal-on-metal agony
-  as Luminaire's purge energy flooded through the bond. Zaron's spirit was being incinerated
-  by the same power meant to save Geralt.
+  entity_type: CHR
+raw_quote: '"Everything''s complicated with you," Lyra muttered, but her scanner kept
+  whirring, mapping the strange harmonics bleeding from his armor. "These readings...
+  Geralt, she''s not just anchored. She''s *incomplete*. Like half a waveform searching
+  for its counterpoint."'
 signal_type: entity
 source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
 status: captured

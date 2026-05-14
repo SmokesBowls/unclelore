@@ -2,19 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3707
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 54
-line_start: 54
+line_end: 33
+line_start: 33
 parsed_payload:
   confidence: medium
   entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: But perhaps most disturbing were the Djinn Enslavers—beings of smokeless
-  fire that existed primarily as possession vectors. They moved through the Anunnaki
-  ranks like heat mirages, occasionally manifesting just long enough to whisper in
-  a soldier's ear or touch a weapon with fingers made of flame. Their true threat
-  wouldn't become apparent until the battle began, when allied forces would suddenly
-  turn on each other with no warning.
+  entity_type: FAC
+raw_quote: '"The Queen sees far. Plans long." The soldier gestured, and two others
+  moved forward with restraint devices. "You can surrender with dignity, or we can
+  demonstrate why resistance against the Anunnaki has always been futile."'
 signal_type: entity
-source_file: raw/chapters/book_19_worthy_opponents_north_102_convergence_on_mars.md
+source_file: raw/chapters/book_18_inquisition_of_yourself_094_chains_of_light.md
 status: captured
 supersedes: null

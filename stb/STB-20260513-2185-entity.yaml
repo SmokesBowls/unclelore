@@ -2,15 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2185
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 19
-line_start: 19
+line_end: 213
+line_start: 213
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The dragon armor, a dormant second skin, constricted minutely around Geralt’s
-  ribs as he approached the main door. A threat assessment he didn’t need.
+  entity_type: CHR
+raw_quote: Geralt flexed his legs, and the world sank. Or he rose. With a powerful,
+  thunderclap whoomp of displaced air, the wings beat down once, a mighty, foundational
+  stroke.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_046_not_like_this.md
 status: captured
 supersedes: null

@@ -1,0 +1,22 @@
+audit_only: true
+buffer_id: STB-20260513-0561
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 30
+line_start: 30
+parsed_payload:
+  predicate: serves
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: '"The students who will come," Torrhen continued, his massive hands becoming
+  visible currents of probability that flowed through dimensional barriers while maintaining
+  enough coherence to shape reality according to wisdom that served consciousness
+  evolution. "They will not find two separate teachers offering different perspectives
+  that must be synthesized through individual effort. They will find teaching that
+  has already achieved synthesis, wisdom that demonstrates integration, consciousness
+  that exists to serve evolution rather than individual achievement."'
+signal_type: relationship
+source_file: raw/chapters/book_04_sage_saga_022_final_calculation.md
+status: captured
+supersedes: null

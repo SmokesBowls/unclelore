@@ -2,14 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-3272
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 162
-line_start: 162
+line_end: 19
+line_start: 19
 parsed_payload:
   confidence: medium
-  entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: '"If we go," Tran said slowly, "we''ll have to pass through Ironspire again."'
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: '"Home, my Queen?" Marduk asked, his tone carrying curious interest rather
+  than challenge. The concept of the Anunnaki Queen considering any single world as
+  home defied everything he understood about her cosmic nature and galactic scope
+  of awareness.'
 signal_type: entity
-source_file: raw/chapters/book_15_legends_and_gods_080_the_whispers_between_worlds.md
+source_file: raw/chapters/book_15_legends_and_gods_078_the_queens_return.md
 status: captured
 supersedes: null

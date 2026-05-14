@@ -2,21 +2,20 @@ audit_only: true
 buffer_id: STB-20260513-2685
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 15
-line_start: 15
+line_end: 91
+line_start: 91
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The crossing point revealed itself not as a bridge or ford, but as a fracture
-  in the air—a vertical slit where the iridescent river bent upward like a ribbon
-  caught mid-flutter. Kyh stepped through first, her shadow elongating into a needle-thin
-  line before snapping back with a sound like a wet parchment tear. Geralt followed,
-  the Dragon Mail's gyroscopes whining as gravity inverted itself for three nauseating
-  heartbeats. Behind them, Kulla paused to press his barnacle-crusted palm against
-  the liquid threshold, murmuring approval at whatever harmonics he detected in its
-  molecular structure.
+  entity_type: CHR
+raw_quote: Geralt exhaled through clenched teeth. Human stamina meant nothing here.
+  This was dragon-time—a battle measured in the lifetimes of quasars. He watched Kulla
+  hurl another clay-fracture into the enemy ranks, watched Kyh weave starlight into
+  tripwires for silver serpents, watched Oreck ride his emerald mount straight into
+  the heart of the Vasthril formation with claws extended. The numbness in his chest
+  didn't fade. It deepened. Because this wasn't his war. It was theirs. And dragons,
+  when properly provoked, didn't fight battles. They wrote endings.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+source_file: raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
 status: captured
 supersedes: null

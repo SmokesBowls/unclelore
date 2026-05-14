@@ -2,24 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-0281
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 53
-line_start: 53
+line_end: 203
+line_start: 203
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: Overseer Ninurta—whose biological engineering expertise had been honed
-  across three millennia of systematic genocide on seventeen conquered worlds—observed
-  the first generation with a satisfaction that was both professional and profoundly
-  cold. His consciousness, a flickering star within the vast nebula of the Anunnaki
-  collective, processed the data streams. Each unit stood a uniform twelve feet tall,
-  their bodies a brutalist architecture of living stone. Where the Giants' stone-flesh
-  was a testament to millennia of patient, tectonic evolution—a symphony of mineral
-  deposits and fossilized history—the Gruulith were a scree-slope, a crude aggregate.
-  Their surfaces shifted between the unyielding hardness of granite and the viscous,
-  adaptive flow of magma, a direct response to threat assessment algorithms he himself
-  had encoded.
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The numbers were problematic. Not from ethical perspective—casualties were
+  merely data points—but from resource management. Reptilian replacement rates were
+  adequate, but each termination represented wasted genetic material and production
+  resources. And Igigi losses were particularly concerning given their longer maturation
+  cycles.
 signal_type: entity
-source_file: raw/chapters/book_03_the_reckoning_010_shadow_returns_second_coming.md
+source_file: raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
 status: captured
 supersedes: null

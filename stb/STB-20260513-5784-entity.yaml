@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-5784
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 203
+line_start: 203
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: The Nephoretti gathered at the ring's edge. Their voices rose—not in the
+  work-songs of the city, but in something older. A weaving of vrill that had been
+  learned in the grey, in the long centuries of the First Shadow, when survival depended
+  on making the stone remember it was alive. The vrill pooled beneath their song,
+  gold-blue and patient, waiting to be given shape.
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_124_the_last_threshold_release_of_the_constant.txt
+status: captured
+supersedes: null

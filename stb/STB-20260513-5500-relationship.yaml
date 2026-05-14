@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5500
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 439
+line_start: 439
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: Vale thought of the first point. The moment he had stepped out of the center,
+  become part of the circle instead of the anchor. It had been hard—harder than he
+  had expected. Letting go of the need to be the reference everything oriented toward.
+signal_type: relationship
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_119_resonance_of_the_first_point.txt
+status: captured
+supersedes: null

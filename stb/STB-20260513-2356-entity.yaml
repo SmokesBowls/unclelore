@@ -2,14 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2356
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 182
-line_start: 182
+line_end: 533
+line_start: 533
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: “We do,” Geralt said.
+  entity_type: CHR
+raw_quote: Geralt sat on the island’s dark rock, head in his hands. Oreck stood guard,
+  his gaze sweeping the valley entrance, but the true threat was no longer external.
+  It was unfolding inside Geralt’s skull.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_051_arrival_in_fire.md
+source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
 status: captured
 supersedes: null

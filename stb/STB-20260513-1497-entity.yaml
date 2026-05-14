@@ -2,20 +2,26 @@ audit_only: true
 buffer_id: STB-20260513-1497
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 87
-line_start: 87
+line_end: 75
+line_start: 75
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: They descended. The stairs were impossibly smooth, cold beneath their boots,
-  each step echoing faintly into the abyss. Around them, the Akashic Records unfolded.
-  Not as dusty archives, but as living starscapes – constellations shifting into faces,
-  battles, moments frozen in time. Nebulae swirled into equations, galaxies condensed
-  into whispered secrets. The air hummed with the weight of all existence, pressing
-  against Geralt’s senses. Jorik gasped softly, stumbling as a phantom wave crashed
-  silently beside them. "It's... everything," he breathed, overwhelmed.
+  entity_type: CHR
+raw_quote: Geralt stepped onto the first temporal shard – the warship deck. Instantly,
+  the roar of battle assaulted him, phantom flames licking at his armor. He anchored
+  fiercely, humming his tripartite tone. The illusion wavered, solidifying the deck
+  beneath him. He leapt to the next shard – the petrified forest. Silence pressed
+  in, thick and suffocating. He sang louder, the applicator mapping safe paths through
+  the chroniton streams below. Each jump was a battle against temporal inertia, each
+  landing a test of will. Halfway across, a stream surged, threatening to sweep him
+  into a frozen city street. The armor flared, reinforcing his anchor point. He held,
+  gasping, then pushed forward. Mika’s face flashed before him. *Almost there.* He
+  vaulted onto the final shard before the vortex – the rain-locked street. Water hung
+  suspended mid-air. He walked through the droplets, his harmony parting the stillness.
+  The vortex loomed, its fractured light humming with terrifying power. He stood at
+  the precipice. The filing pocket awaited.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
+source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
 status: captured
 supersedes: null

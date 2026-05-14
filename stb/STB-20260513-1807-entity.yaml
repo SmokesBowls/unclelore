@@ -2,14 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-1807
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 971
-line_start: 971
+line_end: 65
+line_start: 65
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt dodged, parried, felt the Echo learning his patterns. It adapted
-  faster than he could adjust.
+  entity_type: CHR
+raw_quote: Lyra's scanner flickered wildly. She stared at the readings, then at Geralt,
+  understanding dawning. "Two-state superposition. Consciousness without vessel. That's
+  why the resonance is fragmenting."
 signal_type: entity
 source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
 status: captured

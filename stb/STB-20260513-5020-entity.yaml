@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-5020
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 482
+line_start: 482
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: '"Ain''t vrill," he said. "Ain''t null. Somethin'' else. Somethin'' that
+  don''t belong to this part of the world."'
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_115_the_shape_of_asking.txt
+status: captured
+supersedes: null

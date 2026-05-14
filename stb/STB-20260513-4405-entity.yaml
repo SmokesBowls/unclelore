@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-4405
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 580
+line_start: 580
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: The sound came next. Not music. Not voice. A harmonic that vibrated in
+  his bones, in the stone beneath him, in the water at his feet. It was the sound
+  of a connection being made, of a thread being woven that had never existed before.
+  It rose and fell, and in its rhythm Vale heard the pulse of the needle, the pulse
+  of his own heart, and something else—something vast and patient that had been waiting
+  for this moment for longer than he could imagine.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_111_the_resonance_a_garden_under_shadow.txt
+status: captured
+supersedes: null

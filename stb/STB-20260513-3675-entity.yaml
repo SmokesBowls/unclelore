@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3675
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 46
-line_start: 46
+line_end: 187
+line_start: 187
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: '"Not just the fragments," Tran said, and for the first time, the armor
-  spoke with its own voice—a harmonious blend of Tran''s humanity and Zaron''s ancient
-  consciousness.'
+  entity_type: CHR
+raw_quote: Tran considered the question carefully. "Like standing at the edge of becoming,"
+  he said finally. "One more fragment, and everything changes. The armor becomes complete,
+  Zaron awakens fully, and I..."
 signal_type: entity
-source_file: raw/chapters/book_19_worthy_opponents_north_100_convergence_at_ironspire.md
+source_file: raw/chapters/book_17_ancestral_debt_089_the_white_mirror.md
 status: captured
 supersedes: null

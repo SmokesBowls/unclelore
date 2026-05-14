@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-5480
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 341
+line_start: 341
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: Enlil needed time to refine the map—to translate the resonance into something
+  the giants could follow, something Sera could use to read the vrill along the path.
+  Nammu needed time to feel the line again, to confirm that what Enlil had drawn matched
+  what the world was actually saying. The giants needed time to prepare—not for war,
+  but for a journey into territory that might not welcome them.
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_119_resonance_of_the_first_point.txt
+status: captured
+supersedes: null

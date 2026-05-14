@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3998
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 826
+line_start: 826
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The old giant stood at the base of the needle each morning, its hands pressed
+  to the stone, its eyes tracking the Igigi as they moved through the city. It did
+  not speak against them—Teryn had made her decision, and Vine respected the council's
+  authority. But it watched. Always, it watched.
+signal_type: entity
+source_file: raw/chapters/book_20_the_discordant_pulse_south_106_sky_fallen.txt
+status: captured
+supersedes: null

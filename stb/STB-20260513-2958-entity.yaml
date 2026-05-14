@@ -2,18 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-2958
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 177
-line_start: 177
+line_end: 264
+line_start: 264
 parsed_payload:
   confidence: medium
-  entity_name: Aeon Keepers
-  entity_type: UNKNOWN
-raw_quote: The description he provided revealed the existence of beings whose nature
-  transcended the normal boundaries between consciousness and energy, entities that
-  embodied principles and forces rather than simply wielding them as tools or weapons.
-  The Aeon Keepers represented possibilities for conscious development that went far
-  beyond anything represented in current human understanding.
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: As the hour when true dawn should have arrived passed unnoticed beneath
+  the unyielding shadow, Tran and Keen stood together at the edge of the camp, looking
+  out over the valley that had been their home. Smoke still rose from the ruins of
+  Sundrift, and the Star Needle pulsed with its own defiant, mysterious light against
+  the oppressive gloom.
 signal_type: entity
-source_file: raw/chapters/book_11_blood_and_legacy_065_secrets_of_the_deep.md
+source_file: raw/chapters/book_11_blood_and_legacy_060_echoes_of_the_cradle.md
 status: captured
 supersedes: null

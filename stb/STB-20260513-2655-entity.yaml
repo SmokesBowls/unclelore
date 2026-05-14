@@ -2,18 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2655
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 157
-line_start: 157
+line_end: 225
+line_start: 225
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Kyh's shadow recoiled to the treeline, her silver threads snapping taut.
-  Kulla paused mid-knead, his clay fingers suspending a lump of glowing fungi in disbelief.
-  The Five Mikas didn't acknowledge them. Their focus was absolute—helmets tipped
-  just enough to reveal the hollows where their eyes should be, each socket brimming
-  with a different aspect of the spectrum Geralt had sacrificed to stabilize timelines.
+  entity_type: CHR
+raw_quote: The Applicator withdrew, its presence in Geralt’s mind feeling scorched,
+  diminished, but intact. Command executed. Core narrative subverted. The node is…
+  quiet.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
+source_file: raw/chapters/book_09_bureaucratic_debt_055_the_anchors_forge.md
 status: captured
 supersedes: null

@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-2856
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 327
+line_start: 327
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: Violet Mika stepped forward, her cloak whispering against the floor. She
+  pressed something cold into Geralt's palm—a shard of the third ring, still humming
+  with Vaelthane's captured frequency. "For the waking," she murmured.
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+status: captured
+supersedes: null

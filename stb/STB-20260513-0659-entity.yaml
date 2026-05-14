@@ -2,17 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-0659
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 1052
-line_start: 1052
+line_end: 319
+line_start: 319
 parsed_payload:
   confidence: medium
   entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: The Nameless One and the scarred one found the Reptilian in his usual corner.
-  The compound had settled into tense quiet—everyone aware that tomorrow would bring
-  either liberation or death. The Anunnaki overseer's platform was dark, the golden
-  figure apparently retired for the night. Perfect time for final preparation.
+  entity_type: FAC
+raw_quote: The third Anunnaki—largest, eldest, radiating an authority the others deferred
+  to—spoke with tones that carried the weight of millennia.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
+source_file: raw/chapters/book_05_the_nameless_one_024_the_first_spark.md
 status: captured
 supersedes: null

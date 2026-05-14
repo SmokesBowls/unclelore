@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-3290
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 25
+line_start: 25
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: The Needle responded by expanding his awareness beyond Sundrift to encompass
+  the continental network of Star Needles and the larger cosmic infrastructure they
+  were part of. Through quantum connections that operated faster than light, he could
+  perceive the scope of what was awakening across Earth's surface.
+signal_type: relationship
+source_file: raw/chapters/book_15_legends_and_gods_079_mages_awakening.md
+status: captured
+supersedes: null

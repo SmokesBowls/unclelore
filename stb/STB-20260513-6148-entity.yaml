@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-6148
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 217
+line_start: 217
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: He reached the corridor entrance without knowing it was an entrance. The
+  young Igigi female had cleared the debris—not enough to be noticed, just enough
+  to slip through. The opening was dark. The stone around it was warm. The mason stopped.
+  His hands, which had been idle for eleven months, reached out and pressed against
+  the stone on either side of the gap.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_130_within_tolerance.txt
+status: captured
+supersedes: null

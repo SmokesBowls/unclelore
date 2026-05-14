@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-5619
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 9
+line_start: 9
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: The camp stirred around him—the quiet movements of giants preparing for
+  the day, the soft harmonics of Nephoretti maintaining their web of attention, the
+  low voices of Enlil and Nammu working together over a slate. Ordinary sounds. The
+  sounds of a group that had learned to live together at the edge of someone else's
+  territory.
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_121_aligning_the_pattern_at_the_labyrinths_threshold.txt
+status: captured
+supersedes: null

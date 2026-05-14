@@ -2,16 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-3330
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 47
-line_start: 47
+line_end: 363
+line_start: 363
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: The elder Dregan descended from the canyon rim, landing heavily before
-  Tran. Other Dregans followed, forming a circle around him. Their postures were different
-  now – no longer threatening but curious, almost reverent.
+  entity_type: CHR
+raw_quote: '"It has to be," Tran replied, his understanding of cosmic legal frameworks
+  providing context for why diplomatic approaches were essential. "Because the alternative
+  is open conflict with conventional forces that have significant military capabilities.
+  And because Queen Eduhauana is monitoring all of this, waiting to see how humanity
+  responds to awakening magical infrastructure."'
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
+source_file: raw/chapters/book_15_legends_and_gods_079_mages_awakening.md
 status: captured
 supersedes: null

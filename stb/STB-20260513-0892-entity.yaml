@@ -2,17 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-0892
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 693
-line_start: 693
+line_end: 141
+line_start: 141
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The journey back through the ruins was slow—not from physical limitation
-  but from necessary caution. Each step required negotiation between Geralt's intention,
-  Zaron's animation, and the Applicator's technical mediation. Three consciousnesses
-  learning to function as unified system through trial, error, and occasional collision
-  with architectural features.
+  entity_name: Aeon Keepers
+  entity_type: FAC
+raw_quote: '"Tell me about them. The Nehereti. The Aeon Keepers. The beings who gave
+  you speech and now offer armor."'
 signal_type: entity
 source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured

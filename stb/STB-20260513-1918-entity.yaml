@@ -2,15 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-1918
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 205
-line_start: 205
+line_end: 1111
+line_start: 1111
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"Geralt, they are dying too fast," Luminaire’s voice was a plea in his
-  mind. He was underground, in the searing dark, but he felt it.'
+  entity_type: CHR
+raw_quote: Geralt's consciousness slammed back into his body.
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_043_the_badlands_crucible.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
 status: captured
 supersedes: null

@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-4966
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 240
+line_start: 240
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: She placed her palm on the stone. The vrill pooled—not from her song, but
+  from her presence. The stone responded to her the way it responded to Zephyr. Not
+  because she commanded it. Because she recognized it.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_115_the_shape_of_asking.txt
+status: captured
+supersedes: null

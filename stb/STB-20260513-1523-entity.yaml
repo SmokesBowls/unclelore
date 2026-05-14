@@ -2,22 +2,23 @@ audit_only: true
 buffer_id: STB-20260513-1523
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 17
-line_start: 17
+line_end: 153
+line_start: 153
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"Find Jorik," Geralt commanded, his voice cutting through the archives''
-  low hum. Oreck’s head tilted fractionally, the faint green arrows on his greaves
-  instantly shifting direction, pointing unerringly towards the upper corridors where
-  the salvaged legionnaires gathered. "Integrate him. He’s an archer. A fine one.
-  Find him a place amongst the men." A low, rumbling grunt was Oreck’s only reply,
-  but Geralt understood. *It will be done.* The reptilian warrior turned with surprising
-  silence for his bulk, the green pathfinder light on his armor flaring briefly as
-  he vanished back into the labyrinthine stacks, following the unseen trail Geralt
-  had laid out. Efficiency. Loyalty. Amplified.'
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: 'Days blurred into a punishing rhythm: march at dawn and dusk, find shade
+  during the furnace hours, conserve water like liquid gold. He skirted the skeletal
+  remains of long-dead settlements – not human, judging by the cyclopean stone blocks
+  half-buried in the dunes. Anunnaki? Pre-Collapse? The applicator offered fragmented
+  spectral analysis: *Organic residue consistent with mass cellular disruption… Chroniton
+  decay signature: anomalous, ancient.* He felt the echo then, a phantom pressure
+  against his mind – not the Nexus’s chaos, but a profound, silent *grief* embedded
+  in the very sand. It resonated with something buried deep within the dragon armor’s
+  memory core, a flicker of recognition that made Zaron’s spirit stir uneasily. *This
+  place remembers,* the armor seemed to whisper. *It remembers the fall.*'
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_037_the_circle_of_progress.md
+source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
 status: captured
 supersedes: null

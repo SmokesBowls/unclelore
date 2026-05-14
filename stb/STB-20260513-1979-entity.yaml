@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-1979
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 225
+line_start: 225
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: Geralt led the sprint to the Needle’s entrance, a dark archway at the base.
+  Igigi defenders converged, but Jorik’s arrows and Briar’s forest-craft thinned them.
+  Kael fell, a energy bolt through his chest. Lyra dragged him behind cover, but his
+  eyes were already empty.
+signal_type: entity
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_042_the_verdant_crossing.md
+status: captured
+supersedes: null

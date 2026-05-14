@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5681
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 51
+line_start: 51
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: 'Vale felt it in his chest—a tension that had not been present in the green
+  layer. The alignment they had built was still there. But it was being questioned.
+  Probed. The labyrinth was asking each of them: What do you bring? And can you hold
+  it when the others cannot help you?'
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_122_unravealing.txt
+status: captured
+supersedes: null

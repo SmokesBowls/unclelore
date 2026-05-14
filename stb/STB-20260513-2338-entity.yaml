@@ -2,17 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-2338
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 64
-line_start: 64
+line_end: 331
+line_start: 331
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt and Oreck joined the line. Oreck's cleaver met Anunnaki alloy with
-  showers of sparks. Geralt's armor tanked searing energy blasts, the plates glowing
-  cherry-red. They fought alongside aliens, a coordinated pocket of chaos in a sea
-  of madness. It was ugly, efficient, and desperate.
+  entity_type: CHR
+raw_quote: Oreck didn’t hesitate. He threw a smoke-charge from his belt, grabbed Geralt,
+  and dove off the canyon trail into the raging river below as the false Emissary’s
+  hand extended, not to grab, but to serve papers of foreclosure that would have unmade
+  them from history.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_051_arrival_in_fire.md
+source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
 status: captured
 supersedes: null

@@ -2,20 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-2603
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 197
-line_start: 197
+line_end: 160
+line_start: 160
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt clung to the dragon’s spines, his body numb from the Wise Ones’
-  dismissal. The obstacles were behind them, yes, but so was the hope of an answer.
-  The Dragon Mail’s enchantments flickered weakly against his skin, its borrowed divinity
-  fraying at the edges like a banner left too long in the wind. Kyh’s shadow-form
-  hovered close, her edges still flickering with stolen photons, while Oreck’s growl
-  reverberated through the vacuum, a soundless snarl of frustration. Kulla, ever pragmatic,
-  had already begun patching his cracks with regolith scraped from Pyrocast’s scales.
+  entity_type: CHR
+raw_quote: The lesson was over. The Nexus faded, returning him to a simple chamber
+  of stone. Geralt stood, his body trembling not with fatigue, but with the metaphysical
+  weight now settled upon him. He was not a timewalker. He was a timeweigher. And
+  his next step was onto the most precarious scales of all.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
+source_file: raw/chapters/book_09_bureaucratic_debt_054_tue_lunar_spire.md
 status: captured
 supersedes: null

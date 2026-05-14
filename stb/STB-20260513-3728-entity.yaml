@@ -2,18 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3728
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 166
-line_start: 166
+line_end: 54
+line_start: 54
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: It was brilliant tactical thinking. The essences integrated during the
-  Nephilim ritual created bonds that transcended physical senses. Giants felt each
-  other's positions through their elemental connections. Humans sensed allies through
-  shared magical resonances. The Igigi calculated probability clouds that mapped friendly
-  positions even without visual confirmation.
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: '**The Path of Separation**: This version showed Tran and the armor working
+  in perfect coordination but remaining distinct entities. Powerful allies who could
+  join or part as needed, never truly unified but never in conflict.'
 signal_type: entity
-source_file: raw/chapters/book_19_worthy_opponents_north_102_convergence_on_mars.md
+source_file: raw/chapters/book_18_inquisition_of_yourself_096_violet_convergence.md
 status: captured
 supersedes: null

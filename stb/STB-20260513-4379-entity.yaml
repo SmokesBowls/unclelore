@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-4379
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 353
+line_start: 353
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: The survivors moved. Nephoretti carried children on their shoulders. Igigi
+  calculated paths through the rising water. Grove giants lifted the wounded. Swamp
+  giants, who had carried the null for millennia, found their bodies buoyant in the
+  flood.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_111_the_resonance_a_garden_under_shadow.txt
+status: captured
+supersedes: null

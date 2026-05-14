@@ -2,17 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2393
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 139
-line_start: 139
+line_end: 156
+line_start: 156
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Through Geralt, Luminaire’s voice resonated in the chamber, layered with
-  the harmonic signature of an Architect. “I am Luminaire, Prime Architect of the
-  Spire Network. I invoke foundational authority to review and, if necessary, revise
-  the governance protocols of Spire-9.”
+  entity_type: CHR
+raw_quote: Geralt landed, setting Oreck down. He looked at Vek’tar, then at the sky
+  filling with enemies. “Do it, Luminaire.”
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_052_entry_without_standing.md
+source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
 status: captured
 supersedes: null

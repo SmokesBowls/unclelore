@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-4344
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 1893
+line_start: 1893
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The needle's territory and the Ma'at 's territory were not separate anymore.
+  Shelters had been built in the space between them, connected by tunnels that ran
+  beneath the frozen ground. The null-fire glowed in every hearth. The songs of the
+  Nephoretti were sung by giants. The maps of the Igigi were carried by those who
+  had never traveled.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_110_the_bleeding_convergance.txt
+status: captured
+supersedes: null

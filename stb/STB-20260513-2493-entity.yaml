@@ -2,17 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-2493
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 87
-line_start: 87
+line_end: 97
+line_start: 97
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Her good eye scanned him, seeing past the armor, the Applicator's spark,
-  the human fatigue. "You do not need more power, Geralt. You are a walking lightning
-  rod for power. You need discipline. Or you will become a storm that destroys what
-  you mean to save."
+  entity_type: CHR
+raw_quote: “Oreck, no!” Geralt shouted.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_054_tue_lunar_spire.md
+source_file: raw/chapters/book_09_bureaucratic_debt_052_entry_without_standing.md
 status: captured
 supersedes: null

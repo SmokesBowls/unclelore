@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-5453
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 189
+line_start: 189
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale stood in his place—not the center, but part of the circle. Feeling
+  the resonance move through him without binding to him. The constant that the world
+  could rest against without being forced toward.
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_119_resonance_of_the_first_point.txt
+status: captured
+supersedes: null

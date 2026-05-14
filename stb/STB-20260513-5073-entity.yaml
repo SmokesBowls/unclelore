@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-5073
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 129
+line_start: 129
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: '"Vale." She could barely speak. "The town. They came from the cliffs.
+  Giants we''ve never seen. They hit the eastern terrace. The wall—"'
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_116_keepers_recognition.txt
+status: captured
+supersedes: null

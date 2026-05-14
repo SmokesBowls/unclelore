@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-5097
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 240
+line_start: 240
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale did not slow. He crossed the terrace in long strides, the needle's
+  pulse a stuttering thread in his chest, Luminaire's warmth a distant flicker. The
+  distortion was worse here—the vrill in the channels ran backward in places, pooling
+  against its natural flow. The air itself felt thin, as if something was pulling
+  the resonance out of the world.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_116_keepers_recognition.txt
+status: captured
+supersedes: null

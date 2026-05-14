@@ -2,15 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3372
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 162
-line_start: 162
+line_end: 118
+line_start: 118
 parsed_payload:
   confidence: medium
-  entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: '"The core," Tran repeated, focusing on what Thang had said. "How do we
-  reach it?"'
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: '"Ancient," Violet Mika replied, their star-filled eyes twinkling. "Powerful.
+  A relic that has remained hidden since the time before the Anunnaki walked this
+  world."'
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
+source_file: raw/chapters/book_15_legends_and_gods_080_the_whispers_between_worlds.md
 status: captured
 supersedes: null

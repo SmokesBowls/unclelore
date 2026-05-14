@@ -2,14 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-2255
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 582
-line_start: 582
+line_end: 81
+line_start: 81
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt’s blood ran cold. “The Anunnaki? They’re watching this?”
+  entity_type: CHR
+raw_quote: Geralt landed between Karvex and the next building—a granary.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
+source_file: raw/chapters/book_09_bureaucratic_debt_048_the_ledger_born.md
 status: captured
 supersedes: null

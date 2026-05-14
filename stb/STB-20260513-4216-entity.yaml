@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-4216
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 1034
+line_start: 1034
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: In the space between one breath and the next, Vale became not a reference
+  point but a conduit — a channel through which the system could resolve every question
+  it had been storing for centuries. The calibration pulses that had been building,
+  accelerating, testing — they all arrived at once.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_109_the_thread_and_cage.txt
+status: captured
+supersedes: null

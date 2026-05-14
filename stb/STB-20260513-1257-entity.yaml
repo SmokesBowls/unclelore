@@ -2,17 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-1257
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 16
-line_start: 16
+line_end: 512
+line_start: 512
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: But Zephyr had felt something else in those cosmic frequencies—something
-  familiar. A resonance he'd encountered before, decades ago in a war that had reshaped
-  continents. Geralt's signature, faint but unmistakable. And where Geralt went, chaos
-  followed.
+  entity_type: CHR
+raw_quote: Geralt's feet carried him without conscious direction—following terrain
+  that rose gradually, that promised elevation and perspective and distance from compound
+  that couldn't understand what he'd lost.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_031_the_crash_site.md
+source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured
 supersedes: null

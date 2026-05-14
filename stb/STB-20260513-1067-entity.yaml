@@ -2,15 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-1067
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 47
-line_start: 47
+line_end: 289
+line_start: 289
 parsed_payload:
   confidence: medium
   entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: '"That assumption is shattered now. The Federation knows we exist. The
-  Anunnaki know we''re spreading. And they''re coming."'
+  entity_type: FAC
+raw_quote: '"Every bounty hunter seeking profit. Every enforcer pursuing advancement.
+  Every Anunnaki wanting revenge. They will all know exactly who you are and what
+  you''ve done."'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured
 supersedes: null

@@ -2,17 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-2802
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 103
-line_start: 103
+line_end: 63
+line_start: 63
 parsed_payload:
   confidence: medium
-  entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: I see the children grow. Flickers of extraordinary power amidst the mundane
-  human noise. I see them find each other. Keen’s cold logic, Thang’s blazing heart,
-  Rongtai’s adaptable shadows. Tran, the steady earth, and Viên, the flowing water.
-  They do not know they are being watched from the heart of their own sun.
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: Zypher laughed—a sound that made the mountain's roots tremble. "Come."
+  He vanished mid-syllable, reappearing at the tunnel's mouth with his robe still
+  settling into existence. "The chambers will resonate better with your harmonics."
+  His vortex eyes flicked to Geralt, the unspoken *and I'll dissect your fractures
+  next* hanging between them like a scalpel poised above flesh.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_059_eyes_of_eternity.md
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
 status: captured
 supersedes: null

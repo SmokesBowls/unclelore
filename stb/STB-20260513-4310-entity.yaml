@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-4310
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 842
+line_start: 842
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: Below them, on the lower terraces, the survivors huddled in shelters carved
+  from the Ma'at 's stone. Swamp giants and grove giants, Nephoretti and Igigi — pressed
+  together for warmth, their crystal veins dim, their songs reduced to whispers.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_110_the_bleeding_convergance.txt
+status: captured
+supersedes: null

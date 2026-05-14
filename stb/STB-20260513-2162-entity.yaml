@@ -2,15 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-2162
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 191
-line_start: 191
+line_end: 39
+line_start: 39
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Violet spoke a single word. It wasn’t in any language Geralt knew. It was
-  the sound of a law being repealed.
+  entity_type: CHR
+raw_quote: The sun dipped lower. The order was passed not by shout, but by a look,
+  a nod, a gesture. Two hundred and ninety turned as one, facing west. Toward the
+  last slavers. Toward the last fight. The dragon armor on Geralt’s chest felt cool,
+  inert, a dormant shell. It hadn’t changed since the crash. It was still just a breastplate
+  and a promise. As the column began to move, the shadow they cast was long, thin,
+  and bleeding into the dusk.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_048_the_ledger_born.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_046_not_like_this.md
 status: captured
 supersedes: null

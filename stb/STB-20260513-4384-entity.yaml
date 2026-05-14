@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-4384
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 409
+line_start: 409
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale was the first to leave the deep chambers. He stood on what had been
+  the eastern wall, looking out at a world that was not the one he had known. The
+  marsh was gone. Where channels had run, there was open water. Where fields had grown,
+  there were sandbars and islands of debris. The needle stood, its light steady, its
+  base lapped by waves that had not been there a decade ago.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_111_the_resonance_a_garden_under_shadow.txt
+status: captured
+supersedes: null

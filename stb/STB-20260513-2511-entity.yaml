@@ -2,14 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2511
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 275
-line_start: 275
+line_end: 267
+line_start: 267
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt gasped, back in the library, Kyh's hands on his temples.
+  entity_type: CHR
+raw_quote: It paused, and the lattice around the Cortex reconfigured, the beams of
+  light focusing not on the Cortex itself, but on Geralt.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_054_tue_lunar_spire.md
+source_file: raw/chapters/book_09_bureaucratic_debt_052_entry_without_standing.md
 status: captured
 supersedes: null

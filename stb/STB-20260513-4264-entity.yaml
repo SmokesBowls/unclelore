@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-4264
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 379
+line_start: 379
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: Some listened. Most did not. The old hatreds — grove against swamp, Nephoretti
+  against Igigi, the thousand small resentments of a thousand years of war — did not
+  disappear because the world was ending. They just became smaller. More desperate.
+  More dangerous.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_110_the_bleeding_convergance.txt
+status: captured
+supersedes: null

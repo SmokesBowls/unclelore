@@ -2,17 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2261
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 636
-line_start: 636
+line_end: 113
+line_start: 113
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Luminaire’s anger was a cold fire in Geralt’s veins. “If they control this
-  spire, they control the only stable access point to the network. They will not stabilize
-  it. They will dissect it. Weaponize the correlations. They will become the arbiters
-  of reality, and they will fail, because they understand power, not harmony.”
+  entity_type: CHR
+raw_quote: Karvex wasn’t faster. Wasn’t stronger in the raw sense. He was certain.
+  Every move Geralt made, Karvex had already accounted for in the contract’s fine
+  print.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
+source_file: raw/chapters/book_09_bureaucratic_debt_048_the_ledger_born.md
 status: captured
 supersedes: null

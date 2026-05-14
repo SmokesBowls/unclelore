@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0385
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 23
-line_start: 23
+line_end: 45
+line_start: 45
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: '"How?" Zephyr asked, the word emerging in standard Igigi mathematical
-  notation before he caught himself and translated into the crude acoustic approximations
-  that Giants used for communication.'
+  entity_name: Aeon Keepers
+  entity_type: FAC
+raw_quote: '"And ask for what?" Korrhan demanded. "Rescue? Salvation? The golden ones
+  command weapons we can''t match. Their creatures are purpose-built to destroy us.
+  What could the Aeon Keepers possibly provide that changes these mathematics?"'
 signal_type: entity
-source_file: raw/chapters/book_04_sage_saga_018_the_wandering.md
+source_file: raw/chapters/book_03_the_reckoning_012_nephilim_summoning.md
 status: captured
 supersedes: null

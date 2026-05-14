@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-5766
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 81
+line_start: 81
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: And Vale felt it—a shift in the deep rhythm of the stone, in the quality
+  of attention that surrounded him. The last enforcement layer was gone. The system
+  no longer needed to guard itself. It was stable. Self-regulating. Complete—not in
+  form, the tear-shaped absence still waited, but in function. It would hold. It would
+  trust.
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_124_the_last_threshold_release_of_the_constant.txt
+status: captured
+supersedes: null

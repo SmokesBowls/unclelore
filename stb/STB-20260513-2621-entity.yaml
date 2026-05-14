@@ -2,17 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-2621
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 25
-line_start: 25
+line_end: 13
+line_start: 13
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Kyh's shadow flared black in the sudden resonance. The sovereigns clutched
-  their ears. Only Geralt stood unmoved, his scars glowing faintly under the strain.
-  "You want enrollment?" he shouted over the din. "Then hear the *sound* of your documentation
-  burning."
+  entity_type: CHR
+raw_quote: The Akashic truth settled into Geralt’s bones like a cold, heavy ore. He
+  stood from the library floor, Kyh’s shadowy hands steadying him. The grand, cosmic
+  horror of the Queen’s work—rewriting reality itself from the corpse of a god—should
+  have crushed him. Instead, a grim, focused clarity took hold.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
+source_file: raw/chapters/book_09_bureaucratic_debt_055_the_anchors_forge.md
 status: captured
 supersedes: null

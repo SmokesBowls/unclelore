@@ -2,16 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-0388
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 63
-line_start: 63
+line_end: 51
+line_start: 51
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: '"Teaching changes both student and teacher," Torrhen said finally. "Igigi-mind
-  learning water-magic would become something new. Not Igigi. Not Giant. Something
-  that has never existed."'
+  entity_name: Aeon Keepers
+  entity_type: FAC
+raw_quote: '"We attempt communion," Torhh decided, its voice carrying authority that
+  geological patience granted. "All tribes, all factions, unified in one desperate
+  request. We touch the planetary consciousness together, speak through Torrhen''s
+  embedded teachings to the Aeon Keepers beyond the Veil, and we ask for the weapon
+  they created to defend against exactly this threat."'
 signal_type: entity
-source_file: raw/chapters/book_04_sage_saga_018_the_wandering.md
+source_file: raw/chapters/book_03_the_reckoning_012_nephilim_summoning.md
 status: captured
 supersedes: null

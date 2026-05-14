@@ -2,15 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-2483
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 15
-line_start: 15
+line_end: 393
+line_start: 393
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt leaned against the cold bulkhead, the Dragon Mail a second skin
-  of weary power. "So we cannot portal. We fly."
+  entity_type: CHR
+raw_quote: Kyh looked at his hands, still faintly trailing shadow-smoke. He looked
+  back the way they'd come, toward the war he was leaving. "I walked the Spire's paths
+  for months without knowing what they were. I used them to save a handful. Today,
+  I used them to save a world." He met Geralt's gaze, his twilight eyes finding a
+  hard resolve. "Now I know what they are. And I know what they're for. Yes. I'm with
+  you."
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_054_tue_lunar_spire.md
+source_file: raw/chapters/book_09_bureaucratic_debt_051_arrival_in_fire.md
 status: captured
 supersedes: null

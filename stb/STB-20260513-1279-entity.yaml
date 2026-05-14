@@ -2,22 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-1279
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 33
-line_start: 33
+line_end: 708
+line_start: 708
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'A collapsing support beam groaned overhead, threatening to crush a squad
-  pinned by Harbinger fire. Geralt saw the fracture point: a stress fracture propagating
-  through the beam microseconds before collapse. He focused, pouring his will into
-  reinforcing the molecular bonds at the fracture’s origin point. The applicator fought
-  him, flooding his senses with warnings. The dragon armor surged, amplifying his
-  intent. The beam groaned, held… then buckled anyway, collapsing half a second slower.
-  Not enough. The squad scrambled clear, but one soldier was clipped, his leg mangled
-  instead of crushed. A partial victory. A scream tore from Geralt’s throat – frustration
-  and agony mingling. "It’s not enough! I can’t save them all!"'
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: '"Geralt... even if you could board—which is questionable—even if you could
+  reach command systems—which is nearly impossible—even if you could override Anunnaki
+  security protocols—which requires capabilities we don''t possess—you''d still need
+  to pilot vessel you''ve never trained on, evade defensive countermeasures from crew
+  numbering thousands, and crash it precisely enough to survive impact while making
+  recovery difficult."'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_032_the_redo.md
+source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured
 supersedes: null

@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-5338
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 276
+line_start: 276
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Enlil stood at the center, his crystalline form rigid with concentration,
+  his mathematical mind clearly struggling with something Vale could not see. Anu
+  sat cross-legged on the stone, his ancient eyes closed, his breathing slow and even.
+  Nammu knelt beside a crystal vein, her palm pressed to its surface, her face soft
+  with the effort of listening rather than calculating.
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_118_the_constant_and_friction_of_becoming.txt
+status: captured
+supersedes: null

@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-6028
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 293
+line_start: 293
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: Igigi-Seven was assigned to the outer channel dredging. He worked in the
+  cold water up to his chest, his long arms dragging silt from the clogged vrill veins
+  the occupation had never learned to maintain. The water was cold. His palm, where
+  it had pressed against the iron grating, remained warm. One degree above body temperature.
+  The water did not cool it. The handlers did not measure it. The Igigi dredging beside
+  him noticed. They said nothing.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_128_one_degree_above.txt
+status: captured
+supersedes: null

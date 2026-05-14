@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-4810
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 241
+line_start: 241
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale thought of the stone. The six thousand years of sleep. The songs that
+  had fed him while the world changed around him. He had been locked up. He had been
+  killed, in a way. And he had become something that was not planned.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_113_the_edge_of_return.txt
+status: captured
+supersedes: null

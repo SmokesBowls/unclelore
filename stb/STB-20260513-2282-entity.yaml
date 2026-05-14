@@ -2,15 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2282
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 124
-line_start: 124
+line_end: 304
+line_start: 304
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: A sudden, searing harmonic dissonance shrieked through Geralt’s mind, emanating
-  from Luminaire. It was pure alarm.
+  entity_type: CHR
+raw_quote: Geralt stood alone in the courtyard, the broken chain-links of Karvex crumbling
+  to dust at his feet.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
+source_file: raw/chapters/book_09_bureaucratic_debt_048_the_ledger_born.md
 status: captured
 supersedes: null

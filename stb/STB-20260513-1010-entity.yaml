@@ -2,15 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-1010
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 523
-line_start: 523
+line_end: 17
+line_start: 17
 parsed_payload:
   confidence: medium
   entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: '"We''re going to teach them otherwise. We''re going to demonstrate that
-  what happened at our compound wasn''t miracle—it was choice. Pattern that can be
-  replicated. Movement that spreads faster than Anunnaki can respond."'
+  entity_type: FAC
+raw_quote: '"It''s been four weeks," the reptilian said quietly, breaking silence
+  that had stretched for nearly an hour. "Standard Anunnaki protocol for anomaly assessment
+  and response is thirty days. Sometimes less if the threat is deemed severe enough."'
 signal_type: entity
 source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured

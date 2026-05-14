@@ -2,17 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-2028
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 350
-line_start: 350
+line_end: 279
+line_start: 279
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt, guided by Zaron’s predatory instinct and Luminaire’s pinpoint calculation,
-  did not “strike.” He simply reappeared inside the noise, his blade already moving
-  on a vector the noise had hidden. The true attack was a silent harmonic, a single
-  clean note in the symphony of lies.
+  entity_type: CHR
+raw_quote: There was no time for mercy. They showed none. Jorik’s first arrow took
+  one through the throat. His hand shook as he fired the second. Geralt moved like
+  a shadow, his blade a silver flash, cutting them down with efficient, soul-crushing
+  strokes. Each kill felt like murder. Each was a comrade lost twice over.
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_045_the_hub_falls.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_043_the_badlands_crucible.md
 status: captured
 supersedes: null

@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3977
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 426
+line_start: 426
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: '"Friends?" Elara looked at the three figures, at their elongated heads
+  and luminous skin, at the fear in their eyes. They were not Nephoretti. They were
+  not giants. But they were alive, and they were prisoners, and somewhere beyond the
+  cave, Renn would be coming for her.'
+signal_type: entity
+source_file: raw/chapters/book_20_the_discordant_pulse_south_106_sky_fallen.txt
+status: captured
+supersedes: null

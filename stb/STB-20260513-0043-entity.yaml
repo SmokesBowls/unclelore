@@ -2,20 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-0043
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 105
-line_start: 105
+line_end: 144
+line_start: 144
 parsed_payload:
   confidence: medium
-  entity_name: Nephoretti
-  entity_type: UNKNOWN
-raw_quote: Within the span of perhaps an hour—time felt strange now, linear and irreversible
-  rather than the fluid probability-space of ethereal existence—approximately two
-  hundred Nephoretti had assembled into something resembling coordination. The others
-  remained scattered across the landscape, visible as rising steam and shimmer-distortions
-  where vrill-energy still dissipated into atmosphere. But two hundred was enough.
-  Enough for initial assessment. Enough to begin understanding the situation they
-  had fallen into.
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: It flowed downward through dimensional strata, picking up complexity as
+  it went. The vrill itself—that fundamental magical energy that connected all realms—shaped
+  around the consciousness-pattern like water filling a mold. The thought began to
+  accumulate substance, drawing potential from the quantum foam, crystallizing intention
+  into something approaching physical form.
 signal_type: entity
-source_file: raw/chapters/book_01_book_of_genesis_002_molten_descent.md
+source_file: raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
 status: captured
 supersedes: null

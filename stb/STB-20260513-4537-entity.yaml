@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-4537
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 325
+line_start: 325
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: They crossed a stretch of black sand, the sun high and white. A few birds
+  circled overhead, too distant to name. The wind was light, carrying the smell of
+  dry stone and salt. Vale stopped once to drink from the leafbowl, passed it back
+  to the Igigi, then continued. No words. No events. The Igigi's pace matched Vale's
+  now. The sandals had done their work.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_112_eastern_system.txt
+status: captured
+supersedes: null

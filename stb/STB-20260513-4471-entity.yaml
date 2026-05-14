@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-4471
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 245
+line_start: 245
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: The bottom rose. Mud, then stone, then wet sand. Vale dragged the body
+  out of the water, up the slope, away from the tide. His legs gave out when he reached
+  dry ground. He knelt in the sand, breathing hard, his hands still gripping the Igigi's
+  robe. The body did not move. Vale turned him over—gently, carefully. The face was
+  pale, the eyes closed. The elongated skull was bare, no crystal patterns, no markings.
+  The robes were torn in places, stained with salt and something darker. He pressed
+  two fingers to the neck. A pulse. Weak, but there. Not dead.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_112_eastern_system.txt
+status: captured
+supersedes: null

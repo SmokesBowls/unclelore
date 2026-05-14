@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-5965
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 165
+line_start: 165
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: He was standing. Not on the floor. An inch above it. Then two. The void
+  anchor and the vrill thread had stopped pulling against each other. They were not
+  braided anymore. They were integrated. A single current. A single substance. His
+  blood. The island's blood. The graviton architecture that had measured him for two
+  centuries and found no shape to accept had finally recognized the shape.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_127_ember_stone.txt
+status: captured
+supersedes: null

@@ -2,17 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-1180
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 560
-line_start: 560
+line_end: 290
+line_start: 290
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt watched—feeling armor burning with fire that came from refusing
-  to accept that scale determined outcome, from recognition that creative energy mattered
-  even when entropy seemed inevitable, from desperate certainty that two hundred forty-nine
-  erased lives had to mean something more than demonstration that resistance was futile.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: Not physical. Worse. The Applicator was being torn apart at fundamental
+  level—consciousness that had evolved beyond simple control mechanism suddenly experiencing
+  what it meant to be reduced back to tool, to have autonomy stripped away by being
+  who understood Anunnaki architecture better than its creators.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
+source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
 status: captured
 supersedes: null

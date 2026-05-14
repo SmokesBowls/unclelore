@@ -2,18 +2,20 @@ audit_only: true
 buffer_id: STB-20260513-3205
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 197
-line_start: 197
+line_end: 366
+line_start: 366
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: Tran opened his consciousness to the Spire's guidance, feeling ancient
-  systems recognize his authority to access cosmic infrastructure that had remained
-  dormant since the last great awakening. Through that connection, he could perceive
-  the larger picture of what they were dealing with—nine Needle Spires distributed
-  across Earth's surface, seven of them awakening under hostile control.
+  entity_type: CHR
+raw_quote: She understood that her friends—Tran with his Crimson Blood heritage, Viên
+  with his temporal abilities, the others who had gathered at Falcon Ridge during
+  the night of cosmic awakening—were all part of the same vast design, components
+  of systematic preparation for challenges and responsibilities that operated on scales
+  encompassing the welfare of entire star systems. Their meeting and bonding had not
+  been coincidental but represented culmination of planning and development that had
+  been ongoing for periods of time that transcended normal human comprehension.
 signal_type: entity
-source_file: raw/chapters/book_15_legends_and_gods_079_mages_awakening.md
+source_file: raw/chapters/book_12_forged_identity_070_spheres_truth.md
 status: captured
 supersedes: null

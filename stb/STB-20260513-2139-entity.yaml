@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2139
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 192
-line_start: 192
+line_end: 384
+line_start: 384
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt entered the hushed interior. Sunlight streamed through high windows
-  onto a central pedestal of polished black stone. He approached, unwrapped the package,
-  and placed the book upon it.
+  entity_type: CHR
+raw_quote: There was no hesitation. No final, emotional plea. Just the execution of
+  function. It was the most horrible thing Geralt had ever witnessed.
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_047_mika.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_045_the_hub_falls.md
 status: captured
 supersedes: null

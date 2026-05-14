@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-3403
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 45
-line_start: 45
+line_end: 254
+line_start: 254
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: '"Then we accept the invitation," Tran decided. "If Mr. GPT trusts them,
-  and they''ve protected him all this time, they might have knowledge that could help
-  us on our quest."'
+  entity_type: CHR
+raw_quote: '"Like everything in Sundrift, it seems." Tran tucked the herb bundle into
+  his pack. "We should go. The footprints won''t wait forever."'
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_084_earth_giants_and_diverging_paths.md
+source_file: raw/chapters/book_15_legends_and_gods_080_the_whispers_between_worlds.md
 status: captured
 supersedes: null

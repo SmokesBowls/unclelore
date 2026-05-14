@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-3535
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 63
-line_start: 63
+line_end: 157
+line_start: 157
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: The Dragon Mail shuddered against Tran's skin, its fragments pulsing erratically.
-  Through their bond, Tran felt its fear—not of the Titanborn, but of the questions
-  he asked.
+  entity_type: CHR
+raw_quote: '"The paths are clear," Tran said finally. "Rongtai will guide Isla to
+  Mr. GPT''s sanctuary, where they''ll research the Giants and the Nephilim ritual.
+  I will continue north with Thang and Caelum to seek the Green Fragment among the
+  Nefretti."'
 signal_type: entity
-source_file: raw/chapters/book_17_ancestral_debt_089_the_white_mirror.md
+source_file: raw/chapters/book_16_fragmented_beginning_084_earth_giants_and_diverging_paths.md
 status: captured
 supersedes: null

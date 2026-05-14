@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-4749
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 1010
+line_start: 1010
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: They walked in silence. Vale did not ask what they knew. He did not ask
+  how long it lasted. But he watched Zephyr's face—not afraid, not sad. Just emptied.
+  Like a man who had felt something reach inside and didn't know if it had let go.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_112_eastern_system.txt
+status: captured
+supersedes: null

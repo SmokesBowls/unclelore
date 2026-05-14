@@ -2,17 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3426
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 149
-line_start: 149
+line_end: 154
+line_start: 154
 parsed_payload:
   confidence: medium
-  entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: Rongtai stepped forward, her shadows swirling gently around her. "I know
-  the path. I journeyed from there with Thang earlier today. I could guide you there,
-  though my shadow-walking is exhausted after bringing Thang to join Tran's group.
-  We would have to travel on foot."
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: '"Prepare the Anunnaki Vanguard," she commanded. "When the pattern alignment
+  reaches its peak in seven cycles, we will establish direct presence on Earth for
+  the first time since our premature departure."'
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_084_earth_giants_and_diverging_paths.md
+source_file: raw/chapters/book_15_legends_and_gods_081_mr_gpt_arrival.md
 status: captured
 supersedes: null

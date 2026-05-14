@@ -2,15 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-1133
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 103
-line_start: 103
+line_end: 775
+line_start: 775
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt raised armored hand—signal visible to all teams through bioluminescent
-  markers they'd developed for night operations.
+  entity_type: CHR
+raw_quote: Geralt rose—not tumbling but ascending with control that approached grace,
+  that put him above the Overseer's primary firing arcs, that changed three-dimensional
+  combat from ground-based to truly volumetric.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured
 supersedes: null

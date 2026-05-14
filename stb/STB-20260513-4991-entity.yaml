@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-4991
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 352
+line_start: 352
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale walked at the rear. He had not been asked to lead. He was not sure
+  he wanted to. The needle's pulse was steady in his chest, a warmth that faded slightly
+  with each mile they put between themselves and First Shore. Luminaire's presence
+  was distant but present—a thread, not a beat.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_115_the_shape_of_asking.txt
+status: captured
+supersedes: null

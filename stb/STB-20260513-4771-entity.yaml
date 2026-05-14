@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-4771
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 75
+line_start: 75
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale considered this. He thought of the shimmer, the pressure, the distortions
+  that had taught him to move before the ground shifted. He thought of the thread
+  that had connected him to the needle, thinner now but still there. He thought of
+  the fifty-eight days he had spent walking into the east and the thirty days he had
+  spent walking back.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_113_the_edge_of_return.txt
+status: captured
+supersedes: null

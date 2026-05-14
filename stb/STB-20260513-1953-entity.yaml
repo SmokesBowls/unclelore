@@ -2,15 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-1953
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 102
-line_start: 102
+line_end: 83
+line_start: 83
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The knowledge changed the air. It seeped from Geralt and Zaron into the
-  rest of the survivors not as a rumor, but as a shift in atmospheric pressure.
+  entity_type: CHR
+raw_quote: Mika moved past Geralt, her hands open. “What’s your name?”
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_044_the_mountains_shadow.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_042_the_verdant_crossing.md
 status: captured
 supersedes: null

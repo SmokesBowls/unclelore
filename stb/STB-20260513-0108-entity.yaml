@@ -2,19 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0108
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 160
-line_start: 160
+line_end: 44
+line_start: 44
 parsed_payload:
   confidence: medium
-  entity_name: Aeon Keepers
-  entity_type: UNKNOWN
-raw_quote: Senareth stood at the island's highest point—a peak that had been carved
-  into an observation platform overlooking the entire Garden—and felt the weight of
-  four and a half centuries pressing against their consciousness. They had existed
-  in physical form for longer than seemed possible, their Neferati body sustained
-  by vrill-connection to the Aeon Keepers who maintained the flow from dimensions
-  away.
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: They descended from the mountain in a cascade of geological force—twenty,
+  thirty, forty massive beings converging on the beaches where the Neferati had landed
+  nine days ago. Some moved in groups by color, jade-greens with jade-greens, burnt-reds
+  with burnt-reds. Others came alone, isolated by choice or circumstance.
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+source_file: raw/chapters/book_01_book_of_genesis_004_the_convergence.md
 status: captured
 supersedes: null

@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-1738
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 335
-line_start: 335
+line_end: 80
+line_start: 80
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The seizure passed. Geralt lay gasping, vision slowly clearing. Around
-  him, the Legion had stopped moving. Five hundred soldiers watching their Commander
-  reduced to this.
+  entity_type: CHR
+raw_quote: '"Worse," Geralt said, scanning the writhing canopy. Luminara traced violet
+  energy flowing *toward* the dying scouts—feeding the corruption. "They''re wounds.
+  Bleeding fear into the network."'
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_039_jungle_fever.md
 status: captured
 supersedes: null

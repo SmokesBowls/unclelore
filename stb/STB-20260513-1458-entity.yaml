@@ -2,24 +2,28 @@ audit_only: true
 buffer_id: STB-20260513-1458
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 17
-line_start: 17
+line_end: 88
+line_start: 88
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'The corridor abruptly ended at a circular chamber. Utterly bare. Utterly
-  silent. No Sage. No artifacts. Only a single, immense mirror dominating the far
-  wall. Its surface was liquid obsidian, swirling with impossible depth. Mika approached
-  cautiously. Her reflection didn''t appear. Instead, the mirror revealed a desolate
-  courtyard under a bruised sky. Five arched doorways stood open around its perimeter,
-  dark mouths leading deeper into shadow. Standing calmly in the courtyard’s center,
-  gazing directly *through* the mirror at Mika, was Zypher. His expression was unreadable,
-  a flicker of something like weary resignation in his eyes. He wasn''t trapped; he
-  was waiting. He gestured slowly towards the five open chambers. Mika knew without
-  seeing: Geralt''s five loyal followers lay within. This was the Echo''s heart –
-  a gateway, not a destination.'
+  entity_type: CHR
+raw_quote: '"Not lost," Kaelen countered sharply. "Filed elsewhere. Your act created
+  temporal eddies—safe pockets where they coalesce. Stable points. But finding them…"
+  She trailed off, gesturing towards the shifting Nexus basin. The chroniton streams
+  churned violently, reacting to the vortex''s collapse. New fracture points shimmered
+  into existence like wounds opening. "Requires navigating a destabilized Nexus. Requires
+  mastery you haven''t yet claimed." Geralt forced air into his burning lungs. The
+  dragon armor hummed faintly, a low thrum of defiance against the despair. Zaron
+  wasn''t done. Neither was he. He pushed himself upright, ignoring the agony in his
+  side. "Then I master it." His voice was raw, but steady. "Where do I start?" Kaelen
+  pointed towards a newly formed fracture pulsing sickly violet near the petrified
+  forest shard. "There. A chroniton cascade. Stabilize it before it collapses further.
+  Anchor yourself *first*. Your signature is frayed." Geralt nodded, the applicator
+  spitting static as he locked onto the violet pulse. One fracture at a time. One
+  anchor point. Until he could chart the eddies. Until he could find them all. He
+  leapt towards the violet light. The hunt had changed, but it wasn''t over.'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
+source_file: raw/chapters/book_06_the_ragnarok_034_the_250.md
 status: captured
 supersedes: null

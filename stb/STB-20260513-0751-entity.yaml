@@ -2,14 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-0751
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 358
-line_start: 358
+line_end: 1205
+line_start: 1205
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt felt his stomach drop. "I'd be stuck with it? Forever?"
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: And at the Anunnaki's platform, The Nameless One led the assault upward.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_026_dragonmail.md
+source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
 status: captured
 supersedes: null

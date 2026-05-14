@@ -2,14 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-1260
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 203
-line_start: 203
+line_end: 530
+line_start: 530
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: Not guards. Not slavers. Not Anunnaki security.
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: '*Then what do we do?* Geralt projected with exhaustion that transcended
+  physical weariness. *Abandon liberation? Accept that some slaves can''t be freed
+  because threats exist that we can''t anticipate? Let Xal''Zirith''s demonstration
+  succeed in making us too afraid to continue?*'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_031_the_crash_site.md
+source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured
 supersedes: null

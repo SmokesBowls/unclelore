@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-4972
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 266
+line_start: 266
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: Sera nodded. "We've always known. The Nephoretti. We feel it in the songs.
+  The vrill doesn't flow the way it should. It pools in some places, runs thin in
+  others. The channels are... confused. They don't remember what they were." She looked
+  at the water, grey-gold in the evening light. "The flood changed everything. The
+  freeze changed everything. The war changed everything. The stone has been trying
+  to adapt for seven thousand years, and it's exhausted."
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_115_the_shape_of_asking.txt
+status: captured
+supersedes: null

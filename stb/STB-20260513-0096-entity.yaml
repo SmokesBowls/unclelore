@@ -2,18 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0096
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 86
-line_start: 86
+line_end: 94
+line_start: 94
 parsed_payload:
   confidence: medium
-  entity_name: Neferati
-  entity_type: UNKNOWN
-raw_quote: Elyraen discovered that certain vrill-frequencies, when projected inside
-  the central chamber, created effects that felt almost medicinal. Neferati who entered
-  with minor injuries found their healing accelerated. Giants who had overextended
-  their consciousness-touch during construction work reported faster recovery of mental
-  clarity.
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: By sunset, Senareth had heard the full account from five different Nephoretti
+  who had witnessed the interaction from various distances. The story rippled through
+  the assembled community, transforming from report into revelation.
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+source_file: raw/chapters/book_01_book_of_genesis_003_first_contact.md
 status: captured
 supersedes: null

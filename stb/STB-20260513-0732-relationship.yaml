@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0732
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 683
+line_start: 683
+parsed_payload:
+  predicate: serves
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: The crystals' song faded. The chamber's light dimmed to steady glow that
+  no longer felt threatening—merely present, archive of memory and information that
+  had served its purpose.
+signal_type: relationship
+source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
+status: captured
+supersedes: null

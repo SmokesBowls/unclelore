@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5795
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 259
+line_start: 259
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: The Cliff Giants on the ridge did not move. But Vale felt their attention
+  shift—a subtle realignment, a quality of listening that had not been there before.
+  They were not ready to trust. But they were watching. And watching, he had learned,
+  was the first step toward understanding.
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_124_the_last_threshold_release_of_the_constant.txt
+status: captured
+supersedes: null

@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-4152
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 387
+line_start: 387
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: Yarrow—the same Yarrow who had been a child at Grove basin, who had sung
+  the truth she did not mean to sing—had grown into a keeper of resonance records.
+  Her voice was not the strongest among the Nephoretti, but her memory was a thing
+  of legend. She forgot nothing.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_109_the_thread_and_cage.txt
+status: captured
+supersedes: null

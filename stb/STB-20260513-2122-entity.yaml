@@ -2,15 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2122
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 51
-line_start: 51
+line_end: 299
+line_start: 299
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The path was familiar in Geralt's bones. He had walked it alone, bleeding
-  and desperate, years ago.
+  entity_type: CHR
+raw_quote: Geralt felt the cascade through his feet, a series of punches from the
+  world’s core. Time was now a visible thing, crumbling around him. He took stairs
+  three at a time, Luminaire’s voice a constant, quiet stream in his mind.
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_047_mika.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_045_the_hub_falls.md
 status: captured
 supersedes: null

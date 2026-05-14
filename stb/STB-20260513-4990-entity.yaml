@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-4990
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 350
+line_start: 350
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: 'The group was smaller than Vale had expected. Zephyr walked at the front,
+  his sandals scraping the packed ash, his eyes on the terrain ahead. Sera walked
+  beside him, her hands loose at her sides, her breathing already synced to the rhythm
+  of the land. Behind them came three giants: the swamp lead from the work bed—its
+  name, Vale had learned, was Brak—and two grove giants, the young one who had tried
+  to listen and an older female named Tessik, whose crystal patterns were faded with
+  age but whose eyes missed nothing.'
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_115_the_shape_of_asking.txt
+status: captured
+supersedes: null

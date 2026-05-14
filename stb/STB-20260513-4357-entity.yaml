@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-4357
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 2011
+line_start: 2011
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: The age that had begun with a door opening — the Ma'at 's invitation, Vale's
+  walk, the system's awakening — was ending.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_110_the_bleeding_convergance.txt
+status: captured
+supersedes: null

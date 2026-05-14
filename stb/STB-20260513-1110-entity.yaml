@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-1110
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 374
-line_start: 374
+line_end: 633
+line_start: 633
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Three consciousnesses functioning as unified system—the Applicator calculating
-  trajectory, Zaron animating response, Geralt visualizing shield that would intercept
-  strike that existed in effect before manifesting in cause.
+  entity_type: CHR
+raw_quote: '"Correction," Geralt interrupted again, allowing small smile to cross
+  his features. "Not one slave. An organized liberation force. Some of whom are already
+  inside your compound. Waiting."'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured
 supersedes: null

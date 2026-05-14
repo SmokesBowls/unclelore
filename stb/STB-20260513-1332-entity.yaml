@@ -2,23 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-1332
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 6
-line_start: 6
+line_end: 1064
+line_start: 1064
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt approached the nearest node. It pulsed erratically, casting jagged
-  shadows. He closed his eyes, reaching out with his awareness – not physically, but
-  temporally. He felt the node’s frantic vibration, a discordant screech echoing the
-  Chronohounds. He didn’t fight it. He *listened*. He let the applicator analyze its
-  chaotic pattern, the armor resonate with its raw power, and his own will sought
-  the underlying rhythm beneath the noise. Slowly, deliberately, he began to hum –
-  a low, resonant tone that vibrated in his chest. He poured his tripartite harmony
-  into the sound, weaving applicator-structure, armor-power, and architect-will into
-  a single, stabilizing frequency. The node’s erratic pulsing slowed. Its light softened
-  from jagged green to a steadier amber. One down.
+  entity_type: CHR
+raw_quote: Geralt opened eyes—or rather, became aware that eyes were open, that sensory
+  input was occurring, that existence continued despite expectations otherwise.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_034_the_250.md
+source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured
 supersedes: null

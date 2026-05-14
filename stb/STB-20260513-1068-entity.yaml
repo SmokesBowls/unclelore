@@ -2,17 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-1068
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 51
-line_start: 51
+line_end: 291
+line_start: 291
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"Not today," Geralt continued. "Probably not tomorrow. But soon. With
-  better preparation. With forces specifically deployed to reclaim what we''ve freed.
-  With authorization to use lethal force against populations they view as property
-  in rebellion."'
+  entity_type: CHR
+raw_quote: Vel'thara paused at the ship's ramp, white eyes meeting Geralt's gaze with
+  weight that transcended simple threat.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured
 supersedes: null

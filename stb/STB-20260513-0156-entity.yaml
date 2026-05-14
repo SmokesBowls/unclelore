@@ -2,17 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0156
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 128
-line_start: 128
+line_end: 144
+line_start: 144
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: The transport pod's deceleration systems engaged with brutal force, compressing
-  their elongated forms against restraint fields. Around them, other pods were descending
-  in coordinated formation—each carrying its cargo of Igigi workers, each heading
-  toward the manufacturing complex that would become their prison and home.
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: The Giants began constructing more deliberately—pyramids and obelisks positioned
+  to enhance rather than interrupt natural vrill-flows. Chambers carved to amplify
+  rather than block planetary resonance. Architecture that worked with Earth's consciousness
+  rather than imposing foreign patterns upon it.
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
 status: captured
 supersedes: null

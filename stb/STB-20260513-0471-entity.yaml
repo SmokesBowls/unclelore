@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-0471
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 47
+line_start: 47
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The Giant studied him with eyes that held depths Zephyr was beginning to
+  recognize as wisdom rather than primitive instinct. "Igigi-mind thinks in straight
+  lines. Water does not flow in straight lines. Ice does not grow in straight lines.
+  Storm does not move in straight lines. To listen to water, must learn to think like
+  water."
+signal_type: entity
+source_file: raw/chapters/book_04_sage_saga_018_the_wandering.md
+status: captured
+supersedes: null

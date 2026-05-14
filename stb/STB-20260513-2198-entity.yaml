@@ -2,18 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2198
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 89
-line_start: 89
+line_end: 313
+line_start: 313
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: When Geralt finished, Oreck was silent for a full minute. Then he laughed,
-  a short, bitter sound. “A debt. For stories.” He leaned forward, and his voice dropped
-  to a sub-audible growl the children couldn’t hear. “I buried my story with my wife
-  on a hill overlooking this canyon, Geralt. I poured it into the foundations of this
-  home. I let my children chew on its bones. It is done.”
+  entity_type: CHR
+raw_quote: Geralt launched himself at the nearest golem, using a wing-assisted jump
+  to clear its sweeping axe. He landed on its shoulder, driving his armored fist into
+  its lapis eye. The construct shattered into dust. But two more took its place.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_046_not_like_this.md
 status: captured
 supersedes: null

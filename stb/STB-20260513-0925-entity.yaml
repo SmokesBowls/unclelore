@@ -2,18 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-0925
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 13
-line_start: 13
+line_end: 281
+line_start: 281
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt stood watch on the compound's eastern boundary—the direction from
-  which threats had historically arrived, the approach any sensible military force
-  would use given terrain advantages and sight lines. The twin suns were descending,
-  painting the desert in shades that made distance difficult to judge, shadows stretching
-  long enough to hide entire armies if positioned correctly.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: Her body was enormous—serpentine length that coiled through the chamber
+  like living architecture, metallic scales gleaming bronze and obsidian, each plate
+  covered in engraved Anunnaki glyphs that shifted and realigned like living script.
+  Beneath each scale, blue-white light pulsed—not blood but divine circuitry, binding
+  her spirit to will of creators long departed.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured
 supersedes: null

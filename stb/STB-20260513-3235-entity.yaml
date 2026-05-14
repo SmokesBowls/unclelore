@@ -2,17 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-3235
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 481
-line_start: 481
+line_end: 7
+line_start: 7
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: '"Which means they either have access to ancient knowledge they shouldn''t
-  possess," Isla concluded grimly, processing implications that challenged their understanding
-  of how magical infrastructure could be accessed, "or they''re being guided by someone
-  who understands Anunnaki technology."'
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: Past-Viên remembered standing in those same caverns with Keen and Tran,
+  feeling the weight of stone and soil pressing down from above, the reassuring solidity
+  of earth beneath his feet. The memory carried the scent of damp limestone and the
+  echo of dripping water, each sensation as vivid as if he were experiencing it for
+  the first time.
 signal_type: entity
-source_file: raw/chapters/book_15_legends_and_gods_079_mages_awakening.md
+source_file: raw/chapters/book_14_lessons_of_inheritance_072_flow_between_moments.md
 status: captured
 supersedes: null

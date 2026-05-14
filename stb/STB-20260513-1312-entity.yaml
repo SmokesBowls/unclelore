@@ -2,15 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-1312
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 236
-line_start: 236
+line_end: 918
+line_start: 918
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'She could feel it in her bones: Geralt was near. They just had to find
-  him among the wreckage of whatever catastrophe had brought that ship down.'
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: Inside—command center showing Anunnaki crew managing systems that controlled
+  vessel the size of small city, that coordinated occupation of planet below, that
+  represented authority and capability and assumption that cosmic order was absolute.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_033_the_march.md
+source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured
 supersedes: null

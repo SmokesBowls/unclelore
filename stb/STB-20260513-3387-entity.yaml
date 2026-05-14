@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-3387
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 207
-line_start: 207
+line_end: 198
+line_start: 198
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: '"Not entirely," Tran admitted honestly. "I know it''s powerful, and I
-  know the fragments are scattered. But the full truth of it... no, I don''t claim
-  to understand."'
+  entity_type: CHR
+raw_quote: '"And a plan," Tran added, thinking of Lord Stormhelm''s watchful eyes,
+  the Ironguard''s patrols, the Silver Flame''s suspicious priests.'
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
+source_file: raw/chapters/book_15_legends_and_gods_080_the_whispers_between_worlds.md
 status: captured
 supersedes: null

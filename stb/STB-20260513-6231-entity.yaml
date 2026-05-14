@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-6231
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 267
+line_start: 267
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The tile was still there. The rind was still there. The cloth was still
+  wrapped around the Igigi's hand. The corridor held its memories without acting on
+  them prematurely. The holding was a kind of patience, and the patience was a kind
+  of wisdom.
+signal_type: entity
+source_file: raw/chapters/book_26_the_seam_long_dark_south_134_phase_drift.txt
+status: captured
+supersedes: null

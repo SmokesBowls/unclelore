@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-4288
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 657
+line_start: 657
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: It did not destroy the settlements. It absorbed them. The shelters became
+  reefs. The stores became sediment. The bodies became part of the glowing sea, their
+  crystal veins flickering beneath the surface like stars in a dark sky.
+signal_type: relationship
+source_file: raw/chapters/book_21_needle_and_thread_south_110_the_bleeding_convergance.txt
+status: captured
+supersedes: null

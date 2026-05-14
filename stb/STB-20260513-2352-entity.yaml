@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2352
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 156
-line_start: 156
+line_end: 493
+line_start: 493
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: She speaks true, whispered Blue, her presence a cool tremor in Geralt’s
-  mind. The water here is not wet. It is absence given shape. The crystal is the cork
-  in a bottle of freezing dark.
+  entity_type: CHR
+raw_quote: The fully manifest Luminaire did not speak through Geralt. She spoke through
+  the Spire, and her voice was the voice of the world itself—stone, wind, water, and
+  star.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_051_arrival_in_fire.md
+source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
 status: captured
 supersedes: null

@@ -2,17 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0322
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 127
-line_start: 127
+line_end: 67
+line_start: 67
 parsed_payload:
   confidence: medium
-  entity_name: Aeon Keepers
-  entity_type: UNKNOWN
-raw_quote: Then prepare, the Aeon Keepers instructed. The ritual requires seven solar
-  cycles to gather the necessary elemental forces. Use that time to strengthen your
-  bonds. To share your fears. To acknowledge the lies you've been carrying and choose
-  connection despite them.
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: '"The Neferati taught us fragments of this," Torhh continued, its ocean-deep
+  eyes distant with memory. "Before the sky went dark and the golden ones descended.
+  They called it communion—listening to what stone wants to be, then helping it remember."'
 signal_type: entity
-source_file: raw/chapters/book_03_the_reckoning_012_nephilim_summoning.md
+source_file: raw/chapters/book_03_the_reckoning_009_stalemate_departure_the_first_coming.md
 status: captured
 supersedes: null

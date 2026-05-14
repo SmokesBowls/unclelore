@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0457
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 68
+line_start: 68
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: The word sent ripples of anticipation through the assembled war-lords.
+  Nibiru—the shadow-world, the planet-killer, the manifestation of Anunnaki technological
+  supremacy. Not merely a weapon, but a controlled celestial body designed for exactly
+  this kind of systematic punishment.
+signal_type: entity
+source_file: raw/chapters/book_04_sage_saga_017_niburu_shadow.md
+status: captured
+supersedes: null

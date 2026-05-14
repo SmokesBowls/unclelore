@@ -2,17 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-2042
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 513
-line_start: 513
+line_end: 7
+line_start: 7
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'The Presence of Absence was a physical thing. Geralt sat apart, staring
-  at the golden peak. The bond was… quiet. Zaron was there, a somber, watchful presence.
-  But where Luminaire had been was a shaped silence, an echo-chamber where only the
-  ghost of her last words lingered: “This is caring.”'
+  entity_type: CHR
+raw_quote: Geralt walked at the head of the ragged column, his eyes fixed on the distant,
+  jagged line of the Hub Mountains. Zaron limped beside him, a fresh bandage darkening
+  over his ribs. They did not speak. There was nothing to say that the weight of the
+  last few days hadn’t already carved into their bones.
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_045_the_hub_falls.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_044_the_mountains_shadow.md
 status: captured
 supersedes: null

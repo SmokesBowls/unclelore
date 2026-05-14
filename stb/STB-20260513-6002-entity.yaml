@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-6002
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 187
+line_start: 187
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: 'Inside the chamber, the vrill current dipped. The instruments registered
+  the drop: a clean, measurable curve from baseline to near-zero. The thermal reading
+  stalled. The subsonic hum that had been emanating from the stone floor since the
+  anomaly began flattened into silence.'
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_128_one_degree_above.txt
+status: captured
+supersedes: null

@@ -2,14 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-1788
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 797
-line_start: 797
+line_end: 33
+line_start: 33
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'Geralt saw it:'
+  entity_type: CHR
+raw_quote: Death loomed. Then—a spark. Not cosmic fire. Elemental. Earthborn. From
+  swirling dust—a pinprick ignored by gods and wyrms alike—four figures solidified.
+  Instant. Impossible. Youthful faces etched with ageless authority. Recognition flared
+  hot in Geralt’s chest—impossible recognition.
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_040_the_dragon_wars.md
 status: captured
 supersedes: null

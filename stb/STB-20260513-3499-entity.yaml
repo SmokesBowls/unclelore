@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-3499
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 71
-line_start: 71
+line_end: 229
+line_start: 229
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: Tran felt the armor's frustration at its limited ability to express itself.
-  Without thinking, he placed his hand over the breastplate where the crimson energy
-  pulsed strongest.
+  entity_type: CHR
+raw_quote: Taking a deep breath, Tran knelt at the edge of the Memory Pool and submerged
+  both fragments in its waters. The moment they touched the surface, the entire pool
+  began to glow – not just with bioluminescence, but with images and scenes that formed
+  and dissolved like living memories.
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_087_the_breath_of_life.md
+source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
 status: captured
 supersedes: null

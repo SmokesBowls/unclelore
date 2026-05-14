@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5946
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 47
+line_start: 47
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: The Nephoretti learned to sing counter-frequencies, dampening the screams
+  before they reached the walls. Mora, ancient and nearly voiceless, taught three
+  generations of singers how to weave sound into a shield. The dregans did not stop
+  screaming. But the town learned to endure.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_127_ember_stone.txt
+status: captured
+supersedes: null

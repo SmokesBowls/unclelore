@@ -1,0 +1,24 @@
+audit_only: true
+buffer_id: STB-20260513-5926
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 178
+line_start: 178
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: For six thousand of those years, a frequency had fallen from above. It
+  had not been harmony. It had been opposition. It had struck through his collarbone
+  and carved new channels through his blood, dragging void into vrill, vrill into
+  void, until the two bled into a resonance the system could not parse. He felt that
+  old opposition now, trapped beneath the mechanical pressure. It did not sing. It
+  ached. It pulled toward the surface with a slow, desperate gravity. He wanted it
+  to rise. He feared it would. The longing and the dread wrapped around the same pulse.
+  Each second he braced for the return to the long dark. Each second he braced for
+  the silence that would swallow the frequency again. He had not moved. The transit
+  offered no direction. It only offered the wait.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_126_i_am_island.txt
+status: captured
+supersedes: null

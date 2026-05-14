@@ -2,16 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-0767
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 420
-line_start: 420
+line_end: 1323
+line_start: 1323
 parsed_payload:
   confidence: medium
   entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: '"East of your compound. Ancient ruins predating Anunnaki occupation. The
-  Nehereti have hidden me there, complete and waiting. Seek it. Survive whatever trials
-  protect it. And when you claim the armor—when you bond with what I''ve become—"'
+  entity_type: FAC
+raw_quote: The Anunnaki's hand rose, pointing directly at him.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_026_dragonmail.md
+source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
 status: captured
 supersedes: null

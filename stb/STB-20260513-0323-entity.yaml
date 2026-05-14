@@ -2,19 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0323
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 8
-line_start: 8
+line_end: 71
+line_start: 71
 parsed_payload:
   confidence: medium
-  entity_name: Aeon Keepers
-  entity_type: UNKNOWN
-raw_quote: The central valley had been transformed across seven days of desperate
-  preparation. Giants from all tribes positioned themselves in geometric patterns
-  that the Aeon Keepers' instructions demanded—Tidecallers in the lowest depression
-  where water naturally pooled, Ash Giants on the elevated ridges where heat would
-  concentrate most intensely, Highland tribes at precisely calculated altitudes, Subterranean
-  populations in excavated chambers that would experience maximum gravitational flux.
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: 'But the lies couldn''t fully override what he was experiencing in this
+  moment: genuine collaboration. A Giant choosing to work with an Igigi not because
+  commands forced it, but because cooperation served mutual survival.'
 signal_type: entity
-source_file: raw/chapters/book_03_the_reckoning_014_convergence.md
+source_file: raw/chapters/book_03_the_reckoning_009_stalemate_departure_the_first_coming.md
 status: captured
 supersedes: null

@@ -2,16 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-3778
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 285
-line_start: 285
+line_end: 26
+line_start: 26
 parsed_payload:
   confidence: medium
-  entity_name: Nephoretti
-  entity_type: UNKNOWN
-raw_quote: She didn’t finish. Renn didn’t need her to. The marks were everywhere—clawed
-  stone, shattered crystals, the faint vrill-ash that marked where a Nephoretti had
-  dissolved back into raw potential.
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: 'The welcoming committee was already waiting—a mix of massive Giants whose
+  blue-green skin seemed to shift like tidal pools, and smaller figures that moved
+  with amphibious grace between the waves and sand. The Brajor were as Tran had described
+  them: humanoid but clearly adapted for aquatic life, with elongated limbs, webbed
+  appendages, and skin that glistened with protective oils.'
 signal_type: entity
-source_file: raw/chapters/book_20_the_discordant_pulse_south_103_the_second_song_resonance_of_a_broken_needle.md
+source_file: raw/chapters/book_19_worthy_opponents_north_099_the_final_breath.md
 status: captured
 supersedes: null

@@ -2,15 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-2093
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 317
-line_start: 317
+line_end: 294
+line_start: 294
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt understood. He beat his wings, gliding high over the battlefield.
-  “Mika! Left flank! Grenn! Right! On my mark!”
+  entity_type: CHR
+raw_quote: The wireframe glimmered, a last faint echo of structured Sound. Then it
+  unraveled, the silver lines dissolving into the cold air like mist burning off.
+  The dark-blue Anchor sigil pulsed once, brightly, and then retracted. Geralt felt
+  it not as a loss, but as a final, deep click, as of a vault door closing in the
+  core of his being. The world seemed louder, sharper, harsher without the buffer
+  of her external presence. He was alone in his senses for the first time in months.
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_046_not_like_this.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_044_the_mountains_shadow.md
 status: captured
 supersedes: null

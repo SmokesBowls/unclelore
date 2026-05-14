@@ -2,18 +2,21 @@ audit_only: true
 buffer_id: STB-20260513-2915
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 340
-line_start: 340
+line_end: 22
+line_start: 22
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: Tran nodded, his Crimson Blood singing with recognition of forces that
-  connected him to legends and destinies whose scope he was only beginning to understand.
-  "Like it's been waiting for us," he replied, his voice carrying wonder at the discovery
-  that the landscape itself possessed awareness and intention. "For... someone like
-  us."
+  entity_type: CHR
+raw_quote: But where Tran's relationship with the land was one of partnership—human
+  will working in harmony with natural forces—Keen's connection ran deeper, into territories
+  that had no names in the common tongue of farmers and merchants. When she knelt
+  to examine the soil, she could feel its moods, its desires, its dreams. When she
+  planted seeds, she whispered to them in words she'd never been taught, words that
+  seemed to rise from some deep well of instinct. When she walked the boundaries of
+  the fields at dawn and dusk, the very earth seemed to respond to her presence, drawing
+  strength from her footsteps.
 signal_type: entity
-source_file: raw/chapters/book_11_blood_and_legacy_063_the_iron_hand.md
+source_file: raw/chapters/book_11_blood_and_legacy_060_echoes_of_the_cradle.md
 status: captured
 supersedes: null

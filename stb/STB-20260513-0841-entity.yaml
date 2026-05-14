@@ -2,18 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0841
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 281
-line_start: 281
+line_end: 386
+line_start: 386
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: Her body was enormous—serpentine length that coiled through the chamber
-  like living architecture, metallic scales gleaming bronze and obsidian, each plate
-  covered in engraved Anunnaki glyphs that shifted and realigned like living script.
-  Beneath each scale, blue-white light pulsed—not blood but divine circuitry, binding
-  her spirit to will of creators long departed.
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: '"There''s something else," Zaron said, apparently sensing Geralt''s internal
+  dialogue. "Something in your consciousness. Another presence. Not human. What is
+  that?"'
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+source_file: raw/chapters/book_05_the_nameless_one_026_dragonmail.md
 status: captured
 supersedes: null

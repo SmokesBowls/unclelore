@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-4101
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 501
+line_start: 501
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: She sang. Her voice was not the voice of the old songs—it was something
+  newer, something that had learned to shape both vrill and void. The thread pulsed,
+  and for a moment Vale felt the presence on the other end—not the voice that had
+  spoken to him, but something older, something that had been in the Ma'at since before
+  the grey.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_108_evolution_of_the_keeper.txt
+status: captured
+supersedes: null

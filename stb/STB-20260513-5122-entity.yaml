@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-5122
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 406
+line_start: 406
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Zephyr was at the terrace's edge, his sandals dusty, his face tired. He
+  turned as Vale approached.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_116_keepers_recognition.txt
+status: captured
+supersedes: null

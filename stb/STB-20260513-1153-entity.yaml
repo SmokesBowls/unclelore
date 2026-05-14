@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-1153
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 307
-line_start: 307
+line_end: 63
+line_start: 63
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt looked at the Five—at beings who'd learned to resist modification
-  through trauma that now served as anchor against entropy itself, who'd maintained
-  watch that let them witness what universe wanted to forget.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: '"And equipment," Mika added, stepping forward from where she''d been organizing
+  newly freed population. "We can''t outfit five hundred people with stolen Anunnaki
+  weapons. We need to manufacture our own. Forge armor from materials we control rather
+  than depending on confiscation."'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
+source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
 status: captured
 supersedes: null

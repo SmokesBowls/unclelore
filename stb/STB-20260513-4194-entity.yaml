@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-4194
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 760
+line_start: 760
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: '"I understand that the system is not random. It is testing. Looking for
+  something. A threshold. A balance point. A place where the graviton and the vrill
+  can coexist without destroying each other."'
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_109_the_thread_and_cage.txt
+status: captured
+supersedes: null

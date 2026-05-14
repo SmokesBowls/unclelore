@@ -2,17 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3172
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 253
-line_start: 253
+line_end: 107
+line_start: 107
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: Each right she claimed was supported by millennia of documentation that
-  existed in the cosmic legal archives, evidence of Anunnaki involvement in shaping
-  Earth's development from its earliest stages to its current level of technological
-  and spiritual sophistication.
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: '"We''re not just awakening to our heritage," Tran declared, his understanding
+  of their current situation carrying both determination and recognition of the magnitude
+  of the task that confronted them. "We''re reclaiming what was stolen."'
 signal_type: entity
-source_file: raw/chapters/book_15_legends_and_gods_078_the_queens_return.md
+source_file: raw/chapters/book_12_forged_identity_069_divergent_paths.md
 status: captured
 supersedes: null

@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-5640
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 83
+line_start: 83
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale felt it—the layer of giant presence that had been pressed into the
+  stone over millennia. Not resonance. Not the labyrinth's awareness. Just... weight.
+  The memory of all those who had stood here, unable to enter, but unwilling to leave.
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_121_aligning_the_pattern_at_the_labyrinths_threshold.txt
+status: captured
+supersedes: null

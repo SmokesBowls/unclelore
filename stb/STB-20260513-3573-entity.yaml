@@ -2,17 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-3573
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 209
-line_start: 209
+line_end: 4
+line_start: 4
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: The Dragon Mail pulsed steadily, its four fragments creating a rhythm like
-  a heartbeat. Almost complete, almost whole, almost ready for whatever transformation
-  awaited. But in the clarity granted by the White Fragment, both Tran and the armor
-  understood that "almost" was perhaps the most dangerous state of all.
+  entity_type: CHR
+raw_quote: Mist rose from the sodden ground as Tran, Thang, and Caelum approached
+  the marshlands. The terrain had been gradually transforming for the past day—solid
+  earth giving way to increasingly soggy soil, sparse trees thickening into a dense
+  canopy that filtered the sunlight into emerald shafts. The air grew thick with moisture
+  and the sweet-pungent scent of decaying vegetation.
 signal_type: entity
-source_file: raw/chapters/book_17_ancestral_debt_089_the_white_mirror.md
+source_file: raw/chapters/book_16_fragmented_beginning_087_the_breath_of_life.md
 status: captured
 supersedes: null

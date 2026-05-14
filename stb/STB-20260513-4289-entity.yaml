@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-4289
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 677
+line_start: 677
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale stood beside it. The thread that connected him to the Ma'at  was a
+  scar, but it was a scar that had healed — not smooth, not invisible, but closed.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_110_the_bleeding_convergance.txt
+status: captured
+supersedes: null

@@ -2,18 +2,20 @@ audit_only: true
 buffer_id: STB-20260513-2720
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 197
-line_start: 197
+line_end: 5
+line_start: 5
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'Geralt inhaled. The air smelled of lightning and wet ink. He understood
-  now—Zypher hadn''t sent him to die, but to *crystallize*. The abyss had stripped
-  away everything contingent, leaving only the irreducible contradictions: the wounds
-  that remembered being whole, the stolen divinity that refused to fade. He was no
-  longer an anchor. He was the *hook*.'
+  entity_type: CHR
+raw_quote: Kyh moved too smoothly beside him, her shadow-form rippling with unnatural
+  precision. When the hematite-eyed archivist revealed the hololith of the breeding
+  pits—rows upon rows of dragon eggs suspended in silvered amniotic fluid, each pulsing
+  with the same rhythm as the net that took Vaelthane—her fingers twitched toward
+  the projection. "The promised land," she murmured, so softly only Geralt's enhanced
+  hearing caught it. By the time Luminaire turned to look, her face was blank again,
+  edges perfectly composed.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
 status: captured
 supersedes: null

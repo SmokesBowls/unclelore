@@ -2,17 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-2599
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 181
-line_start: 181
+line_end: 87
+line_start: 87
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Kyh materialized first, her shadow-body frayed at the edges like burnt
-  paper. "They didn't refuse us," she said, voice thin. "They *dismissed* us." The
-  distinction carved itself into Geralt's hollowed-out chest. Refusal would have meant
-  engagement, however hostile. This was worse—the universe shrugging.
+  entity_type: CHR
+raw_quote: Her good eye scanned him, seeing past the armor, the Applicator's spark,
+  the human fatigue. "You do not need more power, Geralt. You are a walking lightning
+  rod for power. You need discipline. Or you will become a storm that destroys what
+  you mean to save."
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
+source_file: raw/chapters/book_09_bureaucratic_debt_054_tue_lunar_spire.md
 status: captured
 supersedes: null

@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-2889
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 445
+line_start: 445
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: Kyh’s laughter hit the clearing like a glass shattering—sharp, sudden,
+  and wrong enough that even the bioluminescent fungi recoiled. She came awake mid-cackle,
+  her silver-threaded shadow writhing as if trying to strangle the sound. The scaled
+  boy perched on Oreck’s shoulders clapped his claws over his ears, hissing. Geralt
+  didn’t flinch. He’d spent the last three hours explaining causality loops to reptilian
+  warriors using nothing but a stick and the charred remains of their campfire, and
+  frankly, insanity was a welcome palate cleanser.
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+status: captured
+supersedes: null

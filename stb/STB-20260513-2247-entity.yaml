@@ -2,18 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2247
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 497
-line_start: 497
+line_end: 223
+line_start: 223
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The Spire's light became a projection. It showed the Legion's last stand
-  at the Hub. It showed the 250 giving their lives to buy seconds. It showed Mika,
-  translating the final protocol, her hand steady though her eyes were full of tears.
-  It showed the Five, being unmade and remade. It showed Oreck, choosing a future
-  over vengeance. It showed Geralt, choosing to be a guardian instead of a god.
+  entity_type: CHR
+raw_quote: The Sage looked at the grave, then at the weathered book in the distance,
+  then at Geralt. "The teaching is preserved," he said. "The knowledge is safe. Her
+  work is done."
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_047_mika.md
 status: captured
 supersedes: null

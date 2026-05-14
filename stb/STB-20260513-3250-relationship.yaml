@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-3250
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 127
+line_start: 127
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: '"He belongs to the Sun now," Helion continued, its form growing larger
+  and more intimidating as it prepared to attack. "As will your ashes!"'
+signal_type: relationship
+source_file: raw/chapters/book_14_lessons_of_inheritance_074_sunbound.md
+status: captured
+supersedes: null

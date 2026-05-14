@@ -2,17 +2,26 @@ audit_only: true
 buffer_id: STB-20260513-1638
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 70
-line_start: 70
+line_end: 91
+line_start: 91
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'One scout lunged at Ren. Time slowed. The Legionnaire saw Martian sand,
-  his own retreating footsteps. Then Geralt’s voice cut through: "Nowhere to run here."
-  Ren’s blade found the creature’s throat. Black blood sprayed. The jungle recoiled,
-  hissing.'
+  entity_type: CHR
+raw_quote: The desert heat hit like a physical blow once they descended onto the dunes.
+  Radiant waves shimmered off bleached salt flats. Dragon-armor plates grew uncomfortably
+  warm against Geralt’s skin, Zaron’s hum a low thrum of warning against the oppressive
+  stillness. Legionnaires draped cloaks over helmets, conserving water. Pack-lizards
+  plodded stoically, tongues lolling. Camp was made at dusk within a sheltered ring
+  of wind-carved sandstone monoliths – refuge from biting sandstorms. Exhaustion settled
+  thickly. Sentries were posted, shield generators humming softly at perimeter points.
+  Mika checked the water ration logs, her frown deepening. Jorik inspected bowstrings
+  rendered brittle by the dry air. As the twin moons rose, casting long, skeletal
+  shadows, Oreck’s low growl echoed from the camp’s eastern edge. His cleaver wasn’t
+  drawn, but his massive form barred passage towards the water sleds. His amber eyes,
+  flecked with chroniton green, were locked on a shifting patch of deeper shadow behind
+  stacked supply crates. Something small, trying desperately to stay silent.
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_039_jungle_fever.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_037_the_circle_of_progress.md
 status: captured
 supersedes: null

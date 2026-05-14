@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-4010
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 144
+line_start: 144
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: She walked to the needle, her steps slow, her long fingers tracing the
+  air. Enki rose to meet her, and the two Igigi stood together at the base of the
+  spire, their heads tilted, their hands raised.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_107_the_waking.txt
+status: captured
+supersedes: null

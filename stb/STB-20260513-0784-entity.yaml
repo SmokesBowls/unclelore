@@ -2,17 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-0784
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 33
-line_start: 33
+line_end: 1423
+line_start: 1423
 parsed_payload:
   confidence: medium
-  entity_name: Nehereti
-  entity_type: UNKNOWN
-raw_quote: '"But it requires trust. Requires allowing me to touch your mind as the
-  Nehereti touched mine. And I know—" his voice softened, "—I know that trust is hard.
-  That every time someone modified you, changed you, it was to serve their purposes
-  rather than yours."'
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: The Anunnaki's eyes widened. His perfect control wavered. And in that moment
+  of disruption, the Reptilian struck physically.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
 status: captured
 supersedes: null

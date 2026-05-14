@@ -2,15 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-3716
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 94
-line_start: 94
+line_end: 173
+line_start: 173
 parsed_payload:
   confidence: medium
-  entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: '"Will be what I choose to be," Tran finished. "We''ve come too far to
-  hold back now."'
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: Anunnaki soldiers burst into the detention block, weapons already firing.
+  Rongtai grabbed Keen, shadow-light erupting around them both. The last thing Viên
+  saw was Keen's tearful face as the shadows swallowed them, carrying them away from
+  the Mars Void Spire.
 signal_type: entity
-source_file: raw/chapters/book_19_worthy_opponents_north_102_convergence_on_mars.md
+source_file: raw/chapters/book_18_inquisition_of_yourself_094_chains_of_light.md
 status: captured
 supersedes: null

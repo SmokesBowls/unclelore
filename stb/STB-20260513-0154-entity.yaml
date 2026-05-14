@@ -2,15 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0154
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 122
-line_start: 122
+line_end: 138
+line_start: 138
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: And somewhere down there, invisible to Igigi perception, indigenous biologicals
-  lived their lives unaware that everything was about to change.
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: The implications were staggering. Buildings placed at Nexus Points could
+  draw power directly from planetary vrill-flow. Meditation practiced there accelerated
+  consciousness development. Healing became more effective. Elements responded more
+  readily to consciousness-touch and spoken frequencies.
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
 status: captured
 supersedes: null

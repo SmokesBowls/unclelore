@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-4024
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 470
+line_start: 470
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale looked at the giant, at the scars that mapped its body, at the dimming
+  crystal that traced its jaw. "You are Granite."
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_107_the_waking.txt
+status: captured
+supersedes: null

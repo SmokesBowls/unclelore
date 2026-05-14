@@ -2,19 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2005
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 197
-line_start: 197
+line_end: 77
+line_start: 77
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The world was shaking itself apart. The muffled thunder of the North Front’s
-  battle echoed through the stone, a constant reminder of the minutes draining away.
-  Geralt led the thirteen deeper into the mountain’s bowels, the air growing hotter,
-  thicker, tasting of sulfur and ozone. Luminaire’s voice was a compass needle in
-  his mind, guiding them through a maze of volcanic tubes and ancient, repurposed
-  maintenance tunnels.
+  entity_type: CHR
+raw_quote: Geralt raised his sword, and a pulse of golden energy—not flame, but focused
+  resonant negation—shot from the blade. It met the Drake’s next scream in mid-air.
+  The sound shattered like glass.
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_045_the_hub_falls.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_043_the_badlands_crucible.md
 status: captured
 supersedes: null

@@ -2,17 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0037
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 83
-line_start: 83
+line_end: 132
+line_start: 132
 parsed_payload:
   confidence: medium
   entity_name: Aeon Keepers
-  entity_type: UNKNOWN
-raw_quote: Prime. The impression arrived like crystalline chime resonating through
-  Senareth's awareness. Not words, but meaning compressed into pure sensation. The
-  Aeon Keepers, reaching across dimensions to designate role and responsibility. You
-  are Prime. Coordinate. Understand. Bridge.
+  entity_type: FAC
+raw_quote: The six Aeon Keepers dispersed their awareness throughout the library,
+  each taking position at one of the primary vrill convergence points. These were
+  the places where the Ethereal Realm pressed most closely against physical reality,
+  where the Veil grew thin enough for thought to pass through and become form.
 signal_type: entity
-source_file: raw/chapters/book_01_book_of_genesis_002_molten_descent.md
+source_file: raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
 status: captured
 supersedes: null

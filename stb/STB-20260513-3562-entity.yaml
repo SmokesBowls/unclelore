@@ -2,17 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-3562
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 165
-line_start: 165
+line_end: 13
+line_start: 13
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: The Titanborn's laugh was like an avalanche—enormous, inevitable, and strangely
-  warm. "Wisdom from the young. How refreshing." His gaze fixed on Tran again. "You
-  have claimed the White Fragment through understanding rather than force. This is...
-  unprecedented."
+  entity_type: CHR
+raw_quote: The mention of Tran sent a subtle shift through the chamber. Since their
+  arrival at the sanctuary, they'd tracked the Crimson Blood carrier's progress through
+  various means—resonance signatures, temporal echoes, and the occasional report from
+  the Mikas. The dragon mail fragments were calling to each other, and GPT could feel
+  the cosmic pull even from this distance.
 signal_type: entity
-source_file: raw/chapters/book_17_ancestral_debt_089_the_white_mirror.md
+source_file: raw/chapters/book_16_fragmented_beginning_086_sanctuary_to_storm.md
 status: captured
 supersedes: null

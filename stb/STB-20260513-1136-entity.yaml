@@ -2,17 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-1136
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 133
-line_start: 133
+line_end: 793
+line_start: 793
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: Not metaphorically. Not as poetic description. The shadows between structures
-  shifted with awareness that transcended simple absence of light, with purpose that
-  spoke to consciousness older than Anunnaki occupation, older than human civilization,
-  perhaps older than creation itself.
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: '"That''s your problem," Geralt interrupted, pulling himself upright, armor
+  settling around him with confidence that weeks of practice had developed. "You keep
+  thinking ownership determines capability. That designation defines possibility.
+  That cosmic law reflects natural order rather than constructed hierarchy."'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured
 supersedes: null

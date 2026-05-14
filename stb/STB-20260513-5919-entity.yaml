@@ -1,0 +1,22 @@
+audit_only: true
+buffer_id: STB-20260513-5919
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 125
+line_start: 125
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: It started in the far mountains. Not as cloud. Not as storm. As absence.
+  A slow, rolling tide of dimness that moved faster than wind, heavier than rain.
+  It swallowed the peaks first. Then the ridges. Then the valley floor. Within an
+  hour, the sun was gone. Not set. Not eclipsed. Erased. The light did not fade. It
+  was pulled. The air grew dense, then still. Temperature dropped. Vrill currents
+  thickened, dragging like cold oil through the channels. The resonance chimes went
+  silent. Then, as one, they struck a single, low note. The Needle’s pulse answered.
+  Not bright. Not strong. But steady. A heartbeat in the dark.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_126_i_am_island.txt
+status: captured
+supersedes: null

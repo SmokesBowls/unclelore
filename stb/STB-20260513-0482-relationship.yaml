@@ -2,19 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0482
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 41
-line_start: 41
+line_end: 32
+line_start: 32
 parsed_payload:
-  predicate: serves
+  predicate: member_of
   subject: UNRESOLVED
   target: UNRESOLVED
   temporal_scope: unresolved
-raw_quote: '"And this is what friendship becomes when it serves evolution rather than
-  individual connection," Torrhen added, his presence now encompassing the entire
-  sanctuary while maintaining distinctive identity capable of continued guidance.
-  "Not separate awareness seeking partnership, but consciousness recognizing itself
-  in every form it learns to become."'
+raw_quote: Understanding struck Zephyr like physical blow. "You're going to encode
+  the teaching into the planetary consciousness itself. Make the magic part of the
+  world's fundamental structure."
 signal_type: relationship
-source_file: raw/chapters/book_04_sage_saga_022_final_calculation.md
+source_file: raw/chapters/book_04_sage_saga_019_the_sacrafice.md
 status: captured
 supersedes: null

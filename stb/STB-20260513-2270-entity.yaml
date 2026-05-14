@@ -2,15 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2270
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 40
-line_start: 40
+line_end: 213
+line_start: 213
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: “He thinks we’re recruitment,” Geralt said, staring at the painfully etched
-  words.
+  entity_type: CHR
+raw_quote: They approached. Geralt tried to stand, but his legs buckled. Violet caught
+  him, her touch cool and steady.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
+source_file: raw/chapters/book_09_bureaucratic_debt_048_the_ledger_born.md
 status: captured
 supersedes: null

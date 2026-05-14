@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-5880
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 165
+line_start: 165
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Not weakened—misaligned. The root-system pressed harder, its tendrils threading
+  through Vale’s resonance, searching for fracture points, for memory seams, for anything
+  it could invert and claim.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_125_farwell.txt
+status: captured
+supersedes: null

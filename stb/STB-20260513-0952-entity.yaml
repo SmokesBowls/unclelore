@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0952
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 109
-line_start: 109
+line_end: 531
+line_start: 531
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: '"Additional anomaly detected: Anunnaki Applicator construct present in
-  subject''s neural tissue. Symbiotic rather than controlling. Unprecedented behavioral
-  deviation from standard operational parameters."'
+  entity_name: Aeon Keepers
+  entity_type: FAC
+raw_quote: Geralt felt his breath catch. This was it. The transformation the Aeon
+  Keepers had prepared. The weapon Zaron had sacrificed everything to become. The
+  tool that would allow one former slave to challenge galactic empire.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured
 supersedes: null

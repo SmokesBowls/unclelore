@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-3546
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 99
-line_start: 99
+line_end: 197
+line_start: 197
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: The chamber shifted again, the mirrors coalescing into a single vast reflective
-  surface that dominated one wall. From it stepped a figure that made Tran's blood
-  run cold.
+  entity_type: CHR
+raw_quote: As the Mika faded entirely, Tran turned to Thang and Caelum. "It seems
+  our path is set."
 signal_type: entity
-source_file: raw/chapters/book_17_ancestral_debt_089_the_white_mirror.md
+source_file: raw/chapters/book_16_fragmented_beginning_084_earth_giants_and_diverging_paths.md
 status: captured
 supersedes: null

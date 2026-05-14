@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-5673
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 261
+line_start: 261
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale thought of the red chamber—the pressure that had refused him when
+  he approached alone. He had turned back because there was no other choice. But tomorrow,
+  he would not be alone. Nammu would feel the resonance of the refusal. Enlil would
+  see the pattern of it. Sera would sense whether the current could carry them through—or
+  around. And Vale would hold the center. The constant that let them orient together
+  without being bound.
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_121_aligning_the_pattern_at_the_labyrinths_threshold.txt
+status: captured
+supersedes: null

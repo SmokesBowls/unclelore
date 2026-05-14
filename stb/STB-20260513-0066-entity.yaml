@@ -2,16 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-0066
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 120
-line_start: 120
+line_end: 89
+line_start: 89
 parsed_payload:
   confidence: medium
-  entity_name: Aeon Keepers
-  entity_type: UNKNOWN
-raw_quote: 'Patience, came the faint impression through the Prime connection. The
-  Aeon Keepers, offering the only guidance that mattered: Patience, and persistence.
-  Rome wasn''t built in a day.'
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: '"Listen," Senareth said, and was startled by the sound of their own voice.
+  Physical vibration traveling through air, discrete and localized rather than the
+  harmonic frequencies of ethereal communication. But the others heard. Turned toward
+  the source. Several dozen Nephoretti who had landed near enough to perceive the
+  command.'
 signal_type: entity
-source_file: raw/chapters/book_01_book_of_genesis_003_first_contact.md
+source_file: raw/chapters/book_01_book_of_genesis_002_molten_descent.md
 status: captured
 supersedes: null

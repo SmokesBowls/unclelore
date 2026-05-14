@@ -2,18 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-2873
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 63
-line_start: 63
+line_end: 387
+line_start: 387
 parsed_payload:
   confidence: medium
-  entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: The tactical knowledge saved his life again and again, but accepting it
-  made him feel like he was drowning in someone else's memories. He was Tran Valenheart,
-  farmer of Sundrift, son of Erik and Mira. He planted barley and mended fences and
-  worried about the harvest. He was NOT some cosmic general responsible for the fate
-  of civilizations.
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: The Dragon Mail no longer whispered in his bones. The Applicator didn't
+  scream warnings through his nerves. But the weight remained—the anchor's burden,
+  settling deeper than fused alloy or scar tissue. Geralt turned first to Kyh, whose
+  shadow-filaments still coiled around his wrist like a lifeline he wouldn't need.
+  "You'll hold the network," he said, not a request. Her darkness pulsed once in acknowledgment,
+  silver threads flaring where the Guild's harmonics had claimed her.
 signal_type: entity
-source_file: raw/chapters/book_11_blood_and_legacy_062_falcon_ridge_showdown.md
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
 status: captured
 supersedes: null

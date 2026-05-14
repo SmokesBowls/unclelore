@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5882
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 183
+line_start: 183
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Not imagined. Not summoned. Exposed. The corruption's overload had torn
+  a temporary rift, a flash of layered reality where the thing it was trying to process
+  bled through. And there she stood, half-formed in the distortion, her outline flickering
+  with the same silver-black light that ran through Vale's own being.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_125_farwell.txt
+status: captured
+supersedes: null

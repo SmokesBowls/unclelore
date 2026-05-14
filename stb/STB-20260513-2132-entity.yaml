@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2132
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 139
-line_start: 139
+line_end: 347
+line_start: 347
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: That night, by candlelight in the archive, Mika took out a blank ledger.
-  Her hand did not shake. "I need to document this," she said to Geralt, who watched
-  from the doorway. "Before I forget how easy it felt."
+  entity_type: CHR
+raw_quote: To Node Gamma’s senses, Geralt became a blur of meaningless, conflicting
+  attack vectors.
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_047_mika.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_045_the_hub_falls.md
 status: captured
 supersedes: null

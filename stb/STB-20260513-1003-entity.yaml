@@ -2,18 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-1003
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 461
-line_start: 461
+line_end: 855
+line_start: 855
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"Fifteen visible guards," Geralt reported to the assembled strike team—twenty
-  volunteers from their compound, chosen for capability and commitment rather than
-  simple willingness. "One Overseer, based on the golden sheen visible in the central
-  structure. Standard patrol patterns, rotating every four hours. No indication they''re
-  aware we''re coming."'
+  entity_type: CHR
+raw_quote: '"We won''t fail," Geralt said with certainty that came from three consciousnesses
+  unified in purpose despite constant internal disagreement. "Because we''re not fighting
+  for empire or profit or abstract principles. We''re fighting for the fundamental
+  right of conscious beings to determine their own existence."'
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured
 supersedes: null

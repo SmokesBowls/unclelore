@@ -2,18 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-3455
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 13
-line_start: 13
+line_end: 91
+line_start: 91
 parsed_payload:
   confidence: medium
-  entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: The mention of Tran sent a subtle shift through the chamber. Since their
-  arrival at the sanctuary, they'd tracked the Crimson Blood carrier's progress through
-  various means—resonance signatures, temporal echoes, and the occasional report from
-  the Mikas. The dragon mail fragments were calling to each other, and GPT could feel
-  the cosmic pull even from this distance.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: '"The same applicators who imprisoned Mr. GPT," Thang added. "They serve
+  the Anunnaki—specifically, Enheduanna, the Starbound Queen."'
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_086_sanctuary_to_storm.md
+source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
 status: captured
 supersedes: null

@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5913
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 93
+line_start: 93
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: It was the absence of Vale’s pulse, a century deep now, still echoing in
+  the empty spaces of the needle chamber. It was the pressure from the north, where
+  the Cliff Giants’ anxiety mirrored their own, turning old boundaries into fault
+  lines. And it was the weight from above.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_126_i_am_island.txt
+status: captured
+supersedes: null

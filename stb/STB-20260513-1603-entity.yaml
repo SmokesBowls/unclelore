@@ -2,21 +2,21 @@ audit_only: true
 buffer_id: STB-20260513-1603
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 121
-line_start: 121
+line_end: 7
+line_start: 7
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The assault lasted seconds. Immediate threats vanished. Annihilated. The
-  crimson warrior turned. His eyes—Geralt’s own eyes—locked onto Geralt’s. Recognition
-  deeper than blood. A silent nod. Acknowledgement. Warning. Then—a bronze dragon
-  descended like fury incarnate. They leapt onto its back—four impossible saviors—vanishing
-  into the cosmic storm above. Gone. Leaving only the echo of thunder and the scent
-  of ozone deep within Geralt’s soul. Questions burned hotter than dragonfire. Ancestors?
-  Heirs? Or something far stranger? The Dragon Nebula watched. Judgment paused. Curiosity
-  sparked.
+  entity_type: CHR
+raw_quote: '"Stable! Remarkably so," Zypher crowed, tapping a glyph that flared gold.
+  "Souls bound tighter than a quantum knot. Bodies... recalibrating. The crash trauma
+  fused them with residual spire energies and Anunnaki guard signatures they were
+  suppressing. Fascinating alchemy!" He tilted his head, suddenly serious. "They’ll
+  wake changed, Geralt. Not just healed. Amplified. Think... localized temporal anchors.
+  Walking paradoxes." A grin split his weathered face. "Your Harbinger won''t know
+  what hit them! Though," he added, scratching his nose, "waking timeline... indeterminate.
+  Could be tomorrow. Could be next week. Souls operate on their own stubborn schedules."'
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_037_the_circle_of_progress.md
 status: captured
 supersedes: null

@@ -2,19 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2832
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 154
-line_start: 154
+line_end: 213
+line_start: 213
 parsed_payload:
   confidence: medium
-  entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: As if to underscore his words, another wave of creatures erupted from a
-  fresh crack in the earth near the village center, their alien roars echoing across
-  the valley like the sound of reality itself being torn apart. But now, instead of
-  facing them as helpless farmers caught off-guard by impossible circumstances, Tran
-  and Keen stood as awakened inheritors of ancient legacies, their powers still raw
-  and untrained but undeniably real.
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: Kulla's obsidian fingers cracked as he hauled himself free of the petrified
+  clay. "Bad copy," he muttered, kneading the air between Geralt and the clone like
+  testing dough. "No weight."
 signal_type: entity
-source_file: raw/chapters/book_11_blood_and_legacy_060_echoes_of_the_cradle.md
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
 status: captured
 supersedes: null

@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-5392
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 468
+line_start: 468
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: '"That''s what they do. Not shape stone. Not guide energy. They carry the
+  memory of connection. The resonance that lets separate things know they''re part
+  of somethin'' larger." Zephyr looked at the city below. "The giants built it. Sera
+  keeps it flowin''. You give it a reference to orient toward. But the Nephoretti...
+  they make it one thing. Without them, it''s just pieces that work. With them, it''s
+  a city that breathes."'
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_118_the_constant_and_friction_of_becoming.txt
+status: captured
+supersedes: null

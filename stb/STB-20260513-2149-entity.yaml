@@ -2,14 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2149
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 81
-line_start: 81
+line_end: 525
+line_start: 525
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt landed between Karvex and the next building—a granary.
+  entity_type: CHR
+raw_quote: “Where now?” Geralt asked, his voice the same gravel as the mountain’s
+  bones.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_048_the_ledger_born.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_045_the_hub_falls.md
 status: captured
 supersedes: null

@@ -2,17 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2332
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 18
-line_start: 18
+line_end: 308
+line_start: 308
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'Geralt''s armor deployed its wings with a thunderous snap, catching them
-  in a sickening lurch. The heat hit them like a physical wall. The applicator flashed:
-  < Ambient Temperature: 127°C. Atmospheric Toxicity: Extreme. Survival Estimate:
-  17 minutes without protection. >'
+  entity_type: CHR
+raw_quote: Geralt felt the assimilation progressing. His senses sharpened to painful
+  clarity. He could see the heat-haze of distant creatures, hear the subsonic grind
+  of continental plates. The world was too loud, too bright.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_051_arrival_in_fire.md
+source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
 status: captured
 supersedes: null

@@ -2,20 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3799
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 31
-line_start: 31
+line_end: 106
+line_start: 106
 parsed_payload:
   confidence: medium
-  entity_name: Nephoretti
-  entity_type: UNKNOWN
-raw_quote: They moved through the outer complex with a silence that seemed impossible
-  for creatures their size, their feet finding the ancient stones without sound, their
-  hands touching the walls with a reverence that bordered on worship. They did not
-  build shelters – the old workshops served them well enough, their high ceilings
-  and wide doorways made for beings larger than Nephoretti – but they added to them.
-  Stones were shifted, crystal fragments set into walls, patterns formed that echoed
-  the geometries of the needle.
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: '"Wait," Tran called out. The dragon mail''s enhanced senses detected something
+  others missed. "There''s something already here. A consciousness, sleeping within
+  the null state."'
 signal_type: entity
-source_file: raw/chapters/book_20_the_discordant_pulse_south_105_garden_grove.md
+source_file: raw/chapters/book_19_worthy_opponents_north_101_the_hidden_resonance.md
 status: captured
 supersedes: null

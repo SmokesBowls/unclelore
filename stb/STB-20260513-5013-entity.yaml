@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-5013
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 450
+line_start: 450
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale nodded slowly. "There's something down there. South. Buried. Old."
+  He looked at his hand, still pressed to the stone. "It knows me."
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_115_the_shape_of_asking.txt
+status: captured
+supersedes: null

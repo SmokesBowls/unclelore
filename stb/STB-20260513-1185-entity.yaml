@@ -2,15 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-1185
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 646
-line_start: 646
+line_end: 320
+line_start: 320
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: And Geralt descended from rocky prominence with purpose that transcended
-  survival.
+  entity_type: CHR
+raw_quote: Not gradually. Not carefully. Catastrophically—walls that Geralt, Zaron,
+  and the Applicator had maintained between their consciousnesses suddenly gone, three
+  separate entities merging into unified system that exceeded sum of components.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
+source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
 status: captured
 supersedes: null

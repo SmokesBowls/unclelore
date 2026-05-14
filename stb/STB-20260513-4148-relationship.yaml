@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-4148
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 333
+line_start: 333
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: '"The more we try to control the calibration events, the more we become
+  part of them. The Ma''at dampens—the system surges. The grove attacks—the null hardens.
+  Every action meant to contain makes the next event worse."'
+signal_type: relationship
+source_file: raw/chapters/book_21_needle_and_thread_south_109_the_thread_and_cage.txt
+status: captured
+supersedes: null

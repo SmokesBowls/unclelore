@@ -2,19 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-1001
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 455
-line_start: 455
+line_end: 837
+line_start: 837
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt studied the compound from distance—using magnification capabilities
-  the Applicator could provide through interface with his optic nerve, seeing details
-  that unaided human vision couldn't distinguish. The layout was nearly identical
-  to their own former prison. Same architectural design. Same defensive positions.
-  Same assumption that slaves required containment rather than fortification against
-  external threat.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: '"We use that time to prepare. To organize. To become more than freed slaves
+  hiding in single compound. There are three more enslavement camps within marching
+  distance. Three more populations living under Anunnaki authority. Three more opportunities
+  to demonstrate that resistance is possible, that liberation can succeed, that Earth
+  doesn''t belong to empire that treats conscious beings as resources to be extracted."'
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured
 supersedes: null

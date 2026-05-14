@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-4081
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 330
+line_start: 330
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale considered this. He considered the voice, the silence, the weight
+  of something that had been waiting for seven thousand years.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_108_evolution_of_the_keeper.txt
+status: captured
+supersedes: null

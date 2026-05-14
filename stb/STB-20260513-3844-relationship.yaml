@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3844
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 266
+line_start: 266
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: '"How?" Xerion''s voice carried despair. "She''s not just using the corruption—she''s
+  using our very presence here. We''re part of the circuit now. Our attack on the
+  foundation is providing the pressure she needs!"'
+signal_type: relationship
+source_file: raw/chapters/book_19_worthy_opponents_north_102_convergence_on_mars.md
+status: captured
+supersedes: null

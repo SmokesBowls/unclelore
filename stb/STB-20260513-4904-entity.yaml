@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-4904
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 378
+line_start: 378
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale reached the needle’s base. The pulse met him before he arrived—a steady
+  warmth that spread through his ribs, down his arms, into his hands. He didn’t press
+  his palms to the crystal. He simply stood beside it, shoulder nearly touching the
+  stone, and let the rhythm move through him.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_114_resonance_of_stone.txt
+status: captured
+supersedes: null

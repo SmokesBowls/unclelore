@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-6222
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 475
+line_start: 475
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The Igigi did not know the delay had doubled. She only knew that the command
+  had reached her and her body had paused—not in resistance, not in refusal, but in
+  processing, as if the signal had to travel through more medium than it once had.
+  The saturation was thickening the stone. The thickening was slowing the propagation
+  of everything that moved through it—sound, warmth, command, fragment. The network
+  was accumulating, and the accumulation was creating drag.
+signal_type: entity
+source_file: raw/chapters/book_26_the_seam_long_dark_south_133_threshold.txt
+status: captured
+supersedes: null

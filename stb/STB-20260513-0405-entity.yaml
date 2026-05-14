@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-0405
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 14
+line_start: 14
+parsed_payload:
+  confidence: medium
+  entity_name: Aeon Keepers
+  entity_type: FAC
+raw_quote: '"When it begins," Pazuzu addressed the assembled thousands, his voice
+  carrying across the valley through consciousness-channels, "remember: the pain is
+  temporary. The unity we forge through surviving it together is permanent. The Aeon
+  Keepers designed this convergence to either break us or bind us beyond any possibility
+  of fracture."'
+signal_type: entity
+source_file: raw/chapters/book_03_the_reckoning_014_convergence.md
+status: captured
+supersedes: null

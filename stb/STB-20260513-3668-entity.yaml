@@ -2,18 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-3668
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 174
-line_start: 174
+line_end: 159
+line_start: 159
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: As Isla carefully added the Bones of Stone to their collection, the Igigi
-  began to change. Not physically—though some did start experimenting with less rigidly
-  mathematical forms—but in how they interacted. Conversations included feelings.
-  Calculations left room for uncertainty. And in the chamber below, Helix had started
-  teaching others how to sing.
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: '*We''re in this together,* Tran responded, marveling at the clarity of
+  their connection.'
 signal_type: entity
-source_file: raw/chapters/book_19_worthy_opponents_north_098_depths_of_memory.md
+source_file: raw/chapters/book_17_ancestral_debt_089_the_white_mirror.md
 status: captured
 supersedes: null

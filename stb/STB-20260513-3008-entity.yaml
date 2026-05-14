@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-3008
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 7
-line_start: 7
+line_end: 152
+line_start: 152
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: '"Something feels..." Tran began, his jaw clenching as power thrashed beneath
-  his skin with intensity that spoke of forces beyond his control responding to threats
-  beyond his understanding.'
+  entity_type: CHR
+raw_quote: Tran's scythe erupted in crimson light *without his command*. The weapon
+  responded to Ulric's words like metal to magnet, ancient enchantments recognizing
+  the language of oppression and reacting with instinctive defiance. The crimson fire
+  spread up the handle until Tran's hands glowed like he held concentrated starlight.
 signal_type: entity
-source_file: raw/chapters/book_12_forged_identity_068_brotherhood_revealed.md
+source_file: raw/chapters/book_11_blood_and_legacy_063_the_iron_hand.md
 status: captured
 supersedes: null

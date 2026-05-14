@@ -2,19 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-3178
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 375
-line_start: 375
+line_end: 121
+line_start: 121
 parsed_payload:
   confidence: medium
-  entity_name: Void Spire Network
-  entity_type: UNKNOWN
-raw_quote: In the depths of her private sanctum, surrounded by void-crystal formations
-  that pulsed with the rhythm of cosmic forces, Queen Enheduanna stood in solitary
-  contemplation of discoveries that had transformed her understanding of her own legacy.
-  The analysis of the Void Spire network had revealed not just sophisticated resistance
-  activities, but evidence of consciousness development that exceeded her most optimistic
-  projections about the potential evolution of enhanced human awareness.
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: On the fourth day of his intensive training with the Star Needle, Tran
+  felt a disturbance in the network that transcended simple detection of awakening
+  installations or manifestation of abilities among individuals with appropriate heritage.
+  The sensation was more like a shock wave that rippled through dimensional space,
+  carrying implications of impact that operated on scales that challenged his ability
+  to process or understand the full significance of what was occurring.
 signal_type: entity
-source_file: raw/chapters/book_15_legends_and_gods_078_the_queens_return.md
+source_file: raw/chapters/book_12_forged_identity_069_divergent_paths.md
 status: captured
 supersedes: null

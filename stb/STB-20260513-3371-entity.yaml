@@ -2,17 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-3371
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 159
-line_start: 159
+line_end: 116
+line_start: 116
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: Caelum fought with deadly precision, keeping the smaller reptilian servitors
-  at bay while Tran, Thang, and Rongtai focused on the Hydra. The centaur warrior
-  seemed to anticipate his opponents' moves before they made them, his blade finding
-  vulnerable points with unerring accuracy.
+  entity_type: CHR
+raw_quote: '"What do you know of the Dragon Mail?" Caelum demanded, his tone harder
+  than Tran had heard before.'
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
+source_file: raw/chapters/book_15_legends_and_gods_080_the_whispers_between_worlds.md
 status: captured
 supersedes: null

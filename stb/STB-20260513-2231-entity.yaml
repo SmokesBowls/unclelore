@@ -2,15 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-2231
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 329
-line_start: 329
+line_end: 67
+line_start: 67
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: “Run,” screamed the Companion Protocol, the stillness in Geralt’s mind
-  breaking into a tsunami of panic and data.
+  entity_type: CHR
+raw_quote: Mika and Geralt looked at each other.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_047_mika.md
 status: captured
 supersedes: null

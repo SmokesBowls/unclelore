@@ -2,15 +2,13 @@ audit_only: true
 buffer_id: STB-20260513-1222
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 890
-line_start: 890
+line_end: 167
+line_start: 167
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '*Then we stop being predictable,* Geralt projected while armor''s wings
-  deployed—not for combat but for movement, for accessing vertical spaces that ground-based
-  infiltrators wouldn''t consider.'
+  entity_type: CHR
+raw_quote: The armor saved Geralt.
 signal_type: entity
 source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured

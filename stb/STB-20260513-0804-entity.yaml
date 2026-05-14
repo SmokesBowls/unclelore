@@ -2,17 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-0804
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 121
-line_start: 121
+line_end: 115
+line_start: 115
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: As Geralt and Oreck crossed the compound's eastern boundary, heading toward
-  ruins the Nehereti had indicated, the sun—or rather, the twin suns created by orbital
-  alignment—cast long shadows that merged human and reptilian silhouettes into single
-  form.
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: The Nehereti's expression—insofar as flowing light could be said to have
+  expression—suggested something between amusement and sadness.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+source_file: raw/chapters/book_05_the_nameless_one_026_dragonmail.md
 status: captured
 supersedes: null

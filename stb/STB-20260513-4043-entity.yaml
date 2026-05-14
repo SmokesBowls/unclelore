@@ -1,0 +1,15 @@
+audit_only: true
+buffer_id: STB-20260513-4043
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 15
+line_start: 15
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale turned from the sun. “You have questions.”
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_108_evolution_of_the_keeper.txt
+status: captured
+supersedes: null

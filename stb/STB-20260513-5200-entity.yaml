@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5200
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 227
+line_start: 227
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: 'The twisted metal had been straightened, the stone reset. But Sera had
+  warned that the vrill beneath was still disrupted—its flow erratic, its memory of
+  the attack still fresh. The test here was simpler: guide the vrill through the gate,
+  measure its resistance, find where the damage lingered.'
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_117_the_constant_calibration_living_as_anchor.txt
+status: captured
+supersedes: null

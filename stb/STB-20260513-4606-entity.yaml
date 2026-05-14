@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-4606
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 423
+line_start: 423
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: 'They reached stable ground near dusk. The distortions thinned. Then stopped.
+  Vale stood for a moment. Still. Listening. Nothing came. He exhaled. Not relief.
+  Recognition. Behind him, the Igigi spoke once: "Now you''re startin'' to move."'
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_112_eastern_system.txt
+status: captured
+supersedes: null

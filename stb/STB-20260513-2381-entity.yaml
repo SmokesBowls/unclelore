@@ -2,17 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-2381
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 33
-line_start: 33
+line_end: 82
+line_start: 82
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The sensation was instant and visceral. It was the feeling of being unmade
-  as a fact. The Anchor bond in Geralt’s chest didn’t fade—it strained, screaming
-  against the erasure. Luminaire hissed in psychic pain. Oreck grunted, his physicality,
-  his sheer thereness, fighting the nullity.
+  entity_type: CHR
+raw_quote: Geralt took a step forward. “The one you choose to make real.”
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_052_entry_without_standing.md
+source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
 status: captured
 supersedes: null

@@ -2,16 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-2751
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 331
-line_start: 331
+line_end: 125
+line_start: 125
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"Might?" Geralt interrupted. He turned the shard over in his grip, watching
-  fractured light dance across his corroded knuckles. The word hung between them—too
-  human, too hopeful.'
+  entity_type: CHR
+raw_quote: Geralt watched from the perimeter line, his Dragon Mail humming with the
+  weight of unsaid things. He knew that stillness—the moment before a man chooses
+  between the living and the left-behind. Kyh's shadow twitched, her silver threads
+  resonating with the Guild's network. She opened her mouth, but Oreck was already
+  moving.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
 status: captured
 supersedes: null

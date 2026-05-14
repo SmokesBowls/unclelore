@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-5676
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 7
+line_start: 7
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: The green veins were bright in the outer passages—confirming, steady, aligned.
+  The blue current ran beneath the stone, carrying them through narrow spaces without
+  resistance. The pattern they had learned the day before held. Nammu felt the direction.
+  Enlil confirmed the structure. Sera moved with the flow. Vale held the center, present
+  without commanding.
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_122_unravealing.txt
+status: captured
+supersedes: null

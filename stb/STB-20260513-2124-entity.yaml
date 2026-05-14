@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2124
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 59
-line_start: 59
+line_end: 311
+line_start: 311
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt moved a few meters to the east, to a patch of darker stone. "I fell
-  here first. Before you ever came looking. The Nexus spat me out. I crawled this
-  far before I passed out."
+  entity_type: CHR
+raw_quote: '*//PATTERN-RECOGNITION: GERALT OF THE ANCHOR. TRIUNE SYNCHRONIZATION DETECTED.
+  ADAPTIVE PROTOCOLS ENGAGED.//'
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_047_mika.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_045_the_hub_falls.md
 status: captured
 supersedes: null

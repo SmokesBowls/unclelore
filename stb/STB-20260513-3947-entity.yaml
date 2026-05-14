@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-3947
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 349
+line_start: 349
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: In the days after the Keeper’s awakening, two Nephoretti who had stood
+  closest to the broken line when the discordant pulse rolled across the marsh began
+  to wake screaming in the dark. They spoke of shapes – not the swamp giants they
+  had fought, but the figures from the Ma'at, the ones that had moved in slow procession
+  and then vanished into the deep. The shapes did not attack. They simply stood at
+  the edge of sleep, watching.
+signal_type: entity
+source_file: raw/chapters/book_20_the_discordant_pulse_south_105_garden_grove.md
+status: captured
+supersedes: null

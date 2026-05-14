@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-5655
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 143
+line_start: 143
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale turned back to the passage. Nammu and Enlil waited just inside, their
+  crystalline patterns soft and open. Sera stood beside them, her palm pressed to
+  the wall, feeling the faint blue current that ran beneath the green.
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_121_aligning_the_pattern_at_the_labyrinths_threshold.txt
+status: captured
+supersedes: null

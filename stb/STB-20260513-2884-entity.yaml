@@ -2,20 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-2884
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 183
-line_start: 183
+line_end: 431
+line_start: 431
 parsed_payload:
   confidence: medium
-  entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: Tran felt his chest ignite with heat that should have killed him. The sensation
-  was like having a branding iron pressed against his heart from the inside, white-hot
-  metal searing through flesh and bone to etch patterns into his soul itself. He bit
-  down hard enough to crack a tooth, refusing to scream as crimson fire carved the
-  Scythe-Bearer's sigil into his sternum. When the burning finally faded, he could
-  feel the mark pulsing in rhythm with his heartbeat—a second heart made of living
-  flame.
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: 'Kyh’s portals dissolved with wet, gossamer sighs. Geralt didn’t move.
+  The boy’s footsteps faded into the distance, followed by the creak of branches and
+  the low, familiar growl of Oreck’s voice—too distant to parse words, but the tone
+  was unmistakable: equal parts exasperation and pride.'
 signal_type: entity
-source_file: raw/chapters/book_11_blood_and_legacy_062_falcon_ridge_showdown.md
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
 status: captured
 supersedes: null

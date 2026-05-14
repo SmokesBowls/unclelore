@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5805
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 309
+line_start: 309
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale was silent for a long moment. The needle's pulse was steady in his
+  chest. Luminaire's warmth was a faint but constant presence. The threads of the
+  Nexus points hummed at the edge of his awareness—three anchors, three places where
+  the resonance could rest, three beginnings.
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_124_the_last_threshold_release_of_the_constant.txt
+status: captured
+supersedes: null

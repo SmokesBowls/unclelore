@@ -2,18 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-0094
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 70
-line_start: 70
+line_end: 68
+line_start: 68
 parsed_payload:
   confidence: medium
-  entity_name: Aeon Keepers
-  entity_type: UNKNOWN
-raw_quote: Senareth, visiting the site for the first time in years, felt the Prime
-  connection pulse with recognition. The Aeon Keepers could see what the Giants couldn't
-  yet—that this basin, this cliff, this accidentally-fertile ground would someday
-  anchor a city. That humans would build into the wall, create dwellings and fortifications,
-  call it Ironspire and make it central to conflicts that hadn't begun yet.
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: Kyreth had been practicing vrill-manipulation in the shallows, learning
+  to sense the currents beneath ocean's surface. The water responded to consciousness-touch
+  more readily than stone or air—maybe because it was already in motion, already flowing.
+  Kyreth had managed to create small whirlpools, spirals that spun in response to
+  focused intention.
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+source_file: raw/chapters/book_01_book_of_genesis_003_first_contact.md
 status: captured
 supersedes: null

@@ -2,15 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-2176
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 304
-line_start: 304
+line_end: 141
+line_start: 141
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt stood alone in the courtyard, the broken chain-links of Karvex crumbling
-  to dust at his feet.
+  entity_type: CHR
+raw_quote: They tried to pull back. It was a slaughter. The drones harried them, the
+  turrets tracked them. Men and women fell with every step. Geralt found himself as
+  the rearguard, firing, moving, dragging a wounded soldier with him. The vestigial
+  wings on his back trembled uselessly.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_048_the_ledger_born.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_046_not_like_this.md
 status: captured
 supersedes: null

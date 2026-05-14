@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-4592
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 401
+line_start: 401
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: They crossed into a stretch of broken ground—flat stone split into long
+  plates, edges uneven, gaps running between them like seams. Vale slowed. Not because
+  he had to. Because he chose to. He stood at the edge of one of the seams. Waited.
+  At first—nothing. Then a faint distortion along the seam. Not ahead. Not distant.
+  Right where he was about to step. The air bent—just slightly. Like something was
+  about to occupy that space.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_112_eastern_system.txt
+status: captured
+supersedes: null

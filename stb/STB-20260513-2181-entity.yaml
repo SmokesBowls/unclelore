@@ -2,15 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-2181
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 344
-line_start: 344
+line_end: 187
+line_start: 187
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: And somewhere between the elements, between memory and legend, five pairs
-  of eyes watched Geralt walk away, ready to become what came next.
+  entity_type: CHR
+raw_quote: The dormant scales on Geralt’s breastplate rippled. Then they flowed.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_048_the_ledger_born.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_046_not_like_this.md
 status: captured
 supersedes: null

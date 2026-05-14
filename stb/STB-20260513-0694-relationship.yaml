@@ -2,16 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-0694
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 1405
-line_start: 1405
+line_end: 873
+line_start: 873
 parsed_payload:
-  predicate: serves
+  predicate: member_of
   subject: UNRESOLVED
   target: UNRESOLVED
   temporal_scope: unresolved
-raw_quote: They tumbled together, Reptilian and Anunnaki, two beings who'd served
-  the same masters finding themselves on opposite sides of conflict neither had anticipated.
+raw_quote: The scarred one—the slave with the whip mark running down one arm—had begun
+  positioning herself near their group during work shifts, though not quite part of
+  the five's tight formation. She watched the Nameless One with intensity that suggested
+  questions she couldn't yet articulate, observations she lacked framework to express.
+  But she was there. Present. Noticed.
 signal_type: relationship
-source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
+source_file: raw/chapters/book_05_the_nameless_one_024_the_first_spark.md
 status: captured
 supersedes: null

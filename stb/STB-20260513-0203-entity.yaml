@@ -2,15 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-0203
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 133
-line_start: 133
+line_end: 90
+line_start: 90
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: 'But Anunnaki consciousness-commands held absolute, and he could only watch
-  as the indigenous biologicals learned the first terrible lesson of Anunnaki occupation:'
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: 'The response came immediately, carried through consciousness-channels
+  that made physical communication seem primitive: "Acknowledged. Igigi transport
+  vessels dispatched. Estimated arrival: six solar cycles. Reptilian genesis: embryonic
+  development proceeding within acceptable parameters. First generation maturation:
+  forty-five solar cycles."'
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
+source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
 status: captured
 supersedes: null

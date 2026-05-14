@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-6110
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 315
+line_start: 315
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: She did not know another mouth had spoken it. The Igigi did not communicate.
+  But her half-second compliance delay held steady, and her palms remained warm, and
+  the syllable moved on her lips without sound, without intention, without end.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_129_calibration_drift.txt
+status: captured
+supersedes: null

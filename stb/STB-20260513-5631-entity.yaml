@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5631
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 49
+line_start: 49
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Miral stood at the pillar as they passed—her ancient face calm, her presence
+  steady. She would climb the ridge later, alone, and present herself to the Cliff
+  Giant elders. Not as a prisoner. As a witness. A thread between their story and
+  the network they had agreed to let Vale build.
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_121_aligning_the_pattern_at_the_labyrinths_threshold.txt
+status: captured
+supersedes: null

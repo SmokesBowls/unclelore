@@ -1,0 +1,24 @@
+audit_only: true
+buffer_id: STB-20260513-6340
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 178
+line_start: 178
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The lightning struck. The pulse entered a system already saturated with
+  forced coherence, and the addition of the lightning—the one constant that had never
+  failed, the 47-minute metronome that had always been separate from the network's
+  internal rhythms—was like a stone dropped into an overfilled vessel. The surge ebbed.
+  The alignment fractured, not gradually but immediately, the forced lock shattering
+  into its component pieces. The fragments separated. The doubled tones returned.
+  The corridor's heat dropped back to its steady one degree above ambient. The singer's
+  voice returned to her. The Igigi's hum split back into two frequencies. The old
+  woman's throat closed, and the name retreated into her chest, whole and silent and
+  unspoken.
+signal_type: entity
+source_file: raw/chapters/book_27_the_seam_deadly_words_south_135_final_constraint.txt
+status: captured
+supersedes: null

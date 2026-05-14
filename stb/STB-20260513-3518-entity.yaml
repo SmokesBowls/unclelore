@@ -2,16 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-3518
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 109
-line_start: 109
+line_end: 105
+line_start: 105
 parsed_payload:
   confidence: medium
-  entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: '"North, then," Tran said, noting how the three fragments pulsed with light
-  that illuminated their path through the thick mist. "To the mountains and the White
-  Fragment."'
+  entity_name: Aeon Keepers
+  entity_type: FAC
+raw_quote: Gaiana Stoneheart's crystalline eyes fixed on Tran with ancient wisdom.
+  "The Earth Giants remember the Aeon Keepers," she said, her voice like stone grinding
+  against stone. "They were guardians of balance, keepers of the Akashic Library,
+  channelers of the vril that flows between realms. The one who dwells within those
+  fragments sacrificed not just life, but purpose—binding duty to metal so that balance
+  might endure even as their world perished."
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_087_the_breath_of_life.md
+source_file: raw/chapters/book_16_fragmented_beginning_084_earth_giants_and_diverging_paths.md
 status: captured
 supersedes: null

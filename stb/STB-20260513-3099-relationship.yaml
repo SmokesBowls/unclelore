@@ -2,21 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-3099
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 366
-line_start: 366
+line_end: 441
+line_start: 441
 parsed_payload:
   predicate: member_of
   subject: UNRESOLVED
   target: UNRESOLVED
   temporal_scope: unresolved
-raw_quote: She understood that her friends—Tran with his Crimson Blood heritage, Viên
-  with his temporal abilities, the others who had gathered at Falcon Ridge during
-  the night of cosmic awakening—were all part of the same vast design, components
-  of systematic preparation for challenges and responsibilities that operated on scales
-  encompassing the welfare of entire star systems. Their meeting and bonding had not
-  been coincidental but represented culmination of planning and development that had
-  been ongoing for periods of time that transcended normal human comprehension.
+raw_quote: Viên's question revealed his understanding that their awakening and development
+  was connected to larger patterns that encompassed beings and purposes beyond their
+  immediate experience. "And Keen?" he asked, his voice carrying recognition that
+  their separation from their companions at Falcon Ridge had been part of cosmic planning
+  that extended far beyond immediate tactical considerations. "Her role in all this?"
 signal_type: relationship
-source_file: raw/chapters/book_12_forged_identity_070_spheres_truth.md
+source_file: raw/chapters/book_11_blood_and_legacy_065_secrets_of_the_deep.md
 status: captured
 supersedes: null

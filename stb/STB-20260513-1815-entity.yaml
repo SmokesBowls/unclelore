@@ -2,14 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-1815
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 1075
-line_start: 1075
+line_end: 111
+line_start: 111
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"Because you deserve better than fading into nothing." Geralt met his
-  gaze. "You deserve to live. To be free. To see what comes after all this pain."'
+  entity_type: CHR
+raw_quote: The pressure released. Luminara's presence receded like a tide pulling
+  back, leaving Geralt gasping. He felt her withdraw into that background hum—conscious,
+  present, but no longer straining to manifest.
 signal_type: entity
 source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
 status: captured

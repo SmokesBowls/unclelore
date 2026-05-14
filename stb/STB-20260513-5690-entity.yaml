@@ -1,0 +1,15 @@
+audit_only: true
+buffer_id: STB-20260513-5690
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 137
+line_start: 137
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale walked alone into the deepening red.
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_122_unravealing.txt
+status: captured
+supersedes: null

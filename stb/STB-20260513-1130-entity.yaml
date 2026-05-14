@@ -2,17 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-1130
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 87
-line_start: 87
+line_end: 759
+line_start: 759
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt felt the same instinct—that subtle wrongness that logic couldn't
-  justify but experience suggested respecting. But tactical window was narrow. Forces
-  were committed. Withdrawing based on undefined unease would damage morale and waste
-  preparation.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: He channeled telekinetic force—not trying to match the Overseer's technological
+  advantage but leveraging capability the Anunnaki couldn't replicate, pulling environment
+  itself into the battle. Sand rose in waves, creating barriers and projectiles. Debris
+  from shattered gate became improvised ammunition. The compound itself became weapon
+  against being who'd built it.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured
 supersedes: null

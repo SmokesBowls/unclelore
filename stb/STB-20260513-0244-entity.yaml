@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-0244
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 214
+line_start: 214
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: Outside the breeding facilities, Reptilian guards marched their patrol
+  routes. Anunnaki overseers coordinated construction timelines. And high above in
+  orbital position, Queen Eduhauana calculated resource extraction rates and approved
+  deployment protocols for the network infrastructure that would soon be built across
+  this small blue world.
+signal_type: entity
+source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+status: captured
+supersedes: null

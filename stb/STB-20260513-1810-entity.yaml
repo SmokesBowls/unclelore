@@ -2,14 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-1810
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 1005
-line_start: 1005
+line_end: 83
+line_start: 83
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt pulled it close. Embraced it. Let Luminaire's golden light flood
-  through the contact—not as purge, but as healing. As integration.
+  entity_type: CHR
+raw_quote: Ren's trembling had stopped. He stared at Geralt—at Luminara—with something
+  like awe. "You're... you're an emergency system. For the universe."
 signal_type: entity
 source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
 status: captured

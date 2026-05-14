@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-2835
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 225
+line_start: 225
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: The clone's grip was colder than the abyss. Geralt felt the pull in his
+  alloy bones—not downward, but *sideways*, into some impossible angle of existence
+  where his fractures didn't ache. The Dragon Mail's stolen divinity shrieked in protest,
+  its harmonics warping as the clone's perfect fingers began to dissolve his corroded
+  edges.
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+status: captured
+supersedes: null

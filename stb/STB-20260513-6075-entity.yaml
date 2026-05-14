@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-6075
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 145
+line_start: 145
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: She had not entered the city. The warmth was strongest at the wall. Beyond
+  it, the cold resumed—not the absolute cold of the deadlands, but the cold of occupation,
+  the cold of severed vrill channels and silenced stone. The warmth was a boundary.
+  The boundary was holding. She did not cross it.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_129_calibration_drift.txt
+status: captured
+supersedes: null

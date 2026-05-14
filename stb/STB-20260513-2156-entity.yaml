@@ -2,15 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2156
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 117
-line_start: 117
+line_end: 11
+line_start: 11
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt panted, blood dripping from a gash on his brow. His left wing was
-  bent. Armor was spiderwebbed with cracks.
+  entity_type: CHR
+raw_quote: 'Geralt nodded, his eyes never leaving the horizon. “The last encampment.
+  Intel from the freed at Hub Needle confirms it. Designation: Nibiru’s Grasp. Four
+  hundred souls in chains. Five hundred defenders. Maybe more.”'
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_048_the_ledger_born.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_046_not_like_this.md
 status: captured
 supersedes: null

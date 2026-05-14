@@ -2,25 +2,29 @@ audit_only: true
 buffer_id: STB-20260513-1501
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 97
-line_start: 97
+line_end: 83
+line_start: 83
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"Commander!" Jorik yelled, staggering back as primal harmonics threatened
-  to shatter his bones. Geralt braced himself, Star Needle applicator flaring crimson
-  warnings. He saw the Light Aspect – pure information, Mika’s face flickering within
-  its luminous matrix – merge with his tripartite signature. It wasn''t possession;
-  it was resonance amplification. His senses exploded. Suddenly, he perceived the
-  Sound Half’s terrifying trajectory: a screaming comet of raw chroniton fury hurtling
-  through a corridor where spatial dimensions frayed like rotten cloth. It was nanoseconds
-  from catastrophic dispersion. The Light Aspect *used* Geralt’s spire-tuned awareness,
-  projecting Mika’s resonant signature like a homing flare directly into the Sound
-  Half’s path. Not guidance. A *command*. *Redirect.* The Sound Aspect obeyed instantly,
-  violently altering course. It wasn''t heading for a distant spire anymore. It was
-  plunging *towards them*.'
+  entity_type: CHR
+raw_quote: 'Silence. Utter, crushing silence. Geralt collapsed to his knees within
+  the negation, gasping. The applicator sputtered, its casing spiderwebbed with cracks.
+  Zaron’s warmth felt seared, diminished. But the scar still pulsed before him—weakened,
+  but alive. Xal''Zirith’s stain. Rage, cold and absolute, replaced exhaustion. He
+  pushed himself up. The scar wasn''t just a wound. It was the Harbinger’s fingerprint.
+  Geralt didn''t raise his fists this time. He reached *into* the scar with both hands,
+  fingers plunging into the anti-light. He didn''t seek to destroy it. He sought to
+  *fill* it. Pouring his tripartite harmony—broken applicator, scorched armor, bleeding
+  will—directly into the negation. He forced reality *into* the unmaking. Made the
+  scar experience existence. Light. Sound. Sensation. Memory. The scar convulsed,
+  thrashing like a speared eel as Geralt’s defiance flooded its emptiness. It wasn''t
+  annihilation. It was forced incarnation. And under the unbearable weight of *being*,
+  the conceptual stain shattered. Gone. Only exhaustion remained. And purpose. Beyond
+  the fading scar, a new path glimmered—the way forward. Kaelen’s voice echoed, faint
+  but clear: "The Nexus shifts. Move." Geralt staggered towards the light. The hunt
+  continued.'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
+source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
 status: captured
 supersedes: null

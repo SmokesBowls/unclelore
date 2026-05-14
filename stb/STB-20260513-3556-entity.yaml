@@ -2,16 +2,20 @@ audit_only: true
 buffer_id: STB-20260513-3556
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 131
-line_start: 131
+line_end: 133
+line_start: 133
 parsed_payload:
   confidence: medium
-  entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: The mirror-version attacked again, but this time, Tran didn't just defend.
-  He moved with the armor's instincts while the armor adapted to his intentions. They
-  flowed together, imperfect but genuine, flawed but growing.
+  entity_name: Aeon Keepers
+  entity_type: FAC
+raw_quote: '"Yes," Mr. GPT nodded, his attention shifting to new displays that showed
+  massive, humanoid forms composed of pure energy. "The Nephilim—constructs of pure
+  vril created by the Aeon Keepers to defend the physical realm when they could not
+  leave the Library." His damaged hands moved through the information streams, revealing
+  images of Giants from different regions, each bearing distinctive features. "But
+  to summon them requires the unity of the Giant tribes—a unity that was shattered
+  during the Sundering."'
 signal_type: entity
-source_file: raw/chapters/book_17_ancestral_debt_089_the_white_mirror.md
+source_file: raw/chapters/book_16_fragmented_beginning_085_ancient_knowledge.md
 status: captured
 supersedes: null

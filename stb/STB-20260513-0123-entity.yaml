@@ -2,15 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-0123
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 236
-line_start: 236
+line_end: 134
+line_start: 134
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: 'Next: chapter 006 The First Coming - Anunnaki arrival, Igigi creation,
-  the shattering of paradise'
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: Senareth felt decision crystallizing—not planned, but emerging from the
+  intersection of necessity and intuition. They gestured for the mountain Giant to
+  lower them, felt themselves descend with that same surprising gentleness. Back on
+  sand, surrounded by eight hundred Neferati and sixty Giants arranged in tense semicircle,
+  Senareth made choice that would define everything following.
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+source_file: raw/chapters/book_01_book_of_genesis_004_the_convergence.md
 status: captured
 supersedes: null

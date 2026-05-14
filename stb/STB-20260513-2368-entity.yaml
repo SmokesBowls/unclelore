@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2368
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 305
-line_start: 305
+line_end: 641
+line_start: 641
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: It wasn't a guardian. It wasn't even truly alive. It was a machine with
-  a hunger, an Anunnaki terraforming weapon left to gorge until the planet's heart
-  stopped.
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: Geralt looked at the humming Spire, then at the fading elemental signs
+  of the exhausted Five Mikas, then at Oreck, who had just left everything to stand
+  here.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_051_arrival_in_fire.md
+source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
 status: captured
 supersedes: null

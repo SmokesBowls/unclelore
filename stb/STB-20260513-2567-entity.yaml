@@ -2,21 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2567
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 57
-line_start: 57
+line_end: 267
+line_start: 267
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: The black dragon's labored breaths sent tremors through the lunar dust,
-  each exhale flecked with molten gold—the color of dying stars. Around it, the four
-  others stood sentinel, their wings forming a living barrier against the spreading
-  white sky. Kyh's shadow-form flickered with recognition. "Pyrocast," she whispered.
-  The crimson dragon's massive head swung toward them, its eyes twin supernovae contained
-  in obsidian. A memory unfolded—flames licking at Geralt's armor, the scent of charred
-  Anunnaki biotech, the moment this same beast had spared them when it could have
-  turned them to ash.
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: Geralt collapsed to his knees, gasping, back in control. The network’s
+  signal was a furious roar in his head, but it was outside him now, pounding at the
+  gates.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
+source_file: raw/chapters/book_09_bureaucratic_debt_053_the_twilight_city.md
 status: captured
 supersedes: null

@@ -2,17 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-3626
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 70
-line_start: 70
+line_end: 110
+line_start: 110
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: On the Path of Dominance, he felt the seductive pull of absolute power.
-  No more uncertainty, no more human frailty. But he also felt the loss—his memories
-  fading, his connections to others becoming distant echoes. Tran rejected this path.
-  "Power without humanity is just another form of death."
+  entity_type: CHR
+raw_quote: As they began their journey out of the marshlands, Tran felt the armor
+  moving more confidently against his skin—less the nervous adolescent it had been,
+  now more like a young adult finding its purpose. With each fragment, Zaron's consciousness
+  grew more coherent, more present.
 signal_type: entity
-source_file: raw/chapters/book_18_inquisition_of_yourself_096_violet_convergence.md
+source_file: raw/chapters/book_16_fragmented_beginning_087_the_breath_of_life.md
 status: captured
 supersedes: null

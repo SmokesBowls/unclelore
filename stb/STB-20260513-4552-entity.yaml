@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-4552
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 344
+line_start: 344
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The Igigi watched Vale's face. Something passed between them—not understanding,
+  but acknowledgment. Then the Igigi shook his head, a small motion. "But that ain't
+  a short story, my boy." He picked up the leafbowl, took a long drink, and set it
+  down. "That part can wait." He leaned back against the boulder. "Get some rest."
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_112_eastern_system.txt
+status: captured
+supersedes: null

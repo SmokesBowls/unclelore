@@ -2,18 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0017
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 110
-line_start: 110
+line_end: 90
+line_start: 90
 parsed_payload:
   confidence: medium
   entity_name: Nephoretti
-  entity_type: UNKNOWN
-raw_quote: The decision crystallized among them—not through vote or debate, but through
-  that deeper consensus that came from consciousnesses that had merged and separated
-  countless times over millennia. They would manifest the Nephoretti. They would send
-  them down to the forming world below. They would give both the Nephoretti and the
-  transformed Pelagor a chance to build something new from the ashes of what had been
-  lost.
+  entity_type: SPEC
+raw_quote: '"That was when we had physical bodies ourselves," Theron pointed out.
+  "When we could walk among them, provide direct guidance. Now we exist only in the
+  Ethereal. The Nephoretti would be truly autonomous, guided only by the initial intentions
+  we craft into their consciousness at the moment of formation."'
 signal_type: entity
 source_file: raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
 status: captured

@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5601
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 426
+line_start: 426
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: The chamber was circular, its floor worn smooth, its walls rising to a
+  ceiling lost in grey haze. At its center, a single stone stood upright—twice Vale's
+  height, its surface dark, veined with a deep, dull red that seemed to pulse faintly
+  in the dim light.
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_120_the_language_of_stone.txt
+status: captured
+supersedes: null

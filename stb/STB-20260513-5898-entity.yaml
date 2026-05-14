@@ -1,0 +1,25 @@
+audit_only: true
+buffer_id: STB-20260513-5898
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 17
+line_start: 17
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: In the eastern workshop, Sera’s hands moved through vrill-seed and damp
+  clay, her song a low, steady thread against the silence. It used to be that the
+  needle answered before she finished the phrase. Now, she sang the full arc, waited,
+  and felt only the echo return. *“We are pressing hope into the stone, layer by layer,”*
+  she told Mora one evening, wiping grit from her jaw, *“but the needle no longer
+  answers before the question is asked.”* Mora didn’t flinch. She simply hummed the
+  binding tone a half-step lower, letting it settle into the mortar between terrace
+  stones. *“Then we sing until it remembers how,”* she said. But the worry lived in
+  the spaces between their notes. The First Shadow had brought the Igigi. The Second
+  was written in the fatigue of the bedrock, the Third almost frozen in time. And
+  without Vale’s pulse to ground it, the land felt unspooled.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_126_i_am_island.txt
+status: captured
+supersedes: null

@@ -2,16 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-1952
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 100
-line_start: 100
+line_end: 75
+line_start: 75
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: She was gone, leaving Geralt with the crystal, the crushing weight of a
-  millennia-long vigil, and the cold, undeniable fact that he was no longer just a
-  man. He was becoming infrastructure..
+  entity_type: CHR
+raw_quote: Geralt nodded. “We are. You need to evacuate. This forest is dying.”
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_044_the_mountains_shadow.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_042_the_verdant_crossing.md
 status: captured
 supersedes: null

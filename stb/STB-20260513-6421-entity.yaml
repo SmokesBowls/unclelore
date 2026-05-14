@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-6421
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 535
+line_start: 535
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: The first attack comes as a fractal blade—eighteen planes of compressed
+  spacetime slicing where his neck was a picosecond ago. Vale moves *through* it,
+  the ship's stolen graviton principles rewriting local physics to accommodate his
+  mass.
+signal_type: entity
+source_file: raw/chapters/book_27_the_seam_deadly_words_south_139_final_calculations.txt
+status: captured
+supersedes: null

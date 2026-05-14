@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-6104
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 295
+line_start: 295
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: It was not a word. It was not a call. It was the same fragment the older
+  female had spoken in the eastern channel, the same memory of a name that had not
+  been completed since the thread was severed, the same broken beginning that the
+  stone had carried and the chamber had received and the Nephoretti singer had felt
+  as a catch in her throat during the evening vigil. He did not know the older female
+  had spoken it. He did not know anyone had spoken it. The Igigi did not speak. The
+  Igigi had not spoken for millennia.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_129_calibration_drift.txt
+status: captured
+supersedes: null

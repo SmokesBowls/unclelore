@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0724
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 141
-line_start: 141
+line_end: 541
+line_start: 541
 parsed_payload:
   confidence: medium
-  entity_name: Nehereti
-  entity_type: UNKNOWN
-raw_quote: The Nameless One looked at the Nehereti, at the patient, ancient beings
-  who'd survived their world's destruction and lingered as echoes, as memories, as
-  facilitators for those who came after.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: 'The compound as it was before: vast, sprawling, thousands of Anunnaki
+  operating in perfect coordination. Millions of slaves across dozens of facilities.
+  A network of Applicators maintaining control, ensuring compliance, transforming
+  organic consciousness into extensions of Anunnaki will.'
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_026_dragonmail.md
+source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
 status: captured
 supersedes: null

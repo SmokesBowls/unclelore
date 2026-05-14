@@ -1,0 +1,22 @@
+audit_only: true
+buffer_id: STB-20260513-1354
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 11
+line_start: 11
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: He reached out a grimy, trembling hand. Fingertips brushed the cold, glassy
+  surface. The world didn't shimmer. It *fractured*. Light bent unnaturally around
+  the spire. Time hiccuped. And then she was simply *there*, standing beside the Needle
+  as if she'd always been part of the landscape. Tall, impossibly still, her eyes
+  holding galaxies. Her gaze pinned him, not with hostility, but with profound, weary
+  recognition. She spoke, her voice echoing slightly out of sync with her lips. "Geralt
+  of the Shattered Legion. You are… inconveniently early."
+signal_type: relationship
+source_file: raw/chapters/book_06_the_ragnarok_032_the_redo.md
+status: captured
+supersedes: null

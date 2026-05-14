@@ -2,14 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-1040
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 729
-line_start: 729
+line_end: 123
+line_start: 123
 parsed_payload:
   confidence: medium
   entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: '"You dare approach this facility? You dare attack authorized Anunnaki
-  operation? You dare claim armor you have no right to possess?"'
+  entity_type: FAC
+raw_quote: '"They will be relocated to appropriate facilities pending determination
+  of their status. The Anunnaki evacuation order remains in effect. This compound
+  will be sealed and decommissioned. All parties will comply with Federation directives."'
 signal_type: entity
 source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured

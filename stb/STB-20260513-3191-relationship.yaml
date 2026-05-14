@@ -1,0 +1,22 @@
+audit_only: true
+buffer_id: STB-20260513-3191
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 154
+line_start: 154
+parsed_payload:
+  predicate: serves
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: The echo that returned from his call carried harmonics that seemed wrong
+  somehow, as if the sound was being reflected by surfaces that existed in dimensions
+  beyond normal three-dimensional space, or modified by forces that could manipulate
+  the basic properties of wave propagation in ways that served purposes beyond simple
+  acoustic reflection. The distortion was subtle but unmistakable to anyone whose
+  enhanced perception could detect the difference between normal physical phenomena
+  and supernatural interference.
+signal_type: relationship
+source_file: raw/chapters/book_12_forged_identity_070_spheres_truth.md
+status: captured
+supersedes: null

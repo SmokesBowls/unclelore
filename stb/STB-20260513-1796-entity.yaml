@@ -2,16 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-1796
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 895
-line_start: 895
+line_end: 11
+line_start: 11
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'Geralt smiled despite the pain still radiating through his transformed
-  body. He touched his chest plate—the dragon armor was silent now. Not dead. Resting.
-  Zaron had given what remained to forge the bridge. The metal was cool, inert, but
-  Geralt could still feel the echo of the dragon’s final thought:'
+  entity_type: CHR
+raw_quote: '"Tiamat''s grace," Geralt rasped. His throat felt raw from screaming her
+  true name into the earth. "Not mine."'
 signal_type: entity
 source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
 status: captured

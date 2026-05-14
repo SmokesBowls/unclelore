@@ -1,0 +1,22 @@
+audit_only: true
+buffer_id: STB-20260513-5927
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 182
+line_start: 182
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: The system maintained its slow audit. The void and vrill hummed beneath
+  his skin, caught in a loop that refused to resolve into motion. He did not know
+  how many seconds had passed. He only knew the weight of them. Each one carried the
+  full length of the past. Each one demanded he endure the suspension again. The correction
+  did not break. It only held. He remained exactly where he had been. He remained
+  exactly where the math could not place him. The transit stretched. The eternity
+  deepened. The waiting did not end. It only folded into the next second, and the
+  next, and the next, each one a fresh beginning of the same suspended fall.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_126_i_am_island.txt
+status: captured
+supersedes: null

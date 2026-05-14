@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-4943
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 90
+line_start: 90
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale remembered what Granite had told him, months ago, about the swamp
+  giants' sight. They see movement and heat. Details escape them. They read the world
+  through pressure, through vibration, through the null that connects them to the
+  stone. Up close, the limitation was obvious. The swamp lead's eyes were milky, unfocused,
+  tracking Zephyr's approach more by the shift of his weight on the stone than by
+  any visual clarity.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_115_the_shape_of_asking.txt
+status: captured
+supersedes: null

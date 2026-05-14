@@ -2,18 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-1315
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 255
-line_start: 255
+line_end: 936
+line_start: 936
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: Two hundred and fifty pairs of boots crunched over shattered rock. The
-  Anunnaki ship hadn't landed; it had carved its tomb. Twenty miles of armored hull
-  lay crumpled against the peaks, plowing valleys where none existed yesterday. Jagged
-  metal cliffs rose higher than cathedrals, dripping coolant like black blood. The
-  air reeked of scorched earth and something disturbingly sweet.
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: The command center's main entrance exploded inward—not from Geralt's side
+  but from external assault, from security forces that had finally coordinated response,
+  from crew that understood command center had been compromised and was preparing
+  to reclaim it through overwhelming force.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_033_the_march.md
+source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured
 supersedes: null

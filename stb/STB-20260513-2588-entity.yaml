@@ -2,21 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2588
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 131
-line_start: 131
+line_end: 11
+line_start: 11
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Pyrocast's warning came half a second too late—Geralt's bones turned to
-  liquid as the dragon inverted gravity beneath them. The moonlet vanished upwards
-  while the nebula yawned below, its tendrils now a gaping maw of ionized mist. The
-  first void wind hit like a sledgehammer of frozen mercury, nearly wrenching Geralt
-  from Pyrocast's spines. He clung tighter, fingers locking into the grooves between
-  scales that pulsed with ancient blood-magic. Around them, the other dragons banked
-  hard—jade serpent coiling into a spring, tawny beast folding its wings into a bullet—as
-  the stormfront swallowed them whole.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: The silence after Zar'Vokh was not peaceful. It was the quiet of a wound
+  clotting, thick and fragile. In the dim hold of their repurposed Anunnaki skiff,
+  Luminaire's light pulsed weakly as he delivered the verdict.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
+source_file: raw/chapters/book_09_bureaucratic_debt_054_tue_lunar_spire.md
 status: captured
 supersedes: null

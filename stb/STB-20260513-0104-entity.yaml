@@ -2,18 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-0104
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 136
-line_start: 136
+line_end: 7
+line_start: 7
 parsed_payload:
   confidence: medium
-  entity_name: Neferati
-  entity_type: UNKNOWN
-raw_quote: '"Natural architecture," Elyraen explained to the assembled council—a gathering
-  that now included representatives from all Giant factions and Neferati groups. "The
-  planet has its own geometry, its own preferred pathways for energy flow. We''ve
-  been building randomly. But if we align our structures with these natural convergence
-  points..."'
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: 'POV / FOCUS: Senareth (Nephoretti Prime), Elyraen, Olythae, Torhh, Unnamed
+  Mountain Giant'
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+source_file: raw/chapters/book_01_book_of_genesis_004_the_convergence.md
 status: captured
 supersedes: null

@@ -2,40 +2,30 @@ audit_only: true
 buffer_id: STB-20260513-1564
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 25
-line_start: 25
+line_end: 57
+line_start: 57
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: The violet veins flickered. Dimmed. For an instant, the Luminaire’s core
-  shone pure, trapped lightning refracted through murk—a dazzling prism of sound made
-  visible. Hope sparked. Then the Sludge-drake Alpha emerged. Twice the size of the
-  others, its carapace bore scars of Anunnaki implants forcibly welded to its spine.
-  It reared, throat swelling. Not acid. A beam of corrupted luminescence ripped toward
-  Lyra—a mimicry of the Spire’s own power, twisted and vile. Mika lunged, shield-first.
-  The blast hammered her back, cracking her kinetic field like glass. She skidded
-  across wet stone, gasping. Oreck intercepted the Alpha’s follow-up strike. His cleaver
-  met its descending claw. Metal screamed. Chroniton sparks showered the water. Halvar
-  and Torren flanked the beast, blades useless against its thick plates. Jorik peppered
-  its eyes, buying seconds. Geralt’s focus never wavered from the Spire. Zaron’s power
-  intensified. Azure light coiled around the obsidian needle, peeling back the violet
-  corruption strand by agonizing strand. Lyra’s hands trembled as her filaments fused
-  deeper into the resonance field. "Almost… synced!" The Alpha screeched. Its tail
-  whipped, sending Torren crashing into a crumbling wall. Halvar leapt atop its back,
-  dagger stabbing for implant seams. Useless. The beast bucked, flinging him into
-  dark water. Mika staggered upright, shock-lance spitting unstable energy. "Geralt!
-  We need—". The Luminaire flared again. Brighter. Cleaner. The Alpha recoiled, its
-  corrupted light beam sputtering. Oreck seized the moment. His cleaver plunged into
-  the beast’s neck joint. Not flesh. The chroniton blade targeted the pulsing Anunnaki
-  implant grafted to its spine. Melted wiring exploded outward. The Alpha shrieked,
-  collapsing. Silence fell. Only the drip of water and the Luminaire’s pure, strengthening
-  hum remained. Lyra withdrew her filaments, swaying. "Anchor stabilized… for now."
-  The violet veins were faded ghosts. But beneath the obsidian spire, the water still
-  churned. Something deeper than drakes stirred. The descent wasn’t over. Geralt turned
-  toward the Stair’s shadowed continuation. "Move." Integration had bought them time.
-  The Darkness ahead? That was revelation’s price.
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: The predawn light painted the peaks in shades of bone and ash. Geralt stood
+  ready beside Jorik. The scout wore layered furs, his longbow slung and a quiver
+  of heavy arrows on his back. His jaw was set tight. Sella clasped Geralt's forearm
+  once more. "Safe passage, Commander. Find your army." She nodded curtly at Jorik.
+  "Watch his back." The ascent began immediately, steep and silent. The air grew thinner,
+  sharper. They traversed scree slopes and knife-edge ridges. Jorik moved with uncanny
+  silence, his eyes constantly scanning the rocks above. Geralt felt the Giants' gaze
+  intensify – a chilling pressure, like glaciers grinding against his mind. It wasn't
+  anger, but profound disinterest bordering on disdain. They saw the armor, the applicator,
+  the stolen fire. They saw a trespasser. The Neferati's subtle influence felt like
+  thin oil on turbulent water, barely holding the Giants' outright rejection at bay.
+  As they approached a massive, weathered monolith etched with faint, swirling symbols
+  – the Whispering Stone – Jorik stopped. "This is it," he breathed, unease thick
+  in his voice. The Stone hummed faintly, resonating with the mountain's disapproval.
+  Beyond it, the path vanished into sheer cliffs and swirling mist. Jorik looked at
+  Geralt, conflict stark in his eyes. "Commander... beyond here..." His hand tightened
+  on his bow.
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
 status: captured
 supersedes: null

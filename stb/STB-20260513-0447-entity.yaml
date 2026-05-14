@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-0447
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 48
+line_start: 48
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The chamber erupted into controlled chaos as Igigi consciousness-forms
+  began initiating emergency scatter protocols. Some moved toward hidden transport
+  pods, others activated personal phase-shift technologies that would displace them
+  across dimensional barriers. But the council remained, the weight of their choice
+  hanging between them like a physical presence.
+signal_type: entity
+source_file: raw/chapters/book_04_sage_saga_016_the_choice_third_coming.md
+status: captured
+supersedes: null

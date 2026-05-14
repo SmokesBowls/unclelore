@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-4562
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 358
+line_start: 358
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: '"Found one. Still alive." The Igigi picked up a small stone, turned it
+  over. "Didn''t fight. Didn''t run." He set the stone down. "So I kept it alive…
+  taught it what I knew." A pause. "Thing taught me a little back."'
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_112_eastern_system.txt
+status: captured
+supersedes: null

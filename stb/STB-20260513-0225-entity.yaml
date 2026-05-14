@@ -2,18 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0225
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 113
-line_start: 113
+line_end: 166
+line_start: 166
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: Eduhauana turned back toward her vessel, calculation complete, strategy
-  determined. "Continue construction with current resources. Accept the delays—they're
-  now serving secondary purposes. Before departure, I will personally program select
-  Igigi with consciousness-commands carrying the lies we need planted. The Giants
-  will trust them because they recognize fellow victims of Anunnaki conquest."
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: '"Deploy first generation to security positions," Ninurta instructed the
+  chamber''s tactical consciousness. "Assign patrol routes around manufacturing complex.
+  Interface with Igigi workforce coordinators. Prepare combat protocols should indigenous
+  biological interference occur."'
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_008_queens_assessment.md
+source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
 status: captured
 supersedes: null

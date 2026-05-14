@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-6314
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 748
+line_start: 748
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: Heaven—the real Heaven, the name the Anunnaki had stolen and turned into
+  a curse—began to hum. Its engines, dormant for two centuries, stirred. The void-core
+  pulsed. The hull plates shifted, bulkheads reorienting along original stress lines
+  that had been suppressed by Anunnaki patchwork.
+signal_type: entity
+source_file: raw/chapters/book_27_the_seam_deadly_words_south_1139_1139.txt
+status: captured
+supersedes: null

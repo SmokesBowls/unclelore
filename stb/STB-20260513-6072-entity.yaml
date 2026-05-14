@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-6072
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 115
+line_start: 115
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: The watcher waited. The light peaked. The second scream did not come. He
+  shifted his weight. The branch beneath him creaked. In the grove below, the Nephoretti
+  continued their morning vigil, their tones now a full quarter-step sharper than
+  they had been a week ago. They had not noticed the silence. They were inside the
+  song.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_129_calibration_drift.txt
+status: captured
+supersedes: null

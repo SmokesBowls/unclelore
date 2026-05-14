@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-4839
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 393
+line_start: 393
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale said nothing. He sat with Zephyr in the gathering dark, two figures
+  on the highest terrace, watching the stars come out over the water.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_113_the_edge_of_return.txt
+status: captured
+supersedes: null

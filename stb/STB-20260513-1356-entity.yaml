@@ -2,30 +2,22 @@ audit_only: true
 buffer_id: STB-20260513-1356
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 52
-line_start: 52
+line_end: 19
+line_start: 19
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'The predator fought with stolen moments – claws phasing through time to
-  strike from impossible angles, screeches echoing from three different eras simultaneously.
-  Geralt moved on instinct, the applicator predicting temporal shifts milliseconds
-  ahead, the armor deflecting chroniton claws. He landed a solid blow, shattering
-  a rib-bone. The predator shrieked, retreating towards the fracture. "It draws us
-  in!" Kaelen warned, intercepting another lunge. Geralt felt the fracture’s pull
-  intensify, whispering promises of forgotten timelines. He saw a fleeting image:
-  Mika, trapped mid-fall through swirling void-light. *No.* He anchored deeper. "How
-  do we stop it?" he yelled, parrying a claw aimed at his throat. "End its paradox!"
-  Kaelen shouted back, her blade tracing a complex temporal sigil that momentarily
-  solidified the air. "It exists by trapping moments outside their flow! Force its
-  stolen time *back* into sequence!" Geralt understood. He wasn''t just fighting;
-  he was conducting time itself. He poured his will into the applicator, targeting
-  the knotted threads binding a stolen city street scene. He visualized the sequence
-  restored – the honking car completing its turn. He pulsed his harmony. The street
-  scene snapped back into its temporal lane and vanished. The predator stumbled, its
-  stolen power flickering.'
+  entity_type: CHR
+raw_quote: Kaelen stepped closer, her movements unnervingly smooth. "Want? To stitch
+  the wound *you* tore. The Needle's activation is premature. It creates… instability.
+  A localized temporal vortex." She pointed towards the deepest gouge in the canyon
+  floor, near the crumpled bow of the airship. The air above it shimmered, warping
+  light into impossible geometries. "See that distortion? That's *now*. But within
+  it…" Her voice dropped, heavy with implication. "...is an echo. *Your* echo. The
+  moment your legion was unmade." She looked back at him, her galactic eyes holding
+  his. "You wish to learn how to wield ancient powers? How to defy the Queen’s dominion?
+  Step into the vortex, Geralt. Step into the eye of your own storm. Learn by *undoing*."
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_034_the_250.md
+source_file: raw/chapters/book_06_the_ragnarok_032_the_redo.md
 status: captured
 supersedes: null

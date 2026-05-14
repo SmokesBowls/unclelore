@@ -2,21 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-3059
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 79
-line_start: 79
+line_end: 133
+line_start: 133
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: Over the following days, Tran devoted himself to understanding the Needle's
-  capabilities and to developing his interface skills to the extent possible while
-  awaiting the arrival of the teacher whose approach the installation had detected.
-  Through sustained contact with the Needle's consciousness, he began to perceive
-  awakening activities across the continent as other installations responded to activation
-  signals and as individuals with appropriate heritage and development began to manifest
-  abilities that connected them to networks and systems that had remained hidden for
-  millennia.
+  entity_type: CHR
+raw_quote: The implications of what he was learning settled over Tran like a mantle
+  woven from destiny and responsibility in equal measure. He was not simply the descendant
+  of powerful beings—he was the inheritor of a legacy that had been purchased through
+  ultimate sacrifice, the living embodiment of his ancestor's refusal to allow cosmic
+  tyranny to claim another generation of souls.
 signal_type: entity
-source_file: raw/chapters/book_12_forged_identity_069_divergent_paths.md
+source_file: raw/chapters/book_11_blood_and_legacy_065_secrets_of_the_deep.md
 status: captured
 supersedes: null

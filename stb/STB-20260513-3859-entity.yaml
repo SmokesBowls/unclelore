@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-3859
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 423
+line_start: 423
+parsed_payload:
+  confidence: medium
+  entity_name: Zaryonic Pattern
+  entity_type: SYS
+raw_quote: She began walking toward the throne room's exit, pausing only to look back
+  at Viên. "You're coming with me, of course. My fragmented son, carrier of the Zaryonic
+  pattern. You'll have the best view of what's to come."
+signal_type: entity
+source_file: raw/chapters/book_19_worthy_opponents_north_102_convergence_on_mars.md
+status: captured
+supersedes: null

@@ -1,0 +1,22 @@
+audit_only: true
+buffer_id: STB-20260513-6206
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 110
+line_start: 110
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: She pressed her forehead to the chimney stone. The fragment in her own
+  chest—the full name, both halves, held silent for longer than anyone—was quiet.
+  It had always been quiet. She had learned to hold it decades ago, and the holding
+  had become part of her, and the cost had been paid so long ago that she no longer
+  remembered what it had taken from her. But she recognized the strain in the others.
+  She remembered what it felt like to hold something too heavy for too long and not
+  know if the holding would break you.
+signal_type: relationship
+source_file: raw/chapters/book_26_the_seam_long_dark_south_133_threshold.txt
+status: captured
+supersedes: null

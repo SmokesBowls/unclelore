@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-4766
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 51
+line_start: 51
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: The taller figure moved like Vale. But not quite like Vale. There was something
+  different in the way he walked now—a pause before each step, a hesitation that was
+  not uncertainty but listening. And the shorter figure behind him… Stonefall had
+  seen Igigi before. Three of them had fallen from the sky and made their home in
+  First Shore. But this one was different. His proportions were the same, but his
+  posture was older, heavier, carrying something that the others did not.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_113_the_edge_of_return.txt
+status: captured
+supersedes: null

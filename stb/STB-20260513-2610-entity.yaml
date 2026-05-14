@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2610
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 219
-line_start: 219
+line_end: 217
+line_start: 217
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"—the tighter it sings," Geralt finished. The numbness in his chest yawned
-  wider. He''d seen this before, in the Queen''s other traps. A contradiction given
-  form: the harder you resisted, the more perfectly you were bound.'
+  entity_type: CHR
+raw_quote: Geralt looked up, his eyes holding a new, grim knowledge. "I saw what we're
+  really fighting. We're not just trying to destroy a weapon. We're trying to stop
+  a story from being written. A story that ends with all of us as forgotten footnotes."
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
+source_file: raw/chapters/book_09_bureaucratic_debt_054_tue_lunar_spire.md
 status: captured
 supersedes: null

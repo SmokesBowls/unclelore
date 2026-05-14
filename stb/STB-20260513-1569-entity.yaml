@@ -2,23 +2,27 @@ audit_only: true
 buffer_id: STB-20260513-1569
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 49
-line_start: 49
+line_end: 63
+line_start: 63
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: 'Light stabbed their eyes. The obsidian Void Spire plunged downward into
-  the Lucid Storm—an underground lake burning with captured energy, teal and blinding.
-  Static crackled across Geralt’s vambrace, shorting displays. Legionnaire shields
-  flickered, failing. Lyra cursed as her medicae rig sparked, injectors dropping inert.
-  Bioluminescent horrors—eel-things woven from lightning—snaked through the water,
-  drawn to kinetic fields. Mika glanced left. Torren’s reflection shimmered on the
-  lake surface—not his scarred face, but a sneering warlord draped in Anunnaki sigils.
-  Halvar recoiled from his own reflection: a skeletal husk bleeding shadow. Geralt
-  saw Zaren’s dragon form fractured, scales edged in violet rot. The Luminaire’s light
-  didn’t illuminate. It judged.'
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: Suddenly, the rock beneath Geralt’s boot dissolved. Not crumbled – *flowed*.
+  The ledge liquefied into swirling vapour. He pitched sideways into thin air. Jorik
+  yelled, grabbing futilely. The mountain itself was rejecting them. Geralt plummeted
+  – then slammed onto an invisible platform of solidified mist. It shimmered beneath
+  him, icy cold. Looking up, he saw Jorik frozen mid-reach, suspended on another disc
+  of cloud-stone. Before them, impossibly tall, stood Althurion, First Speaker. His
+  skin held the blue-white sheen of glacial ice, his eyes the pale, infinite expanse
+  of a winter sky. Tendrils of cloud wreathed his form. He didn't speak; the harmonics
+  emerged directly from the vibrating air itself, deep and resonant, making Geralt’s
+  bones hum. **"Trespassers."** The word wasn't accusation, merely fact. **"You wear
+  stolen fire. You climb with violence. You disturb the Aetherhold's song."** His
+  gaze, ancient and utterly alien, locked onto Geralt’s armor, then flicked to Jorik’s
+  bow. The mountain’s disapproval solidified into crushing pressure. Geralt felt the
+  Neferati’s subtle influence fraying like old rope. This was raw Giantsong, unmediated.
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
 status: captured
 supersedes: null

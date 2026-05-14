@@ -2,15 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0827
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 209
-line_start: 209
+line_end: 271
+line_start: 271
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt placed his palm against the stone, feeling for... something. The
-  Nehereti had said the armor waited here. Surely there was method for—
+  entity_type: CHR
+raw_quote: Geralt stared at his planet from perspective he'd never imagined achieving.
+  Saw it whole. Complete. A single organism hanging in void, precious and fragile
+  and worth everything.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+source_file: raw/chapters/book_05_the_nameless_one_026_dragonmail.md
 status: captured
 supersedes: null

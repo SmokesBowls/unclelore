@@ -2,31 +2,23 @@ audit_only: true
 buffer_id: STB-20260513-1547
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 67
-line_start: 67
+line_end: 23
+line_start: 23
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: 'Mika’s sharp eyes scanned Sahvant’s Circle, noting the precision tools,
-  the adapted Anunnaki sensors grafted onto their suits. She saw potential – scouts
-  equipped to detect temporal anomalies, engineers who might stabilize volatile tech
-  faster than her legionnaires. Her mind raced: *Useful. Untested.* She stepped forward,
-  her voice crisp and tactical, addressing Sahvant directly. “Your Circle operates
-  under Legion protection on this salvage field. Provisional status.” She gestured
-  towards the smoking wreckage. “Detailed scans of all chroniton-bleed sources. Full
-  spectral analysis delivered to me by dusk.” Her gaze hardened. “Disobey, divert
-  resources, or compromise the Legion’s position… and your technological fortress
-  becomes slag.” Beside her, Oreck shifted his massive bulk, the green arrows on his
-  greaves subtly angling towards the Circle members closest to Sahvant. His amber
-  eyes, flecked with chroniton light, fixed on the Professor. No threat was voiced.
-  None was needed. The silent guardian’s vigilance was a palpable wall. Geralt, already
-  moving northwest, felt Zaron’s spirit coil tighter within the armor, a low, psychic
-  thrum echoing his own wariness. *Ambition flickers*, the dragon-spirit seemed to
-  whisper. *Watch the spark.* The Akashic echoes whispered caution – Sahvant’s idealism
-  could forge shields or shatter them. Geralt filed the risk away, another variable
-  in the hunt for Luminaire’s fractured song. The desolate sands beckoned.'
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: He gestured towards the five open doorways. Within the shadows, Mika could
+  just discern still forms lying on biers of shimmering energy. "The Echo Chamber
+  facilitates resurrection," Zypher continued. "But it demands choice. They battle
+  oblivion now, deciding whether to return. If they choose life, they will emerge...
+  themselves. Wholly. Loyal to Geralt unto death, just as they were. Geralt himself?
+  He hasn't passed. I cannot verify it, but I *know* it. He endures. And I expect
+  him to find his own way back." Zypher's gaze swept over Mika, Oreck, Dren, and Kael.
+  "Your army is free to depart or stay. They are welcome here. But Geralt... he will
+  come. He always finds the path." His eyes returned to the writhing sky. "Even if
+  he must forge it himself."
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_037_the_circle_of_progress.md
+source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
 status: captured
 supersedes: null

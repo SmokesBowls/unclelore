@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-6040
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 360
+line_start: 360
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: She returned to the planters. Her hands found the tubers. The water was
+  still breathing slower. The Nephoretti were still humming a half-step flat. The
+  stone ribs beneath the channel bed were still warm.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_128_one_degree_above.txt
+status: captured
+supersedes: null

@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-5285
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 637
+line_start: 637
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: She walked toward the upper terraces, her steps slow but steady. The vrill
+  in the new channels pulsed gently beneath her feet, acknowledging her passage.
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_117_the_constant_calibration_living_as_anchor.txt
+status: captured
+supersedes: null

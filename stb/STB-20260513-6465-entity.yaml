@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-6465
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 836
+line_start: 836
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: Because the Anunnaki had bred more than enforcers. They had bred loyalists—reptilians
+  conditioned to see the ship as their territory, the slaves as their prey. When the
+  barracks doors opened, so did the loyalists' cages. And they wanted the ship back.
+signal_type: entity
+source_file: raw/chapters/book_27_the_seam_deadly_words_south_139_final_calculations.txt
+status: captured
+supersedes: null

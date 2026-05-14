@@ -2,14 +2,13 @@ audit_only: true
 buffer_id: STB-20260513-1828
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 1181
-line_start: 1181
+line_end: 229
+line_start: 229
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"Will he live?" Mika''s voice cut through, still steady despite trembling
-  hands. "Geralt. Will he survive this transformation?"'
+  entity_type: CHR
+raw_quote: Lyra's scanner painted Geralt in shades of crimson warning.
 signal_type: entity
 source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
 status: captured

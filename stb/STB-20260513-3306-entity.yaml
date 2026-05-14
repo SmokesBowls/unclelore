@@ -2,14 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3306
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 296
-line_start: 296
+line_end: 149
+line_start: 149
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: '"We''re being observed," Caelum noted, following Tran''s gaze.'
+  entity_type: CHR
+raw_quote: '"The Anunnaki Queen," Tran said, his bloodline memories providing information
+  about cosmic authority that had shaped Earth''s development across millennia. "My
+  bloodline remembers her. Remembers what she represents."'
 signal_type: entity
-source_file: raw/chapters/book_15_legends_and_gods_080_the_whispers_between_worlds.md
+source_file: raw/chapters/book_15_legends_and_gods_079_mages_awakening.md
 status: captured
 supersedes: null

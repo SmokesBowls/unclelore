@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-5540
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 647
+line_start: 647
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale thought of the Cliff Giant's words. You will be heard. When the time
+  comes. It was not a promise. It was an acknowledgment. A door left open. An invitation
+  that had been felt, even if it had not yet been answered.
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_119_resonance_of_the_first_point.txt
+status: captured
+supersedes: null

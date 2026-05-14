@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3569
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 187
+line_start: 187
+parsed_payload:
+  predicate: created_by
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: Below, the Null-Mage staggered, his absolute confidence shaken. The merged
+  fields created by GPT's intervention were causing havoc with his armor's systems.
+  Cracks appeared in the light-absorbing surface, revealing complex circuitry beneath.
+signal_type: relationship
+source_file: raw/chapters/book_16_fragmented_beginning_086_sanctuary_to_storm.md
+status: captured
+supersedes: null

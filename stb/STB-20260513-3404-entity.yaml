@@ -2,18 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-3404
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 49
-line_start: 49
+line_end: 256
+line_start: 256
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: The Earth Giant settlement lay hidden within the forested center of the
-  island, where massive trees hundreds of feet tall created a natural cathedral. Unlike
-  the crude dwellings Tran had imagined, their homes were elegant structures of living
-  stone and wood, with graceful arches and spiraling towers that seemed to grow organically
-  from the landscape itself.
+  entity_type: CHR
+raw_quote: As they walked toward the village edge where Onyx waited, Tran caught glimpses
+  of daily life continuing around them—children playing near the water channels, farmers
+  tending fields, craftspeople at their trades. The simplicity of it struck him anew,
+  knowing what lurked beneath the surface. How many others in Sundrift carried secrets
+  like Elyse? How many knew more than they revealed?
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_084_earth_giants_and_diverging_paths.md
+source_file: raw/chapters/book_15_legends_and_gods_080_the_whispers_between_worlds.md
 status: captured
 supersedes: null

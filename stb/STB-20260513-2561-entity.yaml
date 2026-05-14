@@ -2,17 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2561
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 19
-line_start: 19
+line_end: 233
+line_start: 233
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The third strike lit the Atlantic. Geralt exhaled through his teeth. This
-  was the Queen's gambit—not to destroy, but to perfect. To render Earth's story so
-  seamless, so unassailably uniform, that defiance would become unthinkable. A white
-  sky. A white world. A white truth.
+  entity_type: CHR
+raw_quote: The words were a brand in Geralt’s mind. He couldn’t close his eyes. He
+  had to watch.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
+source_file: raw/chapters/book_09_bureaucratic_debt_053_the_twilight_city.md
 status: captured
 supersedes: null

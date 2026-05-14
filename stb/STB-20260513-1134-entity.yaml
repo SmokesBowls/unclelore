@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-1134
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 109
-line_start: 109
+line_end: 783
+line_start: 783
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Doors exploded inward—not through brute force but through coordinated telekinetic
-  strikes that Geralt had taught squad leaders, that demonstrated how distributed
-  capability could replicate effects of concentrated power.
+  entity_type: CHR
+raw_quote: But Geralt wasn't relying on kinetic force alone. He channeled telekinesis
+  through the armor—the Applicator amplifying power, Zaron providing animation that
+  made his dive more dramatic than necessary, his own will focusing energy into single
+  point that coincided with gap in defensive fields.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured
 supersedes: null

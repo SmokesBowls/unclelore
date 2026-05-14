@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-1024
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 623
-line_start: 623
+line_end: 63
+line_start: 63
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"I am Geralt," he interrupted, voice amplified by armor''s systems to
-  carry across compound. "Also known as Ragnarok. Also known as the slave who killed
-  his Overseer and freed his compound and claimed armor the Aeon Keepers prepared
-  for exactly this purpose."'
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: '"They''ll flag you. Your identity will be recorded, distributed, marked
+  as enemy of galactic order. Every bounty hunter, every Federation enforcer, every
+  Anunnaki who wants revenge—they''ll all know exactly who you are."'
 signal_type: entity
 source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured

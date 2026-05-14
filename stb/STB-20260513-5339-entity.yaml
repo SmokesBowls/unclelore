@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-5339
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 280
+line_start: 280
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale stopped at the chamber's edge. He did not enter. He had learned that
+  even his presence at a distance could shift the resonance of a space, and this—whatever
+  this was—felt fragile. New. Something that needed to grow without him.
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_118_the_constant_and_friction_of_becoming.txt
+status: captured
+supersedes: null

@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5820
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 375
+line_start: 375
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: That was the strangest part, Vale thought. For seven thousand years, something
+  had always been happening. The sleep. The songs. The waking. The war. The freeze.
+  The flood. The long calm, which had not been calm but waiting. The journey east.
+  Zephyr in the water. The labyrinth. The guardian. The building of the points.
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_124_the_last_threshold_release_of_the_constant.txt
+status: captured
+supersedes: null

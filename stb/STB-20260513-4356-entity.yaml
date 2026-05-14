@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-4356
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 2001
+line_start: 2001
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale looked east, toward the war-moon that hung above the horizon — invisible
+  to most, but not to him. He could feel the Queen's presence, the observers, the
+  shadow that was gathering.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_110_the_bleeding_convergance.txt
+status: captured
+supersedes: null

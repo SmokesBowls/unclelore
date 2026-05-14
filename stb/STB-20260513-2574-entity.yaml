@@ -2,21 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-2574
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 75
-line_start: 75
+line_end: 301
+line_start: 301
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: But Geralt saw the flaw. The Vasthril moved as one perfect instrument—and
-  perfect instruments have no immunity to dissonance. "Kulla!" he barked. The clay
-  golem, clinging to the tawny dragon's mane, grinned as he slammed his fist into
-  his own chest. A chunk of lunar regolith-mixed clay broke free, and with a grunt,
-  he hurled it into the Vasthril's formation. The clay wasn't a weapon. It was a structural
-  flaw. The moment it lodged between the serpent's segments, their harmonic unity
-  fractured—just enough for the sapphire dragon to snap its jaws shut, shearing through
-  three Vasthril at once.
+  entity_type: CHR
+raw_quote: Not in fire, but in a silent, breathtaking unraveling. The liquid light
+  surged upward, forming a vortex around Lentharis’s dissolving consciousness. Geralt
+  felt the network signal—the horrible, logical pull—wrench itself from his mind.
+  It was like having a parasite torn from his brain stem. He screamed, falling forward
+  as the psychic tether snapped.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
+source_file: raw/chapters/book_09_bureaucratic_debt_053_the_twilight_city.md
 status: captured
 supersedes: null

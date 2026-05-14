@@ -2,15 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0716
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 49
-line_start: 49
+line_end: 170
+line_start: 170
 parsed_payload:
   confidence: medium
   entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: Unknown. But probable. The frequency signature matches what I've cataloged
-  as pre-Anunnaki technology. Whatever created this system predates our makers.
+  entity_type: FAC
+raw_quote: The day stretched on. Language lessons continued. And in the eastern section,
+  five slaves dug deeper into earth that hadn't been disturbed since before the Anunnaki
+  came.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_026_dragonmail.md
+source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
 status: captured
 supersedes: null

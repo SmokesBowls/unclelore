@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-4813
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 253
+line_start: 253
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The Igigi scholar stood at the base of the needle, his hands pressed to
+  the crystal veins, his eyes closed in concentration. He had been measuring the pulse—a
+  daily ritual, unchanged for years. But when Vale approached, Enlil's eyes opened.
+  His head turned. And he went still.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_113_the_edge_of_return.txt
+status: captured
+supersedes: null

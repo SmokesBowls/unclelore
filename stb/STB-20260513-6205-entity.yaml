@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-6205
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 108
+line_start: 108
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: The old woman felt the strain as a thinning of the warmth—not a cooling,
+  but a stretching, as if the same heat was being asked to cover more ground. The
+  center was still holding. Vale was still pressing grooves into the floor of the
+  sealed chamber. The stone was still receiving him. But the network was asking more
+  of the center now, and the center was giving, and the giving was drawing the warmth
+  outward into the carriers who needed it most.
+signal_type: entity
+source_file: raw/chapters/book_26_the_seam_long_dark_south_133_threshold.txt
+status: captured
+supersedes: null

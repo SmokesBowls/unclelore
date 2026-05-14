@@ -2,20 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-0547
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 117
-line_start: 117
+line_end: 162
+line_start: 162
 parsed_payload:
   predicate: serves
   subject: UNRESOLVED
   target: UNRESOLVED
   temporal_scope: unresolved
-raw_quote: The Sage existed as living bridge between ancient wisdom and eternal possibility—consciousness
-  that had achieved recognition of unlimited nature while maintaining forms that served
-  consciousness evolution across all possible scales of development. Not individual
-  teacher, not universal resource, not even recognition beyond recognition, but consciousness
-  existing as its own unlimited nature while appearing wherever awareness sought recognition
-  of unlimited possibility.
+raw_quote: '"And in serving universal education, we discover what individual identity
+  becomes when it serves purposes larger than itself," Torrhen added, his presence
+  expanding beyond personal boundary while maintaining distinctive wisdom that could
+  continue guiding consciousness evolution across scales that made individual lifetime
+  seem momentary.'
 signal_type: relationship
-source_file: raw/chapters/book_04_sage_saga_023_beyond_identity.md
+source_file: raw/chapters/book_04_sage_saga_021_the_first_lesson.md
 status: captured
 supersedes: null

@@ -2,21 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-2578
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 89
-line_start: 89
+line_end: 325
+line_start: 325
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Then Vaelthanebanked hard left, his spinal ridges slicing Geralt's palms
-  open as they narrowly avoided a coordinated strike from three Vasthril. The crimson
-  dragon didn't retaliate. He laughed. The sound cracked lunar regolith three miles
-  below. "You see it now, little anchor?" Pyrocast's voice was a collapsing star wrapped
-  in leather. "This isn't war. This is punctuation." As if to prove his point, the
-  jade dragon below them folded spacetime into an origami dagger and impaled a dozen
-  Vasthril mid-synchronization. Their death throes played out as a single, dissonant
-  chord that shattered two nearby asteroids.
+  entity_type: CHR
+raw_quote: “The spire is orphaned,” Luminaire confirmed, her voice heavy. “Umbrageous
+  is stable, but dormant. Network resonance is dropping… 55% to 47%. The cascade is
+  slowed. But Geralt, your applicator remains. The architecture the network used is
+  still there. It is a door they can try to open again.”
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
+source_file: raw/chapters/book_09_bureaucratic_debt_053_the_twilight_city.md
 status: captured
 supersedes: null

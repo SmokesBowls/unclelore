@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-6192
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 154
+line_start: 154
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: The weaver leaves a third object in the corridor—not cloth, not food, but
+  a small piece of fired clay she found in the workshop rubble, a fragment of an old
+  First Shore tile with a partial glaze pattern still visible. She doesn’t know why
+  she leaves it. It’s not useful. It’s old. It belongs to the stone, and she returns
+  it.
+signal_type: relationship
+source_file: raw/chapters/book_26_the_seam_long_dark_south_132_white_lightning.txt
+status: captured
+supersedes: null

@@ -2,21 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-1343
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 28
-line_start: 28
+line_end: 137
+line_start: 137
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt took a breath. *For Mika,* he thought fiercely. He visualized his
-  tripartite harmony – applicator structure, armor power, his own defiant will – as
-  a blazing core within him. He poured his focus inward, wrapping this core in layers
-  of solidified intent. He felt the sinkhole’s pull, the thick chroniton sludge trying
-  to seep into his awareness. He pushed back, not against the sludge, but against
-  its *influence*, anchoring his internal rhythm firmly to his own heartbeat. The
-  applicator’s warnings faded to a background hum. The armor’s resonance steadied.
-  He stepped off the ledge.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: The first survivor he found was pinned beneath a collapsed bulkhead, conscious
+  but fading. Anunnaki, judging by the bone structure and the faint shimmer of genetic
+  modifications that had once granted enhanced reflexes. Those reflexes hadn't saved
+  him from several tons of falling metal.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_034_the_250.md
+source_file: raw/chapters/book_06_the_ragnarok_031_the_crash_site.md
 status: captured
 supersedes: null

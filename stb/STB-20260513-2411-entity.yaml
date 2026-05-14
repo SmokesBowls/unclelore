@@ -2,19 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2411
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 303
-line_start: 303
+line_end: 324
+line_start: 324
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The chamber moved. Not a quake, but a deliberate, horrific reconfiguration.
-  The floor beneath Kyh’s feet became transparent, then vanished, re-forming as a
-  wall ten feet to his left. Gravity, a polite suggestion seconds before, became a
-  weapon. In one sector of the room, it multiplied, slamming Oreck to his knees with
-  crushing force. In another, it inverted, and Geralt felt his stomach lurch as he
-  was flung towards the now-distant ceiling.
+  entity_type: CHR
+raw_quote: '"He''ll have the key to corrupting the entire network from within," Geralt
+  finished.'
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_052_entry_without_standing.md
+source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
 status: captured
 supersedes: null

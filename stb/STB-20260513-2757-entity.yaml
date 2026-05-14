@@ -2,17 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2757
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 355
-line_start: 355
+line_end: 143
+line_start: 143
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Outside, the white sky pulsed—forty-seven minutes exact. The clone stirred
-  in its alcove, its flawless face tilting toward the unseen lightning. Geralt didn’t
-  look at it. He stared at the slit-window instead, where the stars winked out one
-  by one, swallowed by the Queen’s hunger.
+  entity_type: CHR
+raw_quote: Geralt stopped mid-stride—and smiled. A slow, blade-sharp curve of lips
+  that hadn't known warmth in decades. "Alright," he murmured to the uncanny ash still
+  clinging to his boots. "Show yourself."
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
 status: captured
 supersedes: null

@@ -2,18 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-2607
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 211
-line_start: 211
+line_end: 193
+line_start: 193
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: They hit the moon's surface hard. Kyh's form shattered upon impact, reforming
-  seconds later as a flickering silhouette. Geralt rolled to his knees in time to
-  see Kulla and Oreck dismount nearby, their dragons already wheeling back toward
-  Pyrocast's trapped form. The crimson thrashed against the silvered net, his roars
-  vibrating through the regolith underfoot. Each movement only tightened the strands.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: He perceived it not as a blueprint, but as a living idea. The Spires were
+  not first created by the Anunnaki. They were discovered. They were fossilized echoes
+  of a prior universal cycle—the neural pathways of a "God-Mind" that had dreamed
+  a previous cosmos into being. The Anunnaki had simply… grafted their own systems
+  onto this corpse of godhood.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
+source_file: raw/chapters/book_09_bureaucratic_debt_054_tue_lunar_spire.md
 status: captured
 supersedes: null

@@ -2,17 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-1752
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 463
-line_start: 463
+line_end: 186
+line_start: 186
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"But we''re going anyway." Her voice hardened. "Because that''s what we
-  do. The impossible killed us once—every soul here was erased from existence by the
-  Harbinger. Geralt tore reality apart to bring us back. We owe him. We owe each other.
-  And we owe the future a world that isn''t slowly eating itself."'
+  entity_type: CHR
+raw_quote: Ren’s choked gasp echoed through the emitters—amplified into a shriek that
+  shattered Mika’s shield-wall. Acidic sap rained down as vines erupted from the fissure.
+  Geralt drove Luminara into the soil. Her golden light flared—not against the root,
+  but *through* it. Node Gamma’s core pulsed crimson where Ren’s stolen memories bled.
+  The parasite had consumed suffering. Now it choked on hope.
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_039_jungle_fever.md
 status: captured
 supersedes: null

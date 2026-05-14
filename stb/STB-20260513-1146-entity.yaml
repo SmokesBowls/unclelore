@@ -2,17 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-1146
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 237
-line_start: 237
+line_end: 871
+line_start: 871
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'Not with pain—it had only just learned what pain was. But with recognition
-  that it existed. That it had been forced from comfortable void into terrible burden
-  of being something rather than nothing. That Geralt had inflicted on it the ultimate
-  violation:'
+  entity_type: CHR
+raw_quote: Geralt chose promise.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured
 supersedes: null

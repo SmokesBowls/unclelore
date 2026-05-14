@@ -2,14 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-2003
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 137
-line_start: 137
+line_end: 71
+line_start: 71
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt’s team needed 12 more minutes in the interior.
+  entity_type: CHR
+raw_quote: '"TOGETHER OR WE ALL DIE!" Geralt roared, the command external and internal.'
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_045_the_hub_falls.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_043_the_badlands_crucible.md
 status: captured
 supersedes: null

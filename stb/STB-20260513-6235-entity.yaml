@@ -1,0 +1,23 @@
+audit_only: true
+buffer_id: STB-20260513-6235
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 405
+line_start: 405
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: She did not know what that change would be. The Igigi did not ask questions.
+  But she felt, with a certainty that required no language, that the next step would
+  not come from the carriers or the corridor or the fragments themselves. It would
+  come from somewhere else. The center, perhaps. The stone. The thing that had been
+  pressing grooves into the floor of the sealed chamber for longer than anyone knew,
+  waiting for the network to become ready. The system had proven it could carry. It
+  had proven it could release. It had proven it could recognize and discern and calibrate.
+  Now it had proven that phase alignment required more than the network could provide
+  on its own.
+signal_type: entity
+source_file: raw/chapters/book_26_the_seam_long_dark_south_134_phase_drift.txt
+status: captured
+supersedes: null

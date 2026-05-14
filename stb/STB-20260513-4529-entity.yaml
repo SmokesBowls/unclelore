@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-4529
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 315
+line_start: 315
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: The tone faded. The Igigi's hands had not stopped. The shoes were almost
+  finished—a pair of sandals, woven from seaweed and fiber, with soles of layered
+  bark. Vale waited until the silence settled. "What song was that?" he asked.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_112_eastern_system.txt
+status: captured
+supersedes: null

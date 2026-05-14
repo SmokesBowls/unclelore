@@ -2,16 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-2571
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 67
-line_start: 67
+line_end: 283
+line_start: 283
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt leapt onto Pyrocast's back as the dragon's wings unfurled—not just
-  flesh, but fractalized spacetime, each feather a shard of compressed history. "Hold
-  to my spines," Vaelthanegrowled. "The sky will try to unmake you."
+  entity_type: CHR
+raw_quote: “Then we cut the link,” Geralt said, pushing himself up. “Permanently.”
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
+source_file: raw/chapters/book_09_bureaucratic_debt_053_the_twilight_city.md
 status: captured
 supersedes: null

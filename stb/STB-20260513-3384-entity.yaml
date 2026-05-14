@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-3384
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 202
-line_start: 202
+line_end: 186
+line_start: 186
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: All eyes turned to Tran, who felt suddenly self-conscious under their scrutiny.
-  The Red and Blue Fragments seemed to grow warmer in his pack, reacting to the Grotto's
-  energy.
+  entity_type: CHR
+raw_quote: Onyx nudged Tran's shoulder gently, then looked meaningfully toward the
+  footprints leading away from Sundrift.
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
+source_file: raw/chapters/book_15_legends_and_gods_080_the_whispers_between_worlds.md
 status: captured
 supersedes: null

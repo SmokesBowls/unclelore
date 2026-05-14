@@ -2,17 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0010
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 92
-line_start: 92
+line_end: 40
+line_start: 40
 parsed_payload:
   confidence: medium
-  entity_name: Nephoretti
-  entity_type: UNKNOWN
-raw_quote: Vaelith's awareness rippled with determination. "Then we craft those intentions
-  carefully. We've had three thousand years to observe this planet's formation, to
-  understand its unique characteristics. Earth is not Tiamat—it has different geomantic
-  patterns, different elemental balances. The Nephoretti we manifest must be adapted
-  to serve this world, not merely recreate what existed before."
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: '"Physical form is limitation,"   Korath   responded, his consciousness
+  as steady and immovable as the bedrock he had once shaped with thought alone. "We
+  serve better without such constraints. The vrill flows more purely through us now.
+  We have become the conduits we were always meant to be."'
 signal_type: entity
 source_file: raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
 status: captured

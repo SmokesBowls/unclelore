@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-0777
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 19
-line_start: 19
+line_end: 1405
+line_start: 1405
 parsed_payload:
   confidence: medium
-  entity_name: Nehereti
-  entity_type: UNKNOWN
-raw_quote: '"The Nehereti," Geralt answered, knowing Oreck couldn''t understand the
-  words but hoping tone conveyed meaning. "Ancient beings. Older than the Anunnaki.
-  They gave me gifts—speech and sight beyond sight. Tools for what comes next."'
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: They tumbled together, Reptilian and Anunnaki, two beings who'd served
+  the same masters finding themselves on opposite sides of conflict neither had anticipated.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
 status: captured
 supersedes: null

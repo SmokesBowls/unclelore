@@ -2,16 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-0160
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 138
-line_start: 138
+line_end: 160
+line_start: 160
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: And deep in his mathematical mind, he began calculating. Not probabilities
-  of survival—those were already known. But probabilities of rebellion. Of escape.
-  Of somehow, someday, breaking the chains that bound his people to Anunnaki will.
+  entity_name: Aeon Keepers
+  entity_type: FAC
+raw_quote: Senareth stood at the island's highest point—a peak that had been carved
+  into an observation platform overlooking the entire Garden—and felt the weight of
+  four and a half centuries pressing against their consciousness. They had existed
+  in physical form for longer than seemed possible, their Neferati body sustained
+  by vrill-connection to the Aeon Keepers who maintained the flow from dimensions
+  away.
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
 status: captured
 supersedes: null

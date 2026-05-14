@@ -2,21 +2,23 @@ audit_only: true
 buffer_id: STB-20260513-1407
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 63
-line_start: 63
+line_end: 298
+line_start: 298
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The plaza flickered. Ghost-images of Sully kneeling overlapped. The cycle
-  was nearing its end. Geralt pressed. "Say her name. Not as loss. As joy." Sully
-  took a shuddering breath. "Katherine," she whispered. Then louder, defiant. "Katherine!"
-  Her voice cracked the stillness. The stone carving seemed to vibrate. A faint, golden
-  light – Katherine's favorite sun-warmth – pulsed from the stone kits. The ghost-images
-  snapped away. The oppressive weight lifted. Sully gasped, looking around as if seeing
-  the settlement for the first time. "I... remember everything." The chroniton shard
-  on Geralt's chest flared brightly, then dissolved. The loop was broken.
+  entity_type: CHR
+raw_quote: The passage twisted sharply, narrowing until jagged rock scraped her shoulders.
+  The shouts of her soldiers faded, replaced by a suffocating silence broken only
+  by her ragged breath and the crunch of grit under her boots. Then, the air thickened.
+  The rock walls seemed to ripple, their surfaces shifting subtly, like scales on
+  a sleeping beast. The path ahead branched, then branched again – identical forks
+  offering no clue. Mika paused, disoriented. Had she passed that oddly shaped stalactite
+  before? Twice? Three times? A cold sweat prickled her scalp. The fissure felt alive,
+  breathing malice, warping space itself. Logic screamed retreat, but Geralt… he *had*
+  to be deeper in. She pushed forward, choosing left, then right, guided only by a
+  gnawing instinct deeper than the unnerving déjà vu.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
+source_file: raw/chapters/book_06_the_ragnarok_033_the_march.md
 status: captured
 supersedes: null

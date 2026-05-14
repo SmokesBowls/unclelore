@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-3654
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 78
-line_start: 78
+line_end: 101
+line_start: 101
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: The Igigi arranged themselves around the chamber's perimeter, their forms
-  creating a living calculator of immense complexity. Numbers flowed between them
-  in streams of light, equations building and resolving in real-time.
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: It was himself—but wrong. This version wore the Dragon Mail, but the armor
+  was different. Instead of the living, responsive metal Tran knew, this version was
+  perfect, cold, lifeless. And the face above it was his own, but emptied of everything
+  that made him human.
 signal_type: entity
-source_file: raw/chapters/book_19_worthy_opponents_north_098_depths_of_memory.md
+source_file: raw/chapters/book_17_ancestral_debt_089_the_white_mirror.md
 status: captured
 supersedes: null

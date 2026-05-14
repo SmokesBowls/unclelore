@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-5288
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 647
+line_start: 647
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale looked at the stars. The vast, indifferent beauty of them. The way
+  they burned and died and were born again, over and over, in a cycle that had no
+  beginning and no end.
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_117_the_constant_calibration_living_as_anchor.txt
+status: captured
+supersedes: null

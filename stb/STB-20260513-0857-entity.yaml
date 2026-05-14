@@ -2,15 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0857
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 385
-line_start: 385
+line_end: 5
+line_start: 5
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"I already am capable of atrocity," Geralt answered honestly. "I puppeted
-  five people. Violated their consciousness. Used them as tools. The armor doesn''t
-  create that capacity—it just makes consequences more severe."'
+  entity_type: CHR
+raw_quote: Geralt found Oreck where he'd expected—in the compound's eastern section,
+  away from the main population, occupying space that allowed the massive reptilian
+  to remain present without crowding the freed slaves who still struggled with his
+  proximity.
 signal_type: entity
 source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured

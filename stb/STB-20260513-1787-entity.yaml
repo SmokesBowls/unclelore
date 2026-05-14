@@ -2,16 +2,20 @@ audit_only: true
 buffer_id: STB-20260513-1787
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 795
-line_start: 795
+line_end: 31
+line_start: 31
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: To connect Geralt directly to the memory of this place. To the original
-  harmony. To the song that had been buried here before the corruption, before the
-  flood, before the Annunaki’s third coming.
+  entity_type: CHR
+raw_quote: Then—the void answered. Space rippled again. Not dragons. Not VALDRASIL.
+  A serpentine shadow—longer than Vaelros’ wingspan—coiled into existence. **Void-wyrm**.
+  Starlit scars marred its anti-light scales. It heard resonance—the spire’s corruption,
+  Geralt’s key, VALDRASIL’s discord. Instinctual. Hungry. It descended toward the
+  fracture. Armies froze. Dragons banked away. VALDRASIL phased erratically. Dread
+  washed cold through Geralt’s veins. Survival demanded silence. But Luminara’s agony
+  sang too loud.
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_040_the_dragon_wars.md
 status: captured
 supersedes: null

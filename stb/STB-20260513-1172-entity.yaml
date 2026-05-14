@@ -2,15 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-1172
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 490
-line_start: 490
+line_end: 249
+line_start: 249
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: And Geralt walked—armor moving automatically, three consciousnesses processing
-  trauma in parallel, six beings total who remembered truth that universe had forgotten.
+  entity_type: CHR
+raw_quote: '*ZARON!* Geralt shouted mentally. *Help! He''s taking control through—*'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
+source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
 status: captured
 supersedes: null

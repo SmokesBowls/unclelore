@@ -1,0 +1,22 @@
+audit_only: true
+buffer_id: STB-20260513-6159
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 13
+line_start: 13
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The Igigi who had cleared the debris—the young female from the southern
+  labor camp, the one who had heard the second fragment pass through the channel silt
+  and felt it echo in her throat—was standing just inside the darkness. She had not
+  entered the corridor before. She had cleared the entrance over four nights, a punishment
+  detail's quiet rebellion, and she had returned each night to check that the debris
+  had not been replaced, that the handlers had not discovered the gap, that the warmth
+  had not faded. The warmth had not faded. It had deepened. Tonight, she had stepped
+  inside.
+signal_type: entity
+source_file: raw/chapters/book_26_the_seam_long_dark_south_131_stable_contradiction.txt
+status: captured
+supersedes: null

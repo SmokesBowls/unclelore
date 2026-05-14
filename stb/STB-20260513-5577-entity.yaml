@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-5577
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 183
+line_start: 183
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: 'Vale stood there for a long time, feeling the weight of the boundary the
+  Cliff Giants had set. Not a wall. Not a threat. An invitation to be honest. A question
+  carved in stone: Who are you, constant? And why should we let you pass?'
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_120_the_language_of_stone.txt
+status: captured
+supersedes: null

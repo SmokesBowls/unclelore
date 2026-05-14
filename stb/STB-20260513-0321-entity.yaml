@@ -2,17 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0321
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 117
-line_start: 117
+line_end: 63
+line_start: 63
 parsed_payload:
   confidence: medium
   entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: Then the Nephilim fulfill their purpose and depart. The Anunnaki face temporary
-  setback. And you remain divided, vulnerable to the Third Coming that will inevitably
-  follow this one. The choice is yours—attempt the ritual knowing it may destroy exactly
-  what you're trying to save, or accept extinction through conventional conquest.
+  entity_type: FAC
+raw_quote: '"This pattern," Torhh rumbled, its massive hands shaping crystalline growth
+  with precision that took Pazuzu months to achieve, "it speaks to fundamental forces.
+  Not Anunnaki invention—they discovered something older. Something that existed before
+  their civilization."'
 signal_type: entity
-source_file: raw/chapters/book_03_the_reckoning_012_nephilim_summoning.md
+source_file: raw/chapters/book_03_the_reckoning_009_stalemate_departure_the_first_coming.md
 status: captured
 supersedes: null

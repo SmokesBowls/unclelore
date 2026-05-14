@@ -2,14 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2433
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 115
-line_start: 115
+line_end: 550
+line_start: 550
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: A network. Kethran’s warning echoed in Geralt’s memory. Other applicators.
+  entity_type: CHR
+raw_quote: Geralt knelt, picking up a piece of the Shard. It was inert—just pretty
+  rock now.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_053_the_twilight_city.md
+source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
 status: captured
 supersedes: null

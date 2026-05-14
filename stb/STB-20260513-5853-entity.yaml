@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-5853
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 45
+line_start: 45
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: Vale stood at the shoreline until the golden threads in the water dimmed
+  to pewter, then to nothing. The marsh reeds bent toward the horizon, their tops
+  brushing the surface like mourners reaching for a departed boat. Somewhere inland,
+  a vrill-seed Mora had planted cracked its husk, and the faint luminescence bled
+  up through the soil in a slow, green sigh.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_125_farwell.txt
+status: captured
+supersedes: null

@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-5126
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 422
+line_start: 422
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: '"It wasn''t trying to destroy the needle," Vale said. "It was trying to
+  wake me. To force me to remember." He paused. "It succeeded."'
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_116_keepers_recognition.txt
+status: captured
+supersedes: null

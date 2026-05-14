@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-5258
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 511
+line_start: 511
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: Because his presence would not be neutral. Even if he stood at a distance,
+  even if he did nothing, even if he held himself perfectly still—the world would
+  feel him. The vrill would feel him. And it would correct itself toward the stable
+  reference he provided. It would stop releasing. Stop ending. It would cling to existence,
+  not because it wanted to, but because he was there, and his presence said this is
+  stable, and the vrill would believe him.
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_117_the_constant_calibration_living_as_anchor.txt
+status: captured
+supersedes: null

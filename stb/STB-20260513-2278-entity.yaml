@@ -2,17 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-2278
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 114
-line_start: 114
+line_end: 270
+line_start: 270
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: “The Keeper is active, but its authority has been usurped. This is not
-  Anunnaki corruption. It is older. Primordial. The Umbra Sovereign—an entity born
-  in the places before light—has claimed the node. It is weaving the spire’s power
-  into the fabric of its own shadow realm.”
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: Geralt felt the tears then, hot and unashamed. They weren’t just tears
+  of grief, or gratitude. They were tears of recognition. Mika hadn’t just left a
+  book. She hadn’t just left a memory. She had left a vocabulary of hope, spoken in
+  the voices of the elements themselves.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
+source_file: raw/chapters/book_09_bureaucratic_debt_048_the_ledger_born.md
 status: captured
 supersedes: null

@@ -2,18 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-2691
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 33
-line_start: 33
+line_end: 115
+line_start: 115
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Zypher’s voice preceded him—not as sound, but as the slow crystallization
-  of meaning in the air. Words formed like frost on Geralt’s armor, etching themselves
-  into the Dragon Mail’s fractures with the precision of a scribe carving prophecy
-  into bone. *"You reek of borrowed time,"* the syllables whispered from the walls
-  themselves, each consonant a shard of obsidian scraping against the silence.
+  entity_type: CHR
+raw_quote: Pyrocast's wingbeats were slower here, each downstroke compressing centuries.
+  "You mistake me, mortal. This isn't about your *capacity* to endure their truths."
+  A gust of dragon breath illuminated the scars webbing Geralt's armor—the old burns,
+  the Spire's backlash, the hollow where empathy used to live. "It's about whether
+  you can still *hear* them."
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+source_file: raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
 status: captured
 supersedes: null

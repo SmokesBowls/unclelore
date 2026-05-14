@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3516
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 105
-line_start: 105
+line_end: 97
+line_start: 97
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: '"It''s wrong," Tran said simply, feeling the Dragon Mail''s agreement
-  in the way it tightened momentarily around him. "And we''ll find a way to stop it.
-  But first, we need to complete our primary mission."'
+  entity_type: CHR
+raw_quote: '"Yes," Tran admitted, remembering the sensation in the Memory Pool. "After
+  we retrieved the Blue Fragment... it''s as if they''re trying to communicate. Like
+  they''re starting to remember me."'
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_087_the_breath_of_life.md
+source_file: raw/chapters/book_16_fragmented_beginning_084_earth_giants_and_diverging_paths.md
 status: captured
 supersedes: null

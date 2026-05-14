@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-2893
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 463
+line_start: 463
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: Geralt pried one off and flicked it at Kyh. It passed through her shadow
+  and vanished. "Tell him about the star."
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+status: captured
+supersedes: null

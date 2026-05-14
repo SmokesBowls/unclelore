@@ -2,17 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0982
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 287
-line_start: 287
+line_end: 739
+line_start: 739
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"This engagement concludes," Vel''thara announced, addressing Geralt directly.
-  "But understand—you are now flagged across every Federation database. Your identity
-  is recorded. Your face is captured. The armor''s signature is cataloged. Designation
-  RAGNAROK will follow you for remainder of your existence."'
+  entity_type: CHR
+raw_quote: By the time Geralt and Oreck reached the compound's boundary, three hundred
+  freed slaves had gathered—forming loose assembly that was part welcome, part judgment,
+  wholly uncertain about what they were witnessing.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured
 supersedes: null

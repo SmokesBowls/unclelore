@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-5405
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 506
+line_start: 506
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: That was him, too. Not finished. Not complete. But begun. Learning what
+  he was, how he fit, who he needed beside him. Learning to be a constant that the
+  world could rest against without being bound to. Learning to be part of the weave
+  instead of the center that everything corrected toward.
+signal_type: relationship
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_118_the_constant_and_friction_of_becoming.txt
+status: captured
+supersedes: null

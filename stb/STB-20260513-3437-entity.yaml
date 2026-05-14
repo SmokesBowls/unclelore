@@ -2,18 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3437
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 191
-line_start: 191
+line_end: 47
+line_start: 47
 parsed_payload:
   confidence: medium
-  entity_name: Aeon Keepers
-  entity_type: UNKNOWN
-raw_quote: '"They are the oldest children of Tiamat," the Verdant Mika answered. "Born
-  of vril given physical form. They remember the Aeon Keepers as their creators, their
-  guardians. But they also remember being abandoned when Tiamat shattered." The figure''s
-  plant-like features shifted in what might have been a frown. "Time has changed them.
-  Whether they welcome you depends on whether they see Zaron as savior or betrayer."'
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: The elder Dregan descended from the canyon rim, landing heavily before
+  Tran. Other Dregans followed, forming a circle around him. Their postures were different
+  now – no longer threatening but curious, almost reverent.
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_084_earth_giants_and_diverging_paths.md
+source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
 status: captured
 supersedes: null

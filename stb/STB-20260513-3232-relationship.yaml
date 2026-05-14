@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-3232
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 262
+line_start: 262
+parsed_payload:
+  predicate: serves
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: With protective determination that prioritized immediate safety over cosmic
+  opportunity, Ulric led Lyra through the portal as it closed behind them, removing
+  them from cosmic training environment while preserving their roles within galactic
+  planning that would provide appropriate challenges and opportunities for development
+  that served their unique natures and capabilities.
+signal_type: relationship
+source_file: raw/chapters/book_12_forged_identity_071_cosmic_teachers_arrive.md
+status: captured
+supersedes: null

@@ -2,17 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-2343
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 94
-line_start: 94
+line_end: 377
+line_start: 377
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: Aelxion, who had followed them in, let out a low growl. "Anunnaki seeder
-  organism. We've suspected they planted something when they began their digs. A biological
-  weapon to cripple the planet before full invasion. We could never confirm—the caldera
-  maze is collapsed. Impassable."
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: '"And I have to touch it," Geralt said.'
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_051_arrival_in_fire.md
+source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
 status: captured
 supersedes: null

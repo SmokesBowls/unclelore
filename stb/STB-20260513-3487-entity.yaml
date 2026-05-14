@@ -2,14 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3487
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 43
-line_start: 43
+line_end: 178
+line_start: 178
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: '"Understanding of what?" Tran asked.'
+  entity_type: CHR
+raw_quote: Tran stumbled backward, withdrawing both his arm and the fragments from
+  the Hydra's body. In his hand, he now held both the Red Fragment and a newly liberated
+  piece of metal – deep blue like the ocean depths, dripping with the creature's ichor.
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_087_the_breath_of_life.md
+source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
 status: captured
 supersedes: null

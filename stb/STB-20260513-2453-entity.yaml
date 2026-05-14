@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-2453
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 118
+line_start: 118
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: '"I''ve been using shadow-paths to evacuate wounded from the front lines.
+  Walking the spire''s energy currents without knowing what they were." He looked
+  at Coil, then back at Geralt, realization dawning. "I thought I was just... hiding
+  from the war. Using old, quiet places."'
+signal_type: entity
+source_file: raw/chapters/book_09_bureaucratic_debt_051_arrival_in_fire.md
+status: captured
+supersedes: null

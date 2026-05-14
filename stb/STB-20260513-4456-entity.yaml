@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-4456
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 105
+line_start: 105
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale continued east, testing as he had for days. He stepped on a patch
+  of green stone, expecting the familiar vibration—one… two… three… four. Nothing.
+  He stepped again. Still nothing. He stepped west, off the stone, and the vibration
+  triggered there—a place that should have been silent.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_112_eastern_system.txt
+status: captured
+supersedes: null

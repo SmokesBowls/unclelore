@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-1301
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 14
-line_start: 14
+line_end: 872
+line_start: 872
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"Listen up," she called, her voice cutting through the camp''s nervous
-  murmur. "I know what you''re thinking. Geralt''s gone. We''ve lost our leader. Maybe
-  it''s time to scatter, find new employment, wait for the dust to settle."'
+  entity_type: CHR
+raw_quote: And Geralt ascended—following the Applicator's navigation, moving toward
+  command systems while armor burned with fire that announced presence more effectively
+  than alarms.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_033_the_march.md
+source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured
 supersedes: null

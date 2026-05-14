@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-1956
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 112
-line_start: 112
+line_end: 99
+line_start: 99
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Elara, the scout, approached differently. She found Geralt at the noon
-  rest, her young face pale but her eyes fierce. “Zaron says… she’s leaving pieces
-  of her mind in the Needles. Like books in a library.”
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: He knelt, placing a hand on the ground. Through the Dragon Mail, through
+  Luminaire, he reached for the vrill—the life energy of the world. It was thin here,
+  sickly, but it existed. He pulled, gently, and a circle of ground around them began
+  to clear, the gray receding, the soil darkening.
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_044_the_mountains_shadow.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_042_the_verdant_crossing.md
 status: captured
 supersedes: null

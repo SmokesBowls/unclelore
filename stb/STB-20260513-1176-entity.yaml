@@ -2,17 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-1176
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 530
-line_start: 530
+line_end: 259
+line_start: 259
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '*Then what do we do?* Geralt projected with exhaustion that transcended
-  physical weariness. *Abandon liberation? Accept that some slaves can''t be freed
-  because threats exist that we can''t anticipate? Let Xal''Zirith''s demonstration
-  succeed in making us too afraid to continue?*'
+  entity_type: CHR
+raw_quote: Around Geralt, freed slaves began moving—not voluntarily but through commands
+  being broadcast through network they thought they'd escaped, through hive-mind protocols
+  that Sath'rak was activating using the Applicator as relay.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
+source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
 status: captured
 supersedes: null

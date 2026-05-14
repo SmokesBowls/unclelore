@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-4560
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 354
+line_start: 354
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: 'They stopped on a flat shelf of rock, the sun low and orange. Vale sat
+  with his back to a stone. The Igigi sat across from him, the leafbowl between them.
+  They drank. They rested. Then Vale asked: "What did you find that wasn''t gone?"
+  The Igigi looked at him. His face was still, but something behind his eyes shifted.
+  "Brajor." He let the word sit. "Supposed to be gone after the Sundering."'
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_112_eastern_system.txt
+status: captured
+supersedes: null

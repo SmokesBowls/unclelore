@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-3593
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 41
+line_start: 41
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: '"We''ve come seeking the Green Fragment," Tran explained, touching the
+  Red and Blue Fragments at his belt. "The Verdant Mika guided us here."'
+signal_type: entity
+source_file: raw/chapters/book_16_fragmented_beginning_087_the_breath_of_life.md
+status: captured
+supersedes: null

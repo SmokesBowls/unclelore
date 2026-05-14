@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-4065
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 216
+line_start: 216
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: That was the strangest part, Vale thought—how quickly the extraordinary
+  became familiar. The sun rose, the city woke, the songs began. What had been a miracle
+  on the first day was now the shape of things. He stood on the eastern wall and watched
+  the Ma'at pulse in the distance, and it was simply what he did.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_108_evolution_of_the_keeper.txt
+status: captured
+supersedes: null

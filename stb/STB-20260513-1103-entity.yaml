@@ -2,16 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-1103
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 332
-line_start: 332
+line_end: 603
+line_start: 603
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: '*He''s using Anunnaki protocols,* the Applicator analyzed with clarity
-  that came from no longer fighting alone. *But those protocols assume isolated control
-  mechanisms. Singular consciousness vulnerable to override.*'
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: Geralt walked.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured
 supersedes: null

@@ -1,0 +1,22 @@
+audit_only: true
+buffer_id: STB-20260513-6139
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 159
+line_start: 159
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The first to notice was not a survivor. It was an Igigi from the southern
+  labor camp, the same young female who had heard the second fragment pass through
+  the channel silt and felt it echo in her throat. She had been reassigned to debris
+  clearance in the workshop district, a punishment detail for the half-second compliance
+  delay that had survived recalibration. The handlers did not know why the delay persisted.
+  They assigned punishment details to anomalies they could not correct. The punishment
+  was meant to discourage. It did not discourage. It placed her within fifty paces
+  of the corridor's eastern entrance.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_130_within_tolerance.txt
+status: captured
+supersedes: null

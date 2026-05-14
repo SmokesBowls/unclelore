@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-4903
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 376
+line_start: 376
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: Near the Igigi table, the slate was still covered in grids, but the crystal
+  rod lay untouched. Enlil sat on the ground, back against a support beam, eyes closed.
+  Anu stood a few paces away, watching the water. Nammu was on her knees, one hand
+  pressed to the stone floor of the lower walkway, the other resting lightly over
+  her chest. Not measuring. Just feeling. The math hadn’t vanished. It was just waiting
+  for the right frequency to enter it.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_114_resonance_of_stone.txt
+status: captured
+supersedes: null

@@ -2,15 +2,13 @@ audit_only: true
 buffer_id: STB-20260513-0920
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 865
-line_start: 865
+line_end: 235
+line_start: 235
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: And Geralt—human, Applicator-host, Dragon Mail wielder, trinity of consciousness
-  wearing singular purpose—stood at its center, accepting responsibility that came
-  with power he'd proven worthy of wielding.
+  entity_type: CHR
+raw_quote: '"The guardian," Geralt said. "Whatever protects the Dragon Mail."'
 signal_type: entity
 source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured

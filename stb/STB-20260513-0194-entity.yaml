@@ -2,15 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-0194
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 91
-line_start: 91
+line_end: 72
+line_start: 72
 parsed_payload:
   confidence: medium
   entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: But Anunnaki consciousness-commands prevented such communication. His role
-  was construction, not diplomacy. His purpose was obedience, not explanation.
+  entity_type: FAC
+raw_quote: The four overseers raised their hands in perfect synchronization, and reality
+  responded to Anunnaki will.
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
+source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
 status: captured
 supersedes: null

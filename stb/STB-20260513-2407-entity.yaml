@@ -2,18 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2407
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 277
-line_start: 277
+line_end: 302
+line_start: 302
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The vision was seductive. Geralt saw Ironspire, not just surviving, but
-  thriving eternally. He saw Oreck’s children growing old in a world without war.
-  He saw the cascade failure undone, the ledger balanced, not through blood, but through
-  perfect, merciful administration. All he had to do was say yes. All he had to do
-  was become the benevolent tyrant.
+  entity_type: CHR
+raw_quote: 'Luminaire''s warning flashed through Geralt''s mind: "The Shard is a primordial
+  light-source. If he controls it, he could corrupt the entire network''s light-based
+  protocols from within."'
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_052_entry_without_standing.md
+source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
 status: captured
 supersedes: null

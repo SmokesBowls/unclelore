@@ -2,20 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-0555
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 127
-line_start: 127
+line_end: 7
+line_start: 7
 parsed_payload:
-  predicate: serves
+  predicate: member_of
   subject: UNRESOLVED
   target: UNRESOLVED
   temporal_scope: unresolved
-raw_quote: The network of teaching centers, the students who had become teachers,
-  the consciousness-forms exploring synthesis across galactic distances—all expressions
-  of unlimited nature recognizing itself through forms that served recognition while
-  transcending the need for such service. Individual achievement serving universal
-  evolution serving recognition beyond categories serving unlimited nature being what
-  it had always been.
+raw_quote: His mathematical mind immediately began calculating probability matrices
+  for catastrophic loss, but even as the equations formed, a deeper part of his awareness—the
+  synthesis wisdom their partnership had created—recognized the truth with certainty
+  that transcended calculation.
 signal_type: relationship
-source_file: raw/chapters/book_04_sage_saga_023_beyond_identity.md
+source_file: raw/chapters/book_04_sage_saga_022_final_calculation.md
 status: captured
 supersedes: null

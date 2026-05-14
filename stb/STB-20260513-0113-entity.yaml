@@ -2,17 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0113
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 174
-line_start: 174
+line_end: 62
+line_start: 62
 parsed_payload:
   confidence: medium
-  entity_name: Neferati
-  entity_type: UNKNOWN
-raw_quote: Below, a celebration was beginning. The Giants had declared this day sacred—the
-  Festival of First Contact, commemorating that terrible morning when Neferati fell
-  from the sky and Giants fled in terror. Now, centuries later, both species gathered
-  to celebrate not the fear, but what had been built beyond it.
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: '"They don''t know what we are," Senareth realized, speaking aloud for
+  the benefit of the other Neferati. "They felt the impact of our landing—seismic
+  disturbance across the entire island. Came to investigate. To understand."'
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+source_file: raw/chapters/book_01_book_of_genesis_004_the_convergence.md
 status: captured
 supersedes: null

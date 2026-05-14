@@ -2,18 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-1308
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 78
-line_start: 78
+line_end: 900
+line_start: 900
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'The assembled strike force looked exactly like what Mika had requested:
-  twenty of the most dangerous individuals who''d ever had the poor judgment to follow
-  Geralt into battle. Scouts who could move through hostile territory like ghosts.
-  Combat mages with enough raw power to level buildings. Heavy infantry who treated
-  "impossible odds" as a suggestion rather than a deterrent.'
+  entity_type: CHR
+raw_quote: Geralt crashed through—not with subtlety but with overwhelming force, with
+  telekinesis that the Applicator amplified beyond anything individual capability
+  could generate, with creative fire that made automated defenses malfunction because
+  they'd never been designed to resist consciousness that refused to accept impossibility.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_033_the_march.md
+source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured
 supersedes: null

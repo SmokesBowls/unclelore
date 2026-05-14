@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-0453
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 24
+line_start: 24
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: The tactical display materialized in the chamber's center—a three-dimensional
+  map of local space showing the scattered Igigi refugees as tiny points of light
+  fleeing toward the galactic periphery. Each point represented not just an individual,
+  but centuries of accumulated knowledge, consciousness-crafting techniques that the
+  Anunnaki had invested millennia developing through selective breeding and genetic
+  manipulation.
+signal_type: entity
+source_file: raw/chapters/book_04_sage_saga_017_niburu_shadow.md
+status: captured
+supersedes: null

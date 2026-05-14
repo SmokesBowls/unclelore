@@ -2,14 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-2543
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 194
-line_start: 194
+line_end: 127
+line_start: 127
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: You could be assimilated, Geralt projected.
+  entity_type: CHR
+raw_quote: A cold knot formed in Geralt’s stomach. They’re listening to you.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_055_the_anchors_forge.md
+source_file: raw/chapters/book_09_bureaucratic_debt_053_the_twilight_city.md
 status: captured
 supersedes: null

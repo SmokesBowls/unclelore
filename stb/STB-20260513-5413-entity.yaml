@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-5413
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 11
+line_start: 11
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: 'The old Nephoretti woman—her name was Miral—led them east along the shore,
+  then south, into terrain Vale had not walked. The land here was transitional: the
+  packed ash and broken lava of the northern approach giving way to something older,
+  more weathered. Stone that had been shaped by wind and water for millennia, its
+  surfaces smooth in places, sharp in others, carrying the memory of forces that predated
+  the city.'
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_119_resonance_of_the_first_point.txt
+status: captured
+supersedes: null

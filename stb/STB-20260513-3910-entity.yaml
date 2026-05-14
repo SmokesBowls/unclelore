@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3910
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 359
+line_start: 359
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: The journey took several days. The terrain shifted from swamp to rocky
+  foothills, then to a landscape of black basalt and sulfurous steam vents that hissed
+  like angry serpents. Here, the needle’s pulse was a ghost, barely perceptible, and
+  the vrill currents ran wild and unpredictable.
+signal_type: entity
+source_file: raw/chapters/book_20_the_discordant_pulse_south_103_the_second_song_resonance_of_a_broken_needle.md
+status: captured
+supersedes: null

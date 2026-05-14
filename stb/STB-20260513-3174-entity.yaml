@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-3174
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 111
+line_start: 111
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: Viên's distant mental voice conveyed understanding and progress that paralleled
+  Tran's own development while operating according to completely different principles
+  and approaches to cosmic forces. "Learning flow," he communicated across the distance
+  that separated their physical locations. "The chaos isn't something to control—it's
+  something to become part of. Like joining a river instead of trying to dam it."
+signal_type: entity
+source_file: raw/chapters/book_12_forged_identity_069_divergent_paths.md
+status: captured
+supersedes: null

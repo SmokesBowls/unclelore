@@ -2,17 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-1973
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 190
-line_start: 190
+line_end: 187
+line_start: 187
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: “Acknowledged. Continue observation.” Her form began to fade, the silver
-  wires of her Sound-structure dissolving first, leaving only the steady, dark-blue
-  Anchor pulse hanging for a moment in the air—a perfect, lonely star—before it too
-  winked out, pulling the sensation back into the core of Geralt’s being.
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: It rose from the heart of the dead forest, an obsidian spike three hundred
+  feet tall, pulsing with violet light. Corruption radiated from it in visible waves,
+  distorting the air like heat haze. Around its base, a defensive perimeter glimmered—energy
+  shields, guard towers, and patrols of corrupted Igigi.
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_044_the_mountains_shadow.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_042_the_verdant_crossing.md
 status: captured
 supersedes: null

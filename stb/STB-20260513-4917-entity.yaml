@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-4917
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 15
+line_start: 15
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: Vale felt it before he saw it. The vrill in the channel shifted. A hairline
+  current of gold-blue pooled beneath the slab. The Nephoretti hummed a half-step
+  higher. The current deepened.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_115_the_shape_of_asking.txt
+status: captured
+supersedes: null

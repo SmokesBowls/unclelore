@@ -1,0 +1,15 @@
+audit_only: true
+buffer_id: STB-20260513-4449
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 994
+line_start: 994
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: And for the first time in a thousand years, Vale was not holding it.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_111_the_resonance_a_garden_under_shadow.txt
+status: captured
+supersedes: null

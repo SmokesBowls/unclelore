@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-5625
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 29
+line_start: 29
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: '"I''ve felt the edge of it. The contained resonance. The quality of attention
+  that''s been watchin'' this land for seven thousand years." Zephyr''s voice was
+  quiet. "I ain''t built for the inside of that place, Vale. I can read pressure,
+  feel misalignment, sense when somethin''s wrong. But the labyrinth... it responds
+  to presence. To what you are, not what you know. And what I am is a survivor. A
+  teacher. Not a constant."'
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_121_aligning_the_pattern_at_the_labyrinths_threshold.txt
+status: captured
+supersedes: null

@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2378
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 13
-line_start: 13
+line_end: 60
+line_start: 60
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: “Worse,” Luminaire’s voice was a tense hum in Geralt’s mind. “It has pre-emptively
-  filed a motion of inquiry. To step onto Zar’Vokh is to accept its jurisdiction.
-  To accept is to be bound by its verdicts.”
+  entity_type: CHR
+raw_quote: “I’m not coming back, Oreck,” he spat, his voice cracking. “I’m not fighting
+  your wars. I’m not dying for another lost cause. I’m not—” His good eye locked on
+  Geralt. He froze.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_052_entry_without_standing.md
+source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
 status: captured
 supersedes: null

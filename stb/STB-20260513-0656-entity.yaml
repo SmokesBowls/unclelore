@@ -2,18 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-0656
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 937
-line_start: 937
+line_end: 311
+line_start: 311
 parsed_payload:
   confidence: medium
   entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: Training happened in fragments—small groups practicing when the Anunnaki's
-  attention appeared elsewhere, disguising combat movements as labor or exercise.
-  The Nameless One taught what telekinetic control he possessed, showing others how
-  to access the abilities their genetic engineering had granted. Not everyone could
-  manifest it, but enough could that it became force multiplier worth developing.
+  entity_type: FAC
+raw_quote: Three Anunnaki stood in triangular formation around a central viewing column
+  where holographic data streamed past in cascading arrays of alien script. Biometric
+  readings. Behavioral analysis. Genetic markers flagged for review. The one who had
+  stopped the whip was being dissected informationally, every aspect of their being
+  cataloged and cross-referenced against expected parameters.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
+source_file: raw/chapters/book_05_the_nameless_one_024_the_first_spark.md
 status: captured
 supersedes: null

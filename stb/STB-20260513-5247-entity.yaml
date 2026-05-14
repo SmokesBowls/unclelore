@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-5247
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 477
+line_start: 477
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: The stagnant pool lay in a depression of old stone, a place where the vrill
+  had been pooling for centuries—long before the flood, long before the freeze, long
+  before the Nephoretti had found this shore and begun to sing. It was not corrupted.
+  Not poisoned. Just... tired. A system that had been running too long without change,
+  without release, without the small deaths that made room for new growth.
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_117_the_constant_calibration_living_as_anchor.txt
+status: captured
+supersedes: null

@@ -2,14 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2302
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 304
-line_start: 304
+line_end: 82
+line_start: 82
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt kept his face neutral. "And if we bring it to you?"
+  entity_type: CHR
+raw_quote: They sat. Oreck didn’t take his eyes off Geralt. “Zephyr’s presence means
+  this is history moving. So. Speak.”
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
+source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
 status: captured
 supersedes: null

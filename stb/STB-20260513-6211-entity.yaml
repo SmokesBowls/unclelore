@@ -1,0 +1,22 @@
+audit_only: true
+buffer_id: STB-20260513-6211
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 185
+line_start: 185
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The binding tones were holding—they had always held—but the silence she
+  had learned to shape around the lightning was harder to maintain. The pauses required
+  concentration, and concentration required energy, and the energy that had once been
+  distributed across the network was now pooling unevenly. The mason had withdrawn
+  from the corridor. The Igigi had lost her hum. The child had stopped walking east.
+  The fragments were still sustained—the old woman was holding, the center was holding,
+  the stone was holding—but the carriers who had learned to meet the lightning together
+  were no longer meeting, and the separation was creating a drag on the shield.
+signal_type: entity
+source_file: raw/chapters/book_26_the_seam_long_dark_south_133_threshold.txt
+status: captured
+supersedes: null

@@ -2,18 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-1119
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 434
-line_start: 434
+line_end: 697
+line_start: 697
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"I don''t want to kill you," Geralt said honestly—synchronized consciousness
-  providing clarity that simplified moral calculation. "I want you to LEAVE. To report
-  that reclamation failed. To inform Federation that some infections can''t be purified
-  because they''re not infections—they''re remissions from artificial conditions imposed
-  through cosmic order that enabled enslavement."'
+  entity_type: CHR
+raw_quote: A third guard raised weapon toward enslaved population—Geralt's telekinetic
+  force caught the being mid-motion, slammed it into ground with enough force to stun
+  but not kill.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured
 supersedes: null

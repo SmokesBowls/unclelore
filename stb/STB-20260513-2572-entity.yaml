@@ -2,21 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-2572
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 69
-line_start: 69
+line_end: 291
+line_start: 291
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'The sky above the lunar plain wasn''t empty—it was a warzone of vanishing
-  subtlety. To human eyes, it might have looked like atmospheric distortions, but
-  through the Dragon Mail''s enhanced optics, Geralt saw the truth: vast serpentine
-  shapes—Vasthril—coiled through the void like silver razors, their segmented bodies
-  flexing in perfect sync with the Queen''s white frequency. Against them, dragons
-  of every hue banked and spiraled, their wingbeats carving jagged rents in the Vasthril''s
-  harmonic unity. A sapphire dragon bled liquid nitrogen from a gash in its flank,
-  its frost-breath faltering against a Vasthril''s thermal-dampening scales.'
+  entity_type: CHR
+raw_quote: He looked at Geralt, and for a moment, his form resolved into that of the
+  Solantri elder—wise, tired, and resolved. “I have been dormant for ten thousand
+  years. If I must retreat forever to save one world from becoming a weapon, then
+  I retreat… with purpose.”
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
+source_file: raw/chapters/book_09_bureaucratic_debt_053_the_twilight_city.md
 status: captured
 supersedes: null

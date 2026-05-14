@@ -2,21 +2,23 @@ audit_only: true
 buffer_id: STB-20260513-1606
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 127
-line_start: 127
+line_end: 13
+line_start: 13
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'Corruption shrieked—a physical sound tearing at reality. Violet energy
-  lashed viciously upwards. Then—implosion. Silence absolute. The Mars Spire flared
-  blinding gold. Luminaire’s song—whole, triumphant, harmonious—exploded outward.
-  The fracture sealed. Gleaming obsidian replaced weeping wounds. Above, the cosmic
-  battle faltered as pure resonance washed over Martian dunes. Geralt’s gauntlet cooled.
-  Luminara’s voice rang crystalline: *"Anchor secured. Pathway stabilized."* Silver
-  light engulfed the Legion—not mist this time, but a promise. The Dragon Nebula shimmered—approval?—as
-  Mars dissolved. Earth awaited.'
+  entity_type: CHR
+raw_quote: The massive reptilian warrior emerged slowly, his movements unnervingly
+  silent despite his bulk. The faint green arrows pulsing softly on his armored greaves
+  illuminated the grime-streaked floor beneath him. His scaled face, usually fierce
+  and expressive, held a profound stillness. Recognition flared in his deep-set eyes
+  – amber irises now flecked with unsettling pinpricks of chroniton blue. He inclined
+  his horned head, the gesture heavy with ancient loyalty… and something else. A stillness
+  that hadn’t been there before. "Commander," Oreck rumbled, his voice a low vibration
+  that resonated deep in Geralt’s bones. It was his voice, yet layered with echoes,
+  like stones grinding deep in the earth. The faint arrows on his greaves flickered,
+  pointing unerringly towards Geralt, then Mika.
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_037_the_circle_of_progress.md
 status: captured
 supersedes: null

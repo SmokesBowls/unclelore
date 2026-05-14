@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3362
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 130
-line_start: 130
+line_end: 54
+line_start: 54
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: Though clearly disappointed, Isla nodded, accepting her role. "Be careful,"
-  she said, handing Tran her water flask. "The ancient texts say Brajor magic is strongest
-  near the tides."
+  entity_type: CHR
+raw_quote: Caelum stood protectively close to Tran now, one hand on Onyx's flank.
+  The centaur warrior's expression remained stoic, but his eyes betrayed recognition—he
+  had heard tales of these beings.
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
+source_file: raw/chapters/book_15_legends_and_gods_080_the_whispers_between_worlds.md
 status: captured
 supersedes: null

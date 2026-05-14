@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3445
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 77
-line_start: 77
+line_end: 72
+line_start: 72
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: '"These patterns," she said, kneeling to examine them more closely. "They
-  match fragments I found in a text called ''The Harmonization of Realms.'' It described
-  how the Anunnaki created networks to channel energy across vast distances."'
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: That night, as they camped on a bluff overlooking the sea, Tran felt a
+  strange resonance from the Red Fragment. It pulsed with increasing urgency, the
+  rhythm matching something approaching from the east.
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_085_ancient_knowledge.md
+source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
 status: captured
 supersedes: null

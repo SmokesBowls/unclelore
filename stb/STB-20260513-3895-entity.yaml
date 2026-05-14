@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-3895
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 251
+line_start: 251
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: She reached down into the vrill current that flowed through the delta—faint,
+  unstable, but present—and pressed her will into the branch beneath her. It was like
+  trying to catch water with bare hands. The vrill slipped through her fingers.
+signal_type: entity
+source_file: raw/chapters/book_20_the_discordant_pulse_south_103_the_second_song_resonance_of_a_broken_needle.md
+status: captured
+supersedes: null

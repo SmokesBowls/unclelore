@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-4382
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 393
+line_start: 393
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale stood at the needle’s core, his hands pressed to the stone, his form
+  steady. The thread that connected him to the Ma'at  was a line of tension that stretched
+  across the drowned marsh, and through it, he felt Korr’s presence.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_111_the_resonance_a_garden_under_shadow.txt
+status: captured
+supersedes: null

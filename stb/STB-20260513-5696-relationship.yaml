@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-5696
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 175
+line_start: 175
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: The pressure eased. Not disappearing. Integrating. Becoming part of him
+  rather than something imposed from outside.
+signal_type: relationship
+source_file: raw/chapters/book_24_threshold_and_network_south_122_unravealing.txt
+status: captured
+supersedes: null

@@ -2,24 +2,27 @@ audit_only: true
 buffer_id: STB-20260513-1575
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 64
-line_start: 64
+line_end: 75
+line_start: 75
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'Basalt yielded to fossilized roots—massive, petrified veins from the swamp
-  far above. Water surged without warning, thigh-high torrents roaring through twisting
-  galleries. Legionnaires braced against walls slick with millennia of scum. Lyra’s
-  rig flashed methane warnings: 82% saturation. One spark. One misfiring shield. Annihilation.
-  Geralt pressed forward, Zaron’s resonance tracing safe paths through the reeking
-  gloom. Torren gripped Halvar’s arm, voice frayed. "We entered this passage *minutes*
-  ago!" Halvar rasped back, "Hours! Feel this ache?" Temporal drift. Humidity and
-  void resonance stretched seconds into subjective eternities. Compasses spun wild.
-  Maps dissolved. Navigation became faith—trust Geralt’s armored back cutting through
-  darkness, trust Oreck’s chroniton arrows flaring green at junctions. Trust nothing
-  else. Especially not time.'
+  entity_type: CHR
+raw_quote: Pain seared through him as the vortex resisted. Temporal shards sliced
+  psychic feedback across his mind. He grounded himself in the image of the Whispering
+  Stone's symbols, the Giants' own language of harmony. Slowly, agonizingly, he found
+  a screaming frequency within the storm and answered it not with force, but with
+  a counter-harmony of focused purpose. The vortex bucked violently. A sigil on the
+  dais flickered out. Geralt poured more will into the weave, his vision blurring.
+  He saw not just energy, but the potential Althurion warned of – timelines fracturing,
+  knowledge devouring seekers. He channeled that understanding into his resonance,
+  shaping the fury into a pulsing, contained sphere of ordered light atop the plinth.
+  Silence fell abruptly, heavy and profound. The storm-light was now a calm, humming
+  orb. Geralt swayed, blood trickling from his nose. The applicator's casing groaned.
+  Althurion nodded once, a deep, resonant hum vibrating from his chest. **"Understanding
+  witnessed."** He turned, leading them towards a towering archway carved from glacial
+  ice. **"The Heartpeak awaits."**
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
 status: captured
 supersedes: null

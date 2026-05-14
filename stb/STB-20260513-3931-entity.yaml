@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-3931
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 518
+line_start: 518
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: 'Beyond it was not a chamber. It was a space that stretched into infinity,
+  filled with crystal formations that pulsed with light. And at its center, a figure:
+  not Nephoretti, not giant, but something older, something that had been there when
+  the needle was built. Its form was indistinct, shifting between shapes, but its
+  eyes were fixed on them.'
+signal_type: entity
+source_file: raw/chapters/book_20_the_discordant_pulse_south_104_the_rising_tide.md
+status: captured
+supersedes: null

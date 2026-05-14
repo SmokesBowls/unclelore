@@ -2,15 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-3453
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 210
-line_start: 210
+line_end: 86
+line_start: 86
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: '"And the Anunnaki prepare their return," adds Aelxion grimly. "While Ironspire''s
-  ambition blinds it to true threat."'
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: The message ended, the crystal's light dimming. Tran stared at the now-dark
+  object, his mind racing. The message felt genuine—the energy signature matched the
+  Star Needle's, and the figure's knowledge of his binding was too specific to be
+  fabricated.
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_085_ancient_knowledge.md
+source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
 status: captured
 supersedes: null

@@ -2,19 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-2687
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 23
-line_start: 23
+line_end: 97
+line_start: 97
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Tidecaller's entrance wasn't a cave or archway, but a sheer cliff face
-  whose mineral veins rearranged themselves into spiraling sigils whenever Geralt
-  blinked. The stone breathed in glacial increments, its exhalations frosting the
-  air with needles of condensed time. Somewhere within those depths, Zypher waited.
-  And judging by the way the mountain's shadow now stretched toward them like a hand
-  anticipating a weapon, so did everything that had ever been buried alive.
+  entity_type: CHR
+raw_quote: Geralt flexed his fingers, still stiff from clinging to dragon spines.
+  The numbness in his chest felt heavier here, where the stars didn’t twinkle but
+  *thrummed*—a cosmic baseline vibrating through his ribs. Kyh unfolded from shadow
+  into something approximating human shape, her edges frayed from channeling starlight.
+  Oreck simply stood, his claws idly scoring glyphs into the moonlet’s surface—not
+  words, but the Orion equivalent of stretching.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+source_file: raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
 status: captured
 supersedes: null

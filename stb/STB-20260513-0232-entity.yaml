@@ -2,16 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-0232
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 195
-line_start: 195
+line_end: 184
+line_start: 184
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: The Igigi had become... not friends exactly, but something close. Colleagues
-  in suffering. Two species trapped by Anunnaki will, finding small dignities in cooperation
-  despite the violence surrounding them.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: The breeding facilities were efficient, at least. Clean. Well-maintained.
+  The Anunnaki understood that healthy livestock produced better yields. The Igigi
+  were fed adequately, housed in spaces that mimicked their former homeworld's environmental
+  parameters, given access to medical care that prevented disease from reducing population
+  numbers.
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_008_queens_assessment.md
+source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
 status: captured
 supersedes: null

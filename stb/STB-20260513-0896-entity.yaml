@@ -2,14 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0896
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 711
-line_start: 711
+line_end: 145
+line_start: 145
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt considered the question carefully—searching for metaphor adequate
-  to describe experience that transcended normal existence.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: '"The Nehereti are..." he searched for words adequate to describe beings
+  composed of liquid light and ancient grief, "...echoes. Remnants of Tiamat—the first
+  world. When the Anunnaki destroyed it, most consciousness was obliterated. But some
+  survived. Transformed. Became projections that exist between physical and ethereal
+  realms."'
 signal_type: entity
 source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured

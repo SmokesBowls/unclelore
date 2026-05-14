@@ -2,17 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-2002
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 127
-line_start: 127
+line_end: 63
+line_start: 63
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Mika saw it. She broke from her own fight, silver light flaring around
-  her as her bond with Geralt echoed in her veins. She charged, lance aimed like a
-  thunderbolt. It found the crack Halvar had made in the central Gruulith’s chest.
-  The construct froze, violet light flickering wildly, then exploded into inert rubble.
+  entity_type: CHR
+raw_quote: 'Geralt: Retreat! Reform the lines! Protect the survivors!'
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_045_the_hub_falls.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_043_the_badlands_crucible.md
 status: captured
 supersedes: null

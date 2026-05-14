@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-6193
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 156
+line_start: 156
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The Igigi who took the cloth starts humming again during the lightning
+  strike—not the fragment, not a tone, just a low sound that matches the stone’s hum.
+  She doesn’t know she’s doing it. The handler logs sub-auditory vocalization and
+  dismisses it as compliance drift.
+signal_type: entity
+source_file: raw/chapters/book_26_the_seam_long_dark_south_132_white_lightning.txt
+status: captured
+supersedes: null

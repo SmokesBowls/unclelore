@@ -2,14 +2,23 @@ audit_only: true
 buffer_id: STB-20260513-1654
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 180
-line_start: 180
+line_end: 49
+line_start: 49
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'In the suffocating quiet, Geralt’s Applicator flickered once:'
+  entity_type: CHR
+raw_quote: 'Light stabbed their eyes. The obsidian Void Spire plunged downward into
+  the Lucid Storm—an underground lake burning with captured energy, teal and blinding.
+  Static crackled across Geralt’s vambrace, shorting displays. Legionnaire shields
+  flickered, failing. Lyra cursed as her medicae rig sparked, injectors dropping inert.
+  Bioluminescent horrors—eel-things woven from lightning—snaked through the water,
+  drawn to kinetic fields. Mika glanced left. Torren’s reflection shimmered on the
+  lake surface—not his scarred face, but a sneering warlord draped in Anunnaki sigils.
+  Halvar recoiled from his own reflection: a skeletal husk bleeding shadow. Geralt
+  saw Zaren’s dragon form fractured, scales edged in violet rot. The Luminaire’s light
+  didn’t illuminate. It judged.'
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_039_jungle_fever.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
 status: captured
 supersedes: null

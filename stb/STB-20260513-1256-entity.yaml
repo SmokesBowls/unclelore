@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-1256
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 12
-line_start: 12
+line_end: 490
+line_start: 490
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: 'Torn grunted acknowledgment. "Anunnaki vessel. I recognize the dimensional
-  signature—they leave wounds when they travel." He flexed massive hands. "The question
-  is: do we care?"'
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: And Geralt walked—armor moving automatically, three consciousnesses processing
+  trauma in parallel, six beings total who remembered truth that universe had forgotten.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_031_the_crash_site.md
+source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured
 supersedes: null

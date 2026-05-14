@@ -2,15 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-3639
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 88
-line_start: 88
+line_end: 55
+line_start: 55
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: '"Not if the influence had been there from the beginning," Mr. GPT suggested
-  carefully. "Not if it was built into the very Anunnaki technology you''ve adapted."'
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: '"I am Tran, bearer of the Dragon Mail," Tran announced, stepping forward
+  despite the armor''s sudden weight. "I seek the White Fragment."'
 signal_type: entity
-source_file: raw/chapters/book_18_inquisition_of_yourself_097_hearts_of_ash_and_fire.md
+source_file: raw/chapters/book_17_ancestral_debt_089_the_white_mirror.md
 status: captured
 supersedes: null

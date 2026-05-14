@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-1236
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 974
-line_start: 974
+line_end: 293
+line_start: 293
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: Systems screamed—not literally but through cascading alerts that informed
-  Anunnaki command structure that unauthorized override was occurring, that vessel's
-  control was being actively contested, that impossible breach had achieved impossible
-  penetration.
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: Geralt stood slowly—armor settling around him with weight that had nothing
+  to do with physical mass and everything to do with burden of leading people to deaths
+  that were worse than death, to erasures that left no bodies to mourn or names to
+  honor or memories to preserve except those held by six beings who couldn't forget.
 signal_type: entity
 source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured

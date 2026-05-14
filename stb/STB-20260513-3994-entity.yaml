@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3994
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 784
+line_start: 784
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: Teryn stood. She looked at the three figures who had fallen from the sky,
+  who had been thrown away by their masters, who had landed in a world that was already
+  breaking. They were not Nephoretti. They were not giants. They were something else,
+  something old, something that had been broken and rebuilt and broken again.
+signal_type: entity
+source_file: raw/chapters/book_20_the_discordant_pulse_south_106_sky_fallen.txt
+status: captured
+supersedes: null

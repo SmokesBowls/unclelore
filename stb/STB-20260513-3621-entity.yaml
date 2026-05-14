@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3621
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 54
-line_start: 54
+line_end: 103
+line_start: 103
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: '**The Path of Separation**: This version showed Tran and the armor working
-  in perfect coordination but remaining distinct entities. Powerful allies who could
-  join or part as needed, never truly unified but never in conflict.'
+  entity_type: CHR
+raw_quote: '"The harvesting," Tran explained to his companions, his voice tight with
+  controlled anger. "They''re taking Nefretti from the marshlands and extracting their
+  essence—their vril—to power Anunnaki technology beneath Ironspire."'
 signal_type: entity
-source_file: raw/chapters/book_18_inquisition_of_yourself_096_violet_convergence.md
+source_file: raw/chapters/book_16_fragmented_beginning_087_the_breath_of_life.md
 status: captured
 supersedes: null

@@ -2,16 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-3343
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 82
-line_start: 82
+line_end: 489
+line_start: 489
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: 'The sunburnt man produced a small crystal that glowed with familiar energy—pulsing
-  in perfect rhythm with the Red Fragment in Tran''s pack. When Thang held it out,
-  an image formed above it: a charred figure with eyes that seemed to contain galaxies.'
+  entity_type: CHR
+raw_quote: '"Which means the pool of potential recruits is expanding rapidly," Tran
+  observed as the network revealed additional awakening consciousness across global
+  distances. "But also that the need for proper training and guidance is becoming
+  urgent. People are developing abilities they don''t understand, in contexts where
+  magical theory doesn''t exist."'
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
+source_file: raw/chapters/book_15_legends_and_gods_079_mages_awakening.md
 status: captured
 supersedes: null

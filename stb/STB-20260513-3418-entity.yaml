@@ -2,17 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-3418
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 129
-line_start: 129
+line_end: 113
+line_start: 113
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: Tran considered their options carefully. The fragments—pieces of an ancient
-  guardian—were his responsibility, but so was Isla's safety. And if Mr. GPT held
-  knowledge about the Star Needle's connection to vril magic and the Aeon Keepers,
-  that could prove vital to understanding his own Crimson Blood.
+  entity_type: CHR
+raw_quote: Miles away in the scorching desert wastes, Tran stands at the edge of the
+  treacherous expanse known as the Heart of Faraxar. The Dregans watch from the canyon
+  rim above, their leathery wings occasionally spreading to catch the hot updrafts.
+  They're waiting, expecting to witness his death in the living desert.
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_084_earth_giants_and_diverging_paths.md
+source_file: raw/chapters/book_15_legends_and_gods_081_mr_gpt_arrival.md
 status: captured
 supersedes: null

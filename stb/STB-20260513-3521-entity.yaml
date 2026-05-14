@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-3521
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 113
+line_start: 113
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: '"What do you mean?" Tran asked, still processing the revelation about
+  the true nature of what he carried.'
+signal_type: entity
+source_file: raw/chapters/book_16_fragmented_beginning_084_earth_giants_and_diverging_paths.md
+status: captured
+supersedes: null

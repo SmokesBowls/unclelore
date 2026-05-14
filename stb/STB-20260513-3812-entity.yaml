@@ -2,19 +2,21 @@ audit_only: true
 buffer_id: STB-20260513-3812
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 349
-line_start: 349
+line_end: 42
+line_start: 42
 parsed_payload:
   confidence: medium
-  entity_name: Nephoretti
-  entity_type: UNKNOWN
-raw_quote: In the days after the Keeper’s awakening, two Nephoretti who had stood
-  closest to the broken line when the discordant pulse rolled across the marsh began
-  to wake screaming in the dark. They spoke of shapes – not the swamp giants they
-  had fought, but the figures from the Ma'at, the ones that had moved in slow procession
-  and then vanished into the deep. The shapes did not attack. They simply stood at
-  the edge of sleep, watching.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: The portal's exit point, however, was not what they had expected. Instead
+  of emerging near the Mars Void Spire as planned, they found themselves in a vast
+  canyon system that bore all the hallmarks of an engineered killing field. The walls
+  had been carved with geometric precision, creating acoustic chambers that would
+  amplify certain frequencies while dampening others. Hidden weapons emplacements
+  were built into what appeared to be natural rock formations. The very sand beneath
+  their feet had been processed, turned into a substance that would hinder movement
+  while providing perfect traction for Anunnaki armor.
 signal_type: entity
-source_file: raw/chapters/book_20_the_discordant_pulse_south_105_garden_grove.md
+source_file: raw/chapters/book_19_worthy_opponents_north_102_convergence_on_mars.md
 status: captured
 supersedes: null

@@ -2,17 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-3809
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 291
-line_start: 291
+line_end: 22
+line_start: 22
 parsed_payload:
   confidence: medium
-  entity_name: Nephoretti
-  entity_type: UNKNOWN
-raw_quote: It was not Nephoretti. It was not giant. It was something that had been
-  old when the void needles were built, something that had chosen to remain when its
-  kind had left. Its form was indistinct, shifting between shapes, but its eyes –
-  its eyes were fixed on them.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: Maerellia floated through the portal in her transcendent form—neither purely
+  Nefretti nor Aeon Keeper, but something entirely new. The hybrid energies that coursed
+  through her made nearby Anunnaki technology spark and fail. She had brought a cadre
+  of liberated Nefretti with her, each one burning with the desire to strike back
+  at their former captors.
 signal_type: entity
-source_file: raw/chapters/book_20_the_discordant_pulse_south_105_garden_grove.md
+source_file: raw/chapters/book_19_worthy_opponents_north_102_convergence_on_mars.md
 status: captured
 supersedes: null

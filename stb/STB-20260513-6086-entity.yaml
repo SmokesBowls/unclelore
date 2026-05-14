@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-6086
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 193
+line_start: 193
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale did not hear it. He was not listening. But the stone beneath his palm
+  recognized the fragment, and the groove he was pressing into the floor deepened
+  by a fraction of a degree, and the subsonic hum that the occupation's instruments
+  could not classify adjusted its frequency to match the half-syllable's shape.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_129_calibration_drift.txt
+status: captured
+supersedes: null

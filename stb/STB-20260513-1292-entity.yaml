@@ -2,26 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-1292
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 63
-line_start: 63
+line_end: 808
+line_start: 808
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Cold. Utter, bone-deep cold. And silence. They stood on a narrow ledge
-  high in the mountains, wind howling around them. Before them, embedded in the glacier
-  ice, pulsed a massive, corrupted Star Needle – this one twisted, glowing with sickly
-  green light. Kaelen’s face was grim. "A Queen-corrupted Spire," she hissed. "It’s
-  actively unraveling this timeline segment, creating a localized temporal decay field.
-  Feel it?" Geralt didn’t need to feel it; he saw it. Below the ledge, a valley flickered
-  – lush forest one second, barren wasteland the next. "This," Kaelen stated, her
-  voice tight, "is your final lesson here. Stabilize *that*. Not a micro-moment. An
-  entire decaying segment. Anchor it to *this* stable moment... using the Spire itself
-  as the focal point. Do it wrong, and the decay accelerates." The applicator screamed
-  incoherently about catastrophic cascade failure. The dragon armor roared its defiance,
-  flooding Geralt with desperate resolve. Hands-on, dangerous, and utterly necessary.
-  He stepped towards the corrupted light.
+  entity_type: CHR
+raw_quote: '*Good thing we have access credentials then,*Geralt projected while moving
+  toward highlighted position, while armor burned with determination that made impossibility
+  seem merely difficult.'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_032_the_redo.md
+source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured
 supersedes: null

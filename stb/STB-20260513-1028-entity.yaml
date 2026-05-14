@@ -2,15 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-1028
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 639
-line_start: 639
+line_end: 85
+line_start: 85
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: The guard's expression hardened—confusion giving way to determination born
-  of centuries of conditioning, of training that said Anunnaki authority was absolute
-  and slave resistance was impossible.
+  entity_name: Galactic Federation
+  entity_type: FAC
+raw_quote: '"I am Enforcer Vel''thara of the Galactic Federation Compliance Division.
+  We are here to verify Anunnaki evacuation protocols have been properly executed
+  and to assess any irregularities requiring corrective action."'
 signal_type: entity
 source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured

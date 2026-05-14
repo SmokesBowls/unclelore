@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-4154
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 459
+line_start: 459
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: '"They tried to control it," Vale said. "They thought they understood the
+  pattern. They were wrong."'
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_109_the_thread_and_cage.txt
+status: captured
+supersedes: null

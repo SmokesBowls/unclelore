@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3315
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 124
-line_start: 124
+line_end: 239
+line_start: 239
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: The Dregans, too, have noticed something different. Their wings ripple
-  with nervous energy as they witness Tran's Crimson Blood glowing more intensely
-  than before.
+  entity_type: CHR
+raw_quote: '"A guild," Tran agreed, his voice carrying the weight of someone who understood
+  the cosmic implications of what they were establishing. "Not just of mages, but
+  of anyone who can contribute to humanity''s transition into... whatever we''re becoming."'
 signal_type: entity
-source_file: raw/chapters/book_15_legends_and_gods_081_mr_gpt_arrival.md
+source_file: raw/chapters/book_15_legends_and_gods_079_mages_awakening.md
 status: captured
 supersedes: null

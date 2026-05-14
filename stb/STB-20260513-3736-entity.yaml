@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-3736
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 86
+line_start: 86
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: Through the dragon mail, Tran felt Zaron's thoughts. The ancient consciousness
+  was afraid—not of death or domination, but of losing himself in something larger.
+  Yet beneath that fear was curiosity, even hope. What could they become together?
+signal_type: entity
+source_file: raw/chapters/book_18_inquisition_of_yourself_096_violet_convergence.md
+status: captured
+supersedes: null

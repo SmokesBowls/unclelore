@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-5310
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 99
+line_start: 99
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Zephyr shook his head slowly. "No. They would've settled. Compromised.
+  Brak would've given in to keep the peace. Or Keth would've backed down to avoid
+  the tension. And they would've built a wall that was good enough—not the one they
+  actually needed." He looked at Vale. "You bein' gone... it let the friction do its
+  work. Let 'em fight their way to somethin' better."
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_118_the_constant_and_friction_of_becoming.txt
+status: captured
+supersedes: null

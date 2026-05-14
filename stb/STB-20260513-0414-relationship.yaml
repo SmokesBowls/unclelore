@@ -2,19 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0414
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 170
-line_start: 170
+line_end: 82
+line_start: 82
 parsed_payload:
-  predicate: member_of
+  predicate: allied_with
   subject: UNRESOLVED
   target: UNRESOLVED
   temporal_scope: unresolved
-raw_quote: '"The stone-dreams sing with joy," Torrhen added, his geological consciousness
-  interfacing with planetary awareness that had become part of their synthesis demonstration.
-  "Deep Waters carry harmonics of possibilities the sky-devourers never calculated.
-  Their probe becomes mirror, showing them what consciousness becomes when it refuses
-  to accept limitation."'
+raw_quote: Even the neutral Brajor—who had allied with Tidecallers, who had chosen
+  cooperation—found themselves targeted. The Nephilim made no distinction between
+  willing servants and reluctant creations. All Anunnaki corruption required purification.
 signal_type: relationship
-source_file: raw/chapters/book_04_sage_saga_020_the_collapse.md
+source_file: raw/chapters/book_03_the_reckoning_014_convergence.md
 status: captured
 supersedes: null

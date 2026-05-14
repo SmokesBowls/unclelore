@@ -2,15 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2287
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 156
-line_start: 156
+line_end: 344
+line_start: 344
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt landed, setting Oreck down. He looked at Vek’tar, then at the sky
-  filling with enemies. “Do it, Luminaire.”
+  entity_type: CHR
+raw_quote: And somewhere between the elements, between memory and legend, five pairs
+  of eyes watched Geralt walk away, ready to become what came next.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
+source_file: raw/chapters/book_09_bureaucratic_debt_048_the_ledger_born.md
 status: captured
 supersedes: null

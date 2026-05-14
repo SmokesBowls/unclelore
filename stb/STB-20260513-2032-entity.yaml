@@ -2,15 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2032
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 381
-line_start: 381
+line_end: 309
+line_start: 309
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: “Do it,” Geralt said, the words tearing from a raw place inside him. “Whatever
-  it takes.”
+  entity_type: CHR
+raw_quote: '"TOGETHER! NOW!" Geralt screamed, the command a fusion of his will, Zaron’s
+  rage, and Luminaire’s desperation.'
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_045_the_hub_falls.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_043_the_badlands_crucible.md
 status: captured
 supersedes: null

@@ -2,14 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0839
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 261
-line_start: 261
+line_end: 374
+line_start: 374
 parsed_payload:
   confidence: medium
-  entity_name: Nehereti
-  entity_type: UNKNOWN
-raw_quote: Empty space where the Nehereti had said armor would wait.
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: Geralt processed this with growing unease. Soul-bond until death. Immature
+  armor that might fail him. Years of uncertain partnership before reliability could
+  be achieved.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+source_file: raw/chapters/book_05_the_nameless_one_026_dragonmail.md
 status: captured
 supersedes: null

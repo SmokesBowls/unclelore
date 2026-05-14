@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5083
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 191
+line_start: 191
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale thought of the shimmer in the east. The humanoid that had attacked,
+  then stopped, then tilted its head like it was listening. A sentinel. A remnant
+  of Graviton technology. But that had been in the east, not the north. And it had
+  recognized him—stopped when it felt what he was.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_116_keepers_recognition.txt
+status: captured
+supersedes: null

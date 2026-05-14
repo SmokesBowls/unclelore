@@ -2,19 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-1330
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 342
-line_start: 342
+line_end: 1042
+line_start: 1042
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Oreck didn't turn. "Residual energy trails," he murmured, the harmonic
-  layer beneath his voice more pronounced. "Like footprints in wet sand, but fading.
-  The Sage... Zephyr... his passage burns bright. Older than the mountains." He finally
-  looked at her, his eyes catching the last of the twilight. "The Five are with him.
-  Their signatures are distinct. Faint" He paused, the lenses dimming slightly. "Geralt's
-  trail... i cannot see.. but we will find him mika.. dont think about it too much."
+  entity_type: CHR
+raw_quote: And through it all—Geralt held interface, maintained consciousness, burned
+  with fire that came from refusing to accept that meaning was negotiable even when
+  physical form was being systematically destroyed.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_033_the_march.md
+source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured
 supersedes: null

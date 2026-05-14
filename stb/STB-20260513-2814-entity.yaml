@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-2814
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 151
+line_start: 151
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: Zypher pressed his palm against Geralt's ribs. The Dragon Mail hissed as
+  its plates retracted, exposing the raw, luminous scars beneath. "You've been holding
+  onto a lie," the sage whispered. "That you're still human enough to bleed."
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+status: captured
+supersedes: null

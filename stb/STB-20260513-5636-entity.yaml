@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-5636
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 63
+line_start: 63
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: The air changed as they descended. Heavier. Fuller. The same quality of
+  presence Vale had felt alone—but now it was shared. The labyrinth was aware of them
+  all. Measuring. Waiting.
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_121_aligning_the_pattern_at_the_labyrinths_threshold.txt
+status: captured
+supersedes: null

@@ -2,25 +2,25 @@ audit_only: true
 buffer_id: STB-20260513-1467
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 33
-line_start: 33
+line_end: 17
+line_start: 17
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The path northward shifted dramatically. The choking dunes gave way to
-  rocky plateaus, the air cooling as elevation climbed. Snow-capped peaks loomed in
-  the distance—the first fingers of the Crescent Mountains. Scrubby trees, twisted
-  but alive, dotted the landscape where groundwater seeped up through fractured stone.
-  Sand yielded to gravel, then to packed earth strewn with hardy alpine grasses. The
-  oppressive heat lifted, replaced by a wind carrying the scent of pine and distant
-  ice. Geralt crested a ridge, muscles burning from the climb but lungs grateful for
-  the cleaner air. Below, nestled in a sheltered valley bowl beside a rushing glacial
-  stream, stood a small encampment. Sturdy hide tents clustered around a central fire
-  pit. Sharpened stakes formed a defensive perimeter—overkill for such a remote location.
-  Geralt counted eight figures moving with military precision among the tents. All
-  wore patched leathers, but their movements spoke of Legion training.
+  entity_name: Zaryonic Pattern
+  entity_type: SYS
+raw_quote: He slumped against the ice wall, gasping. The screeching outside intensified.
+  Closer. "Kaelen," he rasped. "Mika… the Five… we need to know what happened to them.
+  The Harbinger took them. We have to bring them home." Kaelen was already moving
+  towards a narrow ice tunnel at the cavern’s rear. "Knowing requires accessing the
+  unmaking point," she called back, voice echoing. "That requires the Pattern’s authority.
+  Which *you* lack. She," Kaelen paused, glancing back, her galactic eyes holding
+  Geralt’s, "the Temporal Guardian essence *is* the Zaryonic Pattern’s anchor in this
+  timeline. Fragmented, yes, but the key resides in mastering the temporal arts *through*
+  her training. With or without her help, you must learn to walk the fractures. Only
+  then can you reach the pocket where the 250 were filed away. Only then can you attempt
+  the retrieval." She vanished into the tunnel. "Training continues. Move, Geralt.
+  Or the Chronohounds will file *you* away permanently."
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
+source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
 status: captured
 supersedes: null

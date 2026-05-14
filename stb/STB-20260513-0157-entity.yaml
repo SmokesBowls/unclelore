@@ -2,17 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-0157
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 132
-line_start: 132
+line_end: 146
+line_start: 146
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: Anunnaki overseers waited outside the pods, their golden forms terrible
-  in the morning light. They did not speak—communication with Igigi rarely required
-  words. Consciousness-commands flooded through established channels, directives that
-  bypassed choice and demanded obedience.
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: By year four hundred, the seven Nexus Points anchored a web of resonance
+  that spanned the known world. Giants could communicate across continental distances
+  through meditation at these sites. Neferati could coordinate activities without
+  needing to travel physically. The planet itself seemed more responsive, more alive,
+  more willing to collaborate with consciousness that approached it respectfully.
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
 status: captured
 supersedes: null

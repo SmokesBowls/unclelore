@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-1131
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 89
-line_start: 89
+line_end: 763
+line_start: 763
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: '*Host,* the Applicator stirred with unusual caution. *I''m detecting...
-  anomalies. Energy signatures that don''t match standard Anunnaki technology. Frequencies
-  that suggest something older. Pre-conquest.*'
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: Geralt felt the armor strain—Zaron's consciousness pushed to limits of
+  what adolescent weapon could handle, the Applicator managing power distribution
+  to prevent catastrophic failure, his own flesh beneath scales feeling heat that
+  suggested boundaries were being approached.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured
 supersedes: null

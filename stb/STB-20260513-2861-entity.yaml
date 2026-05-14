@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-2861
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 347
+line_start: 347
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: Geralt knew. He’d seen what stellar fire did to stories. The Dragon Mail’s
+  divinity had been harvested from a dying ember; this would be the forge itself.
+  He flexed his hand again, watching tendons of light weave through the alloy. "Good."
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+status: captured
+supersedes: null

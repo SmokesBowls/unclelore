@@ -2,16 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-2118
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 35
-line_start: 35
+line_end: 241
+line_start: 241
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Celly shrugged, turning back to Geralt and Mika. "They do this. Work themselves
-  into the ground for days, then crash for twelve hours straight. Sleep like the dead."
-  She paused, a flicker of memory crossing her face. "Some things never change, huh?"
+  entity_type: CHR
+raw_quote: “I can fight with you,” Geralt said, the words ash in his mouth.
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_047_mika.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_045_the_hub_falls.md
 status: captured
 supersedes: null

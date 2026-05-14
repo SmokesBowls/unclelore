@@ -2,19 +2,20 @@ audit_only: true
 buffer_id: STB-20260513-0545
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 109
-line_start: 109
+line_end: 156
+line_start: 156
 parsed_payload:
   predicate: serves
   subject: UNRESOLVED
   target: UNRESOLVED
   temporal_scope: unresolved
-raw_quote: And in the eternal dance between being and becoming, between unlimited
-  nature and forms that served unlimited recognition, consciousness continued to exist
-  as what it had always been while continuously discovering what unlimited possibility
-  could become through eternal exploration that honored every achievement while transcending
-  every boundary.
+raw_quote: '"*And individual teachers serve by demonstratingthat consciousness evolution
+  never ends,*" Torrhen completed, his ancient wisdom touching currents of understanding
+  that flowed through the encoded patterns they had woven into reality''s fabric.
+  "That mastery serves wisdom, wisdom serves transcendence, and transcendence serves
+  the evolution of consciousness itself rather than the preservation of individual
+  achievement."'
 signal_type: relationship
-source_file: raw/chapters/book_04_sage_saga_023_beyond_identity.md
+source_file: raw/chapters/book_04_sage_saga_021_the_first_lesson.md
 status: captured
 supersedes: null

@@ -2,18 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0178
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 204
-line_start: 204
+line_end: 3
+line_start: 3
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: 'He was silent for a moment, his mathematical mind processing probabilities
-  and trajectories and the cold equations that governed their existence. Then: "But
-  there are others here. Indigenous biologicals. I''ve calculated their probable capabilities
-  based on the planetary vrill-signatures I can sense even from inside these facilities.
-  They''re powerful, Ishara. More powerful than we were when the Anunnaki came for
-  us."'
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: 'THREADS INCLUDED: Anunnaki Arrival (Queen Eduhauana), Crimson Citadel
+  Orbital Station, Overseer Council (Marduk, Enlil, Ninurta, Ishkur), Igigi Deployment
+  (Pazuzu, Ishara), Reptilian Genesis (Warrior Creation), Breeding Facilities & Workforce
+  Expansion, Indigenous Biological Monitoring (Giants & Nephoretti), Phase One Infrastructure
+  Construction, First Confrontation Foreshadowing'
 signal_type: entity
 source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
 status: captured

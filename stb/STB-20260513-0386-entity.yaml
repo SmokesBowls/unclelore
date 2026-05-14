@@ -2,19 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-0386
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 29
-line_start: 29
+line_end: 47
+line_start: 47
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: It flowed like liquid while remaining solid, reshaping itself according
-  to patterns that existed in Torrhen's mind but operated according to principles
-  that made Zephyr's mathematical consciousness ache with incomprehension. There were
-  no equations for what he was witnessing. No formulas that could describe how thought
-  became reality without passing through the logical frameworks that governed all
-  Igigi consciousness-crafting.
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: '"The old defenses," Pazuzu said quietly, his consciousness processing
+  data from three millennia of maintaining Needle structures. "I''ve seen fragments
+  in the systems. References to ''Nephilim protocols'' embedded in Aeon Keeper architecture
+  that predates Anunnaki conquest. Guardians made of pure vrill-energy, constructed
+  to defend the physical realm when the Keepers couldn''t intervene directly."'
 signal_type: entity
-source_file: raw/chapters/book_04_sage_saga_018_the_wandering.md
+source_file: raw/chapters/book_03_the_reckoning_012_nephilim_summoning.md
 status: captured
 supersedes: null

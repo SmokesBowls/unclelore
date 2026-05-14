@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3483
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 36
-line_start: 36
+line_end: 173
+line_start: 173
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: Tran struggled to regain control of the Dragon Mail, which continued to
-  twitch and shift as if trying to communicate in a language he couldn't understand.
-  "I'm sorry—it's never reacted like this before."
+  entity_type: CHR
+raw_quote: The distraction gave Tran his opening. He thrust both the Red Fragment
+  and his blood-infused blade into the Hydra's central mass, aiming for the heart
+  he could somehow perceive beneath layers of armored flesh.
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_087_the_breath_of_life.md
+source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
 status: captured
 supersedes: null

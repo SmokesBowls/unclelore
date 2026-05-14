@@ -2,29 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-1514
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 151
-line_start: 151
+line_end: 121
+line_start: 121
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Mika nodded, her eyes reflecting his resolve. She didn't pull away entirely,
-  her hand resting firmly on his armored chest plate. "Ahead," she confirmed, her
-  voice regaining its Commander's edge, yet softened by the lingering intimacy of
-  their reunion. She gestured towards the corridor leading deeper into the Tower.
-  "Answers. Maybe... a way." Her gaze held his, acknowledging the unspoken hope –
-  the possibility woven into Zypher's promise and the Sage's ancient knowledge. They
-  stood united, commanders once more, the shared trauma of loss and retrieval forging
-  an unbreakable bond. The army shifted behind them, boots scraping on salt-crusted
-  stone, ready to follow wherever they led. Geralt inhaled deeply, the air tasting
-  of ozone, ancient stone, and the faint, metallic tang of temporal energy. He squeezed
-  Mika’s shoulder once, a silent affirmation, then turned his gaze towards the shadowed
-  passage. "Then we go," he stated, stepping forward, Mika falling naturally into
-  step beside him. The echoes of their desperate struggle faded behind them as they
-  moved as one towards the heart of the Tower and the mysteries it held. The collective
-  breath of the Legion released, a low sigh of anticipation mingling with the soft
-  tramp of boots echoing into the obsidian depths.
+  entity_type: CHR
+raw_quote: Geralt nodded, absorbing it. "You said survivors scattered. Who else?"
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
+source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
 status: captured
 supersedes: null

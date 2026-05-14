@@ -2,14 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-3698
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 146
-line_start: 146
+line_end: 63
+line_start: 63
 parsed_payload:
   confidence: medium
-  entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: '"How long?" Tran asked.'
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: As the others dispersed to prepare, Mr. GPT remained in the chamber, studying
+  the fragments of the broken amplifier. The shadow paths between worlds were treacherous
+  enough under normal circumstances. With the temporal disruptions affecting the entire
+  network, with Anunnaki forces controlling the Martian Void Spire...
 signal_type: entity
-source_file: raw/chapters/book_19_worthy_opponents_north_101_the_hidden_resonance.md
+source_file: raw/chapters/book_17_ancestral_debt_092_departure_and_determination.md
 status: captured
 supersedes: null

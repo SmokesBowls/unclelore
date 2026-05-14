@@ -2,20 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-2984
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 369
-line_start: 369
+line_end: 85
+line_start: 85
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: GPT's observation carried relief as his sensors registered the success
-  of what Tran and Viên had accomplished through perfect coordination of abilities
-  that had been awakened not for destruction but for healing and restoration. "The
-  Stone-Born Herald was never your enemy," he said, his words revealing truths that
-  had been hidden beneath millennia of careful conditioning and misdirection. "It
-  was your guardian, twisted by millennia of isolation and pain. The crimson fire
-  didn't destroy—it healed. It reminded."
+  entity_type: CHR
+raw_quote: While Tran battled both phantoms and memories, Keen found herself facing
+  a different kind of assault from the runestones' influence. The strange twilight
+  realm that she could access seemed to be calling to her with increased intensity,
+  but the voice that summoned her was not the gentle whisper of earth magic that she
+  had grown accustomed to. This was something far more imperious, carrying the weight
+  of authority that demanded obedience rather than requesting cooperation.
 signal_type: entity
-source_file: raw/chapters/book_11_blood_and_legacy_065_secrets_of_the_deep.md
+source_file: raw/chapters/book_11_blood_and_legacy_062_falcon_ridge_showdown.md
 status: captured
 supersedes: null

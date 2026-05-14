@@ -2,18 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0217
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 17
-line_start: 17
+line_end: 128
+line_start: 128
 parsed_payload:
   confidence: medium
   entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: '"Construction timeline extended by estimated thirty-seven solar cycles
-  across all seven sites," Marduk replied without preamble. She appreciated efficiency.
-  "Indigenous biological interference exceeds initial capability assessments. Casualty
-  rates among Reptilian forces approach sustainability thresholds. Igigi workforce
-  morale degrading due to extended combat exposure."'
+  entity_type: SPEC
+raw_quote: The transport pod's deceleration systems engaged with brutal force, compressing
+  their elongated forms against restraint fields. Around them, other pods were descending
+  in coordinated formation—each carrying its cargo of Igigi workers, each heading
+  toward the manufacturing complex that would become their prison and home.
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_008_queens_assessment.md
+source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
 status: captured
 supersedes: null

@@ -2,15 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-1943
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 33
-line_start: 33
+line_end: 17
+line_start: 17
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: “What are you saying?” Geralt asked, though a cold understanding was already
-  dawning.
+  entity_type: CHR
+raw_quote: Geralt felt the shift in the bond before Luminaire spoke. Her voice was
+  a faint chime in his mind, strained at the edges.
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_044_the_mountains_shadow.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_042_the_verdant_crossing.md
 status: captured
 supersedes: null

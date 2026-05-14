@@ -2,24 +2,30 @@ audit_only: true
 buffer_id: STB-20260513-1567
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 43
-line_start: 43
+line_end: 61
+line_start: 61
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'Basalt yielded to fossilized roots—massive, petrified veins from the swamp
-  above. Water surged without warning, thigh-high torrents roaring through twisting
-  tunnels. Legionnaires braced against carved walls slick with millennia of scum.
-  Lyra’s rig flashed methane warnings: 82% saturation. One spark. One misfiring shield.
-  Annihilation. Geralt pressed forward, Zaron’s resonance mapping safe paths through
-  labyrinthine gloom. Torren argued with Halvar, voice tight. "We entered this gallery
-  *minutes* ago!" Halvar rasped back, "Hours! Feel this ache?" Temporal drift. Humidity
-  and void resonance stretched seconds into subjective eternities. Compasses spun
-  wildly. Maps dissolved into madness. Navigation became faith. Trust Geralt’s armored
-  back cutting through the reeking dark. Trust Oreck’s chroniton arrows flaring green
-  at intersections. Trust nothing else. Especially not time.'
+  entity_type: CHR
+raw_quote: The climb became brutal. Handholds vanished, replaced by slick ice. Chroniton
+  winds screamed, trying to peel them from the rock face. Jorik moved like a mountain
+  goat, finding purchase where Geralt saw none. Then came the cry – sharp, piercing,
+  echoing off the cliffs. Three sleek, scaled shapes detached from a higher ledge,
+  plummeting towards them. *Ice Drakes*. Faster than thought, Jorik planted his feet
+  on a narrow ledge, nocked an arrow, and drew the massive horn bow in one fluid motion.
+  The sinew groaned. He sighted, exhaled, and released. The arrow blurred, striking
+  the lead drake squarely in the throat. It shrieked, plummeting past them. Before
+  the others could react, Jorik had another arrow nocked, fired, striking the second
+  drake's wing joint. It spiraled away, shrieking. The third hesitated. Geralt drew
+  his blade, but Jorik's third arrow took it through the eye. Silence crashed back,
+  broken only by the wind. Jorik lowered the bow, breathing hard, a savage grin briefly
+  touching his lips. "Told you it drew heavy," he rasped. Geralt stared at the falling
+  shapes. "Hell of a bowman," he acknowledged. They climbed higher. The mist parted
+  briefly, revealing a colossal cave mouth high above – the Giant's threshold. The
+  Giants knew they were coming. They also knew Jorik could shoot. The path narrowed.
+  Mika felt closer than ever.
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
 status: captured
 supersedes: null

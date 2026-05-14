@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-5813
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 347
+line_start: 347
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: The giants who had trained with Zephyr before the southern journey were
+  teaching others now. Vale saw them in the lower terraces—grove and swamp together,
+  their null-pressure flowing in coordinated waves, shaping stone not by force but
+  by asking. The younger giants watched, tried, failed, tried again. The patient instruction
+  continued. The work of learning to build without forcing had become part of the
+  city's rhythm.
+signal_type: relationship
+source_file: raw/chapters/book_24_threshold_and_network_south_124_the_last_threshold_release_of_the_constant.txt
+status: captured
+supersedes: null

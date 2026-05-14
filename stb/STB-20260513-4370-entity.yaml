@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-4370
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 221
+line_start: 221
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: The chamber's crystalline walls pulsed with approval as the assembled war-lords
+  savored the elegant cruelty of the punishment. This was Anunnaki artistry—not mere
+  destruction, but sophisticated torture designed to echo across generations, to serve
+  as an eternal reminder that resistance brought only suffering.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_111_the_resonance_a_garden_under_shadow.txt
+status: captured
+supersedes: null

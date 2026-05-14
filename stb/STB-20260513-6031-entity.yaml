@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-6031
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 312
+line_start: 312
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: She found herself on the eastern edge of the canopy, where the branches
+  thinned and the marsh opened into the old drowned channels. She did not remember
+  crossing the distance. She remembered her hands moving. She remembered the Nephoretti
+  humming their binding tones a half-step flat. She remembered the Igigi boy watching
+  her from the middle branches, and she remembered turning away from him, and then
+  she was here.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_128_one_degree_above.txt
+status: captured
+supersedes: null

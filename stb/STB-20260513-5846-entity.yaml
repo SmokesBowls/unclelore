@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-5846
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 25
+line_start: 25
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: '"—was a door opening, or rather closing," Zephyr finished. He plucked
+  a vrill-threaded vine from Sera''s abandoned basket, its luminescent fibers pulsing
+  between his fingers. "Not all prisons have bars, boy. Some are equations." The vine
+  twisted into a knot that glowed briefly crimson before unraveling. "The day you
+  found me? That was my homeland''s Nexus reaching through the fracture. And this—"
+  He kicked the half-formed eastern anchor, sending clay fragments skittering. "—will
+  be my return ticket."'
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_125_farwell.txt
+status: captured
+supersedes: null

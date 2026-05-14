@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-2740
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 281
-line_start: 281
+line_end: 77
+line_start: 77
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt meets the sage's gaze. The numbness is a memory. In its place is
-  a cold, crystalline clarity. He is a weapon of contradiction. A story that refuses
-  to end neatly.
+  entity_type: CHR
+raw_quote: Kyh's shadow surged forward to follow him—then recoiled as the guild's
+  wards flared crimson in her path. She hissed, spectral fingers curling into claws.
+  Geralt didn't turn to see. He walked into the lunar sprawl's neon-drenched arteries
+  alone, the guild's foundations still vibrating in his wake.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
 status: captured
 supersedes: null

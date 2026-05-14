@@ -2,19 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-3823
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 479
-line_start: 479
+line_end: 94
+line_start: 94
 parsed_payload:
   confidence: medium
-  entity_name: Nephoretti
-  entity_type: UNKNOWN
-raw_quote: The young giants who had come with it became leaders in their own right,
-  their voices woven into the song of the settlement. One of them – Vine, for the
-  crystal patterns that traced its arms – became Sera’s closest student, learning
-  the Nephoretti words, teaching the melodies of the highlands. They sang together
-  at the needle’s base, their voices rising and falling in harmonies that made the
-  crystal veins glow.
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: '"Will be what I choose to be," Tran finished. "We''ve come too far to
+  hold back now."'
 signal_type: entity
-source_file: raw/chapters/book_20_the_discordant_pulse_south_105_garden_grove.md
+source_file: raw/chapters/book_19_worthy_opponents_north_102_convergence_on_mars.md
 status: captured
 supersedes: null

@@ -2,21 +2,22 @@ audit_only: true
 buffer_id: STB-20260513-1671
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 1
-line_start: 1
+line_end: 85
+line_start: 85
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt plunged his clawed hand into the pool. Not toward the core. Into
-  the root-mass choking it. Zaron’s will surged—not domination, but *alignment*. Azure
-  light flared from his gauntlet, weaving through the metal vines. The roots stiffened.
-  The Luminaire’s pulse stuttered. For a heartbeat, the storm stilled. Reflections
-  cleared—Mika’s fierce determination, Oreck’s unwavering vigilance, Lyra’s exhausted
-  resolve. Real. Uncorrupted. Then the roots *shrieked*, recoiling. The pool churned
-  black as the Luminaire’s light dimmed to ember-red. Something deeper than roots
-  stirred in the depths. Revelation’s price waited in the dark.
+  entity_type: CHR
+raw_quote: 'Wisdom came not from dragons, but desperation. Geralt tore a chroniton
+  arrow from Oreck’s quiver—its green glow stark against Zaron’s blue. He plunged
+  it into the root-mass. Light exploded. Not azure or emerald, but pure, blinding
+  white. The roots shattered. The Luminaire flared—not predatory, but *awakening*.
+  For an instant, Geralt saw her: Luminara, fractured yet radiant, a being of crystallized
+  harmonics reaching through the void. Then agony. The spire’s full resonance hammered
+  him. Dragon scales cracked. Flesh burned. Zaron roared—a sound of triumph and dissolution.
+  The walls dissolved into starlight. The cavern vanished. Above the dunes, Earth’s
+  Spire flared gold, announcing their presence to the cosmos.'
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_040_the_dragon_wars.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
 status: captured
 supersedes: null

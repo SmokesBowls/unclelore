@@ -2,15 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-1036
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 699
-line_start: 699
+line_end: 109
+line_start: 109
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"SURRENDER," Geralt''s voice boomed across the compound—amplified by armor,
-  carrying authority that transcended simple volume. "Your forces are disabled. Your
-  Overseer stands alone. This battle is over. Choose survival over pointless resistance."'
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: '"Additional anomaly detected: Anunnaki Applicator construct present in
+  subject''s neural tissue. Symbiotic rather than controlling. Unprecedented behavioral
+  deviation from standard operational parameters."'
 signal_type: entity
 source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured

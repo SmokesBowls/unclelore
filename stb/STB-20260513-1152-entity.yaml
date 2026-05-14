@@ -2,17 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-1152
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 293
-line_start: 293
+line_end: 51
+line_start: 51
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt stood slowly—armor settling around him with weight that had nothing
-  to do with physical mass and everything to do with burden of leading people to deaths
-  that were worse than death, to erasures that left no bodies to mourn or names to
-  honor or memories to preserve except those held by six beings who couldn't forget.
+  entity_type: CHR
+raw_quote: '"Not today," Geralt continued. "Probably not tomorrow. But soon. With
+  better preparation. With forces specifically deployed to reclaim what we''ve freed.
+  With authorization to use lethal force against populations they view as property
+  in rebellion."'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
+source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
 status: captured
 supersedes: null

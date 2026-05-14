@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-4295
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 723
+line_start: 723
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: He looked at Vale. His eyes were old, older than any giant's, older than
+  the Ma'at .
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_110_the_bleeding_convergance.txt
+status: captured
+supersedes: null

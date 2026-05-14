@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2542
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 192
-line_start: 192
+line_end: 125
+line_start: 125
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: It was a desperate risk. The Applicator was a fragment of the very empire
-  that built this atrocity. Connecting it directly to the Spire could corrupt it,
-  or worse, give the Queen a backdoor into Geralt’s own mind.
+  entity_type: CHR
+raw_quote: 'The carrier wave is modulating, the Applicator reported, its clinical
+  tone now laced with something Geralt had never heard before: apprehension. It is
+  adapting to local energy signatures. My emissions are being… absorbed. Cataloged.'
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_055_the_anchors_forge.md
+source_file: raw/chapters/book_09_bureaucratic_debt_053_the_twilight_city.md
 status: captured
 supersedes: null

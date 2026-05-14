@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2415
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 335
-line_start: 335
+line_end: 362
+line_start: 362
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt reached the lattice. The light burned, not with heat, but with the
-  cold fire of absolute law. He didn’t punch it. He placed his hand against it, Anchor
-  scars shrieking in protest.
+  entity_type: CHR
+raw_quote: A chamber opened before them, littered with skeletons still clad in armor
+  of a design Geralt had never seen—sleek, elegant plates etched with luminous patterns
+  now dark. Luminaire's form pulsed with recognition and sorrow.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_052_entry_without_standing.md
+source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
 status: captured
 supersedes: null

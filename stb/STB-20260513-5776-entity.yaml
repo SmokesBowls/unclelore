@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-5776
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 151
+line_start: 151
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale looked at the labyrinth's entrance—the dark stone, the faint green
+  veins, the waiting silence. The guardian was gone. The enforcement layer was dissolved.
+  The system was stable, self-regulating, complete in function if not in form.
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_124_the_last_threshold_release_of_the_constant.txt
+status: captured
+supersedes: null

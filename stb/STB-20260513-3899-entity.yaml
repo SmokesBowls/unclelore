@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-3899
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 281
+line_start: 281
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: They were a handful, huddled in a cave system that cut through the volcanic
+  rock. Their leader was a Nephoretti named Deryn, who had landed with a small group.
+  Several hadn’t survived the first night.
+signal_type: entity
+source_file: raw/chapters/book_20_the_discordant_pulse_south_103_the_second_song_resonance_of_a_broken_needle.md
+status: captured
+supersedes: null

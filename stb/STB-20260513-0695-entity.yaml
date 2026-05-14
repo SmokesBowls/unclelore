@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0695
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 1407
-line_start: 1407
+line_end: 889
+line_start: 889
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: The Anunnaki recovered first. Of course he did—he was superior in every
-  measurable way. His hand pressed against the Reptilian's chest, power gathering
-  for execution that would be even more brutal for this betrayal by supposed servant.
+  entity_name: Galactic Federation
+  entity_type: FAC
+raw_quote: 'The insignia on their hulls blazed against the darkening sky: geometric
+  patterns that seemed to shift and reform when observed directly, symbols that suggested
+  authority transcending individual species or worlds. The mark of the Galactic Federation.'
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
+source_file: raw/chapters/book_05_the_nameless_one_024_the_first_spark.md
 status: captured
 supersedes: null

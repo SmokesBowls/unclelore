@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-6343
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 31
+line_start: 31
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: She did not weep. The Nephoretti did not weep during the vigil. But her
+  voice was steadier in the binding tones that followed, and the other singers heard
+  the steadiness and matched it, and the shield held with something closer to ease
+  than it had achieved since the phase instability began.
+signal_type: entity
+source_file: raw/chapters/book_27_the_seam_deadly_words_south_136_completion_defered.txt
+status: captured
+supersedes: null

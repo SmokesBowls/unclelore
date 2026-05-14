@@ -2,22 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-1339
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 20
-line_start: 20
+line_end: 1206
+line_start: 1206
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt pushed off the wall. Mika’s face flashed in his mind – fierce, loyal,
-  gone in the Harbinger’s light. The Five, his squad, erased. *Not erased,* he thought,
-  the applicator and armor humming in unison with the stabilized nodes. *Filed. Trapped.*
-  Kaelen was right. Rushing meant death. This brutal training *was* the path back.
-  He wasn’t just learning to fix time; he was learning to dive into its darkest corners
-  and pull his people out. He limped towards the ice tunnel, the Chronohounds’ metallic
-  shrieks vibrating the ice around him. Hands-on. Necessary. For Mika. For the Five.
-  For the 250. He plunged into the cold dark after Kaelen. The retrieval began with
-  survival.
+  entity_type: CHR
+raw_quote: Geralt walked—damaged but undefeated, wounded but progressing, carrying
+  weight that no one else could help bear because universe had convinced them the
+  weight didn't exist.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_034_the_250.md
+source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured
 supersedes: null

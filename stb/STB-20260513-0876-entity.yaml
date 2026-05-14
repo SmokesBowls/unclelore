@@ -2,14 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0876
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 577
-line_start: 577
+line_end: 61
+line_start: 61
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: We need, Geralt continued with forced calm, to establish ground rules.
-  Immediately. Before someone's consciousness gets permanently damaged.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: Warmth flowed through Geralt's palm—the Applicator's presence channeling
+  through his nervous system, extending beyond his body into Oreck's consciousness,
+  finding the restrictions the Anunnaki had woven into reptilian genetics and carefully,
+  precisely, releasing them.
 signal_type: entity
 source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured

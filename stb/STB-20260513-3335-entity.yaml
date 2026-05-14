@@ -2,17 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3335
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 62
-line_start: 62
+line_end: 419
+line_start: 419
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: With the Dregans now allies rather than enemies, Tran and his companions
-  were guided through the remainder of the desert wastes with unexpected ease. Dregan
-  scouts flew ahead, identifying safe passages and water sources, while others guarded
-  their flanks against other desert predators.
+  entity_type: CHR
+raw_quote: '"Then how do we approach them?" Tran asked, understanding that successful
+  diplomacy would require methods that operated beyond simple assertion of network
+  authority.'
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
+source_file: raw/chapters/book_15_legends_and_gods_079_mages_awakening.md
 status: captured
 supersedes: null

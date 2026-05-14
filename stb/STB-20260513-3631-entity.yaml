@@ -2,17 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-3631
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 100
-line_start: 100
+line_end: 211
+line_start: 211
 parsed_payload:
   confidence: medium
-  entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: Tran reached for the fragment. The moment his fingers touched it, he felt
-  himself dissolving—not dying, but expanding. His consciousness merged with Zaron's
-  not through force or submission but through genuine unity. Memories blended, purposes
-  aligned, souls touched in ways that transcended physical merger.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: Beneath the artificial eclipse of Zar’Vokh’s twin moons, the Anunnaki command
+  nexus pulsed with rhythmic precision. Geometric towers rose like bone-white obelisks
+  from the scorched crust of the once-living world, each one tethered to a dormant
+  Void Spire now humming faintly with restored energy.
 signal_type: entity
-source_file: raw/chapters/book_18_inquisition_of_yourself_096_violet_convergence.md
+source_file: raw/chapters/book_17_ancestral_debt_088_shadows_of_umbrageous_fixed.md
 status: captured
 supersedes: null

@@ -2,18 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-0092
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 46
-line_start: 46
+line_end: 54
+line_start: 54
 parsed_payload:
   confidence: medium
-  entity_name: Neferati
-  entity_type: UNKNOWN
-raw_quote: Not music exactly. More like sustained harmonic that made other stones
-  nearby vibrate in sympathy. Neferati discovered that standing near the obelisk while
-  practicing vrill-manipulation made their consciousness-touch more precise, more
-  responsive. The geometry itself seemed to focus intention, amplifying what was already
-  present without adding external power.
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: 'Senareth had selected three Nephoretti—Elyraen for observation skills,
+  Vairis for practical thinking, and a fourth named Kyreth whose consciousness carried
+  an unusual gentleness—to approach the tree line at first light. The plan was simple:
+  move slowly, maintain non-threatening postures, demonstrate vulnerability through
+  deliberate exposure.'
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+source_file: raw/chapters/book_01_book_of_genesis_003_first_contact.md
 status: captured
 supersedes: null

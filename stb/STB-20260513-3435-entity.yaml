@@ -2,15 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-3435
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 181
-line_start: 181
+line_end: 42
+line_start: 42
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: Tran stepped forward, the fragments at his chest pulsing in recognition.
-  "Will you guide us there?"
+  entity_type: CHR
+raw_quote: Tran followed the crystalline path as it formed before him, the Crimson
+  Blood creating safe passage through the living desert. He was no longer fighting
+  against the Heart but working with it, letting his blood reveal his true nature
+  rather than seeking to dominate.
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_084_earth_giants_and_diverging_paths.md
+source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
 status: captured
 supersedes: null

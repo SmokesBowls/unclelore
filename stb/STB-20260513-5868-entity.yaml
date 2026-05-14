@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5868
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 119
+line_start: 119
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: It no longer whispered. It sang. A jagged, atonal counterpoint to the marsh's
+  natural rhythm, threading through the vrill channels like rot through a root system.
+  The song was not meant to deceive. It was meant to disorient, to isolate, to make
+  Vale feel that the world itself had turned against him.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_125_farwell.txt
+status: captured
+supersedes: null

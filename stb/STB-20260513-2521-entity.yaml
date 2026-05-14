@@ -2,14 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2521
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 68
-line_start: 68
+line_end: 335
+line_start: 335
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt nodded, the movement feeling mechanical. “Thank you.”
+  entity_type: CHR
+raw_quote: Geralt reached the lattice. The light burned, not with heat, but with the
+  cold fire of absolute law. He didn’t punch it. He placed his hand against it, Anchor
+  scars shrieking in protest.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_055_the_anchors_forge.md
+source_file: raw/chapters/book_09_bureaucratic_debt_052_entry_without_standing.md
 status: captured
 supersedes: null

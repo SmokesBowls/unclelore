@@ -2,13 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-1253
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 1118
-line_start: 1118
+line_end: 450
+line_start: 450
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt chose continuation.
+  entity_type: CHR
+raw_quote: He met Geralt's gaze directly—vertical pupils showing something approaching
+  sympathy.
 signal_type: entity
 source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured

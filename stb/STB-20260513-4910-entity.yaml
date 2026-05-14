@@ -1,0 +1,15 @@
+audit_only: true
+buffer_id: STB-20260513-4910
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 396
+line_start: 396
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: “What’s the next step?” Vale asked. Not as a leader. As a student.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_114_resonance_of_stone.txt
+status: captured
+supersedes: null

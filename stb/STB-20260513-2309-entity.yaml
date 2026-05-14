@@ -2,16 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-2309
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 362
-line_start: 362
+line_end: 118
+line_start: 118
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: A chamber opened before them, littered with skeletons still clad in armor
-  of a design Geralt had never seen—sleek, elegant plates etched with luminous patterns
-  now dark. Luminaire's form pulsed with recognition and sorrow.
+  entity_type: CHR
+raw_quote: “My life-fire is here. With you. With them. I go as a shell to burn out
+  the past.” He looked at Geralt, his eyes reflecting the dying ember. “I will come.
+  On one condition. We do not just fight the next collector. We find the Ledger itself.
+  We don’t settle the debt. We erase it. For us. For the 250. For the Five. For every
+  story they called ‘unfinished.’ We burn the bank.”
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
+source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
 status: captured
 supersedes: null

@@ -2,14 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-1098
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 296
-line_start: 296
+line_end: 557
+line_start: 557
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '*ZARON!* Geralt shouted mentally. *DO SOMETHING!*'
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: Mika led her infiltration team toward mining operations that extended beyond
+  compound walls—work parties supervised by single guard rather than full security
+  detail, vulnerability that existed because Anunnaki had never conceived that slaves
+  might coordinate resistance across compounds.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured
 supersedes: null

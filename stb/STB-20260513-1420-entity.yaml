@@ -2,33 +2,26 @@ audit_only: true
 buffer_id: STB-20260513-1420
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 89
-line_start: 89
+line_end: 16
+line_start: 16
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'The ensuing month bled into Geralt’s bones like cold iron. Time within
-  the Nexus obeyed no earthly rhythm; days stretched into subjective years under Kaelen’s
-  relentless tutelage. His focus shifted decisively from brute-force stabilization
-  to the Star Needle spire’s true potential: temporal *placement*. Not just anchoring
-  points in chaos, but *understanding* them. Kaelen guided him through the spire’s
-  fractured chroniton code, layer by agonizing layer. "See the harmonic lattice?"
-  she’d snap as he wrestled with a shimmering strand of corrupted light projected
-  by the applicator. "This sequence dictates resonance decay. Alter *here*." Geralt
-  learned to rewrite the spire’s fundamental protocols, not just harmonize with them.
-  He learned to harness the chaotic streams not as obstacles, but as pathways—tunneling
-  through temporal inertia by aligning his tripartite signature with the Nexus’s own
-  turbulent flow. Each lesson was etched in pain and exhaustion, the fractured applicator
-  protesting every manipulation, Zaron’s spirit a banked fire lending stubborn endurance.
-  He learned to feel the subtle signatures of the Void Spires – distant, ancient structures
-  anchoring reality’s deeper layers. And he learned of their guardians: the Resonant
-  Keepers. Luminaire. The First. The missing piece. Kaelen’s galactic eyes held a
-  grim certainty when she spoke the name. "Luminaire’s resonance signature is the
-  key to navigating the deeper eddies. To finding *specific* pockets. To finding the
-  250." She paused, the Nexus swirling violently around their temporary anchor point.
-  "And Luminaire… is bound to Earth."'
+  entity_type: CHR
+raw_quote: Geralt turned back to the pulsing crystals. His ribs screamed. The applicator’s
+  fatigue warnings blared crimson across his vision. The dragon armor pulsed sluggishly,
+  its fire banked low. *How?* he thought, desperation clawing. *How do I harmonize
+  this last one? I’m spent.* He closed his eyes, reaching inward past the pain. *Applicator.
+  Armor. Help me understand. How does this resonance work? Show me the frequency.*
+  The applicator flashed a complex waveform overlay – the node’s chaotic signature
+  mapped against the stable harmonic they needed. Cold, precise data. The dragon armor
+  rumbled deep within, flooding his awareness with the raw *feel* of stability – warmth,
+  solidity, the immovable weight of bedrock. *Together,* Geralt willed. *Show me together.*
+  The applicator’s waveform snapped into alignment with the armor’s resonant signature.
+  A blueprint of harmony. Geralt poured his flagging will into replicating it, humming
+  the synthesized tone. The final node’s jagged pulse softened, smoothed, settled
+  into a steady amber glow. Done.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
+source_file: raw/chapters/book_06_the_ragnarok_034_the_250.md
 status: captured
 supersedes: null

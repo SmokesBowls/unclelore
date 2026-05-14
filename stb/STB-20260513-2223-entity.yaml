@@ -2,17 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-2223
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 282
-line_start: 282
+line_end: 21
+line_start: 21
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: “The Ledger will eventually send a function that cannot be suspended. It
-  will repossess the Anchor. Geralt will cease. I will be catalogued. The network
-  will destabilize. Your world’s peace was built on a defaulted loan. The payment
-  is due.”
+  entity_type: CHR
+raw_quote: '"We did," Geralt said, his voice gravelly with dust. "We''re home."'
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_047_mika.md
 status: captured
 supersedes: null

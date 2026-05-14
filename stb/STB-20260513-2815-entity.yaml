@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-2815
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 153
+line_start: 153
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: 'Geralt''s Applicator ignited white-hot, its scorched core vomiting Spire-code
+  like arterial spray. The numbness shattered—not into pain, but into something far
+  worse: the absence where pain should have been.'
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+status: captured
+supersedes: null

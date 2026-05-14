@@ -138,7 +138,7 @@ def scan_line(line, line_num, filepath, entity_data, rel_patterns):
 
 def main():
     parser = argparse.ArgumentParser(description="STB Chapter Scanner (Phase 6.3)")
-    parser.add_argument("--dry-run", action="store_true", required=False, default=True, help="Print YAML records to stdout only. No writes.")
+    parser.add_argument("--dry-run", action="store_true", default=False, help="Print YAML records to stdout only. No writes.")
     parser.add_argument("--limit", type=int, default=None, help="Limit scanner to first N chapter files.")
     args = parser.parse_args()
 

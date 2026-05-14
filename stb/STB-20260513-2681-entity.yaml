@@ -2,22 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-2681
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 7
-line_start: 7
+line_end: 79
+line_start: 79
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Tidecaller's Mountain grew teeth as they approached. What had been a distant
-  smudge of violet-grey against the horizon now loomed like a snapped bone jutting
-  from the earth's flesh, its upper slopes sheathed in ice that glittered with unnatural
-  clarity. Geralt's Applicator throbbed in time with their footsteps—not a warning,
-  but a tuning fork resonating with something buried beneath the scree. Kyh's form
-  frayed at the edges whenever they passed cairns of stacked obsidian shards, her
-  silver threads vibrating as if plucked by invisible fingers. "They're markers,"
-  she whispered once, though her lips didn't move. "Not for travelers. For whatever
-  walked here before continents cooled."
+  entity_type: CHR
+raw_quote: Vaelthanelaughed—a sound like mountains splitting—and dove into the opening
+  they'd created. Geralt felt the Applicator pulse in sync with the dragon's wings,
+  their combined rhythm off-beat from the Queen's metronome. Where Vaelthanepassed,
+  Vasthril ruptured like overstretched wire, their perfect geometry undone by the
+  sheer wrongness of a dragon who chose his own tempo.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+source_file: raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
 status: captured
 supersedes: null

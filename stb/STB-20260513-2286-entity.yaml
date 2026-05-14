@@ -2,15 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-2286
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 146
-line_start: 146
+line_end: 340
+line_start: 340
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: “Untargeted?” Oreck growled, suspended in Geralt’s grip. “Where does it
-  go?”
+  entity_type: CHR
+raw_quote: Geralt took it.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
+source_file: raw/chapters/book_09_bureaucratic_debt_048_the_ledger_born.md
 status: captured
 supersedes: null

@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-1925
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 273
-line_start: 273
+line_end: 1167
+line_start: 1167
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: Six figures stood guard at an intersection. They wore tattered remnants
-  of rebel armor, but their eyes were vacant, their movements perfectly synchronized.
-  Corrupted Igigi. Rebels who had fought the Queen, captured, and reprogrammed.
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: She stepped closer, reached out to touch Geralt's chest plate. Her fingers
+  traced the dragon scales—now living tissue, pulsing with crimson light.
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_043_the_badlands_crucible.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
 status: captured
 supersedes: null

@@ -2,16 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-2408
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 285
-line_start: 285
+line_end: 304
+line_start: 304
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt turned. Oreck was looking at him, his chroniton-flecked eyes holding
-  not judgment, but a memory. The memory of a canyon, of twelve hatchlings, of a promise
-  made in the dust.
+  entity_type: CHR
+raw_quote: Geralt kept his face neutral. "And if we bring it to you?"
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_052_entry_without_standing.md
+source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
 status: captured
 supersedes: null

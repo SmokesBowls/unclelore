@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3999
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 882
+line_start: 882
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: The Igigi worked alongside the Nephoretti and the grove giants, their long
+  fingers counting, measuring, calculating. They did not sing. They did not laugh.
+  They did not do anything that was not necessary. But they were there, and they were
+  helping, and slowly, grudgingly, the city began to accept them.
+signal_type: entity
+source_file: raw/chapters/book_20_the_discordant_pulse_south_106_sky_fallen.txt
+status: captured
+supersedes: null

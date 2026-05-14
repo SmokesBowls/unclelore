@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-3572
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 297
+line_start: 297
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: The implications sent murmurs through the assembled mages. Many had thought
+  the conflict was purely local—Ironspire against the Guild, with Reptilian forces
+  as pawns. To learn it was part of an interplanetary, perhaps even interdimensional
+  conflict changed everything.
+signal_type: relationship
+source_file: raw/chapters/book_16_fragmented_beginning_086_sanctuary_to_storm.md
+status: captured
+supersedes: null

@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-1125
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 15
-line_start: 15
+line_end: 731
+line_start: 731
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt studied the maps—feeling armor settle around him with confidence
-  that month of intensive coordination had developed, three consciousnesses functioning
-  with synchronization that made individual capability seem quaint by comparison.
+  entity_type: CHR
+raw_quote: Geralt stood in the compound's center—volunteers behind him, guards disabled
+  around him, enslaved population watching from carefully maintained distance. Helm
+  still retracted. Face still visible. Identity still claimed openly despite every
+  tactical reason to hide.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured
 supersedes: null

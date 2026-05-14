@@ -2,22 +2,23 @@ audit_only: true
 buffer_id: STB-20260513-1616
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 13
-line_start: 13
+line_end: 31
+line_start: 31
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: 'Oreck vanished into a curtain of phosphorescent creepers. His salvaged
-  armor—scavenged from Heavens wreck—hummed in perfect resonance with the pyramid’s
-  defensive lattice. To thermal scanners, he was background radiation. To Geralt’s
-  enhanced senses, he moved like a ghost tracing fault lines: here, a buried power
-  conduit; there, a sonic tripwire disguised as orchid pollen. His bowstring glowed
-  emerald, charged by stolen energy. He knew where the nexus hid—not in the central
-  chamber, but beneath the sacrificial altar, where agony amplified the signal. The
-  Legion saw ruins. Oreck saw circuitry. And the Anunnaki weren’t building fortresses.
-  They were grafting themselves onto Earth’s bones.'
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: '"You returned from the Eddy," Geralt’s voice cut through the air, resonant
+  and sure. "You endured oblivion. You stand here because defiance is your core. Mika’s
+  beacon called you home." He paused, letting the acknowledgment sink in – a testament
+  to their resilience. "We are hunted. The Queen felt our strike against Xal’Zirith.
+  She felt Mika’s pull. She knows we gather." He scanned their faces. "We do not cower.
+  We hunt *back*. Our objective: the final occupancy. Our path: north, through the
+  Crescent Mountains." He gestured sharply. "Across the sands of time... Beyond the
+  deep north spindlewood Forrest... Sergeant Halvar! Perimeter watch doubled. Rest
+  rotations enforced. Lieutenant Mika oversees final inventory." His gaze swept the
+  chamber. "We move at first light. Sleep well. Tomorrow, we shatter her expectations."'
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_039_jungle_fever.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_037_the_circle_of_progress.md
 status: captured
 supersedes: null

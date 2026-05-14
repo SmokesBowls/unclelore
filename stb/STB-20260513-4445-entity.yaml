@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-4445
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 878
+line_start: 878
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale sat with the stone in his hands, watching her go. Luminaire’s warmth
+  was a steady presence in his chest.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_111_the_resonance_a_garden_under_shadow.txt
+status: captured
+supersedes: null

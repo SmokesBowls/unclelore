@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-4719
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 886
+line_start: 886
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: He looked at the ground for a long moment. "After that… we didn't talk
+  about turnin' back." Vale waited. "There wasn't anywhere to turn to."
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_112_eastern_system.txt
+status: captured
+supersedes: null

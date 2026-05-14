@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-0460
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 94
+line_start: 94
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: He emerged from the shelter and looked up at the sky, his enhanced Igigi
+  vision perceiving electromagnetic spectra far beyond the range of the primitive
+  indigenous species. What he saw made his mathematical mind stagger with the implications.
+signal_type: entity
+source_file: raw/chapters/book_04_sage_saga_017_niburu_shadow.md
+status: captured
+supersedes: null

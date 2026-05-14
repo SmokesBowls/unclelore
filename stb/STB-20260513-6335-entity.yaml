@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-6335
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 55
+line_start: 55
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: Secondary carriers experience the micro-alignments as stutters in their
+  own signals. The Igigi's double-hum briefly merges into purity, then splits. The
+  singer hears the double-tone vanish and return. The instability is now producing
+  corrective reflexes that cannot complete.
+signal_type: entity
+source_file: raw/chapters/book_27_the_seam_deadly_words_south_135_final_constraint.txt
+status: captured
+supersedes: null

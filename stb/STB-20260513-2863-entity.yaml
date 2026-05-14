@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-2863
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 355
+line_start: 355
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: Outside, the white sky pulsed—forty-seven minutes exact. The clone stirred
+  in its alcove, its flawless face tilting toward the unseen lightning. Geralt didn’t
+  look at it. He stared at the slit-window instead, where the stars winked out one
+  by one, swallowed by the Queen’s hunger.
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+status: captured
+supersedes: null

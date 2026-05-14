@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-3721
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 10
+line_start: 10
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: Thang and Caelum flanked Tran, their varied powers creating a defensive
+  perimeter against whatever trial awaited. The dragon mail shifted restlessly, its
+  consciousness—Zaron's awakening mind—sensing something profound ahead.
+signal_type: entity
+source_file: raw/chapters/book_18_inquisition_of_yourself_096_violet_convergence.md
+status: captured
+supersedes: null

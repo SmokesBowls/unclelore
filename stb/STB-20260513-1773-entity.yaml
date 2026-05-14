@@ -2,15 +2,20 @@ audit_only: true
 buffer_id: STB-20260513-1773
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 666
-line_start: 666
+line_end: 11
+line_start: 11
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt’s vision swam. Through the bond, through Luminaire’s fragmenting
-  consciousness, he felt a pull—
+  entity_type: CHR
+raw_quote: 'Luminara’s light settled. Warm. Welcoming. Geralt’s gauntlet pulsed with
+  hers—a crystalline key embedded in his palm. Not control. Symbiosis. "Mars Spire,"
+  he rasped. "She’ll tear it open." Mika traced the fractal patterns forming on the
+  sand. "And announce us to every spire in the network." Legionnaires murmured—fear,
+  awe. Lyra injected Halvar with stabilized chroniton fluid. "Transit requires precise
+  resonance. One error…" She trailed off. The desert wind carried whispers: Anunnaki
+  signatures converging. Distant. Hungry.'
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_040_the_dragon_wars.md
 status: captured
 supersedes: null

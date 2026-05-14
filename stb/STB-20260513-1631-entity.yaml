@@ -2,22 +2,29 @@ audit_only: true
 buffer_id: STB-20260513-1631
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 53
-line_start: 53
+line_end: 65
+line_start: 65
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'The jungle’s whispers thickened as twilight bled into deep violet gloom.
-  Halvar’s knuckles whitened around his axe handle; every rustling leaf echoed with
-  his brother’s dying gasps from Mars. "We stop *here*," Geralt commanded, slicing
-  through the mental fog with Luminara’s flickering gold light. The clearing was a
-  trap—vines coiled like sleeping serpents, obelisks humming with inverted resonance—but
-  exhaustion outweighed caution. Legionnaires collapsed against petrified logs, eyes
-  darting at shifting shadows. Ren’s hand trembled near his blade. "They’ll slit our
-  throats while we sleep," he muttered. The vine above him sighed back: "*Sleep is
-  surrender.*"'
+  entity_type: CHR
+raw_quote: Geralt lifted his clawed gauntlet slowly, deliberately. Azure energy crackled
+  along the scaled plates. “Watch the bleed,” he commanded, his voice low and resonant,
+  cutting through the wreck’s ambient groan. He didn’t approach the conduit himself.
+  Instead, the spectral outline of Zaron’s draconic spirit shimmered faintly *within*
+  Geralt’s armor plating, coiling possessively. Its ghostly talon gestured towards
+  the flickering chroniton bleed emanating from Sahvant’s targeted conduit. “Trace
+  the dissonance upstream. Not down.” His armored finger traced an invisible path
+  in the scorched air. “Find the junction where the temporal stabilizer *was*. There…
+  isolate the tertiary harmonics. Bypass the core entirely.” Sahvant’s team scrambled,
+  tools whirring frantically as they redirected their efforts. Her own glowing gauntlets
+  moved with newfound caution, following Geralt’s spectral guidance. The unstable
+  shimmer around the conduit visibly lessened, stabilizing into a contained, pulsing
+  glow. Relief washed over her face, quickly replaced by awe. He hadn’t touched the
+  generator. He’d *seen* its fractured resonance and navigated it. It was mastery
+  beyond her Circle’s scavenged lore. "Integration," Geralt stated, turning his helm
+  fractionally towards Mika. His gaze, however, remained locked on Sahvant. "Not assimilation."
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_039_jungle_fever.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_037_the_circle_of_progress.md
 status: captured
 supersedes: null

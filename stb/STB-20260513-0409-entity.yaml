@@ -2,17 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-0409
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 156
-line_start: 156
+line_end: 62
+line_start: 62
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: '"Anunnaki probe," Torrhen confirmed, his geological wisdom touching currents
-  of planetary memory that preserved quantum impressions of similar events. "The sky-devourers
-  test readiness for large-scale harvest. Reality-distortion patterns match those
-  preceding the Culling, but amplified beyond previous parameters."'
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: 'Five of them—massive beings composed entirely of vrill-energy rendered
+  visible, each representing a different elemental balance: flame that burned without
+  consuming, water that flowed through solid matter, earth that moved with living
+  consciousness, air that carried impossible weight, and something beyond—aether,
+  the force that bound all elements into coherent whole.'
 signal_type: entity
-source_file: raw/chapters/book_04_sage_saga_020_the_collapse.md
+source_file: raw/chapters/book_03_the_reckoning_014_convergence.md
 status: captured
 supersedes: null

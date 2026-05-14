@@ -2,15 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2405
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 267
-line_start: 267
+line_end: 284
+line_start: 284
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: It paused, and the lattice around the Cortex reconfigured, the beams of
-  light focusing not on the Cortex itself, but on Geralt.
+  entity_type: CHR
+raw_quote: The room seemed to contract, the darkness pressing in. Geralt felt the
+  Anchor bond flare—Luminaire was preparing for a fight she couldn't win.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_052_entry_without_standing.md
+source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
 status: captured
 supersedes: null

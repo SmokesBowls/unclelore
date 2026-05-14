@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3908
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 325
+line_start: 325
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: They had built rafts from mangrove wood, lashing the trunks together with
+  vines, using vrill to seal the gaps. It was crude work, but it held. About a dozen
+  survivors had made the journey, poling through the channels, hiding when giants
+  passed, following the pulse that grew stronger with each mile.
+signal_type: entity
+source_file: raw/chapters/book_20_the_discordant_pulse_south_103_the_second_song_resonance_of_a_broken_needle.md
+status: captured
+supersedes: null

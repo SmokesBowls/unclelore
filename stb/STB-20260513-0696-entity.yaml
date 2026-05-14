@@ -2,17 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-0696
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 1409
-line_start: 1409
+line_end: 893
+line_start: 893
 parsed_payload:
   confidence: medium
   entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: But the Reptilian didn't try to escape. Didn't dodge. Instead, his clawed
-  hands gripped the Anunnaki's wrist with strength born of desperation and something
-  that might have been clarity—the recognition that some choices mattered more than
-  survival, that some moments defined whether existence had been worth the suffering.
+  entity_type: FAC
+raw_quote: The Anunnaki appeared on their elevated platforms overlooking the field.
+  All of them. The Nameless One had never seen so many of their masters in one location—dozens
+  of golden figures arranged in formation that spoke of hierarchy even among gods.
+  Their mechanical eyes scanned the assembled fleet with expressions impossible to
+  read, but their body language suggested tension barely controlled.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
+source_file: raw/chapters/book_05_the_nameless_one_024_the_first_spark.md
 status: captured
 supersedes: null

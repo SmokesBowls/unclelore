@@ -2,14 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-1856
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 97
-line_start: 97
+line_end: 517
+line_start: 517
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: “You want to fight?” Geralt stepped forward. “I’ll show you how.”
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The corrupted Igigi charged.
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_042_the_verdant_crossing.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
 status: captured
 supersedes: null

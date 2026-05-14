@@ -2,17 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-0103
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 132
-line_start: 132
+line_end: 4
+line_start: 4
 parsed_payload:
   confidence: medium
-  entity_name: Neferati
-  entity_type: UNKNOWN
-raw_quote: But Neferati, with their more analytical approach, began mapping the pattern.
-  They identified seven primary sites where vrill-currents converged—places where
-  the planetary consciousness seemed closest to surface, most accessible to beings
-  who knew how to listen.
+  entity_name: Aeon Keepers
+  entity_type: FAC
+raw_quote: 'ARC: Aaon Keepers'
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+source_file: raw/chapters/book_01_book_of_genesis_004_the_convergence.md
 status: captured
 supersedes: null

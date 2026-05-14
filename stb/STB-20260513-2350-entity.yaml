@@ -2,14 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2350
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 136
-line_start: 136
+line_end: 468
+line_start: 468
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Then let's begin, Geralt thought.
+  entity_type: CHR
+raw_quote: In the screaming neural fire, Geralt found a memory. Not his own. Mika's.
+  The moment in the archives, her hand on the First Tongue tablet, choosing to trust
+  a future she would not see. Choosing to become a teacher for ages unborn.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_051_arrival_in_fire.md
+source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
 status: captured
 supersedes: null

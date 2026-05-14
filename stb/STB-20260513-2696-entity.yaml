@@ -2,18 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-2696
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 63
-line_start: 63
+line_end: 145
+line_start: 145
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Zypher laughed—a sound that made the mountain's roots tremble. "Come."
-  He vanished mid-syllable, reappearing at the tunnel's mouth with his robe still
-  settling into existence. "The chambers will resonate better with your harmonics."
-  His vortex eyes flicked to Geralt, the unspoken *and I'll dissect your fractures
-  next* hanging between them like a scalpel poised above flesh.
+  entity_type: CHR
+raw_quote: Geralt's stomach inverted again as they were sucked sideways into a howling
+  corridor of compressed starlight. The Dragon Mail's joints shrieked in protest,
+  its gyroscopes overwriting nausea with tactical alerts. Luminaire's signal flickered
+  in his HUD—not a message, just a heartbeat. Proof that somewhere beyond this hell,
+  the network still lived.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+source_file: raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
 status: captured
 supersedes: null

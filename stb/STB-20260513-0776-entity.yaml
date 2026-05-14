@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0776
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 19
-line_start: 19
+line_end: 1403
+line_start: 1403
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"The Nehereti," Geralt answered, knowing Oreck couldn''t understand the
-  words but hoping tone conveyed meaning. "Ancient beings. Older than the Anunnaki.
-  They gave me gifts—speech and sight beyond sight. Tools for what comes next."'
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: The Reptilian crashed into the Anunnaki with force that made the compound's
+  stone floor crack. His massive bulk knocked the golden figure aside just as the
+  power released—killing strike missing its target by inches, instead vaporizing section
+  of perimeter wall in blinding flash.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
 status: captured
 supersedes: null

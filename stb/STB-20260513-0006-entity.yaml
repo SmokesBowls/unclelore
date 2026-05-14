@@ -2,15 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0006
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 84
-line_start: 84
+line_end: 20
+line_start: 20
 parsed_payload:
   confidence: medium
-  entity_name: Nephoretti
-  entity_type: UNKNOWN
-raw_quote: '"The Nephoretti," Syreth said, her thoughts carrying both excitement and
-  trepidation. "We could manifest them again. Send them down to serve as intermediaries,
-  as we did on Tiamat before the shattering."'
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: Her consciousness—if such a term could apply to a being who existed as
+  distributed awareness across probability matrices—rippled with recognition as she
+  monitored the vrill currents flowing between dimensional strata. The patterns had
+  changed. Subtly, but unmistakably.
 signal_type: entity
 source_file: raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
 status: captured

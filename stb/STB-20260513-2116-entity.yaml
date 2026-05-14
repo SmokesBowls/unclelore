@@ -2,17 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-2116
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 19
-line_start: 19
+line_end: 231
+line_start: 231
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Celly Sundrift met them just inside, her hands covered in brick-dust, her
-  face older and wiser than when they'd last seen her at the collapsing Hub Needle.
-  "Commander. Geralt." Her eyes took in the wings, the army of freed souls behind
-  them, and a slow smile spread across her face. "You did it. You actually did it."
+  entity_type: CHR
+raw_quote: Revas took a blast meant for Geralt, his chest a crater.
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_047_mika.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_045_the_hub_falls.md
 status: captured
 supersedes: null

@@ -2,15 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2349
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 132
-line_start: 132
+line_end: 466
+line_start: 466
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: In Geralt's mind, the Five Mikas stirred, their attention focusing on the
-  new presence.
+  entity_type: CHR
+raw_quote: '"The final threshold is not physiological. It is a choice. Do you trust
+  me, Geralt? Not to preserve you, but to become something new with you? Completely?"'
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_051_arrival_in_fire.md
+source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
 status: captured
 supersedes: null

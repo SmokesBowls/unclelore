@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-4103
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 517
+line_start: 517
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: 'It was subtle—a shimmer at the edge of the atmosphere, a distortion in
+  the light that only the most sensitive could see. Vale felt it before he saw it:
+  a shift in the void currents that flowed from the sun, a change in the weight of
+  the world.'
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_108_evolution_of_the_keeper.txt
+status: captured
+supersedes: null

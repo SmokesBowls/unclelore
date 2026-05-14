@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-4887
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 282
+line_start: 282
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale watched Zephyr's face. The weariness there. The weight. And beneath
+  it, something else. Something that had survived the freeze, the flood, the long
+  wandering across a world that had forgotten how to listen.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_114_resonance_of_stone.txt
+status: captured
+supersedes: null

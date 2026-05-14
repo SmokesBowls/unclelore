@@ -2,15 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2284
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 136
-line_start: 136
+line_end: 326
+line_start: 326
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: “Vek’tar! Can you phase us out?” Geralt yelled over the rising whine of
-  approaching thrusters.
+  entity_type: CHR
+raw_quote: Geralt looked at the grave, then at the valley, then at the distant spire.
+  “She wanted to be a teacher. Now she’s five of them.”
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
+source_file: raw/chapters/book_09_bureaucratic_debt_048_the_ledger_born.md
 status: captured
 supersedes: null

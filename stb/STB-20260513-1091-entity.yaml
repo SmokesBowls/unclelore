@@ -2,18 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-1091
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 257
-line_start: 257
+line_end: 493
+line_start: 493
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: Sath'rak's thousand eyes showed satisfaction as Geralt's body jerked—as
-  the Applicator fought desperately to maintain autonomy against assault from being
-  who understood Anunnaki technology at level that exceeded its creators, who could
-  manipulate control mechanisms that had never been designed to resist fellow divine
-  authority.
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: '"Three-point assault," Geralt confirmed. "Mika''s team from inside, me
+  from front, you from rear. By the time the Overseer understands what''s happening,
+  his forces will already be disabled and he''ll be facing three-way convergence with
+  no retreat options."'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured
 supersedes: null

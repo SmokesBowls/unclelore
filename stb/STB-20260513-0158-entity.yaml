@@ -2,17 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0158
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 132
-line_start: 132
+line_end: 158
+line_start: 158
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: Anunnaki overseers waited outside the pods, their golden forms terrible
-  in the morning light. They did not speak—communication with Igigi rarely required
-  words. Consciousness-commands flooded through established channels, directives that
-  bypassed choice and demanded obedience.
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: The Neferati moved between all territories, still serving as bridges, still
+  teaching refinement of consciousness-touch, still helping with construction projects
+  that required precision beyond Giant capabilities.
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
 status: captured
 supersedes: null

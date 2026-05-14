@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-4850
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 37
+line_start: 37
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: “To be taught.” Zephyr’s eyes moved from the giants to the Igigi table,
+  then to the needle. “I spent a long time helpin’ break what was whole. Didn’t pull
+  the lever. Didn’t speak the words. But I was in the room. I breathed the air they
+  made.” He looked at Vale. “You don’t carry a thing like that and just walk away.
+  You either drown in it, or you build somethin’ to hold the weight.”
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_114_resonance_of_stone.txt
+status: captured
+supersedes: null

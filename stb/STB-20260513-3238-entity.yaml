@@ -2,17 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-3238
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 499
-line_start: 499
+line_end: 209
+line_start: 209
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: '"It''s possible," Tran concluded, his consciousness encompassing the global
-  scope of what they were establishing. "The network has the infrastructure. We have
-  the knowledge and authority. The question is whether we can build it quickly enough
-  to matter."'
+  entity_type: CHR
+raw_quote: Somewhere in the back of his temporal awareness, he could sense the echo
+  of his brother Tran, also training, also growing into powers that would reshape
+  the galaxy. The bond between them remained strong despite the physical distance,
+  strengthened by shared purpose and mutual understanding of the stakes they faced.
 signal_type: entity
-source_file: raw/chapters/book_15_legends_and_gods_079_mages_awakening.md
+source_file: raw/chapters/book_14_lessons_of_inheritance_072_flow_between_moments.md
 status: captured
 supersedes: null

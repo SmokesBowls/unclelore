@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-5441
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 155
+line_start: 155
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: Not far. Barely a foot. But the difference was immediate. The distortion
+  eased. The Nephoretti's web steadied. Brak's rumble deepened into something that
+  might have been approval. Keth's patterns settled.
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_119_resonance_of_the_first_point.txt
+status: captured
+supersedes: null

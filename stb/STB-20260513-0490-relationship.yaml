@@ -2,19 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-0490
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 60
-line_start: 60
+line_end: 141
+line_start: 141
 parsed_payload:
   predicate: serves
   subject: UNRESOLVED
   target: UNRESOLVED
   temporal_scope: unresolved
-raw_quote: '"I will," the Sage promised, his mathematical consciousness now encompassing
-  probability matrices that operated across geological time while maintaining analytical
-  precision that served wisdom beyond individual calculation. "And through teaching
-  them, I will continue our partnership in forms that serve consciousness evolution
-  rather than limiting it to individual boundary."'
+raw_quote: '"Consciousness that learns to transcend its own limitations gains capacity
+  to help others transcend theirs," the Sage explained to a gathering of their most
+  advanced students. "Individual synthesis serves collective evolution when it operates
+  through teaching, through demonstration, through creation of opportunities for others
+  to discover their own paths to transcendence."'
 signal_type: relationship
-source_file: raw/chapters/book_04_sage_saga_022_final_calculation.md
+source_file: raw/chapters/book_04_sage_saga_020_the_collapse.md
 status: captured
 supersedes: null

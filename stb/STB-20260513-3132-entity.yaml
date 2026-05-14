@@ -2,19 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-3132
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 51
-line_start: 51
+line_end: 125
+line_start: 125
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: '"The network has been waiting," Green Mika confirmed, their form now seeming
-  to extend through the stone walls themselves, connecting to pathways that led to
-  every corner of the planet. "For three thousand years, since the last bridge-builder
-  fell to Anunnaki corruption, the planet has been forced to operate without a translator.
-  It has grown lonelier, more isolated, less able to communicate its needs to the
-  surface dwellers who depend on its health."'
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: '"He saved me," Tran realized as he watched the vision of Geralt emerging
+  from the facility with a small bundle that represented not just individual life
+  but hope for consciousness that could develop according to its own nature rather
+  than serving purposes defined by others.'
 signal_type: entity
-source_file: raw/chapters/book_14_lessons_of_inheritance_073_stone_and_root.md
+source_file: raw/chapters/book_12_forged_identity_068_brotherhood_revealed.md
 status: captured
 supersedes: null

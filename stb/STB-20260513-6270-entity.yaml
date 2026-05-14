@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-6270
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 515
+line_start: 515
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Below, in the compound yard, Ember stands with her boots in the depression
+  Vale left in the earth and her eyes on the ship and does not move.
+signal_type: entity
+source_file: raw/chapters/book_27_the_seam_deadly_words_south_1139_1139.txt
+status: captured
+supersedes: null

@@ -2,30 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-1392
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 35
-line_start: 35
+line_end: 78
+line_start: 78
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: A low, resonant *thrum* vibrated through the frozen stone beneath their
-  boots. Not Chronohounds. Deeper. Older. Kaelen’s eyes narrowed. "Resonance spike,"
-  she hissed. "The Spire senses intrusion. Brace!" The thrum intensified into a bone-jarring
-  vibration. The rubble pile shifted. Glowing ice-vines snapped like whips. From the
-  fissure, a wave of pure temporal *inertia* washed over them – not an attack, but
-  a suffocating blanket of absolute stillness. Geralt gasped. His anchor held, but
-  barely. His limbs felt encased in lead. He couldn't move forward. He couldn't even
-  fall. He was pinned, suspended in the crushing embrace of stopped time. Kaelen remained
-  rigid beside him, her expression grim. "The Spire's defense," she forced out, her
-  voice strained against the stillness. "It amplifies the sinkhole's drag to stasis.
-  Break its hold... or become part of the ruins." Geralt fought to breathe, fought
-  to think. *Break stasis.* How? His applicator screamed impossibility. His armor
-  pulsed defiance, but even its fire felt sluggish. He needed more than defiance.
-  He needed resonance. He needed to sing *against* the silence. He closed his eyes,
-  reaching deep into the core forged for the lost. *For them,* he roared silently
-  into the stillness. *Harmonize!* He began weaving his tripartite signature not just
-  as an anchor, but as a counterpoint – a defiant pulse against the suffocating stasis.
+  entity_type: CHR
+raw_quote: 'The assembled strike force looked exactly like what Mika had requested:
+  twenty of the most dangerous individuals who''d ever had the poor judgment to follow
+  Geralt into battle. Scouts who could move through hostile territory like ghosts.
+  Combat mages with enough raw power to level buildings. Heavy infantry who treated
+  "impossible odds" as a suggestion rather than a deterrent.'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
+source_file: raw/chapters/book_06_the_ragnarok_033_the_march.md
 status: captured
 supersedes: null

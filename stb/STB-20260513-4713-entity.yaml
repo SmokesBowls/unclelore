@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-4713
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 860
+line_start: 860
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: The air compressed—sharp, sudden. Not like before. This wasn't pressure
+  building. This was pressure placed. Vale's step stopped mid-motion. The ground ahead
+  of him dipped—just enough to take weight that hadn't landed yet.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_112_eastern_system.txt
+status: captured
+supersedes: null

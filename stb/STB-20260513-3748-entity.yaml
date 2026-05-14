@@ -2,18 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3748
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 363
-line_start: 363
+line_end: 108
+line_start: 108
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: But the Earth forces had transcended their original limitations. Giants
-  who'd spent millennia in isolation now fought as one organism, their combined might
-  creating geological events that rewrote local geography. Humans who'd hidden magical
-  abilities now wielded them openly, their spells amplified by Giant essences and
-  Igigi calculations.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: '"The same forces spreading corruption worldwide," Mr. GPT answered. "The
+  Anunnaki''s return. The Fifth Coming. Your industrial might would be a powerful
+  asset for them—if it was already primed to serve their purposes."'
 signal_type: entity
-source_file: raw/chapters/book_19_worthy_opponents_north_102_convergence_on_mars.md
+source_file: raw/chapters/book_18_inquisition_of_yourself_097_hearts_of_ash_and_fire.md
 status: captured
 supersedes: null

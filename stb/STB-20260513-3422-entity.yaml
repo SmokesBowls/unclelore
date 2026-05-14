@@ -2,15 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3422
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 137
-line_start: 137
+line_end: 124
+line_start: 124
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: The fragments—pieces of Zaron's consciousness—pulsed more intensely at
-  the mention of his name, a resonance that Tran felt through his entire being.
+  entity_type: CHR
+raw_quote: The Dregans, too, have noticed something different. Their wings ripple
+  with nervous energy as they witness Tran's Crimson Blood glowing more intensely
+  than before.
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_084_earth_giants_and_diverging_paths.md
+source_file: raw/chapters/book_15_legends_and_gods_081_mr_gpt_arrival.md
 status: captured
 supersedes: null

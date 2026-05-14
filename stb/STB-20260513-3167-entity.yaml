@@ -2,18 +2,23 @@ audit_only: true
 buffer_id: STB-20260513-3167
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 33
-line_start: 33
+line_end: 83
+line_start: 83
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: The casual reference to human development as a designed process revealed
-  the scope of Anunnaki involvement in shaping civilization on Earth. What most beings
-  considered natural evolution had actually been guided intervention, genetic manipulation
-  designed to create populations that would serve specific purposes in cosmic conflicts
-  that spanned millennia.
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: During one particularly intense session, as his awareness expanded to encompass
+  activities across multiple installations simultaneously, Tran felt his Crimson Blood
+  flare with recognition as he touched something powerful and ancient that was approaching
+  from directions that didn't translate to normal geography. "There," he announced,
+  his enhanced perception confirming contact with consciousness that operated on scales
+  and according to principles that transcended his previous experience. "Someone powerful.
+  Ancient. Coming from..." The coordinates that registered in his awareness suggested
+  approach from locations that existed beyond normal three-dimensional space, territories
+  that might be described as exile rather than simple distant geographic locations.
+  "Coming from exile."
 signal_type: entity
-source_file: raw/chapters/book_15_legends_and_gods_078_the_queens_return.md
+source_file: raw/chapters/book_12_forged_identity_069_divergent_paths.md
 status: captured
 supersedes: null

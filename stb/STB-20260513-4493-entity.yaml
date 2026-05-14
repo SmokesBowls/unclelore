@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-4493
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 269
+line_start: 269
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: Vale nodded. "Neither do I. But there is a city to the west. First Shore.
+  I was walking east when I found you." The Igigi said nothing. He closed his eyes,
+  breathing hard, as if the few words had cost him. Vale sat back. "Rest. We will
+  try to move when you are ready."
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_112_eastern_system.txt
+status: captured
+supersedes: null

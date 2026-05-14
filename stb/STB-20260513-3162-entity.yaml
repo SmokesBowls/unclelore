@@ -2,20 +2,22 @@ audit_only: true
 buffer_id: STB-20260513-3162
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 33
-line_start: 33
+line_end: 57
+line_start: 57
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: The Igigi heritage was unmistakable—the stone-like solidity that spoke
-  of beings older than mountains, the geometric patterns that flowed across his skin
-  like living mathematics, the eyes that held depths measured not in years but in
-  cosmic epochs. Yet there was also something else, something that spoke of transformation
-  beyond his original nature. This was no ordinary Igigi, but one who had transcended
-  the limitations of his kind through will, wisdom, and the patient accumulation of
-  power that came from serving forces greater than himself.
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: Tran placed his palms against the base of the Star Needle and immediately
+  understood that his prior experiences with the installation, impressive though they
+  had seemed at the time, were merely preliminary contact designed to prepare him
+  for capabilities and responsibilities that operated on scales he was only beginning
+  to comprehend. Through direct interface with the Needle's consciousness, he felt
+  eight other installations awakening across the continent, their dormant systems
+  responding to activation signals that confirmed the existence of networks that spanned
+  distances and encompassed purposes that challenged his previous understanding of
+  what was possible through technological and conscious integration.
 signal_type: entity
-source_file: raw/chapters/book_14_lessons_of_inheritance_077_introducing_the_sage.md
+source_file: raw/chapters/book_12_forged_identity_069_divergent_paths.md
 status: captured
 supersedes: null

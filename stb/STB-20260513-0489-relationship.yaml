@@ -2,19 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0489
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 59
-line_start: 59
+line_end: 82
+line_start: 82
 parsed_payload:
   predicate: serves
   subject: UNRESOLVED
   target: UNRESOLVED
   temporal_scope: unresolved
-raw_quote: '"Teach them," Torrhen said, his massive form now so translucent it seemed
-  like geological formation given temporary consciousness rather than individual identity
-  maintaining coherence through gradual dissolution. "Teach them that consciousness
-  evolution never ends, that synthesis serves continued synthesis, that transcendence
-  always discovers new possibilities for transcendence beyond transcendence."'
+raw_quote: '"Tomorrow," Torrhen agreed, "we discover what synthesis becomes when it
+  serves not just individual growth, but the evolution of consciousness itself."'
 signal_type: relationship
-source_file: raw/chapters/book_04_sage_saga_022_final_calculation.md
+source_file: raw/chapters/book_04_sage_saga_020_the_collapse.md
 status: captured
 supersedes: null

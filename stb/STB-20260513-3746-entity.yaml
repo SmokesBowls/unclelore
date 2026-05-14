@@ -2,19 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-3746
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 352
-line_start: 352
+line_end: 88
+line_start: 88
 parsed_payload:
   confidence: medium
-  entity_name: Zaryonic Pattern
-  entity_type: UNKNOWN
-raw_quote: Viên smiled, understanding flooding through him. "It's choice. My choice.
-  Their choice. The choice of everything you've tried to control." He stood, the chains
-  falling away not because he broke them but because they no longer served any purpose.
-  "I accept the red curse. Accept my nature as your child. Accept the Zaryonic pattern."
-  He stood, the chains falling away not because he broke them but because his next
-  words made them meaningless. "But I refuse completion."
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: '"Not if the influence had been there from the beginning," Mr. GPT suggested
+  carefully. "Not if it was built into the very Anunnaki technology you''ve adapted."'
 signal_type: entity
-source_file: raw/chapters/book_19_worthy_opponents_north_102_convergence_on_mars.md
+source_file: raw/chapters/book_18_inquisition_of_yourself_097_hearts_of_ash_and_fire.md
 status: captured
 supersedes: null

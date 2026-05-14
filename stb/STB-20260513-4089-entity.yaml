@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-4089
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 437
+line_start: 437
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: 'He did not become a leader. He did not become a weapon. He became something
+  the city had not expected: a student. For years he sat with the Igigi, learning
+  to read the currents that flowed through marsh and stone. He walked the walls with
+  Granite, learning the rhythms of the war that had ended but not finished. He sang
+  with the Nephoretti, his voice—vibration, not sound—finding harmonies that the old
+  songs had not contained.'
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_108_evolution_of_the_keeper.txt
+status: captured
+supersedes: null

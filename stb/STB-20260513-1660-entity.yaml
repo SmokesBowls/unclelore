@@ -2,18 +2,26 @@ audit_only: true
 buffer_id: STB-20260513-1660
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 220
-line_start: 220
+line_end: 62
+line_start: 62
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The blinding white light seared Geralt’s vision, throbbing against Node
-  Gamma’s corrupted heart. Acidic sap hissed where it struck vines, vaporizing into
-  acrid clouds that stung the Legionnaires’ throats. Through the glare, Geralt glimpsed
-  the parasite’s core pulsing faster—not overwhelmed, but analyzing. Absorbing. Its
-  gold-green veins flared brighter, synchronizing with Luminara’s desperate resonance.
+  entity_type: CHR
+raw_quote: 'The stairs opened into a cavern dome—a hollowed cathedral of fused basalt.
+  Stalactites hung like shattered chandeliers, draped in crystalline filaments humming
+  with trapped resonance. Water pooled ankle-deep, hiding razor-edged mineral ridges.
+  Geralt raised a fist: halt. Sound here betrayed. Corporal Vess whispered, *"Watch
+  the—"*—her own caution echoed back seconds later, overlapping. Auditory ghosts.
+  Hallucinations hissed commands Mika never gave. Legionnaire Ren spun, shock-lance
+  aimed at empty dark. "Who’s there?" Oreck’s amber gaze scanned the vault. Translucent
+  shapes clung above—blind choral fauna, spider-limbed and paper-thin. Harmonic pulses
+  rippled across their bodies. A power-cell slipped from Bren’s belt. *Clang.* The
+  creatures *stirred*. Legs unfolding in liquid silence. They flowed down stalactites
+  toward the sound. Mika’s hand sliced air: *Absolute silence.* Survival demanded
+  it. Move slow. Step careful. Trust nothing your ears say. The fauna settled. Waiting.
+  Every scrape of boot risked awakening the choir.'
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_039_jungle_fever.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
 status: captured
 supersedes: null

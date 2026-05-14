@@ -1,0 +1,22 @@
+audit_only: true
+buffer_id: STB-20260513-6332
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 29
+line_start: 29
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: In the drainage channel, the Igigi felt the alignments as a stutter in
+  her hum. The double-tone that had split her voice into two frequencies would suddenly,
+  briefly merge—a single clean note, pure and undivided—and then split again before
+  she could register the purity. The merging and splitting occurred without her control,
+  without her understanding, without any relationship to the lightning or the patrols
+  or the handler's commands. She continued to dredge silt. She continued to hum. The
+  hum continued to stutter, and the stutter was the network's reflex, the system trying
+  to heal a wound it did not understand.
+signal_type: entity
+source_file: raw/chapters/book_27_the_seam_deadly_words_south_135_final_constraint.txt
+status: captured
+supersedes: null

@@ -2,17 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-0137
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 76
-line_start: 76
+line_end: 64
+line_start: 64
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: Within hours, the skeleton of the manufacturing complex stood. Not elegant—efficiency
-  rarely was—but functional. Massive structures of stone and processed minerals, their
-  surfaces covered in geometric patterns that focused vrill-energy and amplified Anunnaki
-  consciousness-touch.
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: The key was cooperation between different Giant types. Mountain Giants
+  provided understanding of how stone wanted to stand. Desert Giants contributed knowledge
+  of how sand could be convinced to behave like stone through specific vrill-frequencies.
+  Underground copper-grey Giants, who had emerged from the mainland's deep caverns,
+  taught techniques for stabilizing foundations through consciousness-touch that reached
+  dozens of feet below surface level.
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
 status: captured
 supersedes: null

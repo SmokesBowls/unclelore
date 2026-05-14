@@ -2,17 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-1141
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 191
-line_start: 191
+line_end: 841
+line_start: 841
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt watched—frozen not by fear but by sheer impossibility of what he
-  was witnessing—as army he'd trained ceased to be. As beings who'd claimed names
-  and voices and identities were reduced to potential that had never manifested. As
-  liberation he'd facilitated was systematically deleted from reality's memory.
+  entity_type: CHR
+raw_quote: Mika approached Geralt—weapon still held but pointed safely away, expression
+  showing pride and exhaustion in equal measure.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured
 supersedes: null

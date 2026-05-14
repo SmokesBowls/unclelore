@@ -2,18 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-1320
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 294
-line_start: 294
+line_end: 974
+line_start: 974
 parsed_payload:
   confidence: medium
-  entity_name: Nephoretti
-  entity_type: UNKNOWN
-raw_quote: It was then that the Nephoretti  materialized silently beside Mika, their
-  forms shimmering like heat haze. One pointed a translucent finger toward a narrow
-  fissure choked with debris. "The Echo breathes there," it whispered, its voice like
-  wind through dry leaves. "The Sage walks the thin places. Follow the blood that
-  remembers."
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: Systems screamed—not literally but through cascading alerts that informed
+  Anunnaki command structure that unauthorized override was occurring, that vessel's
+  control was being actively contested, that impossible breach had achieved impossible
+  penetration.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_033_the_march.md
+source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured
 supersedes: null

@@ -2,17 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-0996
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 383
-line_start: 383
+line_end: 811
+line_start: 811
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"You''re right," Geralt said to both internal companions. "We''re not
-  hiding. We''re going on the offensive. Three more enslavement camps within marching
-  distance. Three more opportunities to demonstrate that liberation isn''t isolated
-  incident—it''s pattern. Movement. Something that spreads faster than they can contain."'
+  entity_type: CHR
+raw_quote: Geralt extended his hand toward Jin—first of them, leader by unspoken consensus
+  despite lack of formal hierarchy.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured
 supersedes: null

@@ -2,17 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0977
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 257
-line_start: 257
+line_end: 695
+line_start: 695
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"Enforcer Vel''thara," the crystalline being called out, voice chiming
-  through combat chaos. "Subject Geralt demonstrates capabilities exceeding preliminary
-  assessment. Armor functionality suggests consciousness integration rather than simple
-  wearing. Recommend revised approach—"'
+  entity_type: CHR
+raw_quote: By the time they emerged into desert sunlight, coordination had improved
+  marginally. Enough that Geralt could walk without destroying his surroundings. Not
+  enough that he felt confident attempting anything more complex.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured
 supersedes: null

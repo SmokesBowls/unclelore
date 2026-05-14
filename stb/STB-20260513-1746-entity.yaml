@@ -2,17 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-1746
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 413
-line_start: 413
+line_end: 146
+line_start: 146
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt watched from his bedroll as soldiers checked weapons, tightened
-  armor straps, filled canteens from the least-contaminated water source. The corruption
-  had spread overnight—violet veins now visible in tree bark, crystalline growths
-  budding from stones, the air itself tasting metallic.
+  entity_type: CHR
+raw_quote: Geralt’s fingers tightened on Luminara.
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_039_jungle_fever.md
 status: captured
 supersedes: null

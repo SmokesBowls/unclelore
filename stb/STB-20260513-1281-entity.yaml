@@ -2,29 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-1281
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 37
-line_start: 37
+line_end: 756
+line_start: 756
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt tore his focus from Elara’s retreating form. He felt it now – the
-  chroniton weave tightening, snapping threads whipping dangerously. The vortex wasn't
-  just showing the past; it was becoming a temporal sinkhole. "How?" he gasped, the
-  effort of maintaining his ghostly presence immense. "Anchor to *me*," Kaelen instructed,
-  her galactic eyes blazing with focused intensity. "My temporal signature is stable.
-  Push your awareness *through* mine, like a lens focusing light. See the exit point
-  – the moment *before* you touched the Star Needle." Geralt visualized the canyon,
-  the cold obsidian spire, his own broken body stumbling towards it. He latched onto
-  Kaelen’s presence, a beacon in the chroniton storm. He pushed his will through hers,
-  aiming for that precise instant of arrival. The applicator shrieked incoherent warnings.
-  The dragon armor roared its approval, lending raw power. Reality lurched violently.
-  The screams of battle faded abruptly, replaced by the harsh rasp of his own breath
-  and the gritty crunch of scree beneath his boots. He stood before the Star Needle,
-  hand outstretched but not yet touching it. Kaelen stood beside him, solid and present.
-  The shimmering vortex near the wreckage pulsed once, violently, and collapsed inwards
-  with a sound like tearing silk, leaving only undisturbed canyon floor.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: Anunnaki forces deployed from the massive structure—not simple enforcement
+  teams but systematic occupation, establishing infrastructure that suggested permanent
+  presence rather than temporary reclamation. Barriers erected. Processing centers
+  assembled. Population being cataloged and sorted with efficiency that spoke to well-practiced
+  protocols.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_032_the_redo.md
+source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured
 supersedes: null

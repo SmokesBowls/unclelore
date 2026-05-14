@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-4155
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 467
+line_start: 467
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: '"The system is not a weapon," Vale said. "It is not a tool. It is a process.
+  And processes do not care about your intentions."'
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_109_the_thread_and_cage.txt
+status: captured
+supersedes: null

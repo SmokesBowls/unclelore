@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-3138
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 135
+line_start: 135
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: The final phase of the rescue operation showed young Geralt placing the
+  infant Tran with farming families on Earth, then carrying the slightly older Viên
+  to another family in another region, ensuring that they would grow up ignorant of
+  their true heritage but free to develop according to their own nature rather than
+  serving purposes they had not chosen.
+signal_type: entity
+source_file: raw/chapters/book_12_forged_identity_068_brotherhood_revealed.md
+status: captured
+supersedes: null

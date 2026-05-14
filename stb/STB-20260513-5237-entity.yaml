@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-5237
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 413
+line_start: 413
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: '"Do you?" Her voice was not unkind. "It''s not punishment, Vale. It''s
+  not rejection. It''s just... the way things are. Some things need to end. And your
+  presence makes endings hard."'
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_117_the_constant_calibration_living_as_anchor.txt
+status: captured
+supersedes: null

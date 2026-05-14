@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-6208
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 132
+line_start: 132
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The tile was still there. The rind was still there. The memory of the cloth
+  was still there, wrapped around an Igigi's hand two hundred meters away. The fragments
+  were persisting—Zeph— in the sleeping child, —yrr in the limping mason, both halves
+  held open by the stone and the warmth and the old woman's steadying presence and
+  the center that was still pressing grooves into the floor of the sealed chamber.
+signal_type: entity
+source_file: raw/chapters/book_26_the_seam_long_dark_south_133_threshold.txt
+status: captured
+supersedes: null

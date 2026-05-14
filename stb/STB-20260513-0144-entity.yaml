@@ -2,14 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0144
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 100
-line_start: 100
+line_end: 88
+line_start: 88
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: Year 0, Month 3, Day 21 - Igigi Transport Vessel, Atmospheric Entry
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: '"It''s the geometry," Elyraen explained to assembled Giants and Neferati
+  during the structure''s dedication ceremony. "The angles focus vrill-energy inward,
+  concentrate it, make it more available to anyone inside. Not creating new power—just
+  organizing what''s already present."'
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
 status: captured
 supersedes: null

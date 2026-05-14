@@ -2,15 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-0914
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 819
-line_start: 819
+line_end: 215
+line_start: 215
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt lowered his hand slowly—feeling grief for damage that couldn't be
-  undone, for trauma that would shape these five forever, for cost of his earlier
-  mistake that continued reverberating through lives he'd violated.
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: It recognizes you, the Applicator observed. Genetic signature. Neural pattern.
+  Or perhaps recognition that you've been touched by the Nehereti, marked as worthy.
 signal_type: entity
 source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured

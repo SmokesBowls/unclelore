@@ -2,20 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2661
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 181
-line_start: 181
+line_end: 291
+line_start: 291
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The ground trembled—not from seismic activity, but from the network adjusting
-  its parameters. Kulla's clay fingers worked faster, patching cracks that wept luminescent
-  spores. "Going will hurt," the golem observed without looking up. Geralt didn't
-  answer. He was already walking, each step compressing the distance between here
-  and *east-that-was-north*, his boots leaving faint afterimages in the air. Behind
-  him, Kyh's shadow stretched unnaturally long before snapping back into humanoid
-  shape with a sound like tearing parchment. Some roads refused to be walked gently.
+  entity_type: CHR
+raw_quote: Kyh lay insubstantial as smoke in Geralt’s arms, but she was breathing.
+  They were home.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
+source_file: raw/chapters/book_09_bureaucratic_debt_055_the_anchors_forge.md
 status: captured
 supersedes: null

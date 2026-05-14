@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-5138
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 557
+line_start: 557
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: Not from the giants' efforts. Not from Sera's song. It shifted before they
+  applied pressure. A tiny adjustment—a fraction of an inch, barely visible—that aligned
+  the fracture perfectly with the vrill channel beneath it.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_116_keepers_recognition.txt
+status: captured
+supersedes: null

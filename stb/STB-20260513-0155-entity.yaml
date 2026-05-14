@@ -2,18 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-0155
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 126
-line_start: 126
+line_end: 140
+line_start: 140
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: '"The mathematics suggest they lack the capability," Pazuzu responded,
-  though his heart—if Igigi could be said to have hearts—hoped otherwise. He hoped
-  someone, somewhere, had the strength to resist what his people had been too fragmented
-  to oppose. "But hope operates outside mathematical certainty. Perhaps they will
-  surprise us all."'
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: More importantly, the Nexus Points were interconnected. Vrill-energy flowing
+  through one could be sensed at others, creating a planetary-scale communication
+  network for beings sensitive enough to perceive it. Giants meditating at separate
+  Nexus Points reported awareness of each other's presence, thoughts touching across
+  distances that should have made such contact impossible.
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
 status: captured
 supersedes: null

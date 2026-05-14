@@ -2,17 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0665
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 1199
-line_start: 1199
+line_end: 411
+line_start: 411
 parsed_payload:
   confidence: medium
   entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: Freed slaves burst from concealment, weapons drawn, moving with purpose
-  that suggested weeks of planning rather than spontaneous rebellion. Groups converged
-  on key locations—the main gates, the observation platforms, the few remaining pieces
-  of Anunnaki technology that hadn't been evacuated.
+  entity_type: FAC
+raw_quote: The thought arrived fully formed, pushing up from layers of consciousness
+  that existed below language. Not knowledge, exactly. Instinct. Recognition of something
+  that had been buried long before the Anunnaki came, something that slumbered in
+  darkness waiting for... what?
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
+source_file: raw/chapters/book_05_the_nameless_one_024_the_first_spark.md
 status: captured
 supersedes: null

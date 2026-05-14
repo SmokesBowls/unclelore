@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3307
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 298
-line_start: 298
+line_end: 149
+line_start: 149
 parsed_payload:
   confidence: medium
-  entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: '"They''re impatient," Tran agreed, looking toward the footprints that
-  still led away from Sundrift. "We should go before they decide to make their impatience
-  more... evident."'
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: '"The Anunnaki Queen," Tran said, his bloodline memories providing information
+  about cosmic authority that had shaped Earth''s development across millennia. "My
+  bloodline remembers her. Remembers what she represents."'
 signal_type: entity
-source_file: raw/chapters/book_15_legends_and_gods_080_the_whispers_between_worlds.md
+source_file: raw/chapters/book_15_legends_and_gods_079_mages_awakening.md
 status: captured
 supersedes: null

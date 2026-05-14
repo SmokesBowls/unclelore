@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-6450
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 692
+line_start: 692
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: They began to flow—rising from the gash in the earth like smoke from a
+  wound, each symbol carrying the weight of a language that predated the Anunnaki
+  occupation. They didn't form words. They formed a vector. A direction.
+signal_type: entity
+source_file: raw/chapters/book_27_the_seam_deadly_words_south_139_final_calculations.txt
+status: captured
+supersedes: null

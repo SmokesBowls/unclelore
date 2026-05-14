@@ -1,0 +1,24 @@
+audit_only: true
+buffer_id: STB-20260513-5917
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 115
+line_start: 115
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: It did not collapse under siege. It yielded under weight. The Cliff Giants
+  came in fractured waves, their basalt armor scarred, their formations tight but
+  trembling. They did not strike to break. They struck to press. Palms against stone.
+  Voices grinding the old mountain tongue into the bedrock. Resonance forced, not
+  asked. First Shore answered with rotation. Brak’s successors at the perimeter. Keth’s
+  line on the high ridge. Mora’s choir cycling binding tones until their throats rawed.
+  They held the outer ring. They shifted mass. They sang the vrill channels into temporary
+  lattice. But the draw was deliberate. The pressure concentrated. And by the seventh
+  evening, the stone at the third Nexus simply stopped resisting. It tilted. The current
+  pulled north. The point was lost.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_126_i_am_island.txt
+status: captured
+supersedes: null

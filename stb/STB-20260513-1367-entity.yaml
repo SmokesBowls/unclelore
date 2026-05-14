@@ -2,26 +2,20 @@ audit_only: true
 buffer_id: STB-20260513-1367
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 74
-line_start: 74
+line_end: 43
+line_start: 43
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'The ascent was brutal. Chroniton winds screamed off the peaks, tearing
-  at them like spectral claws. Geralt anchored his signature constantly, a blazing
-  core against the storm. Kaelen moved with preternatural grace, her form flickering
-  slightly as she phased through the worst gusts. They crested a razorback ridge.
-  Below sprawled a vast, impossible basin – the Fracture Nexus. Time didn''t flow
-  here; it shattered. Jagged shards of frozen moments jutted from the basin floor:
-  a warship mid-explosion, a forest petrified by lightning, a city street frozen in
-  rain. Between them swirled chaotic chroniton streams, twisting like liquid mercury.
-  At the basin''s heart pulsed a raw, swirling vortex of fractured light – the gateway.
-  "The Nexus," Kaelen stated, her voice tight. "Navigate the shards. Anchor against
-  the streams. Reach the vortex. That is the entrance to the filing pocket." Geralt
-  stared. "How?" Kaelen met his gaze. "By becoming the anchor. Your harmony *is* the
-  path. Move."'
+  entity_type: CHR
+raw_quote: 'The applicator immediately pulsed: *Chroniton bleed detected. Temporal
+  instability threshold: 8.7%. Rising.* Simultaneously, the dragon armor vibrated
+  against Geralt''s ribs—a low, resonant hum urging action. He pushed himself up,
+  ignoring the grinding protest in his leg. Closing his eyes, he reached inward, past
+  the pain and exhaustion. He sensed the chroniton weave Kaelen described—shimmering
+  threads fraying near the collapsed vortex site, vibrating with dangerous harmonics.
+  "It''s... unraveling," he rasped. "Like a loose seam."'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_034_the_250.md
+source_file: raw/chapters/book_06_the_ragnarok_032_the_redo.md
 status: captured
 supersedes: null

@@ -2,15 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-2605
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 203
-line_start: 203
+line_end: 174
+line_start: 174
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Ahead, the lunar sanctuary glimmered—a pale, fragile beacon against the
-  black. Geralt exhaled. The obstacles were behind them. The war was not.
+  entity_type: CHR
+raw_quote: Geralt moved through the aisles, the Dragon Mail humming a low, curious
+  tone. It wasn't guiding him to a specific shelf, but resonating with the space between
+  them. He realized the organization wasn't by subject or date, but by resonant frequency.
+  Histories of great courage vibrated in one harmonic. Tragedies of betrayal thrummed
+  in a lower, dissonant key.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
+source_file: raw/chapters/book_09_bureaucratic_debt_054_tue_lunar_spire.md
 status: captured
 supersedes: null

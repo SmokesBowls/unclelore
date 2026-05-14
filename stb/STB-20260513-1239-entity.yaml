@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-1239
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 998
-line_start: 998
+line_end: 311
+line_start: 311
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '*Then we use minutes,* Geralt projected while abandoning defensive position,
-  while moving toward primary piloting interface that physical contact would strengthen
-  the Applicator''s contested control. *Get us moving. Away from compounds. Toward
-  mountains. Fast enough that they can''t reclaim control before we''re committed.*'
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: '"We become mobile. Guerrilla force. Liberation movement that spreads through
+  networks rather than facilities. We abandon compounds to those who can defend them
+  and take the war to Anunnaki rather than waiting for them to come to us."'
 signal_type: entity
 source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured

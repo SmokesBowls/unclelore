@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-4467
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 239
+line_start: 239
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: He did not hesitate. He hooked an arm under the Igigi's shoulders and began
+  to pull. The weight was awkward—the body limp, the robes waterlogged. Vale kicked
+  hard, angling toward the nearest shore. There was no current to help him now. The
+  system had withdrawn. Behind him, the shimmer flickered once, then snapped back
+  to its distant alignment. The pressure did not return. The silence became ordinary.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_112_eastern_system.txt
+status: captured
+supersedes: null

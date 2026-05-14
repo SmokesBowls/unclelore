@@ -1,0 +1,22 @@
+audit_only: true
+buffer_id: STB-20260513-4526
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 313
+line_start: 313
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: It was low—barely audible over the fire. A single note, held steady, then
+  shaped into a pattern. It was not a song, not quite. It was a tone—a vibration that
+  seemed to come from his chest, not his throat. The air around him shimmered faintly—not
+  the shimmer of the east, but something softer, something that belonged to him. Vale
+  leaned forward. The tone was familiar—not the needle's pulse, not Luminaire's warmth,
+  but something that resonated in his chest nonetheless. He had heard something like
+  it before, long ago, in the songs of the Nephoretti. But this was different. This
+  was not a song of stone or vrill. It was something older.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_112_eastern_system.txt
+status: captured
+supersedes: null

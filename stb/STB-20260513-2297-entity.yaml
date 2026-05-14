@@ -2,14 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2297
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 276
-line_start: 276
+line_end: 64
+line_start: 64
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt found his voice. "Then help us fix it."
+  entity_type: CHR
+raw_quote: He had changed. The fury was banked, buried under a layer of domestic calm.
+  But Geralt saw it in the way his eyes scanned the room in a millisecond—checking
+  exits, threats, children—before landing on him.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
+source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
 status: captured
 supersedes: null

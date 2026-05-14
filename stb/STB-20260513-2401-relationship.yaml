@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-2401
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 262
+line_start: 262
+parsed_payload:
+  predicate: serves
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: Luminaire's voice, weak but clear, spoke through Geralt. "The spire is
+  a bridge. A neutral instrument. It serves the network—"
+signal_type: relationship
+source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
+status: captured
+supersedes: null

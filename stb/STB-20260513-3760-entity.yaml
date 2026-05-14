@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-3760
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 479
-line_start: 479
+line_end: 68
+line_start: 68
 parsed_payload:
   confidence: medium
-  entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: '"About worthy opponents," Tran-Zaron corrected, their unified consciousness
-  processing the strategic implications. "We''ve graduated from being a problem to
-  being... entertainment."'
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: '"Ninety-one point six," the age-shifting Igigi—presumably Vrex—corrected.
+  "The stellar-touched one''s quantum signature skewed the calculations."'
 signal_type: entity
-source_file: raw/chapters/book_19_worthy_opponents_north_102_convergence_on_mars.md
+source_file: raw/chapters/book_19_worthy_opponents_north_098_depths_of_memory.md
 status: captured
 supersedes: null

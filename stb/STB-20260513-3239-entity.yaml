@@ -2,16 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-3239
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 535
-line_start: 535
+line_end: 51
+line_start: 51
 parsed_payload:
   confidence: medium
-  entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: '"More than enough time," Tran confirmed, understanding that their missions
-  would need to be completed quickly but recognizing that the timeframe provided adequate
-  margins for successful operations.'
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: '"The network has been waiting," Green Mika confirmed, their form now seeming
+  to extend through the stone walls themselves, connecting to pathways that led to
+  every corner of the planet. "For three thousand years, since the last bridge-builder
+  fell to Anunnaki corruption, the planet has been forced to operate without a translator.
+  It has grown lonelier, more isolated, less able to communicate its needs to the
+  surface dwellers who depend on its health."'
 signal_type: entity
-source_file: raw/chapters/book_15_legends_and_gods_079_mages_awakening.md
+source_file: raw/chapters/book_14_lessons_of_inheritance_073_stone_and_root.md
 status: captured
 supersedes: null

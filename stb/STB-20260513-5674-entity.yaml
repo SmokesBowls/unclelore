@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5674
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 271
+line_start: 271
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: Vale looked at the camp. Brak and Keth, standing watch at the courtyard's
+  edge. Enlil and Nammu, working together over a slate, translating what they had
+  felt into patterns the others could understand. Sera, her palm pressed to the stone,
+  feeling the vrill's slow, ancient pulse.
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_121_aligning_the_pattern_at_the_labyrinths_threshold.txt
+status: captured
+supersedes: null

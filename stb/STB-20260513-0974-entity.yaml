@@ -2,15 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-0974
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 235
-line_start: 235
+line_end: 675
+line_start: 675
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"AGREED," Geralt gasped, pulling himself upright and immediately throwing
-  up telekinetic shield as energy bolts converged on his position.'
+  entity_type: CHR
+raw_quote: '"This is going to be interesting," Geralt muttered.'
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured
 supersedes: null

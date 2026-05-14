@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-3571
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 203
-line_start: 203
+line_end: 291
+line_start: 291
 parsed_payload:
   confidence: medium
-  entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: The Dragon Mail shifted uneasily at these words, and Tran felt its concern.
-  What if unity didn't mean what they thought? What if the completion of the armor
-  demanded a price neither of them had anticipated?
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: '"The Void Spires form a network that transcends individual planets," he
+  explained, creating holographic models with his power. "Earth, Mars, the Moon—they''re
+  all connected through quantum entanglement principles the Anunnaki discovered but
+  never fully understood."'
 signal_type: entity
-source_file: raw/chapters/book_17_ancestral_debt_089_the_white_mirror.md
+source_file: raw/chapters/book_16_fragmented_beginning_086_sanctuary_to_storm.md
 status: captured
 supersedes: null

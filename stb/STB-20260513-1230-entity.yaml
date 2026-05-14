@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-1230
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 930
-line_start: 930
+line_end: 237
+line_start: 237
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: '*Command systems accessible,* the Applicator reported while interfacing
-  with technology that predated most current Anunnaki installations. *Override protocols
-  are... complex. Will require time to fully compromise. Recommend securing perimeter
-  while I work.*'
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: 'Not with pain—it had only just learned what pain was. But with recognition
+  that it existed. That it had been forced from comfortable void into terrible burden
+  of being something rather than nothing. That Geralt had inflicted on it the ultimate
+  violation:'
 signal_type: entity
 source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured

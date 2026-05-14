@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3652
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 66
-line_start: 66
+line_end: 95
+line_start: 95
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: '"The surface dwellers," the elderly Igigi observed, voice layered with
-  harmonic mathematics. "We calculated their arrival. Eighty-seven percent probability.
-  Though Vrex insisted it was closer to ninety-one."'
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: '"We chose unity," came a voice that wasn''t quite Tran''s, wasn''t quite
+  the armor''s, but something between. The Dragon Mail was speaking through their
+  bond, its consciousness touching his more directly than ever before.'
 signal_type: entity
-source_file: raw/chapters/book_19_worthy_opponents_north_098_depths_of_memory.md
+source_file: raw/chapters/book_17_ancestral_debt_089_the_white_mirror.md
 status: captured
 supersedes: null

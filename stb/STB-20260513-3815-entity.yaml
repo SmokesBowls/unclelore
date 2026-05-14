@@ -2,18 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-3815
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 391
-line_start: 391
+line_end: 56
+line_start: 56
 parsed_payload:
   confidence: medium
-  entity_name: Nephoretti
-  entity_type: UNKNOWN
-raw_quote: Many Nephoretti had fallen in the battle. Their bodies were laid on stones
-  shaped by the grove giants, their bioluminescence fading as the sun rose. The survivors
-  stood in silence, their work‑songs replaced by something older – a mourning chant
-  that Sera had found in the memory‑seeds, words from a language none of them had
-  spoken but all of them understood.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: Standing at the canyon's highest point, orchestrating this display of power
+  with casual confidence, was Commander Enlil. His armor was a masterwork of Anunnaki
+  engineering, covered in script that rewrote local physics to his advantage. The
+  spear he carried wasn't a weapon but a fundamental force—it existed in all dimensions
+  simultaneously, ensuring that any thrust would hit its target regardless of defensive
+  measures.
 signal_type: entity
-source_file: raw/chapters/book_20_the_discordant_pulse_south_105_garden_grove.md
+source_file: raw/chapters/book_19_worthy_opponents_north_102_convergence_on_mars.md
 status: captured
 supersedes: null

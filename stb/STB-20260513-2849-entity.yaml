@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-2849
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 299
+line_start: 299
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: '"The Magnetospheric Recoil," Zypher said, his voice clinical, drained
+  of all poetry. "The planet''s lifeblood, the energy meant to fuel solar renewal.
+  Every forty-seven minutes, her sky drinks it. The sun starves. The world cools.
+  She is not just writing a final edict, Geralt. She is turning the system that feeds
+  a star into a battery for a silent, white tomb."'
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+status: captured
+supersedes: null

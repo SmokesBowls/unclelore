@@ -2,18 +2,20 @@ audit_only: true
 buffer_id: STB-20260513-3170
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 173
-line_start: 173
+line_end: 95
+line_start: 95
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: Time flowed differently in the depths of space, where cosmic forces operated
-  on scales that made planetary rotations seem like brief moments. But as Earth turned
-  through several cycles below the Anunnaki fleet, the gradual reactivation of the
-  Void Spire network began to reveal patterns that transformed understanding of what
-  was occurring on the planet's surface.
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: Through experimentation with local network capabilities, Tran began to
+  understand the practical applications of the coordination systems for which he was
+  being prepared. "Show me," he requested during one session, and his consciousness
+  was immediately transported through the geometric water channels that connected
+  installations across vast distances, allowing him to perceive and potentially coordinate
+  activities that were occurring at locations hundreds of miles from his physical
+  position while maintaining real-time awareness of local conditions and requirements.
 signal_type: entity
-source_file: raw/chapters/book_15_legends_and_gods_078_the_queens_return.md
+source_file: raw/chapters/book_12_forged_identity_069_divergent_paths.md
 status: captured
 supersedes: null

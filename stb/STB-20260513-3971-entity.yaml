@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-3971
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 785
+line_start: 785
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: Nephoretti on the wall began to shape stone, dropping caltrops and ice-spikes
+  onto the attackers below. But the geomancy was slow. The stone didn’t fly true;
+  it dropped heavy and sluggish.
+signal_type: entity
+source_file: raw/chapters/book_20_the_discordant_pulse_south_105_garden_grove.md
+status: captured
+supersedes: null

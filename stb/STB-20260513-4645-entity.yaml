@@ -1,0 +1,15 @@
+audit_only: true
+buffer_id: STB-20260513-4645
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 582
+line_start: 582
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: He gave them something, Vale thought. And they noticed.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_112_eastern_system.txt
+status: captured
+supersedes: null

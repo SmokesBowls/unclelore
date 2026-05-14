@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-5810
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 343
+line_start: 343
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: Vale saw it from the final ridge—the terraces stepping down toward the
+  water, the new walls rising where the old ones had been, the channels gleaming with
+  vrill-light in the fading afternoon. The needle stood at the city's heart, its pulse
+  steady and warm, its light a beacon that reached farther than it had before the
+  Nexus points were built. The resonance of the labyrinth, extended through the anchors
+  they had placed, had found its way back here. Strengthening what was already strong.
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_124_the_last_threshold_release_of_the_constant.txt
+status: captured
+supersedes: null

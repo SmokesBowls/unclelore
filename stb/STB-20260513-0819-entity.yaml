@@ -2,15 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0819
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 167
-line_start: 167
+line_end: 223
+line_start: 223
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: He glanced at Geralt. "You're certain this is necessary? That claiming
-  this armor is worth the risk?"
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: For fifty years, the Anunnaki harvested. Took everything—minerals, biological
+  materials, genetic samples, cultural artifacts worth studying. Left only what served
+  their purposes.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+source_file: raw/chapters/book_05_the_nameless_one_026_dragonmail.md
 status: captured
 supersedes: null

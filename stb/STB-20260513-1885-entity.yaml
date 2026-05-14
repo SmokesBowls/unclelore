@@ -2,15 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-1885
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 297
-line_start: 297
+line_end: 795
+line_start: 795
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: The battle outside faltered as the corrupted Igigi lost their connection
-  to the broadcast. They stumbled, confused, and the Legion cut them down.
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: To connect Geralt directly to the memory of this place. To the original
+  harmony. To the song that had been buried here before the corruption, before the
+  flood, before the Annunaki’s third coming.
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_042_the_verdant_crossing.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
 status: captured
 supersedes: null

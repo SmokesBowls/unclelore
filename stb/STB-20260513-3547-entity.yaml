@@ -2,17 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3547
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 101
-line_start: 101
+line_end: 201
+line_start: 201
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: It was himself—but wrong. This version wore the Dragon Mail, but the armor
-  was different. Instead of the living, responsive metal Tran knew, this version was
-  perfect, cold, lifeless. And the face above it was his own, but emptied of everything
-  that made him human.
+  entity_type: CHR
+raw_quote: Tran nodded, feeling the weight of the fragments against his chest—pieces
+  of Zaron, the Aeon Keeper who had sacrificed everything for balance. Two fragments
+  found, three more to seek.
 signal_type: entity
-source_file: raw/chapters/book_17_ancestral_debt_089_the_white_mirror.md
+source_file: raw/chapters/book_16_fragmented_beginning_084_earth_giants_and_diverging_paths.md
 status: captured
 supersedes: null

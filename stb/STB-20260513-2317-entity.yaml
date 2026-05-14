@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2317
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 422
-line_start: 422
+line_end: 180
+line_start: 180
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"Raw Light energy will burn through my chroniton structure. I know. I''m
-  at ninety-four percent decay anyway. Weeks left, at best." He met Geralt''s eyes,
-  then Oreck''s. "But this way... this way I matter."'
+  entity_type: CHR
+raw_quote: Geralt and Oreck froze. The voice was familiar in its synthetic cadence—Federation
+  standard. But it had been eight years.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
+source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
 status: captured
 supersedes: null

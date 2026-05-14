@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-3147
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 191
+line_start: 191
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: The battle that followed transcended simple combat to encompass demonstration
+  of cosmic principles made manifest through awakened consciousness that had achieved
+  proper integration with purposes larger than individual existence. Tran fought with
+  flames that adapted to each threat—ice fire against creatures of heat, lightning
+  fire against beings of shadow, water fire against enemies of drought—his sword dancing
+  through impossible elemental combinations while teaching him new ways to merge tactical
+  thinking with cosmic responsibility.
+signal_type: entity
+source_file: raw/chapters/book_12_forged_identity_068_brotherhood_revealed.md
+status: captured
+supersedes: null

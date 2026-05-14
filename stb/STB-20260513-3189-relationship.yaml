@@ -2,21 +2,22 @@ audit_only: true
 buffer_id: STB-20260513-3189
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 81
-line_start: 81
+line_end: 124
+line_start: 124
 parsed_payload:
   predicate: member_of
   subject: UNRESOLVED
   target: UNRESOLVED
   temporal_scope: unresolved
-raw_quote: In the depths of Echo Temple, surrounded by crystalline formations that
-  pulsed with the rhythm of accumulated knowledge spanning galactic civilizations,
-  Isla felt her consciousness fundamentally transformed by contact with wisdom that
-  predated human understanding by eons. The Stellar Crossroads had opened her awareness
-  to cosmic forces that operated beyond normal perception, but now she was discovering
-  that her awakening was part of a larger pattern that encompassed awakening consciousness
-  across the planet.
+raw_quote: The sensation was unlike anything in her previous experience with her developing
+  abilities—not the gentle expansion of consciousness that characterized her spirit
+  walking episodes, nor even the controlled enhancement of physical capabilities that
+  she had learned to access during moments of particular need, but something that
+  felt like sympathetic response to genuine suffering on the part of forces and entities
+  whose nature she couldn't begin to comprehend but whose distress was communicated
+  directly to her consciousness through channels that operated beyond normal sensory
+  perception.
 signal_type: relationship
-source_file: raw/chapters/book_15_legends_and_gods_079_mages_awakening.md
+source_file: raw/chapters/book_12_forged_identity_070_spheres_truth.md
 status: captured
 supersedes: null

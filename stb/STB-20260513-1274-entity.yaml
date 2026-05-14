@@ -2,23 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-1274
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 23
-line_start: 23
+line_end: 680
+line_start: 680
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Kaelen didn't deny it. A ghost of something – regret? weariness? – touched
-  her features. "Long enough to know your resolve burns brighter than your fear. Long
-  enough to see the paradox forming around you like a storm cloud." She gestured towards
-  the shimmering vortex near the wreckage. "The falcon observes. It reports. Your
-  arrival wasn't unforeseen, Geralt. It was… inevitable. The Needle resonates with
-  the dissonance within you – the applicator's cold logic, the dragon-spirit's fierce
-  defiance, your own raw will. You are a walking anomaly." She tilted her head. "Now,
-  choose. Stand here and let the vortex collapse, trapping that echo forever. Or step
-  *into* the moment you wish to change. Face the Harbinger *within* the distortion.
-  Learn temporal mechanics by fighting your own ghost."
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: '"We don''t approach it," he interrupted. "We use it. The Anunnaki are
+  deploying ground forces to secure the compound, to process population, to establish
+  presence. That means access points are open. Security is focused on population below
+  rather than threats from ground level. Windows of opportunity exist for beings they
+  don''t expect to be capable of offensive action."'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_032_the_redo.md
+source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured
 supersedes: null

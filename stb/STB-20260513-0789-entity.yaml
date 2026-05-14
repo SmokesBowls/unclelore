@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-0789
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 51
-line_start: 51
+line_end: 1486
+line_start: 1486
 parsed_payload:
   confidence: medium
   entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: Geralt placed his hand against Oreck's forehead—scales warm beneath his
-  palm, feeling the ridge-work that marked this being as predator, as weapon, as tool
-  the Anunnaki had shaped for purposes he'd transcended through choice.
+  entity_type: FAC
+raw_quote: They'd been watching. All along. Through the rebellion, through the battle,
+  through The Reptilian 's choice and the Anunnaki's death.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
 status: captured
 supersedes: null

@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-6107
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 307
+line_start: 307
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The fragment did not complete. It would not complete for a long time. The
+  thread was too frayed. The occupation was still watching, still measuring, still
+  certain that the Igigi were broken. But the syllable had been spoken twice now,
+  in two different mouths, in two different channels, and the stone had carried it
+  both times, and the warmth had received it, and the center was holding.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_129_calibration_drift.txt
+status: captured
+supersedes: null

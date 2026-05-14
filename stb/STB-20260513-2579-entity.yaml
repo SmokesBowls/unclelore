@@ -2,20 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2579
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 91
-line_start: 91
+line_end: 327
+line_start: 327
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt exhaled through clenched teeth. Human stamina meant nothing here.
-  This was dragon-time—a battle measured in the lifetimes of quasars. He watched Kulla
-  hurl another clay-fracture into the enemy ranks, watched Kyh weave starlight into
-  tripwires for silver serpents, watched Oreck ride his emerald mount straight into
-  the heart of the Vasthril formation with claws extended. The numbness in his chest
-  didn't fade. It deepened. Because this wasn't his war. It was theirs. And dragons,
-  when properly provoked, didn't fight battles. They wrote endings.
+  entity_type: CHR
+raw_quote: Geralt touched his temple, feeling the fragile, wounded presence within.
+  It wasn’t the network. It was his. And it was terrified.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
+source_file: raw/chapters/book_09_bureaucratic_debt_053_the_twilight_city.md
 status: captured
 supersedes: null

@@ -2,19 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2606
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 205
-line_start: 205
+line_end: 182
+line_start: 182
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The lunar kingdom's wards flickered—just once—but it was enough. A tremor
-  ran through the sky's invisible latticework, the faintest slackening of cosmic tension.
-  That was all the opening the net needed. It struck Vaelthanemid-wingbeat, filament-thin
-  strands of silvered force wrapping around his crimson scales like a spider's silk
-  ensnaring a moth. Geralt barely registered the impact before he was hurled free,
-  the Dragon Mail's gyroscopes screaming as he tumbled into the void.
+  entity_type: CHR
+raw_quote: '"I need to understand the Spire," Geralt thought back, the armor amplifying
+  his mental projection. "Not just how to turn it off. I need to know what it is.
+  What the Queen is truly weaving within the Shattered Mind."'
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
+source_file: raw/chapters/book_09_bureaucratic_debt_054_tue_lunar_spire.md
 status: captured
 supersedes: null

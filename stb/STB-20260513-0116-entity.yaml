@@ -2,15 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-0116
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 180
-line_start: 180
+line_end: 72
+line_start: 72
 parsed_payload:
   confidence: medium
-  entity_name: Aeon Keepers
-  entity_type: UNKNOWN
-raw_quote: This was what the Aeon Keepers had envisioned when they sent their thought-seeds
-  falling through the Veil toward a world that needed healing.
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: Olythae had been drawing in the sand again—those spiral patterns that mimicked
+  natural vrill-flows. Now they added to the design, creating interlocking geometries
+  that caught the eye and drew consciousness toward recognition of deeper harmonies.
+  Several Giants noticed, their attention shifting from the Neferati assembly to the
+  artwork taking shape.
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+source_file: raw/chapters/book_01_book_of_genesis_004_the_convergence.md
 status: captured
 supersedes: null

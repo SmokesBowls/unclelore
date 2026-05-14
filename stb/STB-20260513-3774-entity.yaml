@@ -2,18 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3774
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 163
-line_start: 163
+line_end: 162
+line_start: 162
 parsed_payload:
   confidence: medium
-  entity_name: Nephoretti
-  entity_type: UNKNOWN
-raw_quote: Before long, nearly a hundred Nephoretti had gathered at the plaza. The
-  low wall had grown into a proper barrier. And when Sera hummed again—testing, uncertain—the
-  pulse steadied for a moment. The others noticed. Some began to hum along. The pulse
-  responded, stronger this time, and the crystal veins along the needle’s exterior
-  glowed faintly in the twilight.
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The other Igigi stared in amazement. The concept of curiosity without calculation
+  was revolutionary to beings who had spent millennia believing that everything could
+  and should be quantified.
 signal_type: entity
-source_file: raw/chapters/book_20_the_discordant_pulse_south_103_the_second_song_resonance_of_a_broken_needle.md
+source_file: raw/chapters/book_19_worthy_opponents_north_098_depths_of_memory.md
 status: captured
 supersedes: null

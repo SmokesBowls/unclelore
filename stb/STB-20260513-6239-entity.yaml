@@ -1,0 +1,22 @@
+audit_only: true
+buffer_id: STB-20260513-6239
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 447
+line_start: 447
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: The bridge had failed. The corridor had attempted mediation and proved
+  insufficient. The carriers had aligned in time and space and still could not merge.
+  The problem was no longer in the network. It was in the foundation, in the deeper
+  layer where Vale was pressing grooves into the floor of the sealed chamber, waiting
+  for the system to become something it was not yet. The phase could not be locked
+  from above. It would have to be locked from below, from the center, from the thing
+  that had been holding since before the network existed, since before the fragments
+  were separated, since before the thread was severed and the name was broken in two.
+signal_type: entity
+source_file: raw/chapters/book_26_the_seam_long_dark_south_134_phase_drift.txt
+status: captured
+supersedes: null

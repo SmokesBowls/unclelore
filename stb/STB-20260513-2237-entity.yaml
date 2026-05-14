@@ -2,14 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2237
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 377
-line_start: 377
+line_end: 117
+line_start: 117
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"And I have to touch it," Geralt said.'
+  entity_type: CHR
+raw_quote: One evening, Geralt, Mika, and Zephyr sat by the central fire. The conversation
+  drifted, as it often did with Zephyr, toward the deep past.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_047_mika.md
 status: captured
 supersedes: null

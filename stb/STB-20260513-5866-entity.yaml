@@ -1,0 +1,15 @@
+audit_only: true
+buffer_id: STB-20260513-5866
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 113
+line_start: 113
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale walked on.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_125_farwell.txt
+status: captured
+supersedes: null

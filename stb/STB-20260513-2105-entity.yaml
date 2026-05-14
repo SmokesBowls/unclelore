@@ -2,17 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-2105
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 384
-line_start: 384
+line_end: 95
+line_start: 95
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'A vision flooded Geralt’s mind, stunning in its clarity: A quiet valley.
-  Mika, whole and smiling. The Five, alive and laughing around a fire. The 250, rescued
-  and building homes. No war. No chains. Peace. His peace. All he had to do was lay
-  down his staff. Stop fighting. Accept Ašar-Ku’s order.'
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: They were met not by chaos, but by order. Reptilian guards in polished,
+  violet-tinted armor formed disciplined shield walls. Anunnaki officers directed
+  fire from elevated platforms. These were not corrupted slaves; their eyes burned
+  with fanatical conviction. They believed in the Queen’s work. They wanted to defend
+  this place.
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_046_not_like_this.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_045_the_hub_falls.md
 status: captured
 supersedes: null

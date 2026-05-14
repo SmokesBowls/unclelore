@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0412
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 166
-line_start: 166
+line_end: 80
+line_start: 80
 parsed_payload:
   confidence: medium
   entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: When the Anunnaki probe reached full intensity—reality-distortion patterns
-  that should have collapsed probability matrices into harvest-optimal configurations—they
-  were met not with resistance but with synthesis.
+  entity_type: FAC
+raw_quote: The Dregans screamed defiance even as Flame Nephilim rewrote their existence.
+  Their rage found no purchase against beings that operated on principles preceding
+  emotion. They were disassembled with the same clinical efficiency that Anunnaki
+  had created them.
 signal_type: entity
-source_file: raw/chapters/book_04_sage_saga_020_the_collapse.md
+source_file: raw/chapters/book_03_the_reckoning_014_convergence.md
 status: captured
 supersedes: null

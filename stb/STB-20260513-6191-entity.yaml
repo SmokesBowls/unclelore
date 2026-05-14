@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-6191
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 116
+line_start: 116
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: He did not understand what had happened. He did not know that the child
+  had felt the alignment come early and fail. He did not know that the two halves
+  of the name—the first syllable carried by the Igigi and the child and the old woman,
+  the second syllable misfiring in the singer and the mason and the corridor—had almost
+  met across the distance between the second house and the workshop district. Zeph—
+  in one body. —yrr in another. The same lightning strike. The same heartbeat. But
+  not the same place. Not the same mouth.
+signal_type: entity
+source_file: raw/chapters/book_26_the_seam_long_dark_south_132_white_lightning.txt
+status: captured
+supersedes: null

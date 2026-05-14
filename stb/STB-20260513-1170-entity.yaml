@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-1170
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 458
-line_start: 458
+line_end: 233
+line_start: 233
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt felt something breaking inside—not his certainty about what had
-  happened, but his ability to prove it to others, to make them understand that grief
-  was real even when universe had forgotten what was being grieved.
+  entity_type: CHR
+raw_quote: '"You speak tongues that were not yours to learn. You have made others
+  remember what freedom feels like. And worse—" the thousand eyes within the mask
+  focused entirely on Geralt, "—you have infected eternity with memory."'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
+source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
 status: captured
 supersedes: null

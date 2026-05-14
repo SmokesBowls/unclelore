@@ -2,19 +2,20 @@ audit_only: true
 buffer_id: STB-20260513-2907
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 242
-line_start: 242
+line_end: 101
+line_start: 101
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: The announcement sent ripples of shock through the gathered survivors,
-  but it was Tran whose response carried the most emotional weight. "Keen, what are
-  you doing?" he asked, his voice filled with confusion and concern for the safety
-  of someone who had become more than friend or neighbor—who had become sister in
-  the deepest sense, bonded by shared awakening and mutual recognition of destinies
-  that transcended normal human understanding.
+  entity_type: CHR
+raw_quote: 'My companions are now the data streams. The steady, mindless fusion cycles.
+  The flash every 47 pulses. The slow, gravitational dance of planets. I narrate events
+  to myself, my voice a dry rustle in the vault of my own skull. I develop a madness
+  of perspective: a genocide is a slight dimming of biological signatures; the birth
+  of a god-child is a minor energy fluctuation. I have to fight to remember that Tran’s
+  laugh, Kyh’s grief, a hero’s sacrifice, Mikas love, are the only things that ever
+  truly mattered. They are the impossible, delicate miracles. The rest is just… physics.'
 signal_type: entity
-source_file: raw/chapters/book_11_blood_and_legacy_063_the_iron_hand.md
+source_file: raw/chapters/book_10_infernal_vigil_059_eyes_of_eternity.md
 status: captured
 supersedes: null

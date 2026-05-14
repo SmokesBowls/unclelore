@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0064
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 110
-line_start: 110
+line_end: 83
+line_start: 83
 parsed_payload:
   confidence: medium
-  entity_name: Nephoretti
-  entity_type: UNKNOWN
-raw_quote: By day seven, five Giants were participating in what had become a kind
-  of wordless dialogue. They maintained distance—never approaching within twenty feet
-  of the Nephoretti—but the barrier of terror had cracked. Curiosity was winning.
+  entity_name: Aeon Keepers
+  entity_type: FAC
+raw_quote: Prime. The impression arrived like crystalline chime resonating through
+  Senareth's awareness. Not words, but meaning compressed into pure sensation. The
+  Aeon Keepers, reaching across dimensions to designate role and responsibility. You
+  are Prime. Coordinate. Understand. Bridge.
 signal_type: entity
-source_file: raw/chapters/book_01_book_of_genesis_003_first_contact.md
+source_file: raw/chapters/book_01_book_of_genesis_002_molten_descent.md
 status: captured
 supersedes: null

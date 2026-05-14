@@ -2,16 +2,20 @@ audit_only: true
 buffer_id: STB-20260513-3269
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 156
-line_start: 156
+line_end: 33
+line_start: 33
 parsed_payload:
   confidence: medium
-  entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: Caelum placed a hand on Tran's shoulder. "This decision isn't mine to make,"
-  he said quietly. "But if you choose to follow them, Onyx and I will accompany you.
-  We have our own reasons to venture beyond Ironspire's influence."
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The Igigi heritage was unmistakable—the stone-like solidity that spoke
+  of beings older than mountains, the geometric patterns that flowed across his skin
+  like living mathematics, the eyes that held depths measured not in years but in
+  cosmic epochs. Yet there was also something else, something that spoke of transformation
+  beyond his original nature. This was no ordinary Igigi, but one who had transcended
+  the limitations of his kind through will, wisdom, and the patient accumulation of
+  power that came from serving forces greater than himself.
 signal_type: entity
-source_file: raw/chapters/book_15_legends_and_gods_080_the_whispers_between_worlds.md
+source_file: raw/chapters/book_14_lessons_of_inheritance_077_introducing_the_sage.md
 status: captured
 supersedes: null

@@ -2,22 +2,33 @@ audit_only: true
 buffer_id: STB-20260513-1504
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 103
-line_start: 103
+line_end: 89
+line_start: 89
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The implications slammed into Geralt. Luminara wasn’t a destination; she
-  was the ignition key itself, cyclically sacrificing fragments of her essence across
-  the cosmos. His spire-tuned resonance hadn't just illuminated Mika’s location; it
-  had offered the Catalyst a stable fulcrum mid-leap, transforming a desperate void-crossing
-  into instantaneous integration. This node wasn't merely *activated*; it was *forged*
-  around his purpose. The risk hadn't vanished; it had merely shifted form. Stabilizing
-  the volatile Activator mid-flight had anchored Luminara *here*, within the Akashic
-  flow, tying her immense power directly to Geralt’s quest. Her presence wasn't passive
-  aid; it was a live conduit to the deepest currents of existence.
+  entity_type: CHR
+raw_quote: 'The ensuing month bled into Geralt’s bones like cold iron. Time within
+  the Nexus obeyed no earthly rhythm; days stretched into subjective years under Kaelen’s
+  relentless tutelage. His focus shifted decisively from brute-force stabilization
+  to the Star Needle spire’s true potential: temporal *placement*. Not just anchoring
+  points in chaos, but *understanding* them. Kaelen guided him through the spire’s
+  fractured chroniton code, layer by agonizing layer. "See the harmonic lattice?"
+  she’d snap as he wrestled with a shimmering strand of corrupted light projected
+  by the applicator. "This sequence dictates resonance decay. Alter *here*." Geralt
+  learned to rewrite the spire’s fundamental protocols, not just harmonize with them.
+  He learned to harness the chaotic streams not as obstacles, but as pathways—tunneling
+  through temporal inertia by aligning his tripartite signature with the Nexus’s own
+  turbulent flow. Each lesson was etched in pain and exhaustion, the fractured applicator
+  protesting every manipulation, Zaron’s spirit a banked fire lending stubborn endurance.
+  He learned to feel the subtle signatures of the Void Spires – distant, ancient structures
+  anchoring reality’s deeper layers. And he learned of their guardians: the Resonant
+  Keepers. Luminaire. The First. The missing piece. Kaelen’s galactic eyes held a
+  grim certainty when she spoke the name. "Luminaire’s resonance signature is the
+  key to navigating the deeper eddies. To finding *specific* pockets. To finding the
+  250." She paused, the Nexus swirling violently around their temporary anchor point.
+  "And Luminaire… is bound to Earth."'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
+source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
 status: captured
 supersedes: null

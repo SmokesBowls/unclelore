@@ -2,13 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-1812
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 1025
-line_start: 1025
+line_end: 99
+line_start: 99
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt couldn't beat it by fighting.
+  entity_type: CHR
+raw_quote: The pressure behind Geralt's eyes was becoming unbearable. Luminara couldn't
+  maintain this partial manifestation much longer.
 signal_type: entity
 source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
 status: captured

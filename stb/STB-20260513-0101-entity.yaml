@@ -2,18 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0101
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 114
-line_start: 114
+line_end: 120
+line_start: 120
 parsed_payload:
   confidence: medium
-  entity_name: Neferati
-  entity_type: UNKNOWN
-raw_quote: Neferati taught precision-shaping through consciousness-touch. Giants provided
-  the raw power and scale. Together, they carved spiraling chambers that descended
-  deep into the mountain's heart, their walls polished smooth as glass, their acoustic
-  properties creating spaces where even whispered harmonics resonated with cathedral
-  clarity.
+  entity_name: Aeon Keepers
+  entity_type: FAC
+raw_quote: 'Patience, came the faint impression through the Prime connection. The
+  Aeon Keepers, offering the only guidance that mattered: Patience, and persistence.
+  Rome wasn''t built in a day.'
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+source_file: raw/chapters/book_01_book_of_genesis_003_first_contact.md
 status: captured
 supersedes: null

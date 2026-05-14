@@ -2,14 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-0972
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 219
-line_start: 219
+line_end: 665
+line_start: 665
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: WHAT ARE YOU DOING? Geralt screamed mentally.
+  entity_type: CHR
+raw_quote: '"See?" Geralt said to both of them. "Common ground. You both want me alive.
+  Start from there."'
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured
 supersedes: null

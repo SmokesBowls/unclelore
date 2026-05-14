@@ -2,15 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3366
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 146
-line_start: 146
+line_end: 82
+line_start: 82
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: '"Tran," he called over his shoulder, "your blood can weaken its regeneration!
-  Target the central mass!"'
+  entity_type: CHR
+raw_quote: '"Magic abandoned is not magic forgotten," Blue Mika said, their rippling
+  form reflecting memories Tran didn''t recognize. "When others turned away from the
+  old knowledge, we preserved it."'
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
+source_file: raw/chapters/book_15_legends_and_gods_080_the_whispers_between_worlds.md
 status: captured
 supersedes: null

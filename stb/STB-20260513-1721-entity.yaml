@@ -2,16 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-1721
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 133
-line_start: 133
+line_end: 44
+line_start: 44
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Through the faint connection, Geralt felt something ripple through Luminara.
-  Not quite emotion. But perhaps the seed of it. Recognition of a concept—loneliness—that
-  functions weren't designed to comprehend.
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: 'The jungle exhaled decay-sweet breath. Halvar’s shoulders tensed beside
+  him—not at Reptilian claws scraping stone, but at the whispers threading through
+  dripping fronds. Private Ren’s blade trembled near a pulsing vine. "They’re slowing
+  down for *me*," the Legionnaire choked. The vine answered in Ren’s own voice, colder:
+  "Just like Mars." Ren’s knuckles whitened. He knew the source—the grafted vrill
+  was a parasite in the air—yet the shame felt bone-deep. *His* failing. *His* abandonment.'
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_039_jungle_fever.md
 status: captured
 supersedes: null

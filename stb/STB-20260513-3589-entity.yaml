@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-3589
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 43
-line_start: 43
+line_end: 33
+line_start: 33
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: Rongtai accepted the pouch with a nod of gratitude. "Thank you." She looked
-  around the room one more time, memorizing faces. "Tell Tran... tell him I'm going
-  to make things right. He'll understand."
+  entity_type: CHR
+raw_quote: '"Tran!" Thang moved to steady him, but froze as one of the Nefretti raised
+  what might have been a hand.'
 signal_type: entity
-source_file: raw/chapters/book_17_ancestral_debt_092_departure_and_determination.md
+source_file: raw/chapters/book_16_fragmented_beginning_087_the_breath_of_life.md
 status: captured
 supersedes: null

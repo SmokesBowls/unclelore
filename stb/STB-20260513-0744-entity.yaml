@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0744
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 294
-line_start: 294
+line_end: 1149
+line_start: 1149
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The translucent figure turned to face Geralt fully. Where the other Keepers'
-  faces were hidden in shadow, Zaron's was partially visible—gaunt, ancient, marked
-  with determination that had survived eons without dimming.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: Tomorrow would bring violence. Blood. Death. The Anunnaki overseer would
+  fight back with power that made their crude weapons seem laughable. The Federation
+  patrol might return mid-battle, might intervene, might complicate everything with
+  presence they couldn't predict.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_026_dragonmail.md
+source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
 status: captured
 supersedes: null

@@ -2,19 +2,28 @@ audit_only: true
 buffer_id: STB-20260513-1630
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 50
-line_start: 50
+line_end: 63
+line_start: 63
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'Halvar froze. His ax hovered mid-swing. Through the neural link, Geralt
-  tasted copper and salt—the sergeant’s memory-flash: Mars, sand choking his brother’s
-  lungs. The vines hissed: "Too slow. Always too slow." Halvar roared—not in battle-fury,
-  but anguish. Shadows deepened. Vril-light bent. The Garden remembered pain, and
-  now it weaponized regret. Victory required more than blades. It demanded belief
-  in unraveling minds.'
+  entity_type: CHR
+raw_quote: Sahvant recoiled slightly, intellect warring with bruised pride. Her gloved
+  hand hovered near the frayed conduit Geralt had indicated. The pulsating glow from
+  her gauntlets dimmed as she processed his words. Chroniton dissonance? Her multi-lensed
+  visor flickered as she recalibrated its sensors, focusing on the conduit Geralt
+  had singled out. A faint, unstable shimmer became visible – invisible wavelengths
+  warping the air around the wire. Her breath hitched. He was right. Her earlier readings
+  hadn’t penetrated deep enough. This wasn't salvage; it was walking a knife's edge
+  oblivion. Yet, beneath the shock, fascination burned hotter. This warlord *spoke*
+  the ship’s dying harmonics like a native tongue. His armor wasn't just power; it
+  was *understanding*. Was it the key to stabilizing the volatile tech littering Ironspire?
+  Could it help forge the technological fortress her Circle dreamed of? She met Geralt’s
+  unwavering gaze, her reckless idealism tempered, for a moment, by cold, hard reality.
+  “Your knowledge…” she ventured, voice steadier, “Is it teachable?” The question
+  hung, heavy with desperate hope. Oreck’s low growl echoed the Tower’s hum – a reminder
+  that dawn’s hunt waited for no scholar’s epiphany.
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_039_jungle_fever.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_037_the_circle_of_progress.md
 status: captured
 supersedes: null

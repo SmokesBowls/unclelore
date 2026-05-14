@@ -2,18 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-0606
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 690
-line_start: 690
+line_end: 40
+line_start: 40
 parsed_payload:
-  predicate: member_of
+  predicate: serves
   subject: UNRESOLVED
   target: UNRESOLVED
   temporal_scope: unresolved
-raw_quote: The Nameless One almost felt pity. Almost. But the memories of whips and
-  screams and casual cruelty were too fresh, too numerous, too visceral. This creature
-  had been part of their oppression, had enforced the Anunnaki's will with enthusiastic
-  brutality, had viewed their suffering as nothing more than operational necessities.
+raw_quote: The students came not singly but in waves—consciousness-forms from across
+  galactic distances sensing the availability of teaching that existed beyond individual
+  instruction, wisdom that demonstrated synthesis rather than requiring individual
+  struggle to achieve synthesis, awareness that served consciousness evolution through
+  universal availability rather than limiting itself to individual contact.
 signal_type: relationship
-source_file: raw/chapters/book_05_the_nameless_one_024_the_first_spark.md
+source_file: raw/chapters/book_04_sage_saga_023_beyond_identity.md
 status: captured
 supersedes: null

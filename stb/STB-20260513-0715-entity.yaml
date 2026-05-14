@@ -2,14 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0715
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 47
-line_start: 47
+line_end: 168
+line_start: 168
 parsed_payload:
   confidence: medium
-  entity_name: Nehereti
-  entity_type: UNKNOWN
-raw_quote: The Nameless One felt his pulse quicken. The Nehereti?
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: The compound settled into its new routine. Free slaves who didn't understand
+  they remained imprisoned. An Anunnaki watching from heights with clinical interest.
+  And one consciousness learning that freedom could be condition rather than state—granted
+  in moments, revoked when the thing behind his eye decided work needed doing.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_026_dragonmail.md
+source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
 status: captured
 supersedes: null

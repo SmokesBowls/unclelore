@@ -2,17 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-0212
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 201
-line_start: 201
+line_end: 114
+line_start: 114
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: '"Reptilian forces: two thousand, three hundred and forty-seven terminated.
-  Igigi workforce: one hundred and twelve terminated, primarily from indigenous retaliation
-  rather than direct assault. Indigenous biologicals: estimated four hundred stone-entities
-  terminated, approximately two hundred luminescent beings terminated."'
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: The pod shuddered as it struck atmosphere, heat building against its exterior
+  shielding. Through consciousness-channels that connected all Igigi, Pazuzu felt
+  the collective fear rippling through their population. They had survived the initial
+  Anunnaki conquest. They had endured years of processing, categorization, breeding
+  programs designed to maximize their utility as slave labor.
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
+source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
 status: captured
 supersedes: null

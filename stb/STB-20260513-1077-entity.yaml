@@ -2,18 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-1077
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 141
-line_start: 141
+line_end: 363
+line_start: 363
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: But they could forge armor. Crude. Heavy. Offering protection through mass
-  rather than elegant engineering. Using metals salvaged from mining operations, techniques
-  passed down through beings who'd spent decades working with materials, innovation
-  born from desperate need to protect bodies that couldn't regenerate like Anunnaki
-  flesh.
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: '"I KNOW." Geralt felt frustration bleeding into his tone—not at Oreck,
+  but at situation that offered no good options, only graduated scales of consequence.
+  "But what was I supposed to do? Hide? Let them take the armor? Surrender to processing
+  and hope they''d treat former slave with compassion?"'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured
 supersedes: null

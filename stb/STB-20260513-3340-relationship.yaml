@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-3340
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 471
+line_start: 471
+parsed_payload:
+  predicate: serves
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: But underlying the promising recruitment opportunities was a more disturbing
+  pattern. The network was also detecting hostile activities—other organizations that
+  were moving to intercept and control newly awakening consciousness for purposes
+  that served cosmic tyranny rather than human independence.
+signal_type: relationship
+source_file: raw/chapters/book_15_legends_and_gods_079_mages_awakening.md
+status: captured
+supersedes: null

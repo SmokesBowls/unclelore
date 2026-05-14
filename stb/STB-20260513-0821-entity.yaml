@@ -2,17 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0821
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 169
-line_start: 169
+line_end: 233
+line_start: 233
 parsed_payload:
   confidence: medium
   entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: '"No," Geralt admitted honestly. "I''m not certain of anything except that
-  the Anunnaki won''t stop. Won''t leave Earth voluntarily. Won''t cease their extraction
-  and enslavement unless forced to acknowledge that occupation costs more than resources
-  justify."'
+  entity_type: FAC
+raw_quote: Then another. And another. Planet after planet showing the same terrible
+  pattern—the Anunnaki arrived, harvested, departed, left nothing behind except ruins
+  and trauma and slowly dying populations that couldn't recover from what had been
+  taken.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+source_file: raw/chapters/book_05_the_nameless_one_026_dragonmail.md
 status: captured
 supersedes: null

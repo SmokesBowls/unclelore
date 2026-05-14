@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-5815
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 349
+line_start: 349
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The Igigi who had learned to listen were listening. Enlil's students—those
+  who had remained in First Shore while he walked the labyrinth—had taken his translations
+  of the division and begun to apply them. Vale saw them at the needle's base, their
+  crystalline patterns soft and open, their hands pressed to the stone. They were
+  not calculating. They were feeling. Letting the resonance speak to them in its own
+  language, and learning to translate it into forms the others could understand.
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_124_the_last_threshold_release_of_the_constant.txt
+status: captured
+supersedes: null

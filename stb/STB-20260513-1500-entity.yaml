@@ -2,27 +2,25 @@ audit_only: true
 buffer_id: STB-20260513-1500
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 95
-line_start: 95
+line_end: 81
+line_start: 81
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'The Light Aspect turned its luminous gaze upon Geralt. It wasn''t recognition;
-  it was *assessment*. Raw Akashic potential flowed around him, reacting to his tripartite
-  signature. The spire’s silent probe, tuned perfectly to Mika’s retrieval, resonated
-  unexpectedly with the Locator’s desperate need. Geralt saw it: a fleeting harmonic
-  overlap. His configured spire wasn’t just a key; it was a potential anchor point
-  *within* the chaotic jump-pathway Luminara had been forced to use. The Light Aspect
-  shifted, its navigational focus momentarily locking onto *him*. The implication
-  was staggering: His presence offered a stable resonance point amidst the chaos.
-  A lifeline. A chance for the Catalyst’s halves to synchronize *now*, bypassing the
-  perilous void-crossing. The risk was immense – stabilizing that volatile Sound Aspect
-  mid-transit could tear reality apart. But the Light Aspect, the essence of Luminara’s
-  persistent will, flowed towards Geralt, resonating with his purpose. It wasn''t
-  asking permission. It was *choosing* the anchor he represented. The air screamed
-  with impending fusion.'
+  entity_type: CHR
+raw_quote: Geralt didn't hesitate. He didn't plead or bargain. He *punched* reality.
+  Channeling every ounce of grief for Mika, rage for the Five, desperate love for
+  the 250, he fused applicator precision with Zaron’s volcanic fury. His fist slammed
+  into the scar’s edge. Not a touch—a detonation of temporal defiance. A shockwave
+  of golden light erupted from the impact point, rippling outward. The scar recoiled,
+  shrieking in silent agony. With each ripple, a silhouette didn't drift free—it was
+  *catapulted* backward through layers of compressed time. Soldiers tumbled through
+  epochs, ripped from the Harbinger's grasp like debris in a hurricane. Geralt roared,
+  pouring everything into the wave—ribs cracking, applicator fracturing under the
+  strain, Zaron’s spirit scorching his soul. The cost was instant, excruciating. Worth
+  it. The last silhouette vanished. The scar pulsed weakly, bleeding stolen time.
+  The 250 were clear.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
+source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
 status: captured
 supersedes: null

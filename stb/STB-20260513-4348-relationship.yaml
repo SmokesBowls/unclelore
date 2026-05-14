@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-4348
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 1943
+line_start: 1943
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: Granite was dead. The old giant had finally cracked, not from the cold
+  but from the weight of years. Its body had been woven into the foundation of the
+  newest shelter — a tradition that had started with the cliff giants, who believed
+  that the dead should become part of the living space.
+signal_type: relationship
+source_file: raw/chapters/book_21_needle_and_thread_south_110_the_bleeding_convergance.txt
+status: captured
+supersedes: null

@@ -2,16 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-1021
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 615
-line_start: 615
+line_end: 49
+line_start: 49
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt felt the armor settle around him with confidence that had been building
-  over weeks of practice—Zaron learning to trust his judgment, the Applicator refining
-  tactical suggestions rather than making demands, three consciousnesses functioning
-  as unified system despite constant internal debate.
+  entity_type: CHR
+raw_quote: The reptilian turned to face Geralt directly, vertical pupils showing concern
+  that transcended tactical assessment.
 signal_type: entity
 source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured

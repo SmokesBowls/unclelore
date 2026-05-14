@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-2351
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 152
-line_start: 152
+line_end: 484
+line_start: 484
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: “The planet’s thermal regulation is blocked,” Geralt said, the heat of
-  Pyroclast making the words steam in the air. “We need the Hydros Crystal to re-establish
-  the pressure gradient after we clear it.”
+  entity_type: CHR
+raw_quote: Geralt felt the final click. He did not disappear. He duplicated. He was
+  still Geralt, on his knees on the rock, bloodied and whole. And he was also the
+  Spire. He felt its dormant power, the infinite potential of the void, waiting to
+  be shaped. He was the soil and the seed, now sprouted.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_051_arrival_in_fire.md
+source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
 status: captured
 supersedes: null

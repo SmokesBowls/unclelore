@@ -2,18 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-1090
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 257
-line_start: 257
+line_end: 485
+line_start: 485
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Sath'rak's thousand eyes showed satisfaction as Geralt's body jerked—as
-  the Applicator fought desperately to maintain autonomy against assault from being
-  who understood Anunnaki technology at level that exceeded its creators, who could
-  manipulate control mechanisms that had never been designed to resist fellow divine
-  authority.
+  entity_type: CHR
+raw_quote: Geralt smiled—expression that carried confidence some might call arrogance
+  but he considered realistic assessment of capabilities armor provided.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured
 supersedes: null

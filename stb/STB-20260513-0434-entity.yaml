@@ -2,19 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0434
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 247
-line_start: 247
+line_end: 10
+line_start: 10
 parsed_payload:
   confidence: medium
   entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: The Sage stood at the threshold between dimensions, his consciousness existing
-  simultaneously across multiple probability matrices while maintaining individual
-  identity through mathematical precision that had evolved far beyond his original
-  Igigi programming. Around him, the sanctuary had become something that transcended
-  physical location entirely—existing wherever consciousness-forms gathered to explore
-  synthesis principles, manifesting whenever awareness chose transcendence over limitation.
+  entity_type: SPEC
+raw_quote: '"The orbital mechanics are conclusive," he whispered to the assembled
+  Igigi council, his voice carrying the weight of cosmic certainty. "Direct confrontation
+  with Anunnaki battle-forms results in complete annihilation across all probability
+  branches. The mathematics are... absolute."'
 signal_type: entity
-source_file: raw/chapters/book_04_sage_saga_020_the_collapse.md
+source_file: raw/chapters/book_04_sage_saga_016_the_choice_third_coming.md
 status: captured
 supersedes: null

@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-5977
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 53
+line_start: 53
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: The vrill is thin here, but not dead. The old grove roots go deep, and
+  the resonance that the Gruulith could not reach—the wild, untamed song of the marsh—still
+  hums faintly. Enough to sustain. Not enough to fight back.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_128_one_degree_above.txt
+status: captured
+supersedes: null

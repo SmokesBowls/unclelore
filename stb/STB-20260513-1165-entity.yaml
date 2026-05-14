@@ -2,16 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-1165
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 410
-line_start: 410
+line_end: 207
+line_start: 207
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt looked at her—at scarred face showing genuine concern rather than
-  recognition, at eyes searching his features for evidence of trauma or injury or
-  explanation for claims that made no sense within her frame of reference.
+  entity_type: CHR
+raw_quote: He was tall—reed-thin despite height, wearing bone-white armor that hummed
+  with psionic light that made air itself shimmer. Where Geralt's Dragon Mail suggested
+  draconic power through scales and wing-mounts, Sath'rak's armor spoke to different
+  aesthetic entirely—angelic, celestial, carrying weight of divine authority that
+  transcended simple military function.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
+source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
 status: captured
 supersedes: null

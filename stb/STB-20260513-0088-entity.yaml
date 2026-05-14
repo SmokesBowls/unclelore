@@ -2,14 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0088
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 4
-line_start: 4
+line_end: 32
+line_start: 32
 parsed_payload:
   confidence: medium
-  entity_name: Aaon Keepers
-  entity_type: UNKNOWN
-raw_quote: 'ARC: Aaon Keepers'
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: Why are they afraid of us? The question had repeated through Senareth's
+  consciousness all day, finding no answer. The Aeon Keepers hadn't sent clarification.
+  Either they didn't know, or they were waiting for the Nephoretti to discover the
+  truth themselves.
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+source_file: raw/chapters/book_01_book_of_genesis_003_first_contact.md
 status: captured
 supersedes: null

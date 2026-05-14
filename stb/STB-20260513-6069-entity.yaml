@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-6069
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 95
+line_start: 95
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The directive was implemented. The Gruulith was redeployed. It relocated
+  without resistance, its departure leaving the outer corridor colder and dimmer in
+  its wake. The dregans resumed their patrols, their screams returning to the perimeter.
+  The enslaved humans and Igigi were rotated away from the chamber's proximity. The
+  quarantine zone was marked. The occupation's posture shifted from active engagement
+  to passive observation.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_129_calibration_drift.txt
+status: captured
+supersedes: null

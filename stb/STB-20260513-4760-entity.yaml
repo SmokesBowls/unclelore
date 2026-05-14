@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-4760
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 7
+line_start: 7
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale stood on a low ridge of volcanic rock, his eyes fixed west. Behind
+  him, the eastern horizon held its secrets—no shimmer, no pressure, no presence.
+  Just water and sky and the memory of something that had watched him walk away. He
+  did not look back.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_113_the_edge_of_return.txt
+status: captured
+supersedes: null

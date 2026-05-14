@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-3520
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 112
-line_start: 112
+line_end: 107
+line_start: 107
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: The Dragon Mail pulsed once more against Tran's skin—a gesture he now recognized
-  as agreement. Whatever lay ahead in the mountains, they would face it together,
-  fragment by fragment becoming more than either had been alone.
+  entity_type: CHR
+raw_quote: The Red and Blue Fragments pulsed against Tran's chest, as if responding
+  to the mention of their true nature.
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_087_the_breath_of_life.md
+source_file: raw/chapters/book_16_fragmented_beginning_084_earth_giants_and_diverging_paths.md
 status: captured
 supersedes: null

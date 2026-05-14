@@ -2,16 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-0835
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 233
-line_start: 233
+line_end: 358
+line_start: 358
 parsed_payload:
   confidence: medium
-  entity_name: Nehereti
-  entity_type: UNKNOWN
-raw_quote: Host, the Applicator's presence consolidated with sharp attention. I'm
-  detecting energy signatures ahead. Massive concentration. Similar to what the Nehereti
-  emanated but... different. Older. Angrier.
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: Geralt felt his stomach drop. "I'd be stuck with it? Forever?"
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+source_file: raw/chapters/book_05_the_nameless_one_026_dragonmail.md
 status: captured
 supersedes: null

@@ -1,0 +1,22 @@
+audit_only: true
+buffer_id: STB-20260513-3038
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 15
+line_start: 15
+parsed_payload:
+  predicate: serves
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: Tran felt the crimson fire in his blood respond to the geometric precision
+  with increasing intensity, as if the pathways themselves were designed to resonate
+  with the specific frequencies that characterized his awakened heritage. The scythe
+  that had served him so well during the battle at Falcon Ridge seemed to grow lighter
+  with each mile they traveled, its balance becoming so perfect that it felt less
+  like a tool he carried and more like an extension of his will made manifest in steel
+  and flame.
+signal_type: relationship
+source_file: raw/chapters/book_11_blood_and_legacy_065_secrets_of_the_deep.md
+status: captured
+supersedes: null

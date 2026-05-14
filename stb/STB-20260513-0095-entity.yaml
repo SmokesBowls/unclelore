@@ -2,15 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0095
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 82
-line_start: 82
+line_end: 84
+line_start: 84
 parsed_payload:
   confidence: medium
-  entity_name: Neferati
-  entity_type: UNKNOWN
-raw_quote: And Neferati provided the mathematics—precise angles calculated to maximize
-  vrill-resonance while minimizing structural stress.
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: Kyreth swallowed—another new sensation, the physical manifestation of decision-making—and
+  slowly approached the water's edge. Not close enough to touch the Giant's hand.
+  But close enough that their vrill-manipulation might reach the same water.
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+source_file: raw/chapters/book_01_book_of_genesis_003_first_contact.md
 status: captured
 supersedes: null

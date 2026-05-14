@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0995
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 373
-line_start: 373
+line_end: 801
+line_start: 801
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt looked at the armor encasing him—at scales that gleamed in doubled
-  sunlight, at technology that represented sacrifice and choice and consciousness
-  willing to fragment itself for purposes that transcended individual existence.
+  entity_type: CHR
+raw_quote: Geralt stood—armor moving with increasing confidence as Zaron adapted—and
+  moved among them. Touching foreheads. Sharing gifts. Watching voices emerge rough
+  and unpracticed but real.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured
 supersedes: null

@@ -2,20 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-3154
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 21
-line_start: 21
+line_end: 239
+line_start: 239
 parsed_payload:
-  predicate: member_of
+  predicate: serves
   subject: UNRESOLVED
   target: UNRESOLVED
   temporal_scope: unresolved
-raw_quote: '"I can feel it calling," she said, her awareness drawn inexorably toward
-  the lunar surface hanging in space above them. Through her newly awakened senses,
-  the Moon was no longer just Earth''s satellite but a presence that pulsed with its
-  own form of consciousness—older, more ethereal, but no less real than the planetary
-  intelligence she had learned to partner with. "Like there''s something up there
-  that belongs to me."'
+raw_quote: Before the words could emerge, however, the transportation process completed
+  itself, carrying him across dimensions and distances that transcended normal understanding
+  while leaving him with only glimpses of the cosmic education that his brother would
+  undergo while he served purposes that required his presence on the world where their
+  awakening had begun.
 signal_type: relationship
-source_file: raw/chapters/book_14_lessons_of_inheritance_076_lunar_inheritance.md
+source_file: raw/chapters/book_12_forged_identity_068_brotherhood_revealed.md
 status: captured
 supersedes: null

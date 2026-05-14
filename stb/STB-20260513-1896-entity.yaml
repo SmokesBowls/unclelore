@@ -2,17 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-1896
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 21
-line_start: 21
+line_end: 899
+line_start: 899
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt looked back at the column. He saw Halvar helping a limping soldier.
-  Saw Jorik’s scouts moving with a weariness that went beyond the body. Saw Tharn,
-  the young Giant, moving with a slight, painful hitch in his step—nerve damage from
-  the Forest, Lyra said. Permanent.
+  entity_type: CHR
+raw_quote: “You chose,” Geralt said to Luminaire.
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_043_the_badlands_crucible.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
 status: captured
 supersedes: null

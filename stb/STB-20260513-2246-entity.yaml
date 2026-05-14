@@ -2,16 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-2246
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 493
-line_start: 493
+line_end: 219
+line_start: 219
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The fully manifest Luminaire did not speak through Geralt. She spoke through
-  the Spire, and her voice was the voice of the world itself—stone, wind, water, and
-  star.
+  entity_type: CHR
+raw_quote: Geralt closed his eyes. "I know."
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_047_mika.md
 status: captured
 supersedes: null

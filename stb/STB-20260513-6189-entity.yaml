@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-6189
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 45
+line_start: 45
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: The instruments were correct. The parameters were wrong. The wrongness
+  was patient, and the patience was older than the occupation, older than the Anunnaki,
+  older than the stone itself.
+signal_type: entity
+source_file: raw/chapters/book_26_the_seam_long_dark_south_132_white_lightning.txt
+status: captured
+supersedes: null

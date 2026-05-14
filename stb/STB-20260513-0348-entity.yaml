@@ -2,20 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-0348
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 172
-line_start: 172
+line_end: 233
+line_start: 233
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: '"We maintain friendship," Pazuzu replied, his consciousness-touch extending
-  toward the ancient Giant with warmth that three millennia of shared resistance had
-  forged. "You and I. Igigi and Tidecaller. We prove that cooperation can persist
-  even when everything else fractures. We document what happened here—the ritual,
-  the betrayal, the mechanisms of manipulation. We preserve that knowledge so that
-  someday, somehow, when beings with power we don''t possess attempt to heal what
-  the Sundering broke, they''ll understand what they''re fighting against."'
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: 'In the deep places beneath Ironspire, where Neferati scholars preserved
+  what the Anunnaki tried to erase, ancient records told a story most had forgotten:'
 signal_type: entity
-source_file: raw/chapters/book_03_the_reckoning_015_betrayal.md
+source_file: raw/chapters/book_03_the_reckoning_009_stalemate_departure_the_first_coming.md
 status: captured
 supersedes: null

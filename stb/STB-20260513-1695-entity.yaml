@@ -2,21 +2,26 @@ audit_only: true
 buffer_id: STB-20260513-1695
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 49
-line_start: 49
+line_end: 4
+line_start: 4
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'Corruption shrieked—a physical sound tearing at reality. Violet energy
-  lashed viciously upwards. Then—implosion. Silence absolute. The Mars Spire flared
-  blinding gold. Luminaire’s song—whole, triumphant, harmonious—exploded outward.
-  The fracture sealed. Gleaming obsidian replaced weeping wounds. Above, the cosmic
-  battle faltered as pure resonance washed over Martian dunes. Geralt’s gauntlet cooled.
-  Luminara’s voice rang crystalline: *"Anchor secured. Pathway stabilized."* Silver
-  light engulfed the Legion—not mist this time, but a promise. The Dragon Nebula shimmered—approval?—as
-  Mars dissolved. Earth awaited.'
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: 'Geralt didn’t shout. He pointed. Oreck’s arrows flew—green chroniton trails
+  cutting precise arcs. They struck three Needles simultaneously. Crystal shrieked.
+  Violet light stuttered. Halvar charged—a silent avalanche of muscle and fury. His
+  blade sliced through Reptilian spines before they turned. Shieldbearers surged forward,
+  locking overlapping barriers as Igigi scattered in confusion. Mika’s lance became
+  a conductor’s baton, directing Legionnaires to isolate each spire. Luminaire’s song
+  surged through Geralt, pure and furious. He plunged his gauntlet into the corrupted
+  Nexus pool. Cold fire raced up his arm—Anunnaki rot fighting Earth’s heartbeat.
+  Black tendrils lashed, tearing at his soul. *"Pour it back!"* Luminaire cried. Geralt
+  roared, pouring five hundred Legion souls’ harmonic will through the gauntlet. Gold
+  light erupted, incinerating the darkness. The Needles shattered like glass. For
+  a heartbeat, the Garden breathed free. Luminaire sighed: *"Anchor... held..."* But
+  reptilian horns blared in the distance. The hunt was on.'
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_040_the_dragon_wars.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_039_jungle_fever.md
 status: captured
 supersedes: null

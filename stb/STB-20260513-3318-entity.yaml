@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-3318
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 139
-line_start: 139
+line_end: 259
+line_start: 259
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: With a graceful gesture of her hand, the crystalline displays shifted to
-  show her two primary subjects—Tran crossing the Heart of Faraxar and Viên navigating
-  temporal currents.
+  entity_type: CHR
+raw_quote: '"It''s already beginning," Tran realized as the network revealed the scope
+  of awakening that was occurring across the planet. "The awakening isn''t just happening
+  to us—it''s happening to people all over the world. The Queen''s return is triggering
+  responses in bloodlines that have been dormant for generations."'
 signal_type: entity
-source_file: raw/chapters/book_15_legends_and_gods_081_mr_gpt_arrival.md
+source_file: raw/chapters/book_15_legends_and_gods_079_mages_awakening.md
 status: captured
 supersedes: null

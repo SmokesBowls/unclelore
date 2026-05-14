@@ -2,17 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-2283
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 134
-line_start: 134
+line_end: 314
+line_start: 314
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Vek’tar led, phasing through solid rock when the path narrowed, emerging
-  gasping and coughing up flecks of chroniton-blood. Oreck moved with brutal, ground-eating
-  efficiency, cleaver in hand. Geralt’s armor deployed its wings with a thunderous
-  snap; he grabbed Oreck under the arms and lifted off, skimming the canyon walls.
+  entity_type: CHR
+raw_quote: “They came,” Geralt said, placing the blueflowers.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
+source_file: raw/chapters/book_09_bureaucratic_debt_048_the_ledger_born.md
 status: captured
 supersedes: null

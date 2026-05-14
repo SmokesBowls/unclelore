@@ -2,14 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0836
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 235
-line_start: 235
+line_end: 362
+line_start: 362
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"The guardian," Geralt said. "Whatever protects the Dragon Mail."'
+  entity_type: CHR
+raw_quote: '"But you, Geralt—you need full power now. The Anunnaki won''t wait for
+  you to slowly collect fragments over years or decades. So the Nehereti gathered
+  them for you. The complete armor waits in ruins east of your compound."'
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+source_file: raw/chapters/book_05_the_nameless_one_026_dragonmail.md
 status: captured
 supersedes: null

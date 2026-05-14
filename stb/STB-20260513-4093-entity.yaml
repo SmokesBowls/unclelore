@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-4093
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 455
+line_start: 455
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: Garden Grove expanded. The fields that had been planted in the first year
+  of the returned sun now stretched to the western hills, their yields abundant. The
+  channels that Nin had mapped were dredged and widened, their waters clear. The outer
+  complex grew into a district of its own, its streets wide enough for giants, its
+  buildings shaped by generations of Nephoretti geomancy and Igigi calculation.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_108_evolution_of_the_keeper.txt
+status: captured
+supersedes: null

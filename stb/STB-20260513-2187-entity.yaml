@@ -2,15 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2187
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 29
-line_start: 29
+line_end: 241
+line_start: 241
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: “Talk is the prelude,” she said, but stepped aside. The armor on Geralt’s
-  shoulders loosened a fraction.
+  entity_type: CHR
+raw_quote: They rose from their cover and charged, not as a broken diversion, but
+  as a hammer behind Geralt’s anvil.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_046_not_like_this.md
 status: captured
 supersedes: null

@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-1348
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 391
+line_start: 391
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: Zephyr stood, turned, and faced six Anunnaki guards in full tactical gear,
+  weapons trained on him with the kind of steady aim that came from thousands of hours
+  of practice. Behind them, more figures approached—a full squad, at least.
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_031_the_crash_site.md
+status: captured
+supersedes: null

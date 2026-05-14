@@ -2,17 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2450
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 203
-line_start: 203
+line_end: 96
+line_start: 96
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: The armor’s spinal array flared. A pulse of hyper-adaptive energy, designed
-  by the Anunnaki to counter phase-shift and stealth tech, erupted. It didn’t harm
-  Kyh, but it solidified the shadows he was trying to melt into, trapping him in mid-maneuver.
-  He fell to the ground, tangled in his own suddenly corporeal darkness.
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: Geralt looked from the panicking Keeper to the weary dragon. "Can we kill
+  it?"
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_053_the_twilight_city.md
+source_file: raw/chapters/book_09_bureaucratic_debt_051_arrival_in_fire.md
 status: captured
 supersedes: null

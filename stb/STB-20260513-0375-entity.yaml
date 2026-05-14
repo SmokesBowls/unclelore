@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0375
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 86
-line_start: 86
+line_end: 11
+line_start: 11
 parsed_payload:
   confidence: medium
   entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: Across the void, the dark planet began its journey toward the small blue
-  world where scattered Igigi refugees huddled in primitive shelters, still believing
-  they had chosen freedom.
+  entity_type: SPEC
+raw_quote: And among them, Pazuzu—elder of the Igigi, having survived three and a
+  half millennia of slavery, his elongated form diminished by age but consciousness
+  sharper than ever.
 signal_type: entity
-source_file: raw/chapters/book_04_sage_saga_017_niburu_shadow.md
+source_file: raw/chapters/book_03_the_reckoning_012_nephilim_summoning.md
 status: captured
 supersedes: null

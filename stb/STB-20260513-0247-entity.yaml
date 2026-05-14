@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0247
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 71
-line_start: 71
+line_end: 25
+line_start: 25
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: 'But the lies couldn''t fully override what he was experiencing in this
-  moment: genuine collaboration. A Giant choosing to work with an Igigi not because
-  commands forced it, but because cooperation served mutual survival.'
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: Three sites clustered on the northern continent. Four spread across the
+  southern landmass. Each would require a Needle—a crystalline tower designed to channel
+  vrill-energy, create communication networks, and eventually serve purposes that
+  Marduk himself wasn't fully briefed on. His role was construction, not strategy.
 signal_type: entity
-source_file: raw/chapters/book_03_the_reckoning_009_stalemate_departure_the_first_coming.md
+source_file: raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
 status: captured
 supersedes: null

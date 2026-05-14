@@ -2,17 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-0929
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 27
-line_start: 27
+line_end: 303
+line_start: 303
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: '"Depends on who''s responding." Oreck''s claws flexed unconsciously—combat
-  reflexes activating despite conscious control. "If it''s Anunnaki military responding
-  to Overseer''s death, we''ll face standard garrison. Thirty to forty soldiers, maybe
-  two commanders, heavy weapons but conventional tactics."'
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: Her six eyes focused entirely on Geralt, ignoring Oreck as though the massive
+  reptilian was beneath notice.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured
 supersedes: null

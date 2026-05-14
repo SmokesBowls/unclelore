@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-6171
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 89
+line_start: 89
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: When she rose, she left a second thing. Not a cloth—she had no more cloth.
+  A twist of dried tuber, the pale flesh wrapped in a strip of reed-fiber, the kind
+  of cache the Igigi had been placing along the path for weeks. She had found one
+  of the caches near the eastern wall, on her second walk to the corridor. She had
+  eaten half. She left the other half on the warm stone where the cloth had been.
+signal_type: entity
+source_file: raw/chapters/book_26_the_seam_long_dark_south_131_stable_contradiction.txt
+status: captured
+supersedes: null

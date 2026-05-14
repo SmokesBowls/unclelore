@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5567
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 131
+line_start: 131
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: 'Enlil was quiet for a long moment. Then: "So when Vale speaks to the elders,
+  he is not just explaining himself. He is... adding to the story. Becoming part of
+  it."'
+signal_type: relationship
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_120_the_language_of_stone.txt
+status: captured
+supersedes: null

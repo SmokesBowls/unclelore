@@ -2,17 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0762
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 408
-line_start: 408
+line_end: 1297
+line_start: 1297
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"That''s... actually acceptable. Unexpected benefit of your presence."
-  Zaron''s attention returned to Geralt. "So. Three minds. One body. One purpose.
-  Can you handle that? Can you be yourself while hosting Aeon Keeper AND Anunnaki
-  construct?"'
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: Their power comes from connection to planetary energy grid, the Applicator
+  explained with rapid-fire precision. The Anunnaki tap into Earth's electromagnetic
+  field, use it to amplify their capabilities. But connection requires focus. Distraction
+  disrupts focus. Disrupted focus creates vulnerability.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_026_dragonmail.md
+source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
 status: captured
 supersedes: null

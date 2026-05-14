@@ -2,17 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-2045
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 538
-line_start: 538
+line_end: 29
+line_start: 29
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The survivors—138 souls, plus 71 wounded carried on litters—gathered at
-  the unstable base of the collapsed peak. Geralt, guided by the faint, algorithmic
-  ghost of Luminaire’s echo in his bond, activated the sequence. Gold light enveloped
-  them. The world dissolved into a stream of light and sound.
+  entity_type: CHR
+raw_quote: Geralt said nothing. The word fit.
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_045_the_hub_falls.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_044_the_mountains_shadow.md
 status: captured
 supersedes: null

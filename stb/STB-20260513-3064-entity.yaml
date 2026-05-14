@@ -2,21 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-3064
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 105
-line_start: 105
+line_end: 177
+line_start: 177
 parsed_payload:
   confidence: medium
-  entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: The implications of this revelation struck Tran with force that transcended
-  simple surprise or even anger at the recognition of deliberate sabotage and systematic
-  oppression. The challenges and limitations that had characterized human civilization
-  for millennia, the inability to coordinate effectively across large distances, the
-  repeated failures of defensive efforts against threats that operated on scales beyond
-  local comprehension—all of these difficulties had been artificially imposed through
-  systematic destruction of capabilities and systems that had been designed to enable
-  exactly the kind of coordination and defense that might have made resistance possible.
+  entity_name: Aeon Keepers
+  entity_type: FAC
+raw_quote: The description he provided revealed the existence of beings whose nature
+  transcended the normal boundaries between consciousness and energy, entities that
+  embodied principles and forces rather than simply wielding them as tools or weapons.
+  The Aeon Keepers represented possibilities for conscious development that went far
+  beyond anything represented in current human understanding.
 signal_type: entity
-source_file: raw/chapters/book_12_forged_identity_069_divergent_paths.md
+source_file: raw/chapters/book_11_blood_and_legacy_065_secrets_of_the_deep.md
 status: captured
 supersedes: null

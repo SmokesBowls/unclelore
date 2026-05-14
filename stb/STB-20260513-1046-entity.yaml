@@ -2,17 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-1046
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 759
-line_start: 759
+line_end: 169
+line_start: 169
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: He channeled telekinetic force—not trying to match the Overseer's technological
-  advantage but leveraging capability the Anunnaki couldn't replicate, pulling environment
-  itself into the battle. Sand rose in waves, creating barriers and projectiles. Debris
-  from shattered gate became improvised ammunition. The compound itself became weapon
-  against being who'd built it.
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: Energy weapons blazed—not crude projectiles but focused particle beams
+  that could punch through armor, disrupt shields, or simply vaporize targets depending
+  on setting selected. The crystalline being's attacks carried additional property—each
+  strike that missed Geralt impacted sand and created glass sculptures, deadly art
+  that could impale or entangle.
 signal_type: entity
 source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured

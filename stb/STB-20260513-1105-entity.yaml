@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-1105
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 338
-line_start: 338
+line_end: 615
+line_start: 615
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Telekinesis amplified by the Applicator's technical precision. Animated
-  by Zaron's understanding of fundamental forces. Directed by Geralt's human creativity
-  and tactical improvisation.
+  entity_type: CHR
+raw_quote: Geralt felt the armor settle around him with confidence that had been building
+  over weeks of practice—Zaron learning to trust his judgment, the Applicator refining
+  tactical suggestions rather than making demands, three consciousnesses functioning
+  as unified system despite constant internal debate.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured
 supersedes: null

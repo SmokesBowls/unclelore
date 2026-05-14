@@ -2,14 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-3460
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 99
-line_start: 99
+line_end: 102
+line_start: 102
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: '"And after the Anunnaki left?" Isla asked.'
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: Tran exchanged a glance with Caelum, silently seeking his opinion.
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_086_sanctuary_to_storm.md
+source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
 status: captured
 supersedes: null

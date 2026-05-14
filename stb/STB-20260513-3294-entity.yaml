@@ -2,15 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-3294
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 246
-line_start: 246
+line_end: 73
+line_start: 73
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: The familiarity with which she spoke of these matters startled Tran. "You
-  know more than you've ever said."
+  entity_type: CHR
+raw_quote: As they prepared to depart, Lyra felt the pendant pulse with recognition
+  of other awakening consciousness across continental distances. Through quantum connections
+  that operated beyond normal space-time, she could perceive Tran's growing awareness
+  of his cosmic inheritance, Isla's expanding understanding of ancient knowledge,
+  the stirring of forces that would reshape Earth's relationship with the galactic
+  community.
 signal_type: entity
-source_file: raw/chapters/book_15_legends_and_gods_080_the_whispers_between_worlds.md
+source_file: raw/chapters/book_15_legends_and_gods_079_mages_awakening.md
 status: captured
 supersedes: null

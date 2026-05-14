@@ -2,16 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-2774
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 413
-line_start: 413
+line_end: 203
+line_start: 203
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The water deepened. Geralt pocketed the shard, felt its weight settle beside
-  Mika’s blade. Not lost. Never lost. Just choosing which ghosts to carry into the
-  fire.
+  entity_type: CHR
+raw_quote: Kulla grabbed Geralt's elbow with surprising urgency. His clay fingers
+  left dents in the Dragon Mail. "Run," he growled—not in fear, but in the tone of
+  a mason warning about structural collapse. Behind them, the ground where they'd
+  stood moments earlier *unfolded*, reality itself peeling back to reveal the hungry
+  void beneath the Queen's new world order.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
 status: captured
 supersedes: null

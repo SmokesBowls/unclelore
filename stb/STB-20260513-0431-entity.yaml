@@ -2,18 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0431
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 225
-line_start: 225
+line_end: 148
+line_start: 148
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: The Anunnaki representative contributed network-linking that allowed instantaneous
-  sharing of insights across all participants. The human consciousness provided experiential
-  depth that ensured genuine integration rather than mere information transfer. The
-  Igigi entity offered mathematical frameworks that organized the complexity into
-  comprehensible patterns.
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: '- Fifth Coming (10,500 cycles total): Complete network activation. Harvest
+  fully matured bloodline assets (if Tran/Viên genetic lines develop as projected).
+  Indigenous resistance capability: minimal, due to self-imposed fragmentation sustained
+  across four occupation cycles.'
 signal_type: entity
-source_file: raw/chapters/book_04_sage_saga_020_the_collapse.md
+source_file: raw/chapters/book_03_the_reckoning_015_betrayal.md
 status: captured
 supersedes: null

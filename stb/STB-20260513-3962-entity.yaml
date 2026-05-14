@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-3962
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 561
+line_start: 561
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: The fields that had fed Garden Grove for a century began to fail. The channels
+  that had drained the marsh ran slower, the water darker, the fish fewer. The grove
+  giants who had worked the land with the Nephoretti began to speak of changes in
+  the highlands – snow that came earlier and stayed longer, game that had moved deeper
+  into the mountains, winds that carried a cold they had not felt in living memory.
+signal_type: entity
+source_file: raw/chapters/book_20_the_discordant_pulse_south_105_garden_grove.md
+status: captured
+supersedes: null

@@ -2,15 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-2384
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 61
-line_start: 61
+line_end: 114
+line_start: 114
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'Through Geralt, Luminaire pulsed a packet of data—not a statement, but
-  a reference. An ancient, deprecated Architect clause: AUTHORITY PENDING REVIEW.'
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: “The Keeper is active, but its authority has been usurped. This is not
+  Anunnaki corruption. It is older. Primordial. The Umbra Sovereign—an entity born
+  in the places before light—has claimed the node. It is weaving the spire’s power
+  into the fabric of its own shadow realm.”
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_052_entry_without_standing.md
+source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
 status: captured
 supersedes: null

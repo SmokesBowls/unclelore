@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-6052
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 442
+line_start: 442
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: The occupation's patrols still did not notice. Their instruments read cold
+  stone, dead vrill, no anomaly. The instruments were correct. The parameters were
+  wrong. The grove was no longer a refuge. It was a staging ground, and no one had
+  called it that. The warmth was no longer a sensation. It was a condition.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_128_one_degree_above.txt
+status: captured
+supersedes: null

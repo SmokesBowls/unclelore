@@ -2,17 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-1162
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 392
-line_start: 392
+line_end: 145
+line_start: 145
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"Geralt... what are you talking about? Two hundred fifty warriors? You
-  didn''t take any assault team. You said you were doing reconnaissance with the Five.
-  Solo operation to assess third compound before committing forces. You left six hours
-  ago with explicit instructions not to engage."'
+  entity_type: CHR
+raw_quote: '"It''s not pretty," she admitted to Geralt during inspection tour, gesturing
+  toward racks of armor that looked more like improvised shells than military equipment.
+  "It won''t stop energy weapons directly. Won''t deflect particle beams. Won''t make
+  us invisible or provide targeting assistance."'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
+source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
 status: captured
 supersedes: null

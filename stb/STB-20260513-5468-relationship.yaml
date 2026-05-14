@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5468
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 257
+line_start: 257
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: Vale nodded. "I wanted to be the anchor. The thing everything else oriented
+  toward. But that's not what the circle needed. It needed me to be part of it. Not
+  the center. Just... a point among points."
+signal_type: relationship
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_119_resonance_of_the_first_point.txt
+status: captured
+supersedes: null

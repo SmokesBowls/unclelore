@@ -2,17 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-1251
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 1104
-line_start: 1104
+line_end: 436
+line_start: 436
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The armor settled around him—damaged but functional, Zaron's consciousness
-  maintaining animation despite strain, the Applicator managing biological systems
-  that verged on catastrophic failure, Geralt's will directing forward progress that
-  ignored pain and exhaustion and rational assessment that suggested stopping was
-  appropriate.
+  entity_type: CHR
+raw_quote: Mika looked at Jin—then at the other four members of constellation, at
+  beings who'd maintained protective formation throughout exchange, who were gesturing
+  confirmation of Geralt's claims despite how impossible those claims seemed.
 signal_type: entity
 source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured

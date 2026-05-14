@@ -2,31 +2,27 @@ audit_only: true
 buffer_id: STB-20260513-1546
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 67
-line_start: 67
+line_end: 21
+line_start: 21
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'Mika’s sharp eyes scanned Sahvant’s Circle, noting the precision tools,
-  the adapted Anunnaki sensors grafted onto their suits. She saw potential – scouts
-  equipped to detect temporal anomalies, engineers who might stabilize volatile tech
-  faster than her legionnaires. Her mind raced: *Useful. Untested.* She stepped forward,
-  her voice crisp and tactical, addressing Sahvant directly. “Your Circle operates
-  under Legion protection on this salvage field. Provisional status.” She gestured
-  towards the smoking wreckage. “Detailed scans of all chroniton-bleed sources. Full
-  spectral analysis delivered to me by dusk.” Her gaze hardened. “Disobey, divert
-  resources, or compromise the Legion’s position… and your technological fortress
-  becomes slag.” Beside her, Oreck shifted his massive bulk, the green arrows on his
-  greaves subtly angling towards the Circle members closest to Sahvant. His amber
-  eyes, flecked with chroniton light, fixed on the Professor. No threat was voiced.
-  None was needed. The silent guardian’s vigilance was a palpable wall. Geralt, already
-  moving northwest, felt Zaron’s spirit coil tighter within the armor, a low, psychic
-  thrum echoing his own wariness. *Ambition flickers*, the dragon-spirit seemed to
-  whisper. *Watch the spark.* The Akashic echoes whispered caution – Sahvant’s idealism
-  could forge shields or shatter them. Geralt filed the risk away, another variable
-  in the hunt for Luminaire’s fractured song. The desolate sands beckoned.'
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: 'It yielded like cold, thick oil. Mika plunged through, followed instantly
+  by Oreck, Dren, and the wiry scout, Kael. Behind them, the army watched, frozen,
+  as the mirror swallowed their commanders. The transition was instantaneous. One
+  moment, the sterile obsidian chamber; the next, the desolate courtyard under that
+  bruised, turbulent sky. The air crackled with latent energy, humming against Mika''s
+  teeth. Zypher stood before them, calm as deep water. He inclined his head slightly.
+  "Commander Mika. Oreck." His eyes lingered on Dren, a flicker of recognition – or
+  perhaps sorrow – before settling back on Mika. "You demand explanation. Suffice
+  it to say, Geralt is my friend. I commune with the Aeon Keepers through the Nephrati.
+  They foresaw Geralt''s strength. I was there when the Council gifted him the armor."
+  His voice was low, resonant, carrying effortlessly over the ambient hum. "Finding
+  his five loyal followers confirmed what I feared: Geralt wasn''t with them. He''d
+  already sacrificed himself to the temporal breach. So I saved what I could. I brought
+  them *here*."'
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_037_the_circle_of_progress.md
+source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
 status: captured
 supersedes: null

@@ -2,22 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-1390
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 31
-line_start: 31
+line_end: 48
+line_start: 48
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: He was nothing. He was the nameless one spat out by oblivion. He was Geralt,
-  forged in defiance. He was Ragnarok, shattering chains and physics alike. But defiance
-  wasn't solitary. It echoed. The 250 unmade, ripped from existence by the Harbinger’s
-  cold light. Mika, fierce and loyal, riding into that same annihilation. The Five
-  – reptilian scales gleaming under alien suns, shields locked around him until the
-  end. They’d bled for him. Vanished for him. This slog through temporal tar, this
-  brutal carving of control from chaos, wasn’t just survival. It was the only coin
-  he had to buy their way back. He owed them this anchor. This focus. This relentless
-  push *through*.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: She found her armor where she'd left it—Dragon Armor, the same type Geralt
+  wore, though hers was lighter, designed for speed rather than raw protection. The
+  scales gleamed dully in the afternoon light, each one a masterwork of Anunnaki engineering
+  that Geralt had... liberated... during one of their more legally questionable operations.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
+source_file: raw/chapters/book_06_the_ragnarok_033_the_march.md
 status: captured
 supersedes: null

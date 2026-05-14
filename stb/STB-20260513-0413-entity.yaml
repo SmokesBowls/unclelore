@@ -2,19 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0413
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 168
-line_start: 168
+line_end: 82
+line_start: 82
 parsed_payload:
   confidence: medium
   entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: The mathematical elegance was breathtaking. Anunnaki probe-techniques operated
-  through forcing consciousness into predetermined patterns, through eliminating the
-  flexibility and creativity that made awareness valuable for harvest. But consciousness
-  that had learned synthesis principles could dance with such force rather than being
-  controlled by it, could use the very energy of attempted domination as fuel for
-  unprecedented transcendence.
+  entity_type: FAC
+raw_quote: Even the neutral Brajor—who had allied with Tidecallers, who had chosen
+  cooperation—found themselves targeted. The Nephilim made no distinction between
+  willing servants and reluctant creations. All Anunnaki corruption required purification.
 signal_type: entity
-source_file: raw/chapters/book_04_sage_saga_020_the_collapse.md
+source_file: raw/chapters/book_03_the_reckoning_014_convergence.md
 status: captured
 supersedes: null

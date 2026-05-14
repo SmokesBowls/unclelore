@@ -2,18 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2595
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 165
-line_start: 165
+line_end: 59
+line_start: 59
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The voice didn't echo. It *unfolded*, each syllable revealing nested layers
-  of meaning like the peeling skins of some ancient fruit. "You wear borrowed divinity,"
-  the wall intoned, and Geralt felt his armor become suddenly heavy—not with weight,
-  but with the crushing awareness of its own blasphemy. The Dragon Mail's joints hissed,
-  venting steam from stress fractures along its enchantments.
+  entity_type: CHR
+raw_quote: Geralt and Kyh stepped forward together. As they crossed an invisible boundary,
+  the Moon vanished.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
+source_file: raw/chapters/book_09_bureaucratic_debt_054_tue_lunar_spire.md
 status: captured
 supersedes: null

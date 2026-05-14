@@ -2,17 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-2276
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 98
-line_start: 98
+line_end: 256
+line_start: 256
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt spoke again, Luminaire’s resonance giving his words a double harmonic.
-  “We are not asking you to be whole. We are asking you to be useful. One last time.
-  Five jumps. Five spires. Then you are done. We find you a Keeper who can stabilize
-  your decay. Luminaire can—”
+  entity_type: CHR
+raw_quote: Red stepped forward, her ember-eyes fixed on Geralt. “We chose it. Not
+  because we forgot our own. But because we remembered what she was. What she taught
+  by existing.” Her voice crackled, not with heat, with emotion. “She was the first
+  to see us as more than weapons. More than casualties. She was our commander. Our
+  North Star.. and we are and always be your 5 loyal followers, of course we understand
+  who she was"
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
+source_file: raw/chapters/book_09_bureaucratic_debt_048_the_ledger_born.md
 status: captured
 supersedes: null

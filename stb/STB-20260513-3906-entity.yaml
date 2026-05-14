@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-3906
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 301
+line_start: 301
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: 'By the time they reached the lowlands, their group had grown to nearly
+  a dozen. Other survivors had emerged from the cracks and craters, drawn by the same
+  instinct, following the same distant pulse. They moved together, silent and watchful,
+  learning to read the land: where the giants hunted, where the ground was stable,
+  where the vrill currents pooled in pockets of relative calm.'
+signal_type: entity
+source_file: raw/chapters/book_20_the_discordant_pulse_south_103_the_second_song_resonance_of_a_broken_needle.md
+status: captured
+supersedes: null

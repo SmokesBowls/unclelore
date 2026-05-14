@@ -2,17 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-1074
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 125
-line_start: 125
+line_end: 339
+line_start: 339
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: And through it all—Geralt moved between divisions, offering tactical advice,
-  demonstrating capabilities armor provided, serving as living proof that individual
-  capability could be developed through practice and partnership rather than simply
-  inherited through genetic advantage.
+  entity_type: CHR
+raw_quote: Geralt looked at Jin—at being who understood consequences of modification,
+  who maintained boundaries despite loyalty, who demonstrated that commitment didn't
+  require absolute trust.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured
 supersedes: null

@@ -2,14 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2901
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 150
-line_start: 150
+line_end: 491
+line_start: 491
 parsed_payload:
   confidence: medium
-  entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: '**[EXPANSION: Tran''s Scythe Response]**'
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: Geralt adjusted the sword at his hip. The blade thrummed, resonating with
+  the third ring's wreckage. Not lost. Never lost. Just choosing which ghosts to carry
+  into the fire.
 signal_type: entity
-source_file: raw/chapters/book_11_blood_and_legacy_063_the_iron_hand.md
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
 status: captured
 supersedes: null

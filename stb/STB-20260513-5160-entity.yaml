@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5160
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 683
+line_start: 683
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale was quiet for a long moment. The needle pulsed behind him. Luminaire's
+  warmth flickered—distant, searching, still pulling at threads of memory. And beneath
+  it all, the waiting silence. The attention that had no source. The world holding
+  its breath.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_116_keepers_recognition.txt
+status: captured
+supersedes: null

@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-1042
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 733
-line_start: 733
+line_end: 135
+line_start: 135
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"I am Geralt," he said with calm that came from consciousness contested
-  by two other entities, from self-awareness forged through trials that tested character
-  rather than simple strength. "I was slave in Compound 7-Alpha. Then I chose differently.
-  Stopped the whip. Killed the Overseer. Freed my people. Claimed this armor."'
+  entity_type: CHR
+raw_quote: Geralt felt the armor respond—Zaron's consciousness flooding with readiness
+  that bordered on eagerness, the Applicator's calculations shifting from probability
+  assessment to tactical analysis, his own body tensing with anticipation of violence
+  he'd hoped to avoid but accepted as inevitable.
 signal_type: entity
 source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured

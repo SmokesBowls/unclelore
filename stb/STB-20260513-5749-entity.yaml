@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5749
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 331
+line_start: 331
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale looked at the ring. The gap remained. The tear-shaped absence remained.
+  But the expectation had changed. It was no longer waiting for a single, unified
+  completion. It was waiting for convergence—the moment when all the separate threads,
+  each true to itself, would be woven into something that could hold them all.
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_123_the_conduit_geometry_of_difference.txt
+status: captured
+supersedes: null

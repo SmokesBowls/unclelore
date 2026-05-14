@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-4258
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 333
+line_start: 333
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: '"Too many to count. Too few to save." Tarn''s voice was flat. "The system
+  is not calibrating anymore. It is coupling. The graviton and the vrill are trying
+  to find a balance, and the world is the place where they are failing."'
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_110_the_bleeding_convergance.txt
+status: captured
+supersedes: null

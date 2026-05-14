@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0731
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 199
-line_start: 199
+line_end: 639
+line_start: 639
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt, one of them spoke, and The Nameless One startled at hearing a name
-  he hadn't yet claimed, a identity he'd only begun to consider. Yes. We know what
-  you will become. What you must become. What you are in process of being.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: The Nameless One thought of the scarred one. Of the freed slaves learning
+  gesture-language. Of the revolution waiting to be born. Of the Anunnaki overseer
+  watching from his platform. Of everything that still needed doing if they were to
+  achieve anything approaching true freedom.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_026_dragonmail.md
+source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
 status: captured
 supersedes: null

@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5699
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 253
+line_start: 253
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: The current did not speak. Did not guide. Did not acknowledge her presence
+  except to carry her forward. She was part of the flow—but not connected to it. The
+  labyrinth was showing her what movement felt like without relationship. Without
+  the others to orient toward. Without Vale's constant center to rest against.
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_122_unravealing.txt
+status: captured
+supersedes: null

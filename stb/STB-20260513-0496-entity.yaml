@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-0496
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 166
+line_start: 166
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: When the Anunnaki probe reached full intensity—reality-distortion patterns
+  that should have collapsed probability matrices into harvest-optimal configurations—they
+  were met not with resistance but with synthesis.
+signal_type: entity
+source_file: raw/chapters/book_04_sage_saga_020_the_collapse.md
+status: captured
+supersedes: null

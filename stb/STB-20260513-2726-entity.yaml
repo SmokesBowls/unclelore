@@ -2,16 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-2726
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 213
-line_start: 213
+line_end: 23
+line_start: 23
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Kulla's obsidian fingers cracked as he hauled himself free of the petrified
-  clay. "Bad copy," he muttered, kneading the air between Geralt and the clone like
-  testing dough. "No weight."
+  entity_type: CHR
+raw_quote: Geralt smiled. It wasn't pleasant. "Then you know this." He slammed his
+  fist into the plinth's wreckage. The third ring's fragments *sang*, their pitch
+  rising until the guild's ancient stones vibrated like struck glass. The sound wasn't
+  just noise—it was a frequency, the same harmonic that had thrummed through Vaelthane's
+  wings before the net took him.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
 status: captured
 supersedes: null

@@ -1,0 +1,23 @@
+audit_only: true
+buffer_id: STB-20260513-3190
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 148
+line_start: 148
+parsed_payload:
+  predicate: serves
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: As they approached the ruins proper, evidence of the earth's distress became
+  visible even to those without magical senses, providing confirmation of the supernatural
+  threats that Keen's abilities had been detecting and revealing the scope of whatever
+  forces were responsible for the ongoing deterioration of natural order within the
+  temple complex. Cracks had appeared in what should have been solid stone, running
+  in geometric patterns that looked almost deliberate rather than random, as if the
+  destruction was following predetermined pathways that served specific purposes rather
+  than simply representing natural decay.
+signal_type: relationship
+source_file: raw/chapters/book_12_forged_identity_070_spheres_truth.md
+status: captured
+supersedes: null

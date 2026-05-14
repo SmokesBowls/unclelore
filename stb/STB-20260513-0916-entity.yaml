@@ -2,15 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0916
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 833
-line_start: 833
+line_end: 225
+line_start: 225
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: '"The Anunnaki fled Earth but won''t stay gone. They''ll return—with reinforcements,
-  with better strategies, with determination to reclaim what they view as rightful
-  property. We have time now. Weeks, maybe months. But not forever."'
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: Not artificial lighting. Organic growths covering walls and ceiling, providing
+  illumination that suggested life had claimed these spaces long after builders departed.
+  The passage descended steeply, carved from living rock, showing tool marks that
+  predated any technology Geralt recognized.
 signal_type: entity
 source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured

@@ -2,15 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3391
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 227
-line_start: 227
+line_end: 216
+line_start: 216
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: Tran approached the pool's edge, the fragments now almost burning against
-  his skin. "What do I do?" he asked.
+  entity_type: CHR
+raw_quote: '"Ready. Waiting at the village edge." Caelum paused, studying Tran carefully.
+  "There''s something else you should know. The rumors of our activities beneath Ironspire
+  have begun to spread. Lord Stormhelm has reportedly doubled the guard at every gate."'
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
+source_file: raw/chapters/book_15_legends_and_gods_080_the_whispers_between_worlds.md
 status: captured
 supersedes: null

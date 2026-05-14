@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-3794
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 288
-line_start: 288
+line_end: 26
+line_start: 26
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: The Long Calm lasted nearly three thousand years. Generations were born,
-  lived, and died in the sun. The First Shadow became a story, then a myth, then a
-  warning that only the Igigi and the oldest giants still believed.
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: '"What about the Star Needle?" Thang suggested. "Tran''s connection to
+  it might reveal something."'
 signal_type: entity
-source_file: raw/chapters/book_20_the_discordant_pulse_south_104_the_rising_tide.md
+source_file: raw/chapters/book_19_worthy_opponents_north_101_the_hidden_resonance.md
 status: captured
 supersedes: null

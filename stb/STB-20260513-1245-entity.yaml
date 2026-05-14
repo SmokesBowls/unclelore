@@ -2,14 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-1245
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 1030
-line_start: 1030
+line_end: 388
+line_start: 388
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: And Geralt—alone now except for three consciousnesses and armor that blazed
-  with creative fire—held piloting interface and ensured trajectory remained true.
+  entity_type: CHR
+raw_quote: '"They''re gone," Geralt said carefully, studying her reaction, searching
+  for recognition of magnitude. "All of them. Two hundred forty-nine. The compound
+  was trap. There was... something. Xal''Zirith. The Harbinger. It erased them. Made
+  them stop existing. I barely survived and only because the armor protected me from
+  conceptual assault."'
 signal_type: entity
 source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured

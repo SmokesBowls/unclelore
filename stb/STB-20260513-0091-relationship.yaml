@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-0091
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 44
+line_start: 44
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: The Nephoretti began settling into the sand, arranging themselves in loose
+  clusters for warmth and security. Their bioluminescence dimmed as consciousness
+  retreated inward, though never extinguishing entirely. Some part of them remained
+  perpetually aware—a vestige of ethereal existence that physical form couldn't entirely
+  override.
+signal_type: relationship
+source_file: raw/chapters/book_01_book_of_genesis_003_first_contact.md
+status: captured
+supersedes: null

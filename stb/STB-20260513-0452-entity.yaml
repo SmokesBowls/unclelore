@@ -2,18 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-0452
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 125
-line_start: 125
+line_end: 24
+line_start: 24
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: '"Diversity enhances harmony when guided by wisdom sufficient for coordination
-  rather than competition," Synthesis observed, its Anunnaki precision analyzing outcomes
-  that demonstrated consciousness evolution principles operating across species boundaries.
-  "First Tongue provides common harmonic language that allows different approaches
-  to awareness to create music more beautiful than any single voice achieves alone."'
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The tactical display materialized in the chamber's center—a three-dimensional
+  map of local space showing the scattered Igigi refugees as tiny points of light
+  fleeing toward the galactic periphery. Each point represented not just an individual,
+  but centuries of accumulated knowledge, consciousness-crafting techniques that the
+  Anunnaki had invested millennia developing through selective breeding and genetic
+  manipulation.
 signal_type: entity
-source_file: raw/chapters/book_04_sage_saga_021_the_first_lesson.md
+source_file: raw/chapters/book_04_sage_saga_017_niburu_shadow.md
 status: captured
 supersedes: null

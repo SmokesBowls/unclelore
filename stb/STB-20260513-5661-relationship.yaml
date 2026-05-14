@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-5661
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 183
+line_start: 183
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: He stepped back. Not away—into the space between them. Not leading. Not
+  following. Part of the circle.
+signal_type: relationship
+source_file: raw/chapters/book_24_threshold_and_network_south_121_aligning_the_pattern_at_the_labyrinths_threshold.txt
+status: captured
+supersedes: null

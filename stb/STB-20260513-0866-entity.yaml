@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0866
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 517
-line_start: 517
+line_end: 25
+line_start: 25
 parsed_payload:
   confidence: medium
-  entity_name: Nehereti
-  entity_type: UNKNOWN
-raw_quote: Bioluminescence gave way to different light—crystalline growths that resonated
-  with frequencies suggesting consciousness rather than simple chemical reaction.
-  The Nehereti's work, perhaps. Or something older still. Technology that predated
-  distinction between organic and mechanical, between living and constructed.
+  entity_name: Aeon Keepers
+  entity_type: FAC
+raw_quote: '"I need your help," he said, then gestured while speaking—layering communication,
+  ensuring understanding despite language barrier. "There''s something I must claim.
+  Power the Aeon Keepers prepared. But I cannot do it alone. I need ally. Someone
+  who chose redemption. Someone who understands sacrifice."'
 signal_type: entity
 source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured

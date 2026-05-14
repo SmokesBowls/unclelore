@@ -2,15 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-2167
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 238
-line_start: 238
+line_end: 81
+line_start: 81
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt stared at them, the echoes of their voices hanging in the air. Five
-  syllables. Five declarations. One name.
+  entity_type: CHR
+raw_quote: “The team in the conduit will be trapped,” Geralt said.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_048_the_ledger_born.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_046_not_like_this.md
 status: captured
 supersedes: null

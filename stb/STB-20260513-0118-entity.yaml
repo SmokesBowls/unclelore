@@ -2,17 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-0118
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 190
-line_start: 190
+line_end: 116
+line_start: 116
 parsed_payload:
   confidence: medium
   entity_name: Aeon Keepers
-  entity_type: UNKNOWN
-raw_quote: Seraneth stood among the assembled thousands, feeling the Prime connection
-  pulse with something that might have been pride. The Aeon Keepers could see what
-  had been accomplished, could recognize that their thought-seeds had grown into something
-  worth the sacrifice of entering the Ethereal Realm.
+  entity_type: FAC
+raw_quote: 'Senareth felt the Prime connection pulse with sudden urgency. The Aeon
+  Keepers, sending clarification they had withheld until this moment of maximum need:
+  The jade-greens remember. Pelagor memory, encoded in their transformation. They
+  were chased. Harassed. Driven from land by beings that look like you. The memory
+  lives in their stone-flesh even if conscious thought has forgotten.'
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+source_file: raw/chapters/book_01_book_of_genesis_004_the_convergence.md
 status: captured
 supersedes: null

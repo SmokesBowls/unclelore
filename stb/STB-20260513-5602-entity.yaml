@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5602
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 436
+line_start: 436
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale understood. He had felt this before, in the ocean, when the current
+  had resisted his movement east. But here it was stronger. More deliberate. The labyrinth
+  was not suggesting he change direction. It was telling him. This path was not for
+  him. Not now. Not yet.
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_120_the_language_of_stone.txt
+status: captured
+supersedes: null

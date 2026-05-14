@@ -2,18 +2,20 @@ audit_only: true
 buffer_id: STB-20260513-1657
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 190
-line_start: 190
+line_end: 53
+line_start: 53
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: 'Oreck loosed his arrow. Not at the core, but into the soil where Node
-  Gamma’s roots drank deep. Chroniton energy bloomed downward—a temporal anchor dragging
-  the parasite toward its own creation moment. The monster shuddered. Emitters spat
-  static. For a heartbeat, Geralt saw it: the Anunnaki drill biting into virgin earth
-  fifteen years past. The root *remembered* being a weapon.'
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: 'Lyra stumbled, rig sputtering. "Resonance overload! Gear’s failing!" Her
+  own reflection showed her hands decayed, bones protruding—a healer’s failure made
+  flesh. The Luminaire pulsed. Not a beacon. A predator. It sensed Geralt’s proximity.
+  The lake boiled. Energy tendrils lashed, wrapping his legs. Zaron roared within
+  him, a sound swallowed by static. Mika fought beside him, shieldless, lance spearing
+  eel-things. Torren dragged Halvar from the water, both convulsing. Then came the
+  voice—not sound, but thought etching bone:'
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_039_jungle_fever.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
 status: captured
 supersedes: null

@@ -2,15 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-1335
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 12
-line_start: 12
+line_end: 1104
+line_start: 1104
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"My purpose?" Geralt pushed off the wall, exhaustion warring with frustration.
-  "To be hunted? To fix broken time?"'
+  entity_type: CHR
+raw_quote: The armor settled around him—damaged but functional, Zaron's consciousness
+  maintaining animation despite strain, the Applicator managing biological systems
+  that verged on catastrophic failure, Geralt's will directing forward progress that
+  ignored pain and exhaustion and rational assessment that suggested stopping was
+  appropriate.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_034_the_250.md
+source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured
 supersedes: null

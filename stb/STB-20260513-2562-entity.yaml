@@ -2,20 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-2562
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 23
-line_start: 23
+line_end: 235
+line_start: 235
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The Guild's entrance shimmered like a mirage—a doorway woven from layered
-  enchantments that shifted between stone, mist, and something far older. Oreck halted
-  at the threshold, his scaled nostrils flaring at the scent of ozone and burnt parchment
-  leaking through. "I'll stand watch," he growled, claws flexing. Geralt didn't argue.
-  The reptilian warrior's strength was undeniable, but the Guild's wards required
-  more than muscle—they demanded resonance with the underlying harmonics of reality
-  itself.
+  entity_type: CHR
+raw_quote: Oreck charged again, this time not at Geralt, but at the Proto-Draco nearest
+  the pool’s edge, trying to break the circle. A half-transformed creature, one arm
+  now a blade-like appendage, lashed out with speed it should not possess. Oreck blocked,
+  but the force drove him back.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
+source_file: raw/chapters/book_09_bureaucratic_debt_053_the_twilight_city.md
 status: captured
 supersedes: null

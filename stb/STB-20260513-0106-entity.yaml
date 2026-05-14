@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0106
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 158
-line_start: 158
+line_end: 28
+line_start: 28
 parsed_payload:
   confidence: medium
-  entity_name: Neferati
-  entity_type: UNKNOWN
-raw_quote: The Neferati moved between all territories, still serving as bridges, still
-  teaching refinement of consciousness-touch, still helping with construction projects
-  that required precision beyond Giant capabilities.
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: The surface Giants were retreating now, backing toward the tree line in
+  a movement that felt coordinated despite no visible communication. Torhh lingered
+  longest, caught between curiosity about the Neferati and whatever instinct was pulling
+  them toward the forest.
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+source_file: raw/chapters/book_01_book_of_genesis_004_the_convergence.md
 status: captured
 supersedes: null

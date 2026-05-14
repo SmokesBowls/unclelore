@@ -2,23 +2,27 @@ audit_only: true
 buffer_id: STB-20260513-1597
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 103
-line_start: 103
+line_end: 143
+line_start: 143
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The sky tore open. Reality rippled like heat haze over a forge. Massive
-  silhouettes glided across the Martian stars—not ships, but **living eclipses**.
-  Wings blotted out Deimos. Scales caught the light of Phobos, glittering with crimson
-  fire and nebular gold. Vaelros descended. A roar unheard in vacuum shook the regolith
-  beneath Geralt’s boots. Beside him, VALDRASIL units phased into existence. Serpentine
-  forms flickered between crystalline matter and emerald energy, executing impossible
-  turns. Their jittering movements left afterimages—ghostly shimmers clawing at the
-  mind. One VALDRASIL streaked toward a bronze dragon, scales catching a dying sun’s
-  fury. Impossible. Terrifying. Silence screamed louder than battle cries. Legionnaires
-  froze. Halvar’s grip loosened on his blade.
+  entity_type: CHR
+raw_quote: The intensity of her embrace, the desperate grip of her fingers digging
+  into the seams of his armor, momentarily shattered the dark weight crushing Geralt’s
+  chest. He felt Mika’s heartbeat hammering against his own, a frantic counterpoint
+  to the fading hum of the Star Needle applicator. But as the initial wave of euphoria
+  receded, the horror flooded back – the temporal storm tearing through his grasp,
+  the faces of his soldiers vanishing into the rip, the crushing certainty of *failure*.
+  He pulled back slightly, just enough to see Mika’s tear-streaked face gazing up
+  at him, radiant with relief. His own face twisted. "Mika... the Legion..." he choked
+  out, the words thick with anguish. "The Eddy... I had them... I *felt* them... and
+  then... gone. Torn away. I failed them. Again." He tried to pull back further, the
+  burden unbearable. Mika instantly tightened her grip, her hand flying up to cup
+  his scarred cheek. "No!" she commanded, her voice raw but fierce. "Look at me! Don't!
+  Don't you *dare* go back there!" Her eyes blazed, anchoring him in the present moment,
+  in the press of her body against his.
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
 status: captured
 supersedes: null

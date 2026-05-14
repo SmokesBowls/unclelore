@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-6445
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 678
+line_start: 678
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: '"No atmosphere scrubbers for that many. No food stores. No transport off
+  this ship." Vale''s voice was flat. Not cruel. Just accurate. "You''d be moving
+  them from one cage to a larger one."'
+signal_type: entity
+source_file: raw/chapters/book_27_the_seam_deadly_words_south_139_final_calculations.txt
+status: captured
+supersedes: null

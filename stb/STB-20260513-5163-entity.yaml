@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5163
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 23
+line_start: 23
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: '"I am Graviton. I am Keeper. I am..." Vale paused. The words felt too
+  large, too heavy. But they were the only words he had. "I am the anchor. The one
+  who chose to stay when everything else scattered. The one who sealed himself in
+  the stone so something would survive."'
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_117_the_constant_calibration_living_as_anchor.txt
+status: captured
+supersedes: null

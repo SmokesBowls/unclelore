@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-3140
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 149
+line_start: 149
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: As she spoke, both young men began to feel changes occurring within themselves
+  that went far beyond simple awakening of unusual abilities. The Crimson Blood that
+  flowed through Tran's consciousness began to integrate with cosmic forces that connected
+  him to principles of enhancement and empowerment that operated on stellar scales.
+  The Draco essence that defined Viên's nature began to achieve proper integration
+  with temporal mechanics that would allow him to exist between moments and step sideways
+  through cause and effect.
+signal_type: entity
+source_file: raw/chapters/book_12_forged_identity_068_brotherhood_revealed.md
+status: captured
+supersedes: null

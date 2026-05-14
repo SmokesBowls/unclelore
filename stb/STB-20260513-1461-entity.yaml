@@ -2,27 +2,23 @@ audit_only: true
 buffer_id: STB-20260513-1461
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 21
-line_start: 21
+line_end: 5
+line_start: 5
 parsed_payload:
   confidence: medium
-  entity_name: Nephrati
-  entity_type: UNKNOWN
-raw_quote: 'It yielded like cold, thick oil. Mika plunged through, followed instantly
-  by Oreck, Dren, and the wiry scout, Kael. Behind them, the army watched, frozen,
-  as the mirror swallowed their commanders. The transition was instantaneous. One
-  moment, the sterile obsidian chamber; the next, the desolate courtyard under that
-  bruised, turbulent sky. The air crackled with latent energy, humming against Mika''s
-  teeth. Zypher stood before them, calm as deep water. He inclined his head slightly.
-  "Commander Mika. Oreck." His eyes lingered on Dren, a flicker of recognition – or
-  perhaps sorrow – before settling back on Mika. "You demand explanation. Suffice
-  it to say, Geralt is my friend. I commune with the Aeon Keepers through the Nephrati.
-  They foresaw Geralt''s strength. I was there when the Council gifted him the armor."
-  His voice was low, resonant, carrying effortlessly over the ambient hum. "Finding
-  his five loyal followers confirmed what I feared: Geralt wasn''t with them. He''d
-  already sacrificed himself to the temporal breach. So I saved what I could. I brought
-  them *here*."'
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: Geralt approached the nearest node. It pulsed erratically, casting jagged
+  shadows. He closed his eyes, reaching out with his awareness – not physically, but
+  temporally. He felt the node’s frantic vibration, a discordant screech echoing the
+  Chronohounds. He didn’t fight it. He *listened*. He let the applicator analyze its
+  chaotic pattern, the armor resonate with its raw power, and his own will sought
+  the underlying rhythm beneath the noise. Slowly, deliberately, he began to hum –
+  a low, resonant tone that vibrated in his chest. He poured his tripartite harmony
+  into the sound, weaving applicator-structure, armor-power, and architect-will into
+  a single, stabilizing frequency. The node’s erratic pulsing slowed. Its light softened
+  from jagged green to a steadier amber. One down.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
+source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
 status: captured
 supersedes: null

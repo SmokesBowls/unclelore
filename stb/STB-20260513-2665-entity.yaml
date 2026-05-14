@@ -2,17 +2,20 @@ audit_only: true
 buffer_id: STB-20260513-2665
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 189
-line_start: 189
+line_end: 7
+line_start: 7
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Time to go," Kyh whispered. The indigo flowers withered mid-air, collapsing
-  into ash before they hit the ground. Geralt stood, somewhere beyond, Zypher crouched
-  beneath Tidecaller's Mountain, stitching defiance into the world's seams with a
-  needle made of dragon teeth.
+  entity_type: CHR
+raw_quote: The first streak tore across the Pacific like a surgical incision—a jagged,
+  luminous white bolt that didn't fade so much as solidify, hardening into the atmosphere
+  like a scar refusing to close. Geralt's knuckles pressed harder against the viewing
+  pane as Earth's oceans began leaching color, their deep blues surrendering to a
+  milky, uniform pallor. The transformation wasn't violent. That was the horror. It
+  was methodical. Inevitable. The clouds dissolved into the same blank whiteness,
+  as if the entire planet were being dipped in liquid porcelain.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
+source_file: raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
 status: captured
 supersedes: null

@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3494
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 59
-line_start: 59
+line_end: 207
+line_start: 207
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: The Dragon Mail finally released its control, plates settling back into
-  their normal configuration. Tran found himself able to move freely again, though
-  the armor remained unusually warm against his skin.
+  entity_type: CHR
+raw_quote: '"Not entirely," Tran admitted honestly. "I know it''s powerful, and I
+  know the fragments are scattered. But the full truth of it... no, I don''t claim
+  to understand."'
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_087_the_breath_of_life.md
+source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
 status: captured
 supersedes: null

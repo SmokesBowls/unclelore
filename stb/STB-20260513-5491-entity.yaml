@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5491
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 377
+line_start: 377
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Zephyr's smile was sad, ancient. "Then you carry that weight, too. The
+  weight of knowin' you tried—and it wasn't enough. That's the burden of bein' a constant,
+  Vale. Not just holdin' the space. Carryin' the weight of what can't be connected.
+  What won't be healed. What chooses to remain broken."
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_119_resonance_of_the_first_point.txt
+status: captured
+supersedes: null

@@ -2,21 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-1385
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 21
-line_start: 21
+line_end: 14
+line_start: 14
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'The tunnel twisted sharply downward, slick ice underfoot. Kaelen moved
-  ahead like a shadow, silent. Geralt’s boots skidded. The applicator mapped thermal
-  gradients: *Ambient temperature dropping rapidly. Ice structure unstable.* Ahead,
-  Kaelen stopped abruptly. The tunnel ended at a sheer drop, opening into a vast,
-  subterranean canyon. Below, bathed in an eerie bio-luminescent glow from colossal
-  fungi, sprawled the ruins of a forgotten city. Crumbling towers clawed towards the
-  cavern roof, draped in thick ice vines. The air tasted metallic, thick with millennia
-  of dust. "Where?" Geralt rasped, scanning the desolation.'
+  entity_type: CHR
+raw_quote: '"Listen up," she called, her voice cutting through the camp''s nervous
+  murmur. "I know what you''re thinking. Geralt''s gone. We''ve lost our leader. Maybe
+  it''s time to scatter, find new employment, wait for the dust to settle."'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
+source_file: raw/chapters/book_06_the_ragnarok_033_the_march.md
 status: captured
 supersedes: null

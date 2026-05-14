@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-6163
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 45
+line_start: 45
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: In the chimney house, the old Igigi woman felt the narrowing. Her palm
+  was flat against the chimney stone. Her chest was heavy. Her breath was slow. The
+  fragment was no longer a weight. It was a rhythm, and the rhythm was quickening.
+signal_type: entity
+source_file: raw/chapters/book_26_the_seam_long_dark_south_131_stable_contradiction.txt
+status: captured
+supersedes: null

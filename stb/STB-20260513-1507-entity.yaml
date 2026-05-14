@@ -2,20 +2,20 @@ audit_only: true
 buffer_id: STB-20260513-1507
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 135
-line_start: 135
+line_end: 97
+line_start: 97
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The stairs beneath them rippled. Obsidian smoothed into polished black
-  stone, veined with faint, pulsing chroniton light. An archway materialized ahead,
-  framing not starscapes, but a familiar, shadowed corridor. The air shifted – damp
-  stone, ozone, and the distant murmur of voices. Geralt knew this scent, this resonance.
-  The Echo Tower. Zypher’s domain. Where Mika had marched his resurrected warriors.
-  Where Geralt had felt only phantom traces before. Now, the connection blazed like
-  a beacon. Jorik inhaled sharply beside him, gripping his bow tighter. "Sir... that’s..."
+  entity_type: CHR
+raw_quote: Geralt nodded, the dragon armor humming faintly in agreement. He placed
+  a hand on the cool, resonant surface of the Star Needle spire. Its chroniton pulse
+  synced with his own tripartite rhythm – applicator, armor, will. He felt the Nexus’s
+  chaotic energy begin to bend around him, drawn into the spire’s calibrated field.
+  He looked at Kaelen one last time. No words felt adequate. Gratitude? Warning? Acknowledgement?
+  He settled on a final nod. Her form flickered, a ghost against the storm, then solidified
+  into unwavering stillness. Her silence was the only farewell offered.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
+source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
 status: captured
 supersedes: null

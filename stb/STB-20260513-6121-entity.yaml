@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-6121
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 43
+line_start: 43
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: She did not cross the shadow. She marked it. She knelt and turned a single
+  tile—the old First Shore kind, fired with vrill-ash, its glaze still holding a faint
+  pattern of the grove's leaf-work. She turned it to its pale side and pressed her
+  palm to the stone beneath. The warmth was there. Fainter. Further from the center.
+  But there.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_130_within_tolerance.txt
+status: captured
+supersedes: null

@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-5960
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 107
+line_start: 107
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: He did not move. Movement was still a negotiation between the void and
+  the vrill, and the negotiation had become, over the centuries, a single held breath.
+  But the breath was changing. The pause was loosening.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_127_ember_stone.txt
+status: captured
+supersedes: null

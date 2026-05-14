@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3969
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 733
+line_start: 733
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: Every lamp was lit. Every Nephoretti with bioluminescent capacity was standing
+  on the walls, forming a chain of living fire along the perimeter. The grove giants
+  patrolled the ground, their glowing markings creating a moving net of light beneath
+  the wall.
+signal_type: entity
+source_file: raw/chapters/book_20_the_discordant_pulse_south_105_garden_grove.md
+status: captured
+supersedes: null

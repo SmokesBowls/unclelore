@@ -2,15 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-0911
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 801
-line_start: 801
+line_end: 209
+line_start: 209
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt stood—armor moving with increasing confidence as Zaron adapted—and
-  moved among them. Touching foreheads. Sharing gifts. Watching voices emerge rough
-  and unpracticed but real.
+  entity_type: CHR
+raw_quote: Geralt placed his palm against the stone, feeling for... something. The
+  Nehereti had said the armor waited here. Surely there was method for—
 signal_type: entity
 source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured

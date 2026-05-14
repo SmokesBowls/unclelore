@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-4151
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 347
+line_start: 347
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: The Ma'at tried to guide. The grove tried to block. The Nephoretti tried
+  to record. And the system, which had woken confused and curious, began to learn
+  something new.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_109_the_thread_and_cage.txt
+status: captured
+supersedes: null

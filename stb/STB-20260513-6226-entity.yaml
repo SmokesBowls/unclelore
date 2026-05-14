@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-6226
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 155
+line_start: 155
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The tile was still there. The rind was still there. The cloth was still
+  wrapped around the Igigi's hand in the drainage channel two hundred meters away,
+  and the hand was still warm, and the warmth was no longer a burden. The corridor
+  held the memory of the shape without straining to recreate it. The system had learned
+  something in the venting—not how to complete the name, but how to rest after reaching
+  for it. The resting was not regression. It was consolidation, and the consolidation
+  was a new kind of strength.
+signal_type: entity
+source_file: raw/chapters/book_26_the_seam_long_dark_south_134_phase_drift.txt
+status: captured
+supersedes: null

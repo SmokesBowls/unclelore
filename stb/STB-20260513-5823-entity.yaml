@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5823
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 403
+line_start: 403
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale did not ask what he was thinking. He had learned, in the months since
+  he pulled the old Igigi from the water, that Zephyr's silence was not withholding.
+  It was presence. A way of being with someone without needing to fill the space with
+  words.
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_124_the_last_threshold_release_of_the_constant.txt
+status: captured
+supersedes: null

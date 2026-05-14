@@ -2,18 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-3282
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 204
-line_start: 204
+line_end: 331
+line_start: 331
 parsed_payload:
   confidence: medium
-  entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: Dawn painted Sundrift with gentle colors as Tran stood at the edge of the
-  geometric water channels, watching the Star Needle's reflection shimmer on the surface.
-  The binding pulsed steadily in his veins, a constant reminder of responsibility.
-  Behind him, the village was beginning to stir, unaware that by nightfall, he would
-  be gone.
+  entity_name: Void Spire Network
+  entity_type: SYS
+raw_quote: As the analysis continued to reveal patterns within patterns, Enheduanna's
+  consciousness engaged with information that operated on scales beyond normal tactical
+  or strategic planning. The evidence suggested that her genetic offspring had not
+  simply awakened to their cosmic heritage—they had been actively preparing for her
+  return across multiple decades, using access to the Void Spire network to coordinate
+  resistance activities that operated on planetary scales.
 signal_type: entity
-source_file: raw/chapters/book_15_legends_and_gods_080_the_whispers_between_worlds.md
+source_file: raw/chapters/book_15_legends_and_gods_078_the_queens_return.md
 status: captured
 supersedes: null

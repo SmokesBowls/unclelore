@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-3887
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 159
+line_start: 159
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: They worked through the night. Fallen stones were dragged into rough walls,
+  stacked between the broken paving and the needle’s base. Those with stronger geomantic
+  sense learned to shape stone with their hands, pressing vrill into the cracks until
+  the blocks fused. By dawn, they had a wall. Low, barely chest-high, but enough to
+  slow an approach.
+signal_type: entity
+source_file: raw/chapters/book_20_the_discordant_pulse_south_103_the_second_song_resonance_of_a_broken_needle.md
+status: captured
+supersedes: null

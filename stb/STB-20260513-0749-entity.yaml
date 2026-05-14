@@ -2,17 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0749
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 346
-line_start: 346
+line_end: 1199
+line_start: 1199
 parsed_payload:
   confidence: medium
-  entity_name: Nehereti
-  entity_type: UNKNOWN
-raw_quote: '"But my creations—" he looked toward where the Nehereti had been, though
-  they''d faded from the Library''s Ethereal aspect, "—the Nehereti. Projections of
-  Aeon Keeper consciousness into physical realm. They remembered. They searched. And
-  over centuries, they collected."'
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: Freed slaves burst from concealment, weapons drawn, moving with purpose
+  that suggested weeks of planning rather than spontaneous rebellion. Groups converged
+  on key locations—the main gates, the observation platforms, the few remaining pieces
+  of Anunnaki technology that hadn't been evacuated.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_026_dragonmail.md
+source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
 status: captured
 supersedes: null

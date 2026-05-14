@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5424
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 39
+line_start: 39
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Enlil moved forward, his crystalline form rigid with focus. He carried
+  a small slate etched with geometric grids—the same tool Vale had seen him use at
+  the needle's base, measuring angles, charting decay. He knelt at the basin's edge,
+  his eyes scanning the stone, his mathematical mind clearly cataloging every variable.
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_119_resonance_of_the_first_point.txt
+status: captured
+supersedes: null

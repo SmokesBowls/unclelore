@@ -2,17 +2,20 @@ audit_only: true
 buffer_id: STB-20260513-3173
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 285
-line_start: 285
+line_end: 109
+line_start: 109
 parsed_payload:
   confidence: medium
-  entity_name: Void Spire Network
-  entity_type: UNKNOWN
-raw_quote: The massive crystalline interface that served as her primary control node
-  pulsed with information streams that carried data about every energy fluctuation,
-  every quantum signature, every microscopic deviation from baseline parameters that
-  had occurred within the Void Spire network across the specified timeframe.
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: Throughout this period of intensive training and development, Tran frequently
+  reached out through his bond with Viên, maintaining their connection despite the
+  physical distance and the specialized nature of the instruction each was receiving.
+  The communications that flowed between them through their shared consciousness provided
+  not only emotional support and continued bonding but also strategic coordination
+  as each brother developed capabilities that would complement the other's specialized
+  training and eventual responsibilities.
 signal_type: entity
-source_file: raw/chapters/book_15_legends_and_gods_078_the_queens_return.md
+source_file: raw/chapters/book_12_forged_identity_069_divergent_paths.md
 status: captured
 supersedes: null

@@ -2,17 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-3669
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 188
-line_start: 188
+line_end: 165
+line_start: 165
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: As they prepared to leave the Sunken Reaches, guided now by Igigi who had
-  learned to walk without calculating every step, Mr. GPT reflected on what they'd
-  accomplished. Four essences gathered, but more than that—four communities beginning
-  to heal from the Sundering's wounds.
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: The Titanborn's laugh was like an avalanche—enormous, inevitable, and strangely
+  warm. "Wisdom from the young. How refreshing." His gaze fixed on Tran again. "You
+  have claimed the White Fragment through understanding rather than force. This is...
+  unprecedented."
 signal_type: entity
-source_file: raw/chapters/book_19_worthy_opponents_north_098_depths_of_memory.md
+source_file: raw/chapters/book_17_ancestral_debt_089_the_white_mirror.md
 status: captured
 supersedes: null

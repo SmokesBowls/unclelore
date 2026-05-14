@@ -2,22 +2,23 @@ audit_only: true
 buffer_id: STB-20260513-1683
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 19
-line_start: 19
+line_end: 103
+line_start: 103
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Landing was impact. Bone-jarring. Sand replaced by rusted regolith. The
-  Mars spire stabbed the horizon—cracked, weeping violet corruption. Geralt rose.
-  Five hundred stood. Behind them, the silver gateway collapsed. Ahead, shambling
-  forms emerged from dust-devils. Not soldiers. Twisted spire-constructs. Half-metal,
-  half-flesh. Luminara’s light pulsed in Geralt’s palm. Warmth against Martian cold.
-  "She’s weak here," Lyra warned, scanner glitching. "Corruption resonance overwhelming."
-  Oreck nocked an arrow. "Then we purify." Geralt drew his sword. Dragonfire ignited
-  the blade. "For Earth. For anchors." The constructs charged. Silence fell. Only
-  the spire’s broken heartbeat throbbed. Hungry.
+  entity_type: CHR
+raw_quote: The sky tore open. Reality rippled like heat haze over a forge. Massive
+  silhouettes glided across the Martian stars—not ships, but **living eclipses**.
+  Wings blotted out Deimos. Scales caught the light of Phobos, glittering with crimson
+  fire and nebular gold. Vaelros descended. A roar unheard in vacuum shook the regolith
+  beneath Geralt’s boots. Beside him, VALDRASIL units phased into existence. Serpentine
+  forms flickered between crystalline matter and emerald energy, executing impossible
+  turns. Their jittering movements left afterimages—ghostly shimmers clawing at the
+  mind. One VALDRASIL streaked toward a bronze dragon, scales catching a dying sun’s
+  fury. Impossible. Terrifying. Silence screamed louder than battle cries. Legionnaires
+  froze. Halvar’s grip loosened on his blade.
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_040_the_dragon_wars.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
 status: captured
 supersedes: null

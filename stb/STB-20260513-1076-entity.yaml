@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-1076
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 139
-line_start: 139
+line_end: 357
+line_start: 357
 parsed_payload:
   confidence: medium
   entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: The freed slaves couldn't replicate Anunnaki technology—couldn't create
-  energy weapons or defensive fields or sophisticated combat systems that required
-  manufacturing capabilities they didn't possess.
+  entity_type: FAC
+raw_quote: '"And they''ll bring others. Bounty hunters. Anunnaki seeking revenge.
+  Anyone who sees profit or advancement in claiming Ragnarok''s head."'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured
 supersedes: null

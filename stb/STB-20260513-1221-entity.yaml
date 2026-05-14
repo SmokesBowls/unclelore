@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-1221
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 886
-line_start: 886
+line_end: 143
+line_start: 143
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt fought through—not with grace but with determination, with fire
-  that burned against systems designed to suppress resistance, with three consciousnesses
-  unified in recognition that stopping now would make everything that came before
-  meaningless.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: The name would come later, pieced together from Anunnaki records that referenced
+  it only as "the Harbinger," from Aeon Keeper texts that called it "the First Forgetting,"
+  from fragmentary accounts of civilizations that had encountered it and failed to
+  remember the experience.
 signal_type: entity
 source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured

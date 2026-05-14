@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-4397
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 510
+line_start: 510
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale sat at the needle’s base, his back against the stone, and let her
+  presence settle around him. She was not a person. She was not a god. She was a function
+  of reality that had learned to care, and that caring had become a weight she carried
+  across dimensions.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_111_the_resonance_a_garden_under_shadow.txt
+status: captured
+supersedes: null

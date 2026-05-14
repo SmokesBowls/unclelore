@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-3688
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 28
-line_start: 28
+line_end: 248
+line_start: 248
 parsed_payload:
   confidence: medium
-  entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: Tran closed his eyes, letting the dragon mail extend its awareness through
-  his blood connection to the Star Needle. The ancient monument pulsed in response,
-  its energy flowing through channels that ran deeper than mere stone.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: Yet the alternative was potentially worse. If the Anunnaki scouts captured
+  them, Earth would remain unwarned about the applicator threat. The corruption of
+  the Void Needle network would continue unchecked. Everything they had fought for
+  would be lost.
 signal_type: entity
-source_file: raw/chapters/book_19_worthy_opponents_north_101_the_hidden_resonance.md
+source_file: raw/chapters/book_17_ancestral_debt_090_echoes_of_the_culling_corrected.md
 status: captured
 supersedes: null

@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-4452
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 51
+line_start: 51
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale waded east, the smooth stone still in his hand. The needle's pulse
+  was fainter now—a thread, not a beat.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_112_eastern_system.txt
+status: captured
+supersedes: null

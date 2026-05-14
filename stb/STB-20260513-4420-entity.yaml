@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-4420
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 688
+line_start: 688
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: “And worse.” Enara’s fingers traced patterns on the table. "The Anunnaki
+  have had millennia to refine their weapons. What they send next will be designed
+  for us. For this world. For the needle.”
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_111_the_resonance_a_garden_under_shadow.txt
+status: captured
+supersedes: null

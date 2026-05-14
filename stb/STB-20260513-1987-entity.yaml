@@ -2,17 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-1987
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 292
-line_start: 292
+line_end: 297
+line_start: 297
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Then, she addressed Geralt alone, a final, private resonance threading
-  through the bond, beneath the clinical tone. “The waiting begins now. Do not watch
-  for me in the light. I am no longer there. Listen for me in the stillness. I am
-  the anchor in your deep. The vigil is shared.”
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The battle outside faltered as the corrupted Igigi lost their connection
+  to the broadcast. They stumbled, confused, and the Legion cut them down.
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_044_the_mountains_shadow.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_042_the_verdant_crossing.md
 status: captured
 supersedes: null

@@ -2,21 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-0290
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 80
-line_start: 80
+line_end: 21
+line_start: 21
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: Their forms were unmistakably of Anunnaki manufacture—the too-perfect symmetry,
-  the consciousness-signatures that hummed with artificial genesis, the purposeful,
-  un-natural grace with which they navigated the complex currents. Yet, the reports
-  from the mountain and desert fronts spoke of relentless, single-minded aggressors.
-  These creatures... drifted. They moved in small pods of five or seven, their smooth,
-  pale skin reflecting the dappled light filtering through the reef. They did not
-  assume attack formations. They did not brandish the psychic violence of the Dregans
-  or the grim inevitability of the Gruulith. They simply... observed.
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: They walked toward the Needle construction site—a crystalline tower rising
+  perhaps a hundred twenty feet from mountain bedrock, its geometric patterns incomplete,
+  its vrill-channeling systems operating at suboptimal capacity. Around the perimeter,
+  Reptilian guards maintained defensive positions. In the excavation zones, Igigi
+  workers manipulated stone through consciousness-touch that looked crude compared
+  to what Eduhauana knew these sites required.
 signal_type: entity
-source_file: raw/chapters/book_03_the_reckoning_011_escalation_and_desperation.md
+source_file: raw/chapters/book_02_age_of_servitude_008_queens_assessment.md
 status: captured
 supersedes: null

@@ -2,22 +2,24 @@ audit_only: true
 buffer_id: STB-20260513-1449
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 165
-line_start: 165
+line_end: 70
+line_start: 70
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: '"Show it," Geralt rasped, forcing the words through the psychic torrent.
-  He sheathed his blade. He couldn’t fight this with steel. He focused inward, channeling
-  Zaron’s resonance through the armor, amplifying the shared grief, the terrible necessity
-  of that sacrifice three millennia past. He didn’t justify it; he *acknowledged*
-  it. He let the memory flood him – the desperate gamble, the stolen ship groaning
-  as it plunged, the faces of his legionnaires saluting their death, the horrified
-  Anunnaki captives he hadn’t saved. He poured that raw, unvarnished truth into the
-  armor’s empathetic pulse, broadcasting it towards the writhing tendrils of solidified
-  sorrow. *We did this. We bear this. We remember them.*'
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: 'They descended into the valley gloom. The air grew thick, charged with
+  a silent pressure that made Geralt’s teeth ache. Near the obsidian arch, reality
+  seemed thin, frayed. A faint, discordant hum vibrated in his bones – Xal''Zirith’s
+  signature, cold and utterly alien. "Focus," Kaelen commanded, stopping him ten paces
+  from the epicenter. "Reach out. Feel its resonance. Then, sing your counter-harmony."
+  Geralt closed his eyes, pushing past the oppressive hum. He felt the applicator
+  map its jagged waveform – pure entropy. The armor resonated with visceral rejection.
+  His own will surged: defiance, remembrance of Mika, the Five, the 250. He wove them
+  together, applicator structuring the counter-frequency, armor fueling its power,
+  his will directing its purpose. He opened his mouth, and a deep, resonant tone flowed
+  out – not a shout, but a fundamental vibration of *being*.'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
+source_file: raw/chapters/book_06_the_ragnarok_034_the_250.md
 status: captured
 supersedes: null

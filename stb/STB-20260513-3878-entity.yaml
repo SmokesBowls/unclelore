@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-3878
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 49
+line_start: 49
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: Around her, other Nephoretti were rising from their own craters. Some moved
+  with purpose; others stumbled, disoriented. A few craters held only scattered vrill‑ash—those
+  who had not survived.
+signal_type: entity
+source_file: raw/chapters/book_20_the_discordant_pulse_south_103_the_second_song_resonance_of_a_broken_needle.md
+status: captured
+supersedes: null

@@ -2,15 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-1729
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 219
-line_start: 219
+line_end: 59
+line_start: 59
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt wanted to say he was fine. The words wouldn't come. He lay back
-  down, breathing hard from the effort of drinking.
+  entity_type: CHR
+raw_quote: Deep in the undergrowth, obsidian eyes watched. Three reptilian scouts,
+  scales tuned to the corrupted harmonics, tasted the shield’s disruption. Their claws
+  flexed, ready to rend flesh *or* sanity. Geralt’s gauntlet tightened on Luminara.
+  Tonight, they’d hold this line. Tomorrow, they’d cut deeper toward the heart—and
+  rip the poison from its roots.
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_039_jungle_fever.md
 status: captured
 supersedes: null

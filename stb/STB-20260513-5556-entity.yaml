@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5556
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 61
+line_start: 61
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: It turned back to Vale. This is not rejection. This is caution. We have
+  guarded this land since before the flood. Since before the freeze. Since before
+  the Graviton fell and the world broke. We will not give it away because an offering
+  was felt.
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_120_the_language_of_stone.txt
+status: captured
+supersedes: null

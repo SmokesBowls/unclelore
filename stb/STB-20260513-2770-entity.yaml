@@ -2,15 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2770
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 401
-line_start: 401
+line_end: 187
+line_start: 187
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Luminaire at the edge of his thoughts ready. Geralt looks at them all..
-  and then his clone.. and then turns and leaves the cavern.
+  entity_type: CHR
+raw_quote: '"Time to go," Kyh whispered. The indigo flowers withered mid-air, collapsing
+  into ash before they hit the ground. Geralt stood, somewhere beyond, Zypher crouched
+  beneath Tidecaller''s'
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
 status: captured
 supersedes: null

@@ -1,0 +1,22 @@
+audit_only: true
+buffer_id: STB-20260513-4504
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 287
+line_start: 287
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale led. He moved across the rock like it was nothing—stepping from one
+  dark slab to the next, his weight shifting automatically, his feet finding the flat
+  spots without thought. The lava rock was rough, porous, sharp in places, but he
+  had walked this kind of ground for centuries. It was as familiar as breathing. His
+  eyes were not on the path. He glanced east. The horizon was empty. No shimmer. No
+  pressure. No sign of the system that had guided him here. Just water and sky and
+  the low line of distant islands. He glanced again. Nothing. He kept walking. His
+  mind was not on the rock. It was on the absence.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_112_eastern_system.txt
+status: captured
+supersedes: null

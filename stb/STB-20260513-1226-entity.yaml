@@ -2,17 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-1226
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 908
-line_start: 908
+line_end: 207
+line_start: 207
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '*Then we use unconventional means,* Geralt projected while channeling
-  not force but creativity, while making door recognize that staying sealed meant
-  maintaining boundary that consciousness wanted removed, while convincing security
-  systems that opening was preferable to continuing to resist presence that burned
-  with intensity that threatened surrounding systems.'
+  entity_type: CHR
+raw_quote: The words hit like physical force—not sound but conceptual assault, not
+  argument but fundamental negation of everything Geralt had become, everything he'd
+  achieved, everything three consciousnesses had built through choice and sacrifice
+  and desperate determination.
 signal_type: entity
 source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured

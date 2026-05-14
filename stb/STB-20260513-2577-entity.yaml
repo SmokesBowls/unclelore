@@ -2,21 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-2577
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 87
-line_start: 87
+line_end: 323
+line_start: 323
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Kyh's shadow-form flickered like bad reception across Geralt's HUD. She
-  wasn't speaking—she was resonating, her frequency tuned to the gaps between Pyrocast's
-  wingbeats. "The Queen's harmonics—" her voice phased in and out "—are fracturing
-  under dragonfire but..." A Vasthril lashed through her spectral form, its segmented
-  body momentarily warping into the shape of a whip before disintegrating. Oreck's
-  answering snarl wasn't audible over the battlefield's cacophony, but Geralt felt
-  it in his molars—a subsonic growl that made the Dragon Mail's joints lock in primal
-  recognition.
+  entity_type: CHR
+raw_quote: “At what cost?” Oreck rumbled, helping Geralt to his feet.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
+source_file: raw/chapters/book_09_bureaucratic_debt_053_the_twilight_city.md
 status: captured
 supersedes: null

@@ -2,16 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-1762
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 559
-line_start: 559
+line_end: 238
+line_start: 238
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt stumbled, legs failing. Lyra caught him. Through the bond, Luminaire
-  screamed—not in words, but in pure resonance. The corruption was killing her. Choking
-  her. Using her own light to build this trap.
+  entity_type: CHR
+raw_quote: Geralt froze. Not from pain. From realization.
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_039_jungle_fever.md
 status: captured
 supersedes: null

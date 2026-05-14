@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-5862
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 85
+line_start: 85
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale paused beside a fallen monolith, its surface veined with luminous
+  moss the color of bruised plums. He pressed his palm to the stone, not to steady
+  himself, but to listen. Beneath the corruption's oily whisper, the stone still sang
+  its slow, patient song. The same song Brak had hummed. The same song that meant
+  waiting, not mourning.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_125_farwell.txt
+status: captured
+supersedes: null

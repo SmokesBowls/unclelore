@@ -2,14 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-1184
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 614
-line_start: 614
+line_end: 308
+line_start: 308
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt chose promise.
+  entity_type: CHR
+raw_quote: '*RISKING LESS THAN WHAT''S HAPPENING NOW!* Geralt shouted. *He''s winning
+  because we''re divided! Three consciousnesses maintaining separate boundaries instead
+  of functioning as TRUE unified system! Stop being parasite! Stop being symbiote!
+  START BEING PARTNER!*'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
+source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
 status: captured
 supersedes: null

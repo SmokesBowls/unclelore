@@ -2,15 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-2533
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 141
-line_start: 141
+line_end: 77
+line_start: 77
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: And waiting in that chaos, Geralt knew, would be the ghosts of his past,
-  ready to speak. The Five Mikas would have something to say.
+  entity_type: CHR
+raw_quote: “Viên,” Luminaire echoed through Geralt, a note of profound recognition
+  and sorrow in her voice. “The First Architect. The one who laid the cornerstone
+  of the network. He was lost in the early wars. I thought his commands lost with
+  him.”
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_055_the_anchors_forge.md
+source_file: raw/chapters/book_09_bureaucratic_debt_053_the_twilight_city.md
 status: captured
 supersedes: null

@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2123
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 55
-line_start: 55
+line_end: 310
+line_start: 310
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: They reached the plateau by midday. The air was thinner here, cooler. The
-  place was unremarkable—just a flat stretch of wind-scoured stone between two ridges—but
-  both Geralt and Mika stopped as if struck.
+  entity_type: CHR
+raw_quote: It didn’t speak. It transmitted, the words forming directly in Geralt’s
+  mind.
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_047_mika.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_045_the_hub_falls.md
 status: captured
 supersedes: null

@@ -2,17 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-1658
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 192
-line_start: 192
+line_end: 56
+line_start: 56
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Then the memory curdled. Gold-green veins thickened, swallowing the chroniton
-  pulse. Node Gamma learned—adapting its resonance to mimic Oreck’s armor frequency.
-  The dissonance slammed Geralt to his knees. Luminara’s light fractured. Shadows
-  deepened.
+  entity_type: CHR
+raw_quote: 'Images flooded Geralt’s mind: Oreck disintegrating. Mika dissolving into
+  light. Legionnaires vaporized as raw power surged through him—dragon wings unfurling
+  against the void. The Luminaire’s core glowed hungrily behind tangled roots. Sacrifice
+  them. Become its master. Silence the storm. Geralt’s gauntlet trembled. Beneath
+  the water, the storm gathered strength.'
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_039_jungle_fever.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
 status: captured
 supersedes: null

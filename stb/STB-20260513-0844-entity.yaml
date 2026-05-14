@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0844
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 299
-line_start: 299
+line_end: 394
+line_start: 394
 parsed_payload:
   confidence: medium
-  entity_name: Aeon Keepers
-  entity_type: UNKNOWN
-raw_quote: '"We seek the Dragon Mail," he said with voice that carried authority despite
-  circumstances. "The armor prepared by the Aeon Keepers. We mean no disrespect to
-  whatever you guard, but—"'
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: '"You''re a SLAVE CONTROL DEVICE bonded with someone who killed Anunnaki
+  overseer! The irony is—" Zaron paused. "Actually, that''s brilliant. Poetic justice
+  on levels I didn''t anticipate."'
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+source_file: raw/chapters/book_05_the_nameless_one_026_dragonmail.md
 status: captured
 supersedes: null

@@ -2,15 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-0750
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 352
-line_start: 352
+line_end: 1201
+line_start: 1201
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"And that brings us to you, Geralt. To the choice before you. To what
-  must be understood before bonding occurs."'
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: At the gates, fifty slaves with clubs and spears attacked the locking mechanisms.
+  Not randomly—the scarred one had studied them for weeks, identified vulnerable points,
+  developed strategy for forcing them open. Metal rang against metal. Sparks flew.
+  And impossibly, against all logic that said slave-made weapons couldn't damage Anunnaki
+  engineering, the locks began to give.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_026_dragonmail.md
+source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
 status: captured
 supersedes: null

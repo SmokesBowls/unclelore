@@ -2,29 +2,23 @@ audit_only: true
 buffer_id: STB-20260513-1541
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 59
-line_start: 59
+line_end: 13
+line_start: 13
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Her head snapped up as Geralt’s armored form crested the ridge. Her visor
-  lenses whirred, focusing. A gasp escaped her – not fear, but *recognition*. “Impossible…”
-  she breathed, her voice amplified by her suit’s vox-grille. Her team froze, tools
-  lowering, eyes wide behind their goggles. They stared, not at the legionnaires,
-  but at Geralt’s living armor. The dragon-scale plates pulsed faintly with inner
-  light, resonating against the dead metal of the wreck. Professor Ambyrl Sahvant
-  took a hesitant step forward, her gaze devouring the intricate fusion of ancient
-  draconic energy and advanced pursuit-tech. “That resonance… it’s *adaptive*. Self-sustaining!
-  Captain!” She ignored Mika’s wary hand on her pistol grip. “Your armor… where did
-  you acquire such integrated bio-energetics? The Circle *demands* to understand its
-  harmonic matrix!” Her voice crackled with fervent idealism, oblivious to the peril
-  inherent in demanding answers from a warlord standing amidst his reclaimed warriors.
-  The scavengers nearby edged back, sensing the sudden, dangerous shift in the air
-  as Oreck’s massive form shifted subtly, blocking her direct path to Geralt, his
-  amber eyes burning with cold warning. The hunt had encountered ambition, raw and
-  reckless.
+  entity_type: CHR
+raw_quote: The corridor inside was impossibly vast, walls curving upward into darkness.
+  The air grew colder, thick with the scent of ancient stone and something metallic.
+  Phantom whispers seemed to brush past their ears – fragments of conversations long
+  silenced. Mika kept walking, her jaw tight. Oreck's words landed like stones. The
+  Echo Tower. Zypher's folly. Not Geralt's destination. Just a desperate gamble. Yet,
+  the Sage resided here. Knowledge resided here. She glanced back at the soldiers,
+  their faces etched with the shared trauma of non-existence and Geralt's sacrifice.
+  Their presence was his final act. "Hope isn't a weakness, Oreck," she stated, her
+  voice echoing strangely in the cavernous hall. "It's fuel. We find the Sage. And
+  hopefully some answers."
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_037_the_circle_of_progress.md
+source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
 status: captured
 supersedes: null

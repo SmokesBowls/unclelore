@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-4952
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 162
+line_start: 162
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: '"They won''t learn it from him alone," she said. "He''s Igigi. His listening
+  is... translated. He had to learn to hear what we hear. What the stone actually
+  says."'
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_115_the_shape_of_asking.txt
+status: captured
+supersedes: null

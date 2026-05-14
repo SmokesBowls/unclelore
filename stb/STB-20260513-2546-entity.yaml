@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2546
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 205
-line_start: 205
+line_end: 159
+line_start: 159
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The Applicator did not delete it. It could not. The command was foundational.
-  Instead, it performed a subversion. It appended a logic bomb, using the principles
-  of Causal Inertia Geralt had mastered.
+  entity_type: CHR
+raw_quote: The shifting gaze locked onto Geralt. The nebulae in his eyes contracted
+  with dread.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_055_the_anchors_forge.md
+source_file: raw/chapters/book_09_bureaucratic_debt_053_the_twilight_city.md
 status: captured
 supersedes: null

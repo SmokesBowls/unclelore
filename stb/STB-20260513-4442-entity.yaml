@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-4442
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 840
+line_start: 840
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: She came to him the next morning, a girl of perhaps ten years by the measure
+  of the Nephoretti, her hair dark, her eyes the gold that marked the First Blend.
+  She carried a stone in her hands, smooth and round, worn by the water that had shaped
+  it.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_111_the_resonance_a_garden_under_shadow.txt
+status: captured
+supersedes: null

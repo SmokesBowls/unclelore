@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-3943
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 235
+line_start: 235
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: Teryn watched from the wall, frozen. The giants were everywhere, their
+  bodies filling the plaza, their weapons – stone axes, obsidian spears, fists the
+  size of boulders – swinging in arcs that could crush a Nephoretti without the giant
+  even knowing. The grove giants were faster, more skilled, but they were outnumbered.
+  Already, two had fallen, their bodies dissolving into light that seeped into the
+  ground.
+signal_type: entity
+source_file: raw/chapters/book_20_the_discordant_pulse_south_105_garden_grove.md
+status: captured
+supersedes: null

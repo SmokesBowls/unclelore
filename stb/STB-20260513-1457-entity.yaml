@@ -2,23 +2,24 @@ audit_only: true
 buffer_id: STB-20260513-1457
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 13
-line_start: 13
+line_end: 86
+line_start: 86
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The corridor inside was impossibly vast, walls curving upward into darkness.
-  The air grew colder, thick with the scent of ancient stone and something metallic.
-  Phantom whispers seemed to brush past their ears – fragments of conversations long
-  silenced. Mika kept walking, her jaw tight. Oreck's words landed like stones. The
-  Echo Tower. Zypher's folly. Not Geralt's destination. Just a desperate gamble. Yet,
-  the Sage resided here. Knowledge resided here. She glanced back at the soldiers,
-  their faces etched with the shared trauma of non-existence and Geralt's sacrifice.
-  Their presence was his final act. "Hope isn't a weakness, Oreck," she stated, her
-  voice echoing strangely in the cavernous hall. "It's fuel. We find the Sage. And
-  hopefully some answers."
+  entity_type: CHR
+raw_quote: 'He stumbled back onto the rain-locked street shard. The vortex behind
+  him collapsed with a final, muted sigh. Relief warred with hollow dread. They were
+  out. The 250 were flung free. But where? Scattered across millennia, adrift in forgotten
+  eras. Saved, yet utterly lost. The applicator, fractured and sparking, offered no
+  answers. *Probability vectors indeterminate.* Mika’s face flashed—not in triumph,
+  but in desperate confusion. *Did I fail them twice?* The cost screamed through him:
+  cracked ribs, scorched spirit, the applicator dying in his grasp. Victory tasted
+  like ashes. Kaelen materialized beside him, her expression unreadable. "They are
+  beyond Xal''Zirith’s grasp," she stated, her voice flat. "Beyond immediate retrieval.
+  The scattering was… necessary." Geralt stared at his trembling, bleeding hands.
+  "Necessary?" The word felt thick, alien. "They''re lost in time."'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
+source_file: raw/chapters/book_06_the_ragnarok_034_the_250.md
 status: captured
 supersedes: null

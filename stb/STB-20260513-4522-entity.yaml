@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-4522
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 307
+line_start: 307
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: They stopped at a sheltered hollow, a depression in the rock where the
+  wind could not reach. The sun was low, the sky turning orange. Vale gathered driftwood.  He
+  stacked the wood, found a flat stone, and struck it against another until a spark
+  caught the kindling. The fire grew. Small, steady, ordinary. The Igigi sat near
+  it, his back against a boulder, his bundle of materials beside him. He did not speak.
+  He simply watched the flames for a long moment, then reached for the seaweed.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_112_eastern_system.txt
+status: captured
+supersedes: null

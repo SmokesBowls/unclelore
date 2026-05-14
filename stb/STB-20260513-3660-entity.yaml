@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-3660
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 108
-line_start: 108
+line_end: 119
+line_start: 119
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: '"Helix was our greatest calculator," the elderly Igigi said sadly. "They
-  tried to solve the corruption directly. To find the one equation that would negate
-  it entirely."'
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: '"Trust me," Tran said, both to the armor and to himself. "We face this
+  together."'
 signal_type: entity
-source_file: raw/chapters/book_19_worthy_opponents_north_098_depths_of_memory.md
+source_file: raw/chapters/book_17_ancestral_debt_089_the_white_mirror.md
 status: captured
 supersedes: null

@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-5697
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 193
+line_start: 193
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: She could not feel Enlil's patterns, or Sera's flow, or Vale's steady center.
+  The threads that had connected them were still present—she could sense them at the
+  edge of awareness—but they were distant. Muted. The labyrinth had not severed them.
+  It had simply... turned down the volume. Asking her to walk without the constant
+  reassurance of the others' presence.
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_122_unravealing.txt
+status: captured
+supersedes: null

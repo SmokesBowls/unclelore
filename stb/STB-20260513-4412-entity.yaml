@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-4412
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 610
+line_start: 610
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Granite found him there, the old giant’s steps slow but steady. The flood
+  had taken something from Granite—Vale could see it in the dimming of its crystal
+  patterns, the way it moved now with the care of something that was conserving what
+  remained. But its eyes were still sharp.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_111_the_resonance_a_garden_under_shadow.txt
+status: captured
+supersedes: null

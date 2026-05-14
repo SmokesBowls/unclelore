@@ -2,18 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-3830
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 679
-line_start: 679
+line_end: 130
+line_start: 130
 parsed_payload:
   confidence: medium
-  entity_name: Nephoretti
-  entity_type: UNKNOWN
-raw_quote: Behind Renn, the grove giants were mobilizing. They moved differently than
-  the Nephoretti. They did not panic. They emerged from the outer complex, their smaller
-  forms agile in the freezing mist. The white crystal markings on their hides began
-  to glow – a faint, bioluminescent phosphorescence that cut through the dark better
-  than the Nephoretti’s light.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: The viewing sphere showed the battle in perfect detail. The awakened Dragon
+  Mail carved through Anunnaki forces with renewed purpose. Giants and humans fought
+  side by side, their differences becoming strengths. Even the Igigi had learned to
+  balance calculation with intuition. Everyone was becoming more than they were—except
+  him.
 signal_type: entity
-source_file: raw/chapters/book_20_the_discordant_pulse_south_105_garden_grove.md
+source_file: raw/chapters/book_19_worthy_opponents_north_102_convergence_on_mars.md
 status: captured
 supersedes: null

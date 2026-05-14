@@ -1,0 +1,22 @@
+audit_only: true
+buffer_id: STB-20260513-6217
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 434
+line_start: 434
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: The warmth was still there. The stone was still warm. The fragment in her
+  chest—the full name, both halves, held silent for longer than anyone—was still quiet.
+  But the quality of the network had changed. The transfer had been successful—the
+  load had moved, the burden had redistributed, the system had learned to carry itself.
+  But the carrying was not free. Every node that held part of the load was holding
+  it continuously now, without the cyclic release of the old rhythm, without the pauses
+  that had once allowed the system to reset.
+signal_type: relationship
+source_file: raw/chapters/book_26_the_seam_long_dark_south_133_threshold.txt
+status: captured
+supersedes: null

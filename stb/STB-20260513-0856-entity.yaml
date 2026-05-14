@@ -2,17 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-0856
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 377
-line_start: 377
+line_end: 452
+line_start: 452
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"The armor," Geralt continued, forcing words through doubt and fear and
-  desperate hope that he spoke truth. "Zaron''s consciousness. The Applicator. Oreck
-  watching. Mika questioning. The compound bearing witness. I won''t be alone in my
-  skull. Won''t make decisions without voices challenging me."'
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: '"But you—you get me complete. Whole. Undivided. Because the Anunnaki won''t
+  wait, and Earth can''t afford gradual power acquisition."'
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+source_file: raw/chapters/book_05_the_nameless_one_026_dragonmail.md
 status: captured
 supersedes: null

@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-5263
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 537
+line_start: 537
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: But the vrill was flowing. Not stagnant anymore. Not clinging to a form
+  that no longer served it. It was moving, changing, becoming something new.
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_117_the_constant_calibration_living_as_anchor.txt
+status: captured
+supersedes: null

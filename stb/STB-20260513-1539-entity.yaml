@@ -2,21 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-1539
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 55
-line_start: 55
+line_end: 9
+line_start: 9
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Dawn arrived not with gentle light, but the grinding sound of the Tower’s
-  outer doors disengaging. The legion moved north, a grim procession winding through
-  jagged ravines choked with crystalline debris. Geralt walked point, dragon armor
-  a silhouette against the bruised sky, Zaron’s spirit humming low within the plates.
-  Mika scanned the horizon, her posture tense. Behind them, Oreck moved like a shadow
-  given form, his cleaver resting easily in his scaled grip, the green arrows pulsing
-  softly, guiding the column’s flank. The air grew thick with ozone and the metallic
-  tang of decay.
+  entity_type: CHR
+raw_quote: Mika stared at the Tower’s dark maw. Geralt wasn’t lost. He was trapped.
+  Sacrificed. The Sage awaited. So did answers. And maybe, just maybe, a way back.
+  She squared her shoulders, her voice cutting through the stunned silence. "Then
+  we go *in*. We find him. We bring him home." She strode forward, the army surging
+  behind her, their footsteps echoing into the shadowed throat of the Echo Tower.
+  The air shimmered faintly, tasting of ozone and regret.
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_037_the_circle_of_progress.md
+source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
 status: captured
 supersedes: null

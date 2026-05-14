@@ -1,0 +1,22 @@
+audit_only: true
+buffer_id: STB-20260513-6111
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 5
+line_start: 5
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: She discovered this on her second crossing, three days after the first.
+  The Igigi boy was with her—he was always with her now, meeting her at the canopy's
+  edge before the light reached its dull peak, his hollow eyes less hollow with each
+  passage. They had crossed the wall four times together. Each time, the cold was
+  less absolute. Each time, the warmth followed further into the occupied city. Each
+  time, they returned before the patrol patterns shifted, before the dregans' screams
+  realigned, before the occupation's instruments could register the sliver of heat
+  that was spreading through the severed stone like dye through still water.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_130_within_tolerance.txt
+status: captured
+supersedes: null

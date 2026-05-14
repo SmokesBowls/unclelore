@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-5189
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 165
+line_start: 165
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: Sera knelt at the vrill junction, her palm pressed to the channel's edge.
+  Her eyes were closed, her breathing slow. The vrill pulsed beneath her touch—not
+  smoothly, but in fits and starts, like a heartbeat struggling to find its rhythm.
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_117_the_constant_calibration_living_as_anchor.txt
+status: captured
+supersedes: null

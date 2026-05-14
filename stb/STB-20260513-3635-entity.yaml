@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3635
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 114
-line_start: 114
+line_end: 27
+line_start: 27
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: '"It''s us," they replied, marveling at how natural the plural felt. "Tran
-  and Zaron, unified at last. But also something new. Something that hasn''t existed
-  before."'
+  entity_type: CHR
+raw_quote: Tran felt the Dragon Mail pulse with determination, its initial nervousness
+  transforming into stubborn resolve. The armor might fear what lay ahead, but it
+  wouldn't retreat. Neither would he.
 signal_type: entity
-source_file: raw/chapters/book_18_inquisition_of_yourself_096_violet_convergence.md
+source_file: raw/chapters/book_17_ancestral_debt_089_the_white_mirror.md
 status: captured
 supersedes: null

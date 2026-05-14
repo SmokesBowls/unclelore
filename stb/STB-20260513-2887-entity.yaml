@@ -2,19 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-2887
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 201
-line_start: 201
+line_end: 437
+line_start: 437
 parsed_payload:
   confidence: medium
-  entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: The chaos resolved into harmony. Instead of losing their individuality,
-  they found it strengthened by connection. Tran remained Tran—stubborn, practical,
-  protective—but now he could feel Keen's quick intelligence supplementing his tactical
-  instincts. Keen retained her natural leadership, but Viên's deep compassion tempered
-  her occasional ruthlessness. They were more themselves than they had ever been,
-  not less.
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: A rustle. Oreck emerged, the boy perched on his shoulders like a trophy,
+  still vibrating with excitement. Behind him, a dozen reptilian warriors melted from
+  the foliage, their weapons sheathed but eyes sharp. Oreck’s tail lashed once. "You,"
+  he said to Geralt, nostrils flaring, "are interrupting nap time."
 signal_type: entity
-source_file: raw/chapters/book_11_blood_and_legacy_062_falcon_ridge_showdown.md
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
 status: captured
 supersedes: null

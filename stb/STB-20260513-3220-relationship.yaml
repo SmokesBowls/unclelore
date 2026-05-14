@@ -2,20 +2,24 @@ audit_only: true
 buffer_id: STB-20260513-3220
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 343
-line_start: 343
+line_end: 26
+line_start: 26
 parsed_payload:
   predicate: serves
   subject: UNRESOLVED
   target: UNRESOLVED
   temporal_scope: unresolved
-raw_quote: As the Guild Spire's capabilities became clear through deepening connection
-  to the ancient network, troubling intelligence began flowing through quantum channels
-  that revealed immediate threats requiring coordinated response. The inheritors'
-  enhanced awareness detected disturbances in the network that spoke of hostile attempts
-  to control awakening infrastructure for purposes that served cosmic tyranny rather
-  than human independence.
+raw_quote: She could feel the chamber around them not simply as physical space defined
+  by walls and floor, but as one small component of continental networks that connected
+  underground spaces across distances measured in hundreds of miles, all linked through
+  both physical channels and consciousness networks that had been established by civilizations
+  whose understanding of geological engineering transcended anything in current human
+  knowledge. The ancient water channels, the geometric patterns carved into bedrock,
+  the careful integration of natural cave systems with artificial construction—all
+  of it represented systematic preparation for purposes that served preservation and
+  transmission of knowledge across cosmic cycles that measured time in terms of galactic
+  rather than planetary considerations.
 signal_type: relationship
-source_file: raw/chapters/book_15_legends_and_gods_079_mages_awakening.md
+source_file: raw/chapters/book_12_forged_identity_071_cosmic_teachers_arrive.md
 status: captured
 supersedes: null

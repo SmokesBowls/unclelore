@@ -2,15 +2,21 @@ audit_only: true
 buffer_id: STB-20260513-2738
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 275
-line_start: 275
+line_end: 71
+line_start: 71
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: But Geralt remains changed. The cyborg half of him whirs softly, a permanent
-  engine of borrowed divinity. The human half aches with familiar, glorious pain.
+  entity_type: CHR
+raw_quote: Geralt turned toward the sanctum's arched exit, his Dragon Mail whispering
+  against stone. Three paces from the threshold, he stopped. Not a hesitation, but
+  a punctuation. "Not now," he said, without looking back. The guild's oculus reflected
+  in his peripheral vision—Earth's white corpse hanging in the void. "Not tomorrow."
+  Kulla's clay fingers paused mid-kneading, sensing the shift in tone. "But someday,"
+  Geralt continued, "Earth will call for you." His shadow stretched long across the
+  sanctum floor, jagged where it intersected with Kyh's pooled darkness. "Not by my
+  voice. By my doing."
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
 status: captured
 supersedes: null

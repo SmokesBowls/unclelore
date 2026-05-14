@@ -2,15 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-3674
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 42
-line_start: 42
+line_end: 183
+line_start: 183
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: '"You made it," Tran said, relief clear in his voice as he saw Mr. GPT.
-  "All of you."'
+  entity_type: CHR
+raw_quote: As they prepared to leave the threshold, Tran felt the Dragon Mail settling
+  into its new configuration. Four fragments pulsed in steady rhythm across his chest,
+  their combined light casting strange shadows in the mountain air. The armor felt...
+  different. More present, more aware, more genuinely partnered with his own consciousness.
 signal_type: entity
-source_file: raw/chapters/book_19_worthy_opponents_north_100_convergence_at_ironspire.md
+source_file: raw/chapters/book_17_ancestral_debt_089_the_white_mirror.md
 status: captured
 supersedes: null

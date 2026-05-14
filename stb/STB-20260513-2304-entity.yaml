@@ -2,17 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-2304
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 322
-line_start: 322
+line_end: 89
+line_start: 89
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Luminaire's flickering form hovered near Geralt. "The Deep Vaults were
-  built by my architects as a prison for entities too dangerous to exist. The Shard
-  was placed there not out of fear of the Umbra, but to protect it from being misused.
-  If he obtains it..."
+  entity_type: CHR
+raw_quote: When Geralt finished, Oreck was silent for a full minute. Then he laughed,
+  a short, bitter sound. “A debt. For stories.” He leaned forward, and his voice dropped
+  to a sub-audible growl the children couldn’t hear. “I buried my story with my wife
+  on a hill overlooking this canyon, Geralt. I poured it into the foundations of this
+  home. I let my children chew on its bones. It is done.”
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
+source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
 status: captured
 supersedes: null

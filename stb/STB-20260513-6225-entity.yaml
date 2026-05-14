@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-6225
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 65
+line_start: 65
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: A low, expanding wave moved through the stone—stronger than any discharge
+  before it, coherent for a breath, then dispersing into the network. The corridor
+  vented—cleaner than its micro-pulses, broader, reaching every node at once. The
+  child’s fragment dimmed for a heartbeat. The mason’s chest emptied of pressure for
+  the first time in days. The Igigi’s throat opened and caught a full tone before
+  it faded. The singer’s shield held without effort. The old woman exhaled.
+signal_type: entity
+source_file: raw/chapters/book_26_the_seam_long_dark_south_134_phase_drift.txt
+status: captured
+supersedes: null

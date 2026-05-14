@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-5678
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 19
+line_start: 19
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale stopped. The others stopped with him—not because he commanded, but
+  because they felt the shift together. The walls ahead were darker, their surfaces
+  unbroken by green veins. The grey light seemed thinner here, absorbed by stone that
+  reflected nothing. And at the edge of perception, a faint red shimmer. The same
+  quality Vale had felt before—the pressure, the refusal, the clear, consistent no.
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_122_unravealing.txt
+status: captured
+supersedes: null

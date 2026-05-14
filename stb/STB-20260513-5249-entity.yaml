@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-5249
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 483
+line_start: 483
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: Not a song of healing. Not a song of asking. A song of release. A low,
+  gentle harmonic that spoke to the vrill of endings, of the natural cycle that required
+  some things to fade so others could flourish. The pool had served its purpose. The
+  channels it fed were changing, shifting, finding new paths. It was time for this
+  small body of vrill to drain, to flow outward, to become part of something larger.
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_117_the_constant_calibration_living_as_anchor.txt
+status: captured
+supersedes: null

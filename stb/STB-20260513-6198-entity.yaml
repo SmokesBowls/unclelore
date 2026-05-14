@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-6198
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 239
+line_start: 239
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The patrol had passed. The shadow line was quiet. The chimney house was
+  dark—the old Igigi woman was kneeling against her stone, her palm flat, her breath
+  slow. The child passed without seeing her. The warmth pulled her onward, through
+  the collapsed workshop, past the debris the young Igigi had cleared, toward the
+  dark gap where the stone was warmest.
+signal_type: entity
+source_file: raw/chapters/book_26_the_seam_long_dark_south_132_white_lightning.txt
+status: captured
+supersedes: null

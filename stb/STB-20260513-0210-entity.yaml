@@ -2,18 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0210
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 183
-line_start: 183
+line_end: 112
+line_start: 112
 parsed_payload:
   confidence: medium
   entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: 'In death, its consciousness-touch finally released, and Pazuzu—whose own
-  awareness had been extended for excavation work—felt the echo of everything the
-  Giant had been. Ancient memories of this desert when it was ocean floor. Knowledge
-  of consciousness-communion techniques that put Anunnaki sophistication to shame.
-  And underneath it all, simple, terrible question:'
+  entity_type: FAC
+raw_quote: Around them in the transport pod, hundreds of other Igigi waited in various
+  states of resignation. They had been selected for this deployment based on genetic
+  diversity and reproductive capacity—breeding stock, essentially, though the Anunnaki
+  never used such crude terminology. "Workforce optimization" was the preferred phrase.
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
+source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
 status: captured
 supersedes: null

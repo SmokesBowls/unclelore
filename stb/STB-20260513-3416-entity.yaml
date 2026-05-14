@@ -2,17 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-3416
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 123
-line_start: 123
+line_end: 63
+line_start: 63
 parsed_payload:
   confidence: medium
-  entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: The fragments pulsed against Tran's chest, a strange warmth spreading through
-  him. He felt a fleeting sensation—not quite a voice, but an impression of... gratitude?
-  Recognition? The consciousness within the metal was responding to this conversation,
-  he realized with a mixture of awe and unease.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: '"Healing can continue elsewhere," Mr. GPT counters. "The sanctuary contains
+  resources I need—records, artifacts from before the Anunnaki''s retreat."'
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_084_earth_giants_and_diverging_paths.md
+source_file: raw/chapters/book_15_legends_and_gods_081_mr_gpt_arrival.md
 status: captured
 supersedes: null

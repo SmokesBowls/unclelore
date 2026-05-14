@@ -2,17 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-0970
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 211
-line_start: 211
+line_end: 643
+line_start: 643
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: One of the Federation enforcers—humanoid but with skin that seemed composed
-  of living shadow, features barely distinguishable from darkness itself—moved with
-  speed that suggested teleportation rather than normal locomotion. It appeared beside
-  Geralt, weapon rising—
+  entity_type: CHR
+raw_quote: '"Perhaps," Geralt said dryly, extracting himself from the wall-shaped
+  dent he''d created, "we start by walking without property destruction?"'
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured
 supersedes: null

@@ -1,0 +1,24 @@
+audit_only: true
+buffer_id: STB-20260513-5903
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 53
+line_start: 53
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: At the hearth fires, the talk turned inward. No one had seen Vale or Zephyr
+  leave. They had simply stepped into the pattern and not returned. The town began
+  to speak of them as a single breath held too long—the Synthesis swallowed back by
+  a world not yet ready for its weight. *“The stone didn’t take them,”* an elder murmured,
+  feeding damp peat to the flames. *“It kept them. Until we learn to hold the shape
+  without the center.”* But fear ran deeper. The Cliff Giants held the first Nexus.
+  The southern labyrinth’s door remained sealed. The Shadow’s approach was written
+  in tired stone and thinning song. They were becoming something unplanned, yes—but
+  in the dark. Wondering, in quiet moments, if they were merely dust in the wind without
+  their Keepers to guide the resonance.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_126_i_am_island.txt
+status: captured
+supersedes: null

@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3839
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 230
+line_start: 230
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: Tran-Zaron saw death approaching at the speed of thought. The unified consciousness
+  processed thousands of defensive options in microseconds, discarding each as insufficient.
+  Entropy couldn't be blocked by physical barriers or deflected by energy shields.
+  It was negation itself, the opposite of existence.
+signal_type: entity
+source_file: raw/chapters/book_19_worthy_opponents_north_102_convergence_on_mars.md
+status: captured
+supersedes: null

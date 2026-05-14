@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-4858
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 77
+line_start: 77
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: Zephyr looked at the city. At the needle. At the water. “I’ll stay. I’ll
+  walk with ‘em. I’ll make ‘em listen to the stone. I’ll make the Igigi shut their
+  eyes and feel the floor.” He met Vale’s gaze. “And when they start askin’ instead
+  of tellin’… we’ll build somethin’ that holds. Not just here. Out there. South. North.
+  Wherever the fractures run.”
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_114_resonance_of_stone.txt
+status: captured
+supersedes: null

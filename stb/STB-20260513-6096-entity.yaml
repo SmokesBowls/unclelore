@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-6096
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 253
+line_start: 253
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: The warmth came. Not from the stone beneath her palm. From the stone within
+  her memory. From the path behind her. From the center that was holding, somewhere
+  in the sealed chamber, somewhere the occupation had declared contained. The warmth
+  did not travel through the vrill channels—the channels were severed. It traveled
+  through something older. Something the occupation could not measure. Something the
+  occupation had given a year to reevaluate, not knowing the warmth did not need a
+  year. It needed permission.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_129_calibration_drift.txt
+status: captured
+supersedes: null

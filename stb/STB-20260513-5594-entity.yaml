@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-5594
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 320
+line_start: 320
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: The path curved. The walls narrowed. And Vale felt, for the first time,
+  that his steps were no longer entirely his own. Not forced. Not controlled. Just...
+  guided. As if the stone itself was suggesting a direction. Not commanding. Inviting.
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_120_the_language_of_stone.txt
+status: captured
+supersedes: null

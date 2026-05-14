@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-0451
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 14
+line_start: 14
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: '"The Igigi scatter-protocol was... efficient," he admitted, his voice
+  resonating through frequencies that could shatter lesser minds. "Seventy-three percent
+  successful displacement across quantum foam. Impressive for livestock."'
+signal_type: entity
+source_file: raw/chapters/book_04_sage_saga_017_niburu_shadow.md
+status: captured
+supersedes: null

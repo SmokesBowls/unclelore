@@ -2,17 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2526
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 114
-line_start: 114
+line_end: 417
+line_start: 417
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The thing—Kulla—tilted its mismatched head. “I am not a spirit. I am the
-  foreman. And you,” its thumb-socket eyes fixed on Geralt, specifically on the Dragon
-  Mail, “are adding unstable weight to a stressed foundation. Your destiny is a load-bearing
-  wall in a design I did not approve.”
+  entity_type: CHR
+raw_quote: “Two to go,” Geralt said, the words a vow and a warning. “And now she’s
+  coming for us.”
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_055_the_anchors_forge.md
+source_file: raw/chapters/book_09_bureaucratic_debt_052_entry_without_standing.md
 status: captured
 supersedes: null

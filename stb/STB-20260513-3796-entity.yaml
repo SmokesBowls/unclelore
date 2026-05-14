@@ -2,15 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-3796
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 408
-line_start: 408
+line_end: 76
+line_start: 76
 parsed_payload:
   confidence: medium
-  entity_name: Aeon Keepers
-  entity_type: UNKNOWN
-raw_quote: Teryn nodded slowly. The Aeon Keepers had given them the tools; now they
-  had to learn to use them.
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: '"We don''t find it," Tran said, understanding dawning. "We let it find
+  us."'
 signal_type: entity
-source_file: raw/chapters/book_20_the_discordant_pulse_south_104_the_rising_tide.md
+source_file: raw/chapters/book_19_worthy_opponents_north_101_the_hidden_resonance.md
 status: captured
 supersedes: null

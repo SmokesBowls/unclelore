@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-4911
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 404
+line_start: 404
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale didn’t answer. He let the words settle into the current, into the
+  stone, into the quiet pulse that had held him for six thousand years. He wasn’t
+  sure what he was becoming yet. But he knew what he wasn’t. He wasn’t a weapon. He
+  wasn’t a vault. He was a threshold.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_114_resonance_of_stone.txt
+status: captured
+supersedes: null

@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-1889
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 349
-line_start: 349
+line_end: 835
+line_start: 835
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: Geralt stepped forward, handing Marek a small crystal—salvaged Anunnaki
-  tech, repurposed. “This will pulse if the Needle’s energy changes. If the corruption
-  returns. Get word to us, however you can.”
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: Not outward, breaking free. Inward—drawing the corruption into herself,
+  concentrating it, isolating it from the Spire, from the pyramid, from the water.
+  Taking the poison that had been killing both her and Geralt and containing it.
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_042_the_verdant_crossing.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
 status: captured
 supersedes: null

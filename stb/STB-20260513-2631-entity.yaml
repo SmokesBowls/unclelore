@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-2631
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 67
-line_start: 67
+line_end: 100
+line_start: 100
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt's fingers lingered on the glyph-carved wall, its pulse syncing with
-  the slow, subterranean groan of the guild's awakening foundations. "Is it done?"
-  His voice wasn't a question—it was the scrape of a blade being sheathed.
+  entity_type: CHR
+raw_quote: They had the shuttle. Oreck had won his brutal fight, Kyh had sliced through
+  the encryption, and Geralt had woven a tapestry of tiny, guaranteed moments to get
+  them aboard. But as they powered up the engines, the lunar ground beneath the hangar
+  rejected them.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
+source_file: raw/chapters/book_09_bureaucratic_debt_055_the_anchors_forge.md
 status: captured
 supersedes: null

@@ -2,15 +2,27 @@ audit_only: true
 buffer_id: STB-20260513-1651
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 160
-line_start: 160
+line_end: 31
+line_start: 31
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"Cease fire!" Geralt barked. Every counterattack became data for the parasite.
-  He forced stillness. Luminara dimmed to a dying ember.'
+  entity_type: CHR
+raw_quote: The Stair swallowed them whole. Each downward step crushed Geralt’s shoulders
+  tighter. Condensation wept from fused basalt walls, slick beneath scaled boots.
+  Air thickened—metal-tanged humidity pressing like drowned lungs. No desert wind
+  dared trespass here. Only the Spire’s ghost-light bled upward, painting jagged silhouettes
+  that danced with each flicker. Legionnaire Corvin gasped behind Geralt. A choked
+  sound. Then retching. Pressure sickness. The Luminaire’s buried song wasn’t heard—*felt*.
+  It vibrated ribcages, warping inner ears. Equilibrium shattered. Shieldbearer Jax
+  stumbled sideways, helmet amplifying the dissonance into a skull-drilling whine.
+  Tinnitus screamed. Vertigo pulled. Below, the shaft breathed—a subsonic groan resonating
+  through stone and bone alike. Geralt’s dragonmail flared azure, Zaron’s will anchoring
+  him against the pull. *One step lower and your stomach drops—the resonance isn’t
+  sound, it’s gravity bending.* He gripped Corvin’s pauldron, hauling him upright
+  against the trembling wall. Sweat carved trails through grime on pale faces. Silence.
+  Only the drip. And the hum.
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_039_jungle_fever.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
 status: captured
 supersedes: null

@@ -2,19 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2670
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 209
-line_start: 209
+line_end: 33
+line_start: 33
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: They emerged into air that smelled of lightning-struck granite and something
-  darker—ozone with teeth. The ground here wasn't ground at all, but the corpse of
-  an older mountain, its bones ground to powder and reshaped into the Queen's parody
-  of order. Geralt's boots sank slightly, the earth remembering itself just long enough
-  to bear their weight before reverting to sterile dust. Behind them, the fissure
-  sealed with a sound like a ribcage collapsing.
+  entity_type: CHR
+raw_quote: 'Geralt hesitated. The numbness in him recognized the price: to join was
+  to become part of the load-bearing structure. He exhaled, and pressed forward.'
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
+source_file: raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
 status: captured
 supersedes: null

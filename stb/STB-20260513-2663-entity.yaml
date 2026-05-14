@@ -2,19 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2663
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 185
-line_start: 185
+line_end: 313
+line_start: 313
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Falconridge was worse. The shack's roof had caved in under the weight of
-  a fallen oak branch, its splintered wood gray with rot. Geralt knelt by the tombstone,
-  brushing away moss with fingers that remembered the exact curve of Mika's hip beneath
-  wool blankets. He laid a fistful of wild indigo—plucked from Sundrift's overgrown
-  verges—against the granite. The petals trembled in a breeze that didn't touch the
-  grass.
+  entity_type: CHR
+raw_quote: And he, Geralt, the Anchor, was now prepared for his part. The generations
+  of solitude. The vigil in the solar cocoon. He had the discipline to endure it.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
+source_file: raw/chapters/book_09_bureaucratic_debt_055_the_anchors_forge.md
 status: captured
 supersedes: null

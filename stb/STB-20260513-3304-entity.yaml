@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-3304
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 290
-line_start: 290
+line_end: 141
+line_start: 141
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: Tran sighed, recognizing defeat. "If—and only if—you follow every instruction
-  immediately and without question. At the first sign of serious danger, we find somewhere
-  safe for you to wait."
+  entity_type: CHR
+raw_quote: Tran looked up as they approached, his enhanced senses detecting the harmonic
+  patterns that marked them as fellow inheritors. The network had been guiding him
+  toward this convergence, but seeing other awakening consciousness confirmed that
+  his individual awakening was part of a larger pattern.
 signal_type: entity
-source_file: raw/chapters/book_15_legends_and_gods_080_the_whispers_between_worlds.md
+source_file: raw/chapters/book_15_legends_and_gods_079_mages_awakening.md
 status: captured
 supersedes: null

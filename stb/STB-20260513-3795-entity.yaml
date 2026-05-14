@@ -2,19 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3795
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 340
-line_start: 340
+line_end: 28
+line_start: 28
 parsed_payload:
   confidence: medium
-  entity_name: Nephoretti
-  entity_type: UNKNOWN
-raw_quote: The first to arrive were the ones who had been closest – a group from the
-  eastern hills, led by a Nephoretti named Darian who had survived the winter in a
-  cave system, living on nothing but frozen roots and the faint vrill that seeped
-  from the stone. They had heard the pulse through the long nights, had followed it
-  through the thaw, and when Sera’s song had called, they had been close enough to
-  answer within days.
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: Tran closed his eyes, letting the dragon mail extend its awareness through
+  his blood connection to the Star Needle. The ancient monument pulsed in response,
+  its energy flowing through channels that ran deeper than mere stone.
 signal_type: entity
-source_file: raw/chapters/book_20_the_discordant_pulse_south_104_the_rising_tide.md
+source_file: raw/chapters/book_19_worthy_opponents_north_101_the_hidden_resonance.md
 status: captured
 supersedes: null

@@ -2,22 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-3055
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 57
-line_start: 57
+line_end: 121
+line_start: 121
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: Tran placed his palms against the base of the Star Needle and immediately
-  understood that his prior experiences with the installation, impressive though they
-  had seemed at the time, were merely preliminary contact designed to prepare him
-  for capabilities and responsibilities that operated on scales he was only beginning
-  to comprehend. Through direct interface with the Needle's consciousness, he felt
-  eight other installations awakening across the continent, their dormant systems
-  responding to activation signals that confirmed the existence of networks that spanned
-  distances and encompassed purposes that challenged his previous understanding of
-  what was possible through technological and conscious integration.
+  entity_type: CHR
+raw_quote: The name hit Tran like a physical blow, triggering responses in his awakened
+  blood that went far beyond rational understanding. His hand moved instinctively
+  to his chest, where something deep within him responded to the identification with
+  painful recognition that spoke of connections and relationships that transcended
+  the boundaries of individual incarnation.
 signal_type: entity
-source_file: raw/chapters/book_12_forged_identity_069_divergent_paths.md
+source_file: raw/chapters/book_11_blood_and_legacy_065_secrets_of_the_deep.md
 status: captured
 supersedes: null

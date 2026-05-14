@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-6046
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 420
+line_start: 420
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: No one had ordered it placed there. No one had asked. An Igigi woman—the
+  same one who had pressed her palm to the cold pen floor during the quarantine—had
+  carried the cache from the grove's stores, one bundle at a time, over three nights.
+  She had told no one. The Igigi did not speak. But she had felt the warmth through
+  the stone of the quarantine pen, and she had felt it again when her work detail
+  passed near the channel, and she had understood, without language, without plan,
+  that the warmth was a direction and the direction would need supplies.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_128_one_degree_above.txt
+status: captured
+supersedes: null

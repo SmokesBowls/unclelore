@@ -2,19 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0480
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 39
-line_start: 39
+line_end: 225
+line_start: 225
 parsed_payload:
-  predicate: serves
+  predicate: member_of
   subject: UNRESOLVED
   target: UNRESOLVED
   temporal_scope: unresolved
-raw_quote: The synthesis was more complete than anything they had achieved during
-  their partnership. Not just mathematical precision guided by mystical wisdom, but
-  consciousness that existed as both mathematical precision and mystical wisdom simultaneously.
-  Individual identity that served universal evolution while maintaining the distinctiveness
-  that made such service meaningful.
+raw_quote: '"Will not die," Torrhen said with quiet certainty. "Cannot die. Truth
+  this profound becomes part of the quantum foam itself, written into the probability
+  matrices that govern all existence. But for it to grow, to evolve, to teach others..."'
 signal_type: relationship
-source_file: raw/chapters/book_04_sage_saga_022_final_calculation.md
+source_file: raw/chapters/book_04_sage_saga_018_the_wandering.md
 status: captured
 supersedes: null

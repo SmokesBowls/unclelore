@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-0869
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 37
+line_start: 37
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: '"This is choice," Geralt continued, hand still extended. "Not command.
+  Not requirement. If you refuse, you remain valued. Remain protected. But if you
+  accept—"'
+signal_type: entity
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+status: captured
+supersedes: null

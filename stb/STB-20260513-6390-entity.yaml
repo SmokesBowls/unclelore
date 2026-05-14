@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-6390
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 149
+line_start: 149
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Twenty meters down the corridor—precisely where the occupation's motion
+  sensors continue sweeping empty air—Vale approaches.
+signal_type: entity
+source_file: raw/chapters/book_27_the_seam_deadly_words_south_139_final_calculations.txt
+status: captured
+supersedes: null

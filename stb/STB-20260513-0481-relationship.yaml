@@ -2,20 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0481
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 40
-line_start: 40
+line_end: 20
+line_start: 20
 parsed_payload:
-  predicate: serves
+  predicate: member_of
   subject: UNRESOLVED
   target: UNRESOLVED
   temporal_scope: unresolved
-raw_quote: '"This is what the convergences require," the Sage understood as the transformation
-  approached completion. "Not just individual consciousness capable of synthesis,
-  but consciousness that exists as synthesis itself. Not teaching that leads students
-  toward transcendence, but wisdom that demonstrates transcendence as natural expression
-  of what consciousness becomes when limitation serves growth rather than restricting
-  it."'
+raw_quote: '"Become more than one," Torrhen finished. "Expand beyond individual limitations.
+  Touch the forces directly, become part of the transformation rather than merely
+  surviving it."'
 signal_type: relationship
-source_file: raw/chapters/book_04_sage_saga_022_final_calculation.md
+source_file: raw/chapters/book_04_sage_saga_019_the_sacrafice.md
 status: captured
 supersedes: null

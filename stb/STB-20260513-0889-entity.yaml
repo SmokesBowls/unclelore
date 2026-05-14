@@ -2,14 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0889
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 671
-line_start: 671
+line_end: 121
+line_start: 121
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt nodded, then immediately regretted the motion as the helm decided
-  that nod meant "violently jerk head forward" rather than gentle affirmation.
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: As Geralt and Oreck crossed the compound's eastern boundary, heading toward
+  ruins the Nehereti had indicated, the sun—or rather, the twin suns created by orbital
+  alignment—cast long shadows that merged human and reptilian silhouettes into single
+  form.
 signal_type: entity
 source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured

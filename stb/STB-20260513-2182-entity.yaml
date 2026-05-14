@@ -2,15 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-2182
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 9
-line_start: 9
+line_end: 201
+line_start: 201
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'Geralt and Zephyr traveled east for three weeks. The land changed. The
-  applicator in Geralt’s head fed him a constant, useless stream of data:'
+  entity_type: CHR
+raw_quote: The world turned white. But Geralt was not vaporized.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_046_not_like_this.md
 status: captured
 supersedes: null

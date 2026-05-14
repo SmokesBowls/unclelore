@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-4044
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 29
+line_start: 29
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale stood at the center of the room, his form flickering between solid
+  and insubstantial, his presence making the air feel heavy.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_108_evolution_of_the_keeper.txt
+status: captured
+supersedes: null

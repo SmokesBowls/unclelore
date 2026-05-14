@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2359
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 214
-line_start: 214
+line_end: 565
+line_start: 565
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: He was smaller than Aelxion, but radiated a more focused, dangerous energy.
-  His eyes, the color of molten brass, scanned Geralt, and for a fleeting moment,
-  something unrecognizable flickered in them.
+  entity_type: CHR
+raw_quote: Oreck moved closer, looking at Geralt’s unfocused eyes. “What does she
+  see?”
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_051_arrival_in_fire.md
+source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
 status: captured
 supersedes: null

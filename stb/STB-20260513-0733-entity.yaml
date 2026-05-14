@@ -2,14 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-0733
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 219
-line_start: 219
+line_end: 717
+line_start: 717
 parsed_payload:
   confidence: medium
   entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: Golden. Angular. Unmistakably Anunnaki.
+  entity_type: FAC
+raw_quote: The compound stirred around them as other slaves woke to new day. The Anunnaki
+  overseer watched from his distant platform, recording but not intervening.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_026_dragonmail.md
+source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
 status: captured
 supersedes: null

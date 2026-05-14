@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5872
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 135
+line_start: 135
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: Its song spiked—a shriek rather than a melody, jagged and urgent. The ground
+  beneath Vale's feet began to pulse, not with the needle's steady resonance, but
+  with something faster, something hungry. Vrill channels lit up in the soil like
+  veins of infection, crimson and black, racing toward the spire.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_125_farwell.txt
+status: captured
+supersedes: null

@@ -6,10 +6,10 @@ line_end: 4
 line_start: 4
 parsed_payload:
   confidence: medium
-  entity_name: Aaon Keepers
-  entity_type: UNKNOWN
+  entity_name: Aeon Keepers
+  entity_type: FAC
 raw_quote: 'ARC: Aaon Keepers'
 signal_type: entity
-source_file: raw/chapters/book_01_book_of_genesis_003_first_contact.md
+source_file: raw/chapters/book_01_book_of_genesis_002_molten_descent.md
 status: captured
 supersedes: null

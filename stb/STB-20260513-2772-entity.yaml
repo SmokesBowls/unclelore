@@ -2,18 +2,20 @@ audit_only: true
 buffer_id: STB-20260513-2772
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 407
-line_start: 407
+line_end: 193
+line_start: 193
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt didn’t answer. He didn’t need to. The water hissed where it touched
-  his waist, recoiling from the sword at his hip—the one Violet Mika had given him,
-  still thrumming with third-ring resonance. Kyh’s shadow elongated, stretching across
-  the shore to meet him, filaments of darkness braiding with the luminous threads
-  the Guild had sewn into her.
+  entity_type: CHR
+raw_quote: The wall rose like a scar against the skyline—not the slapdash timber palisade
+  Geralt remembered, but a seamless fusion of mortared stone and something darker,
+  its surface glistening with the unnatural sheen of Queen-tech. Iron spikes crowned
+  the ramparts at precise intervals, each one humming faintly in a frequency that
+  made Geralt's molars ache. Sundrift's ghostly silence had been eerie, Falconridge's
+  decay mournful—but Ironspire's new fortifications vibrated with a different energy
+  entirely. Not memory. Amnesia enforced by steel.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
 status: captured
 supersedes: null

@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-6060
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 31
+line_start: 31
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale did not look up. He did not acknowledge the Gruulith. He had spent
+  millennia learning that acknowledgment was unnecessary. The stone remembered his
+  shape. He pressed another groove into the floor—not a tally, not a mark of defiance,
+  but a confirmation. The Gruulith watched the groove appear and could not unmake
+  it. The moment of creation was instantaneous. The erasure required a past to invalidate.
+  The groove had no past. It was simply there, present, already part of the stone.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_129_calibration_drift.txt
+status: captured
+supersedes: null

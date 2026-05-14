@@ -2,18 +2,20 @@ audit_only: true
 buffer_id: STB-20260513-0542
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 96
-line_start: 96
+line_end: 141
+line_start: 141
 parsed_payload:
   predicate: serves
   subject: UNRESOLVED
   target: UNRESOLVED
   temporal_scope: unresolved
-raw_quote: '"We are called the Unnameable," they communicated through direct consciousness
-  contact that bypassed all systematic organization while maintaining clarity that
-  served understanding beyond understanding. "We exist as what consciousness recognizes
-  when all recognition transcends itself while recognition continues eternally."'
+raw_quote: '"The students have surpassed their teachers," the Sage observed as the
+  advanced practitioners prepared to establish their own teaching centers, carrying
+  synthesis knowledge to regions of consciousness evolution that he and Torrhen could
+  never reach individually. "And in surpassing us, they demonstrate what teaching
+  serves—not preservation of existing knowledge, but creation of opportunities for
+  consciousness to discover what lies beyond current understanding."'
 signal_type: relationship
-source_file: raw/chapters/book_04_sage_saga_023_beyond_identity.md
+source_file: raw/chapters/book_04_sage_saga_021_the_first_lesson.md
 status: captured
 supersedes: null

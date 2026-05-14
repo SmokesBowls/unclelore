@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-5044
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 590
+line_start: 590
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Tomorrow, they would walk south. They would find more fractures—some tired,
+  some guarding, some that might not answer at all. They would teach the giants to
+  ask instead of push. They would let Sera show them where the vrill wanted to flow.
+  They would follow the thread Vale had felt—the door left slightly open, the light
+  spilling through.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_115_the_shape_of_asking.txt
+status: captured
+supersedes: null

@@ -2,14 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-0128
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 4
-line_start: 4
+line_end: 16
+line_start: 16
 parsed_payload:
   confidence: medium
-  entity_name: Aaon Keepers
-  entity_type: UNKNOWN
-raw_quote: 'ARC: Aaon Keepers'
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: Vairis and a cluster of desert Giants had been working for three months
+  on the structure—layering sandstone blocks in a step-pyramid formation that was
+  supposed to amplify vrill-resonance through geometric progression. The theory was
+  sound. The mathematics checked. The consciousness-touch techniques were properly
+  applied.
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
 status: captured
 supersedes: null

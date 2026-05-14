@@ -2,18 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-0949
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 101
-line_start: 101
+line_end: 509
+line_start: 509
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"I don''t care about your regulations," Geralt said with calmness that
-  belied the fury building behind his words. "This armor was given to me. Prepared
-  for me. Bonded to my soul by Aeon Keeper who chose to circumvent laws that prevented
-  direct intervention. I''m not surrendering it because some bureaucrat decided freedom
-  is illegal."'
+  entity_type: CHR
+raw_quote: And beyond it—transformation that would change not just Geralt, but future
+  of Earth's liberation.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured
 supersedes: null

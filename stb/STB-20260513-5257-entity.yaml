@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5257
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 507
+line_start: 507
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: The thought surprised him. Not with its content, but with its force. He
+  wanted to stand beside Sera, to feel the vrill's release, to witness the small death
+  that would make room for new growth. He wanted to be present for it—not to interfere,
+  not to stabilize, just to see.
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_117_the_constant_calibration_living_as_anchor.txt
+status: captured
+supersedes: null

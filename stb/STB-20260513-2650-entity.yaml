@@ -2,18 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2650
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 141
-line_start: 141
+line_end: 197
+line_start: 197
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The fire was the last insult. Geralt doused it with their remaining water—a
-  hissing protest of steam—only for flames to lick back to life the moment his back
-  turned. Not embers. Not sparks. Full defiance, as if the universe had decided combustion
-  was mandatory. Kulla stomped on it with one clay foot, grinding the coals into the
-  damp earth. The fire gasped, died, then reignited in his footprint.
+  entity_type: CHR
+raw_quote: There was no time for a better plan. With Oreck and Kulla holding off the
+  alerted slaver guards, and Kyh weaving shadows to blunt the worst of the psychic
+  barrage, Geralt approached the pulsating crystal core.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
+source_file: raw/chapters/book_09_bureaucratic_debt_055_the_anchors_forge.md
 status: captured
 supersedes: null

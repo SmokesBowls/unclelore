@@ -2,16 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-2089
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 281
-line_start: 281
+line_end: 276
+line_start: 276
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: As the orders were shouted, the last of the Anunnaki guards were being
-  overwhelmed. The compound was theirs. But the victory felt hollow, perched on a
-  precipice.
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: “All non-essential processes are terminated,” the voice said, thin and
+  direct, seeming to come from the air around Geralt rather than the apparition. “Remaining
+  energy is consolidated for the reconfiguration sequence. Upon initiation, my manifest
+  form will dissipate. The Anchor will retract fully to its bonded substrate. You
+  will feel a… disconnection. This is normal. The companion protocol will activate
+  within 72 hours to compensate.”
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_046_not_like_this.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_044_the_mountains_shadow.md
 status: captured
 supersedes: null

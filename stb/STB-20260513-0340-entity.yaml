@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0340
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 53
-line_start: 53
+line_end: 179
+line_start: 179
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: Every step had been calculated. Every choice had been engineered. Even
-  this moment—standing before an Anunnaki overseer, considering betrayal of every
-  principle the Garden had represented—was exactly what the mathematics had predicted.
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The Needle still stood—three hundred feet of crystalline wrongness rising
+  from sacred ground. But the Reptilian guards maintained only minimal perimeter positions.
+  The Igigi workers gathered in confused clusters, their bioluminescent patterns flickering
+  with uncertainty about what freedom without Anunnaki oversight actually meant.
 signal_type: entity
-source_file: raw/chapters/book_03_the_reckoning_015_betrayal.md
+source_file: raw/chapters/book_03_the_reckoning_009_stalemate_departure_the_first_coming.md
 status: captured
 supersedes: null

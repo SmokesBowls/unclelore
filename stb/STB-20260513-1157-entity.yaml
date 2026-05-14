@@ -2,14 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-1157
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 335
-line_start: 335
+line_end: 101
+line_start: 101
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Because Geralt had burned bright enough to make void itself exist.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: '"The Anunnaki train for centuries. We have weeks. We can''t match their
+  experience. But we can match their coordination through intensive practice and recognition
+  that our survival depends on functioning as unified force."'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
+source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
 status: captured
 supersedes: null

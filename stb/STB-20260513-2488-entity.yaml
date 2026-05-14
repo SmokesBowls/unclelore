@@ -2,18 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2488
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 53
-line_start: 53
+line_end: 43
+line_start: 43
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"I will not wait idly," the reptilian interrupted, his voice firm. "This
-  is Orion territory. Quiet, but not dead. I will scout the perimeter. Identify outposts.
-  Guard your blind side." He placed a heavy hand on Geralt''s armored shoulder. "Protection
-  sometimes means clearing the field so the mage can work. Do what you must learn.
-  I will ensure you have the time to do it."'
+  entity_type: CHR
+raw_quote: Sound behaved strangely. Geralt’s boot scuffed the floor, and the scrape
+  didn’t fade. It hung in the air, a persistent auditory fact, until it was slowly
+  absorbed by a nearby glyph.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_054_tue_lunar_spire.md
+source_file: raw/chapters/book_09_bureaucratic_debt_052_entry_without_standing.md
 status: captured
 supersedes: null

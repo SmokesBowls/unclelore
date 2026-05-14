@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3615
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 16
-line_start: 16
+line_end: 91
+line_start: 91
 parsed_payload:
   confidence: medium
-  entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: The entrance—if it could be called that—shimmered like heat mirages rising
-  from summer stone. Through it, Tran could see not one path but dozens, all leading
-  to the same destination through different realities.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: '"Not all within Ironspire know what happens beneath their feet," the elder
+  clarified. "But yes, our people are taken. Their essence extracted to power technologies
+  the Anunnaki left behind."'
 signal_type: entity
-source_file: raw/chapters/book_18_inquisition_of_yourself_096_violet_convergence.md
+source_file: raw/chapters/book_16_fragmented_beginning_087_the_breath_of_life.md
 status: captured
 supersedes: null

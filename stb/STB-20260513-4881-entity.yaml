@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-4881
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 176
+line_start: 176
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: Enlil's jaw tightened. "Mathematics is how we rebuilt the needle. How we
+  understand the vrill currents. How we—"
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_114_resonance_of_stone.txt
+status: captured
+supersedes: null

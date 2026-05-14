@@ -2,17 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3744
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 310
-line_start: 310
+line_end: 134
+line_start: 134
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: The battlefield became a nightmare of temporal confusion. But while others
-  struggled with the disorientation, Tran-Zaron adapted almost instantly. Their unified
-  consciousness could process multiple timestreams simultaneously, turning the temporal
-  chaos into tactical advantage.
+  entity_type: CHR
+raw_quote: The dragon mail sang with quiet satisfaction as they walked, its consciousness
+  no longer divided but whole. Tran's memories and Zaron's purpose had found their
+  convergence point, creating a being prepared for whatever lay ahead.
 signal_type: entity
-source_file: raw/chapters/book_19_worthy_opponents_north_102_convergence_on_mars.md
+source_file: raw/chapters/book_18_inquisition_of_yourself_096_violet_convergence.md
 status: captured
 supersedes: null

@@ -2,15 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2229
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 320
-line_start: 320
+line_end: 55
+line_start: 55
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: “Geralt,” the man said, his voice calm, reasonable. “Please. Let’s talk.
-  You don’t have to do anything drastic.”
+  entity_type: CHR
+raw_quote: They reached the plateau by midday. The air was thinner here, cooler. The
+  place was unremarkable—just a flat stretch of wind-scoured stone between two ridges—but
+  both Geralt and Mika stopped as if struck.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_047_mika.md
 status: captured
 supersedes: null

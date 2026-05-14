@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-5593
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 316
+line_start: 316
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: The descent steepened. The walls rose higher, smoother, their surfaces
+  dark and glittering with veins of something that caught the grey light and held
+  it. Not vrill. Not the gold-blue energy Sera guided through channels. Something
+  older. The same mineral he had seen in the pillar far to the south, in the first
+  point's foundation stone, in the deep veins beneath the Cliff Giants' territory.
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_120_the_language_of_stone.txt
+status: captured
+supersedes: null

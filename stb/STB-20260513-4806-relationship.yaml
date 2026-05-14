@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-4806
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 213
+line_start: 213
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: They stopped as he passed. Not in fear, not in awe—but in recognition.
+  They had grown accustomed to him in the weeks before he left, had learned to see
+  him as part of the city's rhythm. But now they looked at him differently. They saw
+  the change. The pauses between his steps. The way he moved through the world like
+  someone who was listening to something they could not hear.
+signal_type: relationship
+source_file: raw/chapters/book_22_listening_stone_south_113_the_edge_of_return.txt
+status: captured
+supersedes: null

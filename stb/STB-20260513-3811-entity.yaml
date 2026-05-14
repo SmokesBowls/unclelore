@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-3811
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 38
+line_start: 38
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: Sathinee glided through the portal with movements that seemed to skip frames
+  of reality. Their hybrid nature—part thought-form, part flesh, part living harmony—made
+  them uniquely suited to detecting and countering the corruption that saturated Mars.
+  Every step they took created ripples of purification, small bubbles of reality where
+  the Anunnaki's influence couldn't fully penetrate.
+signal_type: entity
+source_file: raw/chapters/book_19_worthy_opponents_north_102_convergence_on_mars.md
+status: captured
+supersedes: null

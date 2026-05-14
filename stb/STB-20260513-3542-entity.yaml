@@ -2,15 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-3542
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 85
-line_start: 85
+line_end: 181
+line_start: 181
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: '"I see it," Tran whispered. "We''re not bearer and tool, not even partners.
-  We''re... becoming one entity. Gradually, inevitably."'
+  entity_type: CHR
+raw_quote: Tran stepped forward, the fragments at his chest pulsing in recognition.
+  "Will you guide us there?"
 signal_type: entity
-source_file: raw/chapters/book_17_ancestral_debt_089_the_white_mirror.md
+source_file: raw/chapters/book_16_fragmented_beginning_084_earth_giants_and_diverging_paths.md
 status: captured
 supersedes: null

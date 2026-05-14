@@ -2,27 +2,22 @@ audit_only: true
 buffer_id: STB-20260513-1549
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 83
-line_start: 83
+line_end: 29
+line_start: 29
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: 'Back at the Legion’s makeshift camp nestled amidst jagged obsidian outcrops,
-  Mika oversaw the distribution with hawk-like precision. Shock-lances were assigned
-  only to veterans like Halvar and Torren, their crackling tips reserved for breaching
-  Sentinel armor or Anunnaki constructs. The compact shield generators went to the
-  perimeter guards, creating shimmering energy barriers along vulnerable flanks –
-  Mika barking orders as operators synced overlapping fields. Jorik moved among clustered
-  recruits near the supply sleds, his weather-beaten hands adjusting grips on newly
-  distributed longbows crafted from scavenged durasteel ribs and braided sinew. "Draw
-  smooth, release cleaner! Imagine the fletching kisses the wind, *then* bites!" His
-  gruff voice carried across the dusty clearing, punctuated by the sharp *thwack*
-  of arrows hitting makeshift targets. Numbers remained frozen at five hundred souls,
-  but expertise deepened daily: shock-troopers drilling with new lances, archers finding
-  their rhythm, shield operators coordinating overlapping defenses. Growth wasn''t
-  in mass, but mastery.'
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: They didn’t charge. They simply… lined up. Formed a rough corridor leading
+  away from the Heart’s crater, towards the faint, treacherous path skirting the chasm’s
+  edge. Their obsidian eyes, like chips of volcanic glass, fixed not on him as prey,
+  but *through* him, towards the scarred depression he’d just climbed from. Their
+  nostrils flared, tasting the lingering psychic residue – the shared grief, the acknowledged
+  pain. One, a massive elder with cracked horns, lowered its head slightly. A low,
+  rumbling groan vibrated through the sand beneath Geralt’s boots, not aggressive,
+  but resonant. It echoed the Heart’s weary thrum. The applicator remained silent;
+  no threat detected. The dragon armor hummed softly, echoing Zaron’s shared sorrow.
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_037_the_circle_of_progress.md
+source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
 status: captured
 supersedes: null

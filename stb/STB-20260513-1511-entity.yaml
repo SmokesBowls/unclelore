@@ -2,27 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-1511
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 143
-line_start: 143
+line_end: 111
+line_start: 111
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The intensity of her embrace, the desperate grip of her fingers digging
-  into the seams of his armor, momentarily shattered the dark weight crushing Geralt’s
-  chest. He felt Mika’s heartbeat hammering against his own, a frantic counterpoint
-  to the fading hum of the Star Needle applicator. But as the initial wave of euphoria
-  receded, the horror flooded back – the temporal storm tearing through his grasp,
-  the faces of his soldiers vanishing into the rip, the crushing certainty of *failure*.
-  He pulled back slightly, just enough to see Mika’s tear-streaked face gazing up
-  at him, radiant with relief. His own face twisted. "Mika... the Legion..." he choked
-  out, the words thick with anguish. "The Eddy... I had them... I *felt* them... and
-  then... gone. Torn away. I failed them. Again." He tried to pull back further, the
-  burden unbearable. Mika instantly tightened her grip, her hand flying up to cup
-  his scarred cheek. "No!" she commanded, her voice raw but fierce. "Look at me! Don't!
-  Don't you *dare* go back there!" Her eyes blazed, anchoring him in the present moment,
-  in the press of her body against his.
+  entity_type: CHR
+raw_quote: '"Geralt! By the stones... you''re alive!" She rushed forward, stopping
+  just short, her gaze scanning him with palpable disbelief "We... we thought you
+  met your maker with that crashed ship, how you managed to gain control of it and
+  crash it here exactly how you planned is remarkable, you must share that story with
+  us someday." Geralt thought about the 5 who joined him and made it possible, another
+  group of people he let down and lost in the end..'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
+source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
 status: captured
 supersedes: null

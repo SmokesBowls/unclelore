@@ -2,18 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-1197
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 756
-line_start: 756
+line_end: 398
+line_start: 398
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: Anunnaki forces deployed from the massive structure—not simple enforcement
-  teams but systematic occupation, establishing infrastructure that suggested permanent
-  presence rather than temporary reclamation. Barriers erected. Processing centers
-  assembled. Population being cataloged and sorted with efficiency that spoke to well-practiced
-  protocols.
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: Geralt channeled telekinesis in patterns that three consciousnesses developed
+  collaboratively—the Applicator suggesting optimal force vectors, Zaron animating
+  execution, Geralt directing overall strategy. Sand became projectiles. Debris became
+  ammunition. Environment itself became weapon against being who'd descended expecting
+  simple reclamation operation.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
+source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
 status: captured
 supersedes: null

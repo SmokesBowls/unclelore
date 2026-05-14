@@ -2,15 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0024
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 124
-line_start: 124
+line_end: 106
+line_start: 106
 parsed_payload:
   confidence: medium
   entity_name: Nephoretti
-  entity_type: UNKNOWN
-raw_quote: '"A dangerous gift," Korath observed. "Autonomy always carries risk. The
-  Nephoretti may choose paths we wouldn''t have chosen for them. May form relationships
-  and structures we cannot predict."'
+  entity_type: SPEC
+raw_quote: '"Which is precisely why they need the Nephoretti," Lyaris responded. "To
+  bridge the gap between potential and actualization. To teach them how to listen
+  to stone and water, how to shape rather than simply manipulate, how to create harmony
+  rather than merely survive chaos."'
 signal_type: entity
 source_file: raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
 status: captured

@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-4063
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 194
+line_start: 194
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: He became part of the rhythm—the morning songs, the midday work, the evening
+  gatherings at the base of the needle. He learned names, faces, stories. He learned
+  the history of Garden Grove, the long watch, the slow building of a city that had
+  refused to break.
+signal_type: relationship
+source_file: raw/chapters/book_21_needle_and_thread_south_108_evolution_of_the_keeper.txt
+status: captured
+supersedes: null

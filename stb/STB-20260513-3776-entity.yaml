@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-3776
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 205
-line_start: 205
+line_end: 188
+line_start: 188
 parsed_payload:
   confidence: medium
-  entity_name: Aeon Keepers
-  entity_type: UNKNOWN
-raw_quote: 'Teryn remembered the Aeon Keepers’ words: The void needles were here before
-  us. This place had been ancient when Tiamat was young. And something had lived here,
-  something that understood vrill in ways she was only beginning to sense.'
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: As they prepared to leave the Sunken Reaches, guided now by Igigi who had
+  learned to walk without calculating every step, Mr. GPT reflected on what they'd
+  accomplished. Four essences gathered, but more than that—four communities beginning
+  to heal from the Sundering's wounds.
 signal_type: entity
-source_file: raw/chapters/book_20_the_discordant_pulse_south_103_the_second_song_resonance_of_a_broken_needle.md
+source_file: raw/chapters/book_19_worthy_opponents_north_098_depths_of_memory.md
 status: captured
 supersedes: null

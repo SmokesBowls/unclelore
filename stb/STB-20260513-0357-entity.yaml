@@ -2,16 +2,20 @@ audit_only: true
 buffer_id: STB-20260513-0357
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 24
-line_start: 24
+line_end: 37
+line_start: 37
 parsed_payload:
   confidence: medium
   entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: 'He gestured to the probability matrix, its crystalline surface now displaying
-  a three-dimensional map of potential futures. Each branch showed the same terminus:
-  Igigi extinction under Anunnaki conquest. All branches but one.'
+  entity_type: SPEC
+raw_quote: 'The consciousness managing orbital operations responded with calculations
+  that spanned probability space: "Indigenous biological capabilities remain significant
+  despite social fragmentation. Stone-flesh resilience exceeds standard Reptilian
+  combat effectiveness. Consciousness-touch sophistication has evolved over occupation
+  period—Giants demonstrate improved geomantic techniques, possibly through continued
+  Igigi interface. Recommend deployment of purpose-built suppression assets rather
+  than relying solely on garrison forces."'
 signal_type: entity
-source_file: raw/chapters/book_04_sage_saga_016_the_choice_third_coming.md
+source_file: raw/chapters/book_03_the_reckoning_010_shadow_returns_second_coming.md
 status: captured
 supersedes: null

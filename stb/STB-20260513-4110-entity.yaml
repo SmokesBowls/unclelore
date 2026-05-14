@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-4110
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 559
+line_start: 559
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: The voice was different this time. Less like a challenge, more like an
+  acknowledgment. Vale felt the weight of centuries in it—the same weight he carried,
+  the same slow accumulation of becoming.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_108_evolution_of_the_keeper.txt
+status: captured
+supersedes: null

@@ -2,19 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-2830
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 120
-line_start: 120
+line_end: 209
+line_start: 209
 parsed_payload:
   confidence: medium
-  entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: Meanwhile, Keen found herself responding to the crisis in a completely
-  different way. Where Tran met violence with violence, fire with fire, Keen felt
-  herself pulled toward stillness, toward a state of being that existed beyond the
-  reach of physical harm. As she knelt in the cracked earth beside the wounded and
-  terrified, her consciousness began to shift into territories she had never explored
-  but somehow recognized as home.
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: Geralt felt the transformation like a second skin peeling away. Zypher's
+  fractal equations crawled under his flesh, replacing muscle with humming steel tendons,
+  threading his bones with lunar silica. His left eye shorted out first—the iris dilating
+  into a black aperture that whirred as it focused on his own clone's uncanny symmetry.
+  "You built a lie," Geralt grated. His voice came out spliced with static, half-human,
+  half-transmission.
 signal_type: entity
-source_file: raw/chapters/book_11_blood_and_legacy_060_echoes_of_the_cradle.md
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
 status: captured
 supersedes: null

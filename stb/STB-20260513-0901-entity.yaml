@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-0901
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 745
-line_start: 745
+line_end: 161
+line_start: 161
 parsed_payload:
   confidence: medium
-  entity_name: Aeon Keepers
-  entity_type: UNKNOWN
-raw_quote: '"It''s me," he said—voice amplified by armor''s acoustics, carrying further
-  than unassisted human speech. "Geralt. I went seeking power the Aeon Keepers prepared.
-  Power to fight the Anunnaki. Power to truly liberate Earth rather than simply surviving
-  in compound while empire continues extracting resources from our world."'
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: '"There," Geralt said, pointing toward central structure—massive temple
+  or tomb or archive, impossible to determine from distance. "That''s where the Nehereti
+  said the armor waits."'
 signal_type: entity
 source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured

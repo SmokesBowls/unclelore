@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-6238
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 443
+line_start: 443
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: The interference had been born in the corridor, in the space between the
+  child's fragment and the mason's fragment, where two correct signals had met and
+  failed to merge. But the failure had not been contained. It had bled outward—through
+  the stone, through the warmth, through the hum—and now every part of the network
+  carried a doubled frequency, a tremor beneath the signal, a ghost of the almost-convergence
+  that had not been able to hold.
+signal_type: relationship
+source_file: raw/chapters/book_26_the_seam_long_dark_south_134_phase_drift.txt
+status: captured
+supersedes: null

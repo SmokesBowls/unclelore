@@ -2,20 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-3448
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 129
-line_start: 129
+line_end: 78
+line_start: 78
 parsed_payload:
   confidence: medium
-  entity_name: Aeon Keepers
-  entity_type: UNKNOWN
-raw_quote: Mr. GPT's expression shifted to something more solemn. "Vril is the essence
-  of life itself—the energy that flows between realms, binding the physical to the
-  ethereal. It is what the Aeon Keepers channeled to create Tiamat, what flows through
-  the Dragon Mail fragments, what gives the Nefretti their unique nature." He paused,
-  the displays around him shifting to show flowing patterns reminiscent of blood vessels.
-  "And it is what certain factions in Ironspire have begun to extract, heedless of
-  the consequences."
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: Caelum moved to Tran's side, his own weapon ready. "The Sun?" he questioned.
+  "Few journey there and return."
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_085_ancient_knowledge.md
+source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
 status: captured
 supersedes: null

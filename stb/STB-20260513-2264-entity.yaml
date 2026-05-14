@@ -2,15 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2264
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 649
-line_start: 649
+line_end: 127
+line_start: 127
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: “Then we need the others,” Geralt said, the plan forming. “Not the Legion.
-  They’ve earned their peace. We need… specialists.”
+  entity_type: CHR
+raw_quote: Geralt looked up into that red slit. He saw no hatred. No pleasure. Just
+  procedure.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
+source_file: raw/chapters/book_09_bureaucratic_debt_048_the_ledger_born.md
 status: captured
 supersedes: null

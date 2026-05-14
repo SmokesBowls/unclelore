@@ -2,16 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-1104
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 336
-line_start: 336
+line_end: 609
+line_start: 609
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '*Then let''s show him what synchronized consciousness can do,* Geralt
-  projected—and through their unified awareness, channeled power that three separate
-  beings couldn''t have accessed.'
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: The Dragon Mail gleamed in doubled sunlight—scales catching radiance and
+  refracting it in patterns that made him visible from miles away, that announced
+  presence with authority that transcended verbal declaration. Wing-mounts folded
+  but clearly present. Helm retracted, showing his face—human features that marked
+  him as former slave rather than Anunnaki authority, that made his approach even
+  more impossible to process through normal assumptions.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured
 supersedes: null

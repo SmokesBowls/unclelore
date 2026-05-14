@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-5641
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 89
+line_start: 89
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale looked at the labyrinth—the green veins, the blue currents, the waiting
+  silence. "Because it responds to presence. To what you are, not what you can do.
+  The giants shape stone. Move it. Command it. But the labyrinth isn't stone in that
+  way. It's... awareness. A mirror. It reflects what you bring to it. And what the
+  giants bring—"
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_121_aligning_the_pattern_at_the_labyrinths_threshold.txt
+status: captured
+supersedes: null

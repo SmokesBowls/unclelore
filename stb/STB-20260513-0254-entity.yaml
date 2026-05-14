@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0254
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 119
-line_start: 119
+line_end: 61
+line_start: 61
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: 'Resource Expenditure: 847 Anunnaki solar cycles invested. 4,247 Reptilian
-  units terminated. 167 Igigi terminated. Manufacturing infrastructure stable and
-  operational. Breeding programs sustainable without direct oversight.'
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: '"We''re supposed to build... here?" Ishara asked, her bioluminescent patterns
+  flickering with confusion. She stood beside him, one of forty Igigi assigned to
+  this construction crew. Behind them, two hundred Reptilian guards maintained perimeter
+  positions, their consciousness simple and absolute in its programmed obedience.'
 signal_type: entity
-source_file: raw/chapters/book_03_the_reckoning_009_stalemate_departure_the_first_coming.md
+source_file: raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
 status: captured
 supersedes: null

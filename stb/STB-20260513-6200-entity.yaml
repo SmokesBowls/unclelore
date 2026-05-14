@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-6200
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 277
+line_start: 277
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: For three cycles, the stillness stopped. Keth-var did not pause at the
+  collapsed workshop. The Igigi did not hum during the strike. The singer's silence
+  was filled by a patrol that passed closer than usual, its dregan screaming on schedule.
+  The learned rhythms were broken—not destroyed, but disrupted, forced underground,
+  held in bodies that had learned to hold but had not yet learned to hold against
+  pressure.
+signal_type: entity
+source_file: raw/chapters/book_26_the_seam_long_dark_south_132_white_lightning.txt
+status: captured
+supersedes: null

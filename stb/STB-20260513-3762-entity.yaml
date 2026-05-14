@@ -2,16 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-3762
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 7
-line_start: 7
+line_end: 84
+line_start: 84
 parsed_payload:
   confidence: medium
-  entity_name: Nephoretti
-  entity_type: UNKNOWN
-raw_quote: The Ethereal Realm, moments after the first thousand Nephoretti leaped
-  through the Veil. The six Aeon Keepers converged in the space between spaces, their
-  consciousnesses vibrating with residual effort.
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: 'The Igigi stepped forward, their crystalline hands weaving patterns in
+  the air. A holographic display formed—not of light, but of pure mathematics made
+  visible. It showed the underground realm in all its complexity: tunnels that existed
+  in multiple dimensions, chambers that defied spatial law, and threading through
+  it all...'
 signal_type: entity
-source_file: raw/chapters/book_20_the_discordant_pulse_south_103_the_second_song_resonance_of_a_broken_needle.md
+source_file: raw/chapters/book_19_worthy_opponents_north_098_depths_of_memory.md
 status: captured
 supersedes: null

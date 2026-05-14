@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-2862
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 353
+line_start: 353
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: Kulla chuckled, patting Geralt’s back with a hand that left lunar dust
+  in the seams of his armor. "Better mortar," he rumbled.
+signal_type: entity
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+status: captured
+supersedes: null

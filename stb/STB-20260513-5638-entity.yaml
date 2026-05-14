@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-5638
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 75
+line_start: 75
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: The others spread out behind him—Brak and Keth to the left, their massive
+  forms still and patient; Enlil and Nammu to the right, the mathematician's slate
+  hanging forgotten, Nammu's palm already pressed to the stone; Sera at the center,
+  her eyes on the faint shimmer of vrill that ran beneath the ancient channels; Zephyr
+  beside Vale, his fingers pressed together, his breathing slow.
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_121_aligning_the_pattern_at_the_labyrinths_threshold.txt
+status: captured
+supersedes: null

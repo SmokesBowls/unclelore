@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-3543
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 87
-line_start: 87
+line_end: 185
+line_start: 185
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: The Dragon Mail stilled against him, and through their bond, he felt its
-  own recognition of this truth. It was afraid—afraid of losing itself in the merger,
-  afraid of subsuming Tran's identity with its own.
+  entity_type: CHR
+raw_quote: The figure gestured with a vine-wrapped arm, and the air shimmered again.
+  In that shimmer, Tran glimpsed a vast expanse of marshland—trees rising from murky
+  waters, tangled roots forming natural bridges, and strange, bioluminescent fungi
+  illuminating mist-shrouded passages.
 signal_type: entity
-source_file: raw/chapters/book_17_ancestral_debt_089_the_white_mirror.md
+source_file: raw/chapters/book_16_fragmented_beginning_084_earth_giants_and_diverging_paths.md
 status: captured
 supersedes: null

@@ -2,15 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-2348
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 120
-line_start: 120
+line_end: 459
+line_start: 459
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"You navigate collapsed spaces," Geralt said. "You portal through solid
-  walls."'
+  entity_type: CHR
+raw_quote: It was the moment Geralt needed.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_051_arrival_in_fire.md
+source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
 status: captured
 supersedes: null

@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-3667
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 162
-line_start: 162
+line_end: 155
+line_start: 155
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: The other Igigi stared in amazement. The concept of curiosity without calculation
-  was revolutionary to beings who had spent millennia believing that everything could
-  and should be quantified.
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: Tran pressed the fragment against the chest plate, feeling it merge with
+  the others. The Dragon Mail shuddered, then stilled, its consciousness expanding
+  once again. Four of five united, the armor's awareness was nearly complete, and
+  through their bond, Tran felt something new—communication clearer than ever before.
 signal_type: entity
-source_file: raw/chapters/book_19_worthy_opponents_north_098_depths_of_memory.md
+source_file: raw/chapters/book_17_ancestral_debt_089_the_white_mirror.md
 status: captured
 supersedes: null

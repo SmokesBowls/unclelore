@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-4345
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 1925
+line_start: 1925
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: And she sang of Vale. The thread. The one who had been caged and broken
+  and had chosen, again and again, to stand between the system and the survivors.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_110_the_bleeding_convergance.txt
+status: captured
+supersedes: null

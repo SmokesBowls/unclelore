@@ -2,15 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-1045
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 757
-line_start: 757
+line_end: 159
+line_start: 159
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt dodged—armor responding with increasing confidence as Zaron learned
-  combat rhythms, as the Applicator provided predictions based on energy signatures,
-  as three consciousnesses began functioning as true unified system.
+  entity_type: CHR
+raw_quote: '"Can we focus?" Geralt snapped, then threw himself sideways as energy
+  bolt tore through space he''d occupied heartbeat before.'
 signal_type: entity
 source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured

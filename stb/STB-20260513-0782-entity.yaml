@@ -2,17 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0782
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 25
-line_start: 25
+line_end: 1417
+line_start: 1417
 parsed_payload:
   confidence: medium
-  entity_name: Aeon Keepers
-  entity_type: UNKNOWN
-raw_quote: '"I need your help," he said, then gestured while speaking—layering communication,
-  ensuring understanding despite language barrier. "There''s something I must claim.
-  Power the Aeon Keepers prepared. But I cannot do it alone. I need ally. Someone
-  who chose redemption. Someone who understands sacrifice."'
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: He channeled everything—all his strength, all his fury, all his desperate
+  need for redemption—into single telekinetic strike focused through the grip he maintained
+  on the Anunnaki's wrist.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
 status: captured
 supersedes: null

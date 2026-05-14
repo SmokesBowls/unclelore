@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5623
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 21
+line_start: 21
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: Vale nodded. He had expected this. Miral was old enough, patient enough,
+  to serve as a bridge between what the Cliff Giants guarded and what they hoped to
+  build. Her absence would be felt—her presence in the web of Nephoretti attention
+  was a steadying force—but her choice was right.
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_121_aligning_the_pattern_at_the_labyrinths_threshold.txt
+status: captured
+supersedes: null

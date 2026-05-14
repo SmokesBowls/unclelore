@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-4464
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 233
+line_start: 233
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale swam toward it. The pressure did not stop him, but it did not help
+  him either. The current slackened, then died. The vibration faded. The silence became
+  normal—not the enforced silence of the system, but the natural quiet of open water.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_112_eastern_system.txt
+status: captured
+supersedes: null

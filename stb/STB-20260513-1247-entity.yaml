@@ -2,16 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-1247
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 1044
-line_start: 1044
+line_end: 396
+line_start: 396
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The armor held—barely, desperately, edges of capability that Zaron provided
-  stretched beyond design parameters, the Applicator maintaining biological functions
-  that should have failed dozens of impacts ago, Geralt's will refusing to accept
-  that extinction was inevitable just because probable.
+  entity_type: CHR
+raw_quote: Not metaphorically. Geralt felt reality sliding sideways as words that
+  should have made no sense somehow carried weight of truth that couldn't be denied.
 signal_type: entity
 source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured

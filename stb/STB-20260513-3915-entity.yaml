@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-3915
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 409
+line_start: 409
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: They were Nephoretti. A handful of women and a man, their bioluminescence
+  dim but steady, their bodies whole.
+signal_type: entity
+source_file: raw/chapters/book_20_the_discordant_pulse_south_103_the_second_song_resonance_of_a_broken_needle.md
+status: captured
+supersedes: null

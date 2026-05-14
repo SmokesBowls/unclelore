@@ -2,14 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-2062
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 87
-line_start: 87
+line_end: 126
+line_start: 126
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: “I’ll lead the diversion,” Geralt said.
+  entity_type: CHR
+raw_quote: Zaron observed the shift as they prepared a cold meal. “They are recontextualizing
+  their trauma,” he noted to Geralt. “From ‘witnesses to a loss’ to ‘participants
+  in a strategic dispersal.’ The human psyche prefers agency, even in the service
+  of a deferred outcome. It is a fascinating adaptation.”
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_046_not_like_this.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_044_the_mountains_shadow.md
 status: captured
 supersedes: null

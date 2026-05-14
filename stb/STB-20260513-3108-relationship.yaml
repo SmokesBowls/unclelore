@@ -2,19 +2,21 @@ audit_only: true
 buffer_id: STB-20260513-3108
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 428
-line_start: 428
+line_end: 311
+line_start: 311
 parsed_payload:
   predicate: serves
   subject: UNRESOLVED
   target: UNRESOLVED
   temporal_scope: unresolved
-raw_quote: Her response reflected both youthful courage and recognition that cosmic
-  adventure represented the natural extension of the curiosity and determination that
-  had characterized her approach to life since childhood, while acknowledging that
-  some opportunities transcended normal risk-benefit analysis to encompass purposes
-  that served development and growth regardless of immediate practical considerations.
+raw_quote: As she climbed back toward the main level of the library, she felt the
+  First Tongue settling into her consciousness like a new language she had always
+  known but never been able to speak. It would be with her always now, ready to respond
+  when she had need of fire, light, or any of the other primal forces that obeyed
+  the ancient words. But its presence carried responsibility as well as capability,
+  obligation to use such power according to principles that served purposes larger
+  than individual achievement or personal advancement.
 signal_type: relationship
-source_file: raw/chapters/book_12_forged_identity_070_spheres_truth.md
+source_file: raw/chapters/book_11_blood_and_legacy_066_the_first_tongue.md
 status: captured
 supersedes: null

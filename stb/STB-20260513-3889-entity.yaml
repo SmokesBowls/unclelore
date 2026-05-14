@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-3889
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 173
+line_start: 173
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: What had been a scattering of fallen stones became something approaching
+  a settlement. The wall grew from chest-high to a proper rampart, fused stone reinforced
+  with vrill-charged crystal salvaged from the needle’s outer fractures. Shelters
+  multiplied against the spire’s base—not the crude windbreaks of the first week,
+  but proper structures with sloping roofs and interior spaces divided by woven reeds.
+signal_type: entity
+source_file: raw/chapters/book_20_the_discordant_pulse_south_103_the_second_song_resonance_of_a_broken_needle.md
+status: captured
+supersedes: null

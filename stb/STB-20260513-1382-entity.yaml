@@ -2,25 +2,28 @@ audit_only: true
 buffer_id: STB-20260513-1382
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 17
-line_start: 17
+line_end: 75
+line_start: 75
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: He slumped against the ice wall, gasping. The screeching outside intensified.
-  Closer. "Kaelen," he rasped. "Mika… the Five… we need to know what happened to them.
-  The Harbinger took them. We have to bring them home." Kaelen was already moving
-  towards a narrow ice tunnel at the cavern’s rear. "Knowing requires accessing the
-  unmaking point," she called back, voice echoing. "That requires the Pattern’s authority.
-  Which *you* lack. She," Kaelen paused, glancing back, her galactic eyes holding
-  Geralt’s, "the Temporal Guardian essence *is* the Zaryonic Pattern’s anchor in this
-  timeline. Fragmented, yes, but the key resides in mastering the temporal arts *through*
-  her training. With or without her help, you must learn to walk the fractures. Only
-  then can you reach the pocket where the 250 were filed away. Only then can you attempt
-  the retrieval." She vanished into the tunnel. "Training continues. Move, Geralt.
-  Or the Chronohounds will file *you* away permanently."
+  entity_type: CHR
+raw_quote: Kaelen vanished into a side gorge choked with ice. Geralt followed, skidding
+  on slick rock. The gorge dead-ended at a sheer ice wall. "Dead end!" he yelled.
+  Kaelen slammed her palm against the ice. "It’s a temporal mirror! Feel its anchor
+  point – fractured! Stabilize it *now*!" The chronohounds burst into the gorge behind
+  them. Geralt whirled, pressing both hands to the ice wall. He felt its instability
+  – the anchor point was a spiderweb of cracks. He poured his will into reinforcing
+  the central nexus, weaving his harmony into the fractures. The ice shimmered, becoming
+  translucent, revealing a glacial cavern beyond. "Through!" Kaelen ordered. Geralt
+  dove sideways as the lead chronohound lunged, its jaws snapping shut on empty air
+  where he’d stood. He rolled through the shimmering ice-mirror just as Kaelen followed.
+  The mirror solidified instantly behind them with a crystalline *snap*. The chronohounds
+  slammed into solid ice, their frustrated screeches muffled. Geralt lay panting on
+  the cavern floor. Kaelen stood over him, gazing at the sealed entrance. "Hands-on,"
+  she stated, her voice devoid of triumph. "Now you understand why theory alone is
+  fatal."
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
+source_file: raw/chapters/book_06_the_ragnarok_032_the_redo.md
 status: captured
 supersedes: null

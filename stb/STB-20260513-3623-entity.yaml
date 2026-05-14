@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3623
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 60
-line_start: 60
+line_end: 105
+line_start: 105
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: '**The Path of Sacrifice**: The most painful vision—Tran giving his life
-  force to fully awaken Zaron, allowing the armor to achieve its purpose while the
-  human faded into memory.'
+  entity_type: CHR
+raw_quote: '"It''s wrong," Tran said simply, feeling the Dragon Mail''s agreement
+  in the way it tightened momentarily around him. "And we''ll find a way to stop it.
+  But first, we need to complete our primary mission."'
 signal_type: entity
-source_file: raw/chapters/book_18_inquisition_of_yourself_096_violet_convergence.md
+source_file: raw/chapters/book_16_fragmented_beginning_087_the_breath_of_life.md
 status: captured
 supersedes: null

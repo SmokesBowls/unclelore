@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0823
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 185
-line_start: 185
+line_end: 243
+line_start: 243
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"What was it like?" Geralt asked as they navigated between ancient pillars.
-  "Being Overseer? Enforcing Anunnaki will for centuries? Did you ever question? Ever
-  doubt?"'
+  entity_type: CHR
+raw_quote: But you, the second continued, and now all three focused on Geralt with
+  intensity that made his spirit-form feel solid despite lacking flesh. You emerged.
+  Fought. Won. Did what we could not.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+source_file: raw/chapters/book_05_the_nameless_one_026_dragonmail.md
 status: captured
 supersedes: null

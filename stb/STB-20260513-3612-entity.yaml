@@ -2,18 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-3612
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 262
-line_start: 262
+line_end: 82
+line_start: 82
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: The Voice of Air resonated with approval, its harmonics intertwining with
-  the Veins of Green. Somewhere on Mars, Keen was escaping captivity. Somewhere on
-  Earth, Tran was gathering the Dragon Mail fragments. And here, on a hill between
-  forest and sea, a small group prepared to dive deeper into the mysteries that would
-  determine all their fates.
+  entity_type: CHR
+raw_quote: The armor shuddered once, then stilled, the three fragments now pulsing
+  in perfect synchronicity—Red, Blue, and Green. Tran felt a wave of emotion wash
+  through him—not his own, but the armor's, a mixture of satisfaction and renewed
+  purpose.
 signal_type: entity
-source_file: raw/chapters/book_18_inquisition_of_yourself_095_roots_of_change.md
+source_file: raw/chapters/book_16_fragmented_beginning_087_the_breath_of_life.md
 status: captured
 supersedes: null

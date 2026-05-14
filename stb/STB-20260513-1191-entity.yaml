@@ -2,15 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-1191
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 682
-line_start: 682
+line_end: 342
+line_start: 342
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Oreck's vertical pupils contracted—recognition crossing features that suggested
-  he understood something Geralt hadn't explicitly stated.
+  entity_type: CHR
+raw_quote: The grip on five hundred minds loosened—fractionally, but enough. Mika's
+  eyes cleared partially. Oreck's massive form stopped shaking. The assembly that
+  had been sliding toward re-enslavement suddenly had space to resist through individual
+  will rather than depending solely on Geralt's intervention.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
+source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
 status: captured
 supersedes: null

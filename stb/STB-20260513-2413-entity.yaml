@@ -2,15 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2413
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 315
-line_start: 315
+line_end: 342
+line_start: 342
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: “Kyh!” Geralt roared, straining against the grasping bands of light. “The
-  lattice! The Cortex itself! It’s the only thing that’s real here!”
+  entity_type: CHR
+raw_quote: 'The fetch quest had begun. But Geralt knew the real mission: secure the
+  Shard, expose the Sovereign''s betrayal, and find a way to stabilize the Spire without
+  becoming pawns in a primordial power''s game.'
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_052_entry_without_standing.md
+source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
 status: captured
 supersedes: null

@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-5367
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 400
+line_start: 400
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: '"Because it is not." Her voice was soft, carrying harmonics that Vale
+  felt in his chest. "The giants shape stone. Sera guides vrill. You provide stability.
+  But none of you can bind the pieces together. None of you can make the walls remember
+  the channels, or the channels remember the terraces, or the terraces remember the
+  people who walk them." She paused. "That is what we do. Not build. Not flow. Not
+  stabilize. We remember the connections. We carry the resonance between things that
+  should be one."'
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_118_the_constant_and_friction_of_becoming.txt
+status: captured
+supersedes: null

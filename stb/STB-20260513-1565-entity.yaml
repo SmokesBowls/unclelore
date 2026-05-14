@@ -2,27 +2,30 @@ audit_only: true
 buffer_id: STB-20260513-1565
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 31
-line_start: 31
+line_end: 57
+line_start: 57
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The Stair swallowed them whole. Each downward step crushed Geralt’s shoulders
-  tighter. Condensation wept from fused basalt walls, slick beneath scaled boots.
-  Air thickened—metal-tanged humidity pressing like drowned lungs. No desert wind
-  dared trespass here. Only the Spire’s ghost-light bled upward, painting jagged silhouettes
-  that danced with each flicker. Legionnaire Corvin gasped behind Geralt. A choked
-  sound. Then retching. Pressure sickness. The Luminaire’s buried song wasn’t heard—*felt*.
-  It vibrated ribcages, warping inner ears. Equilibrium shattered. Shieldbearer Jax
-  stumbled sideways, helmet amplifying the dissonance into a skull-drilling whine.
-  Tinnitus screamed. Vertigo pulled. Below, the shaft breathed—a subsonic groan resonating
-  through stone and bone alike. Geralt’s dragonmail flared azure, Zaron’s will anchoring
-  him against the pull. *One step lower and your stomach drops—the resonance isn’t
-  sound, it’s gravity bending.* He gripped Corvin’s pauldron, hauling him upright
-  against the trembling wall. Sweat carved trails through grime on pale faces. Silence.
-  Only the drip. And the hum.
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: The predawn light painted the peaks in shades of bone and ash. Geralt stood
+  ready beside Jorik. The scout wore layered furs, his longbow slung and a quiver
+  of heavy arrows on his back. His jaw was set tight. Sella clasped Geralt's forearm
+  once more. "Safe passage, Commander. Find your army." She nodded curtly at Jorik.
+  "Watch his back." The ascent began immediately, steep and silent. The air grew thinner,
+  sharper. They traversed scree slopes and knife-edge ridges. Jorik moved with uncanny
+  silence, his eyes constantly scanning the rocks above. Geralt felt the Giants' gaze
+  intensify – a chilling pressure, like glaciers grinding against his mind. It wasn't
+  anger, but profound disinterest bordering on disdain. They saw the armor, the applicator,
+  the stolen fire. They saw a trespasser. The Neferati's subtle influence felt like
+  thin oil on turbulent water, barely holding the Giants' outright rejection at bay.
+  As they approached a massive, weathered monolith etched with faint, swirling symbols
+  – the Whispering Stone – Jorik stopped. "This is it," he breathed, unease thick
+  in his voice. The Stone hummed faintly, resonating with the mountain's disapproval.
+  Beyond it, the path vanished into sheer cliffs and swirling mist. Jorik looked at
+  Geralt, conflict stark in his eyes. "Commander... beyond here..." His hand tightened
+  on his bow.
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
 status: captured
 supersedes: null

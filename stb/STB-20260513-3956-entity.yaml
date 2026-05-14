@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-3956
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 471
+line_start: 471
+parsed_payload:
+  confidence: medium
+  entity_name: Aeon Keepers
+  entity_type: FAC
+raw_quote: It was not the linear, measured time of the Aeon Keepers, or the folded,
+  layered time of the Ethereal Realm. It was the slow, patient time of stone and root,
+  of seasons turning, of walls rising and being rebuilt, of children – not children,
+  not really, but thought‑seeds that had manifested with something like youth – growing
+  into adults who had never known the landing.
+signal_type: entity
+source_file: raw/chapters/book_20_the_discordant_pulse_south_105_garden_grove.md
+status: captured
+supersedes: null

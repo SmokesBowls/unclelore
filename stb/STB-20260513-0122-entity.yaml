@@ -2,15 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0122
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 222
-line_start: 222
+line_end: 130
+line_start: 130
 parsed_payload:
   confidence: medium
-  entity_name: Neferati
-  entity_type: UNKNOWN
-raw_quote: Giants and Neferati stood together in the valley, surrounded by monuments
-  to their cooperation, and watched their world die in darkness and descending shadow.
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: '"We can''t undo the past," Vairis said, their practical mind cutting through
+  the emotional weight. "But we can change the present. Demonstrate that we''re not
+  those Neferati. That we choose cooperation over domination."'
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+source_file: raw/chapters/book_01_book_of_genesis_004_the_convergence.md
 status: captured
 supersedes: null

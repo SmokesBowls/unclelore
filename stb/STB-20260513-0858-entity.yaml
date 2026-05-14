@@ -2,15 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-0858
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 411
-line_start: 411
+line_end: 9
+line_start: 9
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt stared at the massive dragon—at Ušumgallu who had been celestial
-  guardian before becoming divine weapon, at being who understood bondage with intimacy
-  that transcended species or circumstance.
+  entity_type: CHR
+raw_quote: Oreck's eyes opened as Geralt approached—vertical pupils tracking movement
+  with predator's instinct that would never fully fade regardless of redemption earned
+  or alliance forged.
 signal_type: entity
 source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured

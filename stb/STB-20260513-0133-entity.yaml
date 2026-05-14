@@ -2,18 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-0133
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 60
-line_start: 60
+line_end: 46
+line_start: 46
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: His form was typical of Anunnaki overseers—twelve feet of golden-skinned
-  perfection, features that combined terrible beauty with absolute authority, eyes
-  that reflected the cold fire of suns witnessed across eons. He wore no clothing;
-  such conceits were for species that felt shame or cold. His body was a weapon, a
-  tool, a statement of genetic supremacy that required no ornamentation.
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: Not music exactly. More like sustained harmonic that made other stones
+  nearby vibrate in sympathy. Neferati discovered that standing near the obelisk while
+  practicing vrill-manipulation made their consciousness-touch more precise, more
+  responsive. The geometry itself seemed to focus intention, amplifying what was already
+  present without adding external power.
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
 status: captured
 supersedes: null

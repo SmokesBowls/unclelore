@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-1895
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 17
-line_start: 17
+line_end: 895
+line_start: 895
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"The mathematics are cruel, Geralt," Luminaire’s voice resonated within
-  their shared consciousness, a chime of distant starlight. "Velocity or viability.
-  The equation permits only one variable."'
+  entity_type: CHR
+raw_quote: 'Geralt smiled despite the pain still radiating through his transformed
+  body. He touched his chest plate—the dragon armor was silent now. Not dead. Resting.
+  Zaron had given what remained to forge the bridge. The metal was cool, inert, but
+  Geralt could still feel the echo of the dragon’s final thought:'
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_043_the_badlands_crucible.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
 status: captured
 supersedes: null

@@ -2,15 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-3341
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 78
-line_start: 78
+line_end: 473
+line_start: 473
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: Caelum moved to Tran's side, his own weapon ready. "The Sun?" he questioned.
-  "Few journey there and return."
+  entity_type: CHR
+raw_quote: '"The Queen''s allies," Tran interpreted, his consciousness detecting coordination
+  patterns that spoke of systematic campaigns to identify and recruit awakening individuals.
+  "Gathering collaborators who will help implement her reclamation from within human
+  society."'
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
+source_file: raw/chapters/book_15_legends_and_gods_079_mages_awakening.md
 status: captured
 supersedes: null

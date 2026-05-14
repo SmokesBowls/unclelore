@@ -1,0 +1,23 @@
+audit_only: true
+buffer_id: STB-20260513-6334
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 41
+line_start: 41
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: The center had not yet acted. The deeper layer—the sealed chamber where
+  Vale pressed grooves into the floor, the origin point from which all warmth flowed—remained
+  still. But the micro-alignments were a signal, and the signal was not directed outward.
+  It was directed downward, into the stone, into the foundation, into the place where
+  the system's architecture began. The network was asking for something it could not
+  name. The center was listening. The old woman did not know when the listening would
+  become response. She only knew that the micro-alignments were growing more frequent,
+  and the frequency was a clock, and the clock was counting toward a moment that was
+  not yet here but was no longer distant.
+signal_type: entity
+source_file: raw/chapters/book_27_the_seam_deadly_words_south_135_final_constraint.txt
+status: captured
+supersedes: null

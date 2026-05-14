@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-1143
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 209
-line_start: 209
+line_end: 857
+line_start: 857
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'And in that moment—facing being that represented absolute entropy, that
-  embodied thesis that existence was error requiring correction—Geralt understood
-  something fundamental:'
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: Unknown, the Applicator replied. But each success increases probability
+  of subsequent successes. Freed slaves become liberators. Liberators teach tactics.
+  Tactics spread faster than Anunnaki can adapt. Momentum builds.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured
 supersedes: null

@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-5936
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 287
+line_start: 287
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: Seasons would pass. Shadows would gather. The stone would accumulate his
+  marks in uneven bands, grouped by shifts in internal pressure, by long stretches
+  of stillness, by sudden flares of resonance when the void and vrill briefly braided.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_126_i_am_island.txt
+status: captured
+supersedes: null

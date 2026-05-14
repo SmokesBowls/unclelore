@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-2991
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 189
+line_start: 189
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: Viên's transformation came as liquid warmth flooding his bloodstream, turning
+  his veins into channels of molten ruby. But the change went deeper than blood—it
+  reached into his cellular structure, rewriting his genetic code to accommodate abilities
+  that bridged time itself. His temporal awareness flickered online like a cosmic
+  radio finding its frequency, and suddenly he could perceive the past and future
+  as clearly as the present. The disorientation sent him staggering into Tran's steadying
+  arm.
+signal_type: entity
+source_file: raw/chapters/book_11_blood_and_legacy_062_falcon_ridge_showdown.md
+status: captured
+supersedes: null

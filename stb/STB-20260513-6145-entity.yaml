@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-6145
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 187
+line_start: 187
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: The warmth in the stone deepened by a fraction. The groove beneath Vale's
+  palm, in the sealed chamber half a city away, deepened by a fraction. The subsonic
+  hum adjusted its frequency to match the new voice. The fragment had been spoken
+  three times now—four, if you counted the soundless shaping of the old woman's lips—and
+  it was not yet complete, but it was closer. The gap between the first half and the
+  second was narrowing. The name was assembling itself, syllable by syllable, body
+  by body, house by house.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_130_within_tolerance.txt
+status: captured
+supersedes: null

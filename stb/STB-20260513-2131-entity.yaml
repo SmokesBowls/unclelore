@@ -2,15 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2131
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 117
-line_start: 117
+line_end: 331
+line_start: 331
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: One evening, Geralt, Mika, and Zephyr sat by the central fire. The conversation
-  drifted, as it often did with Zephyr, toward the deep past.
+  entity_type: CHR
+raw_quote: Node Gamma solidified, its form blurring as it delivered three rapid strikes
+  to his chest plate. The Dragon Mail held, but the concussive force cracked a rib.
+  Geralt staggered back, gasping.
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_047_mika.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_045_the_hub_falls.md
 status: captured
 supersedes: null

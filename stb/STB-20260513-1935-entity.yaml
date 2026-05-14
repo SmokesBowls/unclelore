@@ -2,17 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-1935
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 335
-line_start: 335
+line_end: 1267
+line_start: 1267
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt’s hands moved over the alien console, guided by her consciousness.
-  Kessa would have been invaluable here. She was dead. Jorik guarded the door, an
-  arrow nocked, listening to the distant sounds of battle. Lyra leaned against a wall,
-  pale, binding her wound.
+  entity_type: CHR
+raw_quote: Geralt stood on the pyramid steps, Mika beside him, and felt the new bonds
+  humming in his chest. Luminaire's presence—whole now, free, walking beside them
+  as a physical being. Zaron's fire—integrated into his very biology, no longer just
+  armor but part of his flesh. And his own will, stronger for having fought for both
+  of them.
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_043_the_badlands_crucible.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
 status: captured
 supersedes: null

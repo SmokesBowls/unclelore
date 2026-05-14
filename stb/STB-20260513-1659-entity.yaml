@@ -2,14 +2,27 @@ audit_only: true
 buffer_id: STB-20260513-1659
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 196
-line_start: 196
+line_end: 60
+line_start: 60
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'Geralt’s Applicator burned:'
+  entity_type: CHR
+raw_quote: The cracked sandstone stairs vanished beneath ankle-deep water slick with
+  condensation. Each step echoed too loud, too soon—a drumbeat swallowed by damp stone.
+  Geralt led, boots sinking into unseen silt. Above, the ceiling wept mineral tears
+  that hissed against heated armor seals. Below, the Void Spire’s ghost-light bled
+  upward, painting the shaft walls into jagged, shifting silhouettes. Legionnaire
+  Bren gasped behind him—a wet, choked sound. Then retching. Pressure sickness. The
+  Luminaire’s buried song wasn’t heard. *Felt*. It vibrated ribcages, warping inner
+  ears. Equilibrium shattered. Shieldbearer Kael stumbled sideways, his helmet amplifying
+  the dissonance into a skull-drilling whine. Tinnitus screamed. Vertigo pulled. The
+  shaft breathed—a subsonic groan resonating through stone and bone. Geralt’s dragonmail
+  flared azure, Zaron’s will anchoring him. *One step lower and your stomach drops—the
+  resonance isn’t sound, it’s gravity bending.* He hauled Bren upright against the
+  trembling wall. Sweat carved trails through grime. Silence. Only the drip. And the
+  hum.
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_039_jungle_fever.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
 status: captured
 supersedes: null

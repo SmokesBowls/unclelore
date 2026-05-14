@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-4617
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 462
+line_start: 462
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: They stopped at dusk. Vale stood a moment longer than usual. Not scanning.
+  Not reacting. Just… aware. He looked at the ground, then at Zephyr. "You didn't
+  learn this."
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_112_eastern_system.txt
+status: captured
+supersedes: null

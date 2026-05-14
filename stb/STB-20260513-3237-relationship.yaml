@@ -2,19 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-3237
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 491
-line_start: 491
+line_end: 133
+line_start: 133
 parsed_payload:
-  predicate: serves
+  predicate: member_of
   subject: UNRESOLVED
   target: UNRESOLVED
   temporal_scope: unresolved
-raw_quote: The observation revealed one of the fundamental challenges they faced in
-  building a global organization. Conventional education systems had no framework
-  for understanding magical development, leaving awakening individuals vulnerable
-  to exploitation by forces that could provide guidance—regardless of whether that
-  guidance served their interests or those of cosmic tyranny.
+raw_quote: '"Flow mastery is only part of the foundation," Blue Mika explained as
+  the ocean-space around them began to transform into something far more complex.
+  "Now you must learn basic integration—how to use your temporal awareness while remaining
+  anchored in present action."'
 signal_type: relationship
-source_file: raw/chapters/book_15_legends_and_gods_079_mages_awakening.md
+source_file: raw/chapters/book_14_lessons_of_inheritance_072_flow_between_moments.md
 status: captured
 supersedes: null

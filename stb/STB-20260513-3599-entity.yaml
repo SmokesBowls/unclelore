@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3599
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 56
+line_start: 56
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: Before Thang could protest further, the Dragon Mail carried Tran through
+  the opening, which sealed behind them with a sound like sighing leaves. Inside,
+  the chamber expanded impossibly—its interior dimensions far exceeding what had appeared
+  possible from outside.
+signal_type: entity
+source_file: raw/chapters/book_16_fragmented_beginning_087_the_breath_of_life.md
+status: captured
+supersedes: null

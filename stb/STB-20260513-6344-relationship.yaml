@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-6344
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 67
+line_start: 67
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: He stretched his twisted leg on the warm stone and let the ache settle
+  into the background. The pain was still there—the warmth eased but did not repair—but
+  the pain no longer seemed to matter in the same way. It was part of his body, and
+  his body was part of the network, and the network was being held by something deeper
+  than itself. The holding was not healing. It was acceptance, and the acceptance
+  was a form of peace.
+signal_type: relationship
+source_file: raw/chapters/book_27_the_seam_deadly_words_south_136_completion_defered.txt
+status: captured
+supersedes: null

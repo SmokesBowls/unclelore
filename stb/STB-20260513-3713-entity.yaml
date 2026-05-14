@@ -2,17 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-3713
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 82
-line_start: 82
+line_end: 135
+line_start: 135
 parsed_payload:
   confidence: medium
   entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: The battle was horrifically even. Every advantage the Earth forces deployed
-  was countered by Anunnaki preparation. Every Anunnaki stratagem was met by the unpredictable
-  creativity that came from true unity. The canyon became a charnel house where victory
-  seemed impossible for either side.
+  entity_type: FAC
+raw_quote: '"Yes. Something disrupted them. Something the Anunnaki didn''t expect."'
 signal_type: entity
-source_file: raw/chapters/book_19_worthy_opponents_north_102_convergence_on_mars.md
+source_file: raw/chapters/book_18_inquisition_of_yourself_094_chains_of_light.md
 status: captured
 supersedes: null

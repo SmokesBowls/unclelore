@@ -1,0 +1,15 @@
+audit_only: true
+buffer_id: STB-20260513-6056
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 23
+line_start: 23
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: The circle reached Vale's shadow and stopped.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_129_calibration_drift.txt
+status: captured
+supersedes: null

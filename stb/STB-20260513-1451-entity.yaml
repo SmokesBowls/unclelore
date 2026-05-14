@@ -2,25 +2,26 @@ audit_only: true
 buffer_id: STB-20260513-1451
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 169
-line_start: 169
+line_end: 74
+line_start: 74
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The tendrils slowly retracted, sinking back into the fused glass like weary
-  mourners returning to a grave. The obsidian plain settled, the violent heaving ceasing.
-  Where they retreated, the sickly green veins dimmed, replaced by a faint, steady
-  silver luminescence – the Heart’s own essence, cleansed, however briefly, of the
-  corrupted grief. A profound silence fell, deeper and older than before, filled not
-  with rage, but with a weary, ancient sorrow. The applicator’s warning flickered
-  out. The armor’s empathetic glow faded, leaving Geralt standing alone in the glassy
-  scar, the weight of three thousand years pressing down with a crushing, quiet understanding.
-  This was the price. This silence was the echo of his victory. He turned north, towards
-  the chasm’s edge, the Star Needle’s pull guiding him away from the Heart’s wounded
-  memory. He walked lighter, not from absolution, but from shared burden. The desert
-  watched him go, its gaze still heavy, but no longer holding him at bay.
+  entity_type: CHR
+raw_quote: 'The ascent was brutal. Chroniton winds screamed off the peaks, tearing
+  at them like spectral claws. Geralt anchored his signature constantly, a blazing
+  core against the storm. Kaelen moved with preternatural grace, her form flickering
+  slightly as she phased through the worst gusts. They crested a razorback ridge.
+  Below sprawled a vast, impossible basin – the Fracture Nexus. Time didn''t flow
+  here; it shattered. Jagged shards of frozen moments jutted from the basin floor:
+  a warship mid-explosion, a forest petrified by lightning, a city street frozen in
+  rain. Between them swirled chaotic chroniton streams, twisting like liquid mercury.
+  At the basin''s heart pulsed a raw, swirling vortex of fractured light – the gateway.
+  "The Nexus," Kaelen stated, her voice tight. "Navigate the shards. Anchor against
+  the streams. Reach the vortex. That is the entrance to the filing pocket." Geralt
+  stared. "How?" Kaelen met his gaze. "By becoming the anchor. Your harmony *is* the
+  path. Move."'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
+source_file: raw/chapters/book_06_the_ragnarok_034_the_250.md
 status: captured
 supersedes: null

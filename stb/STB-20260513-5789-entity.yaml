@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-5789
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 225
+line_start: 225
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: The stone held. The vrill threaded through it—not forced, but invited.
+  The shape became consistent. A circle of dark stone, veined with ancient mineral,
+  anchored in the shelf where the earth had accepted it. The resonance of the labyrinth,
+  which had been contained within its walls for seven thousand years, reached outward.
+  Not far. Not dramatically. Just... out. Toward the ring. Toward the point. Toward
+  the place that had been made to hold it.
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_124_the_last_threshold_release_of_the_constant.txt
+status: captured
+supersedes: null

@@ -2,21 +2,21 @@ audit_only: true
 buffer_id: STB-20260513-2680
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 5
-line_start: 5
+line_end: 75
+line_start: 75
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Kulla discovered the ocean like a child finding a forgotten toy. One moment
-  he was trudging behind Geralt, kneading his ever-fracturing clay; the next, he'd
-  plunged into the surf with the single-minded delight of a landslide greeting gravity.
-  When he emerged hours later, his body was a mosaic of iridescent barnacles and spiral
-  shells, their edges fused seamlessly into his flesh. "Better mortar," he announced,
-  shaking seawater from a crevice where his left ear should be. Beneath the waves,
-  brajors circled—not fleeing, but maintaining exact parallax, their bioluminescent
-  frills dimming whenever Kyh's shadow passed too close to the tideline.
+  entity_type: CHR
+raw_quote: But Geralt saw the flaw. The Vasthril moved as one perfect instrument—and
+  perfect instruments have no immunity to dissonance. "Kulla!" he barked. The clay
+  golem, clinging to the tawny dragon's mane, grinned as he slammed his fist into
+  his own chest. A chunk of lunar regolith-mixed clay broke free, and with a grunt,
+  he hurled it into the Vasthril's formation. The clay wasn't a weapon. It was a structural
+  flaw. The moment it lodged between the serpent's segments, their harmonic unity
+  fractured—just enough for the sapphire dragon to snap its jaws shut, shearing through
+  three Vasthril at once.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+source_file: raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
 status: captured
 supersedes: null

@@ -2,15 +2,25 @@ audit_only: true
 buffer_id: STB-20260513-1643
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 100
-line_start: 100
+line_end: 9
+line_start: 9
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"No." Geralt stared at the scout''s ashen scales. Black veins now glowed
-  gold-*green*. The very hue of Oreck''s arrow. "They *learned*."'
+  entity_type: CHR
+raw_quote: Geralt didn't hesitate. He *leaped*, armored form crashing onto the Dragan’s
+  broad back like a meteor. His gauntleted fist, wreathed in crackling temporal energy,
+  slammed down *not* onto bone, but onto the thick cartilage ridge at the base of
+  its skull—a critical resonator node. The impact pulsed visibly, a ripple of distorted
+  air. The Dragan’s scream choked into a wet, gurgling gasp. Its sonic blast misfired
+  internally; blood and ruptured organs sprayed from its jaws. Simultaneously, Oreck
+  lunged low. His cleaver wasn’t aimed to kill, but to *disable*. The obsidian edge,
+  humming with chroniton green, sliced precisely through the thick tendon anchoring
+  a third Dragan’s colossal leg to its hip. The creature bellowed in agony, crashing
+  sideways, its next scream lost in a roar of primal pain and frustration. The immediate
+  threat stalled, but the peril was far from over. The screech of southern reinforcements
+  echoed—allied Dregans summoned by the breach. The Scorch drank deeper.
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_039_jungle_fever.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
 status: captured
 supersedes: null

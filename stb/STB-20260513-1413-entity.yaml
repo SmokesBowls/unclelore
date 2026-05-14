@@ -2,26 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-1413
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 75
-line_start: 75
+line_end: 322
+line_start: 322
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt stepped onto the first temporal shard – the warship deck. Instantly,
-  the roar of battle assaulted him, phantom flames licking at his armor. He anchored
-  fiercely, humming his tripartite tone. The illusion wavered, solidifying the deck
-  beneath him. He leapt to the next shard – the petrified forest. Silence pressed
-  in, thick and suffocating. He sang louder, the applicator mapping safe paths through
-  the chroniton streams below. Each jump was a battle against temporal inertia, each
-  landing a test of will. Halfway across, a stream surged, threatening to sweep him
-  into a frozen city street. The armor flared, reinforcing his anchor point. He held,
-  gasping, then pushed forward. Mika’s face flashed before him. *Almost there.* He
-  vaulted onto the final shard before the vortex – the rain-locked street. Water hung
-  suspended mid-air. He walked through the droplets, his harmony parting the stillness.
-  The vortex loomed, its fractured light humming with terrifying power. He stood at
-  the precipice. The filing pocket awaited.
+  entity_type: CHR
+raw_quote: '"The trail," she demanded, her voice rough. "Geralt''s trail?"'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
+source_file: raw/chapters/book_06_the_ragnarok_033_the_march.md
 status: captured
 supersedes: null

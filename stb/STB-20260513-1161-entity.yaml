@@ -2,18 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-1161
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 388
-line_start: 388
+line_end: 141
+line_start: 141
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"They''re gone," Geralt said carefully, studying her reaction, searching
-  for recognition of magnitude. "All of them. Two hundred forty-nine. The compound
-  was trap. There was... something. Xal''Zirith. The Harbinger. It erased them. Made
-  them stop existing. I barely survived and only because the armor protected me from
-  conceptual assault."'
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: But they could forge armor. Crude. Heavy. Offering protection through mass
+  rather than elegant engineering. Using metals salvaged from mining operations, techniques
+  passed down through beings who'd spent decades working with materials, innovation
+  born from desperate need to protect bodies that couldn't regenerate like Anunnaki
+  flesh.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
+source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
 status: captured
 supersedes: null

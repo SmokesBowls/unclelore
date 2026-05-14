@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3916
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 449
+line_start: 449
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: She thought of the way the pulse responded to sound, to the work‑songs
+  that had become part of the settlement’s daily rhythm. The way the giants at the
+  boundary sometimes paused when the singing rose.
+signal_type: relationship
+source_file: raw/chapters/book_20_the_discordant_pulse_south_103_the_second_song_resonance_of_a_broken_needle.md
+status: captured
+supersedes: null

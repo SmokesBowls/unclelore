@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5381
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 432
+line_start: 432
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: It was not a song. Not a harmonic. Just a single tone, low and steady,
+  that seemed to come from everywhere and nowhere. The other four joined her—not the
+  same tone, but tones that fit together, creating a chord that Vale felt in his chest,
+  in his bones, in the thread that connected him to Luminaire's distant warmth.
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_118_the_constant_and_friction_of_becoming.txt
+status: captured
+supersedes: null

@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5201
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 229
+line_start: 229
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: Sera knelt at the gate's edge. Her palm pressed to the stone. Her voice
+  rose—not a song of revealing, but a song of asking. Coaxing the vrill to move as
+  it should, to show where it stumbled, where it hesitated, where the memory of violence
+  still disrupted its natural flow.
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_117_the_constant_calibration_living_as_anchor.txt
+status: captured
+supersedes: null

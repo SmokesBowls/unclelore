@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-5108
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 324
+line_start: 324
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: Not as he was now—uncertain, hybrid, shaped by vrill and song. This was
+  the original. Pure Graviton. Form steady. Intent absolute. He pressed both palms
+  to the spire’s surface. The stone answered. Light flowed up his arms, through his
+  ribs, into his core. Not consuming. Merging. He was becoming the anchor. The Keeper.
+  Choosing to seal himself inside, to wait out the coming collapse.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_116_keepers_recognition.txt
+status: captured
+supersedes: null

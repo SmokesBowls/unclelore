@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0838
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 247
-line_start: 247
+line_end: 362
+line_start: 362
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt wanted to argue. Wanted to insist on equal risk-sharing. But tactical
-  assessment overrode pride—Oreck was correct. Better to use advantages rather than
-  pretend they didn't exist.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: '"But you, Geralt—you need full power now. The Anunnaki won''t wait for
+  you to slowly collect fragments over years or decades. So the Nehereti gathered
+  them for you. The complete armor waits in ruins east of your compound."'
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+source_file: raw/chapters/book_05_the_nameless_one_026_dragonmail.md
 status: captured
 supersedes: null

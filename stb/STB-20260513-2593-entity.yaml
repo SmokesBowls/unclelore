@@ -2,19 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-2593
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 157
-line_start: 157
+line_end: 51
+line_start: 51
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Kulla's clay fingers twitched. "Good harmonics," he murmured, though his
-  voice cracked mid-sentence—even his structural certainty wavered here. The tawny
-  dragon landed first, its claws sinking slightly into the surface, which rippled
-  like mercury before solidifying again. As Geralt dismounted, his boots left no imprint,
-  only a fleeting refraction of light, as if he'd stepped on the surface of a mirror
-  made of time itself.
+  entity_type: CHR
+raw_quote: Geralt turned to him. "Oreck—"
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
+source_file: raw/chapters/book_09_bureaucratic_debt_054_tue_lunar_spire.md
 status: captured
 supersedes: null

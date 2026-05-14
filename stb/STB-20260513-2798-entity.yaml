@@ -2,19 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-2798
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 499
-line_start: 499
+line_end: 35
+line_start: 35
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Luminaire's voice surfaced like a bubble in tar. *Emergency protocol activated.
-  Seed jump primed.* That was his one way trip into the inferno. The words tasted
-  of Violet Mika's blade and the clone's crooked smile. Geralt exhaled through his
-  teeth, watching his breath fog in air that shouldn't have been cold. The cabin's
-  emptiness wasn't spatial—it was the void where a story should have been. Somewhere
-  beyond the petrified trees, Oreck's child was probably explaining to his warriors
-  that Metal Man had become Math again. The thought almost made him smile.
+  entity_type: CHR
+raw_quote: 'The first sage emerged from the darkness not as a man, but as the absence
+  where darkness conceded to something older. His robe was woven from the same iridescent
+  threads Kyh’s shadow recoiled from, its hem dissolving into the floor like ink bleeding
+  through parchment. His eyes—if they were eyes—were twin vortices spinning lazily
+  in their sockets, consuming light and exhaling whispers of the Deep Tongue. Geralt
+  had seen madness before, but Zypher’s was different: a razor-edged clarity that
+  cut through delusion by embracing it wholly.'
 signal_type: entity
 source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
 status: captured

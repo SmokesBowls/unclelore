@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-4347
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 1937
+line_start: 1937
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: Not because the survivors had become friends — they had not. The grove
+  giants still mistrusted the swamp giants. The cliff giants were still outsiders,
+  tolerated but not embraced. The Nephoretti kept to their resonance circles, and
+  the Igigi kept to their maps, and everyone kept to themselves as much as the cold
+  allowed.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_110_the_bleeding_convergance.txt
+status: captured
+supersedes: null

@@ -2,14 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-3286
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 222
-line_start: 222
+line_end: 381
+line_start: 381
 parsed_payload:
   confidence: medium
-  entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: '"Smuggler tunnels?" Tran raised an eyebrow.'
+  entity_name: Void Spire Network
+  entity_type: SYS
+raw_quote: The evidence revealed through deep quantum analysis showed that her offspring
+  had discovered methods for using the Void Spire network that enhanced rather than
+  opposed its fundamental design. Instead of attempting to destroy or capture systems
+  designed for consciousness coordination, they had learned to work with those systems
+  to facilitate awakening that prepared the planetary population for participation
+  in galactic civilization.
 signal_type: entity
-source_file: raw/chapters/book_15_legends_and_gods_080_the_whispers_between_worlds.md
+source_file: raw/chapters/book_15_legends_and_gods_078_the_queens_return.md
 status: captured
 supersedes: null

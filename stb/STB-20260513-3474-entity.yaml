@@ -2,15 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3474
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 17
-line_start: 17
+line_end: 149
+line_start: 149
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: '"Whoa!" Tran steadied himself against a tree trunk. "It''s never done
-  that before."'
+  entity_type: CHR
+raw_quote: Tran drew his weapon, focusing the Crimson Blood into the blade until it
+  glowed with power. The Red Fragment pulsed in time with his heartbeat, lending its
+  ancient strength to his.
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_087_the_breath_of_life.md
+source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
 status: captured
 supersedes: null

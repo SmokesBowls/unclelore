@@ -2,18 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-3757
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 467
-line_start: 467
+line_end: 52
+line_start: 52
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: The Giants began immediately fortifying Mars as a forward base. Tsunami-Singer
-  pulled ancient water from the polar caps while Forest Giants planted rapid-growth
-  seeds that could create defensive barriers within days. Stone Giants reshaped the
-  scarred landscape into strategic positions, while Ash Giants began converting abandoned
-  Anunnaki technology into defensive systems.
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: They followed the Igigi deeper, Greck muttering protective calculations
+  under his breath—simple arithmetic meant to anchor his mind against the complex
+  mathematics that permeated the atmosphere. The passages grew stranger as they descended,
+  walls showing impossible angles, corridors that seemed to fold back on themselves
+  while still leading forward.
 signal_type: entity
-source_file: raw/chapters/book_19_worthy_opponents_north_102_convergence_on_mars.md
+source_file: raw/chapters/book_19_worthy_opponents_north_098_depths_of_memory.md
 status: captured
 supersedes: null

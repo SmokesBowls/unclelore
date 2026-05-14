@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-5421
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 33
+line_start: 33
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: The stone here was different—darker, smoother, shot through with veins
+  of something that glittered faintly in the grey light. Not vrill. Not the gold-blue
+  energy that Sera guided through channels. Something older. A mineral Vale had seen
+  before, in the pillar far to the south, in the labyrinth that waited beneath the
+  stone.
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_119_resonance_of_the_first_point.txt
+status: captured
+supersedes: null

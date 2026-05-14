@@ -2,15 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-1319
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 290
-line_start: 290
+line_end: 962
+line_start: 962
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Mika's jaw tightened. Five bodies. Geralt's Five. But Geralt wasn't among
-  them. Where was he? "One missing," she murmured, her voice tight.
+  entity_type: CHR
+raw_quote: '*Applicator,* Geralt projected with strain that came from maintaining
+  defense that was systematically failing, *progress report. Please tell me you''re
+  close.*'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_033_the_march.md
+source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured
 supersedes: null

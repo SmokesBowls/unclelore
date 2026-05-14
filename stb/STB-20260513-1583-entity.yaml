@@ -2,23 +2,20 @@ audit_only: true
 buffer_id: STB-20260513-1583
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 81
-line_start: 81
+line_end: 87
+line_start: 87
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Mika seized the moment. "Shieldbearers—cyclonic pattern! Cover the Commander!"
-  Legionnaires formed overlapping arcs, sparking lances pointed outward. Lyra scrambled
-  backward, rig spitting diagnostics. "The resonance... shifting. It’s rejecting the
-  corruption!" Her voice trembled with awe. Above, chroniton crystals fractured. Droplets
-  fell like molten lead, searing water into toxic steam. Oreck hauled Torren onto
-  a petrified root-island, the warrior’s leg weeping phosphorescent ichor. Halvar
-  stood guard, blade singing as he severed another questing tendril. The cavern groaned—a
-  sound of tectonic agony. Geralt remained waist-deep, Zaron’s light fighting the
-  encroaching shadow. Integration. Not control. The Luminaire wasn’t a tool. It was
-  a wounded god.
+  entity_type: CHR
+raw_quote: They descended. The stairs were impossibly smooth, cold beneath their boots,
+  each step echoing faintly into the abyss. Around them, the Akashic Records unfolded.
+  Not as dusty archives, but as living starscapes – constellations shifting into faces,
+  battles, moments frozen in time. Nebulae swirled into equations, galaxies condensed
+  into whispered secrets. The air hummed with the weight of all existence, pressing
+  against Geralt’s senses. Jorik gasped softly, stumbling as a phantom wave crashed
+  silently beside them. "It's... everything," he breathed, overwhelmed.
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
 status: captured
 supersedes: null

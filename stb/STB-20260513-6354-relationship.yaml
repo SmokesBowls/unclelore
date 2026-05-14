@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-6354
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 870
+line_start: 870
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: Difference becomes part of structure. Subsequent carriers do not fix the
+  break—they respond to it, adding variation rather than restoring uniformity.
+signal_type: relationship
+source_file: raw/chapters/book_27_the_seam_deadly_words_south_137_shared_ground.txt
+status: captured
+supersedes: null

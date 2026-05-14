@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2250
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 533
-line_start: 533
+line_end: 29
+line_start: 29
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt sat on the island’s dark rock, head in his hands. Oreck stood guard,
-  his gaze sweeping the valley entrance, but the true threat was no longer external.
-  It was unfolding inside Geralt’s skull.
+  entity_type: CHR
+raw_quote: And Falcon Ridge… remained empty. A place of pilgrimage for scholars who
+  came to study Mika’s archives, to sit in the silence where the First Tongue had
+  been transcribed. Geralt was its only permanent resident. The keeper of the quiet.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
+source_file: raw/chapters/book_09_bureaucratic_debt_048_the_ledger_born.md
 status: captured
 supersedes: null

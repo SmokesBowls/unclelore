@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-4300
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 782
+line_start: 782
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: It was not snow. Snow was soft, forgiving, a thing that could be shoveled
+  and melted and ignored. This was crystal. Tiny shards of frozen vrill, falling from
+  the violet sky, settling on everything they touched.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_110_the_bleeding_convergance.txt
+status: captured
+supersedes: null

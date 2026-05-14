@@ -2,27 +2,21 @@ audit_only: true
 buffer_id: STB-20260513-1447
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 163
-line_start: 163
+line_end: 66
+line_start: 66
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: 'The tendrils reacted to the light. With a collective, psychic shriek that
-  bypassed his ears and rattled his teeth, they recoiled from the ship’s spine and
-  writhed towards him. The air thickened with remembered anguish – the phantom screams
-  of his legionnaires consumed by the crash-fire, the despair of the Anunnaki captives
-  he’d doomed alongside his enemies. The applicator overloaded with sensory feedback:
-  *Psychic resonance overload! Trauma imprint saturation!* Geralt staggered, the sheer
-  weight of the Heart’s absorbed suffering threatening to crush his mind. Zaron’s
-  spirit within the armor roared back, not with violence, but with a profound, shared
-  sorrow. *We did this. We share this burden.* The armor’s light shifted, dimming
-  its defiance, radiating a deep, resonant empathy instead. It pulsed in time with
-  the groaning earth. The lashing tendrils hesitated, their movements becoming less
-  furious, more confused. The green light within them flickered, revealing glimpses
-  of trapped moments – a soldier’s final salute, a child’s terrified face pressed
-  against a viewport. The desert wasn’t just attacking; it was *bleeding*.'
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: 'A tremor ran through the ground. Not collapse – release. High above, Kaelen
+  watched, a faint nod of approval her only movement. Geralt helped Sully stand. Around
+  them, settlers blinked, murmuring in confusion as three days of trapped memories
+  flooded back. Sully squeezed Geralt’s arm. "Thank you." Geralt felt the applicator
+  hum softly: *Localized temporal anomaly resolved. Anchor point stabilized.* He looked
+  towards the cliff path where Kaelen waited. One echo silenced. But deeper in the
+  valley’s shadowed heart, the air shimmered with a far older, colder dissonance.
+  The true quarry lingered. Xal''Zirith’s echo awaited.'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
+source_file: raw/chapters/book_06_the_ragnarok_034_the_250.md
 status: captured
 supersedes: null

@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-0725
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 151
-line_start: 151
+line_end: 543
+line_start: 543
 parsed_payload:
   confidence: medium
-  entity_name: Nehereti
-  entity_type: UNKNOWN
-raw_quote: The Nehereti's three forms moved as one. The central figure extended what
-  might have been a hand—difficult to tell when form was suggestion rather than solid
-  matter—and placed it against The Nameless One's forehead.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: 'The Federation''s arrival: massive fleet, ultimatum delivered, no room
+  for negotiation. The Anunnaki''s choice between compliance and annihilation.'
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_026_dragonmail.md
+source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
 status: captured
 supersedes: null

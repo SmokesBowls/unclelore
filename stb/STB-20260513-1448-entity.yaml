@@ -2,22 +2,24 @@ audit_only: true
 buffer_id: STB-20260513-1448
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 165
-line_start: 165
+line_end: 68
+line_start: 68
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"Show it," Geralt rasped, forcing the words through the psychic torrent.
-  He sheathed his blade. He couldn’t fight this with steel. He focused inward, channeling
-  Zaron’s resonance through the armor, amplifying the shared grief, the terrible necessity
-  of that sacrifice three millennia past. He didn’t justify it; he *acknowledged*
-  it. He let the memory flood him – the desperate gamble, the stolen ship groaning
-  as it plunged, the faces of his legionnaires saluting their death, the horrified
-  Anunnaki captives he hadn’t saved. He poured that raw, unvarnished truth into the
-  armor’s empathetic pulse, broadcasting it towards the writhing tendrils of solidified
-  sorrow. *We did this. We bear this. We remember them.*'
+  entity_type: CHR
+raw_quote: '"Your symbiosis grows," Kaelen stated flatly as Geralt rejoined her on
+  the plateau. Her galactic eyes scanned the valley below, pinpointing a ripple of
+  unnatural stillness near a collapsed obsidian archway. "The locus fracture we sealed
+  was minor. That," she gestured towards the arch, "is a major arterial wound. Xal''Zirith’s
+  passage scarred reality itself. Its echo resonates there, weak but persistent. It
+  draws power from the lingering instability." Geralt frowned. "An echo? Like the
+  unmade?" Kaelen shook her head sharply. "No. This is a psychic imprint, a stain
+  left by its presence. But even stains can fester. Left unchecked, it could seed
+  new paradoxes or attract worse scavengers." She turned to him. "You must purge it.
+  Not with force, but with resonance. Your tripartite harmony – applicator, armor,
+  will – must resonate *against* its frequency. Cancel it out."'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
+source_file: raw/chapters/book_06_the_ragnarok_034_the_250.md
 status: captured
 supersedes: null

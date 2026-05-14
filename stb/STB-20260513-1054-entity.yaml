@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-1054
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 811
-line_start: 811
+line_end: 211
+line_start: 211
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt pressed the attack—not trying for elegant combat but recognizing
-  this was demonstration rather than simply tactical engagement, that killing the
-  Overseer mattered less than proving it could be done, that divine authority was
-  negotiable rather than absolute.
+  entity_type: CHR
+raw_quote: One of the Federation enforcers—humanoid but with skin that seemed composed
+  of living shadow, features barely distinguishable from darkness itself—moved with
+  speed that suggested teleportation rather than normal locomotion. It appeared beside
+  Geralt, weapon rising—
 signal_type: entity
 source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured

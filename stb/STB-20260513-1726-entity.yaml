@@ -2,14 +2,21 @@ audit_only: true
 buffer_id: STB-20260513-1726
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 199
-line_start: 199
+line_end: 55
+line_start: 55
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt woke to the taste of copper in his mouth.
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: 'Oreck traced glyphs in the damp soil—ancient Martian warding sigils. His
+  salvaged armor sputtered emerald light where it touched the symbols, pushing back
+  the cognitive poison. "The corruption targets doubt," he rasped, sweat stinging
+  his eyes. "Fix your thoughts. Anchor them." Mika knelt beside him, her lance plunged
+  into soft earth. Shield energy flared silver, carving a fragile dome of clarity.
+  Within it, the air tasted cleaner—pine and ozone instead of decay. Yet outside,
+  the jungle pulsed, alive with malice. Distant Igigi whimpers twisted into accusations:
+  "*You abandoned us.*"'
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_039_jungle_fever.md
 status: captured
 supersedes: null

@@ -1,0 +1,22 @@
+audit_only: true
+buffer_id: STB-20260513-5947
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 51
+line_start: 51
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: 'The pattern was always the same. A silent pulse. A perfect circle of absence.
+  The stone intact, but hollow. The Gruulith was not taking the anchors — it was consuming
+  their resonance, erasing the vrill current from the land''s memory. The enslaved
+  Igigi, forced to assist the reptilian handlers, mapped the fractures in the network
+  and directed the creature like a hunter directing a hound. First Shore’s scouts
+  caught glimpses of them: hollow-eyed figures in the same patched robes Zephyr had
+  worn, moving through the marsh with the stiff gait of those who had been broken
+  a long time ago.'
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_127_ember_stone.txt
+status: captured
+supersedes: null

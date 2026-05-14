@@ -2,14 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0863
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 497
-line_start: 497
+line_end: 21
+line_start: 21
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt helped Oreck to his feet—both wounded, both changed, both understanding
-  that what they'd just accomplished mattered beyond personal quest for power.
+  entity_type: CHR
+raw_quote: Oreck stared, incomprehension written across features designed for intimidation
+  rather than emotional nuance. But intelligence gleamed in those eyes—awareness that
+  something fundamental had shifted, that Geralt had crossed threshold into capabilities
+  that transcended their shared enslavement.
 signal_type: entity
 source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured

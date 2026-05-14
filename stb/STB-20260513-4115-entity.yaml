@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-4115
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 10
+line_start: 10
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: “They are not hiding anymore,” she said to Vale on the morning the final
+  connection locked into place. “They are waiting.”
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_109_the_thread_and_cage.txt
+status: captured
+supersedes: null

@@ -2,20 +2,25 @@ audit_only: true
 buffer_id: STB-20260513-1535
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 47
-line_start: 47
+line_end: 169
+line_start: 169
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt exhaled, a slow, measured sound like stone grinding. He lifted his
-  head from the obsidian wall, eyes reflecting the fractured glow of Oreck’s pathfinder
-  arrows. "The Void Spires," he began, voice resonant yet weary. "They aren't just
-  anchors. They're *keepers*. Each one... a resonance lock." He traced a clawed finger
-  on the dusty floor—a jagged spire shape. "The Gravitons, those cosmic architects...
-  they built more than spires. They seeded *guardians*. Echoes of their will." His
-  finger jabbed beside the spire. "
+  entity_type: CHR
+raw_quote: The tendrils slowly retracted, sinking back into the fused glass like weary
+  mourners returning to a grave. The obsidian plain settled, the violent heaving ceasing.
+  Where they retreated, the sickly green veins dimmed, replaced by a faint, steady
+  silver luminescence – the Heart’s own essence, cleansed, however briefly, of the
+  corrupted grief. A profound silence fell, deeper and older than before, filled not
+  with rage, but with a weary, ancient sorrow. The applicator’s warning flickered
+  out. The armor’s empathetic glow faded, leaving Geralt standing alone in the glassy
+  scar, the weight of three thousand years pressing down with a crushing, quiet understanding.
+  This was the price. This silence was the echo of his victory. He turned north, towards
+  the chasm’s edge, the Star Needle’s pull guiding him away from the Heart’s wounded
+  memory. He walked lighter, not from absolution, but from shared burden. The desert
+  watched him go, its gaze still heavy, but no longer holding him at bay.
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_037_the_circle_of_progress.md
+source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
 status: captured
 supersedes: null

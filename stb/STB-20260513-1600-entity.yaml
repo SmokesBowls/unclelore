@@ -2,24 +2,29 @@ audit_only: true
 buffer_id: STB-20260513-1600
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 107
-line_start: 107
+line_end: 151
+line_start: 151
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Below the cosmic ballet, Geralt’s army stood exposed. Undisciplined. Unanchored.
-  Violet corruption pulsed from the spire’s base—Luminara’s fracture weeping darkness.
-  VALDRASIL phantoms skimmed low, targeting the Legion’s chroniton signatures. Mika’s
-  lance flared uselessly against phased matter. "Shields! Rho formation—now!" Geralt
-  roared. Too late. A VALDRASIL solidified overhead, crystalline jaws wide. Its bio-electric
-  maw crackled—aimed at Halvar. Geralt lunged. Dragonfire met green lightning in a
-  silent detonation. Legionnaires scattered. Shields buckled under stray entropy shrapnel.
-  Two men crystallized mid-sprint—their terror frozen in obsidian glass. "They’re
-  harvesting us!" Lyra gasped. "Feeding the spire’s decay!" Geralt’s symbiosis with
-  Luminara faltered. Her light dimmed against Mars’ dissonance. Anchor points dissolved.
-  The Dragon Nebula watched—T’Zurakai’s sapphire gaze tracking every branching doom.
+  entity_type: CHR
+raw_quote: Mika nodded, her eyes reflecting his resolve. She didn't pull away entirely,
+  her hand resting firmly on his armored chest plate. "Ahead," she confirmed, her
+  voice regaining its Commander's edge, yet softened by the lingering intimacy of
+  their reunion. She gestured towards the corridor leading deeper into the Tower.
+  "Answers. Maybe... a way." Her gaze held his, acknowledging the unspoken hope –
+  the possibility woven into Zypher's promise and the Sage's ancient knowledge. They
+  stood united, commanders once more, the shared trauma of loss and retrieval forging
+  an unbreakable bond. The army shifted behind them, boots scraping on salt-crusted
+  stone, ready to follow wherever they led. Geralt inhaled deeply, the air tasting
+  of ozone, ancient stone, and the faint, metallic tang of temporal energy. He squeezed
+  Mika’s shoulder once, a silent affirmation, then turned his gaze towards the shadowed
+  passage. "Then we go," he stated, stepping forward, Mika falling naturally into
+  step beside him. The echoes of their desperate struggle faded behind them as they
+  moved as one towards the heart of the Tower and the mysteries it held. The collective
+  breath of the Legion released, a low sigh of anticipation mingling with the soft
+  tramp of boots echoing into the obsidian depths.
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
 status: captured
 supersedes: null

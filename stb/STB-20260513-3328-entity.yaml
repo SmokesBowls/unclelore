@@ -2,17 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-3328
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 42
-line_start: 42
+line_end: 345
+line_start: 345
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: Tran followed the crystalline path as it formed before him, the Crimson
-  Blood creating safe passage through the living desert. He was no longer fighting
-  against the Heart but working with it, letting his blood reveal his true nature
-  rather than seeking to dominate.
+  entity_type: CHR
+raw_quote: '"Ironspire," Tran said grimly, the name carrying weight as the Guild Spire
+  shared intelligence about activities developing at the massive city-state to the
+  east. Through network connections, he could perceive sophisticated attempts to interface
+  with the buried Needle Spire through technological methods that bypassed normal
+  magical authorization.'
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
+source_file: raw/chapters/book_15_legends_and_gods_079_mages_awakening.md
 status: captured
 supersedes: null

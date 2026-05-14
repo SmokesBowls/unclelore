@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-4174
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 573
+line_start: 573
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: '"Then you know why we need you." Onyx stopped, turning to face Vale. "When
+  you are near, the system pauses. The calibrations soften. People survive who would
+  otherwise be resolved."'
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_109_the_thread_and_cage.txt
+status: captured
+supersedes: null

@@ -1,0 +1,27 @@
+audit_only: true
+buffer_id: STB-20260513-4517
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 303
+line_start: 303
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: 'The next morning, they moved again. The sun was high when the Igigi stopped.
+  Vale continued a few paces, then turned. The Igigi was crouched beside a tide pool,
+  his hand reaching for a strand of dark seaweed that clung to the rock. He pulled
+  it free, examined it, then coiled it and tucked it into a loop on his belt. Vale
+  said nothing. He waited. The Igigi stood, tested his footing, and walked on. His
+  pace was better today—still careful, but less hesitant. The volcanic rock no longer
+  surprised him. A few hundred paces later, he stopped again. This time for a patch
+  of dried fiber—something like palm husk, bleached by the sun. He worked it loose,
+  added it to the coil at his belt, and continued. Vale watched. He did not ask. He
+  simply adjusted his own pace to match the Igigi''s stops. By midday, the Igigi had
+  gathered a small bundle: seaweed, fibers, a few strips of something that looked
+  like bark. He tied it all together with a length of vine and slung it over his shoulder.
+  Vale led on. The Igigi followed. The silence between them was ordinary now.'
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_112_eastern_system.txt
+status: captured
+supersedes: null

@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-3920
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 64
+line_start: 64
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: Renn looked at the survivors. They were thin, weak. They had been here
+  since the landing, months ago, surviving on nothing but the faint vrill that seeped
+  through the rock. It wasn’t enough.
+signal_type: entity
+source_file: raw/chapters/book_20_the_discordant_pulse_south_104_the_rising_tide.md
+status: captured
+supersedes: null

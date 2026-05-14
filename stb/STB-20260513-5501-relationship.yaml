@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-5501
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 441
+line_start: 441
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: This was harder. Letting the Cliff Giants decide whether to trust them.
+  Whether to let them pass. Whether to be part of something larger.
+signal_type: relationship
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_119_resonance_of_the_first_point.txt
+status: captured
+supersedes: null

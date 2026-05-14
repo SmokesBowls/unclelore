@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5841
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 7
+line_start: 7
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale's form flickered—not the usual silver-black dispersion, but a stuttering
+  pulse like a skipped heartbeat. He lifted his hands, studying the way his fingers
+  blurred at the edges where vrill and void currents tangled. "A person," he repeated,
+  the words fracturing midair. "That makes no mathematical sense."
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_125_farwell.txt
+status: captured
+supersedes: null

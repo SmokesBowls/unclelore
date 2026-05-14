@@ -2,15 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0938
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 53
-line_start: 53
+line_end: 367
+line_start: 367
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt's hand rose toward the helm controls, muscle memory prepared to
-  trigger the sealing mechanism that would hide his features behind draconic faceplate.
+  entity_type: CHR
+raw_quote: '"NO!" Geralt screamed—not at the illusions but at himself, at the fear
+  that perhaps the visions carried truth, that perhaps claiming godlike power would
+  inevitably corrupt despite intentions.'
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured
 supersedes: null

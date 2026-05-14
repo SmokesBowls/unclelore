@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-3692
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 106
-line_start: 106
+line_end: 148
+line_start: 148
 parsed_payload:
   confidence: medium
-  entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: '"Wait," Tran called out. The dragon mail''s enhanced senses detected something
-  others missed. "There''s something already here. A consciousness, sleeping within
-  the null state."'
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: 'Anunnaki presence detected at Mars Void Spire. Attempting to establish
+  control protocols. Purpose: unknown. Threat level: severe.'
 signal_type: entity
-source_file: raw/chapters/book_19_worthy_opponents_north_101_the_hidden_resonance.md
+source_file: raw/chapters/book_17_ancestral_debt_091_the_weight_of_memory.md
 status: captured
 supersedes: null

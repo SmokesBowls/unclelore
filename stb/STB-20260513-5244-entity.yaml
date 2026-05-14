@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-5244
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 463
+line_start: 463
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: Instead, he walked east. Past the training grounds where Brak and Keth
+  were already working, their null-pressure soft and coordinated as they guided a
+  new slab into place. Past the channel gates where Sera knelt beside the stagnant
+  vrill pool, her palm pressed to the stone, her face set with the quiet focus of
+  someone preparing for a small, necessary death.
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_117_the_constant_calibration_living_as_anchor.txt
+status: captured
+supersedes: null

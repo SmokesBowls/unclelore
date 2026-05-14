@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-6134
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 123
+line_start: 123
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The audit was assigned to a mid-level compliance officer whose specialty
+  was labor efficiency. The officer ran the numbers. The delay was real. The cause
+  was unknown. The officer recommended recalibration of the resonance collars for
+  the affected Igigi. The recalibration was authorized. The collars were adjusted.
+  The half-second delay did not change.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_130_within_tolerance.txt
+status: captured
+supersedes: null

@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-4906
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 386
+line_start: 386
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: He didn’t speak at first. He just stood beside Vale, looking up at the
+  crystal veins catching the last of the daylight. The air smelled of wet stone, salt,
+  and the faint ozone tang of vrill settling into the channels.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_114_resonance_of_stone.txt
+status: captured
+supersedes: null

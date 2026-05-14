@@ -2,20 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2589
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 135
-line_start: 135
+line_end: 15
+line_start: 15
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Crystal rain came first—needle-thin shards of frozen oxygen that screamed
-  as they fell. Geralt ducked as one grazed his temple, leaving a streak of frostburn
-  where it kissed skin. The shards weren't just ice; they were memories. Each carried
-  echoes of dead stars, and where they struck Pyrocast's wings, the crimson dragon
-  hissed as decades of his own past unwound in jagged flashes. Kyh's shadow-form flickered
-  wildly beside them, her edges dissolving under the assault. "Don't *listen* to them!"
-  she gasped, forcing herself back into coherence.
+  entity_type: CHR
+raw_quote: Geralt leaned against the cold bulkhead, the Dragon Mail a second skin
+  of weary power. "So we cannot portal. We fly."
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
+source_file: raw/chapters/book_09_bureaucratic_debt_054_tue_lunar_spire.md
 status: captured
 supersedes: null

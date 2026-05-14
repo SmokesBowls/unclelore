@@ -2,14 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-2189
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 42
-line_start: 42
+line_end: 249
+line_start: 249
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: “I was,” Geralt said, his voice too rough for this room full of soft sounds.
+  entity_type: CHR
+raw_quote: '"Can we fly?" Geralt thought, desperate to get to the interior, to Mika.'
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_046_not_like_this.md
 status: captured
 supersedes: null

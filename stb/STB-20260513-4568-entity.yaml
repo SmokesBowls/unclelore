@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-4568
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 366
+line_start: 366
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: 'They stopped near a split in the rock where a thin line of shade cut across
+  the ground. Vale drank from the leafbowl, passed it. Then: "You said it was still
+  alive." The Igigi nodded. Vale looked at him. "What is it?" The Igigi didn''t answer
+  right away. He crouched, picked up a fragment of dark stone, rolled it between his
+  fingers. "Not like anything you''ve seen on land." A pause. "Built for the deep.
+  Pressure. Silence. Time." He glanced toward the coast—toward the water. "Doesn''t
+  rush. Doesn''t waste." Another pause. "Just… is."'
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_112_eastern_system.txt
+status: captured
+supersedes: null

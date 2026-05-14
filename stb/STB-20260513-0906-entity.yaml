@@ -2,15 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-0906
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 769
-line_start: 769
+line_end: 181
+line_start: 181
 parsed_payload:
   confidence: medium
-  entity_name: Nehereti
-  entity_type: UNKNOWN
-raw_quote: '"The Nehereti gave me speech. Gave me spirit-walking. Gifts stolen when
-  Anunnaki modified our ancestors. I can share these gifts. Give you voice. Give all
-  of us the ability to communicate beyond gesture-language''s limitations."'
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: '"My partner has opinions," Geralt corrected. "And yes. Many opinions.
+  You''ll learn to tolerate them if we survive long enough."'
 signal_type: entity
 source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured

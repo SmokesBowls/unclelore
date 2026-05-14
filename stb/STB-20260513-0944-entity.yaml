@@ -2,16 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-0944
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 85
-line_start: 85
+line_end: 425
+line_start: 425
 parsed_payload:
   confidence: medium
-  entity_name: Galactic Federation
-  entity_type: UNKNOWN
-raw_quote: '"I am Enforcer Vel''thara of the Galactic Federation Compliance Division.
-  We are here to verify Anunnaki evacuation protocols have been properly executed
-  and to assess any irregularities requiring corrective action."'
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: '"Oreck, wait—" Geralt started.'
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured
 supersedes: null

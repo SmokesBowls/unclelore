@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3891
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 201
+line_start: 201
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: 'They cleared the nearest structures first: a ring of low buildings that
+  might have been workshops or dwellings, their stone roofs collapsed but their walls
+  still standing. Inside, they found nothing but sediment and the roots of swamp trees—but
+  the walls themselves held traces of vrill, faint as old scars.'
+signal_type: entity
+source_file: raw/chapters/book_20_the_discordant_pulse_south_103_the_second_song_resonance_of_a_broken_needle.md
+status: captured
+supersedes: null

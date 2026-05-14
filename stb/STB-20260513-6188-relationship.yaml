@@ -1,0 +1,24 @@
+audit_only: true
+buffer_id: STB-20260513-6188
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 33
+line_start: 33
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: She had been kneeling against the chimney for hours—for days, for weeks,
+  the time had blurred into a single continuous pressure. The fragment was heavy in
+  her chest, the second syllable held at the back of her throat, the lean of the warmth
+  tugging her attention eastward. When the lightning struck, the chimney stone hummed
+  with it—a faint, high frequency that the occupation's instruments would have logged
+  as electromagnetic interference and dismissed. The old woman did not dismiss it.
+  She had been feeling the lightning's pulse in the stone for decades, and she had
+  learned, slowly and without language, that the pulse was part of the same warmth
+  that was spreading through the network.
+signal_type: relationship
+source_file: raw/chapters/book_26_the_seam_long_dark_south_132_white_lightning.txt
+status: captured
+supersedes: null

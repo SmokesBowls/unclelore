@@ -1,0 +1,15 @@
+audit_only: true
+buffer_id: STB-20260513-6319
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 832
+line_start: 832
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: Not Anunnaki. Reptilians.
+signal_type: entity
+source_file: raw/chapters/book_27_the_seam_deadly_words_south_1139_1139.txt
+status: captured
+supersedes: null

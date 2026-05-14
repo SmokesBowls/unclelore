@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-4587
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 393
+line_start: 393
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: As the sun dropped lower, Vale noticed it. Not ahead. Not on the horizon.
+  Closer. A brief distortion along the ground—like heat over stone, but wrong. It
+  flickered once, close enough to touch… then was gone. He stopped. Looked at where
+  it had been. Waited. Nothing. He moved again.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_112_eastern_system.txt
+status: captured
+supersedes: null

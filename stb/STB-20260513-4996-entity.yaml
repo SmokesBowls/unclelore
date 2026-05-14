@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-4996
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 366
+line_start: 366
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: Brak watched from a few paces back. The swamp giant's milky eyes were fixed
+  on Sera's hand, its null-pressure probing the channel with the careful attention
+  of something learning a new sense. It did not speak. But its crystal patterns—those
+  deep, spiraling grooves—shifted slightly, catching the vrill's light and holding
+  it.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_115_the_shape_of_asking.txt
+status: captured
+supersedes: null

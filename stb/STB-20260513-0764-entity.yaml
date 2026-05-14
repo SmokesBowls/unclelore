@@ -2,17 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0764
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 410
-line_start: 410
+line_end: 1309
+line_start: 1309
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt thought of the compound. Of Mika teaching gesture-language. Of Jin,
-  Kael, Tess, Vale, and Ren recovering their individuality. Of Oreck healing from
-  wounds that should have killed him. Of three hundred freed slaves building lives
-  from trauma's aftermath.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: The Nameless One reached out with telekinesis refined by the Applicator's
+  knowledge. Not attacking the Anunnaki directly—that would be futile. Instead targeting
+  the ground beneath him. The stone that connected to Earth's energy grid. The substrate
+  through which power flowed to sustain the golden figure's reality-bending abilities.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_026_dragonmail.md
+source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
 status: captured
 supersedes: null

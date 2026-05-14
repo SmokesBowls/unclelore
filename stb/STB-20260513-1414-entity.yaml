@@ -2,24 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-1414
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 77
-line_start: 77
+line_end: 342
+line_start: 342
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Kaelen appeared beside him, untouched by the rain. "The vortex leads to
-  the unmaking point – Xal'Zirith’s scar. Within lies the echo of the 250. But entering
-  requires more than navigation." She fixed him with her galactic eyes. "To pull them
-  out, you must resonate *against* the scar itself. Not gently. Violently. Channel
-  your grief, your rage, your defiance – the armor’s fire, the applicator’s precision
-  – into a temporal shockwave. Rip them free." Geralt stared into the swirling chaos.
-  He saw Mika falling. The Five dissolving. The 250 erased. Fury ignited, cold and
-  pure. The applicator’s logic fused with Zaron’s primal defiance. "No gentle pull,"
-  he growled, power coiling within him. "A rip." Kaelen nodded once. "Make the scar
-  bleed time. Go." Geralt stepped into the vortex. Light swallowed him. The retrieval
-  began.
+  entity_type: CHR
+raw_quote: Oreck didn't turn. "Residual energy trails," he murmured, the harmonic
+  layer beneath his voice more pronounced. "Like footprints in wet sand, but fading.
+  The Sage... Zephyr... his passage burns bright. Older than the mountains." He finally
+  looked at her, his eyes catching the last of the twilight. "The Five are with him.
+  Their signatures are distinct. Faint" He paused, the lenses dimming slightly. "Geralt's
+  trail... i cannot see.. but we will find him mika.. dont think about it too much."
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
+source_file: raw/chapters/book_06_the_ragnarok_033_the_march.md
 status: captured
 supersedes: null

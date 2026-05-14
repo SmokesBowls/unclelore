@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-0560
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 27
+line_start: 27
+parsed_payload:
+  predicate: serves
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: '"Transforms," Torrhen corrected, his ancient eyes still holding depths
+  that reflected wisdom beyond individual calculation, even as his physical form continued
+  its gradual transition toward universal existence. "The wisdom remains, but serves
+  universal access rather than individual possession. The perspective continues, but
+  guides all consciousness rather than single awareness. The connection endures, but
+  encompasses every partnership that chooses synthesis over separation."'
+signal_type: relationship
+source_file: raw/chapters/book_04_sage_saga_022_final_calculation.md
+status: captured
+supersedes: null

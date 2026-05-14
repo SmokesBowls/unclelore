@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-4871
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 118
+line_start: 118
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: The needle pulsed. Vale felt it in his chest—a resonance, a recognition.
+  He thought of the six thousand years he had spent in the stone, fed by songs he
+  did not understand, held by voices that did not know what they were holding. He
+  had been alone too. He had not known it until he woke.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_114_resonance_of_stone.txt
+status: captured
+supersedes: null

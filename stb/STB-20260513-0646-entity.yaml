@@ -2,16 +2,21 @@ audit_only: true
 buffer_id: STB-20260513-0646
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 611
-line_start: 611
+line_end: 68
+line_start: 68
 parsed_payload:
   confidence: medium
   entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: 'Another concept-package, this one carrying something that might have been
-  regret if consciousness constructed from Anunnaki technology could experience such
-  emotion:'
+  entity_type: FAC
+raw_quote: 'The Nameless One heard them. Understood them. This was perhaps the cruelest
+  aspect of their creation: the builders had woven comprehension into their genetic
+  structure, ensuring their tools could receive instruction. But they had not included
+  the capacity for response. Vocal cords existed, but frozen. Mouth and tongue and
+  lips remained locked, denied the coordination required for speech. The Nameless
+  Ones could only listen, only absorb, only internalize the discussions of gods who
+  spoke over them as though they were objects—because to the Anunnaki, that''s precisely
+  what they were.'
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
+source_file: raw/chapters/book_05_the_nameless_one_024_the_first_spark.md
 status: captured
 supersedes: null

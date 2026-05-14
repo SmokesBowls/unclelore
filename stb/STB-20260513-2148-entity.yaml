@@ -2,17 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-2148
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 75
-line_start: 75
+line_end: 513
+line_start: 513
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt felt the disturbance through the network’s echo—a pressure, a wrongness.
-  He was at Falcon Ridge, tending the little garden Mika had started. He straightened,
-  his wings unfolding in a single, sharp motion. He didn’t run. He leapt from the
-  ridge, caught the air, and glided toward Ironspire.
+  entity_type: CHR
+raw_quote: 'The Presence of Absence was a physical thing. Geralt sat apart, staring
+  at the golden peak. The bond was… quiet. Zaron was there, a somber, watchful presence.
+  But where Luminaire had been was a shaped silence, an echo-chamber where only the
+  ghost of her last words lingered: “This is caring.”'
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_048_the_ledger_born.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_045_the_hub_falls.md
 status: captured
 supersedes: null

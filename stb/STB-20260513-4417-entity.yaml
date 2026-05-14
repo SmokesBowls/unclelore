@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-4417
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 670
+line_start: 670
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: “The passes are open now. The Gruulith are buried. The ice is gone.” The
+  Warleader’s voice was steady, but there was something in it that Vale had not heard
+  before. Not forgiveness. Recognition. “You will have a place. But you will earn
+  it. The same way we earned ours. By working. By learning. By becoming something
+  that was not planned.”
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_111_the_resonance_a_garden_under_shadow.txt
+status: captured
+supersedes: null

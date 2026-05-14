@@ -2,19 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-3179
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 381
-line_start: 381
+line_end: 127
+line_start: 127
 parsed_payload:
   confidence: medium
-  entity_name: Void Spire Network
-  entity_type: UNKNOWN
-raw_quote: The evidence revealed through deep quantum analysis showed that her offspring
-  had discovered methods for using the Void Spire network that enhanced rather than
-  opposed its fundamental design. Instead of attempting to destroy or capture systems
-  designed for consciousness coordination, they had learned to work with those systems
-  to facilitate awakening that prepared the planetary population for participation
-  in galactic civilization.
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: Without hesitation, Tran disconnected from the Needle's interface systems
+  and ran toward the location where his enhanced perception indicated the impact had
+  occurred. What he found challenged his understanding of what was possible through
+  conscious development and cosmic enhancement of individual capabilities, even after
+  his recent experiences with revelation and transformation that had pushed him beyond
+  normal human limitations.
 signal_type: entity
-source_file: raw/chapters/book_15_legends_and_gods_078_the_queens_return.md
+source_file: raw/chapters/book_12_forged_identity_069_divergent_paths.md
 status: captured
 supersedes: null

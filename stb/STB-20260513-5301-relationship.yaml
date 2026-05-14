@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-5301
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 39
+line_start: 39
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: '"Because I care about what they decide," he said. "Because this wall matters.
+  Because I''m part of this place, and I want to be present for the moments that shape
+  it." He paused. "And because leaving feels like abandoning them. Even when I know
+  staying would make things worse."'
+signal_type: relationship
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_118_the_constant_and_friction_of_becoming.txt
+status: captured
+supersedes: null

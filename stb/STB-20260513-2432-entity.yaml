@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-2432
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 109
-line_start: 109
+line_end: 522
+line_start: 522
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Host. The voice in Geralt’s head was his Applicator, but its tone was…
-  strained. I am detecting a carrier wave. Extremely low frequency. It is not targeting
-  us. It is saturating the area. The Proto-Dracos are resonating with it.
+  entity_type: CHR
+raw_quote: Oreck cleaved through shadow-tendrils that tried to protect the Sovereign's
+  core. Geralt's dragon armor blazed with energy, his fists striking with the weight
+  of mountains. Luminaire, weakened but determined, added her flickering Light to
+  the attack.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_053_the_twilight_city.md
+source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
 status: captured
 supersedes: null

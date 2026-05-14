@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-3477
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 21
-line_start: 21
+line_end: 158
+line_start: 158
 parsed_payload:
   confidence: medium
-  entity_name: Aeon Keepers
-  entity_type: UNKNOWN
-raw_quote: Caelum exchanged a glance with Thang, then nodded. "The Aeon Keepers created
-  both the Dragon Mail and the Nefretti. If any part of Zaron's consciousness recognizes
-  this place, we should follow its lead."
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: '"The heads regenerate!" Thang called, unleashing a spear of solar energy
+  that cauterized the wound Tran had inflicted. "We need to strike the core!"'
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_087_the_breath_of_life.md
+source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
 status: captured
 supersedes: null

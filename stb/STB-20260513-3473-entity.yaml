@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-3473
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 16
-line_start: 16
+line_end: 146
+line_start: 146
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: As if responding to Tran's thoughts, the Dragon Mail suddenly trembled
-  against his skin, plates shifting slightly with a sound like distant whispers. One
-  of the shoulder guards extended unexpectedly, nearly unbalancing him.
+  entity_type: CHR
+raw_quote: '"Tran," he called over his shoulder, "your blood can weaken its regeneration!
+  Target the central mass!"'
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_087_the_breath_of_life.md
+source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
 status: captured
 supersedes: null

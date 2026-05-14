@@ -2,16 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-2244
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 468
-line_start: 468
+line_end: 190
+line_start: 190
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: In the screaming neural fire, Geralt found a memory. Not his own. Mika's.
-  The moment in the archives, her hand on the First Tongue tablet, choosing to trust
-  a future she would not see. Choosing to become a teacher for ages unborn.
+  entity_type: CHR
+raw_quote: Weeks later, Geralt walked through the bustling streets of Ironspire alone.
+  He carried a large, cloth-wrapped package. The town was noise and life—children
+  shouting, blacksmiths hammering, the smell of baking bread. At the center of town
+  stood the new library, a grand structure of stone and glass, Celly Sundrift's greatest
+  project.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_047_mika.md
 status: captured
 supersedes: null

@@ -2,18 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-0266
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 193
-line_start: 193
+line_end: 107
+line_start: 107
 parsed_payload:
   confidence: medium
-  entity_name: Neferati
-  entity_type: UNKNOWN
-raw_quote: Torhh considered the question, its ancient consciousness processing through
-  frameworks that five hundred years of Garden-building had established. The Neferati
-  had taught that trauma didn't excuse harm but could explain it. That victims could
-  become perpetrators without ceasing to be victims. That choice existed even in constrained
-  circumstances, and how beings chose defined them more than what constrained them.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: The Igigi could not respond. Anunnaki commands prevented it.
 signal_type: entity
-source_file: raw/chapters/book_03_the_reckoning_009_stalemate_departure_the_first_coming.md
+source_file: raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
 status: captured
 supersedes: null

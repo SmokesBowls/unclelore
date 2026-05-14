@@ -2,17 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-2752
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 335
-line_start: 335
+line_end: 129
+line_start: 129
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Zypher's vortex eyes darkened to pits. "The clone will be ready at dawn,"
-  he said. "It will walk into her light willingly. You—" he pointed at Geralt's chest,
-  where the Dragon Mail's divinity now fused with his ribs, "—will leave tonight.
-  In silence."
+  entity_type: CHR
+raw_quote: Geralt didn't stop him. Some roads only fit one set of footprints.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
 status: captured
 supersedes: null

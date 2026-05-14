@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-0446
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 46
+line_start: 46
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: '"The Anunnaki have detected our council session," he announced, his voice
+  carrying sudden urgency. "Battle-forms are converging on this location. We have
+  approximately four-point-seven-three minutes before breach protocols activate."'
+signal_type: entity
+source_file: raw/chapters/book_04_sage_saga_016_the_choice_third_coming.md
+status: captured
+supersedes: null

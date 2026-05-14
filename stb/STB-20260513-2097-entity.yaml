@@ -2,16 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-2097
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 337
-line_start: 337
+line_end: 44
+line_start: 44
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: A memory, a choice, was targeted. The moment Geralt chose to crash the
-  Anunnaki city-ship at the Heart of Faraxar, sacrificing his legion to save a continent.
-  The cornerstone of his legend. The source of his deepest guilt.
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: 'Interior – Red Hand & Geralt:'
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_046_not_like_this.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_045_the_hub_falls.md
 status: captured
 supersedes: null

@@ -2,17 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0701
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 1427
-line_start: 1427
+line_end: 917
+line_start: 917
 parsed_payload:
   confidence: medium
   entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: The Anunnaki struggled. Threw power that would have obliterated normal
-  consciousness. Reality warped around them, space folding, laws of physics becoming
-  negotiable as divine being fought for survival against creature he'd considered
-  beneath notice.
+  entity_type: FAC
+raw_quote: The Overseers stood frozen, uncertain. Their masters had just been publicly
+  commanded by forces they couldn't challenge. The hierarchy they'd relied on—the
+  certainty of Anunnaki supremacy—had revealed itself conditional upon larger powers'
+  tolerance.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
+source_file: raw/chapters/book_05_the_nameless_one_024_the_first_spark.md
 status: captured
 supersedes: null

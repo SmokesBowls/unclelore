@@ -2,17 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-3670
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 196
-line_start: 196
+line_end: 167
+line_start: 167
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: Behind them, the Igigi worked with new purpose—not to perfect their calculations,
-  but to balance them with intuition. Some problems, they'd learned, weren't meant
-  to be solved. They were meant to be danced with, sung to, and occasionally ignored
-  entirely.
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: '"What happens now?" Tran asked, still adjusting to the enhanced connection
+  with the armor.'
 signal_type: entity
-source_file: raw/chapters/book_19_worthy_opponents_north_098_depths_of_memory.md
+source_file: raw/chapters/book_17_ancestral_debt_089_the_white_mirror.md
 status: captured
 supersedes: null

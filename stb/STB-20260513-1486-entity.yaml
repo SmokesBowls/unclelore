@@ -2,26 +2,29 @@ audit_only: true
 buffer_id: STB-20260513-1486
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 65
-line_start: 65
+line_end: 53
+line_start: 53
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'Geralt forced his breathing steady. Panic was death here. He met Althurion’s
-  sky-pale eyes. "We seek not violence, but understanding," he called out, voice straining
-  against the harmonic pressure. He gestured to the Star Needle emblem. "This resonance
-  calls us north. Not for conquest. To mend what was broken." He glanced at Jorik,
-  suspended nearby. "The bow defends. It does not initiate. We climb seeking knowledge
-  buried deep – knowledge of the Needle Spire you guard." He didn''t plead. He stated.
-  He anchored himself in his purpose: Mika, the Five, the scattered Legion. The applicator
-  flared weakly, attempting to map the Giant’s harmonic structure – impossibly complex.
-  Althurion tilted his massive head, studying Geralt. The air thrummed with silent
-  assessment. The pressure didn''t lessen, but it shifted – less rejection, more profound
-  scrutiny. **"Understanding?"** the harmonics resonated, tinged with skepticism colder
-  than the wind. **"Mortals grasp fragments. They shatter harmonies."** His gaze lingered
-  on the armor. **"This vessel speaks of shattering."**'
+  entity_type: CHR
+raw_quote: 'They pressed the attack. Geralt targeted stolen moments – a lion’s roar
+  silenced mid-roar, a raindrop falling properly. Each restoration weakened the predator.
+  Its vortex eye dimmed. It shrieked in fury, diving straight for the locus fracture.
+  "It seeks escape!" Kaelen cried. "Seal the fracture *as* it enters! Trap it in the
+  paradox it created!" Geralt saw the sequence: predator enters, fracture seals. But
+  sealing required immense power focused precisely at the moment of transition. He
+  sprinted towards the fracture, feeling its chaotic pull threaten to unravel him.
+  The predator was a blur of bone and stolen light ahead. Geralt reached the fracture''s
+  edge. He poured everything – applicator precision, armor power, his desperate will
+  – into a single command: *Anchor. Seal. NOW.* He slammed his hands onto the fracture''s
+  shimmering edge as the predator crossed the threshold. Reality screamed. The fracture
+  snapped shut like a closing jaw, severing the predator’s trailing leg-bone. A final,
+  agonized screech echoed from nowhere, then silence. The chamber stabilized. Only
+  the frozen cubs remained, silent witnesses. Geralt collapsed to his knees, gasping.
+  The locus fracture was sealed. The paradox predator was gone. Trapped forever in
+  the discontinuity it craved.'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
+source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
 status: captured
 supersedes: null

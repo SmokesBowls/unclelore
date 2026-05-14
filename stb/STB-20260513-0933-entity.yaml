@@ -2,17 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0933
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 37
-line_start: 37
+line_end: 319
+line_start: 319
 parsed_payload:
   confidence: medium
-  entity_name: Galactic Federation
-  entity_type: UNKNOWN
-raw_quote: Host, the Applicator's presence consolidated with sharp attention. Galactic
-  Federation operates under different protocols than Anunnaki military. They're authorized
-  to confiscate unauthorized artifacts, to arrest individuals violating cosmic law,
-  to enforce regulations that supersede local authority.
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: Geralt focused—pulling on the Applicator's power, on telekinetic capability
+  they'd developed during compound work, on desperate need to help Oreck who was sacrificing
+  himself again for alliance barely hours old.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured
 supersedes: null

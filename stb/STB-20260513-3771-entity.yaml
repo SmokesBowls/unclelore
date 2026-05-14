@@ -2,18 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3771
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 107
-line_start: 107
+line_end: 128
+line_start: 128
 parsed_payload:
   confidence: medium
-  entity_name: Nephoretti
-  entity_type: UNKNOWN
-raw_quote: The other Nephoretti were already moving, abandoning their half-built shelters,
-  gathering toward the center of the plaza where the broken spire loomed. But the
-  giants were faster than their size suggested. The lead one—its hide mottled green-black
-  with swamp growth, its limbs thicker and more jagged than the northern variants—lumbered
-  onto the ancient paving in three strides.
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: They stepped forward, approaching the transparent floor where Helix continued
+  their endless mathematics. The other Igigi recoiled, probability streams flashing
+  warning patterns.
 signal_type: entity
-source_file: raw/chapters/book_20_the_discordant_pulse_south_103_the_second_song_resonance_of_a_broken_needle.md
+source_file: raw/chapters/book_19_worthy_opponents_north_098_depths_of_memory.md
 status: captured
 supersedes: null

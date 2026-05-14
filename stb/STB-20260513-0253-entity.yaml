@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-0253
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 119
-line_start: 119
+line_end: 57
+line_start: 57
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: 'Resource Expenditure: 847 Anunnaki solar cycles invested. 4,247 Reptilian
-  units terminated. 167 Igigi terminated. Manufacturing infrastructure stable and
-  operational. Breeding programs sustainable without direct oversight.'
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: Pazuzu stood at the base of the mountain and felt the vrill-signature pulsing
+  through stone like a heartbeat.
 signal_type: entity
-source_file: raw/chapters/book_03_the_reckoning_009_stalemate_departure_the_first_coming.md
+source_file: raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
 status: captured
 supersedes: null

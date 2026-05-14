@@ -2,17 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-3087
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 276
-line_start: 276
+line_end: 353
+line_start: 353
 parsed_payload:
   confidence: medium
-  entity_name: Aeon Keepers
-  entity_type: UNKNOWN
-raw_quote: '"The Aeon Keepers," she whispered, the name emerging from memories that
-  weren''t her own but which felt true in ways that transcended simple recognition,
-  carrying weight that spoke of cosmic significance and responsibilities that operated
-  on scales encompassing the welfare of entire galaxies.'
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: As Tran pressed his palm to Asag's central consciousness node, black oil
+  began to ooze from the guardian's joints—thick, viscous fluid that stank of burnt
+  neurotransmitters and corrupted memories. The substance hissed where it touched
+  stone, eating through rock like acid while releasing fumes that made their eyes
+  water.
 signal_type: entity
-source_file: raw/chapters/book_12_forged_identity_070_spheres_truth.md
+source_file: raw/chapters/book_11_blood_and_legacy_065_secrets_of_the_deep.md
 status: captured
 supersedes: null

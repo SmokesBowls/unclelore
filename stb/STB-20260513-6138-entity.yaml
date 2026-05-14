@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-6138
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 153
+line_start: 153
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: It began as a softening. The stone at the corridor's eastern end, where
+  the passage met the old workshop district, had been cold for a year. The vrill channels
+  that once ran through it had been severed during the siege and never restored. The
+  occupation's instruments registered the stone as inert—zero resonance, zero thermal
+  anomaly, zero reason to monitor. The instruments were correct. The stone was inert.
+  And then it was not.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_130_within_tolerance.txt
+status: captured
+supersedes: null

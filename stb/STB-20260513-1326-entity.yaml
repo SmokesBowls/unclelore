@@ -2,21 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-1326
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 304
-line_start: 304
+line_end: 1014
+line_start: 1014
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: A glint caught her eye near the base of the nearest ridge – not metal,
-  but something darker, wetter. She scrambled down the scree slope, stones skittering
-  beneath her. Half-buried in rust-colored sand lay a scrap of heavy, dark fabric,
-  stiff with dried blood. Geralt’s cloak. Her breath hitched.  He’d been here. Alive?
-  Captive? She gripped the bloody cloth, its texture rough and familiar against her
-  palm, a tangible anchor in the disorienting void. The low hum intensified, thrumming
-  through her bones. Whatever lay beyond that ridge held answers. And Geralt. She
-  followed the blood tracks, the desert sun glaring down on her solitary defiance.
+  entity_type: CHR
+raw_quote: '*The crescent mountains,* Geralt projected while consciousness focused
+  on single goal, while everything else became background noise to purpose that transcended
+  survival. *There. We crash through them. Make recovery so expensive that they question
+  whether occupation is worth investment.*'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_033_the_march.md
+source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured
 supersedes: null

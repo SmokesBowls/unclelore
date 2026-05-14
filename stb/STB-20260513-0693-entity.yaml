@@ -2,15 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-0693
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 1405
-line_start: 1405
+line_end: 865
+line_start: 865
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: They tumbled together, Reptilian and Anunnaki, two beings who'd served
-  the same masters finding themselves on opposite sides of conflict neither had anticipated.
+  entity_name: Galactic Federation
+  entity_type: FAC
+raw_quote: The Galactic Federation's Arrival
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
+source_file: raw/chapters/book_05_the_nameless_one_024_the_first_spark.md
 status: captured
 supersedes: null

@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-5072
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 127
+line_start: 127
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: The lead Nephoretti reached them first. She was young—barely past her first
+  century—and her face was streaked with tears and dust.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_116_keepers_recognition.txt
+status: captured
+supersedes: null

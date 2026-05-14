@@ -2,18 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3703
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 34
-line_start: 34
+line_end: 105
+line_start: 105
 parsed_payload:
   confidence: medium
-  entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: Tran came next, the Dragon Mail complete and singing with power. But something
-  was different—there was an emptiness in the armor that hadn't been there before,
-  as if it was waiting for something. Zaron's consciousness, so recently unified with
-  Tran's, seemed subdued, expectant. Those who knew the armor's history could sense
-  the anticipation—the final piece of the ancient puzzle was about to fall into place.
+  entity_name: Aeon Keepers
+  entity_type: FAC
+raw_quote: '"I... I think so." With Lyra''s help, the being stood on unsteady legs.
+  "But where? I have no people. The Nefretti fear what I''ve become. The Aeon Keepers
+  would see me as an abomination."'
 signal_type: entity
-source_file: raw/chapters/book_19_worthy_opponents_north_102_convergence_on_mars.md
+source_file: raw/chapters/book_18_inquisition_of_yourself_093_voices_between_worlds.md
 status: captured
 supersedes: null

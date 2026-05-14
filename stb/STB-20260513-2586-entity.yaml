@@ -2,17 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2586
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 121
-line_start: 121
+line_end: 361
+line_start: 361
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt exhaled. Somewhere, Earth was bleeding white. Somewhere, the Queen's
-  frequency was rewriting human memory into obedient silence. And somewhere—perhaps
-  in the heart of that pulsing nebula—there were dragons old enough to remember how
-  this story began.
+  entity_type: CHR
+raw_quote: Geralt stood in the darkness of the orphaned spire, the silence in his
+  head a new kind of burden. The victory tasted of ash and sacrifice.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
+source_file: raw/chapters/book_09_bureaucratic_debt_053_the_twilight_city.md
 status: captured
 supersedes: null

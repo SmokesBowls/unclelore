@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0730
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 195
-line_start: 195
+line_end: 611
+line_start: 611
 parsed_payload:
   confidence: medium
   entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: These were beings who'd watched civilizations rise and fall. Who'd observed
-  the Anunnaki's arrival and conquest. Who possessed power to intervene but were bound
-  by laws that made them witnesses rather than actors.
+  entity_type: FAC
+raw_quote: 'Another concept-package, this one carrying something that might have been
+  regret if consciousness constructed from Anunnaki technology could experience such
+  emotion:'
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_026_dragonmail.md
+source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
 status: captured
 supersedes: null

@@ -2,17 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0941
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 65
-line_start: 65
+line_end: 385
+line_start: 385
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"Good." Geralt''s voice carried conviction that surprised even himself.
-  "Let them know. I freed these people. I killed the Overseer. I claimed this armor.
-  I''m not ashamed of any of it, and I won''t hide behind a mask like I did something
-  wrong."'
+  entity_type: CHR
+raw_quote: '"I already am capable of atrocity," Geralt answered honestly. "I puppeted
+  five people. Violated their consciousness. Used them as tools. The armor doesn''t
+  create that capacity—it just makes consequences more severe."'
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured
 supersedes: null

@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-4431
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 732
+line_start: 732
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: The Nephoretti sang first. It was not the old song—the one that had held
+  the needle for six thousand years. It was something new. Seren led them, her voice
+  clear, her notes carrying the shape of the ground they would build. The vrill rose
+  from the water, from the stone, from the salt-crusted sand, and began to weave.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_111_the_resonance_a_garden_under_shadow.txt
+status: captured
+supersedes: null

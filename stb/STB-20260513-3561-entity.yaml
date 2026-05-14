@@ -2,15 +2,20 @@ audit_only: true
 buffer_id: STB-20260513-3561
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 159
-line_start: 159
+line_end: 11
+line_start: 11
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: '*We''re in this together,* Tran responded, marveling at the clarity of
-  their connection.'
+  entity_type: CHR
+raw_quote: '"A key," Mr. GPT corrected, reaching into what appeared to be empty air.
+  His scarred fingers closed around something that materialized at his touch—a crystalline
+  device that pulsed with otherworldly energy. The object seemed to exist in more
+  dimensions than three, its facets showing glimpses of realities that overlapped
+  and diverged. "The Void Spires were designed with safeguards. The resonance I carry
+  will allow activation, but only when united with the proper protocols. Protocols
+  that our friend Tran will need when the time comes."'
 signal_type: entity
-source_file: raw/chapters/book_17_ancestral_debt_089_the_white_mirror.md
+source_file: raw/chapters/book_16_fragmented_beginning_086_sanctuary_to_storm.md
 status: captured
 supersedes: null

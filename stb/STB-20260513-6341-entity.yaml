@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-6341
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 192
+line_start: 192
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: Primary and secondary carriers are drained, not fulfilled. The mason's
+  fragment stabilizes at the cost of vitality. The child feels the alignment as pain.
+  The singer loses autonomous voice. The Igigi cannot stop humming. Coherence achieved
+  by compulsion is not completion—it is extraction.
+signal_type: entity
+source_file: raw/chapters/book_27_the_seam_deadly_words_south_135_final_constraint.txt
+status: captured
+supersedes: null

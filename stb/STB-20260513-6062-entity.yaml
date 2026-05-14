@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-6062
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 35
+line_start: 35
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: It did not flee. It had never fled. It relocated to the outer corridor,
+  its presence pulling back like a tide that had found no shore. The dampeners were
+  still emitting their useless counter-frequency. The instruments were still logging.
+  The circle of absence in the chamber's outer ring remained—a perfect arc of erased
+  stone, ending exactly where Vale's shadow began. The chamber was scarred, but the
+  center held.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_129_calibration_drift.txt
+status: captured
+supersedes: null

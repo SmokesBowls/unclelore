@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5416
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 15
+line_start: 15
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: Zephyr walked beside Vale as the morning wore on. "She's readin' the resonance,"
+  he said quietly. "Not the vrill—Sera does that. Not the stone—the giants do that.
+  She's readin' the connections. The places where the world remembers bein' part of
+  somethin' larger."
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_119_resonance_of_the_first_point.txt
+status: captured
+supersedes: null

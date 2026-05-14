@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-3874
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 29
+line_start: 29
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: The descent was nothing like the first. The northern seeds had glided through
+  the Veil like stones through calm water. These were flung into a maelstrom. The
+  damaged needle’s erratic pulses created vortices in the dimensional fabric, twisting
+  the vrill currents into knots. Some thought‑seeds shredded before they could form
+  bodies. Others tore apart mid‑transition, their consciousness fragments scattering
+  into the quantum foam.
+signal_type: entity
+source_file: raw/chapters/book_20_the_discordant_pulse_south_103_the_second_song_resonance_of_a_broken_needle.md
+status: captured
+supersedes: null

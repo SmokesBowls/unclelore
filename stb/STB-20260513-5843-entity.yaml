@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-5843
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 13
+line_start: 13
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale's form solidified suddenly, edges sharp as a blade's honed edge against
+  the twilight. He turned toward Zephyr with an uncharacteristic stillness, the silver-black
+  currents of his being flowing slower, thicker, like molten ore cooling into shape.
+  "Home," he said—not a question, but a tasting of the word, letting it resonate between
+  them like a struck bell.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_125_farwell.txt
+status: captured
+supersedes: null

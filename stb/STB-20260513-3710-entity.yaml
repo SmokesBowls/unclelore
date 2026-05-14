@@ -2,19 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3710
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 66
-line_start: 66
+line_end: 91
+line_start: 91
 parsed_payload:
   confidence: medium
   entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: The Anunnaki army responded instantly. What had appeared to be solid canyon
-  walls suddenly revealed themselves as massive gates. Reinforcements poured through—not
-  just more soldiers, but specialized units designed to counter specific threats.
-  Giant-killers armed with weapons that disrupted geological resonance. Mage-hunters
-  whose armor reflected spells back at their casters. Tech-nullifiers that caused
-  scientific equipment to develop fatal errors.
+  entity_type: FAC
+raw_quote: Viên slumped against the back wall of his cell, the red curse pulsing angrily
+  in his veins. It wanted out, wanted to transform, to break free through sheer corruption.
+  But he knew that's exactly what the Anunnaki expected. Maybe even what they wanted.
 signal_type: entity
-source_file: raw/chapters/book_19_worthy_opponents_north_102_convergence_on_mars.md
+source_file: raw/chapters/book_18_inquisition_of_yourself_094_chains_of_light.md
 status: captured
 supersedes: null

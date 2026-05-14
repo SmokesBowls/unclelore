@@ -2,16 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-3545
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 95
-line_start: 95
+line_end: 193
+line_start: 193
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: '"We chose unity," came a voice that wasn''t quite Tran''s, wasn''t quite
-  the armor''s, but something between. The Dragon Mail was speaking through their
-  bond, its consciousness touching his more directly than ever before.'
+  entity_type: CHR
+raw_quote: '"And which do they see him as?" Tran pressed.'
 signal_type: entity
-source_file: raw/chapters/book_17_ancestral_debt_089_the_white_mirror.md
+source_file: raw/chapters/book_16_fragmented_beginning_084_earth_giants_and_diverging_paths.md
 status: captured
 supersedes: null

@@ -1,0 +1,15 @@
+audit_only: true
+buffer_id: STB-20260513-4740
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 974
+line_start: 974
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: '"It started gettin'' ahead of us." Vale waited. "The timing went first."'
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_112_eastern_system.txt
+status: captured
+supersedes: null

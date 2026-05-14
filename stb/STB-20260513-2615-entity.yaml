@@ -2,19 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-2615
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 7
-line_start: 7
+line_end: 267
+line_start: 267
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The Applicator in Geralt's spine burned as he slammed his palm against
-  the enrollment plinth. "Finish it." The Guild's representatives recoiled as the
-  third ring—the nameless one—darkened to the color of a starless sky. Some foundations
-  had to be forced. The network's acceptance flared through him, a thousand synaptic
-  connections snapping into place with the finality of a vault door sealing. Around
-  them, the guild's ancient stones trembled, whispering of debts now called due.
+  entity_type: CHR
+raw_quote: '"Wait—" Geralt started.'
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
+source_file: raw/chapters/book_09_bureaucratic_debt_054_tue_lunar_spire.md
 status: captured
 supersedes: null

@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-5278
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 603
+line_start: 603
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: '"Yeah. You did." Zephyr nodded slowly. "And it cost you. I can see it
+  in your face. Sittin'' on that shore, feelin'' the vrill shift, knowin'' you couldn''t
+  be there to witness it. That''s a different kind of weight."'
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_117_the_constant_calibration_living_as_anchor.txt
+status: captured
+supersedes: null

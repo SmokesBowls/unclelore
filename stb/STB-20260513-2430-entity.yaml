@@ -2,15 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-2430
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 89
-line_start: 89
+line_end: 490
+line_start: 490
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: And somewhere, buried in the code of Geralt’s own mind, a sympathetic frequency
-  was humming along, orchestrating the entire disaster.
+  entity_type: CHR
+raw_quote: The boss fight was desperate. Geralt and Oreck attacked with everything
+  they had, but the Sovereign, empowered by the Shard's corrupted energy, was a force
+  of nature. Shadows solidified into blades, into walls, into crushing weights. Oreck's
+  cleaver met darkness that resisted like forged steel. Geralt's armor strained against
+  attacks that unmade the very air around them.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_053_the_twilight_city.md
+source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
 status: captured
 supersedes: null

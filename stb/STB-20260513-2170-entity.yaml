@@ -2,19 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2170
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 256
-line_start: 256
+line_end: 99
+line_start: 99
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Red stepped forward, her ember-eyes fixed on Geralt. “We chose it. Not
-  because we forgot our own. But because we remembered what she was. What she taught
-  by existing.” Her voice crackled, not with heat, with emotion. “She was the first
-  to see us as more than weapons. More than casualties. She was our commander. Our
-  North Star.. and we are and always be your 5 loyal followers, of course we understand
-  who she was"
+  entity_type: CHR
+raw_quote: As the others dispersed to prepare, Geralt caught Mika’s arm. “Thirty-seven
+  seconds.”
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_048_the_ledger_born.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_046_not_like_this.md
 status: captured
 supersedes: null

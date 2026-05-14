@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-4542
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 333
+line_start: 333
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: They sat for a while longer. The sun lowered, the light turning orange.
+  Then Vale stood. "We should move." The Igigi stood with him. He tested his sandals,
+  flexed his toes, then nodded. They walked. The silence returned, but it was different
+  now. Both of them knew something about the other. Neither pressed. The path west
+  stretched ahead, empty and ordinary. The sky darkened. The stars came out. And behind
+  them, the east held its secrets for another night.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_112_eastern_system.txt
+status: captured
+supersedes: null

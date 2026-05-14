@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2442
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 167
-line_start: 167
+line_end: 44
+line_start: 44
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt’s head throbbed. A line of text, cold and green, scrolled behind
-  his eyes. It did not come from his conscious interface. It bubbled up from a deep,
-  dark well in the machine he carried.
+  entity_type: CHR
+raw_quote: Aelxion choked off his fire. The plasma died in his throat. His star-broken
+  eyes narrowed, scanning Geralt with sudden, intense focus.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_053_the_twilight_city.md
+source_file: raw/chapters/book_09_bureaucratic_debt_051_arrival_in_fire.md
 status: captured
 supersedes: null

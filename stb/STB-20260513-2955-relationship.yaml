@@ -2,20 +2,23 @@ audit_only: true
 buffer_id: STB-20260513-2955
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 159
-line_start: 159
+line_end: 248
+line_start: 248
 parsed_payload:
-  predicate: created_by
+  predicate: member_of
   subject: UNRESOLVED
   target: UNRESOLVED
   temporal_scope: unresolved
-raw_quote: Tran felt something in his blood stir with recognition as the implications
-  of what they were learning became clear. This was not simply an artificial intelligence
-  created by advanced technology—this was the preserved consciousness of someone whose
-  actions and decisions had shaped the fundamental development of human civilization,
-  whose sacrifice and wisdom had been preserved across millennia to guide future generations
-  toward understanding they would need to face cosmic challenges.
+raw_quote: He spent the early hours of the night experimenting with his abilities.
+  He learned that the crimson flames could be summoned, but controlling them was delicate
+  work. Too little focus and the power sputtered; too much intent and it threatened
+  to blaze uncontrollably. It was less like wielding a tool and more like learning
+  the temperament of a wild animal that lived within his own veins. Gradually, through
+  trial and error, he began to sense a rhythm to it, an ebb and flow that mirrored
+  his own heartbeat. The fire was not separate from him; it was him. Learning to use
+  it felt less like imposing his will and more like finding harmony with a fundamental
+  part of his being.
 signal_type: relationship
-source_file: raw/chapters/book_11_blood_and_legacy_065_secrets_of_the_deep.md
+source_file: raw/chapters/book_11_blood_and_legacy_060_echoes_of_the_cradle.md
 status: captured
 supersedes: null

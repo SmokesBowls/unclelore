@@ -2,18 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-1083
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 223
-line_start: 223
+line_end: 428
+line_start: 428
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: The assembly froze—five hundred people who'd been organized and trained
-  and equipped suddenly confronting reality that transcended everything they'd prepared
-  for. This wasn't Anunnaki Overseer. Wasn't Federation enforcer following protocols.
-  This was specialist. Hunter. Being who existed specifically to reclaim technology
-  and purify populations that had learned to remember freedom.
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: Geralt had chosen visibility over safety.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured
 supersedes: null

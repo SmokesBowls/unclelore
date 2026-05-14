@@ -2,19 +2,20 @@ audit_only: true
 buffer_id: STB-20260513-2049
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 7
-line_start: 7
+line_end: 51
+line_start: 51
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt leaned against a cracked support column, the dragon armor’s breastplate
-  dull with ash and scored by energy fire. The vestigial wing-nubs on his back twitched
-  occasionally, a phantom itch he’d learned to ignore. Mika approached, her own armor
-  scuffed, a fresh burn across her left vambrace. She didn’t speak at first, just
-  followed his gaze westward, where the late afternoon sun painted the distant foothills
-  in shades of blood and gold.
+  entity_type: CHR
+raw_quote: “She is expending the last of her Light to secure the Hub—the central power
+  source for this corrupted network. She is dispersing her specialized Sound into
+  the local needles, turning them into external storage drives. But her Anchor…” Zaron
+  looked up, his eyes meeting Geralt’s. “Her core consciousness needs a new, stable
+  point of resonance. One that can persist in this hostile environment. She is not
+  fragmenting to die. She is redeploying to survive. And she is mooring her Anchor
+  to the only persistent, biocompatible source of resonance on this battlefield. You.”
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_046_not_like_this.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_044_the_mountains_shadow.md
 status: captured
 supersedes: null

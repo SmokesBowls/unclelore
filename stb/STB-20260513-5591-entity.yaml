@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-5591
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 283
+line_start: 283
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: 'Vale was silent for a long moment. Then: "Then we find another way. A
+  longer path. A harder one. But we do not build on ground that doesn''t want to hold
+  us."'
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_120_the_language_of_stone.txt
+status: captured
+supersedes: null

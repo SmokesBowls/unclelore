@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5148
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 631
+line_start: 631
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale looked at the water. The grey surface, the distant line where it met
+  the sky. Somewhere beyond that line, the east waited. The labyrinth waited. The
+  buried spire waited. All of it connected to him, recognizing him, adjusting to his
+  presence before he even arrived.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_116_keepers_recognition.txt
+status: captured
+supersedes: null

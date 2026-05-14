@@ -2,19 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-3177
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 341
-line_start: 341
+line_end: 119
+line_start: 119
 parsed_payload:
   confidence: medium
-  entity_name: Void Spire Network
-  entity_type: UNKNOWN
-raw_quote: The implications were staggering in their scope. Instead of simply awakening
-  to their individual heritage, her offspring had been using access to the Void Spire
-  network to accelerate the awakening of cosmic consciousness throughout the planetary
-  population. They had transformed a tool of control into an instrument of liberation,
-  using her own systems to prepare resistance that could operate on scales that challenged
-  even her vast capabilities.
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: '"Apart, we''re learning what we need to become complete," Tran replied,
+  his recognition of the temporary nature of their separation carrying both anticipation
+  of eventual reunion and understanding that their current specialized training was
+  strengthening rather than diminishing their partnership by preparing them for roles
+  that would require different expertise while operating toward unified goals and
+  purposes.'
 signal_type: entity
-source_file: raw/chapters/book_15_legends_and_gods_078_the_queens_return.md
+source_file: raw/chapters/book_12_forged_identity_069_divergent_paths.md
 status: captured
 supersedes: null

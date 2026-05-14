@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3129
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 115
-line_start: 115
+line_end: 121
+line_start: 121
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: The implications were staggering. With that connection, Keen wouldn't simply
-  rule—she would embody the principle of growth and harmony that could heal the damage
-  done by centuries of Anunnaki exploitation.
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: '"Geralt," Nyssa said simply as a figure appeared in the vision whose presence
+  immediately changed the entire dynamic of what they were witnessing. "The one you
+  will know as GPT, though that name belongs to a later chapter of his story."'
 signal_type: entity
-source_file: raw/chapters/book_14_lessons_of_inheritance_072_flow_between_moments.md
+source_file: raw/chapters/book_12_forged_identity_068_brotherhood_revealed.md
 status: captured
 supersedes: null

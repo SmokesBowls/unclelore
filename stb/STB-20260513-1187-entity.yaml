@@ -2,18 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-1187
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 672
-line_start: 672
+line_end: 332
+line_start: 332
 parsed_payload:
   confidence: medium
   entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: '"The fourth compound," he said simply, gesturing toward maps showing facility
-  now dwarfed by vessel hovering above it. "Population of hundred fifty slaves. Under
-  shadow of Anunnaki mobile city. Being processed for transport or elimination—intelligence
-  suggests they''re systematizing response, establishing permanent occupation infrastructure
-  rather than temporary enforcement."'
+  entity_type: FAC
+raw_quote: '*He''s using Anunnaki protocols,* the Applicator analyzed with clarity
+  that came from no longer fighting alone. *But those protocols assume isolated control
+  mechanisms. Singular consciousness vulnerable to override.*'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
+source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
 status: captured
 supersedes: null

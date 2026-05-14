@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-3157
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 7
+line_start: 7
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: The sensation began as a subtle shifting in the electromagnetic patterns
+  that flowed through the ancient geometric channels carved into the bedrock beneath
+  Sundrift, changes so fundamental that they seemed to alter the very fabric of reality
+  around their sanctuary. Through his enhanced senses, refined through recent trials
+  and amplified by the permanent changes that his Crimson Blood had undergone during
+  their shared transformation, Tran detected fluctuations in energy patterns that
+  spanned distances beyond his ability to accurately measure or fully comprehend.
+signal_type: entity
+source_file: raw/chapters/book_12_forged_identity_069_divergent_paths.md
+status: captured
+supersedes: null

@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-6087
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 197
+line_start: 197
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: In the grove, the Nephoretti were singing the evening vigil when the older
+  singer—Mora's last student, her voice worn thin—felt a catch in her throat. Not
+  a word. A fragment. A broken syllable that did not belong to her but passed through
+  her anyway. She did not speak it. The song was too important. The binding tones
+  held. The shield held. But the syllable sat in her larynx like a stone in a channel,
+  and she knew, without knowing how she knew, that something had tried to speak and
+  almost succeeded.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_129_calibration_drift.txt
+status: captured
+supersedes: null

@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-3186
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 159
+line_start: 159
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: '"Together, even when apart," Tran confirmed, his understanding of their
+  bond and the temporary nature of their separation carrying both strength and anticipation
+  of eventual reunion that would combine their specialized capabilities into partnership
+  that could address challenges and responsibilities that operated on scales encompassing
+  cosmic conflicts and planetary defense requirements.'
+signal_type: entity
+source_file: raw/chapters/book_12_forged_identity_069_divergent_paths.md
+status: captured
+supersedes: null

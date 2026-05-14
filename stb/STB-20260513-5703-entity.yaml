@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5703
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 293
+line_start: 293
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale stopped at the threshold. Looked at them—each of them changed, each
+  of them more fully themselves. And felt the pattern they had built begin to reform.
+  Not the same pattern as before. Stronger. More complex. A weave that made space
+  for their separate truths without requiring them to agree.
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_122_unravealing.txt
+status: captured
+supersedes: null

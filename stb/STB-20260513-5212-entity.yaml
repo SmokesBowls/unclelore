@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-5212
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 299
+line_start: 299
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: Vale sat on a block of basalt at the water's edge. He did not touch the
+  vrill. Did not try to feel its flow. He simply sat, his hands resting on his knees,
+  his eyes on the grey water.
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_117_the_constant_calibration_living_as_anchor.txt
+status: captured
+supersedes: null

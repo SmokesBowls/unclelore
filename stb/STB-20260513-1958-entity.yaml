@@ -2,17 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-1958
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 118
-line_start: 118
+line_end: 103
+line_start: 103
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt saw it then. For the young, for those whose lives had been a series
-  of brutal endings—home, family, peace—the concept of a planned pause was more revolutionary
-  than any magic. It was a promise they could comprehend. Not salvation now, but the
-  architecture of a future salvation.
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: “This is vrill manipulation,” Geralt said, rising. “The energy that flows
+  through all living things. The corruption is twisting it. You can learn to hold
+  it clean.”
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_044_the_mountains_shadow.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_042_the_verdant_crossing.md
 status: captured
 supersedes: null

@@ -2,29 +2,24 @@ audit_only: true
 buffer_id: STB-20260513-1494
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 79
-line_start: 79
+line_end: 69
+line_start: 69
 parsed_payload:
   confidence: medium
-  entity_name: Aaon Keepers
-  entity_type: UNKNOWN
-raw_quote: 'The Needle Spire’s resonance wasn''t merely a hum; it was a complex lattice
-  of chroniton pathways, layered and interwoven like Annunaki code. Geralt knelt before
-  its apex, embedded in the icy floor of the Heartpeak cavern. He placed his palms
-  on the cold metal. The applicator flared, projecting shimmering strands of light
-  – fractured, but functional. He felt the spire’s dormant potential: a repository
-  designed for Akashic Records, yes, but fundamentally a *harvester*. Built to siphon
-  vrill energy from temporal eddies and channel it for power… or teleportation. His
-  lips thinned. *Annunaki tech.* Crude compared to his Void Spire training. He didn''t
-  need vrill extraction. He didn''t crave unstable teleportation corridors between
-  spiers. He’d navigated the Continuum Nexus itself, where space-time flowed like
-  water. His need was sublime: a silent, surgical incision into the Akashic pathway
-  itself. To enter the vast halls he only vaguely remembers when he was summoned their
-  when presented the armor by the aaon keepers themselves. The void spiers... The
-  needle spiers... They all share one fundamental connection.. The Grand spire. This
-  was not something the training provided. This is the pulse, the pull tugging on
-  his sleeve. This is knowledge that chose you. And it chose me.'
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: 'They descended into the valley gloom. The air grew thick, charged with
+  a silent pressure that made Geralt’s teeth ache. Near the obsidian arch, reality
+  seemed thin, frayed. A faint, discordant hum vibrated in his bones – Xal''Zirith’s
+  signature, cold and utterly alien. "Focus," Kaelen commanded, stopping him ten paces
+  from the epicenter. "Reach out. Feel its resonance. Then, sing your counter-harmony."
+  Geralt closed his eyes, pushing past the oppressive hum. He felt the applicator
+  map its jagged waveform – pure entropy. The armor resonated with visceral rejection.
+  His own will surged: defiance, remembrance of Mika, the Five, the 250. He wove them
+  together, applicator structuring the counter-frequency, armor fueling its power,
+  his will directing its purpose. He opened his mouth, and a deep, resonant tone flowed
+  out – not a shout, but a fundamental vibration of *being*.'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
+source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
 status: captured
 supersedes: null

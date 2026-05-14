@@ -2,14 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0999
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 428
-line_start: 428
+line_end: 831
+line_start: 831
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt had chosen visibility over safety.
+  entity_type: CHR
+raw_quote: Geralt nodded acceptance, then addressed the compound as whole—three hundred
+  voices newly granted, five silent witnesses, one reptilian ally standing at his
+  shoulder.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured
 supersedes: null

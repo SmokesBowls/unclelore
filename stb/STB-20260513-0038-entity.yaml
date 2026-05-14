@@ -2,17 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-0038
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 87
-line_start: 87
+line_end: 134
+line_start: 134
 parsed_payload:
   confidence: medium
-  entity_name: Nephoretti
-  entity_type: UNKNOWN
-raw_quote: Senareth forced themselves to stand. Their legs still shook, but determination
-  overrode inexperience. Around them, other Nephoretti were gradually achieving various
-  forms of verticality—some successful, others still struggling with the basic mechanics
-  of bipedal existence.
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: Lyaris positioned herself at the northern convergence point, her consciousness
+  extending through crystalline lattices that channeled vrill from higher dimensional
+  frequencies down through progressively denser vibrational states. She could feel
+  the friction building—that grinding tension between higher and lower frequencies
+  that gave the Veil its name.
 signal_type: entity
-source_file: raw/chapters/book_01_book_of_genesis_002_molten_descent.md
+source_file: raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
 status: captured
 supersedes: null

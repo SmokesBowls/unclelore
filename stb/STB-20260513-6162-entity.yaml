@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-6162
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 21
+line_start: 21
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The fragment moved between them. Not as sound. As pressure. The weaver
+  felt it as a weight in her chest, the same weight she had felt three days ago when
+  she pressed her palms to the stone and her jaw unclenched. The Igigi felt it as
+  a resonance in her throat, the same resonance she had felt in the channel silt when
+  the older female spoke the first syllable and the stone carried it. The fragment
+  was Zeph—, and it did not complete, but it pressed against both of them simultaneously,
+  a single weight distributed across two bodies.
+signal_type: entity
+source_file: raw/chapters/book_26_the_seam_long_dark_south_131_stable_contradiction.txt
+status: captured
+supersedes: null

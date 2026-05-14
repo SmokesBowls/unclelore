@@ -2,27 +2,21 @@ audit_only: true
 buffer_id: STB-20260513-1446
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 163
-line_start: 163
+line_end: 64
+line_start: 64
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'The tendrils reacted to the light. With a collective, psychic shriek that
-  bypassed his ears and rattled his teeth, they recoiled from the ship’s spine and
-  writhed towards him. The air thickened with remembered anguish – the phantom screams
-  of his legionnaires consumed by the crash-fire, the despair of the Anunnaki captives
-  he’d doomed alongside his enemies. The applicator overloaded with sensory feedback:
-  *Psychic resonance overload! Trauma imprint saturation!* Geralt staggered, the sheer
-  weight of the Heart’s absorbed suffering threatening to crush his mind. Zaron’s
-  spirit within the armor roared back, not with violence, but with a profound, shared
-  sorrow. *We did this. We share this burden.* The armor’s light shifted, dimming
-  its defiance, radiating a deep, resonant empathy instead. It pulsed in time with
-  the groaning earth. The lashing tendrils hesitated, their movements becoming less
-  furious, more confused. The green light within them flickered, revealing glimpses
-  of trapped moments – a soldier’s final salute, a child’s terrified face pressed
-  against a viewport. The desert wasn’t just attacking; it was *bleeding*.'
+  entity_type: CHR
+raw_quote: The plaza flickered. Ghost-images of Sully kneeling overlapped. The cycle
+  was nearing its end. Geralt pressed. "Say her name. Not as loss. As joy." Sully
+  took a shuddering breath. "Katherine," she whispered. Then louder, defiant. "Katherine!"
+  Her voice cracked the stillness. The stone carving seemed to vibrate. A faint, golden
+  light – Katherine's favorite sun-warmth – pulsed from the stone kits. The ghost-images
+  snapped away. The oppressive weight lifted. Sully gasped, looking around as if seeing
+  the settlement for the first time. "I... remember everything." The chroniton shard
+  on Geralt's chest flared brightly, then dissolved. The loop was broken.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
+source_file: raw/chapters/book_06_the_ragnarok_034_the_250.md
 status: captured
 supersedes: null

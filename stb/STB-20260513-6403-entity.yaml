@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-6403
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 413
+line_start: 413
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: '*Reconstituting*—the gravitational gradient radiating from Vale reaching
+  back into the corridor like fingers curling around a forgotten tool.'
+signal_type: entity
+source_file: raw/chapters/book_27_the_seam_deadly_words_south_139_final_calculations.txt
+status: captured
+supersedes: null

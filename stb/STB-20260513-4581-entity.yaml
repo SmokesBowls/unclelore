@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-4581
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 385
+line_start: 385
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: They walked. The ground was steady again. No shifting, no sound beneath
+  their feet. The air held. The horizon was clear. Nothing wrong. Vale moved as he
+  always did—measured, efficient. But once, without thinking, he slowed before stepping
+  onto a stretch of rock. Just for a moment. Then he moved again.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_112_eastern_system.txt
+status: captured
+supersedes: null

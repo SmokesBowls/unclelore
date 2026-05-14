@@ -2,15 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3663
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 122
-line_start: 122
+line_end: 131
+line_start: 131
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: The Giant's ancient features shifted into what might have been a smile.
-  "You feel. You act without calculation. You embrace the chaos the Igigi fear most."
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: The mirror-version attacked again, but this time, Tran didn't just defend.
+  He moved with the armor's instincts while the armor adapted to his intentions. They
+  flowed together, imperfect but genuine, flawed but growing.
 signal_type: entity
-source_file: raw/chapters/book_19_worthy_opponents_north_098_depths_of_memory.md
+source_file: raw/chapters/book_17_ancestral_debt_089_the_white_mirror.md
 status: captured
 supersedes: null

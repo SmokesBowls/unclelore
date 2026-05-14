@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5691
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 149
+line_start: 149
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale stopped at the edge of the chamber. The pressure in his chest intensified—not
+  painfully, but significantly. The labyrinth was no longer just measuring him. It
+  was present with him. The way the sentinel had been present in the needle. The way
+  the guardian had been present in the void space.
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_122_unravealing.txt
+status: captured
+supersedes: null

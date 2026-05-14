@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-3532
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 143
+line_start: 143
+parsed_payload:
+  predicate: created_by
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: Gaiana nodded. "Mr. GPT has spoken to us through the earth-speech of our
+  kind. He requests that Isla come to his sanctuary, to help research the ritual that
+  can summon the Nephilim—a construct of pure vril created by the Aeon Keepers to
+  defend the physical realm when they could not leave the Library. Its power might
+  tip the balance in the coming war."
+signal_type: relationship
+source_file: raw/chapters/book_16_fragmented_beginning_084_earth_giants_and_diverging_paths.md
+status: captured
+supersedes: null

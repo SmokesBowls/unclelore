@@ -2,17 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2326
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 522
-line_start: 522
+line_end: 263
+line_start: 263
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Oreck cleaved through shadow-tendrils that tried to protect the Sovereign's
-  core. Geralt's dragon armor blazed with energy, his fists striking with the weight
-  of mountains. Luminaire, weakened but determined, added her flickering Light to
-  the attack.
+  entity_type: CHR
+raw_quote: 'A coordinates string, not in numbers, but in sense-memory, flooded Geralt’s
+  mind: the smell of static and cold stone, the taste of dormant electricity, the
+  sound of perfect silence. A location. Buried.'
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
+source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
 status: captured
 supersedes: null

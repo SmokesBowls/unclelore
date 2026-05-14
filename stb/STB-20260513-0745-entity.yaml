@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0745
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 304
-line_start: 304
+line_end: 1175
+line_start: 1175
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt felt the weight of those words. This being had created the space
-  where they currently stood, had shaped reality itself to serve as repository for
-  wisdom that transcended individual civilizations.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: The Anunnaki's platform stood silent in the morning light. The golden figure
+  hadn't yet emerged for his daily observation. Perfect. They needed to establish
+  position before he realized what was happening.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_026_dragonmail.md
+source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
 status: captured
 supersedes: null

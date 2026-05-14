@@ -2,15 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-3605
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 131
-line_start: 131
+line_end: 70
+line_start: 70
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: Marithel hurried from the detention block, leaving them alone. Whatever
-  was happening had clearly caught the Anunnaki by surprise.
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: The Dragon Mail responded before Tran could speak, plates shifting to reveal
+  glimpses of the crimson energy flowing beneath—Zaron's fragmented consciousness
+  attempting to communicate. Images flashed across its surface—Tran's journey from
+  Sundrift, his awakening to the Crimsonblood legacy, his trials in the desert and
+  beneath the waves.
 signal_type: entity
-source_file: raw/chapters/book_18_inquisition_of_yourself_094_chains_of_light.md
+source_file: raw/chapters/book_16_fragmented_beginning_087_the_breath_of_life.md
 status: captured
 supersedes: null

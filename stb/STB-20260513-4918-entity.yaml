@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-4918
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 17
+line_start: 17
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: One of the grove giants felt it first. It adjusted its stance, pulled back
+  on the lever, let the null drop. The swamp lead hesitated, then mirrored the movement.
+  The slab settled into the vrill pool like a ship finding a dock. The crack didn’t
+  spread. The edge seated. True.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_115_the_shape_of_asking.txt
+status: captured
+supersedes: null

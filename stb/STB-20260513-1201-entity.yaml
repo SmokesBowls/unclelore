@@ -2,15 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-1201
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 776
-line_start: 776
+line_end: 426
+line_start: 426
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt smiled—expression hidden by helm that remained sealed, face concealed
-  behind draconic faceplate that suggested predator rather than former slave.
+  entity_type: CHR
+raw_quote: Geralt didn't let him.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
+source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
 status: captured
 supersedes: null

@@ -2,18 +2,20 @@ audit_only: true
 buffer_id: STB-20260513-2791
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 477
-line_start: 477
+line_end: 15
+line_start: 15
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: It was another half-day's journey through the corpse of a forest—trees
-  petrified mid-sway, their branches frozen in silent alarm. Kyh's shadow kept unraveling,
-  filaments snagging on the fossilized bark. By the time Ironspire's obsidian gates
-  loomed ahead, her left hand had dissolved entirely into static. Geralt didn't comment.
-  They took the distant path, the one even the Queen's archivists had forgotten, where
-  the brambles whispered old warnings in dead languages.
+  entity_type: CHR
+raw_quote: The crossing point revealed itself not as a bridge or ford, but as a fracture
+  in the air—a vertical slit where the iridescent river bent upward like a ribbon
+  caught mid-flutter. Kyh stepped through first, her shadow elongating into a needle-thin
+  line before snapping back with a sound like a wet parchment tear. Geralt followed,
+  the Dragon Mail's gyroscopes whining as gravity inverted itself for three nauseating
+  heartbeats. Behind them, Kulla paused to press his barnacle-crusted palm against
+  the liquid threshold, murmuring approval at whatever harmonics he detected in its
+  molecular structure.
 signal_type: entity
 source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
 status: captured

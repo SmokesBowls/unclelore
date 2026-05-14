@@ -2,17 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-0223
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 107
-line_start: 107
+line_end: 156
+line_start: 156
 parsed_payload:
   confidence: medium
   entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: '"Each lie contains just enough truth to take root. We plant them through
-  the Igigi—they interface with Giants during construction, they can deliver misinformation
-  without Giants recognizing the source. Over time, cooperation becomes suspicion.
-  Unity fragments. And when we return for the Second Coming..."'
+  entity_type: SPEC
+raw_quote: The Reptilian's eyes—vertical slits that could see across multiple wavelengths—focused
+  on him with appropriate deference. Its consciousness was simple compared to Igigi
+  or Anunnaki, but sufficient for its purpose. It could understand orders. It could
+  apply violence when directed. It could recognize indigenous biologicals as threats
+  when programmed to do so.
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_008_queens_assessment.md
+source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
 status: captured
 supersedes: null

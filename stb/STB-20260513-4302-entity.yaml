@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-4302
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 802
+line_start: 802
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: Not the soft freeze of winter — the absolute freeze. The kind of freeze
+  that turned water to stone, that made movement impossible, that trapped anything
+  caught in the open. The Igigi, who had survived by moving, found themselves unable
+  to move. The passes that had been their routes became walls. The channels that had
+  been their paths became tombs.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_110_the_bleeding_convergance.txt
+status: captured
+supersedes: null

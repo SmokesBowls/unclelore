@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3501
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 79
-line_start: 79
+line_end: 240
+line_start: 240
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: Tran felt the Dragon Mail warm against his skin, sensing its question as
-  well. What did lie at the end of this path? What would happen when all five fragments
-  were reunited?
+  entity_type: CHR
+raw_quote: As the vision faded, the Memory Pool grew still once more. Tran withdrew
+  the fragments, which now seemed somehow changed – their energies more aligned, their
+  pulses synchronized perfectly.
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_087_the_breath_of_life.md
+source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
 status: captured
 supersedes: null

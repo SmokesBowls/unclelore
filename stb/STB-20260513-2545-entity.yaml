@@ -2,18 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-2545
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 201
-line_start: 201
+line_end: 155
+line_start: 155
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The Applicator extended its consciousness through Geralt’s neural pathways,
-  into the Spire. Geralt’s vision whited out. He was flooded with the Scream—the raw,
-  unedited death-throes of the God-Mind. It was a pain that could unmake stars. Beneath
-  it, he felt the Applicator’s precise, synthetic mind, a tiny scalpel in an ocean
-  of madness, searching for the root command.
+  entity_type: CHR
+raw_quote: The Keeper of Umbrageous was a ghost of possibilities. One moment, Geralt
+  saw the outline of a great, draconic head; the next, the facet of a crystal; then
+  the elegant, sorrowful features of a Solantri elder. His form refused to settle,
+  trapped between what he was, what he could be, and what he had been made to guard.
+  His eyes, when they focused on Geralt, were pools of swirling nebula, wide with
+  a terror that was 10,000 years deep.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_055_the_anchors_forge.md
+source_file: raw/chapters/book_09_bureaucratic_debt_053_the_twilight_city.md
 status: captured
 supersedes: null

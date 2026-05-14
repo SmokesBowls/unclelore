@@ -2,22 +2,29 @@ audit_only: true
 buffer_id: STB-20260513-1578
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 68
-line_start: 68
+line_end: 79
+line_start: 79
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'Oreck moved first. Boots struck water—and the storm ignited. Arcs spiderwebbed,
-  seeking conduits. Gear sparked. Shields died. Torren screamed as an eel-thing latched
-  onto his greave, bioelectricity seizing muscle. Halvar hacked it free, blade sizzling.
-  Mika’s reflection leered: *Weakness costs lives*. She fired her lance into the water.
-  Mist rose, stinging ozone. Geralt waded deeper, Zaron’s spirit warring with the
-  storm’s pull. Azure scales flared brighter, repelling arcs. But the reflections
-  whispered. Zaren’s dragon-shadow coiled in ripples: *Accept her power. Let them
-  burn.* Truth’s weight crushed him. Each step sank deeper into liquid light. Lyra
-  stumbled, rig sputtering. "Resonance overload! Gear’'
+  entity_name: Aeon Keepers
+  entity_type: FAC
+raw_quote: 'The Needle Spire’s resonance wasn''t merely a hum; it was a complex lattice
+  of chroniton pathways, layered and interwoven like Annunaki code. Geralt knelt before
+  its apex, embedded in the icy floor of the Heartpeak cavern. He placed his palms
+  on the cold metal. The applicator flared, projecting shimmering strands of light
+  – fractured, but functional. He felt the spire’s dormant potential: a repository
+  designed for Akashic Records, yes, but fundamentally a *harvester*. Built to siphon
+  vrill energy from temporal eddies and channel it for power… or teleportation. His
+  lips thinned. *Annunaki tech.* Crude compared to his Void Spire training. He didn''t
+  need vrill extraction. He didn''t crave unstable teleportation corridors between
+  spiers. He’d navigated the Continuum Nexus itself, where space-time flowed like
+  water. His need was sublime: a silent, surgical incision into the Akashic pathway
+  itself. To enter the vast halls he only vaguely remembers when he was summoned their
+  when presented the armor by the aaon keepers themselves. The void spiers... The
+  needle spiers... They all share one fundamental connection.. The Grand spire. This
+  was not something the training provided. This is the pulse, the pull tugging on
+  his sleeve. This is knowledge that chose you. And it chose me.'
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
 status: captured
 supersedes: null

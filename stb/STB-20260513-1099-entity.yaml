@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-1099
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 304
-line_start: 304
+line_end: 559
+line_start: 559
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '*Applicator,* Geralt projected with all the mental force three weeks of
-  intensive coordination had developed. *Stop fighting alone. Let Zaron IN. Let him
-  access your systems. Let us synchronize completely instead of maintaining boundaries!*'
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: They looked like what they were—scarred, modified, bearing physical markers
+  of enslavement that made them indistinguishable from the two hundred beings already
+  laboring under Anunnaki authority. No weapons visible. No signs of coordination.
+  Just another group of property performing assigned functions.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured
 supersedes: null

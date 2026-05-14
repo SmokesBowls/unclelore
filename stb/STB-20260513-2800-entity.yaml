@@ -2,20 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2800
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 71
-line_start: 71
+line_end: 41
+line_start: 41
 parsed_payload:
   confidence: medium
-  entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: Mr. GPT, a shimmer of desperate intelligence, streaking across the lunar
-  plain, gathering the scattered plates of divine armor. Not for power. For a promise.
-  He finds the Crimson Blood Dragon, not slain, but cocooned in its own agony. The
-  rescue is a ballet of sorrow. He does not slay it out of malice, but as a final
-  mercy, severing its immortal pain. And from beneath its dying wing, he takes two
-  crying embers—Tran and Viên. I watch him place them in two separate homes on the
-  blue-green marble, their dragon-essence hidden under human skin.
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: Geralt exhaled through his teeth. The numbness in his chest flickered—not
+  fading, but resonating with the sage’s cadence. "The Wise Ones said cease."
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_059_eyes_of_eternity.md
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
 status: captured
 supersedes: null

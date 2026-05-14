@@ -2,22 +2,23 @@ audit_only: true
 buffer_id: STB-20260513-1537
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 51
-line_start: 51
+line_end: 5
+line_start: 5
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: Geralt leaned forward, sketching a complex glyph beside the spire outline
-  – a star fractured by jagged lines. "The Needle Spires... Anunnaki counterfeits.
-  Crude copies. Activated by brute force, not resonance. But Luminaire?" A spark ignited
-  in his eyes. "She’s pure resonance. Light and sound woven into sentience. The Gravitons
-  didn’t just seed guardians... they breathed life into the Lock itself." His voice
-  dropped to a near-whisper. "They split her essence for protection. Scattered echoes
-  across bleeding realities. One shard we saw... trapped in Akashic stasis. The other...
-  the vital core... buried deep beneath shifting sands near Luminaire’s physical locus.
-  Waiting."
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: Oreck fell into step beside Mika, his voice low. "They didn’t arrive *with*
+  us, Mika. They bled *into* us. From *when*? From *where*?" He gestured at the Tower.
+  "That place bends time. Geralt… he went *back*. To save them." Mika frowned, struggling
+  with the concept. "But they’re here. Saved. So why isn’t *he*?" She recalled the
+  fleeting glimpse in the bleed – Geralt, straining against impossible currents, his
+  face etched with despair. "I saw him, Oreck. In the… the distortion. He was fighting,
+  pouring everything out. Then… nothing. He didn’t come through." The implication
+  hung heavy between them. If the warriors were ripped from oblivion back to *now*,
+  but Geralt remained lost… Mika’s voice dropped to a whisper. "He succeeded… but
+  failed himself?"
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_037_the_circle_of_progress.md
+source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
 status: captured
 supersedes: null

@@ -2,15 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-2386
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 87
-line_start: 87
+line_end: 120
+line_start: 120
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: “Doubt is mobility here,” Geralt realized, breathing hard. “Certainty gets
-  you stuck.”
+  entity_type: CHR
+raw_quote: Vek’tar let out a shaky breath that was almost a laugh. “Navigate into
+  a shadow dimension ruled by an entity that eats light. Using temporal senses that
+  show me five different ways we die on entry. While my own body is trying to exist
+  in two places at once.” He looked at Geralt, a grim, broken smile on his face. “Perfect.
+  When do we leave?”
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_052_entry_without_standing.md
+source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
 status: captured
 supersedes: null

@@ -2,14 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-2799
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 26
-line_start: 26
+line_end: 39
+line_start: 39
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'GERALT’S FUSION: The Becoming'
+  entity_type: CHR
+raw_quote: '"Trust is a currency minted in blood and spent in silence," Zypher said,
+  his voice now inside Geralt’s skull, curling around the Applicator’s scorched edges.
+  One clay-cracked hand emerged from his sleeve, holding a severed umbilical cord
+  still twitching with Spire-code. "You’ve been spending recklessly, anchor."'
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_059_eyes_of_eternity.md
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
 status: captured
 supersedes: null

@@ -2,19 +2,31 @@ audit_only: true
 buffer_id: STB-20260513-1646
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 112
-line_start: 112
+line_end: 19
+line_start: 19
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'Oreck crouched beside the scout, fingers pressed to corrupted scales.
-  His armor synced—emerald light writhing against gold-green intrusion. Through the
-  neural link, Geralt felt it: fractal patterns unfolding like poisoned flowers. "It’s
-  not defense," Oreck breathed. "It’s rehearsal." Senareth’s voice coiled through
-  the roots— *For the Garden’s requiem*. Above them, winged shadows banked lower,
-  their flight paths syncing to the dissonant hymn. The air thickened with anticipation.'
+  entity_type: CHR
+raw_quote: The ground betrayed them. Steps that felt solid crumbled into sucking mud
+  without warning. Sweat plastered hair to necks, no longer evaporating but soaking
+  into grit-stained fatigues. Ahead, the Breathing Pyramid rose—a scarred monument
+  of volcanic rock and sagging sandstone, its lower half dissolving into the shimmering
+  haze of swamp breath. Stagnant ponds festered; alkali rims glowed poisonous white
+  beneath twin moons. Mosquitoes whined incessantly, a maddening chorus Lyra silenced
+  near Halvar with targeted micro-pulses from her rig. "Pulse… stronger here," Oreck
+  rumbled, cleaver tip pointing downward. Beneath their feet, the faintest tremor
+  resonated—sub-audible, felt through bone. The Void Spire’s dormant song. Geralt
+  halted the column before the pyramid’s shadowed entrance, a collapsed archway channeling
+  dark water inward. His claw traced the air before the eroded stone. A shimmering
+  resonance field flickered—dry volcanic stone resisting humid decay. "The threshold,"
+  he stated. His armored palm pressed against the stone. Scales flared bright azure.
+  The stone groaned… shifted… revealing a slick descent into cloying darkness smelling
+  of wet earth and ozone. The Buried Luminaire awaited. Its trapped lightning would
+  be their guide… or their grave. Mika tightened her grip on her shock-lance. "Single
+  file. Shields synced. Watch for voids." The descent began. The stairway breathed
+  beneath them.
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_039_jungle_fever.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
 status: captured
 supersedes: null

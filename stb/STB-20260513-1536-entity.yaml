@@ -2,22 +2,24 @@ audit_only: true
 buffer_id: STB-20260513-1536
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 51
-line_start: 51
+line_end: 3
+line_start: 3
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt leaned forward, sketching a complex glyph beside the spire outline
-  – a star fractured by jagged lines. "The Needle Spires... Anunnaki counterfeits.
-  Crude copies. Activated by brute force, not resonance. But Luminaire?" A spark ignited
-  in his eyes. "She’s pure resonance. Light and sound woven into sentience. The Gravitons
-  didn’t just seed guardians... they breathed life into the Lock itself." His voice
-  dropped to a near-whisper. "They split her essence for protection. Scattered echoes
-  across bleeding realities. One shard we saw... trapped in Akashic stasis. The other...
-  the vital core... buried deep beneath shifting sands near Luminaire’s physical locus.
-  Waiting."
+  entity_type: CHR
+raw_quote: The processor core lay paralysed on the ground. She grabbed Dren’s arm—icy
+  cold, trembling. "Look at me, Dren! You’re here! *Now!*" Aldrin seized Judson, shouting
+  names, grounding them in the present. Soldiers locked eyes with comrades they’d
+  mourned, shouting reassurances, anchoring them in shared reality. The vibrating
+  hum subsided. The phantom dunes faded. Two hundred and fifty warriors stood solid,
+  bewildered, but *real*, blinking in the harsh noon light. The flats were silent
+  except for ragged breaths. The Tower loomed closer, its impossible shadow stretching
+  long across the fractured salt. Mika met Oreck’s impassive lenses. "Geralt?" she
+  demanded. Oreck shook his head. Their was a silence that overwhelmed the crowd..
+  500 soldiers to tribute Geralt sacrifice Oreck spoke "Deeper.. The Sage… awaits."
+  And the army continued its march to the Tower.
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_037_the_circle_of_progress.md
+source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
 status: captured
 supersedes: null

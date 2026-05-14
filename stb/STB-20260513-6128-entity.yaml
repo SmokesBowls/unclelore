@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-6128
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 77
+line_start: 77
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The woman did not nod. The slaves did not acknowledge plans. But she stepped
+  aside, and Ember stepped through, and the Igigi boy followed, and the door closed
+  behind them.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_130_within_tolerance.txt
+status: captured
+supersedes: null

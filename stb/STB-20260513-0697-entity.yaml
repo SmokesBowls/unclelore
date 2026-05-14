@@ -2,17 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-0697
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 1411
-line_start: 1411
+line_end: 901
+line_start: 901
 parsed_payload:
   confidence: medium
   entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: His mouth opened. Voice that had been silenced by the Anunnaki's punishment
-  suddenly roared out—not words, because words were still denied him, but sound. Pure,
-  inarticulate sound that carried centuries of resentment and rage and the terrible
-  realization that he'd been complicit in horror he could never atone for.
+  entity_type: FAC
+raw_quote: Their commander—distinguishable by additional markings on armor that seemed
+  to shift between visibility and absence—moved toward the Anunnaki's platform. The
+  golden figures descended to meet this newcomer, and for the first time since their
+  creation, the Nameless One witnessed their masters not dictating terms but receiving
+  them.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
+source_file: raw/chapters/book_05_the_nameless_one_024_the_first_spark.md
 status: captured
 supersedes: null

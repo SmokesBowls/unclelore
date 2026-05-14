@@ -2,15 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-0252
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 109
-line_start: 109
+line_end: 49
+line_start: 49
 parsed_payload:
   confidence: medium
   entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: But eight cycles from now, when the Anunnaki departed and left their slaves
-  to inherit a fractured world, they would have the opportunity to find out.
+  entity_type: FAC
+raw_quote: Marduk did not consider that he was ordering his slave workforce to build
+  structures on land that others already occupied. Did not reflect that from the indigenous
+  perspective, this would appear as invasion rather than infrastructure development.
+  Why would he? The mathematics of power were absolute, and power gave the Anunnaki
+  every right to reshape this world according to their purposes.
 signal_type: entity
-source_file: raw/chapters/book_03_the_reckoning_009_stalemate_departure_the_first_coming.md
+source_file: raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
 status: captured
 supersedes: null

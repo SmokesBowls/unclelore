@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-4051
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 100
+line_start: 100
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: He looked deeper. He found the channels where the water moved, the fields
+  where the crops grew, the walls where the stone had been shaped by generations of
+  geomancy. And beneath it all, he found something else—a current that was not only
+  vrill by itself, but something that moved between them.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_108_evolution_of_the_keeper.txt
+status: captured
+supersedes: null

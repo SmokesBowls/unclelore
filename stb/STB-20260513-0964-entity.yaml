@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-0964
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 175
-line_start: 175
+line_end: 607
+line_start: 607
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: A Federation enforcer—this one vaguely reptilian but smaller than Oreck,
-  faster, covered in scales that shifted colors to match surroundings—appeared from
-  Geralt's blind spot, energy blade materializing in clawed hand.
+  entity_type: CHR
+raw_quote: '"THIRD RULE," Geralt shouted mentally, "NO MEASURING CONSCIOUSNESS-SIZES.
+  We''re stuck together. Period. Either make peace or make my life hell. Choose now."'
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured
 supersedes: null

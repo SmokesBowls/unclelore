@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-6416
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 523
+line_start: 523
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: He steps onto the command dais just as the first Anunnaki unfolds from
+  the ceiling. Twelve feet of golden flesh, light fracturing across geometric skin.
+  Its elongated head tilts, mechanical eyes whirring through spectrums.
+signal_type: entity
+source_file: raw/chapters/book_27_the_seam_deadly_words_south_139_final_calculations.txt
+status: captured
+supersedes: null

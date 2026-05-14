@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3678
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 86
-line_start: 86
+line_end: 203
+line_start: 203
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: '"No," the Null-Mage leader confirmed. "But your broadcasts about removing
-  corruption, your public experiments with Anunnaki technology... did you think only
-  your allies were listening?"'
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: The Dragon Mail shifted uneasily at these words, and Tran felt its concern.
+  What if unity didn't mean what they thought? What if the completion of the armor
+  demanded a price neither of them had anticipated?
 signal_type: entity
-source_file: raw/chapters/book_19_worthy_opponents_north_100_convergence_at_ironspire.md
+source_file: raw/chapters/book_17_ancestral_debt_089_the_white_mirror.md
 status: captured
 supersedes: null

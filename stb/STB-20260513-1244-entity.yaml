@@ -2,15 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-1244
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 1028
-line_start: 1028
+line_end: 382
+line_start: 382
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: Transport beams activated across the massive structure—thousands of Anunnaki
-  abandoning vessel that had become tomb, escaping through emergency protocols while
-  mobile city continued acceleration toward mountains that would not yield.
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: '"Geralt! Thank the—" she paused, gaze traveling across the Five, registering
+  absence. "Where''s the assault team? Where are the two hundred fifty warriors you
+  deployed?"'
 signal_type: entity
 source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured

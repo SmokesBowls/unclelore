@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0436
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 14
+line_start: 14
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The word struck the chamber like a physical blow. Livestock. The Igigi
+  had once been architects of star systems, weavers of dimensional fabric, builders
+  of worlds. Now they were reduced to biological resources, their advanced consciousness
+  siphoned to power Anunnaki technology.
+signal_type: entity
+source_file: raw/chapters/book_04_sage_saga_016_the_choice_third_coming.md
+status: captured
+supersedes: null

@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5011
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 438
+line_start: 438
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: But the fracture—the crack that had been holding for centuries, the seam
+  that should have broken and hadn't—shifted. Not physically. Energetically. A release
+  so subtle Vale felt it only because his palm was pressed to the exact spot where
+  it happened.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_115_the_shape_of_asking.txt
+status: captured
+supersedes: null

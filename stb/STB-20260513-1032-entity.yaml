@@ -2,15 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-1032
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 665
-line_start: 665
+line_end: 99
+line_start: 99
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: By the time Geralt's telekinetic explosion announced external assault,
-  half the compound's guard force was already disabled or scrambling to understand
-  attacks from inside.
+  entity_name: Galactic Federation
+  entity_type: FAC
+raw_quote: '"That was not request. That was statement of legal requirement under Galactic
+  Federation Artifact Control Regulation, Section 7, Subsection 12. Unauthorized possession
+  of Aeon Keeper technology constitutes Class-1 violation punishable by artifact confiscation
+  and mandatory detention."'
 signal_type: entity
 source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured

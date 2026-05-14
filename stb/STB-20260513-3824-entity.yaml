@@ -2,18 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3824
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 481
-line_start: 481
+line_end: 98
+line_start: 98
 parsed_payload:
   confidence: medium
-  entity_name: Nephoretti
-  entity_type: UNKNOWN
-raw_quote: Sera herself changed. The girl who had hummed in the darkness of the fissure
-  became a woman whose voice could calm a flood or turn a giant from the boundary.
-  She was the bridge between the two peoples, the one who could speak the language
-  that was neither Nephoretti nor giant but something new. When she sang, the grove
-  giants listened. When she spoke, the council heard.
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: For a moment, there were two distinct voices—Tran and Zaron, bearer and
+  armor, mortal and eternal. Then they spoke as one, their unity achieved not through
+  dominance but through perfect synthesis.
 signal_type: entity
-source_file: raw/chapters/book_20_the_discordant_pulse_south_105_garden_grove.md
+source_file: raw/chapters/book_19_worthy_opponents_north_102_convergence_on_mars.md
 status: captured
 supersedes: null

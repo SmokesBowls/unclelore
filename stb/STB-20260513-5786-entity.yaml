@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-5786
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 209
+line_start: 209
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: If he stepped into the center, it would collapse into him. The Nexus point
+  would become an extension of his presence—powerful, but dependent. Unable to exist
+  without him. At the edge, it could exist without him. The resonance could hold itself,
+  thread itself through the stone and the vrill and the geometry of the placement,
+  and remain. A point in the network that did not need the constant to sustain it.
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_124_the_last_threshold_release_of_the_constant.txt
+status: captured
+supersedes: null

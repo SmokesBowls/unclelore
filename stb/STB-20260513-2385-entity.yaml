@@ -2,17 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-2385
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 71
-line_start: 71
+line_end: 118
+line_start: 118
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: It was the most mentally exhausting task Geralt had ever undertaken. Every
-  corridor was a test. A door wouldn’t open until he consciously framed a desire to
-  go through it. A floor-panel activated only if he acknowledged its existence as
-  a path.
+  entity_type: CHR
+raw_quote: “Can you do it?” Geralt asked.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_052_entry_without_standing.md
+source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
 status: captured
 supersedes: null

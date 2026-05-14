@@ -2,20 +2,20 @@ audit_only: true
 buffer_id: STB-20260513-3818
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 419
-line_start: 419
+line_end: 74
+line_start: 74
 parsed_payload:
   confidence: medium
-  entity_name: Nephoretti
-  entity_type: UNKNOWN
-raw_quote: But the song was never perfect. The grove giants’ voices were too deep
-  for some words, too slow for others. And the Nephoretti – all but Sera – could only
-  catch fragments of meaning when the giants sang among themselves. It was enough
-  to know danger from peace, enough to coordinate the watches, enough to share the
-  work of building. But the deep conversations, the songs that told of the highlands
-  and the war, the melodies that carried the history of their kind – those remained
-  just beyond reach.
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: '"Mathematical defense grid, initialize!" Helix commanded, and the Igigi
+  linked their consciousness into a combat computer of unparalleled complexity. Reality
+  around them began to flicker as they calculated probability paths, nudging events
+  toward favorable outcomes through sheer computational force. A missile that should
+  have hit deflected at the last second. An enemy soldier tripped over a stone that
+  statistically shouldn''t have been there. Chaos theory weaponized and deployed with
+  surgical precision.'
 signal_type: entity
-source_file: raw/chapters/book_20_the_discordant_pulse_south_105_garden_grove.md
+source_file: raw/chapters/book_19_worthy_opponents_north_102_convergence_on_mars.md
 status: captured
 supersedes: null

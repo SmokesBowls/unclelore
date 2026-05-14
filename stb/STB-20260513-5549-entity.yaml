@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-5549
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 39
+line_start: 39
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: The elder stopped ten paces from the camp's edge. Its milky eyes moved
+  across the group—the Nephoretti, the Igigi, the giants, Zephyr—and finally settled
+  on Vale. It held his gaze for a long moment. Measuring. Weighing.
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_120_the_language_of_stone.txt
+status: captured
+supersedes: null

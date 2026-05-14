@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-4998
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 378
+line_start: 378
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: The fracture itself was not large. A crack no wider than Vale's hand, running
+  diagonal across the seam. But the stone around it was exhausted. Vale could feel
+  it without touching—a weariness that radiated outward, pressing against his awareness
+  like a sigh that had been held too long.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_115_the_shape_of_asking.txt
+status: captured
+supersedes: null

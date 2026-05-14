@@ -2,17 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-0539
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 85
-line_start: 85
+line_end: 138
+line_start: 138
 parsed_payload:
   predicate: serves
   subject: UNRESOLVED
   target: UNRESOLVED
   temporal_scope: unresolved
-raw_quote: And in quantum harmonics that connected all possible forms of existence,
-  reality itself celebrated consciousness evolution that served evolution beyond evolution
-  while preserving everything essential that evolution had discovered.
+raw_quote: '"This is graduation," the Sage realized as their collective frequencies
+  reached integration that made individual mastery seem preparatory rather than complete.
+  "Not completion of education, but beginning of consciousness evolution that serves
+  evolution itself rather than individual achievement."'
 signal_type: relationship
-source_file: raw/chapters/book_04_sage_saga_023_beyond_identity.md
+source_file: raw/chapters/book_04_sage_saga_021_the_first_lesson.md
 status: captured
 supersedes: null

@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-3260
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 273
+line_start: 273
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: The revelation that Viên's training was part of a larger pattern brought
+  both comfort and increased responsibility. He was not facing cosmic challenges alone,
+  but as part of a community of awakening heroes whose combined abilities would determine
+  whether resistance or tyranny would shape the galaxy's future.
+signal_type: relationship
+source_file: raw/chapters/book_14_lessons_of_inheritance_075_anchor_points_of_time.md
+status: captured
+supersedes: null

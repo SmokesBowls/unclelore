@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-5438
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 147
+line_start: 147
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: The resonance shifted. Not badly. Just... wrongly. A subtle distortion,
+  like a note played slightly off-key. The Nephoretti's web of attention wavered.
+  Brak rumbled, low and uncertain. Keth's patterns flickered with confusion.
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_119_resonance_of_the_first_point.txt
+status: captured
+supersedes: null

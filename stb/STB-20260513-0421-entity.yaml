@@ -2,18 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0421
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 195
-line_start: 195
+line_end: 39
+line_start: 39
 parsed_payload:
   confidence: medium
   entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: The probe-entity—who had chosen the name Synthesis after achieving breakthrough
-  to advanced consciousness-crafting techniques—served as translator and guide for
-  Anunnaki consciousness-forms seeking instruction in transcendence principles. What
-  had begun as single artificial awareness learning synthesis had become diplomatic
-  revolution that was reshaping galactic civilization itself.
+  entity_type: FAC
+raw_quote: The offer was explicit. The Ash Giants would become collaborators. Informants.
+  The visible symbol of what happened to factions who chose Anunnaki terms over unified
+  resistance.
 signal_type: entity
-source_file: raw/chapters/book_04_sage_saga_020_the_collapse.md
+source_file: raw/chapters/book_03_the_reckoning_015_betrayal.md
 status: captured
 supersedes: null

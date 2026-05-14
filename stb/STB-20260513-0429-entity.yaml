@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0429
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 137
+line_start: 137
+parsed_payload:
+  confidence: medium
+  entity_name: Aeon Keepers
+  entity_type: FAC
+raw_quote: The Nephilim manifestation had been unexpected—evidence that the Aeon Keepers
+  maintained more influence than her initial assessments suggested. But the convergence
+  itself had served her purposes perfectly. The ritual's success had fractured Giant
+  unity more completely than military conquest ever could.
+signal_type: entity
+source_file: raw/chapters/book_03_the_reckoning_015_betrayal.md
+status: captured
+supersedes: null

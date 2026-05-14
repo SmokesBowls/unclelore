@@ -2,15 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-1976
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 222
-line_start: 222
+line_end: 197
+line_start: 197
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt felt the bond within him contract, then focus with the intensity
-  of a scalpel. Not with fear, but with assessment.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: Oreck’s armor hummed, panels lighting up. “Maybe. It’s keyed to Anunnaki
+  systems. I might be able to overload one generator, create a breach. But…”
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_044_the_mountains_shadow.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_042_the_verdant_crossing.md
 status: captured
 supersedes: null

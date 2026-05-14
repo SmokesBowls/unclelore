@@ -2,22 +2,25 @@ audit_only: true
 buffer_id: STB-20260513-1576
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 66
-line_start: 66
+line_end: 77
+line_start: 77
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'Light stabbed their eyes. The obsidian Spire plunged into the Lucid Storm—an
-  underground lake burning teal with captured energy. Static crackled across Geralt’s
-  vambrace, shorting displays. Legionnaire shields flickered, dying. Lyra cursed as
-  her medicae rig sparked, injectors falling inert. Bioluminescent horrors—eel-things
-  woven from lightning—snaked through the water, drawn to kinetic fields. Mika glanced
-  left. Torren’s reflection shimmered on the lake: not his scarred face, but a sneering
-  warlord draped in Anunnaki sigils. Halvar recoiled from his own—a skeletal husk
-  bleeding shadow. Geralt saw Zaren’s dragon form fractured, scales edged in violet
-  rot. The Luminaire’s light didn’t illuminate. It judged.'
+  entity_type: CHR
+raw_quote: 'Beyond the arch stretched a narrow causeway of pure, transparent ice spanning
+  a fathomless chasm. Far below, embedded like a splinter in the mountain’s core,
+  pulsed the apex of the Needle Spire – a colossal spike of dark Annunaki metal humming
+  with dormant power. Its chroniton resonance vibrated through Geralt’s bones, calling
+  fiercely. Althurion stopped at the causeway’s edge. **"The Buried Resonance,"**
+  he intoned. **"Its core remains dormant. To activate its archive… you must resonate
+  *with* its harmonics. But know this: The spire’s activation echoes across the deep
+  skein. It will draw attention."** His pale sky-eyes held Geralt’s. **"Is your purpose
+  worth that beacon?"** Geralt stared at the spire, feeling the applicator’s fractured
+  shell resonate. Purpose hardened within him. Mika. The Five. The scattered Legion.
+  "It is," he stated, voice echoing in the frozen air. He stepped onto the ice bridge.
+  The Spire pulsed brighter. The true configuration began.'
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
 status: captured
 supersedes: null

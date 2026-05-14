@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-2092
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 313
-line_start: 313
+line_end: 292
+line_start: 292
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt launched himself at the nearest golem, using a wing-assisted jump
-  to clear its sweeping axe. He landed on its shoulder, driving his armored fist into
-  its lapis eye. The construct shattered into dust. But two more took its place.
+  entity_type: CHR
+raw_quote: Then, she addressed Geralt alone, a final, private resonance threading
+  through the bond, beneath the clinical tone. “The waiting begins now. Do not watch
+  for me in the light. I am no longer there. Listen for me in the stillness. I am
+  the anchor in your deep. The vigil is shared.”
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_046_not_like_this.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_044_the_mountains_shadow.md
 status: captured
 supersedes: null

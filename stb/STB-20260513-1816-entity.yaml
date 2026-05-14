@@ -2,13 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-1816
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 1091
-line_start: 1091
+line_end: 119
+line_start: 119
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Extended his hand. Geralt grasped it.
+  entity_type: CHR
+raw_quote: '"Let it." Geralt''s voice was rough. "Node Gamma taught us something.
+  The Queen''s parasites learn, but they''re still parasites. They twist what already
+  exists. They can''t create." He met Mika''s eyes. "But we can. Human emotion strong
+  enough to anchor souls across time. Giant warriors who remember when Earth itself
+  awakened. A cosmic function learning what it means to hope."'
 signal_type: entity
 source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
 status: captured

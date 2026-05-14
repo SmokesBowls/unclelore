@@ -2,18 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-2656
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 169
-line_start: 169
+line_end: 241
+line_start: 241
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt exhaled. The numbness in his chest didn't fade—it *recognized* itself.
-  These weren't soldiers. They were his own scorch marks given sentience. "Stand,"
-  he ordered softly. Five armored figures rose as one, their movements synchronized
-  like fingers on a single hand. Behind them, the false sun's cracks deepened another
-  fraction. Some silences weren't empty—they were coiled.
+  entity_type: CHR
+raw_quote: “Do it!” Geralt ordered.
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
+source_file: raw/chapters/book_09_bureaucratic_debt_055_the_anchors_forge.md
 status: captured
 supersedes: null

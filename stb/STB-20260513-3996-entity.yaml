@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-3996
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 804
+line_start: 804
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: Sera watched them work, day after day, and marveled at the difference between
+  their labor and the work of the Nephoretti. When a Nephoretti shaped stone, they
+  sang to it, felt it, coaxed it into form. When the Igigi shaped stone, they measured
+  it, calculated the angles, applied force at exactly the right point. Neither way
+  was better. Neither way was worse. They were simply different—two languages speaking
+  the same truth.
+signal_type: entity
+source_file: raw/chapters/book_20_the_discordant_pulse_south_106_sky_fallen.txt
+status: captured
+supersedes: null

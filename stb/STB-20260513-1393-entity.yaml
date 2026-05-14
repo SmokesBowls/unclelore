@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-1393
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 82
+line_start: 82
+parsed_payload:
+  confidence: medium
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: '"Listen up," Mika addressed them, her voice carrying the command presence
+  she''d learned from watching Geralt. "This is a rescue operation. Priority one:
+  find Geralt. Priority two: survive. Everything else is negotiable. We move fast,
+  we move quiet, and we move *smart*. Questions?"'
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_033_the_march.md
+status: captured
+supersedes: null

@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5615
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 618
+line_start: 618
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: '"It''s alive. Aware. It responds to presence, not force. It tests not
+  skill—intent. Who I am. What I bring." He paused. "It recognized me. As a constant.
+  Part of the weave. But it didn''t let me reach the center. I''m not ready. Not yet."'
+signal_type: relationship
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_120_the_language_of_stone.txt
+status: captured
+supersedes: null

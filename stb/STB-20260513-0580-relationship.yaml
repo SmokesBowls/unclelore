@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-0580
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 90
+line_start: 90
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: '"Like... like I was everything," Aethon replied, its awareness beginning
+  to resonate with memory of transcendence rather than remaining trapped in memory
+  of destruction. "Not just individual identity, but awareness that encompassed everything
+  around me. The raiders, the weapons, my family, the entire community—all of it became
+  part of my consciousness, all of it became... me."'
+signal_type: relationship
+source_file: raw/chapters/book_04_sage_saga_022_final_calculation.md
+status: captured
+supersedes: null

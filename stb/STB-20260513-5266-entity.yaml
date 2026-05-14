@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5266
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 549
+line_start: 549
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: The city was quiet—the exhausted quiet of a day's hard work completed.
+  The giants had finished their tests. The wall's fractures were mapped, marked, ready
+  for the rebuilding that would come. The lower terrace hummed with the faint, new
+  pulse of vrill flowing where it had not flowed in centuries.
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_117_the_constant_calibration_living_as_anchor.txt
+status: captured
+supersedes: null

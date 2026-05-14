@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-1064
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 25
-line_start: 25
+line_end: 277
+line_start: 277
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt stood on elevated position—using compound wall that had once contained
-  them as platform to address assembly—and felt weight of responsibility that transcended
-  anything he'd experienced during initial liberation.
+  entity_type: CHR
+raw_quote: '"We''re not trying to hurt you," Geralt called out, voice amplified by
+  armor''s systems. "We''re just defending our freedom. Leave. Report that we''re
+  too dangerous to take without casualties you''re not willing to accept. Let this
+  be someone else''s problem."'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured
 supersedes: null

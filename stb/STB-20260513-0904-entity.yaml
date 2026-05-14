@@ -2,14 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0904
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 761
-line_start: 761
+line_end: 169
+line_start: 169
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt met her gaze directly—human eyes looking into human eyes despite
-  alien technology separating them.
+  entity_type: CHR
+raw_quote: '"No," Geralt admitted honestly. "I''m not certain of anything except that
+  the Anunnaki won''t stop. Won''t leave Earth voluntarily. Won''t cease their extraction
+  and enslavement unless forced to acknowledge that occupation costs more than resources
+  justify."'
 signal_type: entity
 source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured

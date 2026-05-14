@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-4593
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 403
+line_start: 403
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: 'Vale didn''t move. A beat. Another. Then the distortion deepened—just
+  for a moment. The stone beneath it shifted, not breaking, but compressing, like
+  weight pressing down where nothing visible stood. Then gone. Vale stepped—but not
+  where he had been about to. He shifted slightly to the left. Placed his foot on
+  solid stone. Nothing happened. He continued. The Igigi watched the spot they had
+  passed. Then: "Better." That was all.'
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_112_eastern_system.txt
+status: captured
+supersedes: null

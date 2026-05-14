@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-5677
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 13
+line_start: 13
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale felt it in his chest—a quality of attention that was different from
+  the day before. Not more intense. More focused. The labyrinth had measured them
+  as individuals, then as a pattern. Now it was measuring them as something else.
+  Something that had chosen to move together through layers that had refused Vale
+  when he walked alone.
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_122_unravealing.txt
+status: captured
+supersedes: null

@@ -2,20 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2616
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 13
-line_start: 13
+line_end: 269
+line_start: 269
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The plinth's fractured shards still hung suspended in the air when Geralt
-  stepped forward, his shadow stretching long and jagged across the guild's sanctum.
-  Kyh's fingers brushed his wrist—a silent plea for restraint—but he shook her off
-  with a twitch of muscle beneath the Dragon Mail. The twelve sovereigns watched from
-  their elevated benches, their faces carefully neutral, their hands folded in identical
-  postures of condescension. Documentation. Always documentation. As if history could
-  be contained in ink and vellum.
+  entity_type: CHR
+raw_quote: '"The Moon Kingdom fell to protect this," she said, her form dissolving
+  into starlight. "I fell to protect this. Don''t let it be for nothing. In less than
+  three thousand years, Geralt. Be ready."'
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
+source_file: raw/chapters/book_09_bureaucratic_debt_054_tue_lunar_spire.md
 status: captured
 supersedes: null

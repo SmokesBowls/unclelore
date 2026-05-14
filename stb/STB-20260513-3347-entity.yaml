@@ -2,15 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3347
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 89
-line_start: 89
+line_end: 539
+line_start: 539
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: Isla step siser to both Tran and Keen asked worriedly "vein was the man
-  we met the night of the great shadow? is keen safe with him?"-
+  entity_type: CHR
+raw_quote: '"The Guild expands," Tran declared formally, his voice carrying authority
+  that made the ancient stones sing in harmonic response. "May we prove worthy of
+  the trust being placed in us."'
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
+source_file: raw/chapters/book_15_legends_and_gods_079_mages_awakening.md
 status: captured
 supersedes: null

@@ -2,14 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-0870
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 537
-line_start: 537
+line_end: 41
+line_start: 41
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt thought of the trial they'd just completed. Of Ušumgallu's testing.
-  Of what he'd learned about power and plurality and the necessity of contested consciousness.
+  entity_name: Aeon Keepers
+  entity_type: FAC
+raw_quote: '"If you accept, we become brothers. Allies by choice rather than circumstance.
+  And together, we claim what the Aeon Keepers prepared for humanity''s liberation."'
 signal_type: entity
 source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured

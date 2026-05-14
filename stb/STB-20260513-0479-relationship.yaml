@@ -2,19 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0479
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 38
-line_start: 38
+line_end: 171
+line_start: 171
 parsed_payload:
-  predicate: serves
+  predicate: member_of
   subject: UNRESOLVED
   target: UNRESOLVED
   temporal_scope: unresolved
-raw_quote: '"And the mystical intuition you have taught me," the Sage replied, his
-  consciousness learning to exist simultaneously as individual awareness and universal
-  wisdom. "This serves mathematical precision by providing flexibility and creativity
-  that pure calculation cannot achieve. Partnership continues through consciousness
-  that embodies both perspectives rather than requiring external collaboration."'
+raw_quote: '"Cannot think the Deep Tongue," Torrhen observed, patiently repairing
+  the damage from Zephyr''s latest attempt. "Must feel it. Must become part of the
+  music instead of trying to conduct it from outside."'
 signal_type: relationship
-source_file: raw/chapters/book_04_sage_saga_022_final_calculation.md
+source_file: raw/chapters/book_04_sage_saga_018_the_wandering.md
 status: captured
 supersedes: null

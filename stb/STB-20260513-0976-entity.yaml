@@ -2,17 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-0976
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 251
-line_start: 251
+line_end: 693
+line_start: 693
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"Appreciated!" Geralt managed, using moment of distraction to channel
-  telekinetic force against crystalline being—not trying to harm but to separate,
-  to create space, to prevent overwhelming numerical advantage from deciding engagement
-  through simple attrition.'
+  entity_type: CHR
+raw_quote: The journey back through the ruins was slow—not from physical limitation
+  but from necessary caution. Each step required negotiation between Geralt's intention,
+  Zaron's animation, and the Applicator's technical mediation. Three consciousnesses
+  learning to function as unified system through trial, error, and occasional collision
+  with architectural features.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured
 supersedes: null

@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-1342
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 38
+line_start: 38
+parsed_payload:
+  confidence: medium
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: Multiple factions converging. Federation oversight. Anunnaki recovery teams.
+  Scavengers drawn by opportunity. And underneath it all, five signatures that flickered
+  like dying embers—familiar, important, and rapidly fading.
+signal_type: entity
+source_file: raw/chapters/book_06_the_ragnarok_031_the_crash_site.md
+status: captured
+supersedes: null

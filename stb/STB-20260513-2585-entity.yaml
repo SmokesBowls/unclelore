@@ -2,18 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2585
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 115
-line_start: 115
+line_end: 355
+line_start: 355
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Pyrocast's wingbeats were slower here, each downstroke compressing centuries.
-  "You mistake me, mortal. This isn't about your *capacity* to endure their truths."
-  A gust of dragon breath illuminated the scars webbing Geralt's armor—the old burns,
-  the Spire's backlash, the hollow where empathy used to live. "It's about whether
-  you can still *hear* them."
+  entity_type: CHR
+raw_quote: Geralt met his friend’s gaze. “I will be.” He looked at the dark Pool,
+  at the lost Keeper, at the saved and broken creatures they had left behind. “We
+  stopped it. But they showed us our weakness.”
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
+source_file: raw/chapters/book_09_bureaucratic_debt_053_the_twilight_city.md
 status: captured
 supersedes: null

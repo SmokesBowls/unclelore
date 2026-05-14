@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-5054
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 67
+line_start: 67
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Its surface was covered in patterns—not writing, not quite. Grooves and
+  ridges that flowed into each other, creating shapes that seemed to shift when Vale
+  looked at them directly. The dark stone was warm beneath his palm, warmer than the
+  morning sun could account for. And beneath the warmth, a vibration. Low, steady,
+  almost subsonic. A frequency that matched nothing he had ever felt—and yet felt
+  familiar.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_116_keepers_recognition.txt
+status: captured
+supersedes: null

@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-4269
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 431
+line_start: 431
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: The system, which had been following the currents Flint had mapped, recalibrated.
+  The graviton flow shifted. The vrill resistance spiked. The pattern that Flint had
+  spent seasons learning became noise.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_110_the_bleeding_convergance.txt
+status: captured
+supersedes: null

@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-5064
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 97
+line_start: 97
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Brak had descended into the basin. The swamp giant's massive form loomed
+  behind Vale, its null-pressure pressing gently against the pillar. Its milky eyes
+  were fixed on the dark stone.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_116_keepers_recognition.txt
+status: captured
+supersedes: null

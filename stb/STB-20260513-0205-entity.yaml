@@ -2,19 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-0205
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 145
-line_start: 145
+line_end: 100
+line_start: 100
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: Not with sophisticated strategy or coordinated military tactics—they possessed
-  neither. But with simple, stubborn refusal to yield territory they had occupied
-  for centuries. When Reptilian forces attempted perimeter establishment, the desert
-  Giants reshaped sand into barriers. When Igigi workers began foundation excavation,
-  the Giants would undo their work through consciousness-touch that demonstrated far
-  greater sophistication than anything the Anunnaki's slaves could achieve.
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: Year 0, Month 3, Day 21 - Igigi Transport Vessel, Atmospheric Entry
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
+source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
 status: captured
 supersedes: null

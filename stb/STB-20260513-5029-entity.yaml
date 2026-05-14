@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5029
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 538
+line_start: 538
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale sat apart from the others, his back against a smooth stone, his eyes
+  on the dark water. The needle's pulse was faint now—miles of terrain and ancient
+  stone between him and First Shore. Luminaire's warmth was a distant ember, steady
+  but far.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_115_the_shape_of_asking.txt
+status: captured
+supersedes: null

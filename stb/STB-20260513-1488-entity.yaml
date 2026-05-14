@@ -2,28 +2,29 @@ audit_only: true
 buffer_id: STB-20260513-1488
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 69
-line_start: 69
+line_end: 57
+line_start: 57
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The cloud-bridge felt like walking through solidified thought. Each step
-  resonated with harmonics, vibrating up Geralt’s legs and into his core. It demanded
-  balance – not just physical, but intentional. A misstep in focus, a spike of fear
-  from Jorik, and the mist beneath their boots would thin alarmingly. Althurion walked
-  effortlessly ahead, his form blending with the vapour. **"Intent shapes substance,"**
-  his harmonics hummed, a lesson woven into the air itself. **"Anger? The bridge trembles.
-  Doubt? It dissolves. Clarity? It holds."** Geralt felt the applicator strain, analyzing
-  the harmonic frequencies, trying to find a stable resonance. It was useless. This
-  wasn't logic; it was *will*. He pictured Mika’s determined smile, Varik’s loyalty,
-  the desperate hope of the scattered 250. Purpose solidified. His steps grew firmer.
-  Beside him, Jorik breathed slowly, eyes fixed on Geralt’s back, drawing resolve
-  from him. The bridge steadied. Ahead, the mist parted onto a vast, impossible plaza
-  carved from living cloud and gleaming ice-crystal. Structures shimmered into view
-  – libraries formed from frozen lightning, archives held in suspended raindrops.
-  And standing sentinel were more Giants, their frost-pale eyes watching, waiting.
+  entity_type: CHR
+raw_quote: 'The tunnel opened onto a windswept plateau overlooking a valley choked
+  with dense, alien forest. Below, nestled against a sheer cliff face, lay a settlement
+  – crude stone huts clustered around a central plaza. Smoke curled lazily from chimneys.
+  The air smelled of pine resin and damp earth. "Observe," Kaelen commanded. Geralt
+  focused his chroniton perception. The settlement pulsed with a faint, shimmering
+  bubble – the temporal boundary. Within it, time flowed... but cyclically. He saw
+  faint ghost-images overlapping the scene: a farmer leading the same grivet team
+  past the same hut three times; children chasing a leather ball in identical paths.
+  The applicator mapped the cycle: *Three standard days. Pattern repeats precisely.*
+  "The loop anchor," Kaelen murmured, pointing towards the cliff face behind the settlement.
+  Embedded high in the rock was a massive, weathered stone carving – a stylized grivet
+  mother protecting her kits. "The predator stole Katherine, the settlement''s favored
+  grivet kit, triggering the trauma. The carving embodies their unresolved grief.
+  Someone must confront that grief *within* the loop to break it." Geralt frowned.
+  "How? They don''t remember." Kaelen''s gaze was unyielding. "You enter. You remember.
+  You guide."'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
+source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
 status: captured
 supersedes: null

@@ -2,16 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-0774
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 9
-line_start: 9
+line_end: 1387
+line_start: 1387
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Oreck's eyes opened as Geralt approached—vertical pupils tracking movement
-  with predator's instinct that would never fully fade regardless of redemption earned
-  or alliance forged.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: The power in the Anunnaki's hand reached critical threshold.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
 status: captured
 supersedes: null

@@ -2,14 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-2266
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 668
-line_start: 668
+line_end: 153
+line_start: 153
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt met Oreck’s eyes, then Zephyr’s. No more words were needed.
+  entity_type: CHR
+raw_quote: Geralt gasped, bleeding, held upright by… nothing. The air itself supported
+  him. He blinked, vision swimming.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
+source_file: raw/chapters/book_09_bureaucratic_debt_048_the_ledger_born.md
 status: captured
 supersedes: null

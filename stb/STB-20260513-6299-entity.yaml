@@ -1,0 +1,15 @@
+audit_only: true
+buffer_id: STB-20260513-6299
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 661
+line_start: 661
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale looks at Vael for one more moment.
+signal_type: entity
+source_file: raw/chapters/book_27_the_seam_deadly_words_south_1139_1139.txt
+status: captured
+supersedes: null

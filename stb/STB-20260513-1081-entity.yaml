@@ -2,18 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-1081
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 207
-line_start: 207
+line_end: 403
+line_start: 403
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: He was tall—reed-thin despite height, wearing bone-white armor that hummed
-  with psionic light that made air itself shimmer. Where Geralt's Dragon Mail suggested
-  draconic power through scales and wing-mounts, Sath'rak's armor spoke to different
-  aesthetic entirely—angelic, celestial, carrying weight of divine authority that
-  transcended simple military function.
+  entity_type: CHR
+raw_quote: And Geralt—human wearing god-consciousness, trinity of awareness unified
+  in purpose despite constant disagreement, former slave who'd claimed identity through
+  choice rather than accepting designation—stood at the center of it all.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
+source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
 status: captured
 supersedes: null

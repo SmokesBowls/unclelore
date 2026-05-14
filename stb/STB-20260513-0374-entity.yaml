@@ -2,17 +2,20 @@ audit_only: true
 buffer_id: STB-20260513-0374
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 82
-line_start: 82
+line_end: 9
+line_start: 9
 parsed_payload:
   confidence: medium
   entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: The chamber's crystalline walls pulsed with approval as the assembled war-lords
-  savored the elegant cruelty of the punishment. This was Anunnaki artistry—not mere
-  destruction, but sophisticated torture designed to echo across generations, to serve
-  as an eternal reminder that resistance brought only suffering.
+  entity_type: FAC
+raw_quote: Torhh represented the Tidecallers—ancient beyond most, memory stretching
+  back to the First Coming and even fragments of the Garden itself. Beside the jade-green
+  Giant stood Korrhan of the Ash Giants, its burnt-red stone-flesh cracked and barely
+  holding cohesion after months of Gruulith assault. Saresh limped forward for the
+  desert tribes, its body fragmenting from sustained Dregan sonic attacks. Representatives
+  from Forest, Mountain, Highland, and Subterranean populations completed the circle,
+  each bearing wounds that spoke of coordinated Anunnaki pressure across all territories.
 signal_type: entity
-source_file: raw/chapters/book_04_sage_saga_017_niburu_shadow.md
+source_file: raw/chapters/book_03_the_reckoning_012_nephilim_summoning.md
 status: captured
 supersedes: null

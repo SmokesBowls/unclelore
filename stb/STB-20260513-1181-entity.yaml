@@ -2,17 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-1181
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 566
-line_start: 566
+line_end: 294
+line_start: 294
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '*Then we don''t attack,* Geralt projected with certainty that surprised
-  him—idea crystallizing from desperation and tactical impossibility and recognition
-  that sometimes victory came from stealing rather than destroying. *We infiltrate.
-  We hijack. We take one of those vessels and use it against them.*'
+  entity_type: CHR
+raw_quote: Geralt felt his arm rise—not through his volition but through the Applicator
+  being forced to puppet him, to demonstrate that free will was illusion that divine
+  authority could revoke. His armored hand pointed toward Mika, toward Oreck, toward
+  five hundred beings whose eyes were glazing as hive-mind protocols activated through
+  compromised relay.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
+source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
 status: captured
 supersedes: null

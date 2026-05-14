@@ -2,17 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-2389
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 133
-line_start: 133
+line_end: 134
+line_start: 134
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: It was beautiful and horrifying. A geometric fusion of crystalline biocomputers
-  and preserved neural tissue—slivers of draconic and Nehereti brain matter, integrated
-  with Anunnaki synaptic latticework. It had no eyes, but Geralt felt its attention
-  like a physical weight, cool and dispassionate.
+  entity_type: CHR
+raw_quote: Vek’tar led, phasing through solid rock when the path narrowed, emerging
+  gasping and coughing up flecks of chroniton-blood. Oreck moved with brutal, ground-eating
+  efficiency, cleaver in hand. Geralt’s armor deployed its wings with a thunderous
+  snap; he grabbed Oreck under the arms and lifted off, skimming the canyon walls.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_052_entry_without_standing.md
+source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
 status: captured
 supersedes: null

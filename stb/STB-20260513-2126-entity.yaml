@@ -2,16 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-2126
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 81
-line_start: 81
+line_end: 315
+line_start: 315
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt pointed. High on the cliff face, beneath the falcons' now-visible
-  nest, a scrap of fabric fluttered. Mika scrambled up the loose scree, her heart
-  pounding. She pulled it free.
+  entity_type: CHR
+raw_quote: Geralt tried to move, to parry. His limbs were trapped in syrup.
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_047_mika.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_045_the_hub_falls.md
 status: captured
 supersedes: null

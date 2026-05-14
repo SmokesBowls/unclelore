@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-4949
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 154
+line_start: 154
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: She stopped beside Vale. Did not look at him. Her eyes were on the fracture,
+  on the young grove giant still kneeling with its palm pressed to the stone, on Zephyr
+  standing patient and still.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_115_the_shape_of_asking.txt
+status: captured
+supersedes: null

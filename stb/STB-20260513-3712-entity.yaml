@@ -2,18 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-3712
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 76
-line_start: 76
+line_end: 131
+line_start: 131
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: But the Nephilim Suppressors were designed for exactly this kind of warfare.
-  Pazuzu took to the air, its impossible wings creating wind patterns that disrupted
-  the Igigi's calculations. Where its shadow fell, mathematics became uncertain, probability
-  clouded. Two plus two no longer reliably equaled four in its presence, causing the
-  computational grid to develop fatal errors.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: Marithel hurried from the detention block, leaving them alone. Whatever
+  was happening had clearly caught the Anunnaki by surprise.
 signal_type: entity
-source_file: raw/chapters/book_19_worthy_opponents_north_102_convergence_on_mars.md
+source_file: raw/chapters/book_18_inquisition_of_yourself_094_chains_of_light.md
 status: captured
 supersedes: null

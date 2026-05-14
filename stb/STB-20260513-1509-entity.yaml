@@ -2,27 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-1509
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 139
-line_start: 139
+line_end: 103
+line_start: 103
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Luminara remained behind, a silent sentinel at the confluence. "The path
-  is open," she resonated, her form beginning to dissolve back into the Akashic flow.
-  "This place is yours as needed throughout your journey, ill be here awaiting, but
-  go, Claim your reward, Resonant Keeper. The echoes await their Commander." Geralt
-  didn't hesitate. He strode forward, Jorik a step behind, the applicator humming
-  softly, no longer screaming warnings but resonating with anticipation. The air thickened
-  as they passed through the archway, the weight of the Akashic Records lifting, replaced
-  by the tangible, charged atmosphere of the Tower. Torchlight danced on the walls
-  ahead. Around a bend, voices grew clearer – the low murmur of soldiers, a sharp
-  command ringing out. Mika’s voice. Geralt quickened his pace, the final steps echoing
-  loudly in the sudden quiet of the corridor. He rounded the corner.. Salt crunched
-  under his boot. Mika stiffened, sensing presence. Slowly, she turned. Her eyes widened,
-  disbelief warring with desperate hope. "Geralt?" Her voice cracked. "You... forged
-  the path?"
+  entity_type: CHR
+raw_quote: Geralt approached deliberately, his gait unhurried, hands visible. His
+  dragon armor, though battered, gleamed faintly, a stark contrast to the rugged,
+  homespun clothes of the builders. One figure paused, wiping sweat from his brow,
+  then froze, his eyes widening.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
+source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
 status: captured
 supersedes: null

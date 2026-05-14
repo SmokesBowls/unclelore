@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-2797
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 495
-line_start: 495
+line_end: 33
+line_start: 33
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The heat seared Geralt's eyebrows before the rift sealed itself with a
-  wet, percussive *thump*. No trace. No farewell. Just the scent of scorched ozone
-  and the creeping realization that Kyh had never once, in all their years, disappeared
-  into a portal without leaving some filament of herself behind.
+  entity_type: CHR
+raw_quote: Zypher’s voice preceded him—not as sound, but as the slow crystallization
+  of meaning in the air. Words formed like frost on Geralt’s armor, etching themselves
+  into the Dragon Mail’s fractures with the precision of a scribe carving prophecy
+  into bone. *"You reek of borrowed time,"* the syllables whispered from the walls
+  themselves, each consonant a shard of obsidian scraping against the silence.
 signal_type: entity
 source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
 status: captured

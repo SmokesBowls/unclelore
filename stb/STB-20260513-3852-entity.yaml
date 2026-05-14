@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3852
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 314
+line_start: 314
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The response was magnificent. Giants from multiple time periods coordinated
+  attacks across chronological boundaries. Human mages cast spells that arrived before
+  they were begun. The Igigi calculated probability curves that included their own
+  future actions, creating self-fulfilling prophecies of victory.
+signal_type: entity
+source_file: raw/chapters/book_19_worthy_opponents_north_102_convergence_on_mars.md
+status: captured
+supersedes: null

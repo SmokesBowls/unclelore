@@ -2,18 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0310
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 51
-line_start: 51
+line_end: 25
+line_start: 25
 parsed_payload:
   confidence: medium
-  entity_name: Aeon Keepers
-  entity_type: UNKNOWN
-raw_quote: '"We attempt communion," Torhh decided, its voice carrying authority that
-  geological patience granted. "All tribes, all factions, unified in one desperate
-  request. We touch the planetary consciousness together, speak through Torrhen''s
-  embedded teachings to the Aeon Keepers beyond the Veil, and we ask for the weapon
-  they created to defend against exactly this threat."'
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: 'Southern Site (Desert Convergence): Needle at 61% completion. Desert Giants
+  maintain aggressive resistance despite heavy casualties. Reptilian forces reduced
+  to minimal operational capacity. Igigi workers increasingly reluctant to enforce
+  construction protocols.'
 signal_type: entity
-source_file: raw/chapters/book_03_the_reckoning_012_nephilim_summoning.md
+source_file: raw/chapters/book_03_the_reckoning_009_stalemate_departure_the_first_coming.md
 status: captured
 supersedes: null

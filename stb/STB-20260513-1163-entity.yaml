@@ -2,15 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-1163
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 396
-line_start: 396
+line_end: 153
+line_start: 153
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Not metaphorically. Geralt felt reality sliding sideways as words that
-  should have made no sense somehow carried weight of truth that couldn't be denied.
+  entity_type: CHR
+raw_quote: '"Two hundred armored fighters," Geralt said thoughtfully. "That''s...
+  that''s actually substantial. Combined with training Oreck''s providing, with tactical
+  coordination we''re developing—"'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
+source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
 status: captured
 supersedes: null

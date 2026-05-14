@@ -2,19 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2725
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 211
-line_start: 211
+line_end: 21
+line_start: 21
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'Zypher circled them both, his robe dissolving into the chamber''s inverted
-  geometry. "Correction: I built a *baseline*." He tapped the clone''s sternum, where
-  a heartbeat should be. "This is what the Queen''s erasure would leave behind—a story
-  with all the contradictions edited out." The clone smiled then, and it was worse
-  than any weapon—Geralt''s own grin stripped of bitterness, of fatigue, of the thousand
-  tiny fractures that made him more than documentation.'
+  entity_type: CHR
+raw_quote: Silence. Then, from the highest bench, a dry chuckle. The eldest sovereign—a
+  being with too many jointed fingers—leaned forward. "We know what you are, Geralt
+  of No House. A spliced soul. A living contradiction."
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+source_file: raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
 status: captured
 supersedes: null

@@ -2,27 +2,29 @@ audit_only: true
 buffer_id: STB-20260513-1484
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 63
-line_start: 63
+line_end: 49
+line_start: 49
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Suddenly, the rock beneath Geralt’s boot dissolved. Not crumbled – *flowed*.
-  The ledge liquefied into swirling vapour. He pitched sideways into thin air. Jorik
-  yelled, grabbing futilely. The mountain itself was rejecting them. Geralt plummeted
-  – then slammed onto an invisible platform of solidified mist. It shimmered beneath
-  him, icy cold. Looking up, he saw Jorik frozen mid-reach, suspended on another disc
-  of cloud-stone. Before them, impossibly tall, stood Althurion, First Speaker. His
-  skin held the blue-white sheen of glacial ice, his eyes the pale, infinite expanse
-  of a winter sky. Tendrils of cloud wreathed his form. He didn't speak; the harmonics
-  emerged directly from the vibrating air itself, deep and resonant, making Geralt’s
-  bones hum. **"Trespassers."** The word wasn't accusation, merely fact. **"You wear
-  stolen fire. You climb with violence. You disturb the Aetherhold's song."** His
-  gaze, ancient and utterly alien, locked onto Geralt’s armor, then flicked to Jorik’s
-  bow. The mountain’s disapproval solidified into crushing pressure. Geralt felt the
-  Neferati’s subtle influence fraying like old rope. This was raw Giantsong, unmediated.
+  entity_type: CHR
+raw_quote: 'They stepped through the arch. Reality fractured. Geralt stood simultaneously
+  on a sun-drenched savannah, a rain-lashed city street, and the frozen cavern. Sounds
+  overlapped – lion roars, honking horns, dripping water. Kaelen remained a constant
+  point beside him. "Focus!" she commanded sharply. "Anchor your *now*! See the chroniton
+  threads!" Geralt wrenched his focus inward, locking onto his tripartite core. The
+  chaotic sensory overload dimmed. He saw it: tangled chroniton threads weaving through
+  the fractured space, some frayed, some knotted impossibly. At the chamber''s chaotic
+  center pulsed a raw wound in reality – the locus fracture itself. And perched atop
+  a jagged ice spire overlooking it, hunched over a frozen grivet kit, was the predator.
+  It resembled a skeletal tromino assembled from mismatched bones, its single eye
+  a swirling vortex of stolen screams. It hissed, dropping the frozen grivet. "Katherine?"
+  Geralt breathed, recognizing the name etched on a tiny collar fragment. Kaelen’s
+  blade materialized. "It names its trophies. Now it hunts bigger prey." The predator
+  launched itself, a screech tearing through the fractured air. Geralt met its charge,
+  his blade singing against bone claws, his harmony a shield against the vortex eye’s
+  temporal pull. The true lesson had begun.'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
+source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
 status: captured
 supersedes: null

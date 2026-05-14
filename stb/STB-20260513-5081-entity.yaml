@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-5081
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 175
+line_start: 175
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Zephyr ran beside Vale. His breath was even, his pace steady despite his
+  age. "You felt it. The needle."
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_116_keepers_recognition.txt
+status: captured
+supersedes: null

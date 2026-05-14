@@ -2,17 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0073
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 44
-line_start: 44
+line_end: 119
+line_start: 119
 parsed_payload:
   confidence: medium
-  entity_name: Neferati
-  entity_type: UNKNOWN
-raw_quote: They descended from the mountain in a cascade of geological force—twenty,
-  thirty, forty massive beings converging on the beaches where the Neferati had landed
-  nine days ago. Some moved in groups by color, jade-greens with jade-greens, burnt-reds
-  with burnt-reds. Others came alone, isolated by choice or circumstance.
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: '"I don''t know yet," Elyraen admitted. "But the memory is encoded in their
+  very structure. In the way their vrill-patterns flow. They know us somehow. Or know
+  something that looks like us."'
 signal_type: entity
-source_file: raw/chapters/book_01_book_of_genesis_004_the_convergence.md
+source_file: raw/chapters/book_01_book_of_genesis_002_molten_descent.md
 status: captured
 supersedes: null

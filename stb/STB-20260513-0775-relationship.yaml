@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-0775
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 1401
+line_start: 1401
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: Some part of himself he'd thought was dead proved otherwise.
+signal_type: relationship
+source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
+status: captured
+supersedes: null

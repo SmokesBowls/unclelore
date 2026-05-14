@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-5630
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 41
+line_start: 41
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: '"Yeah. And that''s gonna be hard for ''em. Harder than fightin''. Harder
+  than buildin''. Just... standin'' at the edge of somethin'' they can''t enter. Trustin''
+  that their role is to hold the ground while others go deeper." Zephyr met his eyes.
+  "That''s the weight of bein'' part of somethin'' larger. Not everyone walks the
+  same path. But every path matters."'
+signal_type: relationship
+source_file: raw/chapters/book_24_threshold_and_network_south_121_aligning_the_pattern_at_the_labyrinths_threshold.txt
+status: captured
+supersedes: null

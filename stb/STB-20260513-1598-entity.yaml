@@ -2,27 +2,35 @@ audit_only: true
 buffer_id: STB-20260513-1598
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 105
-line_start: 105
+line_end: 145
+line_start: 145
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'Entropy beams lanced out. Not fire, but void made manifest. Twisting black-and-silver
-  ribbons swallowed starlight. Where they struck a VALDRASIL, the serpent didn’t explode.
-  It unraveled. Color drained. Form dissolved into translucency. Gone. As if it never
-  existed. Geralt’s chroniton-sight flared—Zaron’s panic spiking at the violation
-  of physics. Beside him, Lyra’s scanner shorted out, vomiting sparks. "Resonance
-  collapse!" she shrieked soundlessly. Above, dragons retaliated. Torrents of plasma—stellar
-  fire twisted into solar prominences—erupted in electric blue and violent purple.
-  They washed over Anunnaki dreadnoughts. Metal vaporized into lingering nebulae—glowing
-  gravesites slowly fading. Temporal weapons warped the battlefield. Patches of space
-  kaleidoscoped into probability cascades. Light bent around invisible singularities,
-  lensing stars into impossible arcs. Bio-electric pulses flashed—green and violet
-  lightning arcing between combatants. The entire sky ignited in neon auroras: corrosive
-  yellows pulsing with distant detonations. Legionnaires shielded their eyes. Oreck’s
-  arrow trembled.'
+  entity_type: CHR
+raw_quote: He stopped, swallowing hard, forcing his gaze to stay locked with hers.
+  The visceral memory of loss battled the undeniable press of her against him. He
+  took a shuddering breath, trying to obey, to stay *here*. As the internal storm
+  subsided enough for him to truly focus, his gaze shifted past Mika’s shoulder. He
+  saw Dren standing nearby, alive, whole, staring at him with bewildered eyes. Geralt
+  froze. Utterly still. His breath caught. He stared, comprehension dawning slowly,
+  impossibly. He looked back at Mika, his brow furrowed in profound confusion. She
+  understood instantly. A slow, compassionate smile touched her lips, fierce pride
+  mixing with shared sorrow. "You saved them, Geralt," she said softly, her voice
+  thick with emotion. Her hand slid down to grip his armored forearm. "You fought
+  the storm. You held the door open... long enough. And *we*," she gestured slightly
+  towards the gathered warriors, "we pulled them back. Through the bleed. Your fury
+  tore the scar, but your strength held the path. Hers pulled them through. Together.
+  Your fight, my anchor." Dren stepped forward hesitantly. "Commander? Sir... we felt
+  you. Pushing us out... before the door slammed shut." Understanding washed over
+  Geralt in a wave – the agonizing push he’d made, the despair of letting go... and
+  Mika intercepting, pulling them from the brink. Failure and salvation intertwined.
+  He looked from Dren back to Mika, the crushing weight lifting, replaced by a staggering
+  awe. He pulled Mika fiercely back into his arms, burying his face in her neck, no
+  words needed, just the shared, shuddering breath of impossible reunion. Relief,
+  profound exhaustion, and a burgeoning, fierce joy vibrated between them. The army
+  remained hushed, bearing witness to the quiet storm of their leaders' embrace.
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
 status: captured
 supersedes: null

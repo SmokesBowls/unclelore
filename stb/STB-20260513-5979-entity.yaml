@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-5979
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 63
+line_start: 63
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: The chamber holds its silence around him—not the dead silence of the occupation's
+  suppression, but the suspended quiet of a breath that has found its rhythm. His
+  palm rests flat against the stone floor. The vrill beneath it runs thin, thready,
+  a current starved for two centuries. The void anchor in his chest sits heavy, stable,
+  a counterweight that no longer tears.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_128_one_degree_above.txt
+status: captured
+supersedes: null

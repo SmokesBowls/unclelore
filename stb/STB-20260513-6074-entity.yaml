@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-6074
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 143
+line_start: 143
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: She had seen the slave quarters in the old terraces—human and Igigi, moving
+  with the slow, hollow gait of the occupied. She had seen the reptilian handlers
+  on the high walls, their instruments aimed outward, their attention fixed on the
+  approaches they expected an enemy to use. She had seen the Needle's spire, scarred
+  and silent, rising above the inner chambers.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_129_calibration_drift.txt
+status: captured
+supersedes: null

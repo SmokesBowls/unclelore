@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-2377
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 58
+line_start: 58
+parsed_payload:
+  predicate: member_of
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: He phased into visibility halfway up the cliff face, his body merged with
+  the crystal as if he were part of its structure. Vek’tar. His skin was the color
+  of tarnished copper, streaked with grey fatigue-lines. One eye was a sharp, intelligent
+  amber. The other was clouded solid white, a permanent scar from chroniton feedback.
+  In his hand was a cleaver similar to Oreck’s, but its edge was serrated with crystalline
+  teeth that hummed with temporal dissonance.
+signal_type: relationship
+source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
+status: captured
+supersedes: null

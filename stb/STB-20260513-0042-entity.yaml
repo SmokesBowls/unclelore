@@ -2,19 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-0042
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 103
-line_start: 103
+line_end: 142
+line_start: 142
 parsed_payload:
   confidence: medium
-  entity_name: Nephoretti
-  entity_type: UNKNOWN
-raw_quote: The directive spread across the beach as Nephoretti helped Nephoretti achieve
-  functionality. Those who had mastered standing assisted those still struggling.
-  Bodies still forming were given time to solidify. The consciousness-pattern that
-  would become Olythae—whose artistic nature expressed itself immediately in the way
-  they moved, each gesture carrying aesthetic intentionality—organized the wounded
-  into groups based on severity of disorientation.
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: When she was satisfied, she released the thought-seed into the vrill current.
 signal_type: entity
-source_file: raw/chapters/book_01_book_of_genesis_002_molten_descent.md
+source_file: raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
 status: captured
 supersedes: null

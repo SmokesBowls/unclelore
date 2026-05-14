@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-6133
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 121
+line_start: 121
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The Igigi assigned to the southern drainage channel had been operating
+  with a consistent half-second delay for three weeks. The delay had never deviated.
+  The delay had never increased. The delay was within operational tolerance, but the
+  tolerance did not account for consistency. A consistent delay across multiple subjects,
+  multiple shifts, multiple handlers, was not a compliance failure. It was a statistical
+  anomaly, and statistical anomalies were reviewed.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_130_within_tolerance.txt
+status: captured
+supersedes: null

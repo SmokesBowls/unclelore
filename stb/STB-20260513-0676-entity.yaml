@@ -2,17 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0676
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 1277
-line_start: 1277
+line_end: 558
+line_start: 558
 parsed_payload:
   confidence: medium
   entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: Understanding crystallized. This wasn't battle they could win through combat.
-  The Anunnaki was too powerful, too experienced, too fundamentally superior to beings
-  who'd been slaves moments before. But they could make winning too costly. Could
-  create enough chaos that retreat became viable. Could—
+  entity_type: FAC
+raw_quote: The Anunnaki did not leave immediately after the Pleiadians departed. Instead,
+  they remained on their elevated platforms, golden forms casting long shadows across
+  the excavation chamber. Their presence was deliberate—a statement, perhaps, or simply
+  the clinical observation of assets following an interrupted work cycle.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
+source_file: raw/chapters/book_05_the_nameless_one_024_the_first_spark.md
 status: captured
 supersedes: null

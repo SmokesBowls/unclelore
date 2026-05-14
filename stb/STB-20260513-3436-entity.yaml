@@ -2,17 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-3436
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 185
-line_start: 185
+line_end: 46
+line_start: 46
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: The figure gestured with a vine-wrapped arm, and the air shimmered again.
-  In that shimmer, Tran glimpsed a vast expanse of marshland—trees rising from murky
-  waters, tangled roots forming natural bridges, and strange, bioluminescent fungi
-  illuminating mist-shrouded passages.
+  entity_type: CHR
+raw_quote: Indeed, Tran had reached the far side of the Heart of Faraxar. As he stepped
+  onto solid ground once more, the singing faded, and the crystalline path behind
+  him dissolved back into sand. The final test had been passed – not through conquest
+  but through understanding.
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_084_earth_giants_and_diverging_paths.md
+source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
 status: captured
 supersedes: null

@@ -2,21 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-1268
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 9
-line_start: 9
+line_end: 614
+line_start: 614
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: A softer, resonant growl vibrated against his bones. The armor’s spirit.
-  *Focus. Stand.* It wasn't words, more like… intention. Geralt gritted his teeth,
-  leveraging the conflicting energies within him. He lurched upright, swaying. The
-  crash site sprawled below him – a canyon gouged by the airship’s carcass, twisted
-  metal gleaming dully under the strange light. Ahead, jutting from the scree like
-  a misplaced tooth, stood a slender spire of obsidian stone. Smooth, impossibly dark.
-  The Star Needle. Drawn by instinct or the hum in his skull, he stumbled towards
-  it.
+  entity_type: CHR
+raw_quote: Geralt chose promise.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_032_the_redo.md
+source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured
 supersedes: null

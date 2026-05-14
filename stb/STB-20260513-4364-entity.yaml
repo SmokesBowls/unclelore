@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-4364
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 178
+line_start: 178
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: '"The Igigi scatter-protocol was... efficient," he admitted, his voice
+  resonating through frequencies that could shatter lesser minds. "Seventy-three percent
+  successful displacement across quantum foam. Impressive for livestock."'
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_111_the_resonance_a_garden_under_shadow.txt
+status: captured
+supersedes: null

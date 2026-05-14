@@ -2,20 +2,20 @@ audit_only: true
 buffer_id: STB-20260513-3093
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 332
-line_start: 332
+line_end: 383
+line_start: 383
 parsed_payload:
   predicate: member_of
   subject: UNRESOLVED
   target: UNRESOLVED
   temporal_scope: unresolved
-raw_quote: '"It will awaken what sleeps within you," came the gentle reply, the being''s
-  tone carrying both promise and recognition of the magnitude of transformation that
-  acceptance would entail. "Show you the truth of your heritage, grant you access
-  to knowledge that has been preserved since the first days of creation. But it will
-  also bind you to responsibilities you have never imagined, make you part of a cosmic
-  purpose larger than any individual life."'
+raw_quote: '"The Forge of First Making," it replied, its voice now carrying reverence
+  rather than challenge as it gestured toward the deepest part of the chamber where
+  passages led to destinations that had been waiting for their arrival since before
+  the current cycle of cosmic development began. "Where the Annunaki crafted their
+  greatest works. Where the weapons that will reshape the world wait for hands worthy
+  to wield them."'
 signal_type: relationship
-source_file: raw/chapters/book_12_forged_identity_070_spheres_truth.md
+source_file: raw/chapters/book_11_blood_and_legacy_065_secrets_of_the_deep.md
 status: captured
 supersedes: null

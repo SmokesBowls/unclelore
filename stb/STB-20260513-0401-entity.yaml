@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-0401
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 127
+line_start: 127
+parsed_payload:
+  confidence: medium
+  entity_name: Aeon Keepers
+  entity_type: FAC
+raw_quote: Then prepare, the Aeon Keepers instructed. The ritual requires seven solar
+  cycles to gather the necessary elemental forces. Use that time to strengthen your
+  bonds. To share your fears. To acknowledge the lies you've been carrying and choose
+  connection despite them.
+signal_type: entity
+source_file: raw/chapters/book_03_the_reckoning_012_nephilim_summoning.md
+status: captured
+supersedes: null

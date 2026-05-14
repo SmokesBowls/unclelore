@@ -2,15 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0685
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 1347
-line_start: 1347
+line_end: 602
+line_start: 602
 parsed_payload:
   confidence: medium
   entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: The Anunnaki was ten feet away. Five feet. Reaching out with hand that
-  blazed with power that would unmake flesh at molecular level.
+  entity_type: FAC
+raw_quote: 'The other Reptilian Overseers watched, motionless. None moved to assist
+  their fallen colleague. None spoke in its defense. The message was clear: hierarchy
+  existed only at the Anunnaki''s discretion. Power was loaned, not owned. And privileges
+  could be revoked at any moment, for any reason, without appeal or mercy.'
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
+source_file: raw/chapters/book_05_the_nameless_one_024_the_first_spark.md
 status: captured
 supersedes: null

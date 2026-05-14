@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-6084
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 187
+line_start: 187
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: He did not look at her. He did not speak. The Igigi did not speak. But
+  his hands, wrist-deep in silt, paused. And in the pause, his own jaw unclenched.
+  And the half-syllable echoed in his throat, unvoiced, not yet ready, but present.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_129_calibration_drift.txt
+status: captured
+supersedes: null

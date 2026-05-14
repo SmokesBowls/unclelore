@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-4815
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 259
+line_start: 259
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: For a long moment, no one moved. The three Igigi stood at the base of the
+  needle, their eyes fixed on the stranger who walked behind Vale. Zephyr stopped.
+  His weight shifted—not in fear, but in assessment. His fingers pressed together.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_113_the_edge_of_return.txt
+status: captured
+supersedes: null

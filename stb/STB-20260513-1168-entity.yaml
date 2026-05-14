@@ -2,17 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-1168
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 438
-line_start: 438
+line_end: 225
+line_start: 225
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"The Five support you," she said carefully. "They always have. They''re
-  loyal. But Geralt... there''s no physical evidence. No empty bunks. No families
-  asking where their loved ones went. No gaps in duty rosters or equipment inventories.
-  The compound functions as though deployment you''re describing never occurred."'
+  entity_type: CHR
+raw_quote: Geralt stepped forward—armor responding with confidence weeks of training
+  had developed, three consciousnesses unified in recognition that whatever this being
+  was, it represented threat that exceeded anything they'd faced.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
+source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
 status: captured
 supersedes: null

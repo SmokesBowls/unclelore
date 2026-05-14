@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5891
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 287
+line_start: 287
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Not vacated. Not recently departed. Empty in a way that made the air feel
+  pressed thin, like the skin of a bubble about to break. The needle's stone floor
+  still pulsed with residual heat where Vale's form had stood, where the roots had
+  aligned and collapsed, where the node had engaged and the correction had snapped.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_125_farwell.txt
+status: captured
+supersedes: null

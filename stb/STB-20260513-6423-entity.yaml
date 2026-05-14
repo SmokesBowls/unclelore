@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-6423
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 539
+line_start: 539
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale catches it. Not with hands—with the absence where hands should be.
+  The Void Spire's hunger yawns open between his fingers. The bottle collapses into
+  its own event horizon and vanishes.
+signal_type: entity
+source_file: raw/chapters/book_27_the_seam_deadly_words_south_139_final_calculations.txt
+status: captured
+supersedes: null

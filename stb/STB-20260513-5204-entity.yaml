@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5204
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 235
+line_start: 235
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: Sera's song deepened. The vrill pulsed—once, twice—and began to flow. Smoothly.
+  Evenly. Without hesitation. Without disruption. As if the channel had never been
+  struck, as if the gate had never been twisted, as if the memory of the attack had
+  been erased.
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_117_the_constant_calibration_living_as_anchor.txt
+status: captured
+supersedes: null

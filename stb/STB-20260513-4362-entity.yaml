@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-4362
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 78
+line_start: 78
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale stood on what remained of the eastern wall, his form flickering against
+  a wind that had not stopped for five years. The thread that connected him to the
+  Ma'at  pulsed with a rhythm that was slower now, more deliberate. The swamp giants,
+  who had carried the null for seven thousand years, had learned to be still. The
+  grove giants, who had fought in the dark for three hundred years, had learned to
+  be silent.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_111_the_resonance_a_garden_under_shadow.txt
+status: captured
+supersedes: null

@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-4618
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 470
+line_start: 470
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: They moved early. The ground was stable, the air still. Vale walked with
+  the new rhythm—pauses placed, steps measured. The distortions had been absent since
+  dusk. He did not trust the silence, but he moved through it.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_112_eastern_system.txt
+status: captured
+supersedes: null

@@ -2,15 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2494
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 103
-line_start: 103
+line_end: 109
+line_start: 109
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt extended his will. The thread was thin, shimmering, soft. It could
-  be altered with a breath of telekinetic nudge.
+  entity_type: CHR
+raw_quote: Kyh gasped, clutching his chest as if struck. The glyph on his shadow burned
+  with a cold, relentless light. He looked at his hands, then at Geralt, horror dawning
+  in his twilight eyes.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_054_tue_lunar_spire.md
+source_file: raw/chapters/book_09_bureaucratic_debt_052_entry_without_standing.md
 status: captured
 supersedes: null

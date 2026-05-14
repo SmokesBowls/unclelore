@@ -2,21 +2,22 @@ audit_only: true
 buffer_id: STB-20260513-1499
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 93
-line_start: 93
+line_end: 79
+line_start: 79
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '*Prime Catalyst.* The knowledge slammed into Geralt – not learned, but
-  *remembered* from the Heartpeak spire’s deep configuration. This wasn’t Luminara
-  *in* stasis. This was Luminara *as* ignition. The Seed Jump was mid-flight. The
-  Sound Aspect – the volatile Activator – was already hurtling through the chaos of
-  the damaged Akashic pathways, aimed towards an impossibly distant Spire. Success
-  meant a new node ignited. Failure meant… annihilation. And the Light Aspect remained,
-  the Locator, radiating frantic purpose, already calculating the next iteration should
-  this one fail.'
+  entity_type: CHR
+raw_quote: 'The transition wasn''t travel—it was dissolution. Geralt felt his atoms
+  fray, consciousness scattering across fractured timelines. He clung to the tripartite
+  core: applicator structure binding his essence, armor power shielding his will,
+  his own iron resolve screaming *Mika! The Five!* He coalesced in absolute darkness.
+  Not empty space, but negation. The air hummed with absence, thick with unmade potential.
+  Before him pulsed a jagged wound in reality—Xal''Zirith’s scar. It wasn''t a void;
+  it was an *anti-presence*, devouring light and sound. Within its shimmering edges,
+  faint silhouettes flickered—250 ghosts trapped mid-scream. The echo wasn''t waiting.
+  It was screaming. Silently.'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
+source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
 status: captured
 supersedes: null

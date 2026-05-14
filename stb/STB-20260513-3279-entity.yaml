@@ -2,17 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-3279
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 192
-line_start: 192
+line_end: 253
+line_start: 253
 parsed_payload:
   confidence: medium
-  entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: Tran took a deep breath, feeling the weight of decision. The Star Needle's
-  pull was constant, reminding him of his responsibilities here. But the Mikas' words
-  echoed just as loudly—about heritage, about transformation, about being ready for
-  what was coming.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: Each right she claimed was supported by millennia of documentation that
+  existed in the cosmic legal archives, evidence of Anunnaki involvement in shaping
+  Earth's development from its earliest stages to its current level of technological
+  and spiritual sophistication.
 signal_type: entity
-source_file: raw/chapters/book_15_legends_and_gods_080_the_whispers_between_worlds.md
+source_file: raw/chapters/book_15_legends_and_gods_078_the_queens_return.md
 status: captured
 supersedes: null

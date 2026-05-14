@@ -2,22 +2,20 @@ audit_only: true
 buffer_id: STB-20260513-1675
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 9
-line_start: 9
+line_end: 91
+line_start: 91
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'Silence. Geralt stood on obsidian glass fused by his own power. Legionnaires
-  stared, shields dark, lances lowered. Below, the lake flowed clear. Healing. Luminara’s
-  voice hummed through Geralt’s shattered armor: *"Anchor established. Transit protocols
-  initiated."* Mika touched the liquid—not teal, but silver. "She’s mapping coordinates."
-  Lyra collapsed, her rig humming as it repaired itself. "Integration complete. The
-  null state… she didn’t hide. She synchronized." Halvar flexed his hand—no trace
-  of decay. Oreck scanned the horizon. Chroniton sight showed branching paths: Mars,
-  scarred and waiting; Dragon Nebula, shimmering beyond time. The storm hadn’t ended.
-  It had shifted.'
+  entity_type: CHR
+raw_quote: 'Oreck slammed his cleaver into the glass. Green fire traced Mars’ coordinates.
+  "She holds the gateway. We walk it." Geralt flexed his new hand. Zaron’s presence
+  lingered—dimmer, fused. Dragon and keeper. Anchor and storm. Luminara’s final warning
+  echoed: *"They hunt keepers. They hunt me."* The dunes shimmered. Not with heat.
+  With transit signatures. Mika loaded her lance. "Then we hunt first." Five hundred
+  souls readied weapons. Above, Earth’s spire pulsed gold. The Dragon Nebula watched.
+  Judgment had come.'
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_040_the_dragon_wars.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
 status: captured
 supersedes: null

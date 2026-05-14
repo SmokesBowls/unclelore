@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-5050
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 21
+line_start: 21
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: Sera approached, her pack slung over her shoulder, her face calm but her
+  eyes sharp. "The vrill is running thinner the farther south we go. Not dying—redirecting.
+  Something is pulling it deeper, away from the surface channels."
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_116_keepers_recognition.txt
+status: captured
+supersedes: null

@@ -2,17 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-2184
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 14
-line_start: 14
+line_end: 207
+line_start: 207
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: As they approached the canyon, a wind (White) sliced past Geralt’s ear,
-  a precise, warning cut. The red dust at his feet (Red, Green) shifted, forming a
-  brief, shimmering pattern—a crude reptilian eye, then a hatchling, before dissolving.
-  A message.
+  entity_type: CHR
+raw_quote: Geralt pushed himself up on one elbow, coughing dust. He looked at his
+  arms. Plated from shoulder to elbow. He looked at his legs. Armored to the knee.
+  He felt the weight of the wings—immense, powerful, real—anchored to his back. They
+  thrummed with potential.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_046_not_like_this.md
 status: captured
 supersedes: null

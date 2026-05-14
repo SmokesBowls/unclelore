@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5753
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 365
+line_start: 365
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Nammu was silent for a long moment. The white-gold light she had seen—the
+  mirror that had shown her Vale's stillness—still lingered at the edge of her awareness.
+  A reminder that connection did not require sameness. That the labyrinth was learning
+  to hold what did not fit.
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_123_the_conduit_geometry_of_difference.txt
+status: captured
+supersedes: null

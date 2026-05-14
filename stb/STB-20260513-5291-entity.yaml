@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-5291
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 685
+line_start: 685
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: And Vale stood in the silence, feeling the weight of his absence settle
+  beside the weight of his presence, and let them both be true.
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_117_the_constant_calibration_living_as_anchor.txt
+status: captured
+supersedes: null

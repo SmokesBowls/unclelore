@@ -2,17 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-3395
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 243
-line_start: 243
+line_end: 228
+line_start: 228
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: Tran stared at the fragments, feeling their weight both physically and
-  metaphorically. The responsibility they represented was enormous, potentially overwhelming.
-  But what choice did he have? If Enheduanna was approaching, if the Fifth Coming
-  truly was beginning...
+  entity_type: CHR
+raw_quote: '"Garic said you might be leaving," she said without preamble, her gaze
+  fixed on Tran. "The patterns in the water channels have been... agitated since yesterday."'
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
+source_file: raw/chapters/book_15_legends_and_gods_080_the_whispers_between_worlds.md
 status: captured
 supersedes: null

@@ -2,19 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-1299
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 8
-line_start: 8
+line_end: 848
+line_start: 848
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The war camp stank of determination and desperation in equal measure. Mika
-  stood at the edge of the elevated command platform, surveying the assembled remnants
-  of Geralt's army—warriors who'd followed him through impossible battles and somehow
-  survived. They looked at her now with expressions that ranged from hope to skepticism,
-  waiting to see if the woman who'd stood at Geralt's side could lead them through
-  one more impossible mission.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: They moved through corridors that suggested architecture designed for beings
+  larger than humans, that carried aesthetic suggesting divine authority rather than
+  simple functionality. Everything gleamed—golden surfaces, sophisticated systems,
+  technology that made Anunnaki ground facilities seem crude by comparison.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_033_the_march.md
+source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured
 supersedes: null

@@ -1,0 +1,25 @@
+audit_only: true
+buffer_id: STB-20260513-5918
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 119
+line_start: 119
+parsed_payload:
+  confidence: medium
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: While the city’s hands, voices, and calculations were anchored at the ridge,
+  the true assault came down on the eastern and southern terraces. It was not a charge.
+  It was a bombardment. Focused null-pressure. Synchronized footfalls. Resonance hammers
+  driven into the outer walls until the vrill-glass canopies cracked and the channel
+  ribs groaned. First Shore fell back. Not in panic. In sequence. Outer terraces to
+  inner. Inner to the Needle’s threshold. The breach did not come on the first strike.
+  It came on the thirtieth day. A slow, grinding attrition that tested every song,
+  every calculation, every lesson of patience. When the eastern wall finally gave,
+  it did not shatter. It peeled. Stone slabs shifted aside like exhausted lungs. A
+  gap opened. The Cliff Giants stepped through. And First Shore held the line behind
+  it.
+signal_type: entity
+source_file: raw/chapters/book_25_the_seam_evolutionary_south_126_i_am_island.txt
+status: captured
+supersedes: null

@@ -2,23 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-1276
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 27
-line_start: 27
+line_end: 696
+line_start: 696
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The world didn't dissolve; it *unfolded*. One moment, Geralt stood on loose
-  rock under a bruised sky. The next, he was *inside* the chaos of the third compound
-  assault. Sounds assaulted him – the deafening crackle of disintegrator beams tearing
-  stonecrete walls, the agonized screams of warriors caught in the Harbinger’s annihilating
-  light, the frantic shouts of commanders trying to rally a collapsing defense. The
-  acrid tang of vaporized metal and charred flesh filled his nostrils. Dust choked
-  his throat. He saw Lieutenant Varik, shield raised defiantly against a beam meant
-  for a downed medic, seconds before the light engulfed him. *No!* Geralt lunged instinctively,
-  a roar tearing from his throat. His hand passed through Varik’s fading shoulder
-  like smoke. He was a ghost here. A witness, not an actor.
+  entity_type: CHR
+raw_quote: Geralt waited—letting objections flow, letting reality of what he proposed
+  settle, letting assembled leadership process impossibility before explaining why
+  impossible was necessary.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_032_the_redo.md
+source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured
 supersedes: null

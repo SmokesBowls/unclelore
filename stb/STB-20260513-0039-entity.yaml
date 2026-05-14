@@ -2,18 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-0039
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 89
-line_start: 89
+line_end: 138
+line_start: 138
 parsed_payload:
   confidence: medium
   entity_name: Nephoretti
-  entity_type: UNKNOWN
-raw_quote: '"Listen," Senareth said, and was startled by the sound of their own voice.
-  Physical vibration traveling through air, discrete and localized rather than the
-  harmonic frequencies of ethereal communication. But the others heard. Turned toward
-  the source. Several dozen Nephoretti who had landed near enough to perceive the
-  command.'
+  entity_type: SPEC
+raw_quote: It was delicate work, requiring absolute precision. Too much complexity
+  and the Nephoretti consciousness would fragment under its own conceptual weight.
+  Too little and they would lack the autonomy necessary for their task. She had to
+  find the balance—craft a consciousness-pattern sophisticated enough to learn and
+  adapt, yet simple enough to maintain coherent identity through the violent transformation
+  of ethereal manifestation into physical form.
 signal_type: entity
-source_file: raw/chapters/book_01_book_of_genesis_002_molten_descent.md
+source_file: raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
 status: captured
 supersedes: null

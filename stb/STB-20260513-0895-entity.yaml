@@ -2,15 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0895
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 701
-line_start: 701
+line_end: 145
+line_start: 145
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt tested the armor's response—feeling Zaron's consciousness coordinating
-  with his intention, the Applicator managing power distribution, his own will directing
-  overall movement.
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: '"The Nehereti are..." he searched for words adequate to describe beings
+  composed of liquid light and ancient grief, "...echoes. Remnants of Tiamat—the first
+  world. When the Anunnaki destroyed it, most consciousness was obliterated. But some
+  survived. Transformed. Became projections that exist between physical and ethereal
+  realms."'
 signal_type: entity
 source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured

@@ -2,17 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-2520
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 56
-line_start: 56
+line_end: 329
+line_start: 329
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt didn’t reach for telekinesis. He reached for the discipline she’d
-  hammered into him. He perceived the event’s thread—tiny, fragile. He didn’t grab
-  it. He recognized it. He acknowledged its perfect, solitary truth. You are. You
-  have always been. You will always be.
+  entity_type: CHR
+raw_quote: Geralt broke free. He didn’t charge the constructs. He ran straight for
+  the Core Cortex, for the pulsing lattice of light. Luminaire surged within him,
+  not with authority, but with the sunset clause, the beautiful, deadly loophole.
+  She formatted it into a final, irreversible command packet.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_055_the_anchors_forge.md
+source_file: raw/chapters/book_09_bureaucratic_debt_052_entry_without_standing.md
 status: captured
 supersedes: null

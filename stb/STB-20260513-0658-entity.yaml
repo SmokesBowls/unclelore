@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0658
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 1040
-line_start: 1040
+line_end: 315
+line_start: 315
 parsed_payload:
   confidence: medium
   entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: Not even when the Reptilian's gestures grew sophisticated enough to convey
-  tactical analysis, to offer insights into Anunnaki vulnerabilities, to suggest strategies
-  born from years of serving as their instrument.
+  entity_type: FAC
+raw_quote: The second Anunnaki tilted its elongated head, mechanical eyes cycling
+  through spectrums beyond visible light. "Dangerous. Accelerated development often
+  precedes systemic failure. Recommend termination and recycling of biological material
+  for next generation optimization."
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
+source_file: raw/chapters/book_05_the_nameless_one_024_the_first_spark.md
 status: captured
 supersedes: null

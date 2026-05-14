@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-1231
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 936
-line_start: 936
+line_end: 249
+line_start: 249
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The command center's main entrance exploded inward—not from Geralt's side
-  but from external assault, from security forces that had finally coordinated response,
-  from crew that understood command center had been compromised and was preparing
-  to reclaim it through overwhelming force.
+  entity_type: CHR
+raw_quote: Jin's eyes met Geralt's—vertical pupils showing awareness that transcended
+  words, showing recognition of what had been lost, showing grief for beings who'd
+  ceased so completely that mourning them felt like madness because how do you mourn
+  those who never existed?
 signal_type: entity
 source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured

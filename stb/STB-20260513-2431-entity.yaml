@@ -2,17 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-2431
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 101
-line_start: 101
+line_end: 510
+line_start: 510
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt stood with Oreck and Kyh at a curved overlook, watching the tide
-  of scaled bodies surge against the city’s lower terraces. They moved with a chilling,
-  insectile coordination—no tactics, no formations, just a relentless, single-minded
-  push toward the mountain heart.
+  entity_type: CHR
+raw_quote: Geralt and Oreck pressed their attack with renewed fury. The Sovereign,
+  trying to suppress the rebellion within the Shard, could no longer focus its full
+  power against them.
 signal_type: entity
-source_file: raw/chapters/book_09_bureaucratic_debt_053_the_twilight_city.md
+source_file: raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
 status: captured
 supersedes: null

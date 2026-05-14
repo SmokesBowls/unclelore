@@ -2,17 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-1305
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 48
-line_start: 48
+line_end: 886
+line_start: 886
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: She found her armor where she'd left it—Dragon Armor, the same type Geralt
-  wore, though hers was lighter, designed for speed rather than raw protection. The
-  scales gleamed dully in the afternoon light, each one a masterwork of Anunnaki engineering
-  that Geralt had... liberated... during one of their more legally questionable operations.
+  entity_type: CHR
+raw_quote: Geralt fought through—not with grace but with determination, with fire
+  that burned against systems designed to suppress resistance, with three consciousnesses
+  unified in recognition that stopping now would make everything that came before
+  meaningless.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_033_the_march.md
+source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured
 supersedes: null

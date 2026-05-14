@@ -2,16 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-0757
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 386
-line_start: 386
+line_end: 1257
+line_start: 1257
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"There''s something else," Zaron said, apparently sensing Geralt''s internal
-  dialogue. "Something in your consciousness. Another presence. Not human. What is
-  that?"'
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: Around the compound, freed slaves rallied. The five converged on the Anunnaki
+  from different angles, attacking with coordinated strategy that suggested either
+  practiced teamwork or residual connection to each other they hadn't fully acknowledged.
+  Their spears struck from multiple directions, forcing the golden figure to defend,
+  to divide attention.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_026_dragonmail.md
+source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
 status: captured
 supersedes: null

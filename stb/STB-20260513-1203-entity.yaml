@@ -2,17 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-1203
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 784
-line_start: 784
+line_end: 434
+line_start: 434
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: The liberation began not with dramatic announcement but with systematic
-  disruption—Geralt channeling telekinetic force against processing equipment, against
-  barriers being erected, against Anunnaki infrastructure being assembled with practiced
-  efficiency.
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: '"I don''t want to kill you," Geralt said honestly—synchronized consciousness
+  providing clarity that simplified moral calculation. "I want you to LEAVE. To report
+  that reclamation failed. To inform Federation that some infections can''t be purified
+  because they''re not infections—they''re remissions from artificial conditions imposed
+  through cosmic order that enabled enslavement."'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
+source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
 status: captured
 supersedes: null

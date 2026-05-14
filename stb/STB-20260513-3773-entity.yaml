@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-3773
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 121
-line_start: 121
+line_end: 148
+line_start: 148
 parsed_payload:
   confidence: medium
-  entity_name: Nephoretti
-  entity_type: UNKNOWN
-raw_quote: “Inside!” Kael’s voice cut through the chaos. He had found a gap in the
-  needle’s base—a fissure where the ancient structure met the ground, wide enough
-  for a Nephoretti to squeeze through. The others were already pushing toward it.
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The corruption in the chamber began to writhe, its mathematical precision
+  disrupted by the pure unpredictability of emotion and instinct. Isla pulled out
+  the Voice of Air, but instead of using it properly, she simply blew across it randomly,
+  creating atonal sounds that made the Igigi wince.
 signal_type: entity
-source_file: raw/chapters/book_20_the_discordant_pulse_south_103_the_second_song_resonance_of_a_broken_needle.md
+source_file: raw/chapters/book_19_worthy_opponents_north_098_depths_of_memory.md
 status: captured
 supersedes: null

@@ -2,15 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-1006
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 485
-line_start: 485
+line_end: 885
+line_start: 885
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt smiled—expression that carried confidence some might call arrogance
-  but he considered realistic assessment of capabilities armor provided.
+  entity_type: CHR
+raw_quote: '"I will," Geralt promised—speaking to his internal companions as much
+  as to himself. "We all will. Together."'
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured
 supersedes: null

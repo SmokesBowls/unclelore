@@ -2,18 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-3479
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 22
-line_start: 22
+line_end: 162
+line_start: 162
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: They proceeded deeper into the marshlands, following the subtle guidance
-  of the Dragon Mail. Tran found himself surrendering to its movements—a strange experience,
-  like dancing with a partner who alternated between hesitance and urgency. The armor
-  would freeze momentarily when they reached certain pools, then suddenly urge him
-  forward with subtle shifts in weight and balance.
+  entity_type: CHR
+raw_quote: '"The core," Tran repeated, focusing on what Thang had said. "How do we
+  reach it?"'
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_087_the_breath_of_life.md
+source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
 status: captured
 supersedes: null

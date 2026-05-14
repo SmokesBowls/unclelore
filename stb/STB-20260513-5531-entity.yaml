@@ -1,0 +1,17 @@
+audit_only: true
+buffer_id: STB-20260513-5531
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 609
+line_start: 609
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: The elders will speak. In time. Not now. But they will speak. It looked
+  at Vale again. You are the constant. The one the guardian recognized. The one the
+  sentinel withdrew from.
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_119_resonance_of_the_first_point.txt
+status: captured
+supersedes: null

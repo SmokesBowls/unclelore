@@ -2,24 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-1286
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 49
-line_start: 49
+line_end: 784
+line_start: 784
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"Now yourself," Kaelen stated, watching him closely. "Your tripartite
-  consciousness *is* the anomaly amplifying the Needle. You must stabilize *your own*
-  temporal signature within this moment. Silence the dissonance." The applicator immediately
-  flooded his mind with rigid protocols: *Suppress emotional interference. Prioritize
-  logical coherence.* Simultaneously, the armor pulsed its fierce, instinctual defiance.
-  Geralt gritted his teeth. Not suppression. Integration. He visualized the applicator''s
-  cold logic as structure—steel girders. The armor''s fiery spirit as power—forge
-  heat. His own will as the architect. He wove them together, forcing a temporary,
-  brutal harmony within himself. The effect was instantaneous. The remaining chroniton
-  threads snapped taut, stable. The air itself seemed to settle. Silence descended,
-  profound and complete.'
+  entity_type: CHR
+raw_quote: The liberation began not with dramatic announcement but with systematic
+  disruption—Geralt channeling telekinetic force against processing equipment, against
+  barriers being erected, against Anunnaki infrastructure being assembled with practiced
+  efficiency.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_032_the_redo.md
+source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured
 supersedes: null

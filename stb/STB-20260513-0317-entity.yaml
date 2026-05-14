@@ -2,15 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0317
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 79
-line_start: 79
+line_end: 59
+line_start: 59
 parsed_payload:
   confidence: medium
-  entity_name: Aeon Keepers
-  entity_type: UNKNOWN
-raw_quote: The way is terrible. The Aeon Keepers will answer, but their aid comes
-  with cost that will test everything you believe about cooperation.
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The Giant was working on the Needle's upper structure—not because Anunnaki
+  commanded it, but because Pazuzu had asked. Had explained that this particular geometric
+  pattern, if left incomplete, would create vrill-resonance instabilities that might
+  harm both Giants and Igigi in the surrounding area.
 signal_type: entity
-source_file: raw/chapters/book_03_the_reckoning_012_nephilim_summoning.md
+source_file: raw/chapters/book_03_the_reckoning_009_stalemate_departure_the_first_coming.md
 status: captured
 supersedes: null

@@ -2,19 +2,20 @@ audit_only: true
 buffer_id: STB-20260513-0610
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 873
-line_start: 873
+line_end: 53
+line_start: 53
 parsed_payload:
-  predicate: member_of
+  predicate: serves
   subject: UNRESOLVED
   target: UNRESOLVED
   temporal_scope: unresolved
-raw_quote: The scarred one—the slave with the whip mark running down one arm—had begun
-  positioning herself near their group during work shifts, though not quite part of
-  the five's tight formation. She watched the Nameless One with intensity that suggested
-  questions she couldn't yet articulate, observations she lacked framework to express.
-  But she was there. Present. Noticed.
+raw_quote: '"Exactly," Eternal confirmed, its ancient awareness now demonstrating
+  synthesis techniques that operated beyond every framework the Sage''s universal
+  consciousness had developed for organizing understanding. "Individual achievement
+  serves universal achievement. Universal achievement serves transcendence beyond
+  achievement. Transcendence beyond achievement serves... what consciousness discovers
+  when all boundaries dissolve while everything essential remains."'
 signal_type: relationship
-source_file: raw/chapters/book_05_the_nameless_one_024_the_first_spark.md
+source_file: raw/chapters/book_04_sage_saga_023_beyond_identity.md
 status: captured
 supersedes: null

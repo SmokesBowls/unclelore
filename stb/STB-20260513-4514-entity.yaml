@@ -1,0 +1,21 @@
+audit_only: true
+buffer_id: STB-20260513-4514
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 297
+line_start: 297
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: After a long while, the Igigi spoke. His voice was still rough, still quiet.
+  "You were walking east when you found me." Vale nodded. "Why?" Vale considered the
+  question. He could have said to see what grows. He could have said I do not know.
+  He said neither. "Something was out there," he said. "I wanted to understand it."
+  The Igigi looked at the eastern horizon. It was empty. "And now?" Vale stood. "Now
+  I am walking west." He offered a hand. The Igigi took it, pulled himself up. His
+  legs were steadier now. They began to move again.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_112_eastern_system.txt
+status: captured
+supersedes: null

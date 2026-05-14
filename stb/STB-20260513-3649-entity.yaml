@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-3649
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 40
-line_start: 40
+line_end: 85
+line_start: 85
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: '"I am Zyx-9," the Igigi continued, their form shifting slightly as if
-  their physical presence was just one solution to the equation of existence. "Probability
-  Architect, Third Decimal. And you are... statistically improbable."'
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: '"I see it," Tran whispered. "We''re not bearer and tool, not even partners.
+  We''re... becoming one entity. Gradually, inevitably."'
 signal_type: entity
-source_file: raw/chapters/book_19_worthy_opponents_north_098_depths_of_memory.md
+source_file: raw/chapters/book_17_ancestral_debt_089_the_white_mirror.md
 status: captured
 supersedes: null

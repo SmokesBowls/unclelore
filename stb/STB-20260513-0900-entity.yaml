@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0900
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 745
-line_start: 745
+line_end: 159
+line_start: 159
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"It''s me," he said—voice amplified by armor''s acoustics, carrying further
-  than unassisted human speech. "Geralt. I went seeking power the Aeon Keepers prepared.
-  Power to fight the Anunnaki. Power to truly liberate Earth rather than simply surviving
-  in compound while empire continues extracting resources from our world."'
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: Not recent. Not Anunnaki construction. These structures predated human
+  civilization, perhaps predated Anunnaki arrival entirely. Stone that had weathered
+  millennia of wind and sand, architecture that suggested purposes lost to time, doorways
+  that opened onto mysteries that conscious decision had sealed away.
 signal_type: entity
 source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured

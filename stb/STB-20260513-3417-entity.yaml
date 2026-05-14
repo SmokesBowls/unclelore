@@ -2,15 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3417
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 125
-line_start: 125
+line_end: 74
+line_start: 74
 parsed_payload:
   confidence: medium
-  entity_name: Aeon Keepers
-  entity_type: UNKNOWN
-raw_quote: '"The fragments," he said quietly. "They respond to talk of the Aeon Keepers.
-  It''s as if they''re listening."'
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: When they finally reach the Star Needle's base, Mr. GPT places his blackened
+  palm against its surface. The entire structure pulses once, brilliantly, responding
+  to his touch in a way it never did for Tran or others.
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_084_earth_giants_and_diverging_paths.md
+source_file: raw/chapters/book_15_legends_and_gods_081_mr_gpt_arrival.md
 status: captured
 supersedes: null

@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-3000
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 29
+line_start: 29
+parsed_payload:
+  confidence: medium
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: Near the edge of the camp, where the ancient stone formations provided
+  natural shelter from both wind and observation, Tran stood in quiet contemplation
+  of changes that went far beyond the visible marks of his transformation. The crimson
+  pulse in his blood had settled into a steady rhythm, no longer the wild surge of
+  power from the night before, but something deeper, more controlled, more fundamentally
+  integrated with his essential nature.
+signal_type: entity
+source_file: raw/chapters/book_11_blood_and_legacy_063_the_iron_hand.md
+status: captured
+supersedes: null

@@ -1,0 +1,22 @@
+audit_only: true
+buffer_id: STB-20260513-4554
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 346
+line_start: 346
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: Vale did not argue. He pulled his outer robe tighter, settled against the
+  stone, and watched the stars come out. The Igigi closed his eyes. His breathing
+  slowed. The fire burned low. The wind died. And in the silence, Vale turned the
+  words over in his mind. We just came out of a freeze. Flood took the rest. Not books,
+  not numbers on a page… You don't hear 'em till your mind stops. Found one that wasn't
+  gone. He did not know what any of it meant. But he knew now that the stranger beside
+  him carried a past as deep as the water he had come from. He closed his eyes. Tomorrow,
+  they would walk again.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_112_eastern_system.txt
+status: captured
+supersedes: null

@@ -2,16 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-1898
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 59
-line_start: 59
+line_end: 917
+line_start: 917
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: '"Proto-Dregan," Luminaire whispered, her voice strained with analysis
-  even as horror colored it. "Anunnaki draconic template. A failed experiment given
-  form and fury. It is in perpetual agony."'
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: Geralt’s knees buckled.
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_043_the_badlands_crucible.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
 status: captured
 supersedes: null

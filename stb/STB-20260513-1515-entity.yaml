@@ -2,26 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-1515
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 3
-line_start: 3
+line_end: 125
+line_start: 125
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The descent into the Tower's core was a plunge into ancient resonance.
-  The air thickened with ozone and the low thrum of containment fields, the walls
-  shifting from rough-hewn stone to seamless obsidian veined with pulsing chroniton
-  blue. Geralt moved with purpose, Mika a step behind, the dragon armor casting long,
-  defiant shadows against the humming walls. Around a spiraling bend, torchlight flared
-  ahead, illuminating a figure hunched over a glowing control plinth. Wild grey hair
-  stuck out in tufts, and mismatched robes draped a frame humming with barely contained
-  power. Zypher. He didn't turn, fingers dancing over intricate glyphs projected into
-  the air. "Ah, Commander! Right on cue," he chirped, his voice echoing oddly in the
-  confined space. "Your storm-chasing stirred quite the harmonic soup upstairs! Excellent
-  destabilization! Very messy." His eyes, sharp and impossibly old beneath bushy brows,
-  flickered towards Mika. "Lieutenant. Fine anchoring work. Saved me considerable
-  recalibration effort with these stubborn souls." He jabbed a thumb over his shoulder.
+  entity_type: CHR
+raw_quote: Trabin added, "They constantly speak of this Sage who woke them up, encouraged
+  building this establishment." He looked at Geralt, and a flicker of recognition
+  widened his eyes at the mention of the Sage. "Mika even offered them to join our
+  ranks, but they insisted on making a new home. The first true home for everyone."
+  He paused, a note of pride entering his voice. "They're calling it Ironspire."
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_037_the_circle_of_progress.md
+source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
 status: captured
 supersedes: null

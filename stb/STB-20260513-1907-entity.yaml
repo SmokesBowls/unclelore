@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-1907
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 111
-line_start: 111
+line_end: 989
+line_start: 989
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Kael’s good eye fixed on him. "Because trying is how you die stupid. Waiting
-  is how you survive smart. We’ve been waiting for a miracle. Or a bigger fool." He
-  looked at Geralt’s battered legion. "Looks like both just arrived."
+  entity_type: CHR
+raw_quote: Geralt felt each strike before it landed—the bond still carried combat
+  instinct. Duck. Roll. Counter. But the Echo was relentless, and he was tiring.
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_043_the_badlands_crucible.md
+source_file: raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
 status: captured
 supersedes: null

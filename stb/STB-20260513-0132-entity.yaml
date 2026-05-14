@@ -2,16 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-0132
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 58
-line_start: 58
+line_end: 34
+line_start: 34
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: The site was optimal. Distant from the largest indigenous population concentrations.
-  Proximate to mineral deposits required for Reptilian genesis. Adequate water sources
-  for Igigi breeding facilities. Defensible terrain should containment become necessary.
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: '"They''re not discouraged," Elyraen observed, their analytical mind reading
+  the Giants'' body language and vrill-patterns. "They''re learning. Treating failure
+  as data."'
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+source_file: raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
 status: captured
 supersedes: null

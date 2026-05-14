@@ -2,17 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3467
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 6
-line_start: 6
+line_end: 125
+line_start: 125
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: Tran adjusted the Dragon Mail armor uncomfortably. Since bonding with it
-  after the underwater trial, he'd grown accustomed to its weight, but not its temperament.
-  Even now, it seemed to pulse with nervous energy, the metal warming and cooling
-  against his skin in an unpredictable rhythm.
+  entity_type: CHR
+raw_quote: Tran felt the Red Fragment pulse in response to their planning, almost
+  like an eager participant. The Crimson Blood, too, seemed to flow more vigorously,
+  anticipating the coming battle.
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_087_the_breath_of_life.md
+source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
 status: captured
 supersedes: null

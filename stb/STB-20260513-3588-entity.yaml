@@ -2,17 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3588
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 27
-line_start: 27
+line_end: 32
+line_start: 32
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: '"It''s not your skill I question," Mr. GPT replied. "It''s the nature
-  of what you''re walking into. The resonance signatures suggest massive Anunnaki
-  presence around Mars''s Void Spire. You could be shadow-walking directly into a
-  trap."'
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: The Dragon Mail reacted violently to their appearance, plates extending
+  and retracting in rapid succession. Tran gasped as the breastplate suddenly constricted,
+  then expanded, nearly knocking him backward into the water.
 signal_type: entity
-source_file: raw/chapters/book_17_ancestral_debt_092_departure_and_determination.md
+source_file: raw/chapters/book_16_fragmented_beginning_087_the_breath_of_life.md
 status: captured
 supersedes: null

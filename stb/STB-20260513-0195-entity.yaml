@@ -2,17 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-0195
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 93
-line_start: 93
+line_end: 74
+line_start: 74
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: The Reptilian guards had noticed the indigenous gathering. Their simple
-  minds processed the situation through genetic programming that recognized any interruption
-  to Anunnaki operations as threat. Weapons—crude but effective crystalline spears
-  grown in the genesis chambers—raised to defensive positions.
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The ground didn't just move—it reorganized. Stone flowed like liquid, arranging
+  itself into foundations that would support structures designed to last millennia.
+  Mineral deposits rose from deep earth, already processed into materials required
+  for construction. Water diverted from underground aquifers, creating channels that
+  would serve both Igigi life support and Reptilian genesis chambers.
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
+source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
 status: captured
 supersedes: null

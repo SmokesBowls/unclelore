@@ -2,31 +2,29 @@ audit_only: true
 buffer_id: STB-20260513-1560
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 19
-line_start: 19
+line_end: 53
+line_start: 53
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: The ground betrayed them. Steps that felt solid crumbled into sucking mud
-  without warning. Sweat plastered hair to necks, no longer evaporating but soaking
-  into grit-stained fatigues. Ahead, the Breathing Pyramid rose—a scarred monument
-  of volcanic rock and sagging sandstone, its lower half dissolving into the shimmering
-  haze of swamp breath. Stagnant ponds festered; alkali rims glowed poisonous white
-  beneath twin moons. Mosquitoes whined incessantly, a maddening chorus Lyra silenced
-  near Halvar with targeted micro-pulses from her rig. "Pulse… stronger here," Oreck
-  rumbled, cleaver tip pointing downward. Beneath their feet, the faintest tremor
-  resonated—sub-audible, felt through bone. The Void Spire’s dormant song. Geralt
-  halted the column before the pyramid’s shadowed entrance, a collapsed archway channeling
-  dark water inward. His claw traced the air before the eroded stone. A shimmering
-  resonance field flickered—dry volcanic stone resisting humid decay. "The threshold,"
-  he stated. His armored palm pressed against the stone. Scales flared bright azure.
-  The stone groaned… shifted… revealing a slick descent into cloying darkness smelling
-  of wet earth and ozone. The Buried Luminaire awaited. Its trapped lightning would
-  be their guide… or their grave. Mika tightened her grip on her shock-lance. "Single
-  file. Shields synced. Watch for voids." The descent began. The stairway breathed
-  beneath them.
+  entity_type: CHR
+raw_quote: 'The scout, Jorik, stepped forward quietly. He wasn''t imposing like the
+  others, wiry and sharp-eyed. Without a word, he untied a long, dark bundle from
+  his back. Unwrapping cured hides, he revealed a weapon unlike any Geralt had seen:
+  a bow taller than Jorik himself, crafted from layers of horn and sinew laminated
+  onto a core of dark, resilient wood. It gleamed faintly under the firelight. "Found
+  the wood higher up," Jorik muttered, his voice rough. "Near a place where the Giants
+  left offerings. Horn from a mountain beast that tried to eat me." He strung it with
+  startling ease, the thick sinew singing taut. "No metal. No pulleys. Just... leverage."
+  He handed Geralt an arrow – thick shaft, obsidian head shaped like a leaf. "Draws
+  heavier than any Legion bow. Shoots farther." Geralt hefted the arrow. The craftsmanship
+  was primal, lethal. "First of its kind?" Jorik nodded curtly. "Call it necessity.
+  Raiders shoot farther." Geralt sensed the raw potential. "You climb with me." It
+  wasn''t a question. Jorik hesitated, glancing at Sella. She gave a single, sharp
+  nod. "To the Stone," she confirmed. The scout met Geralt''s gaze, a flicker of unease
+  beneath his resolve. "Beyond the Stone... the Giants *see*. They feel trespass."
+  Geralt understood the fear. "We face it together."'
 signal_type: entity
-source_file: raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+source_file: raw/chapters/book_06_the_ragnarok_036_highland_giants.md
 status: captured
 supersedes: null

@@ -2,17 +2,19 @@ audit_only: true
 buffer_id: STB-20260513-0359
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 26
-line_start: 26
+line_end: 57
+line_start: 57
 parsed_payload:
   confidence: medium
   entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: '"Flight," he said simply. "Not retreat. Not surrender.  Strategic relocation.  The
-  Anunnaki control this sector through concentrated force projection. Their dominance
-  relies on centralized command structures operating from fixed orbital positions.
-  If we scatter across the galactic periphery—"'
+  entity_type: FAC
+raw_quote: '"Minimal and optimal," the genesis AI responded, its voice a sterile hum
+  in the charged air. "Neural tissue sufficient for basic threat recognition, pack-coordination
+  combat response, and territorial imperative. Abstract reasoning: absent. Emotional
+  complexity: nonexistent. Obedience to Anunnaki command-hierarchy: absolute. They
+  are a perfect recursive loop: perceive Giant, eliminate Giant, secure the space
+  where the Giant stood."'
 signal_type: entity
-source_file: raw/chapters/book_04_sage_saga_016_the_choice_third_coming.md
+source_file: raw/chapters/book_03_the_reckoning_010_shadow_returns_second_coming.md
 status: captured
 supersedes: null

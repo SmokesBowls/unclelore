@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-4897
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 356
+line_start: 356
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale considered this. He thought of the needle's warmth in his chest, the
+  pulse that had guided him east and grown thin when the pressure built. He thought
+  of the voice from the mound—You are what you were made to be—and the choice he had
+  made to become something else.
+signal_type: entity
+source_file: raw/chapters/book_22_listening_stone_south_114_resonance_of_stone.txt
+status: captured
+supersedes: null

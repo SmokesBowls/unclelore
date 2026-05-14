@@ -2,16 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-3274
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 176
-line_start: 176
+line_end: 33
+line_start: 33
 parsed_payload:
   confidence: medium
-  entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: Then they too were gone, leaving Tran, Caelum, and Onyx alone by the converging
-  water channels. Only the impossible footprints remained, now leading away from Sundrift,
-  toward Ironspire—and beyond.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: The casual reference to human development as a designed process revealed
+  the scope of Anunnaki involvement in shaping civilization on Earth. What most beings
+  considered natural evolution had actually been guided intervention, genetic manipulation
+  designed to create populations that would serve specific purposes in cosmic conflicts
+  that spanned millennia.
 signal_type: entity
-source_file: raw/chapters/book_15_legends_and_gods_080_the_whispers_between_worlds.md
+source_file: raw/chapters/book_15_legends_and_gods_078_the_queens_return.md
 status: captured
 supersedes: null

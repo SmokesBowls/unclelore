@@ -2,19 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0339
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 51
-line_start: 51
+line_end: 149
+line_start: 149
 parsed_payload:
   confidence: medium
-  entity_name: Aeon Keepers
-  entity_type: UNKNOWN
-raw_quote: Korrhan felt the weight of three thousand years of manipulation settling
-  across consciousness already fragmented by ritual suffering. The Queen had calculated
-  this moment before the First Coming ended. Had planted the lies that isolated the
-  Ash Giants. Had deployed Gruulith specifically to break them. Had designed the Nephilim
-  ritual—through the Aeon Keepers' own requirements—to fracture exactly the alliances
-  that survival demanded.
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: The Crimson Citadel began its slow ascent toward departure trajectory,
+  massive vessel moving with the certainty of celestial mechanics. Across the planet's
+  surface, Anunnaki overseers withdrew to transport vessels, leaving behind only the
+  structures they'd built and the populations they'd enslaved.
 signal_type: entity
-source_file: raw/chapters/book_03_the_reckoning_015_betrayal.md
+source_file: raw/chapters/book_03_the_reckoning_009_stalemate_departure_the_first_coming.md
 status: captured
 supersedes: null

@@ -1,0 +1,16 @@
+audit_only: true
+buffer_id: STB-20260513-2509
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 245
+line_start: 245
+parsed_payload:
+  predicate: serves
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: The god in the machine had just been served with its own eviction notice.
+signal_type: relationship
+source_file: raw/chapters/book_09_bureaucratic_debt_052_entry_without_standing.md
+status: captured
+supersedes: null

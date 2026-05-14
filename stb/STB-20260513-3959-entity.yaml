@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-3959
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 481
+line_start: 481
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: Sera herself changed. The girl who had hummed in the darkness of the fissure
+  became a woman whose voice could calm a flood or turn a giant from the boundary.
+  She was the bridge between the two peoples, the one who could speak the language
+  that was neither Nephoretti nor giant but something new. When she sang, the grove
+  giants listened. When she spoke, the council heard.
+signal_type: entity
+source_file: raw/chapters/book_20_the_discordant_pulse_south_105_garden_grove.md
+status: captured
+supersedes: null

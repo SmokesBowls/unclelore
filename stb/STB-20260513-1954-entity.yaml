@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-1954
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 104
-line_start: 104
+line_end: 91
+line_start: 91
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt didn’t call a meeting. He didn’t have to. The next morning, as they
-  broke camp under a cold, pink sky, Kael the hunter fell into step beside him, his
-  eyes on the path, his voice a low gravel.
+  entity_type: CHR
+raw_quote: Geralt studied them. They were thin, tired, but their will was iron. He
+  felt Luminaire stir in the bond.
 signal_type: entity
-source_file: raw/chapters/book_08_the_vigil_of_the_anchor_044_the_mountains_shadow.md
+source_file: raw/chapters/book_08_the_vigil_of_the_anchor_042_the_verdant_crossing.md
 status: captured
 supersedes: null

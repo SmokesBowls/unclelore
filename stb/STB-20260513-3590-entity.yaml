@@ -2,18 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3590
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 51
-line_start: 51
+line_end: 36
+line_start: 36
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: Mars hung before her in the shadow realm, not as a planet but as a web
-  of interconnected darknesses. She could sense the distortions Mr. GPT had mentioned,
-  areas where the shadows writhed and twisted unnaturally. And there, like a beacon
-  of wrongness, the concentrated darkness around the Martian Void Spire where Anunnaki
-  energies corrupted the natural shadow paths.
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: Tran struggled to regain control of the Dragon Mail, which continued to
+  twitch and shift as if trying to communicate in a language he couldn't understand.
+  "I'm sorry—it's never reacted like this before."
 signal_type: entity
-source_file: raw/chapters/book_17_ancestral_debt_092_departure_and_determination.md
+source_file: raw/chapters/book_16_fragmented_beginning_087_the_breath_of_life.md
 status: captured
 supersedes: null

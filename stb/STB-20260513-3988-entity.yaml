@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-3988
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 644
+line_start: 644
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: Sera thought of the Keeper, of the presence she felt when she sang, of
+  the pulse that held the boundary and kept the swamp giants at bay. She thought of
+  the way it had recognized the Igigi when they arrived, the way the pulse had opened,
+  just slightly, as if it knew them.
+signal_type: entity
+source_file: raw/chapters/book_20_the_discordant_pulse_south_106_sky_fallen.txt
+status: captured
+supersedes: null

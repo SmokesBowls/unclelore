@@ -2,16 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-1237
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 978
-line_start: 978
+line_end: 307
+line_start: 307
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: Geralt felt the armor strain—Zaron's consciousness pushed to limits, the
-  Applicator dividing attention between system override and maintaining defensive
-  coordination, his own flesh beneath scales showing damage that consciousness was
-  suppressing through sheer determination.
+  entity_type: CHR
+raw_quote: Geralt looked at the Five—at beings who'd learned to resist modification
+  through trauma that now served as anchor against entropy itself, who'd maintained
+  watch that let them witness what universe wanted to forget.
 signal_type: entity
 source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured

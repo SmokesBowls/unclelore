@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-4359
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 9
+line_start: 9
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: General Marduk stood before the crystalline interface, the blue-green sphere
+  of Earth rotating slowly beneath the shadow of the war-moon. The tactical display
+  showed the anomaly clearly now—a wound of light at Garden Grove, pulsing in rhythms
+  that did not match any known activation sequence. The Igigi refugees who had been
+  dropped three millennia ago were supposed to be dead. The indigenous population
+  was supposed to be contained. The Needle was supposed to be dormant.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_111_the_resonance_a_garden_under_shadow.txt
+status: captured
+supersedes: null

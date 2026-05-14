@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-0890
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 121
+line_start: 121
+parsed_payload:
+  predicate: created_by
+  subject: UNRESOLVED
+  target: UNRESOLVED
+  temporal_scope: unresolved
+raw_quote: As Geralt and Oreck crossed the compound's eastern boundary, heading toward
+  ruins the Nehereti had indicated, the sun—or rather, the twin suns created by orbital
+  alignment—cast long shadows that merged human and reptilian silhouettes into single
+  form.
+signal_type: relationship
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+status: captured
+supersedes: null

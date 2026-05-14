@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0185
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 45
-line_start: 45
+line_end: 22
+line_start: 22
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: '"Implement Option Three," Marduk decided without hesitation. "Assign Igigi
-  construction crews to each site. Deploy Reptilian security details. Commence Needle
-  foundation work immediately."'
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: '"Primary Dominion designation confirmed," the patterns spoke, their voice
+  like mathematics given sound. "Planetary vrill-density exceeds projections by fourteen
+  percent. Seven primary convergence points detected. Indigenous biological presence
+  confirmed at moderate technological development."'
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
+source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
 status: captured
 supersedes: null

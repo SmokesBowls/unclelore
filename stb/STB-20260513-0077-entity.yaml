@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0077
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 62
-line_start: 62
+line_end: 139
+line_start: 139
 parsed_payload:
   confidence: medium
-  entity_name: Neferati
-  entity_type: UNKNOWN
-raw_quote: '"They don''t know what we are," Senareth realized, speaking aloud for
-  the benefit of the other Neferati. "They felt the impact of our landing—seismic
-  disturbance across the entire island. Came to investigate. To understand."'
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: '"We give it time," Senareth repeated. "And we prepare ourselves. Master
+  these forms. Learn to exist in physical space. Practice the vrill-manipulation we
+  were given. When they''re ready to approach, we need to be ready to receive them
+  without frightening them further."'
 signal_type: entity
-source_file: raw/chapters/book_01_book_of_genesis_004_the_convergence.md
+source_file: raw/chapters/book_01_book_of_genesis_002_molten_descent.md
 status: captured
 supersedes: null

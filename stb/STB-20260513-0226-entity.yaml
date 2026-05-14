@@ -2,18 +2,20 @@ audit_only: true
 buffer_id: STB-20260513-0226
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 119
-line_start: 119
+line_end: 168
+line_start: 168
 parsed_payload:
   confidence: medium
   entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: She paused at the vessel's entrance, looking back at the mountain where
-  the jade-green Giant had retreated. "They were right about one thing. They did learn
-  from the Igigi's lesson. They learned that direct resistance delays but doesn't
-  prevent conquest. What they haven't learned yet is that the most effective chains
-  are the ones a civilization forges for itself."
+  entity_type: SPEC
+raw_quote: The Reptilians moved with impressive coordination despite their youth,
+  their genetically-enhanced instincts allowing them to organize into units without
+  requiring extensive training. They were not intelligent in the way Igigi were intelligent—they
+  couldn't calculate probability matrices or craft sophisticated consciousness-touch
+  techniques. But they could follow orders. They could apply violence efficiently.
+  They could serve as the iron fist should the Anunnaki's careful planning require
+  forceful correction.
 signal_type: entity
-source_file: raw/chapters/book_02_age_of_servitude_008_queens_assessment.md
+source_file: raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
 status: captured
 supersedes: null

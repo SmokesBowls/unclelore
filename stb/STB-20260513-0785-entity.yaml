@@ -2,16 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0785
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 37
-line_start: 37
+line_end: 1427
+line_start: 1427
 parsed_payload:
   confidence: medium
-  entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: '"This is choice," Geralt continued, hand still extended. "Not command.
-  Not requirement. If you refuse, you remain valued. Remain protected. But if you
-  accept—"'
+  entity_name: Anunnaki
+  entity_type: FAC
+raw_quote: The Anunnaki struggled. Threw power that would have obliterated normal
+  consciousness. Reality warped around them, space folding, laws of physics becoming
+  negotiable as divine being fought for survival against creature he'd considered
+  beneath notice.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
 status: captured
 supersedes: null

@@ -2,17 +2,15 @@ audit_only: true
 buffer_id: STB-20260513-3659
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 104
-line_start: 104
+line_end: 115
+line_start: 115
 parsed_payload:
   confidence: medium
-  entity_name: Igigi
-  entity_type: UNKNOWN
-raw_quote: Within it, a figure sat surrounded by swirling equations. Another Igigi,
-  but wrong somehow. Their crystalline form showed cracks that leaked probability,
-  their eyes calculated problems that had no solutions. They muttered constantly,
-  numbers flowing from their mouth in an endless stream.
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: '"That''s the test," Tran realized. "Not to defeat you, but to prove we''re
+  different. That we''re choosing another path."'
 signal_type: entity
-source_file: raw/chapters/book_19_worthy_opponents_north_098_depths_of_memory.md
+source_file: raw/chapters/book_17_ancestral_debt_089_the_white_mirror.md
 status: captured
 supersedes: null

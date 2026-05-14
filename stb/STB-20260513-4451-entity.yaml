@@ -1,0 +1,19 @@
+audit_only: true
+buffer_id: STB-20260513-4451
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 33
+line_start: 33
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: By the fifth day, the islands were distant smudges. The shimmer was constant
+  now—a line of distortion just beneath the surface, always ahead, never reached.
+  Vale swam when he had to, walked when the bottom rose. The needle's pulse in his
+  chest was fainter, as if the east was pressing against it. He had begun to count
+  the hours by that weakening beat.
+signal_type: entity
+source_file: raw/chapters/book_21_needle_and_thread_south_112_eastern_system.txt
+status: captured
+supersedes: null

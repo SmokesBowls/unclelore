@@ -2,17 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0005
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 34
-line_start: 34
+line_end: 16
+line_start: 16
 parsed_payload:
   confidence: medium
   entity_name: Aeon Keepers
-  entity_type: UNKNOWN
-raw_quote: The library itself had returned to its proper position years ago, settling
-  back into the geosynchronous anchor-point that allowed it to serve as bridge between
-  realms. But the Aeon Keepers remained within the Ethereal, maintaining the vrill
-  flow that kept magic circulating through the dimensional membrane. It was their
-  purpose. Their choice. Their eternal responsibility.
+  entity_type: FAC
+raw_quote: The Ethereal Realm existed in the spaces between thought and form, a dimension
+  where consciousness flowed like liquid geometry through crystalline networks of
+  pure potential. Here, in the aftermath of catastrophe, six Aeon Keepers maintained
+  their eternal vigil—not as prisoners of circumstance, but as willing guardians of
+  the cosmic infrastructure that kept reality from collapsing into primordial chaos.
 signal_type: entity
 source_file: raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
 status: captured

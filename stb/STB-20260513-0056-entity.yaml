@@ -2,17 +2,21 @@ audit_only: true
 buffer_id: STB-20260513-0056
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 32
-line_start: 32
+line_end: 41
+line_start: 41
 parsed_payload:
   confidence: medium
-  entity_name: Aeon Keepers
-  entity_type: UNKNOWN
-raw_quote: Why are they afraid of us? The question had repeated through Senareth's
-  consciousness all day, finding no answer. The Aeon Keepers hadn't sent clarification.
-  Either they didn't know, or they were waiting for the Nephoretti to discover the
-  truth themselves.
+  entity_name: Vrill
+  entity_type: TRM
+raw_quote: Around Senareth, the others fell in a cascade of half-formed bodies. Some
+  solidified faster, their vrill-frameworks crystallizing into coherent physical form
+  while still hundreds of feet above the surface. Others trailed longer, consciousness
+  still fighting the compression, bodies forming unevenly—legs before arms, torso
+  twisting into shape while the head remained translucent energy. One thought-seed
+  near Senareth seemed to fragment entirely, their framework shattering like glass,
+  but then the pieces remembered their purpose and snapped back together with a sound
+  like thunder compressed into a whisper.
 signal_type: entity
-source_file: raw/chapters/book_01_book_of_genesis_003_first_contact.md
+source_file: raw/chapters/book_01_book_of_genesis_002_molten_descent.md
 status: captured
 supersedes: null

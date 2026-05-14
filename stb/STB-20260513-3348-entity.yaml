@@ -2,15 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-3348
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 91
-line_start: 91
+line_end: 547
+line_start: 547
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: '"The same applicators who imprisoned Mr. GPT," Thang added. "They serve
-  the Anunnaki—specifically, Enheduanna, the Starbound Queen."'
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: Tran stepped through the portal toward Ironspire, carrying with him the
+  authority of inherited cosmic citizenship and the responsibility of preventing conventional
+  forces from triggering catastrophic responses from network safeguards that could
+  destroy entire cities.
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
+source_file: raw/chapters/book_15_legends_and_gods_079_mages_awakening.md
 status: captured
 supersedes: null

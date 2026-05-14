@@ -2,17 +2,14 @@ audit_only: true
 buffer_id: STB-20260513-3397
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 248
-line_start: 248
+line_end: 234
+line_start: 234
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: The ascent was easier than the descent, the Magic of Tides propelling them
-  upward with gentle but insistent force. Tran used the time to reflect on what they
-  had learned – the true nature of the Dragon Mail, the deliberate scattering of the
-  fragments, and the approaching threat from beyond the stars.
+  entity_type: CHR
+raw_quote: Tran accepted the package, surprised by her knowledge. "How did you—"
 signal_type: entity
-source_file: raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
+source_file: raw/chapters/book_15_legends_and_gods_080_the_whispers_between_worlds.md
 status: captured
 supersedes: null

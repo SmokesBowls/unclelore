@@ -2,20 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-1267
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 3
-line_start: 3
+line_end: 596
+line_start: 596
 parsed_payload:
   confidence: medium
   entity_name: Geralt
-  entity_type: UNKNOWN
-raw_quote: 'The smell of burnt wiring clung to Geralt’s nostrils. Not ozone – something
-  sharper, acrid. He blinked crusted eyes open. Sky. A fractured, bruised purple sky.
-  Pain came next, a deep, grinding ache radiating from his ribs down his left leg.
-  He tried to move his fingers. They twitched, coated in dried mud and something sticky
-  that wasn''t mud. Memory slammed back: the frantic scramble onto the stolen airship,
-  the shriek of tearing metal as they clipped the mountainside, the horrifying silence
-  after impact punctuated only by groans that quickly faded.'
+  entity_type: CHR
+raw_quote: But Geralt stood on rocky prominence, wearing armor that represented creative
+  fire burning against entropy, hosting three consciousnesses that had learned to
+  function as unified system, remembering two hundred forty-nine people who universe
+  had forgotten.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_032_the_redo.md
+source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
 status: captured
 supersedes: null

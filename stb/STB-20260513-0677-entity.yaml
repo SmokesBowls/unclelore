@@ -2,18 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-0677
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 1295
-line_start: 1295
+line_end: 564
+line_start: 564
 parsed_payload:
   confidence: medium
   entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: Advanced telekinetic manipulation. Reality-perception that suggested weak
-  points in physical laws. Combat algorithms developed across millennia. And something
-  deeper—understanding of how Anunnaki technology functioned, how their power-sources
-  connected, how their seemingly god-like abilities were actually sophisticated manipulation
-  of natural forces.
+  entity_type: FAC
+raw_quote: One of the Reptilian Overseers—larger than most, with scales that had darkened
+  to near-black with age—stood near the platform where the Anunnaki observed. Its
+  posture suggested agitation poorly controlled, tail lashing against stone in irregular
+  rhythm. The other Overseers gave it space, recognizing the signs of one whose restraint
+  was failing.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
+source_file: raw/chapters/book_05_the_nameless_one_024_the_first_spark.md
 status: captured
 supersedes: null

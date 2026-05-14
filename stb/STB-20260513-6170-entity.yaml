@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-6170
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 73
+line_start: 73
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The cloth was folded at the corridor's edge. She stopped. She looked at
+  it for a long time. The Igigi did not touch things that did not belong to them.
+  The Igigi did not own things. The cloth was a thing, and it was folded, and it was
+  warm.
+signal_type: entity
+source_file: raw/chapters/book_26_the_seam_long_dark_south_131_stable_contradiction.txt
+status: captured
+supersedes: null

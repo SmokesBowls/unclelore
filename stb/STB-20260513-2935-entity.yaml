@@ -2,19 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-2935
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 31
-line_start: 31
+line_end: 116
+line_start: 116
 parsed_payload:
   confidence: medium
   entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: The depression revealed itself to be not a natural formation but a carefully
-  crafted seal, its surface covered with inscriptions that seemed to writhe and shift
-  in the strange light cast by Nibiru's continued presence in the sky above them.
-  As the seal responded to Tran's touch, the inscriptions began to glow with internal
-  illumination that spoke of power sources that drew upon forces far more fundamental
-  than any conventional understanding of energy or matter.
+  entity_type: CHR
+raw_quote: Tran barely heard it. He was lost in the rhythm of battle, hhis body moving
+  faster than he could consciously follow, driven more by instinct than control, some
+  strikes landed true by sheer momentum, others barely missing as he struggled to
+  keep his footing. that surprised him, every movement carried the weight of forces
+  he couldn't name but somehow commanded.
 signal_type: entity
-source_file: raw/chapters/book_11_blood_and_legacy_065_secrets_of_the_deep.md
+source_file: raw/chapters/book_11_blood_and_legacy_060_echoes_of_the_cradle.md
 status: captured
 supersedes: null

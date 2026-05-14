@@ -2,20 +2,20 @@ audit_only: true
 buffer_id: STB-20260513-2801
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 101
-line_start: 101
+line_end: 55
+line_start: 55
 parsed_payload:
   confidence: medium
-  entity_name: Tran
-  entity_type: UNKNOWN
-raw_quote: 'My companions are now the data streams. The steady, mindless fusion cycles.
-  The flash every 47 pulses. The slow, gravitational dance of planets. I narrate events
-  to myself, my voice a dry rustle in the vault of my own skull. I develop a madness
-  of perspective: a genocide is a slight dimming of biological signatures; the birth
-  of a god-child is a minor energy fluctuation. I have to fight to remember that Tran’s
-  laugh, Kyh’s grief, a hero’s sacrifice, Mikas love, are the only things that ever
-  truly mattered. They are the impossible, delicate miracles. The rest is just… physics.'
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: '"Indeed." Zypher''s smile was a blade-slash of delight. He moved abruptly,
+  his robe dissolving into mist as he circled Kulla—not walking, but *reappearing*
+  at intervals like a spliced film reel. Each stop left behind a faint afterimage
+  that hummed at a different frequency. "You should be impossible. Clay animated by
+  will rather than spellwork. Structure that *chooses* its shape." His voice dropped
+  to a whisper that raised the hairs on Geralt''s neck. "Tell me, mason—when you dream,
+  do your bricks rebel?"'
 signal_type: entity
-source_file: raw/chapters/book_10_infernal_vigil_059_eyes_of_eternity.md
+source_file: raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
 status: captured
 supersedes: null

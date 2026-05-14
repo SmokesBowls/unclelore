@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-3948
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 369
+line_start: 369
+parsed_payload:
+  confidence: medium
+  entity_name: Nephoretti
+  entity_type: SPEC
+raw_quote: the Keeper did not speak. It was not a being that used words in any way
+  the Nephoretti understood. But it was there, a presence in the stone, a rhythm beneath
+  the work. When Sera sang, it answered with a pulse that steadied her voice. When
+  the grove giants gathered at the needle’s base, it sent light through the crystal
+  veins that made their wounds close faster. It was not a master. It was not a tool.
+  It was a partner, waking slowly to a world it had been absent from for too long.
+signal_type: entity
+source_file: raw/chapters/book_20_the_discordant_pulse_south_105_garden_grove.md
+status: captured
+supersedes: null

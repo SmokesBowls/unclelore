@@ -2,17 +2,16 @@ audit_only: true
 buffer_id: STB-20260513-3576
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 81
-line_start: 81
+line_end: 8
+line_start: 8
 parsed_payload:
   confidence: medium
-  entity_name: Vien
-  entity_type: UNKNOWN
-raw_quote: The vortex contracted further, ash now streaming upward to form a ceiling
-  above them, trapping them within a cylinder of swirling gray. The whispers became
-  a cacophony of overlapping voices, all demanding to see the Vien, to touch him,
-  to claim him.
+  entity_name: Tran
+  entity_type: CHR
+raw_quote: '"It''s been... restless since we entered the marshlands," Tran replied,
+  running his fingers along a seam where crimson energy occasionally flickered beneath
+  the surface. "Like it recognizes something here."'
 signal_type: entity
-source_file: raw/chapters/book_17_ancestral_debt_090_echoes_of_the_culling_corrected.md
+source_file: raw/chapters/book_16_fragmented_beginning_087_the_breath_of_life.md
 status: captured
 supersedes: null

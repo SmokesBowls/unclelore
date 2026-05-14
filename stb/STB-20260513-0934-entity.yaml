@@ -2,17 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-0934
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 37
-line_start: 37
+line_end: 347
+line_start: 347
 parsed_payload:
   confidence: medium
   entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: Host, the Applicator's presence consolidated with sharp attention. Galactic
-  Federation operates under different protocols than Anunnaki military. They're authorized
-  to confiscate unauthorized artifacts, to arrest individuals violating cosmic law,
-  to enforce regulations that supersede local authority.
+  entity_type: FAC
+raw_quote: Phase two began without warning—her form blazing with celestial fury that
+  made the chamber's bioluminescence seem pathetic by comparison. The air itself sang
+  with divine authority, with power that preceded Anunnaki arrival, that spoke to
+  forces which had shaped reality before conscious beings learned to question their
+  place within it.
 signal_type: entity
-source_file: raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+source_file: raw/chapters/book_05_the_nameless_one_027_the_claiming.md
 status: captured
 supersedes: null

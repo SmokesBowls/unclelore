@@ -2,17 +2,18 @@ audit_only: true
 buffer_id: STB-20260513-1174
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 522
-line_start: 522
+line_end: 257
+line_start: 257
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: The fourth facility. Target they'd been planning to liberate next. Population
-  of perhaps hundred fifty slaves. Guard force that intelligence suggested was minimal.
-  Standard Anunnaki operation showing no awareness that liberation was spreading like
-  wildfire through network they'd assumed was eternally stable.
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: Sath'rak's thousand eyes showed satisfaction as Geralt's body jerked—as
+  the Applicator fought desperately to maintain autonomy against assault from being
+  who understood Anunnaki technology at level that exceeded its creators, who could
+  manipulate control mechanisms that had never been designed to resist fellow divine
+  authority.
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_030_ummade_army.md
+source_file: raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
 status: captured
 supersedes: null

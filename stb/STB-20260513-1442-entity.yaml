@@ -2,28 +2,31 @@ audit_only: true
 buffer_id: STB-20260513-1442
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 155
-line_start: 155
+line_end: 56
+line_start: 56
 parsed_payload:
   confidence: medium
-  entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: 'One evening, as he crested a dune overlooking a vast, unnatural depression
-  – a crater miles wide, its edges smoothed by millennia of wind but its depth still
-  profound – the resonance shifted. The Star Needle’s pull remained steady, but beneath
-  it, the applicator screamed a warning: *Massive chroniton sinkhole detected. Source:
-  geological trauma. Temporal signature: 3,000 years BP +/- 50. Correlation: Anunnaki
-  city-ship impact.* Geralt froze, staring into the abyss. This was the wound. The
-  scar where a stolen sky-city had been driven into the earth like a dagger. The Heart
-  of Faraxar hadn’t just witnessed it; the land *was* the scar tissue, soaked in the
-  psychic residue of that cataclysm. His own borrowed power, the armor gifted to fight
-  the invaders, felt suddenly heavy. He stood on the edge of his own history, a ghost
-  haunting the graveyard his war had made. The silence here wasn’t empty; it was thick
-  with the unspoken agony of billions. He tightened his grip on his blade. Tran would
-  walk this echo. Geralt walked the source. He descended into the crater’s shadow,
-  the weight of millennia pressing down, the dragon armor humming a low, mournful
-  threnody against the gathering dusk.'
+  entity_name: Geralt
+  entity_type: CHR
+raw_quote: 'Kaelen approached the sealed fracture point. It pulsed with a faint, stable
+  gold light now. "Well executed," she stated, her voice devoid of praise but thick
+  with assessment. "You sealed a minor paradox. But understand this: the predator’s
+  stolen moments created localized temporal eddies. Its hunting ground... it warped
+  causality." She gestured at the frozen cubs. "Their stolen moments ripple outward.
+  The predator’s actions over the last three cycles triggered a causal loop – a three-day
+  echo centered on a settlement near here. Time repeats there, unaware." Geralt stared
+  at her, comprehension dawning coldly. "A loop? Like... Groundhog Day?" Kaelen tilted
+  her head. "A crude analogy. But yes. The settlement lives the same three days repeatedly.
+  The loop anchors itself through unresolved trauma – likely linked to the predator’s
+  initial thefts." She met his eyes. "To break the loop, someone within must resolve
+  that anchor point. But they are trapped, unaware. You, Geralt, exist outside the
+  loop. You must enter it. Play your role. Cause the resolution... or ensure it ends."
+  She pointed towards a newly formed ice tunnel glowing faintly gold. "That conduit
+  leads to the loop''s edge. Prepare to walk the echo." Geralt pushed himself up.
+  Saving moments wasn''t enough. Now he had to save time itself. For Katherine. For
+  the settlement. For Mika, waiting somewhere beyond the loops. He followed Kaelen
+  towards the golden glow. The echo awaited.'
 signal_type: entity
-source_file: raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
+source_file: raw/chapters/book_06_the_ragnarok_034_the_250.md
 status: captured
 supersedes: null

@@ -1,0 +1,20 @@
+audit_only: true
+buffer_id: STB-20260513-5410
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 7
+line_start: 7
+parsed_payload:
+  confidence: medium
+  entity_name: Igigi
+  entity_type: SPEC
+raw_quote: The group was smaller than Vale had expected—not the full council, not
+  a delegation. Five Nephoretti, their oldest leading. Enlil and Nammu, the Igigi
+  mathematician and the one who had learned to listen. Brak and Keth, the mountain
+  and the storm, carrying nothing but their null-pressure and the patience of stone.
+  Sera, her hands still carrying the memory of channels. Zephyr, walking at the rear,
+  his sandals scraping the ancient rock, his fingers pressed together.
+signal_type: entity
+source_file: raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_119_resonance_of_the_first_point.txt
+status: captured
+supersedes: null

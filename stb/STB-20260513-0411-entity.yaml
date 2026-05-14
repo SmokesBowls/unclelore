@@ -2,18 +2,17 @@ audit_only: true
 buffer_id: STB-20260513-0411
 created_date: '2026-05-13'
 last_reviewed: null
-line_end: 160
-line_start: 160
+line_end: 72
+line_start: 72
 parsed_payload:
   confidence: medium
   entity_name: Anunnaki
-  entity_type: UNKNOWN
-raw_quote: The plan they developed over the following days was audacious beyond rational
-  calculation. Rather than attempting to shield their educational network from Anunnaki
-  probe-activity, they would use the probe itself as teaching demonstration—consciousness-crafting
-  exercise that would prepare their students for the convergences of Year 3,500 while
-  simultaneously creating resistance to Anunnaki harvest techniques.
+  entity_type: FAC
+raw_quote: The Nephilim didn't require clarity. They possessed awareness that exceeded
+  mortal understanding. They could perceive the Anunnaki threat directly, sense the
+  Gruulith and Dregans and Brajor, recognize corruption attempting to reshape this
+  world according to purposes that violated cosmic balance.
 signal_type: entity
-source_file: raw/chapters/book_04_sage_saga_020_the_collapse.md
+source_file: raw/chapters/book_03_the_reckoning_014_convergence.md
 status: captured
 supersedes: null

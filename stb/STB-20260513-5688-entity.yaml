@@ -1,0 +1,18 @@
+audit_only: true
+buffer_id: STB-20260513-5688
+created_date: '2026-05-13'
+last_reviewed: null
+line_end: 119
+line_start: 119
+parsed_payload:
+  confidence: medium
+  entity_name: Vale
+  entity_type: CHR
+raw_quote: Vale felt the question settle into his chest. The labyrinth was not going
+  to answer it. The system had shown them what it could show them. The rest—the finding,
+  the reuniting, the weaving of separate truths back into a single pattern—was theirs
+  to discover.
+signal_type: entity
+source_file: raw/chapters/book_24_threshold_and_network_south_122_unravealing.txt
+status: captured
+supersedes: null
