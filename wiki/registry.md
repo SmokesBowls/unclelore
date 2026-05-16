@@ -3,7 +3,7 @@
 | --Yrr | wiki_only |  | wiki_scan | wiki/characters/--yrr.md |
 | 250 | wiki_only |  | wiki_scan | wiki/artifacts/250.md |
 | A Ar-Ku | wiki_only |  | wiki_scan | wiki/characters/A_ar-Ku.md |
-| Aaon | wiki_only |  | wiki_scan | wiki/factions/Aaon.md |
+| Aaon | wiki_only |  | wiki_scan | wiki/species/Aaon.md |
 | Aaon Keepers | wiki_only |  | wiki_scan | wiki/terms/Aaon_Keepers.md |
 | Aaon Keepers Earth | wiki_only |  | wiki_scan | wiki/terms/Aaon_Keepers_Earth.md |
 | Above | wiki_only |  | wiki_scan | wiki/characters/Above.md |
@@ -2009,6 +2009,7 @@
 | Thermal Anomaly | wiki_only |  | wiki_scan | wiki/events/Thermal_anomaly.md |
 | Thermal Gradient | wiki_only |  | wiki_scan | wiki/artifacts/Thermal_gradient.md |
 | Thermal Monitoring System | wiki_only |  | wiki_scan | wiki/systems/thermal_monitoring_system.md |
+| Theron | wiki_only |  | wiki_scan | wiki/characters/Theron.md |
 | Theyd | wiki_only |  | wiki_scan | wiki/characters/Theyd.md |
 | Theyll | wiki_only |  | wiki_scan | wiki/characters/Theyll.md |
 | Theyre | wiki_only |  | wiki_scan | wiki/characters/Theyre.md |
@@ -2019,6 +2020,7 @@
 | Thirty | wiki_only |  | wiki_scan | wiki/characters/Thirty.md |
 | Thorn | wiki_only |  | wiki_scan | wiki/characters/Thorn.md |
 | Though | wiki_only |  | wiki_scan | wiki/characters/Though.md |
+| Thought-Seed | wiki_only |  | wiki_scan | wiki/artifacts/thought-seed.md |
 | Thread | wiki_only |  | wiki_scan | wiki/artifacts/Thread.md |
 | Thread 19 | wiki_only |  | wiki_scan | wiki/artifacts/Thread_19.md |
 | Thread 55 | wiki_only |  | wiki_scan | wiki/artifacts/Thread_55.md |
@@ -2134,6 +2136,7 @@
 | Use | wiki_only |  | wiki_scan | wiki/characters/Use.md |
 | Used Corridor | wiki_only |  | wiki_scan | wiki/locations/Used_Corridor.md |
 | Vael | wiki_only |  | wiki_scan | wiki/characters/Vael.md |
+| Vaelith | wiki_only |  | wiki_scan | wiki/characters/Vaelith.md |
 | Vaelros  Crimson Titan | wiki_only |  | wiki_scan | wiki/characters/Vaelros__Crimson_Titan.md |
 | Vaelthan | wiki_only |  | wiki_scan | wiki/characters/Vaelthan.md |
 | Vaelthane | wiki_only |  | wiki_scan | wiki/characters/Vaelthane.md |

@@ -81,3 +81,5 @@ misidentification. → See UNRESOLVED: Aeon-Keepers-enemy-description.
 - First established: book_01_book_of_genesis/001_the_ethereal_vigil.md
 - Supplementary context: graviton_Canon.txt (Keeper imprisonment of Gravitons)
 - Supplementary context: unresolved_lore.txt (Chapter 113-120 Graviton enemy description)
+- (auto-ingest, high) raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
+  - Raw quote: ""The planetary core stabilizes""

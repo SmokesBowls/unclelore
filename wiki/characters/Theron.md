@@ -2,39 +2,39 @@
 type: character
 status: candidate
 canon_state: provisional
-last_updated: 2026-05-14
+last_updated: 2026-05-15
 audit_only: true
 tags: [auto_ingested, ollama_cockpit_7_5A]
 ---
-# Lyaris
+# Theron
 
 Type: Character  
 Status: candidate  
 Canon State: provisional  
-Last Updated: 2026-05-14
+Last Updated: 2026-05-15
 
 ## Canon Summary
-An Aeon Keeper involved in the transformation and education of transformed Pelagor.
+A character who provides temporal analysis and observes the transformed Pelagor.
 
 ## Identity and Nature
-Noted the stabilization of Earth's geomantic networks and reported on the planetary core’s stability. *(provisional — 2026-05-15)*
+Theron, along with Vaelith and Mordain, analyzes the presence of the transformed Pelagor, providing insights into their evolution.
 
 ## Relationships
-- aligned_with: Mordain
-- allied_with: Korath
+- analyzes_with: Vaelith
+- analyzes_with: Mordain
 
 - (provisional, high) member_of: Aeon Keepers — source: raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
-- (provisional, high) coordinates with Theron and Vaelith. — source: raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
-- (provisional, high) mentioned_alongside: Theron — source: raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
+- (provisional, high) coordinates with Lyaris and Vaelith. — source: raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
+- (provisional, high) mentioned_alongside: Lyaris — source: raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
 - (provisional, high) mentioned_alongside: Vaelith — source: raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
 ## Historical Role
-protagonist *(provisional — 2026-05-15)*
+Protagonist
 
 ## Source Notes
-- file:123-150
+- file:line references
 
 - (auto-ingest, high) raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
-  - Raw quote: ""The planetary core stabilizes""
+  - Raw quote: ""Tectonic plates settling into stable configurations""
 ## Unresolved Questions
 - [ ] Confirm canonical status and arc placement
 - [ ] Verify behavioral context and relationship predicates

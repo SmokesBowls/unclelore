@@ -17,18 +17,22 @@ Last Updated: 2026-05-14
 An Aeon Keeper who acknowledges the necessity of the proposal despite its risks.
 
 ## Identity and Nature
-Stub: Pending behavioral/worldbuilding definition.
+Described as having a steady and unmovable consciousness, discussing the advantages of their current state. *(provisional — 2026-05-15)*
 
 ## Relationships
 - aligned_with: Lyaris
 - aligned_with: Mordain
 
+- (provisional, high) allied_with: Mordain — source: raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
+- (provisional, high) allied_with: Syreth — source: raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
 ## Historical Role
-Stub: Timeline and narrative function unresolved.
+protagonist *(provisional — 2026-05-15)*
 
 ## Source Notes
 - file:123-150
 
+- (auto-ingest, high) raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
+  - Raw quote: ""Physical form is limitation""
 ## Unresolved Questions
 - [ ] Confirm canonical status and arc placement
 - [ ] Verify behavioral context and relationship predicates

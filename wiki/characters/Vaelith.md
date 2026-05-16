@@ -2,39 +2,39 @@
 type: character
 status: candidate
 canon_state: provisional
-last_updated: 2026-05-14
+last_updated: 2026-05-15
 audit_only: true
 tags: [auto_ingested, ollama_cockpit_7_5A]
 ---
-# Lyaris
+# Vaelith
 
 Type: Character  
 Status: candidate  
 Canon State: provisional  
-Last Updated: 2026-05-14
+Last Updated: 2026-05-15
 
 ## Canon Summary
-An Aeon Keeper involved in the transformation and education of transformed Pelagor.
+A character who recognizes the transformed Pelagor and is part of a group analyzing their presence.
 
 ## Identity and Nature
-Noted the stabilization of Earth's geomantic networks and reported on the planetary core’s stability. *(provisional — 2026-05-15)*
+Vaelith, along with Theron and Mordain, observes and analyzes the transformed Pelagor, recognizing them as descendants of the original species.
 
 ## Relationships
-- aligned_with: Mordain
-- allied_with: Korath
+- analyzes_with: Theron
+- analyzes_with: Mordain
 
 - (provisional, high) member_of: Aeon Keepers — source: raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
-- (provisional, high) coordinates with Theron and Vaelith. — source: raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
+- (provisional, high) coordinates with Lyaris and Theron. — source: raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
+- (provisional, high) mentioned_alongside: Lyaris — source: raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
 - (provisional, high) mentioned_alongside: Theron — source: raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
-- (provisional, high) mentioned_alongside: Vaelith — source: raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
 ## Historical Role
-protagonist *(provisional — 2026-05-15)*
+Protagonist
 
 ## Source Notes
-- file:123-150
+- file:line references
 
 - (auto-ingest, high) raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
-  - Raw quote: ""The planetary core stabilizes""
+  - Raw quote: ""Water coverage approximately seventy-two percent""
 ## Unresolved Questions
 - [ ] Confirm canonical status and arc placement
 - [ ] Verify behavioral context and relationship predicates

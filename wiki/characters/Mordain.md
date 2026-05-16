@@ -17,18 +17,23 @@ Last Updated: 2026-05-14
 An Aeon Keeper who supports the proposal to educate and guide transformed Pelagor.
 
 ## Identity and Nature
-Stub: Pending behavioral/worldbuilding definition.
+Mentioned as having a deep connection to the library’s temporal archives, stating that 3,417 years have passed since Marduk's collision. *(provisional — 2026-05-15)*
 
 ## Relationships
 - aligned_with: Lyaris
 - allied_with: Korath
 
+- (provisional, high) allied_with: Syreth — source: raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
+- (provisional, high) allied_with: Korath — source: raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
 ## Historical Role
-Stub: Timeline and narrative function unresolved.
+protagonist
+Timeline anchor (provisional): 3,417 years after Marduk-Tiamat collision *(provisional — 2026-05-15)*
 
 ## Source Notes
 - file:123-150
 
+- (auto-ingest, high) raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
+  - Raw quote: ""Three thousand, four hundred and seventeen years""
 ## Unresolved Questions
 - [ ] Confirm canonical status and arc placement
 - [ ] Verify behavioral context and relationship predicates
