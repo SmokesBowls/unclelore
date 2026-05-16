@@ -1,0 +1,2814 @@
+[INIT] Loaded 200 filtered registry entities for context anchoring.
+[SCAN] Found 139 total chapter files.
+[1/139] Processing raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
+  [CHUNK] 9 chunk(s) for raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
+  [CHUNK 1/9] ~390 words
+  [CHUNK 2/9] ~391 words
+  [CHUNK 3/9] ~364 words
+  [CHUNK 4/9] ~389 words
+  [CHUNK 5/9] ~361 words
+  [CHUNK 6/9] ~397 words
+  [CHUNK 7/9] ~366 words
+  [CHUNK 8/9] ~375 words
+  [CHUNK 9/9] ~101 words
+[2/139] Processing raw/chapters/book_01_book_of_genesis_002_molten_descent.md
+  [CHUNK] 8 chunk(s) for raw/chapters/book_01_book_of_genesis_002_molten_descent.md
+  [CHUNK 1/8] ~342 words
+  [CHUNK 2/8] ~377 words
+  [CHUNK 3/8] ~400 words
+  [CHUNK 4/8] ~383 words
+  [CHUNK 5/8] ~379 words
+  [CHUNK 6/8] ~354 words
+  [CHUNK 7/8] ~374 words
+  [CHUNK 8/8] ~126 words
+[3/139] Processing raw/chapters/book_01_book_of_genesis_003_first_contact.md
+  [CHUNK] 6 chunk(s) for raw/chapters/book_01_book_of_genesis_003_first_contact.md
+  [CHUNK 1/6] ~376 words
+  [CHUNK 2/6] ~393 words
+  [CHUNK 3/6] ~385 words
+  [CHUNK 4/6] ~373 words
+  [CHUNK 5/6] ~391 words
+  [CHUNK 6/6] ~80 words
+[4/139] Processing raw/chapters/book_01_book_of_genesis_004_the_convergence.md
+  [CHUNK] 9 chunk(s) for raw/chapters/book_01_book_of_genesis_004_the_convergence.md
+  [CHUNK 1/9] ~374 words
+  [CHUNK 2/9] ~383 words
+  [CHUNK 3/9] ~366 words
+  [CHUNK 4/9] ~397 words
+  [CHUNK 5/9] ~375 words
+  [CHUNK 6/9] ~380 words
+  [CHUNK 7/9] ~383 words
+  [CHUNK 8/9] ~384 words
+  [CHUNK 9/9] ~93 words
+[5/139] Processing raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+  [CHUNK] 10 chunk(s) for raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+  [CHUNK 1/10] ~379 words
+  [CHUNK 2/10] ~365 words
+  [CHUNK 3/10] ~379 words
+  [CHUNK 4/10] ~386 words
+  [CHUNK 5/10] ~351 words
+  [CHUNK 6/10] ~398 words
+  [CHUNK 7/10] ~397 words
+  [CHUNK 8/10] ~396 words
+  [CHUNK 9/10] ~370 words
+  [CHUNK 10/10] ~158 words
+[6/139] Processing raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+  [CHUNK] 9 chunk(s) for raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+  [CHUNK 1/9] ~362 words
+  [CHUNK 2/9] ~393 words
+  [CHUNK 3/9] ~367 words
+  [CHUNK 4/9] ~370 words
+  [CHUNK 5/9] ~373 words
+  [CHUNK 6/9] ~396 words
+  [CHUNK 7/9] ~396 words
+  [CHUNK 8/9] ~346 words
+  [CHUNK 9/9] ~219 words
+[7/139] Processing raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
+  [CHUNK] 8 chunk(s) for raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
+  [CHUNK 1/8] ~396 words
+  [CHUNK 2/8] ~366 words
+  [CHUNK 3/8] ~393 words
+  [CHUNK 4/8] ~389 words
+  [CHUNK 5/8] ~385 words
+  [CHUNK 6/8] ~368 words
+  [CHUNK 7/8] ~380 words
+  [CHUNK 8/8] ~343 words
+[8/139] Processing raw/chapters/book_02_age_of_servitude_008_queens_assessment.md
+  [CHUNK] 8 chunk(s) for raw/chapters/book_02_age_of_servitude_008_queens_assessment.md
+  [CHUNK 1/8] ~388 words
+  [CHUNK 2/8] ~377 words
+  [CHUNK 3/8] ~383 words
+  [CHUNK 4/8] ~368 words
+  [CHUNK 5/8] ~398 words
+  [CHUNK 6/8] ~362 words
+  [CHUNK 7/8] ~387 words
+  [CHUNK 8/8] ~218 words
+[WARN] Skipping invalid entity 'Small bright ones': ["Invalid type: 'artifact|system'"]
+[WARN] Skipping invalid entity 'Scaled warriors': ["Invalid type: 'artifact|system'"]
+[WARN] Skipping invalid entity 'Queen Eduhauana': ["Invalid type: 'character|species'"]
+[WARN] Skipping invalid entity 'Torhh': ["Invalid type: 'character|species'"]
+[9/139] Processing raw/chapters/book_03_the_reckoning_009_stalemate_departure_the_first_coming.md
+  [CHUNK] 9 chunk(s) for raw/chapters/book_03_the_reckoning_009_stalemate_departure_the_first_coming.md
+  [CHUNK 1/9] ~400 words
+  [CHUNK 2/9] ~395 words
+  [CHUNK 3/9] ~385 words
+  [CHUNK 4/9] ~383 words
+  [CHUNK 5/9] ~383 words
+  [CHUNK 6/9] ~382 words
+  [CHUNK 7/9] ~372 words
+  [CHUNK 8/9] ~359 words
+  [CHUNK 9/9] ~367 words
+[10/139] Processing raw/chapters/book_03_the_reckoning_010_shadow_returns_second_coming.md
+  [CHUNK] 6 chunk(s) for raw/chapters/book_03_the_reckoning_010_shadow_returns_second_coming.md
+  [CHUNK 1/6] ~354 words
+  [CHUNK 2/6] ~398 words
+  [CHUNK 3/6] ~358 words
+  [CHUNK 4/6] ~378 words
+  [CHUNK 5/6] ~394 words
+  [CHUNK 6/6] ~243 words
+[WARN] Skipping invalid entity 'Gruulith': ["Invalid type: 'artifact|species'"]
+[WARN] Skipping invalid entity 'Giants': ["Invalid type: 'species|character'"]
+[11/139] Processing raw/chapters/book_03_the_reckoning_011_escalation_and_desperation.md
+  [CHUNK] 8 chunk(s) for raw/chapters/book_03_the_reckoning_011_escalation_and_desperation.md
+  [CHUNK 1/8] ~397 words
+  [CHUNK 2/8] ~387 words
+  [CHUNK 3/8] ~372 words
+  [CHUNK 4/8] ~366 words
+  [CHUNK 5/8] ~379 words
+  [CHUNK 6/8] ~364 words
+  [CHUNK 7/8] ~392 words
+  [CHUNK 8/8] ~89 words
+[12/139] Processing raw/chapters/book_03_the_reckoning_012_nephilim_summoning.md
+  [CHUNK] 7 chunk(s) for raw/chapters/book_03_the_reckoning_012_nephilim_summoning.md
+  [CHUNK 1/7] ~376 words
+  [CHUNK 2/7] ~378 words
+  [CHUNK 3/7] ~392 words
+  [CHUNK 4/7] ~377 words
+  [CHUNK 5/7] ~359 words
+  [CHUNK 6/7] ~392 words
+  [CHUNK 7/7] ~14 words
+[WARN] Skipping invalid entity 'Neferati': ["Invalid type: 'artifact|species'"]
+[WARN] Skipping invalid entity 'Anunnaki': ["Invalid type: 'faction|species'"]
+[WARN] Skipping invalid entity 'Aeon Keepers': ["Invalid type: 'faction|species'"]
+[WARN] Skipping invalid entity 'Giant factions': ["Invalid type: 'faction|species'"]
+[13/139] Processing raw/chapters/book_03_the_reckoning_014_convergence.md
+  [CHUNK] 5 chunk(s) for raw/chapters/book_03_the_reckoning_014_convergence.md
+  [CHUNK 1/5] ~381 words
+  [CHUNK 2/5] ~382 words
+  [CHUNK 3/5] ~381 words
+  [CHUNK 4/5] ~377 words
+  [CHUNK 5/5] ~366 words
+[WARN] Skipping invalid entity 'Anunnaki': ["Invalid type: 'faction|species'"]
+[WARN] Skipping invalid entity 'Gruulith': ["Invalid type: 'creature|species'"]
+[WARN] Skipping invalid entity 'Dregans': ["Invalid type: 'creature|species'"]
+[WARN] Skipping invalid entity 'Brajor': ["Invalid type: 'creature|species'"]
+[14/139] Processing raw/chapters/book_03_the_reckoning_015_betrayal.md
+  [CHUNK] 7 chunk(s) for raw/chapters/book_03_the_reckoning_015_betrayal.md
+  [CHUNK 1/7] ~392 words
+  [CHUNK 2/7] ~384 words
+  [CHUNK 3/7] ~356 words
+  [CHUNK 4/7] ~369 words
+  [CHUNK 5/7] ~367 words
+  [CHUNK 6/7] ~397 words
+  [CHUNK 7/7] ~367 words
+[15/139] Processing raw/chapters/book_04_sage_saga_016_the_choice_third_coming.md
+  [CHUNK] 4 chunk(s) for raw/chapters/book_04_sage_saga_016_the_choice_third_coming.md
+  [CHUNK 1/4] ~384 words
+  [CHUNK 2/4] ~373 words
+  [CHUNK 3/4] ~360 words
+  [CHUNK 4/4] ~159 words
+[16/139] Processing raw/chapters/book_04_sage_saga_017_niburu_shadow.md
+  [CHUNK] 6 chunk(s) for raw/chapters/book_04_sage_saga_017_niburu_shadow.md
+  [CHUNK 1/6] ~385 words
+  [CHUNK 2/6] ~379 words
+  [CHUNK 3/6] ~397 words
+  [CHUNK 4/6] ~394 words
+  [CHUNK 5/6] ~389 words
+  [CHUNK 6/6] ~155 words
+[WARN] Skipping invalid entity 'Igigi refugees': ["Invalid type: 'species|faction'"]
+[17/139] Processing raw/chapters/book_04_sage_saga_018_the_wandering.md
+  [CHUNK] 11 chunk(s) for raw/chapters/book_04_sage_saga_018_the_wandering.md
+  [CHUNK 1/11] ~357 words
+  [CHUNK 2/11] ~372 words
+  [CHUNK 3/11] ~393 words
+  [CHUNK 4/11] ~395 words
+  [CHUNK 5/11] ~385 words
+  [CHUNK 6/11] ~365 words
+  [CHUNK 7/11] ~391 words
+  [CHUNK 8/11] ~370 words
+  [CHUNK 9/11] ~381 words
+  [CHUNK 10/11] ~352 words
+  [CHUNK 11/11] ~96 words
+[WARN] Skipping invalid entity 'Ice': ["Invalid type: 'artifact|location'"]
+[18/139] Processing raw/chapters/book_04_sage_saga_019_the_sacrafice.md
+  [CHUNK] 6 chunk(s) for raw/chapters/book_04_sage_saga_019_the_sacrafice.md
+  [CHUNK 1/6] ~9 words
+  [CHUNK 2/6] ~1607 words
+  [CHUNK 3/6] ~365 words
+  [CHUNK 4/6] ~443 words
+  [CHUNK 5/6] ~346 words
+  [CHUNK 6/6] ~171 words
+[19/139] Processing raw/chapters/book_04_sage_saga_020_the_collapse.md
+  [CHUNK] 12 chunk(s) for raw/chapters/book_04_sage_saga_020_the_collapse.md
+  [CHUNK 1/12] ~389 words
+  [CHUNK 2/12] ~1121 words
+  [CHUNK 3/12] ~1278 words
+  [CHUNK 4/12] ~1281 words
+  [CHUNK 5/12] ~1133 words
+  [CHUNK 6/12] ~1277 words
+  [CHUNK 7/12] ~396 words
+  [CHUNK 8/12] ~389 words
+  [CHUNK 9/12] ~355 words
+  [CHUNK 10/12] ~376 words
+  [CHUNK 11/12] ~385 words
+  [CHUNK 12/12] ~201 words
+[WARN] Skipping invalid entity 'Synthesis': ["Invalid type: 'artifact|system'"]
+[20/139] Processing raw/chapters/book_04_sage_saga_021_the_first_lesson.md
+  [CHUNK] 8 chunk(s) for raw/chapters/book_04_sage_saga_021_the_first_lesson.md
+  [CHUNK 1/8] ~2 words
+  [CHUNK 2/8] ~984 words
+  [CHUNK 3/8] ~1254 words
+  [CHUNK 4/8] ~1129 words
+  [CHUNK 5/8] ~1128 words
+  [CHUNK 6/8] ~1136 words
+  [CHUNK 7/8] ~1487 words
+  [CHUNK 8/8] ~4 words
+[WARN] Skipping invalid entity 'Codex': ["Invalid type: 'artifact|system'"]
+[WARN] Skipping invalid entity 'Foundation Frequencies': ["Invalid type: 'artifact|system'"]
+[WARN] Skipping invalid entity 'Development Sequences': ["Invalid type: 'artifact|system'"]
+[WARN] Skipping invalid entity 'Synthesis Harmonies': ["Invalid type: 'artifact|system'"]
+[WARN] Skipping invalid entity 'Convergence Resonances': ["Invalid type: 'artifact|system'"]
+[WARN] Skipping invalid entity 'Reality': ["Invalid type: 'system|artifact'"]
+[21/139] Processing raw/chapters/book_04_sage_saga_022_final_calculation.md
+  [CHUNK] 9 chunk(s) for raw/chapters/book_04_sage_saga_022_final_calculation.md
+  [CHUNK 1/9] ~2 words
+  [CHUNK 2/9] ~624 words
+  [CHUNK 3/9] ~1016 words
+  [CHUNK 4/9] ~1184 words
+  [CHUNK 5/9] ~1351 words
+  [CHUNK 6/9] ~978 words
+  [CHUNK 7/9] ~320 words
+  [CHUNK 8/9] ~806 words
+  [CHUNK 9/9] ~4 words
+[22/139] Processing raw/chapters/book_04_sage_saga_023_beyond_identity.md
+  [CHUNK] 8 chunk(s) for raw/chapters/book_04_sage_saga_023_beyond_identity.md
+  [CHUNK 1/8] ~2 words
+  [CHUNK 2/8] ~602 words
+  [CHUNK 3/8] ~801 words
+[WARN] Attempt 1: JSON parse failed: Expecting property name enclosed in double quotes: line 4 column 7 (char 30)
+[RETRY] Waiting 1s before next attempt...
+  [CHUNK 4/8] ~1040 words
+  [CHUNK 5/8] ~953 words
+  [CHUNK 6/8] ~1081 words
+  [CHUNK 7/8] ~1076 words
+  [CHUNK 8/8] ~4 words
+[23/139] Processing raw/chapters/book_05_the_nameless_one_024_the_first_spark.md
+  [CHUNK] 41 chunk(s) for raw/chapters/book_05_the_nameless_one_024_the_first_spark.md
+  [CHUNK 1/41] ~385 words
+  [CHUNK 2/41] ~394 words
+  [CHUNK 3/41] ~382 words
+  [CHUNK 4/41] ~400 words
+  [CHUNK 5/41] ~391 words
+  [CHUNK 6/41] ~370 words
+  [CHUNK 7/41] ~369 words
+  [CHUNK 8/41] ~378 words
+  [CHUNK 9/41] ~396 words
+  [CHUNK 10/41] ~388 words
+  [CHUNK 11/41] ~395 words
+  [CHUNK 12/41] ~375 words
+  [CHUNK 13/41] ~397 words
+  [CHUNK 14/41] ~343 words
+  [CHUNK 15/41] ~366 words
+  [CHUNK 16/41] ~370 words
+  [CHUNK 17/41] ~345 words
+  [CHUNK 18/41] ~379 words
+  [CHUNK 19/41] ~399 words
+  [CHUNK 20/41] ~381 words
+  [CHUNK 21/41] ~372 words
+  [CHUNK 22/41] ~377 words
+  [CHUNK 23/41] ~384 words
+  [CHUNK 24/41] ~395 words
+  [CHUNK 25/41] ~391 words
+  [CHUNK 26/41] ~391 words
+  [CHUNK 27/41] ~374 words
+  [CHUNK 28/41] ~391 words
+  [CHUNK 29/41] ~382 words
+  [CHUNK 30/41] ~390 words
+  [CHUNK 31/41] ~392 words
+  [CHUNK 32/41] ~375 words
+  [CHUNK 33/41] ~392 words
+  [CHUNK 34/41] ~372 words
+  [CHUNK 35/41] ~361 words
+  [CHUNK 36/41] ~361 words
+  [CHUNK 37/41] ~397 words
+  [CHUNK 38/41] ~372 words
+  [CHUNK 39/41] ~379 words
+  [CHUNK 40/41] ~380 words
+  [CHUNK 41/41] ~217 words
+[24/139] Processing raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
+  [CHUNK] 40 chunk(s) for raw/chapters/book_05_the_nameless_one_025_confined_freedom.md
+  [CHUNK 1/40] ~364 words
+  [CHUNK 2/40] ~395 words
+  [CHUNK 3/40] ~378 words
+  [CHUNK 4/40] ~373 words
+  [CHUNK 5/40] ~382 words
+  [CHUNK 6/40] ~395 words
+  [CHUNK 7/40] ~397 words
+  [CHUNK 8/40] ~394 words
+  [CHUNK 9/40] ~391 words
+  [CHUNK 10/40] ~397 words
+  [CHUNK 11/40] ~388 words
+  [CHUNK 12/40] ~393 words
+  [CHUNK 13/40] ~363 words
+  [CHUNK 14/40] ~382 words
+  [CHUNK 15/40] ~387 words
+  [CHUNK 16/40] ~375 words
+  [CHUNK 17/40] ~395 words
+  [CHUNK 18/40] ~374 words
+  [CHUNK 19/40] ~391 words
+  [CHUNK 20/40] ~370 words
+  [CHUNK 21/40] ~389 words
+  [CHUNK 22/40] ~382 words
+  [CHUNK 23/40] ~399 words
+  [CHUNK 24/40] ~398 words
+[WARN] Attempt 1: JSON parse failed: Expecting property name enclosed in double quotes: line 4 column 7 (char 30)
+[RETRY] Waiting 1s before next attempt...
+[WARN] Attempt 2: JSON parse failed: Expecting property name enclosed in double quotes: line 4 column 7 (char 30)
+[RETRY] Waiting 2s before next attempt...
+[WARN] Attempt 3: JSON parse failed: Expecting property name enclosed in double quotes: line 4 column 7 (char 30)
+  [WARN] Chunk 24: no valid JSON from Ollama
+  [CHUNK 25/40] ~393 words
+  [CHUNK 26/40] ~400 words
+  [CHUNK 27/40] ~385 words
+  [CHUNK 28/40] ~396 words
+  [CHUNK 29/40] ~388 words
+  [CHUNK 30/40] ~373 words
+  [CHUNK 31/40] ~386 words
+  [CHUNK 32/40] ~399 words
+  [CHUNK 33/40] ~382 words
+  [CHUNK 34/40] ~379 words
+  [CHUNK 35/40] ~346 words
+  [CHUNK 36/40] ~360 words
+  [CHUNK 37/40] ~368 words
+  [CHUNK 38/40] ~379 words
+  [CHUNK 39/40] ~360 words
+  [CHUNK 40/40] ~131 words
+[WARN] Skipping invalid entity 'thing behind The Nameless one's eye': ["Invalid type: 'artifact|system'"]
+[WARN] Skipping invalid entity 'The Thing Behind His Eye': ["Invalid type: 'artifact|system'"]
+[25/139] Processing raw/chapters/book_05_the_nameless_one_026_dragonmail.md
+  [CHUNK] 14 chunk(s) for raw/chapters/book_05_the_nameless_one_026_dragonmail.md
+  [CHUNK 1/14] ~385 words
+  [CHUNK 2/14] ~355 words
+  [CHUNK 3/14] ~376 words
+  [CHUNK 4/14] ~373 words
+  [CHUNK 5/14] ~366 words
+  [CHUNK 6/14] ~383 words
+  [CHUNK 7/14] ~400 words
+  [CHUNK 8/14] ~393 words
+  [CHUNK 9/14] ~386 words
+  [CHUNK 10/14] ~397 words
+  [CHUNK 11/14] ~395 words
+  [CHUNK 12/14] ~399 words
+  [CHUNK 13/14] ~398 words
+  [CHUNK 14/14] ~101 words
+[26/139] Processing raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+  [CHUNK] 24 chunk(s) for raw/chapters/book_05_the_nameless_one_027_the_claiming.md
+  [CHUNK 1/24] ~380 words
+  [CHUNK 2/24] ~393 words
+  [CHUNK 3/24] ~398 words
+  [CHUNK 4/24] ~395 words
+  [CHUNK 5/24] ~385 words
+  [CHUNK 6/24] ~399 words
+  [CHUNK 7/24] ~378 words
+  [CHUNK 8/24] ~389 words
+  [CHUNK 9/24] ~370 words
+  [CHUNK 10/24] ~390 words
+  [CHUNK 11/24] ~391 words
+  [CHUNK 12/24] ~388 words
+  [CHUNK 13/24] ~397 words
+  [CHUNK 14/24] ~389 words
+  [CHUNK 15/24] ~396 words
+  [CHUNK 16/24] ~397 words
+  [CHUNK 17/24] ~386 words
+  [CHUNK 18/24] ~384 words
+  [CHUNK 19/24] ~372 words
+  [CHUNK 20/24] ~397 words
+  [CHUNK 21/24] ~399 words
+  [CHUNK 22/24] ~363 words
+  [CHUNK 23/24] ~399 words
+  [CHUNK 24/24] ~224 words
+[27/139] Processing raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+  [CHUNK] 26 chunk(s) for raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+  [CHUNK 1/26] ~388 words
+  [CHUNK 2/26] ~391 words
+  [CHUNK 3/26] ~372 words
+  [CHUNK 4/26] ~355 words
+  [CHUNK 5/26] ~381 words
+  [CHUNK 6/26] ~388 words
+  [CHUNK 7/26] ~386 words
+  [CHUNK 8/26] ~389 words
+  [CHUNK 9/26] ~386 words
+  [CHUNK 10/26] ~396 words
+  [CHUNK 11/26] ~392 words
+  [CHUNK 12/26] ~391 words
+  [CHUNK 13/26] ~400 words
+  [CHUNK 14/26] ~400 words
+  [CHUNK 15/26] ~391 words
+  [CHUNK 16/26] ~389 words
+  [CHUNK 17/26] ~367 words
+  [CHUNK 18/26] ~390 words
+  [CHUNK 19/26] ~390 words
+  [CHUNK 20/26] ~380 words
+  [CHUNK 21/26] ~384 words
+  [CHUNK 22/26] ~394 words
+  [CHUNK 23/26] ~400 words
+  [CHUNK 24/26] ~384 words
+  [CHUNK 25/26] ~399 words
+  [CHUNK 26/26] ~368 words
+[WARN] Skipping invalid entity 'Anunnaki Applicator': ["Invalid type: 'artifact|species'"]
+[WARN] Skipping invalid entity 'volunteers': ["Invalid type: 'group'"]
+[28/139] Processing raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
+  [CHUNK] 16 chunk(s) for raw/chapters/book_06_the_ragnarok_029_bounty_hunter.md
+  [CHUNK 1/16] ~390 words
+  [CHUNK 2/16] ~376 words
+  [CHUNK 3/16] ~377 words
+  [CHUNK 4/16] ~395 words
+  [CHUNK 5/16] ~394 words
+  [CHUNK 6/16] ~391 words
+  [CHUNK 7/16] ~392 words
+  [CHUNK 8/16] ~375 words
+  [CHUNK 9/16] ~377 words
+  [CHUNK 10/16] ~378 words
+  [CHUNK 11/16] ~374 words
+  [CHUNK 12/16] ~375 words
+  [CHUNK 13/16] ~391 words
+  [CHUNK 14/16] ~359 words
+  [CHUNK 15/16] ~374 words
+  [CHUNK 16/16] ~312 words
+[WARN] Skipping invalid entity 'Five hundred people': ["Invalid type: 'group'"]
+[WARN] Skipping invalid entity 'Squad': ["Invalid type: 'group'"]
+[29/139] Processing raw/chapters/book_06_the_ragnarok_030_ummade_army.md
+  [CHUNK] 32 chunk(s) for raw/chapters/book_06_the_ragnarok_030_ummade_army.md
+  [CHUNK 1/32] ~385 words
+  [CHUNK 2/32] ~393 words
+  [CHUNK 3/32] ~392 words
+  [CHUNK 4/32] ~359 words
+[WARN] Attempt 1: Ollama request failed: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)
+[RETRY] Waiting 1s before next attempt...
+  [CHUNK 5/32] ~396 words
+  [CHUNK 6/32] ~381 words
+  [CHUNK 7/32] ~361 words
+  [CHUNK 8/32] ~386 words
+  [CHUNK 9/32] ~393 words
+  [CHUNK 10/32] ~378 words
+[WARN] Attempt 1: JSON parse failed: Expecting property name enclosed in double quotes: line 4 column 7 (char 30)
+[RETRY] Waiting 1s before next attempt...
+[WARN] Attempt 2: JSON parse failed: Expecting property name enclosed in double quotes: line 4 column 7 (char 30)
+[RETRY] Waiting 2s before next attempt...
+[WARN] Attempt 3: JSON parse failed: Expecting property name enclosed in double quotes: line 4 column 7 (char 30)
+  [WARN] Chunk 10: no valid JSON from Ollama
+  [CHUNK 11/32] ~399 words
+  [CHUNK 12/32] ~393 words
+  [CHUNK 13/32] ~393 words
+  [CHUNK 14/32] ~391 words
+  [CHUNK 15/32] ~400 words
+  [CHUNK 16/32] ~397 words
+  [CHUNK 17/32] ~386 words
+  [CHUNK 18/32] ~371 words
+  [CHUNK 19/32] ~399 words
+  [CHUNK 20/32] ~373 words
+  [CHUNK 21/32] ~380 words
+  [CHUNK 22/32] ~400 words
+  [CHUNK 23/32] ~362 words
+  [CHUNK 24/32] ~377 words
+  [CHUNK 25/32] ~385 words
+  [CHUNK 26/32] ~388 words
+  [CHUNK 27/32] ~385 words
+  [CHUNK 28/32] ~400 words
+  [CHUNK 29/32] ~379 words
+  [CHUNK 30/32] ~386 words
+  [CHUNK 31/32] ~400 words
+  [CHUNK 32/32] ~284 words
+[WARN] Skipping invalid entity 'Xal'Zirith': ["Invalid type: 'entity'"]
+[WARN] Skipping invalid entity 'Cosmic Order': ["Invalid type: 'faction|system'"]
+[30/139] Processing raw/chapters/book_06_the_ragnarok_031_the_crash_site.md
+  [CHUNK] 16 chunk(s) for raw/chapters/book_06_the_ragnarok_031_the_crash_site.md
+  [CHUNK 1/16] ~385 words
+  [CHUNK 2/16] ~392 words
+  [CHUNK 3/16] ~364 words
+  [CHUNK 4/16] ~393 words
+  [CHUNK 5/16] ~400 words
+  [CHUNK 6/16] ~399 words
+  [CHUNK 7/16] ~384 words
+  [CHUNK 8/16] ~400 words
+  [CHUNK 9/16] ~357 words
+  [CHUNK 10/16] ~382 words
+  [CHUNK 11/16] ~389 words
+  [CHUNK 12/16] ~356 words
+  [CHUNK 13/16] ~369 words
+  [CHUNK 14/16] ~398 words
+  [CHUNK 15/16] ~377 words
+  [CHUNK 16/16] ~41 words
+[WARN] Skipping invalid entity 'Inner Circle': ["Invalid type: 'group'"]
+[31/139] Processing raw/chapters/book_06_the_ragnarok_032_the_redo.md
+  [CHUNK] 13 chunk(s) for raw/chapters/book_06_the_ragnarok_032_the_redo.md
+  [CHUNK 1/13] ~399 words
+  [CHUNK 2/13] ~313 words
+  [CHUNK 3/13] ~332 words
+  [CHUNK 4/13] ~259 words
+  [CHUNK 5/13] ~286 words
+  [CHUNK 6/13] ~392 words
+  [CHUNK 7/13] ~367 words
+  [CHUNK 8/13] ~391 words
+  [CHUNK 9/13] ~364 words
+  [CHUNK 10/13] ~358 words
+  [CHUNK 11/13] ~282 words
+  [CHUNK 12/13] ~365 words
+  [CHUNK 13/13] ~189 words
+[WARN] Skipping invalid entity 'Temporal Vortex': ["Invalid type: 'artifact|event'"]
+[WARN] Skipping invalid entity 'Harbinger': ["Invalid type: 'character|artifact'"]
+[WARN] Skipping invalid entity 'Applicator': ["Invalid type: 'artifact|character'"]
+[WARN] Skipping invalid entity 'Dragon-scale Armor': ["Invalid type: 'artifact|character'"]
+[WARN] Skipping invalid entity 'Chronohounds': ["Invalid type: 'artifact|species'"]
+[32/139] Processing raw/chapters/book_06_the_ragnarok_033_the_march.md
+  [CHUNK] 17 chunk(s) for raw/chapters/book_06_the_ragnarok_033_the_march.md
+  [CHUNK 1/17] ~376 words
+  [CHUNK 2/17] ~392 words
+  [CHUNK 3/17] ~360 words
+  [CHUNK 4/17] ~398 words
+  [CHUNK 5/17] ~368 words
+  [CHUNK 6/17] ~365 words
+  [CHUNK 7/17] ~395 words
+  [CHUNK 8/17] ~381 words
+  [CHUNK 9/17] ~373 words
+  [CHUNK 10/17] ~373 words
+  [CHUNK 11/17] ~301 words
+  [CHUNK 12/17] ~360 words
+  [CHUNK 13/17] ~260 words
+  [CHUNK 14/17] ~390 words
+  [CHUNK 15/17] ~252 words
+  [CHUNK 16/17] ~375 words
+  [CHUNK 17/17] ~77 words
+[WARN] Skipping invalid entity 'strike force': ["Invalid type: 'group'"]
+[WARN] Skipping invalid entity 'Rescue Team': ["Invalid type: 'group'"]
+[WARN] Skipping invalid entity 'Commander': ["Invalid type: 'title'"]
+[33/139] Processing raw/chapters/book_06_the_ragnarok_034_the_250.md
+  [CHUNK] 20 chunk(s) for raw/chapters/book_06_the_ragnarok_034_the_250.md
+  [CHUNK 1/20] ~368 words
+  [CHUNK 2/20] ~284 words
+  [CHUNK 3/20] ~310 words
+  [CHUNK 4/20] ~366 words
+  [CHUNK 5/20] ~342 words
+  [CHUNK 6/20] ~352 words
+  [CHUNK 7/20] ~171 words
+  [CHUNK 8/20] ~364 words
+  [CHUNK 9/20] ~283 words
+  [CHUNK 10/20] ~396 words
+  [CHUNK 11/20] ~195 words
+  [CHUNK 12/20] ~231 words
+  [CHUNK 13/20] ~378 words
+  [CHUNK 14/20] ~363 words
+  [CHUNK 15/20] ~276 words
+  [CHUNK 16/20] ~307 words
+  [CHUNK 17/20] ~394 words
+  [CHUNK 18/20] ~320 words
+  [CHUNK 19/20] ~318 words
+  [CHUNK 20/20] ~239 words
+[34/139] Processing raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
+  [CHUNK] 28 chunk(s) for raw/chapters/book_06_the_ragnarok_035_sands_of_time.md
+  [CHUNK 1/28] ~369 words
+  [CHUNK 2/28] ~284 words
+  [CHUNK 3/28] ~310 words
+  [CHUNK 4/28] ~366 words
+  [CHUNK 5/28] ~342 words
+  [CHUNK 6/28] ~352 words
+  [CHUNK 7/28] ~171 words
+  [CHUNK 8/28] ~364 words
+  [CHUNK 9/28] ~283 words
+  [CHUNK 10/28] ~396 words
+  [CHUNK 11/28] ~195 words
+  [CHUNK 12/28] ~231 words
+  [CHUNK 13/28] ~378 words
+  [CHUNK 14/28] ~363 words
+  [CHUNK 15/28] ~276 words
+  [CHUNK 16/28] ~307 words
+  [CHUNK 17/28] ~394 words
+  [CHUNK 18/28] ~320 words
+  [CHUNK 19/28] ~318 words
+  [CHUNK 20/28] ~397 words
+  [CHUNK 21/28] ~308 words
+  [CHUNK 22/28] ~378 words
+  [CHUNK 23/28] ~381 words
+  [CHUNK 24/28] ~378 words
+  [CHUNK 25/28] ~280 words
+  [CHUNK 26/28] ~380 words
+  [CHUNK 27/28] ~354 words
+  [CHUNK 28/28] ~396 words
+[WARN] Skipping invalid entity 'Xal'Zirith': ["Invalid type: 'entity'"]
+[WARN] Skipping invalid entity '250': ["Invalid type: 'artifact|event'"]
+[35/139] Processing raw/chapters/book_06_the_ragnarok_036_highland_giants.md
+  [CHUNK] 27 chunk(s) for raw/chapters/book_06_the_ragnarok_036_highland_giants.md
+  [CHUNK 1/27] ~357 words
+  [CHUNK 2/27] ~366 words
+  [CHUNK 3/27] ~320 words
+  [CHUNK 4/27] ~302 words
+  [CHUNK 5/27] ~299 words
+  [CHUNK 6/27] ~366 words
+  [CHUNK 7/27] ~336 words
+  [CHUNK 8/27] ~301 words
+  [CHUNK 9/27] ~388 words
+  [CHUNK 10/27] ~214 words
+  [CHUNK 11/27] ~258 words
+  [CHUNK 12/27] ~394 words
+  [CHUNK 13/27] ~373 words
+  [CHUNK 14/27] ~342 words
+[WARN] Attempt 1: JSON parse failed: Expecting property name enclosed in double quotes: line 29 column 37 (char 1034)
+[RETRY] Waiting 1s before next attempt...
+  [CHUNK 15/27] ~365 words
+  [CHUNK 16/27] ~351 words
+  [CHUNK 17/27] ~324 words
+  [CHUNK 18/27] ~327 words
+  [CHUNK 19/27] ~293 words
+  [CHUNK 20/27] ~354 words
+  [CHUNK 21/27] ~330 words
+  [CHUNK 22/27] ~359 words
+  [CHUNK 23/27] ~376 words
+  [CHUNK 24/27] ~287 words
+  [CHUNK 25/27] ~224 words
+  [CHUNK 26/27] ~209 words
+  [CHUNK 27/27] ~207 words
+[WARN] Skipping invalid entity 'Echo': ["Invalid type: 'event|arc'"]
+[WARN] Skipping invalid entity 'Five': ["Invalid type: 'artifact|event'"]
+[36/139] Processing raw/chapters/book_07_light_resonance_and_the_function_037_the_circle_of_progress.md
+  [CHUNK] 17 chunk(s) for raw/chapters/book_07_light_resonance_and_the_function_037_the_circle_of_progress.md
+  [CHUNK 1/17] ~359 words
+  [CHUNK 2/17] ~361 words
+  [CHUNK 3/17] ~383 words
+  [CHUNK 4/17] ~315 words
+  [CHUNK 5/17] ~318 words
+  [CHUNK 6/17] ~357 words
+  [CHUNK 7/17] ~361 words
+  [CHUNK 8/17] ~331 words
+  [CHUNK 9/17] ~371 words
+  [CHUNK 10/17] ~351 words
+  [CHUNK 11/17] ~376 words
+  [CHUNK 12/17] ~257 words
+  [CHUNK 13/17] ~384 words
+  [CHUNK 14/17] ~354 words
+  [CHUNK 15/17] ~336 words
+  [CHUNK 16/17] ~328 words
+  [CHUNK 17/17] ~179 words
+[WARN] Skipping invalid entity 'north': ["Invalid type: 'direction'"]
+[37/139] Processing raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+  [CHUNK] 17 chunk(s) for raw/chapters/book_07_light_resonance_and_the_function_038_luminaire_keeper.md
+  [CHUNK 1/17] ~400 words
+  [CHUNK 2/17] ~392 words
+  [CHUNK 3/17] ~385 words
+  [CHUNK 4/17] ~178 words
+  [CHUNK 5/17] ~325 words
+  [CHUNK 6/17] ~334 words
+  [CHUNK 7/17] ~311 words
+  [CHUNK 8/17] ~334 words
+  [CHUNK 9/17] ~281 words
+  [CHUNK 10/17] ~357 words
+  [CHUNK 11/17] ~363 words
+  [CHUNK 12/17] ~381 words
+  [CHUNK 13/17] ~330 words
+  [CHUNK 14/17] ~294 words
+  [CHUNK 15/17] ~366 words
+  [CHUNK 16/17] ~396 words
+  [CHUNK 17/17] ~380 words
+[WARN] Skipping invalid entity 'Buried Luminaire': ["Invalid type: 'location|artifact'"]
+[WARN] Skipping invalid entity 'Dragonmail': ["Invalid type: 'artifact|armor'"]
+[WARN] Skipping invalid entity 'Chroniton': ["Invalid type: 'artifact|technology'"]
+[WARN] Skipping invalid entity 'Void Spire': ["Invalid type: 'artifact|location'"]
+[WARN] Skipping invalid entity 'Void-wyrm': ["Invalid type: 'artifact|monster'"]
+[WARN] Skipping invalid entity 'T'Zurakai': ["Invalid type: 'character|entity'"]
+[38/139] Processing raw/chapters/book_07_light_resonance_and_the_function_039_jungle_fever.md
+  [CHUNK] 13 chunk(s) for raw/chapters/book_07_light_resonance_and_the_function_039_jungle_fever.md
+  [CHUNK 1/13] ~380 words
+  [CHUNK 2/13] ~364 words
+  [CHUNK 3/13] ~351 words
+  [CHUNK 4/13] ~392 words
+  [CHUNK 5/13] ~383 words
+  [CHUNK 6/13] ~395 words
+  [CHUNK 7/13] ~394 words
+  [CHUNK 8/13] ~399 words
+  [CHUNK 9/13] ~355 words
+  [CHUNK 10/13] ~362 words
+  [CHUNK 11/13] ~400 words
+  [CHUNK 12/13] ~394 words
+  [CHUNK 13/13] ~34 words
+[WARN] Skipping invalid entity 'Node Gamma': ["Invalid type: 'artifact|system'"]
+[39/139] Processing raw/chapters/book_07_light_resonance_and_the_function_040_the_dragon_wars.md
+  [CHUNK] 6 chunk(s) for raw/chapters/book_07_light_resonance_and_the_function_040_the_dragon_wars.md
+  [CHUNK 1/6] ~381 words
+  [CHUNK 2/6] ~330 words
+  [CHUNK 3/6] ~294 words
+  [CHUNK 4/6] ~366 words
+  [CHUNK 5/6] ~396 words
+  [CHUNK 6/6] ~377 words
+[WARN] Skipping invalid entity 'Void-wyrm': ["Invalid type: 'artifact|monster'"]
+[WARN] Skipping invalid entity 'VALDRASIL': ["Invalid type: 'faction|species'"]
+[WARN] Skipping invalid entity 'Dragonmail': ["Invalid type: 'artifact|armor'"]
+[WARN] Skipping invalid entity 'Solar fusion robes': ["Invalid type: 'artifact|armor'"]
+[WARN] Skipping invalid entity 'Twilight silk and starlight plate': ["Invalid type: 'artifact|armor'"]
+[WARN] Skipping invalid entity 'Shadow': ["Invalid type: 'character|artifact'"]
+[WARN] Skipping invalid entity 'Luminaire': ["Invalid type: 'artifact|system'"]
+[WARN] Skipping invalid entity 'Legionnaires': ["Invalid type: 'character|faction'"]
+[40/139] Processing raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
+  [CHUNK] 27 chunk(s) for raw/chapters/book_07_light_resonance_and_the_function_041_the_tripartite_bond.md
+  [CHUNK 1/27] ~379 words
+  [CHUNK 2/27] ~391 words
+  [CHUNK 3/27] ~358 words
+  [CHUNK 4/27] ~386 words
+  [CHUNK 5/27] ~399 words
+  [CHUNK 6/27] ~364 words
+  [CHUNK 7/27] ~387 words
+  [CHUNK 8/27] ~395 words
+  [CHUNK 9/27] ~391 words
+  [CHUNK 10/27] ~397 words
+  [CHUNK 11/27] ~357 words
+  [CHUNK 12/27] ~398 words
+  [CHUNK 13/27] ~392 words
+  [CHUNK 14/27] ~391 words
+  [CHUNK 15/27] ~399 words
+  [CHUNK 16/27] ~361 words
+  [CHUNK 17/27] ~371 words
+  [CHUNK 18/27] ~391 words
+  [CHUNK 19/27] ~396 words
+  [CHUNK 20/27] ~400 words
+  [CHUNK 21/27] ~400 words
+  [CHUNK 22/27] ~400 words
+  [CHUNK 23/27] ~389 words
+  [CHUNK 24/27] ~390 words
+  [CHUNK 25/27] ~377 words
+  [CHUNK 26/27] ~392 words
+  [CHUNK 27/27] ~151 words
+[WARN] Skipping invalid entity 'corruption': ["Invalid type: 'event|arc'"]
+[WARN] Skipping invalid entity 'Corrupted Igigi': ["Invalid type: 'monster'"]
+[WARN] Skipping invalid entity 'Water': ["Invalid type: 'environment|system'"]
+[WARN] Skipping invalid entity 'ECHO ONE': ["Invalid type: 'artifact|entity'"]
+[WARN] Skipping invalid entity 'ECHO TWO': ["Invalid type: 'artifact|entity'"]
+[WARN] Skipping invalid entity 'ECHO THREE': ["Invalid type: 'artifact|entity'"]
+[41/139] Processing raw/chapters/book_08_the_vigil_of_the_anchor_042_the_verdant_crossing.md
+  [CHUNK] 9 chunk(s) for raw/chapters/book_08_the_vigil_of_the_anchor_042_the_verdant_crossing.md
+  [CHUNK 1/9] ~399 words
+  [CHUNK 2/9] ~372 words
+  [CHUNK 3/9] ~398 words
+  [CHUNK 4/9] ~396 words
+  [CHUNK 5/9] ~366 words
+  [CHUNK 6/9] ~395 words
+  [CHUNK 7/9] ~392 words
+  [CHUNK 8/9] ~395 words
+  [CHUNK 9/9] ~139 words
+[42/139] Processing raw/chapters/book_08_the_vigil_of_the_anchor_043_the_badlands_crucible.md
+  [CHUNK] 12 chunk(s) for raw/chapters/book_08_the_vigil_of_the_anchor_043_the_badlands_crucible.md
+  [CHUNK 1/12] ~398 words
+  [CHUNK 2/12] ~385 words
+  [CHUNK 3/12] ~385 words
+  [CHUNK 4/12] ~368 words
+  [CHUNK 5/12] ~370 words
+  [CHUNK 6/12] ~373 words
+  [CHUNK 7/12] ~400 words
+  [CHUNK 8/12] ~370 words
+  [CHUNK 9/12] ~396 words
+  [CHUNK 10/12] ~367 words
+  [CHUNK 11/12] ~387 words
+  [CHUNK 12/12] ~393 words
+[WARN] Skipping invalid entity 'Proto-Dregan': ["Invalid type: 'artifact|species'"]
+[WARN] Skipping invalid entity 'Anunnaki': ["Invalid type: 'faction|species'"]
+[WARN] Skipping invalid entity 'Node Gamma': ["Invalid type: 'artifact|system'"]
+[43/139] Processing raw/chapters/book_08_the_vigil_of_the_anchor_044_the_mountains_shadow.md
+  [CHUNK] 15 chunk(s) for raw/chapters/book_08_the_vigil_of_the_anchor_044_the_mountains_shadow.md
+  [CHUNK 1/15] ~375 words
+  [CHUNK 2/15] ~366 words
+  [CHUNK 3/15] ~359 words
+  [CHUNK 4/15] ~387 words
+  [CHUNK 5/15] ~375 words
+  [CHUNK 6/15] ~384 words
+  [CHUNK 7/15] ~380 words
+  [CHUNK 8/15] ~368 words
+  [CHUNK 9/15] ~373 words
+  [CHUNK 10/15] ~394 words
+  [CHUNK 11/15] ~397 words
+  [CHUNK 12/15] ~385 words
+  [CHUNK 13/15] ~394 words
+  [CHUNK 14/15] ~395 words
+  [CHUNK 15/15] ~111 words
+[WARN] Skipping invalid entity 'survivors': ["Invalid type: 'group'"]
+[44/139] Processing raw/chapters/book_08_the_vigil_of_the_anchor_045_the_hub_falls.md
+  [CHUNK] 20 chunk(s) for raw/chapters/book_08_the_vigil_of_the_anchor_045_the_hub_falls.md
+  [CHUNK 1/20] ~382 words
+  [CHUNK 2/20] ~327 words
+  [CHUNK 3/20] ~364 words
+  [CHUNK 4/20] ~394 words
+  [CHUNK 5/20] ~398 words
+  [CHUNK 6/20] ~388 words
+  [CHUNK 7/20] ~392 words
+  [CHUNK 8/20] ~353 words
+  [CHUNK 9/20] ~380 words
+  [CHUNK 10/20] ~363 words
+  [CHUNK 11/20] ~390 words
+  [CHUNK 12/20] ~389 words
+  [CHUNK 13/20] ~383 words
+  [CHUNK 14/20] ~372 words
+  [CHUNK 15/20] ~328 words
+  [CHUNK 16/20] ~382 words
+  [CHUNK 17/20] ~386 words
+  [CHUNK 18/20] ~388 words
+  [CHUNK 19/20] ~390 words
+  [CHUNK 20/20] ~389 words
+[WARN] Skipping invalid entity 'Gruulith': ["Invalid type: 'artifact|construct'"]
+[45/139] Processing raw/chapters/book_08_the_vigil_of_the_anchor_046_not_like_this.md
+  [CHUNK] 15 chunk(s) for raw/chapters/book_08_the_vigil_of_the_anchor_046_not_like_this.md
+  [CHUNK 1/15] ~380 words
+  [CHUNK 2/15] ~382 words
+  [CHUNK 3/15] ~400 words
+  [CHUNK 4/15] ~377 words
+  [CHUNK 5/15] ~387 words
+  [CHUNK 6/15] ~389 words
+  [CHUNK 7/15] ~378 words
+  [CHUNK 8/15] ~392 words
+  [CHUNK 9/15] ~376 words
+  [CHUNK 10/15] ~350 words
+  [CHUNK 11/15] ~382 words
+  [CHUNK 12/15] ~381 words
+  [CHUNK 13/15] ~389 words
+  [CHUNK 14/15] ~388 words
+  [CHUNK 15/15] ~148 words
+[WARN] Skipping invalid entity 'Echo Clones': ["Invalid type: 'artifact|event'"]
+[46/139] Processing raw/chapters/book_08_the_vigil_of_the_anchor_047_mika.md
+  [CHUNK] 8 chunk(s) for raw/chapters/book_08_the_vigil_of_the_anchor_047_mika.md
+  [CHUNK 1/8] ~384 words
+  [CHUNK 2/8] ~386 words
+  [CHUNK 3/8] ~394 words
+  [CHUNK 4/8] ~398 words
+  [CHUNK 5/8] ~391 words
+  [CHUNK 6/8] ~363 words
+  [CHUNK 7/8] ~352 words
+  [CHUNK 8/8] ~232 words
+[WARN] Skipping invalid entity 'core_group': ["Invalid type: 'group'"]
+[WARN] Skipping invalid entity 'First Tongue': ["Invalid type: 'language'"]
+[47/139] Processing raw/chapters/book_09_bureaucratic_debt_048_the_ledger_born.md
+  [CHUNK] 8 chunk(s) for raw/chapters/book_09_bureaucratic_debt_048_the_ledger_born.md
+  [CHUNK 1/8] ~396 words
+  [CHUNK 2/8] ~397 words
+  [CHUNK 3/8] ~397 words
+  [CHUNK 4/8] ~360 words
+  [CHUNK 5/8] ~386 words
+  [CHUNK 6/8] ~400 words
+  [CHUNK 7/8] ~380 words
+  [CHUNK 8/8] ~118 words
+[48/139] Processing raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
+  [CHUNK] 19 chunk(s) for raw/chapters/book_09_bureaucratic_debt_049_the_eastern_claim.md
+  [CHUNK 1/19] ~368 words
+  [CHUNK 2/19] ~376 words
+  [CHUNK 3/19] ~333 words
+  [CHUNK 4/19] ~378 words
+  [CHUNK 5/19] ~386 words
+  [CHUNK 6/19] ~385 words
+  [CHUNK 7/19] ~399 words
+  [CHUNK 8/19] ~371 words
+  [CHUNK 9/19] ~360 words
+  [CHUNK 10/19] ~396 words
+  [CHUNK 11/19] ~394 words
+  [CHUNK 12/19] ~386 words
+  [CHUNK 13/19] ~393 words
+  [CHUNK 14/19] ~386 words
+  [CHUNK 15/19] ~327 words
+  [CHUNK 16/19] ~363 words
+  [CHUNK 17/19] ~375 words
+  [CHUNK 18/19] ~395 words
+  [CHUNK 19/19] ~253 words
+[49/139] Processing raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
+  [CHUNK] 17 chunk(s) for raw/chapters/book_09_bureaucratic_debt_050_the_scout.md
+  [CHUNK 1/17] ~374 words
+  [CHUNK 2/17] ~364 words
+  [CHUNK 3/17] ~397 words
+  [CHUNK 4/17] ~355 words
+  [CHUNK 5/17] ~392 words
+  [CHUNK 6/17] ~391 words
+  [CHUNK 7/17] ~354 words
+  [CHUNK 8/17] ~361 words
+  [CHUNK 9/17] ~394 words
+  [CHUNK 10/17] ~392 words
+  [CHUNK 11/17] ~386 words
+  [CHUNK 12/17] ~395 words
+  [CHUNK 13/17] ~380 words
+  [CHUNK 14/17] ~392 words
+  [CHUNK 15/17] ~400 words
+  [CHUNK 16/17] ~392 words
+  [CHUNK 17/17] ~103 words
+[WARN] Skipping invalid entity 'Chroniton Sickness': ["Invalid type: 'condition'"]
+[WARN] Skipping invalid entity 'Chroniton rot': ["Invalid type: 'condition'"]
+[WARN] Skipping invalid entity 'Shadow-figures': ["Invalid type: 'entity'"]
+[WARN] Skipping invalid entity 'Guardian': ["Invalid type: 'artifact|entity'"]
+[50/139] Processing raw/chapters/book_09_bureaucratic_debt_051_arrival_in_fire.md
+  [CHUNK] 13 chunk(s) for raw/chapters/book_09_bureaucratic_debt_051_arrival_in_fire.md
+  [CHUNK 1/13] ~390 words
+  [CHUNK 2/13] ~390 words
+  [CHUNK 3/13] ~400 words
+  [CHUNK 4/13] ~378 words
+  [CHUNK 5/13] ~360 words
+  [CHUNK 6/13] ~394 words
+  [CHUNK 7/13] ~398 words
+  [CHUNK 8/13] ~349 words
+  [CHUNK 9/13] ~394 words
+  [CHUNK 10/13] ~400 words
+  [CHUNK 11/13] ~397 words
+  [CHUNK 12/13] ~390 words
+  [CHUNK 13/13] ~64 words
+[WARN] Skipping invalid entity 'Litho-Thanatic Bore Leviathan': ["Invalid type: 'artifact|species'"]
+[51/139] Processing raw/chapters/book_09_bureaucratic_debt_052_entry_without_standing.md
+  [CHUNK] 14 chunk(s) for raw/chapters/book_09_bureaucratic_debt_052_entry_without_standing.md
+  [CHUNK 1/14] ~375 words
+  [CHUNK 2/14] ~398 words
+  [CHUNK 3/14] ~392 words
+  [CHUNK 4/14] ~397 words
+  [CHUNK 5/14] ~384 words
+  [CHUNK 6/14] ~398 words
+  [CHUNK 7/14] ~399 words
+  [CHUNK 8/14] ~361 words
+  [CHUNK 9/14] ~360 words
+  [CHUNK 10/14] ~378 words
+  [CHUNK 11/14] ~397 words
+  [CHUNK 12/14] ~392 words
+  [CHUNK 13/14] ~385 words
+  [CHUNK 14/14] ~165 words
+[52/139] Processing raw/chapters/book_09_bureaucratic_debt_053_the_twilight_city.md
+  [CHUNK] 13 chunk(s) for raw/chapters/book_09_bureaucratic_debt_053_the_twilight_city.md
+  [CHUNK 1/13] ~390 words
+  [CHUNK 2/13] ~392 words
+  [CHUNK 3/13] ~369 words
+  [CHUNK 4/13] ~360 words
+  [CHUNK 5/13] ~385 words
+  [CHUNK 6/13] ~398 words
+  [CHUNK 7/13] ~372 words
+  [CHUNK 8/13] ~395 words
+  [CHUNK 9/13] ~363 words
+  [CHUNK 10/13] ~380 words
+  [CHUNK 11/13] ~369 words
+  [CHUNK 12/13] ~400 words
+  [CHUNK 13/13] ~179 words
+[53/139] Processing raw/chapters/book_09_bureaucratic_debt_054_tue_lunar_spire.md
+  [CHUNK] 10 chunk(s) for raw/chapters/book_09_bureaucratic_debt_054_tue_lunar_spire.md
+  [CHUNK 1/10] ~394 words
+  [CHUNK 2/10] ~353 words
+  [CHUNK 3/10] ~355 words
+  [CHUNK 4/10] ~397 words
+  [CHUNK 5/10] ~400 words
+  [CHUNK 6/10] ~358 words
+  [CHUNK 7/10] ~369 words
+  [CHUNK 8/10] ~369 words
+  [CHUNK 9/10] ~378 words
+  [CHUNK 10/10] ~236 words
+[54/139] Processing raw/chapters/book_09_bureaucratic_debt_055_the_anchors_forge.md
+  [CHUNK] 12 chunk(s) for raw/chapters/book_09_bureaucratic_debt_055_the_anchors_forge.md
+  [CHUNK 1/12] ~363 words
+  [CHUNK 2/12] ~382 words
+  [CHUNK 3/12] ~335 words
+  [CHUNK 4/12] ~372 words
+  [CHUNK 5/12] ~394 words
+  [CHUNK 6/12] ~390 words
+  [CHUNK 7/12] ~380 words
+  [CHUNK 8/12] ~385 words
+  [CHUNK 9/12] ~385 words
+  [CHUNK 10/12] ~383 words
+  [CHUNK 11/12] ~365 words
+  [CHUNK 12/12] ~74 words
+[WARN] Skipping invalid entity 'Five': ["Invalid type: 'group'"]
+[WARN] Skipping invalid entity 'Five Mikas': ["Invalid type: 'artifact|entity'"]
+[55/139] Processing raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
+  [CHUNK] 16 chunk(s) for raw/chapters/book_10_infernal_vigil_056_erasures_edge.md
+  [CHUNK 1/16] ~368 words
+  [CHUNK 2/16] ~387 words
+  [CHUNK 3/16] ~371 words
+  [CHUNK 4/16] ~381 words
+  [CHUNK 5/16] ~351 words
+  [CHUNK 6/16] ~342 words
+  [CHUNK 7/16] ~335 words
+  [CHUNK 8/16] ~388 words
+  [CHUNK 9/16] ~394 words
+  [CHUNK 10/16] ~345 words
+  [CHUNK 11/16] ~349 words
+  [CHUNK 12/16] ~366 words
+  [CHUNK 13/16] ~348 words
+  [CHUNK 14/16] ~368 words
+  [CHUNK 15/16] ~365 words
+  [CHUNK 16/16] ~147 words
+[WARN] Skipping invalid entity 'Akashic': ["Invalid type: 'system|artifact'"]
+[WARN] Skipping invalid entity 'Reality': ["Invalid type: 'system|artifact'"]
+[56/139] Processing raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
+  [CHUNK] 16 chunk(s) for raw/chapters/book_10_infernal_vigil_057_enforced_enrollment.md
+  [CHUNK 1/16] ~400 words
+  [CHUNK 2/16] ~388 words
+  [CHUNK 3/16] ~383 words
+  [CHUNK 4/16] ~385 words
+  [CHUNK 5/16] ~396 words
+  [CHUNK 6/16] ~377 words
+  [CHUNK 7/16] ~388 words
+  [CHUNK 8/16] ~354 words
+  [CHUNK 9/16] ~365 words
+  [CHUNK 10/16] ~358 words
+  [CHUNK 11/16] ~356 words
+  [CHUNK 12/16] ~384 words
+  [CHUNK 13/16] ~346 words
+  [CHUNK 14/16] ~357 words
+  [CHUNK 15/16] ~383 words
+  [CHUNK 16/16] ~72 words
+[WARN] Skipping invalid entity 'Ragnarok's Shadow': ["Invalid type: 'title'"]
+[WARN] Skipping invalid entity 'Spire-code': ["Invalid type: 'artifact|system'"]
+[57/139] Processing raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+  [CHUNK] 25 chunk(s) for raw/chapters/book_10_infernal_vigil_058_paradox_engine.md
+  [CHUNK 1/25] ~400 words
+  [CHUNK 2/25] ~378 words
+  [CHUNK 3/25] ~393 words
+  [CHUNK 4/25] ~390 words
+  [CHUNK 5/25] ~376 words
+  [CHUNK 6/25] ~390 words
+  [CHUNK 7/25] ~378 words
+  [CHUNK 8/25] ~351 words
+  [CHUNK 9/25] ~384 words
+  [CHUNK 10/25] ~370 words
+  [CHUNK 11/25] ~357 words
+  [CHUNK 12/25] ~366 words
+  [CHUNK 13/25] ~345 words
+  [CHUNK 14/25] ~375 words
+  [CHUNK 15/25] ~375 words
+  [CHUNK 16/25] ~375 words
+  [CHUNK 17/25] ~377 words
+  [CHUNK 18/25] ~397 words
+  [CHUNK 19/25] ~375 words
+  [CHUNK 20/25] ~358 words
+  [CHUNK 21/25] ~396 words
+  [CHUNK 22/25] ~395 words
+  [CHUNK 23/25] ~396 words
+  [CHUNK 24/25] ~345 words
+  [CHUNK 25/25] ~159 words
+[58/139] Processing raw/chapters/book_10_infernal_vigil_059_eyes_of_eternity.md
+  [CHUNK] 7 chunk(s) for raw/chapters/book_10_infernal_vigil_059_eyes_of_eternity.md
+  [CHUNK 1/7] ~320 words
+  [CHUNK 2/7] ~394 words
+  [CHUNK 3/7] ~358 words
+  [CHUNK 4/7] ~398 words
+  [CHUNK 5/7] ~395 words
+  [CHUNK 6/7] ~396 words
+  [CHUNK 7/7] ~89 words
+[WARN] Skipping invalid entity 'Bronze Dragon': ["Invalid type: 'artifact|event'"]
+[WARN] Skipping invalid entity 'Crimson Blood Dragon': ["Invalid type: 'artifact|species'"]
+[59/139] Processing raw/chapters/book_11_blood_and_legacy_060_echoes_of_the_cradle.md
+  [CHUNK] 29 chunk(s) for raw/chapters/book_11_blood_and_legacy_060_echoes_of_the_cradle.md
+  [CHUNK 1/29] ~303 words
+  [CHUNK 2/29] ~323 words
+  [CHUNK 3/29] ~374 words
+  [CHUNK 4/29] ~314 words
+  [CHUNK 5/29] ~326 words
+  [CHUNK 6/29] ~380 words
+  [CHUNK 7/29] ~357 words
+  [CHUNK 8/29] ~359 words
+  [CHUNK 9/29] ~352 words
+  [CHUNK 10/29] ~352 words
+  [CHUNK 11/29] ~376 words
+  [CHUNK 12/29] ~320 words
+  [CHUNK 13/29] ~379 words
+  [CHUNK 14/29] ~394 words
+  [CHUNK 15/29] ~331 words
+  [CHUNK 16/29] ~346 words
+  [CHUNK 17/29] ~385 words
+  [CHUNK 18/29] ~389 words
+  [CHUNK 19/29] ~322 words
+  [CHUNK 20/29] ~393 words
+  [CHUNK 21/29] ~333 words
+  [CHUNK 22/29] ~396 words
+  [CHUNK 23/29] ~399 words
+  [CHUNK 24/29] ~343 words
+  [CHUNK 25/29] ~400 words
+  [CHUNK 26/29] ~400 words
+  [CHUNK 27/29] ~391 words
+  [CHUNK 28/29] ~355 words
+  [CHUNK 29/29] ~215 words
+[WARN] Skipping invalid entity 'shadow creatures': ["Invalid type: 'monster'"]
+[60/139] Processing raw/chapters/book_11_blood_and_legacy_061_the_hier.md
+  [CHUNK] 16 chunk(s) for raw/chapters/book_11_blood_and_legacy_061_the_hier.md
+  [CHUNK 1/16] ~332 words
+  [CHUNK 2/16] ~369 words
+  [CHUNK 3/16] ~365 words
+  [CHUNK 4/16] ~370 words
+  [CHUNK 5/16] ~347 words
+  [CHUNK 6/16] ~394 words
+  [CHUNK 7/16] ~369 words
+  [CHUNK 8/16] ~366 words
+  [CHUNK 9/16] ~342 words
+  [CHUNK 10/16] ~358 words
+  [CHUNK 11/16] ~368 words
+  [CHUNK 12/16] ~369 words
+  [CHUNK 13/16] ~383 words
+  [CHUNK 14/16] ~373 words
+  [CHUNK 15/16] ~327 words
+  [CHUNK 16/16] ~303 words
+[WARN] Skipping invalid entity 'Nibiru': ["Invalid type: 'artifact|event'"]
+[WARN] Skipping invalid entity 'Fifth Coming': ["Invalid type: 'event|arc'"]
+[WARN] Skipping invalid entity 'Shadows': ["Invalid type: 'artifact|system'"]
+[WARN] Skipping invalid entity 'Unknown Entity': ["Invalid type: 'species|artifact'"]
+[WARN] Skipping invalid entity 'Prophecy': ["Invalid type: 'event|arc'"]
+[61/139] Processing raw/chapters/book_11_blood_and_legacy_062_falcon_ridge_showdown.md
+  [CHUNK] 20 chunk(s) for raw/chapters/book_11_blood_and_legacy_062_falcon_ridge_showdown.md
+  [CHUNK 1/20] ~380 words
+  [CHUNK 2/20] ~350 words
+  [CHUNK 3/20] ~372 words
+  [CHUNK 4/20] ~381 words
+  [CHUNK 5/20] ~366 words
+  [CHUNK 6/20] ~363 words
+  [CHUNK 7/20] ~390 words
+  [CHUNK 8/20] ~382 words
+  [CHUNK 9/20] ~379 words
+  [CHUNK 10/20] ~362 words
+  [CHUNK 11/20] ~385 words
+[WARN] Attempt 1: JSON parse failed: Expecting property name enclosed in double quotes: line 4 column 7 (char 30)
+[RETRY] Waiting 1s before next attempt...
+  [CHUNK 12/20] ~389 words
+  [CHUNK 13/20] ~352 words
+  [CHUNK 14/20] ~397 words
+  [CHUNK 15/20] ~384 words
+  [CHUNK 16/20] ~367 words
+  [CHUNK 17/20] ~362 words
+  [CHUNK 18/20] ~398 words
+  [CHUNK 19/20] ~372 words
+  [CHUNK 20/20] ~355 words
+[WARN] Skipping invalid entity 'Phantoms': ["Invalid type: 'entity'"]
+[62/139] Processing raw/chapters/book_11_blood_and_legacy_063_the_iron_hand.md
+  [CHUNK] 22 chunk(s) for raw/chapters/book_11_blood_and_legacy_063_the_iron_hand.md
+  [CHUNK 1/22] ~389 words
+  [CHUNK 2/22] ~361 words
+  [CHUNK 3/22] ~369 words
+  [CHUNK 4/22] ~360 words
+  [CHUNK 5/22] ~334 words
+  [CHUNK 6/22] ~354 words
+  [CHUNK 7/22] ~397 words
+  [CHUNK 8/22] ~365 words
+  [CHUNK 9/22] ~377 words
+  [CHUNK 10/22] ~388 words
+  [CHUNK 11/22] ~387 words
+  [CHUNK 12/22] ~372 words
+  [CHUNK 13/22] ~399 words
+  [CHUNK 14/22] ~382 words
+  [CHUNK 15/22] ~397 words
+  [CHUNK 16/22] ~371 words
+  [CHUNK 17/22] ~395 words
+  [CHUNK 18/22] ~398 words
+[WARN] Attempt 1: JSON parse failed: Expecting property name enclosed in double quotes: line 4 column 7 (char 30)
+[RETRY] Waiting 1s before next attempt...
+[WARN] Attempt 2: JSON parse failed: Expecting property name enclosed in double quotes: line 4 column 7 (char 30)
+[RETRY] Waiting 2s before next attempt...
+[WARN] Attempt 3: JSON parse failed: Expecting property name enclosed in double quotes: line 4 column 7 (char 30)
+  [WARN] Chunk 18: no valid JSON from Ollama
+  [CHUNK 19/22] ~377 words
+  [CHUNK 20/22] ~327 words
+  [CHUNK 21/22] ~371 words
+  [CHUNK 22/22] ~382 words
+[WARN] Skipping invalid entity 'Crimsonblood': ["Invalid type: 'artifact|species'"]
+[WARN] Skipping invalid entity 'Sundrift survivors': ["Invalid type: 'group'"]
+[WARN] Skipping invalid entity 'Crimson Blood': ["Invalid type: 'artifact|species'"]
+[63/139] Processing raw/chapters/book_11_blood_and_legacy_064_pass_through_shadow_and_flame.md
+  [CHUNK] 24 chunk(s) for raw/chapters/book_11_blood_and_legacy_064_pass_through_shadow_and_flame.md
+  [CHUNK 1/24] ~366 words
+  [CHUNK 2/24] ~370 words
+  [CHUNK 3/24] ~348 words
+  [CHUNK 4/24] ~399 words
+  [CHUNK 5/24] ~372 words
+  [CHUNK 6/24] ~358 words
+  [CHUNK 7/24] ~354 words
+  [CHUNK 8/24] ~378 words
+  [CHUNK 9/24] ~391 words
+  [CHUNK 10/24] ~398 words
+  [CHUNK 11/24] ~346 words
+  [CHUNK 12/24] ~359 words
+  [CHUNK 13/24] ~360 words
+  [CHUNK 14/24] ~374 words
+  [CHUNK 15/24] ~378 words
+  [CHUNK 16/24] ~367 words
+  [CHUNK 17/24] ~346 words
+  [CHUNK 18/24] ~343 words
+  [CHUNK 19/24] ~340 words
+  [CHUNK 20/24] ~365 words
+  [CHUNK 21/24] ~368 words
+  [CHUNK 22/24] ~400 words
+  [CHUNK 23/24] ~339 words
+  [CHUNK 24/24] ~127 words
+[WARN] Skipping invalid entity 'First Civilization': ["Invalid type: 'ancient civilization'"]
+[WARN] Skipping invalid entity 'Khe': ["Invalid type: 'entity|character'"]
+[WARN] Skipping invalid entity 'Solar Throne': ["Invalid type: 'artifact|location'"]
+[WARN] Skipping invalid entity 'Shadow Seat': ["Invalid type: 'artifact|location'"]
+[64/139] Processing raw/chapters/book_11_blood_and_legacy_065_secrets_of_the_deep.md
+  [CHUNK] 31 chunk(s) for raw/chapters/book_11_blood_and_legacy_065_secrets_of_the_deep.md
+  [CHUNK 1/31] ~345 words
+  [CHUNK 2/31] ~390 words
+  [CHUNK 3/31] ~387 words
+  [CHUNK 4/31] ~352 words
+  [CHUNK 5/31] ~369 words
+  [CHUNK 6/31] ~358 words
+  [CHUNK 7/31] ~394 words
+  [CHUNK 8/31] ~363 words
+  [CHUNK 9/31] ~380 words
+  [CHUNK 10/31] ~389 words
+  [CHUNK 11/31] ~386 words
+  [CHUNK 12/31] ~363 words
+  [CHUNK 13/31] ~398 words
+  [CHUNK 14/31] ~397 words
+  [CHUNK 15/31] ~360 words
+  [CHUNK 16/31] ~388 words
+  [CHUNK 17/31] ~391 words
+  [CHUNK 18/31] ~396 words
+  [CHUNK 19/31] ~389 words
+  [CHUNK 20/31] ~399 words
+  [CHUNK 21/31] ~352 words
+  [CHUNK 22/31] ~363 words
+  [CHUNK 23/31] ~380 words
+  [CHUNK 24/31] ~361 words
+  [CHUNK 25/31] ~345 words
+  [CHUNK 26/31] ~386 words
+  [CHUNK 27/31] ~372 words
+  [CHUNK 28/31] ~383 words
+  [CHUNK 29/31] ~383 words
+  [CHUNK 30/31] ~388 words
+  [CHUNK 31/31] ~371 words
+[WARN] Skipping invalid entity 'Enhanced blood': ["Invalid type: 'artifact|system'"]
+[WARN] Skipping invalid entity 'Presence': ["Invalid type: 'artifact|entity'"]
+[WARN] Skipping invalid entity 'Archival intelligence': ["Invalid type: 'artifact|system'"]
+[WARN] Skipping invalid entity 'Central formation': ["Invalid type: 'location|system'"]
+[WARN] Skipping invalid entity 'intelligence': ["Invalid type: 'artifact|system'"]
+[WARN] Skipping invalid entity 'Crimsonblood': ["Invalid type: 'artifact|term'"]
+[WARN] Skipping invalid entity 'Anunnaki': ["Invalid type: 'faction|species'"]
+[WARN] Skipping invalid entity '23andMe': ["Invalid type: 'artifact|term'"]
+[WARN] Skipping invalid entity 'ancient figure': ["Invalid type: 'character|species'"]
+[WARN] Skipping invalid entity 'Mages Guild': ["Invalid type: 'organization'"]
+[WARN] Skipping invalid entity 'original watchers': ["Invalid type: 'artifact|entity'"]
+[WARN] Skipping invalid entity 'Guardian Emergence': ["Invalid type: 'event|arc'"]
+[WARN] Skipping invalid entity 'Asag': ["Invalid type: 'entity|character'"]
+[WARN] Skipping invalid entity 'Annunaki': ["Invalid type: 'faction|species'"]
+[WARN] Skipping invalid entity 'Entity with Crimson Fire': ["Invalid type: 'character|artifact'"]
+[WARN] Skipping invalid entity 'Galla-Stones': ["Invalid type: 'species|faction'"]
+[WARN] Skipping invalid entity 'ancient lines': ["Invalid type: 'lineage'"]
+[65/139] Processing raw/chapters/book_11_blood_and_legacy_066_the_first_tongue.md
+  [CHUNK] 28 chunk(s) for raw/chapters/book_11_blood_and_legacy_066_the_first_tongue.md
+  [CHUNK 1/28] ~338 words
+  [CHUNK 2/28] ~361 words
+  [CHUNK 3/28] ~394 words
+  [CHUNK 4/28] ~380 words
+  [CHUNK 5/28] ~377 words
+  [CHUNK 6/28] ~377 words
+  [CHUNK 7/28] ~337 words
+  [CHUNK 8/28] ~325 words
+  [CHUNK 9/28] ~327 words
+  [CHUNK 10/28] ~368 words
+  [CHUNK 11/28] ~345 words
+  [CHUNK 12/28] ~375 words
+  [CHUNK 13/28] ~360 words
+  [CHUNK 14/28] ~382 words
+  [CHUNK 15/28] ~381 words
+  [CHUNK 16/28] ~345 words
+  [CHUNK 17/28] ~382 words
+  [CHUNK 18/28] ~396 words
+  [CHUNK 19/28] ~389 words
+  [CHUNK 20/28] ~366 words
+  [CHUNK 21/28] ~385 words
+  [CHUNK 22/28] ~356 words
+  [CHUNK 23/28] ~326 words
+  [CHUNK 24/28] ~363 words
+  [CHUNK 25/28] ~370 words
+  [CHUNK 26/28] ~394 words
+  [CHUNK 27/28] ~392 words
+  [CHUNK 28/28] ~125 words
+[WARN] Skipping invalid entity 'First Tongue': ["Invalid type: 'language'"]
+[66/139] Processing raw/chapters/book_12_forged_identity_067_the_shattered_mind.md
+  [CHUNK] 14 chunk(s) for raw/chapters/book_12_forged_identity_067_the_shattered_mind.md
+  [CHUNK 1/14] ~327 words
+  [CHUNK 2/14] ~330 words
+  [CHUNK 3/14] ~394 words
+  [CHUNK 4/14] ~396 words
+  [CHUNK 5/14] ~363 words
+  [CHUNK 6/14] ~382 words
+  [CHUNK 7/14] ~364 words
+  [CHUNK 8/14] ~379 words
+  [CHUNK 9/14] ~390 words
+  [CHUNK 10/14] ~373 words
+  [CHUNK 11/14] ~336 words
+  [CHUNK 12/14] ~379 words
+  [CHUNK 13/14] ~303 words
+  [CHUNK 14/14] ~102 words
+[WARN] Skipping invalid entity 'Void Spire': ["Invalid type: 'artifact|system'"]
+[WARN] Skipping invalid entity 'Emergency displacement protocols': ["Invalid type: 'artifact|system'"]
+[WARN] Skipping invalid entity 'Intelligence': ["Invalid type: 'artifact|species'"]
+[WARN] Skipping invalid entity 'Observer': ["Invalid type: 'artifact|entity'"]
+[WARN] Skipping invalid entity 'Star Walker': ["Invalid type: 'character|legendary figure'"]
+[WARN] Skipping invalid entity 'Echo of the Departed Dawn': ["Invalid type: 'artifact|entity'"]
+[WARN] Skipping invalid entity 'Echo': ["Invalid type: 'artifact|system'"]
+[67/139] Processing raw/chapters/book_12_forged_identity_068_brotherhood_revealed.md
+  [CHUNK] 20 chunk(s) for raw/chapters/book_12_forged_identity_068_brotherhood_revealed.md
+  [CHUNK 1/20] ~377 words
+  [CHUNK 2/20] ~390 words
+  [CHUNK 3/20] ~368 words
+  [CHUNK 4/20] ~382 words
+  [CHUNK 5/20] ~378 words
+  [CHUNK 6/20] ~334 words
+  [CHUNK 7/20] ~377 words
+  [CHUNK 8/20] ~357 words
+  [CHUNK 9/20] ~364 words
+  [CHUNK 10/20] ~390 words
+  [CHUNK 11/20] ~363 words
+  [CHUNK 12/20] ~379 words
+  [CHUNK 13/20] ~373 words
+  [CHUNK 14/20] ~351 words
+  [CHUNK 15/20] ~355 words
+  [CHUNK 16/20] ~381 words
+  [CHUNK 17/20] ~396 words
+  [CHUNK 18/20] ~382 words
+  [CHUNK 19/20] ~384 words
+  [CHUNK 20/20] ~242 words
+[WARN] Skipping invalid entity 'Crimsonblood': ["Invalid type: 'artifact|species'"]
+[68/139] Processing raw/chapters/book_12_forged_identity_069_divergent_paths.md
+  [CHUNK] 16 chunk(s) for raw/chapters/book_12_forged_identity_069_divergent_paths.md
+  [CHUNK 1/16] ~322 words
+  [CHUNK 2/16] ~369 words
+  [CHUNK 3/16] ~340 words
+  [CHUNK 4/16] ~348 words
+  [CHUNK 5/16] ~392 words
+  [CHUNK 6/16] ~335 words
+  [CHUNK 7/16] ~350 words
+  [CHUNK 8/16] ~367 words
+  [CHUNK 9/16] ~399 words
+  [CHUNK 10/16] ~382 words
+  [CHUNK 11/16] ~400 words
+  [CHUNK 12/16] ~361 words
+  [CHUNK 13/16] ~373 words
+  [CHUNK 14/16] ~357 words
+  [CHUNK 15/16] ~353 words
+  [CHUNK 16/16] ~222 words
+[WARN] Skipping invalid entity 'Temporal streams': ["Invalid type: 'system|artifact'"]
+[69/139] Processing raw/chapters/book_12_forged_identity_070_spheres_truth.md
+  [CHUNK] 40 chunk(s) for raw/chapters/book_12_forged_identity_070_spheres_truth.md
+  [CHUNK 1/40] ~400 words
+  [CHUNK 2/40] ~360 words
+  [CHUNK 3/40] ~368 words
+  [CHUNK 4/40] ~382 words
+  [CHUNK 5/40] ~372 words
+  [CHUNK 6/40] ~368 words
+  [CHUNK 7/40] ~325 words
+  [CHUNK 8/40] ~388 words
+  [CHUNK 9/40] ~363 words
+  [CHUNK 10/40] ~343 words
+  [CHUNK 11/40] ~365 words
+  [CHUNK 12/40] ~372 words
+  [CHUNK 13/40] ~382 words
+  [CHUNK 14/40] ~390 words
+  [CHUNK 15/40] ~358 words
+  [CHUNK 16/40] ~360 words
+  [CHUNK 17/40] ~397 words
+  [CHUNK 18/40] ~326 words
+  [CHUNK 19/40] ~366 words
+  [CHUNK 20/40] ~334 words
+  [CHUNK 21/40] ~362 words
+  [CHUNK 22/40] ~395 words
+  [CHUNK 23/40] ~400 words
+  [CHUNK 24/40] ~372 words
+  [CHUNK 25/40] ~338 words
+  [CHUNK 26/40] ~301 words
+  [CHUNK 27/40] ~366 words
+  [CHUNK 28/40] ~381 words
+  [CHUNK 29/40] ~374 words
+  [CHUNK 30/40] ~374 words
+  [CHUNK 31/40] ~362 words
+  [CHUNK 32/40] ~390 words
+  [CHUNK 33/40] ~395 words
+  [CHUNK 34/40] ~334 words
+  [CHUNK 35/40] ~390 words
+  [CHUNK 36/40] ~326 words
+  [CHUNK 37/40] ~399 words
+  [CHUNK 38/40] ~341 words
+  [CHUNK 39/40] ~393 words
+  [CHUNK 40/40] ~363 words
+[WARN] Skipping invalid entity 'First Tongue': ["Invalid type: 'artifact|system'"]
+[WARN] Skipping invalid entity 'Convergences': ["Invalid type: 'event|arc'"]
+[WARN] Skipping invalid entity 'Aeon': ["Invalid type: 'species|faction'"]
+[WARN] Skipping invalid entity 'Memories': ["Invalid type: 'artifact_content'"]
+[WARN] Skipping invalid entity 'Akashic Records': ["Invalid type: 'artifact|system'"]
+[70/139] Processing raw/chapters/book_12_forged_identity_071_cosmic_teachers_arrive.md
+  [CHUNK] 23 chunk(s) for raw/chapters/book_12_forged_identity_071_cosmic_teachers_arrive.md
+  [CHUNK 1/23] ~393 words
+  [CHUNK 2/23] ~373 words
+  [CHUNK 3/23] ~371 words
+  [CHUNK 4/23] ~370 words
+  [CHUNK 5/23] ~334 words
+  [CHUNK 6/23] ~342 words
+  [CHUNK 7/23] ~381 words
+  [CHUNK 8/23] ~331 words
+  [CHUNK 9/23] ~399 words
+  [CHUNK 10/23] ~377 words
+  [CHUNK 11/23] ~377 words
+  [CHUNK 12/23] ~344 words
+  [CHUNK 13/23] ~366 words
+  [CHUNK 14/23] ~336 words
+  [CHUNK 15/23] ~394 words
+  [CHUNK 16/23] ~365 words
+  [CHUNK 17/23] ~370 words
+  [CHUNK 18/23] ~381 words
+  [CHUNK 19/23] ~351 words
+  [CHUNK 20/23] ~335 words
+  [CHUNK 21/23] ~382 words
+  [CHUNK 22/23] ~365 words
+  [CHUNK 23/23] ~339 words
+[WARN] Skipping invalid entity 'First Tongue': ["Invalid type: 'language'"]
+[71/139] Processing raw/chapters/book_14_lessons_of_inheritance_072_flow_between_moments.md
+  [CHUNK] 12 chunk(s) for raw/chapters/book_14_lessons_of_inheritance_072_flow_between_moments.md
+  [CHUNK 1/12] ~328 words
+  [CHUNK 2/12] ~392 words
+  [CHUNK 3/12] ~356 words
+  [CHUNK 4/12] ~392 words
+  [CHUNK 5/12] ~337 words
+  [CHUNK 6/12] ~362 words
+  [CHUNK 7/12] ~383 words
+  [CHUNK 8/12] ~369 words
+  [CHUNK 9/12] ~365 words
+  [CHUNK 10/12] ~382 words
+  [CHUNK 11/12] ~392 words
+  [CHUNK 12/12] ~350 words
+[WARN] Skipping invalid entity 'Draco': ["Invalid type: 'species|artifact'"]
+[72/139] Processing raw/chapters/book_14_lessons_of_inheritance_073_stone_and_root.md
+  [CHUNK] 12 chunk(s) for raw/chapters/book_14_lessons_of_inheritance_073_stone_and_root.md
+  [CHUNK 1/12] ~377 words
+  [CHUNK 2/12] ~387 words
+  [CHUNK 3/12] ~359 words
+  [CHUNK 4/12] ~360 words
+  [CHUNK 5/12] ~356 words
+  [CHUNK 6/12] ~348 words
+  [CHUNK 7/12] ~374 words
+  [CHUNK 8/12] ~389 words
+  [CHUNK 9/12] ~382 words
+  [CHUNK 10/12] ~379 words
+  [CHUNK 11/12] ~369 words
+  [CHUNK 12/12] ~260 words
+[WARN] Skipping invalid entity 'Planetary Consciousness': ["Invalid type: 'entity'"]
+[73/139] Processing raw/chapters/book_14_lessons_of_inheritance_074_sunbound.md
+  [CHUNK] 17 chunk(s) for raw/chapters/book_14_lessons_of_inheritance_074_sunbound.md
+  [CHUNK 1/17] ~393 words
+  [CHUNK 2/17] ~350 words
+  [CHUNK 3/17] ~366 words
+  [CHUNK 4/17] ~323 words
+  [CHUNK 5/17] ~395 words
+  [CHUNK 6/17] ~398 words
+  [CHUNK 7/17] ~373 words
+  [CHUNK 8/17] ~394 words
+  [CHUNK 9/17] ~391 words
+  [CHUNK 10/17] ~387 words
+  [CHUNK 11/17] ~385 words
+  [CHUNK 12/17] ~391 words
+  [CHUNK 13/17] ~379 words
+  [CHUNK 14/17] ~395 words
+  [CHUNK 15/17] ~364 words
+  [CHUNK 16/17] ~388 words
+  [CHUNK 17/17] ~158 words
+[WARN] Skipping invalid entity 'Applicators': ["Invalid type: 'artifact|system'"]
+[WARN] Skipping invalid entity 'Blaze': ["Invalid type: 'artifact|entity'"]
+[WARN] Skipping invalid entity 'Galactic conflict': ["Invalid type: 'event|arc'"]
+[WARN] Skipping invalid entity 'Forces_threatening_to_plunge_the_galaxy_into_eternal_darkness': ["Invalid type: 'faction|system'"]
+[74/139] Processing raw/chapters/book_14_lessons_of_inheritance_075_anchor_points_of_time.md
+  [CHUNK] 19 chunk(s) for raw/chapters/book_14_lessons_of_inheritance_075_anchor_points_of_time.md
+  [CHUNK 1/19] ~389 words
+  [CHUNK 2/19] ~350 words
+  [CHUNK 3/19] ~359 words
+  [CHUNK 4/19] ~380 words
+  [CHUNK 5/19] ~397 words
+  [CHUNK 6/19] ~370 words
+  [CHUNK 7/19] ~396 words
+  [CHUNK 8/19] ~355 words
+  [CHUNK 9/19] ~372 words
+  [CHUNK 10/19] ~362 words
+  [CHUNK 11/19] ~385 words
+  [CHUNK 12/19] ~371 words
+  [CHUNK 13/19] ~390 words
+  [CHUNK 14/19] ~386 words
+  [CHUNK 15/19] ~345 words
+  [CHUNK 16/19] ~384 words
+  [CHUNK 17/19] ~396 words
+  [CHUNK 18/19] ~375 words
+  [CHUNK 19/19] ~236 words
+[WARN] Skipping invalid entity 'Temporal Guardians': ["Invalid type: 'artifact|term'"]
+[75/139] Processing raw/chapters/book_14_lessons_of_inheritance_076_lunar_inheritance.md
+  [CHUNK] 12 chunk(s) for raw/chapters/book_14_lessons_of_inheritance_076_lunar_inheritance.md
+  [CHUNK 1/12] ~378 words
+  [CHUNK 2/12] ~341 words
+  [CHUNK 3/12] ~319 words
+  [CHUNK 4/12] ~378 words
+  [CHUNK 5/12] ~383 words
+  [CHUNK 6/12] ~360 words
+  [CHUNK 7/12] ~382 words
+  [CHUNK 8/12] ~371 words
+  [CHUNK 9/12] ~350 words
+  [CHUNK 10/12] ~390 words
+  [CHUNK 11/12] ~360 words
+[WARN] Attempt 1: JSON parse failed: Expecting property name enclosed in double quotes: line 4 column 7 (char 30)
+[RETRY] Waiting 1s before next attempt...
+  [CHUNK 12/12] ~178 words
+[WARN] Skipping invalid entity 'Moon Kingdom': ["Invalid type: 'location|system'"]
+[WARN] Skipping invalid entity 'Quantum Beacon Network': ["Invalid type: 'system|artifact'"]
+[WARN] Skipping invalid entity 'Galactic Community': ["Invalid type: 'system|community'"]
+[76/139] Processing raw/chapters/book_14_lessons_of_inheritance_077_introducing_the_sage.md
+  [CHUNK] 10 chunk(s) for raw/chapters/book_14_lessons_of_inheritance_077_introducing_the_sage.md
+  [CHUNK 1/10] ~391 words
+  [CHUNK 2/10] ~360 words
+  [CHUNK 3/10] ~380 words
+  [CHUNK 4/10] ~354 words
+  [CHUNK 5/10] ~385 words
+  [CHUNK 6/10] ~397 words
+  [CHUNK 7/10] ~384 words
+  [CHUNK 8/10] ~392 words
+  [CHUNK 9/10] ~382 words
+  [CHUNK 10/10] ~355 words
+[WARN] Skipping invalid entity 'First Tongue': ["Invalid type: 'language'"]
+[77/139] Processing raw/chapters/book_15_legends_and_gods_078_the_queens_return.md
+  [CHUNK] 22 chunk(s) for raw/chapters/book_15_legends_and_gods_078_the_queens_return.md
+  [CHUNK 1/22] ~348 words
+  [CHUNK 2/22] ~366 words
+  [CHUNK 3/22] ~372 words
+  [CHUNK 4/22] ~359 words
+  [CHUNK 5/22] ~391 words
+  [CHUNK 6/22] ~381 words
+  [CHUNK 7/22] ~399 words
+  [CHUNK 8/22] ~373 words
+  [CHUNK 9/22] ~387 words
+  [CHUNK 10/22] ~363 words
+  [CHUNK 11/22] ~369 words
+  [CHUNK 12/22] ~393 words
+  [CHUNK 13/22] ~376 words
+  [CHUNK 14/22] ~379 words
+  [CHUNK 15/22] ~395 words
+  [CHUNK 16/22] ~387 words
+  [CHUNK 17/22] ~353 words
+  [CHUNK 18/22] ~356 words
+  [CHUNK 19/22] ~387 words
+  [CHUNK 20/22] ~377 words
+  [CHUNK 21/22] ~389 words
+  [CHUNK 22/22] ~256 words
+[WARN] Skipping invalid entity 'Nibiru's Crown': ["Invalid type: 'artifact|location'"]
+[WARN] Skipping invalid entity 'Anunnaki': ["Invalid type: 'faction|species'"]
+[WARN] Skipping invalid entity 'Forces Beyond Current Understanding': ["Invalid type: 'artifact|system'"]
+[78/139] Processing raw/chapters/book_15_legends_and_gods_079_mages_awakening.md
+  [CHUNK] 31 chunk(s) for raw/chapters/book_15_legends_and_gods_079_mages_awakening.md
+  [CHUNK 1/31] ~374 words
+  [CHUNK 2/31] ~362 words
+  [CHUNK 3/31] ~385 words
+  [CHUNK 4/31] ~383 words
+  [CHUNK 5/31] ~382 words
+  [CHUNK 6/31] ~398 words
+  [CHUNK 7/31] ~382 words
+  [CHUNK 8/31] ~398 words
+  [CHUNK 9/31] ~368 words
+  [CHUNK 10/31] ~397 words
+  [CHUNK 11/31] ~399 words
+  [CHUNK 12/31] ~360 words
+  [CHUNK 13/31] ~380 words
+  [CHUNK 14/31] ~364 words
+  [CHUNK 15/31] ~393 words
+  [CHUNK 16/31] ~364 words
+[WARN] Attempt 1: JSON parse failed: Expecting ',' delimiter: line 39 column 70 (char 1494)
+[RETRY] Waiting 1s before next attempt...
+  [CHUNK 17/31] ~378 words
+  [CHUNK 18/31] ~379 words
+  [CHUNK 19/31] ~368 words
+  [CHUNK 20/31] ~399 words
+  [CHUNK 21/31] ~347 words
+  [CHUNK 22/31] ~350 words
+  [CHUNK 23/31] ~365 words
+  [CHUNK 24/31] ~356 words
+  [CHUNK 25/31] ~386 words
+  [CHUNK 26/31] ~365 words
+  [CHUNK 27/31] ~396 words
+  [CHUNK 28/31] ~378 words
+  [CHUNK 29/31] ~387 words
+  [CHUNK 30/31] ~382 words
+  [CHUNK 31/31] ~89 words
+[WARN] Skipping invalid entity 'The Guild': ["Invalid type: 'organization'"]
+[WARN] Skipping invalid entity 'Mages Guild': ["Invalid type: 'organization'"]
+[WARN] Skipping invalid entity 'Temple': ["Invalid type: 'artifact|location'"]
+[WARN] Skipping invalid entity 'Guild': ["Invalid type: 'organization'"]
+[WARN] Skipping invalid entity 'Speaker abilities': ["Invalid type: 'artifact|system'"]
+[WARN] Skipping invalid entity 'Quantum connections': ["Invalid type: 'technology'"]
+[79/139] Processing raw/chapters/book_15_legends_and_gods_080_the_whispers_between_worlds.md
+  [CHUNK] 10 chunk(s) for raw/chapters/book_15_legends_and_gods_080_the_whispers_between_worlds.md
+  [CHUNK 1/10] ~361 words
+  [CHUNK 2/10] ~393 words
+  [CHUNK 3/10] ~397 words
+  [CHUNK 4/10] ~390 words
+  [CHUNK 5/10] ~355 words
+  [CHUNK 6/10] ~385 words
+  [CHUNK 7/10] ~395 words
+  [CHUNK 8/10] ~381 words
+  [CHUNK 9/10] ~390 words
+  [CHUNK 10/10] ~299 words
+[80/139] Processing raw/chapters/book_15_legends_and_gods_081_mr_gpt_arrival.md
+  [CHUNK] 5 chunk(s) for raw/chapters/book_15_legends_and_gods_081_mr_gpt_arrival.md
+  [CHUNK 1/5] ~361 words
+  [CHUNK 2/5] ~372 words
+  [CHUNK 3/5] ~125 words
+  [CHUNK 4/5] ~1583 words
+  [CHUNK 5/5] ~950 words
+[WARN] Skipping invalid entity 'Starbound Queen': ["Invalid type: 'title'"]
+[81/139] Processing raw/chapters/book_15_legends_and_gods_082_pyroclasts_burning_secrets.md
+  [CHUNK] 12 chunk(s) for raw/chapters/book_15_legends_and_gods_082_pyroclasts_burning_secrets.md
+  [CHUNK 1/12] ~386 words
+  [CHUNK 2/12] ~397 words
+  [CHUNK 3/12] ~391 words
+  [CHUNK 4/12] ~353 words
+  [CHUNK 5/12] ~375 words
+  [CHUNK 6/12] ~379 words
+  [CHUNK 7/12] ~382 words
+  [CHUNK 8/12] ~366 words
+  [CHUNK 9/12] ~399 words
+  [CHUNK 10/12] ~370 words
+  [CHUNK 11/12] ~377 words
+  [CHUNK 12/12] ~324 words
+[82/139] Processing raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
+  [CHUNK] 3 chunk(s) for raw/chapters/book_16_fragmented_beginning_083_echoes_beneath_the_waves.md
+  [CHUNK 1/3] ~6 words
+  [CHUNK 2/3] ~3832 words
+  [CHUNK 3/3] ~3094 words
+[83/139] Processing raw/chapters/book_16_fragmented_beginning_084_earth_giants_and_diverging_paths.md
+  [CHUNK] 9 chunk(s) for raw/chapters/book_16_fragmented_beginning_084_earth_giants_and_diverging_paths.md
+  [CHUNK 1/9] ~382 words
+  [CHUNK 2/9] ~392 words
+  [CHUNK 3/9] ~390 words
+  [CHUNK 4/9] ~387 words
+  [CHUNK 5/9] ~375 words
+  [CHUNK 6/9] ~386 words
+  [CHUNK 7/9] ~361 words
+  [CHUNK 8/9] ~384 words
+  [CHUNK 9/9] ~140 words
+[84/139] Processing raw/chapters/book_16_fragmented_beginning_085_ancient_knowledge.md
+  [CHUNK] 9 chunk(s) for raw/chapters/book_16_fragmented_beginning_085_ancient_knowledge.md
+  [CHUNK 1/9] ~394 words
+  [CHUNK 2/9] ~390 words
+  [CHUNK 3/9] ~391 words
+  [CHUNK 4/9] ~399 words
+[WARN] Attempt 1: JSON parse failed: Expecting ',' delimiter: line 32 column 7 (char 1129)
+[RETRY] Waiting 1s before next attempt...
+  [CHUNK 5/9] ~374 words
+  [CHUNK 6/9] ~400 words
+  [CHUNK 7/9] ~398 words
+  [CHUNK 8/9] ~371 words
+  [CHUNK 9/9] ~587 words
+[WARN] Skipping invalid entity 'Nephilim': ["Invalid type: 'artifact|species'"]
+[WARN] Skipping invalid entity 'Sundering': ["Invalid type: 'event|arc'"]
+[85/139] Processing raw/chapters/book_16_fragmented_beginning_086_sanctuary_to_storm.md
+  [CHUNK] 14 chunk(s) for raw/chapters/book_16_fragmented_beginning_086_sanctuary_to_storm.md
+  [CHUNK 1/14] ~365 words
+  [CHUNK 2/14] ~398 words
+  [CHUNK 3/14] ~360 words
+  [CHUNK 4/14] ~389 words
+  [CHUNK 5/14] ~373 words
+  [CHUNK 6/14] ~374 words
+  [CHUNK 7/14] ~394 words
+  [CHUNK 8/14] ~376 words
+  [CHUNK 9/14] ~375 words
+  [CHUNK 10/14] ~383 words
+  [CHUNK 11/14] ~382 words
+  [CHUNK 12/14] ~365 words
+  [CHUNK 13/14] ~393 words
+  [CHUNK 14/14] ~369 words
+[86/139] Processing raw/chapters/book_16_fragmented_beginning_087_the_breath_of_life.md
+  [CHUNK] 1 chunk(s) for raw/chapters/book_16_fragmented_beginning_087_the_breath_of_life.md
+  [CHUNK 1/1] ~3369 words
+[87/139] Processing raw/chapters/book_17_ancestral_debt_088_shadows_of_umbrageous_fixed.md
+  [CHUNK] 8 chunk(s) for raw/chapters/book_17_ancestral_debt_088_shadows_of_umbrageous_fixed.md
+  [CHUNK 1/8] ~399 words
+  [CHUNK 2/8] ~393 words
+  [CHUNK 3/8] ~400 words
+  [CHUNK 4/8] ~362 words
+  [CHUNK 5/8] ~375 words
+  [CHUNK 6/8] ~396 words
+  [CHUNK 7/8] ~381 words
+  [CHUNK 8/8] ~382 words
+[WARN] Skipping invalid entity 'Entity within Viên's blood': ["Invalid type: 'artifact|species'"]
+[WARN] Skipping invalid entity 'Umbral Stalkers': ["Invalid type: 'artifact|system'"]
+[WARN] Skipping invalid entity 'Void Spire': ["Invalid type: 'artifact|location'"]
+[88/139] Processing raw/chapters/book_17_ancestral_debt_089_the_white_mirror.md
+  [CHUNK] 9 chunk(s) for raw/chapters/book_17_ancestral_debt_089_the_white_mirror.md
+  [CHUNK 1/9] ~386 words
+  [CHUNK 2/9] ~369 words
+  [CHUNK 3/9] ~372 words
+  [CHUNK 4/9] ~383 words
+  [CHUNK 5/9] ~399 words
+  [CHUNK 6/9] ~358 words
+  [CHUNK 7/9] ~362 words
+  [CHUNK 8/9] ~382 words
+  [CHUNK 9/9] ~271 words
+[WARN] Skipping invalid entity 'small company': ["Invalid type: 'group'"]
+[89/139] Processing raw/chapters/book_17_ancestral_debt_090_echoes_of_the_culling_corrected.md
+  [CHUNK] 14 chunk(s) for raw/chapters/book_17_ancestral_debt_090_echoes_of_the_culling_corrected.md
+  [CHUNK 1/14] ~397 words
+  [CHUNK 2/14] ~393 words
+  [CHUNK 3/14] ~390 words
+  [CHUNK 4/14] ~395 words
+  [CHUNK 5/14] ~379 words
+  [CHUNK 6/14] ~377 words
+  [CHUNK 7/14] ~394 words
+  [CHUNK 8/14] ~341 words
+  [CHUNK 9/14] ~379 words
+  [CHUNK 10/14] ~391 words
+  [CHUNK 11/14] ~384 words
+  [CHUNK 12/14] ~361 words
+  [CHUNK 13/14] ~395 words
+  [CHUNK 14/14] ~18 words
+[WARN] Skipping invalid entity 'Ash': ["Invalid type: 'location|system'"]
+[WARN] Skipping invalid entity 'Crimsonblood': ["Invalid type: 'artifact|term'"]
+[WARN] Skipping invalid entity 'Echoes of the fallen': ["Invalid type: 'artifact|event'"]
+[90/139] Processing raw/chapters/book_17_ancestral_debt_091_the_weight_of_memory.md
+  [CHUNK] 5 chunk(s) for raw/chapters/book_17_ancestral_debt_091_the_weight_of_memory.md
+  [CHUNK 1/5] ~302 words
+  [CHUNK 2/5] ~2116 words
+  [CHUNK 3/5] ~397 words
+  [CHUNK 4/5] ~355 words
+  [CHUNK 5/5] ~322 words
+[91/139] Processing raw/chapters/book_17_ancestral_debt_092_departure_and_determination.md
+  [CHUNK] 8 chunk(s) for raw/chapters/book_17_ancestral_debt_092_departure_and_determination.md
+  [CHUNK 1/8] ~389 words
+  [CHUNK 2/8] ~398 words
+  [CHUNK 3/8] ~366 words
+  [CHUNK 4/8] ~387 words
+  [CHUNK 5/8] ~396 words
+  [CHUNK 6/8] ~389 words
+  [CHUNK 7/8] ~399 words
+  [CHUNK 8/8] ~125 words
+[92/139] Processing raw/chapters/book_18_inquisition_of_yourself_093_voices_between_worlds.md
+  [CHUNK] 6 chunk(s) for raw/chapters/book_18_inquisition_of_yourself_093_voices_between_worlds.md
+  [CHUNK 1/6] ~396 words
+  [CHUNK 2/6] ~393 words
+  [CHUNK 3/6] ~388 words
+  [CHUNK 4/6] ~383 words
+  [CHUNK 5/6] ~389 words
+  [CHUNK 6/6] ~310 words
+[WARN] Skipping invalid entity 'A Nefretti': ["Invalid type: 'artifact|species'"]
+[WARN] Skipping invalid entity 'Aeon Keeper': ["Invalid type: 'species|character'"]
+[WARN] Skipping invalid entity 'Nefretti': ["Invalid type: 'species|character'"]
+[93/139] Processing raw/chapters/book_18_inquisition_of_yourself_094_chains_of_light.md
+  [CHUNK] 7 chunk(s) for raw/chapters/book_18_inquisition_of_yourself_094_chains_of_light.md
+  [CHUNK 1/7] ~396 words
+  [CHUNK 2/7] ~371 words
+  [CHUNK 3/7] ~394 words
+  [CHUNK 4/7] ~399 words
+  [CHUNK 5/7] ~398 words
+  [CHUNK 6/7] ~379 words
+  [CHUNK 7/7] ~48 words
+[94/139] Processing raw/chapters/book_18_inquisition_of_yourself_095_roots_of_change.md
+  [CHUNK] 10 chunk(s) for raw/chapters/book_18_inquisition_of_yourself_095_roots_of_change.md
+  [CHUNK 1/10] ~382 words
+  [CHUNK 2/10] ~396 words
+  [CHUNK 3/10] ~381 words
+  [CHUNK 4/10] ~391 words
+  [CHUNK 5/10] ~387 words
+  [CHUNK 6/10] ~372 words
+  [CHUNK 7/10] ~397 words
+  [CHUNK 8/10] ~388 words
+  [CHUNK 9/10] ~395 words
+  [CHUNK 10/10] ~317 words
+[WARN] Skipping invalid entity 'The Blight Warden': ["Invalid type: 'artifact|entity'"]
+[WARN] Skipping invalid entity 'Blight Warden': ["Invalid type: 'artifact|entity'"]
+[95/139] Processing raw/chapters/book_18_inquisition_of_yourself_096_violet_convergence.md
+  [CHUNK] 5 chunk(s) for raw/chapters/book_18_inquisition_of_yourself_096_violet_convergence.md
+  [CHUNK 1/5] ~375 words
+  [CHUNK 2/5] ~393 words
+  [CHUNK 3/5] ~393 words
+  [CHUNK 4/5] ~375 words
+  [CHUNK 5/5] ~391 words
+[96/139] Processing raw/chapters/book_18_inquisition_of_yourself_097_hearts_of_ash_and_fire.md
+  [CHUNK] 9 chunk(s) for raw/chapters/book_18_inquisition_of_yourself_097_hearts_of_ash_and_fire.md
+  [CHUNK 1/9] ~400 words
+  [CHUNK 2/9] ~388 words
+  [CHUNK 3/9] ~397 words
+  [CHUNK 4/9] ~384 words
+  [CHUNK 5/9] ~368 words
+  [CHUNK 6/9] ~397 words
+  [CHUNK 7/9] ~398 words
+  [CHUNK 8/9] ~377 words
+  [CHUNK 9/9] ~280 words
+[WARN] Skipping invalid entity 'Federation': ["Invalid type: 'federation'"]
+[97/139] Processing raw/chapters/book_19_worthy_opponents_north_098_depths_of_memory.md
+  [CHUNK] 8 chunk(s) for raw/chapters/book_19_worthy_opponents_north_098_depths_of_memory.md
+  [CHUNK 1/8] ~386 words
+  [CHUNK 2/8] ~397 words
+  [CHUNK 3/8] ~337 words
+  [CHUNK 4/8] ~386 words
+  [CHUNK 5/8] ~399 words
+  [CHUNK 6/8] ~377 words
+  [CHUNK 7/8] ~399 words
+  [CHUNK 8/8] ~206 words
+[WARN] Skipping invalid entity 'Paradox Recursive': ["Invalid type: 'artifact|event'"]
+[WARN] Skipping invalid entity 'Helix': ["Invalid type: 'character|species'"]
+[98/139] Processing raw/chapters/book_19_worthy_opponents_north_099_the_final_breath.md
+  [CHUNK] 8 chunk(s) for raw/chapters/book_19_worthy_opponents_north_099_the_final_breath.md
+  [CHUNK 1/8] ~345 words
+  [CHUNK 2/8] ~353 words
+  [CHUNK 3/8] ~392 words
+  [CHUNK 4/8] ~375 words
+  [CHUNK 5/8] ~376 words
+  [CHUNK 6/8] ~386 words
+  [CHUNK 7/8] ~370 words
+  [CHUNK 8/8] ~277 words
+[WARN] Skipping invalid entity 'water': ["Invalid type: 'environmental'"]
+[99/139] Processing raw/chapters/book_19_worthy_opponents_north_100_convergence_at_ironspire.md
+  [CHUNK] 7 chunk(s) for raw/chapters/book_19_worthy_opponents_north_100_convergence_at_ironspire.md
+  [CHUNK 1/7] ~355 words
+  [CHUNK 2/7] ~351 words
+  [CHUNK 3/7] ~387 words
+  [CHUNK 4/7] ~383 words
+  [CHUNK 5/7] ~395 words
+  [CHUNK 6/7] ~383 words
+  [CHUNK 7/7] ~202 words
+[WARN] Skipping invalid entity 'Circle of Progress': ["Invalid type: 'organization'"]
+[WARN] Skipping invalid entity 'Silver Flame priests': ["Invalid type: 'religious_organization'"]
+[WARN] Skipping invalid entity 'Red Hand merchants': ["Invalid type: 'merchant_faction'"]
+[100/139] Processing raw/chapters/book_19_worthy_opponents_north_101_the_hidden_resonance.md
+  [CHUNK] 7 chunk(s) for raw/chapters/book_19_worthy_opponents_north_101_the_hidden_resonance.md
+  [CHUNK 1/7] ~400 words
+  [CHUNK 2/7] ~384 words
+  [CHUNK 3/7] ~357 words
+  [CHUNK 4/7] ~385 words
+  [CHUNK 5/7] ~397 words
+  [CHUNK 6/7] ~397 words
+  [CHUNK 7/7] ~30 words
+[WARN] Skipping invalid entity 'Circle of Progress': ["Invalid type: 'organization'"]
+[WARN] Skipping invalid entity 'Null state': ["Invalid type: 'state'"]
+[101/139] Processing raw/chapters/book_19_worthy_opponents_north_102_convergence_on_mars.md
+  [CHUNK] 24 chunk(s) for raw/chapters/book_19_worthy_opponents_north_102_convergence_on_mars.md
+  [CHUNK 1/24] ~395 words
+  [CHUNK 2/24] ~378 words
+  [CHUNK 3/24] ~366 words
+  [CHUNK 4/24] ~354 words
+  [CHUNK 5/24] ~364 words
+  [CHUNK 6/24] ~353 words
+  [CHUNK 7/24] ~353 words
+  [CHUNK 8/24] ~399 words
+  [CHUNK 9/24] ~370 words
+  [CHUNK 10/24] ~384 words
+  [CHUNK 11/24] ~379 words
+  [CHUNK 12/24] ~384 words
+  [CHUNK 13/24] ~394 words
+  [CHUNK 14/24] ~400 words
+  [CHUNK 15/24] ~369 words
+  [CHUNK 16/24] ~377 words
+  [CHUNK 17/24] ~391 words
+  [CHUNK 18/24] ~397 words
+  [CHUNK 19/24] ~366 words
+  [CHUNK 20/24] ~389 words
+[WARN] Attempt 1: JSON parse failed: Expecting ':' delimiter: line 41 column 23 (char 1269)
+[RETRY] Waiting 1s before next attempt...
+  [CHUNK 21/24] ~347 words
+  [CHUNK 22/24] ~395 words
+  [CHUNK 23/24] ~387 words
+  [CHUNK 24/24] ~243 words
+[WARN] Skipping invalid entity 'Dark sun': ["Invalid type: 'artifact|system'"]
+[WARN] Skipping invalid entity 'Earth soldiers': ["Invalid type: 'character|faction'"]
+[WARN] Skipping invalid entity 'Giants': ["Invalid type: 'species|faction'"]
+[WARN] Skipping invalid entity 'Pazuzu': ["Invalid type: 'character|artifact'"]
+[WARN] Skipping invalid entity 'Lamashtu': ["Invalid type: 'character|artifact'"]
+[WARN] Skipping invalid entity 'Asag': ["Invalid type: 'entity'"]
+[WARN] Skipping invalid entity 'The Cosmic Phoenix': ["Invalid type: 'artifact|character'"]
+[WARN] Skipping invalid entity 'Mother's Lament': ["Invalid type: 'character|faction'"]
+[102/139] Processing raw/chapters/book_20_the_discordant_pulse_south_103_the_second_song_resonance_of_a_broken_needle.md
+  [CHUNK] 17 chunk(s) for raw/chapters/book_20_the_discordant_pulse_south_103_the_second_song_resonance_of_a_broken_needle.md
+  [CHUNK 1/17] ~398 words
+  [CHUNK 2/17] ~362 words
+  [CHUNK 3/17] ~387 words
+  [CHUNK 4/17] ~388 words
+  [CHUNK 5/17] ~371 words
+  [CHUNK 6/17] ~394 words
+  [CHUNK 7/17] ~396 words
+  [CHUNK 8/17] ~397 words
+  [CHUNK 9/17] ~369 words
+  [CHUNK 10/17] ~388 words
+  [CHUNK 11/17] ~373 words
+  [CHUNK 12/17] ~396 words
+  [CHUNK 13/17] ~361 words
+  [CHUNK 14/17] ~366 words
+  [CHUNK 15/17] ~379 words
+  [CHUNK 16/17] ~376 words
+  [CHUNK 17/17] ~342 words
+[WARN] Skipping invalid entity 'Crystal': ["Invalid type: 'artifact|location'"]
+[WARN] Skipping invalid entity 'Delta group': ["Invalid type: 'group'"]
+[103/139] Processing raw/chapters/book_20_the_discordant_pulse_south_104_the_rising_tide.md
+  [CHUNK] 23 chunk(s) for raw/chapters/book_20_the_discordant_pulse_south_104_the_rising_tide.md
+  [CHUNK 1/23] ~380 words
+  [CHUNK 2/23] ~400 words
+  [CHUNK 3/23] ~398 words
+  [CHUNK 4/23] ~379 words
+  [CHUNK 5/23] ~362 words
+  [CHUNK 6/23] ~371 words
+  [CHUNK 7/23] ~392 words
+  [CHUNK 8/23] ~370 words
+  [CHUNK 9/23] ~393 words
+  [CHUNK 10/23] ~371 words
+  [CHUNK 11/23] ~371 words
+  [CHUNK 12/23] ~370 words
+  [CHUNK 13/23] ~383 words
+  [CHUNK 14/23] ~345 words
+  [CHUNK 15/23] ~372 words
+  [CHUNK 16/23] ~380 words
+  [CHUNK 17/23] ~379 words
+[WARN] Attempt 1: JSON parse failed: Expecting ',' delimiter: line 24 column 17 (char 665)
+[RETRY] Waiting 1s before next attempt...
+[WARN] Attempt 2: JSON parse failed: Expecting ',' delimiter: line 24 column 17 (char 665)
+[RETRY] Waiting 2s before next attempt...
+[WARN] Attempt 3: JSON parse failed: Expecting ',' delimiter: line 24 column 17 (char 665)
+  [WARN] Chunk 17: no valid JSON from Ollama
+  [CHUNK 18/23] ~362 words
+  [CHUNK 19/23] ~400 words
+  [CHUNK 20/23] ~389 words
+  [CHUNK 21/23] ~395 words
+  [CHUNK 22/23] ~395 words
+  [CHUNK 23/23] ~138 words
+[104/139] Processing raw/chapters/book_20_the_discordant_pulse_south_105_garden_grove.md
+  [CHUNK] 29 chunk(s) for raw/chapters/book_20_the_discordant_pulse_south_105_garden_grove.md
+  [CHUNK 1/29] ~393 words
+  [CHUNK 2/29] ~398 words
+  [CHUNK 3/29] ~394 words
+  [CHUNK 4/29] ~372 words
+  [CHUNK 5/29] ~400 words
+  [CHUNK 6/29] ~368 words
+  [CHUNK 7/29] ~354 words
+  [CHUNK 8/29] ~348 words
+  [CHUNK 9/29] ~381 words
+  [CHUNK 10/29] ~363 words
+  [CHUNK 11/29] ~399 words
+  [CHUNK 12/29] ~394 words
+  [CHUNK 13/29] ~366 words
+  [CHUNK 14/29] ~386 words
+  [CHUNK 15/29] ~373 words
+  [CHUNK 16/29] ~340 words
+  [CHUNK 17/29] ~400 words
+  [CHUNK 18/29] ~375 words
+  [CHUNK 19/29] ~336 words
+  [CHUNK 20/29] ~399 words
+  [CHUNK 21/29] ~387 words
+  [CHUNK 22/29] ~397 words
+  [CHUNK 23/29] ~371 words
+  [CHUNK 24/29] ~384 words
+  [CHUNK 25/29] ~386 words
+  [CHUNK 26/29] ~383 words
+  [CHUNK 27/29] ~387 words
+  [CHUNK 28/29] ~385 words
+  [CHUNK 29/29] ~360 words
+[105/139] Processing raw/chapters/book_20_the_discordant_pulse_south_106_sky_fallen.txt
+  [CHUNK] 31 chunk(s) for raw/chapters/book_20_the_discordant_pulse_south_106_sky_fallen.txt
+  [CHUNK 1/31] ~358 words
+  [CHUNK 2/31] ~400 words
+  [CHUNK 3/31] ~347 words
+  [CHUNK 4/31] ~341 words
+  [CHUNK 5/31] ~366 words
+  [CHUNK 6/31] ~400 words
+  [CHUNK 7/31] ~395 words
+  [CHUNK 8/31] ~377 words
+  [CHUNK 9/31] ~399 words
+  [CHUNK 10/31] ~390 words
+  [CHUNK 11/31] ~338 words
+  [CHUNK 12/31] ~377 words
+  [CHUNK 13/31] ~389 words
+  [CHUNK 14/31] ~400 words
+  [CHUNK 15/31] ~371 words
+  [CHUNK 16/31] ~373 words
+  [CHUNK 17/31] ~385 words
+  [CHUNK 18/31] ~393 words
+  [CHUNK 19/31] ~350 words
+  [CHUNK 20/31] ~385 words
+  [CHUNK 21/31] ~383 words
+  [CHUNK 22/31] ~398 words
+  [CHUNK 23/31] ~382 words
+  [CHUNK 24/31] ~381 words
+  [CHUNK 25/31] ~387 words
+  [CHUNK 26/31] ~371 words
+  [CHUNK 27/31] ~378 words
+  [CHUNK 28/31] ~399 words
+  [CHUNK 29/31] ~397 words
+  [CHUNK 30/31] ~385 words
+  [CHUNK 31/31] ~204 words
+[WARN] Skipping invalid entity 'Ma'at': ["Invalid type: 'artifact|location'"]
+[WARN] Skipping invalid entity 'Keeper': ["Invalid type: 'character|entity'"]
+[WARN] Skipping invalid entity 'Boundary': ["Invalid type: 'artifact|location'"]
+[106/139] Processing raw/chapters/book_21_needle_and_thread_south_107_the_waking.txt
+  [CHUNK] 21 chunk(s) for raw/chapters/book_21_needle_and_thread_south_107_the_waking.txt
+  [CHUNK 1/21] ~352 words
+  [CHUNK 2/21] ~382 words
+  [CHUNK 3/21] ~387 words
+  [CHUNK 4/21] ~380 words
+  [CHUNK 5/21] ~398 words
+  [CHUNK 6/21] ~395 words
+  [CHUNK 7/21] ~310 words
+  [CHUNK 8/21] ~311 words
+  [CHUNK 9/21] ~389 words
+  [CHUNK 10/21] ~400 words
+  [CHUNK 11/21] ~367 words
+  [CHUNK 12/21] ~398 words
+  [CHUNK 13/21] ~381 words
+  [CHUNK 14/21] ~381 words
+  [CHUNK 15/21] ~392 words
+  [CHUNK 16/21] ~399 words
+  [CHUNK 17/21] ~388 words
+  [CHUNK 18/21] ~370 words
+  [CHUNK 19/21] ~364 words
+  [CHUNK 20/21] ~383 words
+  [CHUNK 21/21] ~246 words
+[107/139] Processing raw/chapters/book_21_needle_and_thread_south_108_evolution_of_the_keeper.txt
+  [CHUNK] 18 chunk(s) for raw/chapters/book_21_needle_and_thread_south_108_evolution_of_the_keeper.txt
+  [CHUNK 1/18] ~359 words
+  [CHUNK 2/18] ~397 words
+  [CHUNK 3/18] ~387 words
+  [CHUNK 4/18] ~343 words
+  [CHUNK 5/18] ~399 words
+  [CHUNK 6/18] ~349 words
+  [CHUNK 7/18] ~367 words
+  [CHUNK 8/18] ~400 words
+  [CHUNK 9/18] ~385 words
+  [CHUNK 10/18] ~384 words
+  [CHUNK 11/18] ~378 words
+  [CHUNK 12/18] ~398 words
+  [CHUNK 13/18] ~347 words
+  [CHUNK 14/18] ~389 words
+  [CHUNK 15/18] ~400 words
+  [CHUNK 16/18] ~399 words
+  [CHUNK 17/18] ~381 words
+  [CHUNK 18/18] ~340 words
+[108/139] Processing raw/chapters/book_21_needle_and_thread_south_109_the_thread_and_cage.txt
+  [CHUNK] 28 chunk(s) for raw/chapters/book_21_needle_and_thread_south_109_the_thread_and_cage.txt
+  [CHUNK 1/28] ~369 words
+  [CHUNK 2/28] ~394 words
+  [CHUNK 3/28] ~374 words
+  [CHUNK 4/28] ~383 words
+  [CHUNK 5/28] ~391 words
+  [CHUNK 6/28] ~379 words
+  [CHUNK 7/28] ~356 words
+  [CHUNK 8/28] ~391 words
+  [CHUNK 9/28] ~388 words
+  [CHUNK 10/28] ~358 words
+  [CHUNK 11/28] ~384 words
+  [CHUNK 12/28] ~376 words
+  [CHUNK 13/28] ~400 words
+  [CHUNK 14/28] ~370 words
+  [CHUNK 15/28] ~378 words
+  [CHUNK 16/28] ~386 words
+  [CHUNK 17/28] ~382 words
+  [CHUNK 18/28] ~377 words
+  [CHUNK 19/28] ~369 words
+  [CHUNK 20/28] ~381 words
+  [CHUNK 21/28] ~325 words
+  [CHUNK 22/28] ~387 words
+  [CHUNK 23/28] ~390 words
+  [CHUNK 24/28] ~369 words
+  [CHUNK 25/28] ~392 words
+  [CHUNK 26/28] ~396 words
+  [CHUNK 27/28] ~371 words
+  [CHUNK 28/28] ~350 words
+[WARN] Skipping invalid entity 'null': ["Invalid type: 'artifact|system'"]
+[WARN] Skipping invalid entity 'thing that has walked into their home': ["Invalid type: 'entity|artifact'"]
+[109/139] Processing raw/chapters/book_21_needle_and_thread_south_110_the_bleeding_convergance.txt
+  [CHUNK] 33 chunk(s) for raw/chapters/book_21_needle_and_thread_south_110_the_bleeding_convergance.txt
+  [CHUNK 1/33] ~391 words
+  [CHUNK 2/33] ~392 words
+  [CHUNK 3/33] ~398 words
+  [CHUNK 4/33] ~400 words
+  [CHUNK 5/33] ~386 words
+  [CHUNK 6/33] ~390 words
+  [CHUNK 7/33] ~380 words
+  [CHUNK 8/33] ~390 words
+  [CHUNK 9/33] ~383 words
+  [CHUNK 10/33] ~387 words
+  [CHUNK 11/33] ~348 words
+  [CHUNK 12/33] ~376 words
+  [CHUNK 13/33] ~386 words
+  [CHUNK 14/33] ~380 words
+  [CHUNK 15/33] ~376 words
+  [CHUNK 16/33] ~373 words
+  [CHUNK 17/33] ~387 words
+  [CHUNK 18/33] ~391 words
+  [CHUNK 19/33] ~353 words
+  [CHUNK 20/33] ~397 words
+  [CHUNK 21/33] ~398 words
+  [CHUNK 22/33] ~391 words
+  [CHUNK 23/33] ~386 words
+  [CHUNK 24/33] ~396 words
+  [CHUNK 25/33] ~397 words
+  [CHUNK 26/33] ~397 words
+  [CHUNK 27/33] ~397 words
+  [CHUNK 28/33] ~399 words
+  [CHUNK 29/33] ~395 words
+  [CHUNK 30/33] ~363 words
+  [CHUNK 31/33] ~381 words
+  [CHUNK 32/33] ~398 words
+  [CHUNK 33/33] ~311 words
+[WARN] Skipping invalid entity 'migrants': ["Invalid type: 'group'"]
+[WARN] Skipping invalid entity 'Queen's observers': ["Invalid type: 'artifact|system'"]
+[WARN] Skipping invalid entity 'Water': ["Invalid type: 'artifact|system'"]
+[WARN] Skipping invalid entity 'Dream thieves': ["Invalid type: 'artifact|system'"]
+[WARN] Skipping invalid entity 'Crystal': ["Invalid type: 'artifact|system'"]
+[WARN] Skipping invalid entity 'Team': ["Invalid type: 'group'"]
+[WARN] Skipping invalid entity 'null fire': ["Invalid type: 'artifact|system'"]
+[WARN] Skipping invalid entity 'cold': ["Invalid type: 'event|term'"]
+[110/139] Processing raw/chapters/book_21_needle_and_thread_south_111_the_resonance_a_garden_under_shadow.txt
+  [CHUNK] 31 chunk(s) for raw/chapters/book_21_needle_and_thread_south_111_the_resonance_a_garden_under_shadow.txt
+  [CHUNK 1/31] ~384 words
+  [CHUNK 2/31] ~386 words
+  [CHUNK 3/31] ~394 words
+  [CHUNK 4/31] ~395 words
+  [CHUNK 5/31] ~389 words
+  [CHUNK 6/31] ~398 words
+  [CHUNK 7/31] ~384 words
+  [CHUNK 8/31] ~385 words
+  [CHUNK 9/31] ~361 words
+  [CHUNK 10/31] ~379 words
+  [CHUNK 11/31] ~370 words
+  [CHUNK 12/31] ~396 words
+  [CHUNK 13/31] ~394 words
+  [CHUNK 14/31] ~386 words
+  [CHUNK 15/31] ~393 words
+  [CHUNK 16/31] ~351 words
+  [CHUNK 17/31] ~319 words
+  [CHUNK 18/31] ~344 words
+  [CHUNK 19/31] ~396 words
+  [CHUNK 20/31] ~376 words
+  [CHUNK 21/31] ~375 words
+  [CHUNK 22/31] ~384 words
+  [CHUNK 23/31] ~310 words
+  [CHUNK 24/31] ~350 words
+  [CHUNK 25/31] ~371 words
+  [CHUNK 26/31] ~396 words
+  [CHUNK 27/31] ~358 words
+  [CHUNK 28/31] ~386 words
+  [CHUNK 29/31] ~383 words
+  [CHUNK 30/31] ~378 words
+  [CHUNK 31/31] ~231 words
+[WARN] Skipping invalid entity 'Grove Giants': ["Invalid type: 'species|faction'"]
+[WARN] Skipping invalid entity 'Cliff giants': ["Invalid type: 'species|faction'"]
+[WARN] Skipping invalid entity 'Keeper_of_keepers': ["Invalid type: 'role'"]
+[WARN] Skipping invalid entity 'new council hall': ["Invalid type: 'location|structure'"]
+[WARN] Skipping invalid entity 'Thread': ["Invalid type: 'artifact|term'"]
+[111/139] Processing raw/chapters/book_21_needle_and_thread_south_112_eastern_system.txt
+  [CHUNK] 39 chunk(s) for raw/chapters/book_21_needle_and_thread_south_112_eastern_system.txt
+  [CHUNK 1/39] ~374 words
+  [CHUNK 2/39] ~390 words
+  [CHUNK 3/39] ~372 words
+  [CHUNK 4/39] ~385 words
+  [CHUNK 5/39] ~389 words
+  [CHUNK 6/39] ~362 words
+  [CHUNK 7/39] ~355 words
+  [CHUNK 8/39] ~339 words
+  [CHUNK 9/39] ~345 words
+  [CHUNK 10/39] ~366 words
+  [CHUNK 11/39] ~356 words
+  [CHUNK 12/39] ~375 words
+  [CHUNK 13/39] ~312 words
+  [CHUNK 14/39] ~336 words
+  [CHUNK 15/39] ~311 words
+  [CHUNK 16/39] ~293 words
+  [CHUNK 17/39] ~325 words
+  [CHUNK 18/39] ~337 words
+  [CHUNK 19/39] ~385 words
+  [CHUNK 20/39] ~371 words
+  [CHUNK 21/39] ~353 words
+  [CHUNK 22/39] ~393 words
+  [CHUNK 23/39] ~363 words
+  [CHUNK 24/39] ~365 words
+  [CHUNK 25/39] ~391 words
+  [CHUNK 26/39] ~386 words
+  [CHUNK 27/39] ~385 words
+  [CHUNK 28/39] ~386 words
+  [CHUNK 29/39] ~399 words
+  [CHUNK 30/39] ~384 words
+  [CHUNK 31/39] ~376 words
+  [CHUNK 32/39] ~389 words
+  [CHUNK 33/39] ~400 words
+  [CHUNK 34/39] ~399 words
+  [CHUNK 35/39] ~367 words
+  [CHUNK 36/39] ~400 words
+  [CHUNK 37/39] ~391 words
+  [CHUNK 38/39] ~392 words
+  [CHUNK 39/39] ~47 words
+[WARN] Skipping invalid entity 'Shimmer': ["Invalid type: 'artifact|system'"]
+[WARN] Skipping invalid entity 'Current': ["Invalid type: 'system|artifact'"]
+[WARN] Skipping invalid entity 'Anomalies': ["Invalid type: 'artifact|system'"]
+[WARN] Skipping invalid entity 'Vibration': ["Invalid type: 'artifact|system'"]
+[WARN] Skipping invalid entity 'Silence': ["Invalid type: 'artifact|system'"]
+[112/139] Processing raw/chapters/book_22_listening_stone_south_113_the_edge_of_return.txt
+  [CHUNK] 11 chunk(s) for raw/chapters/book_22_listening_stone_south_113_the_edge_of_return.txt
+  [CHUNK 1/11] ~352 words
+  [CHUNK 2/11] ~365 words
+  [CHUNK 3/11] ~329 words
+  [CHUNK 4/11] ~362 words
+  [CHUNK 5/11] ~368 words
+  [CHUNK 6/11] ~394 words
+  [CHUNK 7/11] ~394 words
+  [CHUNK 8/11] ~400 words
+  [CHUNK 9/11] ~398 words
+  [CHUNK 10/11] ~400 words
+  [CHUNK 11/11] ~277 words
+[113/139] Processing raw/chapters/book_22_listening_stone_south_114_resonance_of_stone.txt
+  [CHUNK] 14 chunk(s) for raw/chapters/book_22_listening_stone_south_114_resonance_of_stone.txt
+  [CHUNK 1/14] ~383 words
+  [CHUNK 2/14] ~393 words
+  [CHUNK 3/14] ~381 words
+  [CHUNK 4/14] ~386 words
+  [CHUNK 5/14] ~366 words
+  [CHUNK 6/14] ~396 words
+  [CHUNK 7/14] ~396 words
+  [CHUNK 8/14] ~354 words
+  [CHUNK 9/14] ~399 words
+  [CHUNK 10/14] ~399 words
+  [CHUNK 11/14] ~376 words
+  [CHUNK 12/14] ~378 words
+  [CHUNK 13/14] ~374 words
+  [CHUNK 14/14] ~208 words
+[114/139] Processing raw/chapters/book_22_listening_stone_south_115_the_shape_of_asking.txt
+  [CHUNK] 20 chunk(s) for raw/chapters/book_22_listening_stone_south_115_the_shape_of_asking.txt
+  [CHUNK 1/20] ~393 words
+  [CHUNK 2/20] ~391 words
+  [CHUNK 3/20] ~386 words
+  [CHUNK 4/20] ~387 words
+  [CHUNK 5/20] ~400 words
+  [CHUNK 6/20] ~343 words
+  [CHUNK 7/20] ~398 words
+  [CHUNK 8/20] ~343 words
+  [CHUNK 9/20] ~380 words
+  [CHUNK 10/20] ~375 words
+  [CHUNK 11/20] ~399 words
+  [CHUNK 12/20] ~397 words
+  [CHUNK 13/20] ~378 words
+  [CHUNK 14/20] ~396 words
+  [CHUNK 15/20] ~391 words
+  [CHUNK 16/20] ~383 words
+  [CHUNK 17/20] ~396 words
+  [CHUNK 18/20] ~400 words
+  [CHUNK 19/20] ~393 words
+  [CHUNK 20/20] ~106 words
+[WARN] Skipping invalid entity 'Swamp Lead': ["Invalid type: 'artifact|system'"]
+[WARN] Skipping invalid entity 'Grove Giant': ["Invalid type: 'species|character'"]
+[WARN] Skipping invalid entity 'Deep Tongue': ["Invalid type: 'language'"]
+[115/139] Processing raw/chapters/book_22_listening_stone_south_116_keepers_recognition.txt
+  [CHUNK] 19 chunk(s) for raw/chapters/book_22_listening_stone_south_116_keepers_recognition.txt
+  [CHUNK 1/19] ~376 words
+  [CHUNK 2/19] ~383 words
+  [CHUNK 3/19] ~395 words
+  [CHUNK 4/19] ~386 words
+  [CHUNK 5/19] ~396 words
+  [CHUNK 6/19] ~394 words
+  [CHUNK 7/19] ~363 words
+  [CHUNK 8/19] ~393 words
+  [CHUNK 9/19] ~371 words
+  [CHUNK 10/19] ~378 words
+  [CHUNK 11/19] ~380 words
+  [CHUNK 12/19] ~352 words
+[WARN] Attempt 1: JSON parse failed: Expecting ':' delimiter: line 33 column 54 (char 1216)
+[RETRY] Waiting 1s before next attempt...
+  [CHUNK 13/19] ~392 words
+  [CHUNK 14/19] ~390 words
+  [CHUNK 15/19] ~393 words
+  [CHUNK 16/19] ~360 words
+  [CHUNK 17/19] ~391 words
+  [CHUNK 18/19] ~384 words
+  [CHUNK 19/19] ~109 words
+[116/139] Processing raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_117_the_constant_calibration_living_as_anchor.txt
+  [CHUNK] 18 chunk(s) for raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_117_the_constant_calibration_living_as_anchor.txt
+  [CHUNK 1/18] ~393 words
+  [CHUNK 2/18] ~360 words
+  [CHUNK 3/18] ~391 words
+  [CHUNK 4/18] ~368 words
+  [CHUNK 5/18] ~381 words
+  [CHUNK 6/18] ~387 words
+  [CHUNK 7/18] ~398 words
+  [CHUNK 8/18] ~390 words
+  [CHUNK 9/18] ~397 words
+  [CHUNK 10/18] ~379 words
+  [CHUNK 11/18] ~372 words
+  [CHUNK 12/18] ~370 words
+  [CHUNK 13/18] ~328 words
+  [CHUNK 14/18] ~396 words
+  [CHUNK 15/18] ~399 words
+  [CHUNK 16/18] ~386 words
+  [CHUNK 17/18] ~378 words
+  [CHUNK 18/18] ~350 words
+[117/139] Processing raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_118_the_constant_and_friction_of_becoming.txt
+  [CHUNK] 17 chunk(s) for raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_118_the_constant_and_friction_of_becoming.txt
+  [CHUNK 1/17] ~321 words
+  [CHUNK 2/17] ~393 words
+  [CHUNK 3/17] ~386 words
+  [CHUNK 4/17] ~394 words
+  [CHUNK 5/17] ~391 words
+  [CHUNK 6/17] ~396 words
+  [CHUNK 7/17] ~369 words
+  [CHUNK 8/17] ~392 words
+  [CHUNK 9/17] ~353 words
+  [CHUNK 10/17] ~353 words
+  [CHUNK 11/17] ~377 words
+  [CHUNK 12/17] ~399 words
+  [CHUNK 13/17] ~363 words
+  [CHUNK 14/17] ~370 words
+  [CHUNK 15/17] ~347 words
+  [CHUNK 16/17] ~388 words
+  [CHUNK 17/17] ~306 words
+[118/139] Processing raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_119_resonance_of_the_first_point.txt
+  [CHUNK] 22 chunk(s) for raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_119_resonance_of_the_first_point.txt
+  [CHUNK 1/22] ~388 words
+  [CHUNK 2/22] ~393 words
+  [CHUNK 3/22] ~371 words
+  [CHUNK 4/22] ~374 words
+  [CHUNK 5/22] ~375 words
+  [CHUNK 6/22] ~389 words
+  [CHUNK 7/22] ~386 words
+  [CHUNK 8/22] ~361 words
+  [CHUNK 9/22] ~374 words
+  [CHUNK 10/22] ~375 words
+  [CHUNK 11/22] ~370 words
+  [CHUNK 12/22] ~386 words
+  [CHUNK 13/22] ~395 words
+  [CHUNK 14/22] ~383 words
+  [CHUNK 15/22] ~399 words
+  [CHUNK 16/22] ~376 words
+  [CHUNK 17/22] ~391 words
+  [CHUNK 18/22] ~368 words
+  [CHUNK 19/22] ~394 words
+  [CHUNK 20/22] ~392 words
+  [CHUNK 21/22] ~399 words
+  [CHUNK 22/22] ~97 words
+[WARN] Skipping invalid entity 'Resonance': ["Invalid type: 'artifact|system'"]
+[WARN] Skipping invalid entity 'Guardian': ["Invalid type: 'artifact|location'"]
+[119/139] Processing raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_120_the_language_of_stone.txt
+  [CHUNK] 20 chunk(s) for raw/chapters/book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_120_the_language_of_stone.txt
+  [CHUNK 1/20] ~365 words
+  [CHUNK 2/20] ~396 words
+  [CHUNK 3/20] ~383 words
+  [CHUNK 4/20] ~362 words
+  [CHUNK 5/20] ~392 words
+  [CHUNK 6/20] ~397 words
+  [CHUNK 7/20] ~399 words
+  [CHUNK 8/20] ~346 words
+  [CHUNK 9/20] ~397 words
+  [CHUNK 10/20] ~390 words
+  [CHUNK 11/20] ~374 words
+  [CHUNK 12/20] ~383 words
+  [CHUNK 13/20] ~362 words
+  [CHUNK 14/20] ~369 words
+  [CHUNK 15/20] ~385 words
+  [CHUNK 16/20] ~362 words
+  [CHUNK 17/20] ~383 words
+  [CHUNK 18/20] ~373 words
+  [CHUNK 19/20] ~384 words
+  [CHUNK 20/20] ~218 words
+[WARN] Skipping invalid entity 'Guardian': ["Invalid type: 'artifact|system'"]
+[120/139] Processing raw/chapters/book_24_threshold_and_network_south_121_aligning_the_pattern_at_the_labyrinths_threshold.txt
+  [CHUNK] 10 chunk(s) for raw/chapters/book_24_threshold_and_network_south_121_aligning_the_pattern_at_the_labyrinths_threshold.txt
+  [CHUNK 1/10] ~390 words
+  [CHUNK 2/10] ~356 words
+  [CHUNK 3/10] ~382 words
+  [CHUNK 4/10] ~374 words
+  [CHUNK 5/10] ~378 words
+  [CHUNK 6/10] ~385 words
+  [CHUNK 7/10] ~378 words
+  [CHUNK 8/10] ~391 words
+  [CHUNK 9/10] ~390 words
+  [CHUNK 10/10] ~130 words
+[121/139] Processing raw/chapters/book_24_threshold_and_network_south_122_unravealing.txt
+  [CHUNK] 20 chunk(s) for raw/chapters/book_24_threshold_and_network_south_122_unravealing.txt
+  [CHUNK 1/20] ~360 words
+  [CHUNK 2/20] ~366 words
+  [CHUNK 3/20] ~375 words
+  [CHUNK 4/20] ~393 words
+  [CHUNK 5/20] ~387 words
+  [CHUNK 6/20] ~389 words
+  [CHUNK 7/20] ~389 words
+  [CHUNK 8/20] ~388 words
+  [CHUNK 9/20] ~358 words
+  [CHUNK 10/20] ~383 words
+  [CHUNK 11/20] ~393 words
+  [CHUNK 12/20] ~398 words
+  [CHUNK 13/20] ~396 words
+  [CHUNK 14/20] ~399 words
+  [CHUNK 15/20] ~349 words
+  [CHUNK 16/20] ~377 words
+  [CHUNK 17/20] ~400 words
+  [CHUNK 18/20] ~366 words
+  [CHUNK 19/20] ~380 words
+  [CHUNK 20/20] ~318 words
+[122/139] Processing raw/chapters/book_24_threshold_and_network_south_123_the_conduit_geometry_of_difference.txt
+  [CHUNK] 12 chunk(s) for raw/chapters/book_24_threshold_and_network_south_123_the_conduit_geometry_of_difference.txt
+  [CHUNK 1/12] ~357 words
+  [CHUNK 2/12] ~378 words
+  [CHUNK 3/12] ~387 words
+  [CHUNK 4/12] ~379 words
+  [CHUNK 5/12] ~367 words
+  [CHUNK 6/12] ~398 words
+  [CHUNK 7/12] ~390 words
+  [CHUNK 8/12] ~398 words
+  [CHUNK 9/12] ~392 words
+  [CHUNK 10/12] ~389 words
+  [CHUNK 11/12] ~368 words
+  [CHUNK 12/12] ~60 words
+[123/139] Processing raw/chapters/book_24_threshold_and_network_south_124_the_last_threshold_release_of_the_constant.txt
+  [CHUNK] 17 chunk(s) for raw/chapters/book_24_threshold_and_network_south_124_the_last_threshold_release_of_the_constant.txt
+  [CHUNK 1/17] ~369 words
+  [CHUNK 2/17] ~374 words
+  [CHUNK 3/17] ~393 words
+  [CHUNK 4/17] ~394 words
+  [CHUNK 5/17] ~394 words
+  [CHUNK 6/17] ~400 words
+  [CHUNK 7/17] ~344 words
+  [CHUNK 8/17] ~378 words
+  [CHUNK 9/17] ~374 words
+  [CHUNK 10/17] ~372 words
+  [CHUNK 11/17] ~397 words
+  [CHUNK 12/17] ~331 words
+  [CHUNK 13/17] ~351 words
+  [CHUNK 14/17] ~354 words
+  [CHUNK 15/17] ~382 words
+  [CHUNK 16/17] ~384 words
+  [CHUNK 17/17] ~310 words
+[124/139] Processing raw/chapters/book_25_the_seam_evolutionary_south_125_farwell.txt
+  [CHUNK] 10 chunk(s) for raw/chapters/book_25_the_seam_evolutionary_south_125_farwell.txt
+  [CHUNK 1/10] ~2425 words
+[WARN] Attempt 1: JSON parse failed: Expecting ',' delimiter: line 25 column 65 (char 907)
+[RETRY] Waiting 1s before next attempt...
+  [CHUNK 2/10] ~380 words
+  [CHUNK 3/10] ~393 words
+  [CHUNK 4/10] ~399 words
+  [CHUNK 5/10] ~384 words
+  [CHUNK 6/10] ~377 words
+  [CHUNK 7/10] ~367 words
+  [CHUNK 8/10] ~396 words
+  [CHUNK 9/10] ~369 words
+  [CHUNK 10/10] ~92 words
+[WARN] Skipping invalid entity 'Anchor': ["Invalid type: 'location|artifact'"]
+[125/139] Processing raw/chapters/book_25_the_seam_evolutionary_south_126_i_am_island.txt
+  [CHUNK] 21 chunk(s) for raw/chapters/book_25_the_seam_evolutionary_south_126_i_am_island.txt
+  [CHUNK 1/21] ~399 words
+  [CHUNK 2/21] ~314 words
+  [CHUNK 3/21] ~341 words
+  [CHUNK 4/21] ~352 words
+  [CHUNK 5/21] ~400 words
+  [CHUNK 6/21] ~331 words
+  [CHUNK 7/21] ~321 words
+  [CHUNK 8/21] ~400 words
+  [CHUNK 9/21] ~384 words
+  [CHUNK 10/21] ~348 words
+  [CHUNK 11/21] ~372 words
+  [CHUNK 12/21] ~387 words
+  [CHUNK 13/21] ~362 words
+  [CHUNK 14/21] ~346 words
+  [CHUNK 15/21] ~391 words
+  [CHUNK 16/21] ~398 words
+  [CHUNK 17/21] ~380 words
+  [CHUNK 18/21] ~376 words
+  [CHUNK 19/21] ~400 words
+  [CHUNK 20/21] ~394 words
+  [CHUNK 21/21] ~35 words
+[WARN] Skipping invalid entity 'Fourth Shadow': ["Invalid type: 'artifact|system'"]
+[WARN] Skipping invalid entity 'Correction': ["Invalid type: 'artifact|system'"]
+[126/139] Processing raw/chapters/book_25_the_seam_evolutionary_south_127_ember_stone.txt
+  [CHUNK] 11 chunk(s) for raw/chapters/book_25_the_seam_evolutionary_south_127_ember_stone.txt
+  [CHUNK 1/11] ~368 words
+  [CHUNK 2/11] ~351 words
+  [CHUNK 3/11] ~306 words
+  [CHUNK 4/11] ~345 words
+  [CHUNK 5/11] ~395 words
+  [CHUNK 6/11] ~396 words
+  [CHUNK 7/11] ~395 words
+  [CHUNK 8/11] ~355 words
+  [CHUNK 9/11] ~382 words
+  [CHUNK 10/11] ~340 words
+  [CHUNK 11/11] ~138 words
+[WARN] Skipping invalid entity 'Reptilians': ["Invalid type: 'species|faction'"]
+[WARN] Skipping invalid entity 'Nexus points': ["Invalid type: 'location|system'"]
+[WARN] Skipping invalid entity 'Council': ["Invalid type: 'federation'"]
+[WARN] Skipping invalid entity 'Tear': ["Invalid type: 'artifact|system'"]
+[127/139] Processing raw/chapters/book_25_the_seam_evolutionary_south_128_one_degree_above.txt
+  [CHUNK] 20 chunk(s) for raw/chapters/book_25_the_seam_evolutionary_south_128_one_degree_above.txt
+  [CHUNK 1/20] ~377 words
+  [CHUNK 2/20] ~361 words
+  [CHUNK 3/20] ~385 words
+  [CHUNK 4/20] ~363 words
+  [CHUNK 5/20] ~368 words
+  [CHUNK 6/20] ~389 words
+  [CHUNK 7/20] ~380 words
+  [CHUNK 8/20] ~359 words
+  [CHUNK 9/20] ~356 words
+  [CHUNK 10/20] ~400 words
+  [CHUNK 11/20] ~380 words
+  [CHUNK 12/20] ~341 words
+  [CHUNK 13/20] ~397 words
+  [CHUNK 14/20] ~386 words
+  [CHUNK 15/20] ~363 words
+  [CHUNK 16/20] ~327 words
+  [CHUNK 17/20] ~332 words
+  [CHUNK 18/20] ~380 words
+  [CHUNK 19/20] ~361 words
+  [CHUNK 20/20] ~296 words
+[128/139] Processing raw/chapters/book_25_the_seam_evolutionary_south_129_calibration_drift.txt
+  [CHUNK] 18 chunk(s) for raw/chapters/book_25_the_seam_evolutionary_south_129_calibration_drift.txt
+  [CHUNK 1/18] ~356 words
+  [CHUNK 2/18] ~392 words
+  [CHUNK 3/18] ~384 words
+  [CHUNK 4/18] ~374 words
+  [CHUNK 5/18] ~365 words
+  [CHUNK 6/18] ~313 words
+  [CHUNK 7/18] ~367 words
+  [CHUNK 8/18] ~356 words
+  [CHUNK 9/18] ~387 words
+  [CHUNK 10/18] ~389 words
+  [CHUNK 11/18] ~376 words
+  [CHUNK 12/18] ~378 words
+  [CHUNK 13/18] ~366 words
+  [CHUNK 14/18] ~347 words
+  [CHUNK 15/18] ~399 words
+  [CHUNK 16/18] ~388 words
+  [CHUNK 17/18] ~362 words
+  [CHUNK 18/18] ~216 words
+[WARN] Skipping invalid entity 'Containment Committee': ["Invalid type: 'committee'"]
+[WARN] Skipping invalid entity 'Study Committee': ["Invalid type: 'committee'"]
+[WARN] Skipping invalid entity 'Strategic Withdrawal Committee': ["Invalid type: 'committee'"]
+[WARN] Skipping invalid entity 'Protocol Seven': ["Invalid type: 'protocol'"]
+[WARN] Skipping invalid entity 'Brak': ["Invalid type: 'species|faction'"]
+[WARN] Skipping invalid entity 'Nephoretti': ["Invalid type: 'species|faction'"]
+[129/139] Processing raw/chapters/book_25_the_seam_evolutionary_south_130_within_tolerance.txt
+  [CHUNK] 21 chunk(s) for raw/chapters/book_25_the_seam_evolutionary_south_130_within_tolerance.txt
+  [CHUNK 1/21] ~374 words
+  [CHUNK 2/21] ~327 words
+  [CHUNK 3/21] ~393 words
+  [CHUNK 4/21] ~296 words
+  [CHUNK 5/21] ~388 words
+  [CHUNK 6/21] ~381 words
+  [CHUNK 7/21] ~377 words
+  [CHUNK 8/21] ~343 words
+  [CHUNK 9/21] ~340 words
+  [CHUNK 10/21] ~385 words
+  [CHUNK 11/21] ~336 words
+  [CHUNK 12/21] ~311 words
+  [CHUNK 13/21] ~366 words
+  [CHUNK 14/21] ~342 words
+  [CHUNK 15/21] ~354 words
+  [CHUNK 16/21] ~358 words
+  [CHUNK 17/21] ~311 words
+  [CHUNK 18/21] ~362 words
+[WARN] Attempt 1: JSON parse failed: Expecting ',' delimiter: line 24 column 17 (char 770)
+[RETRY] Waiting 1s before next attempt...
+  [CHUNK 19/21] ~354 words
+  [CHUNK 20/21] ~395 words
+  [CHUNK 21/21] ~173 words
+[WARN] Skipping invalid entity 'Nephoretti': ["Invalid type: 'species|character'"]
+[WARN] Skipping invalid entity 'Thread 18': ["Invalid type: 'arc|term'"]
+[WARN] Skipping invalid entity 'Anu': ["Invalid type: 'character|deity'"]
+[WARN] Skipping invalid entity 'Enlil': ["Invalid type: 'character|deity'"]
+[WARN] Skipping invalid entity 'Dampening field': ["Invalid type: 'artifact|system'"]
+[WARN] Skipping invalid entity 'Eastern Terrace: Minor Instrument Variance file': ["Invalid type: 'artifact|system'"]
+[130/139] Processing raw/chapters/book_26_the_seam_long_dark_south_131_stable_contradiction.txt
+  [CHUNK] 25 chunk(s) for raw/chapters/book_26_the_seam_long_dark_south_131_stable_contradiction.txt
+  [CHUNK 1/25] ~373 words
+  [CHUNK 2/25] ~383 words
+  [CHUNK 3/25] ~394 words
+  [CHUNK 4/25] ~379 words
+  [CHUNK 5/25] ~373 words
+  [CHUNK 6/25] ~395 words
+  [CHUNK 7/25] ~377 words
+  [CHUNK 8/25] ~339 words
+  [CHUNK 9/25] ~373 words
+  [CHUNK 10/25] ~345 words
+  [CHUNK 11/25] ~348 words
+  [CHUNK 12/25] ~389 words
+  [CHUNK 13/25] ~400 words
+  [CHUNK 14/25] ~350 words
+  [CHUNK 15/25] ~351 words
+  [CHUNK 16/25] ~352 words
+  [CHUNK 17/25] ~344 words
+  [CHUNK 18/25] ~361 words
+  [CHUNK 19/25] ~375 words
+  [CHUNK 20/25] ~371 words
+  [CHUNK 21/25] ~376 words
+  [CHUNK 22/25] ~367 words
+  [CHUNK 23/25] ~337 words
+  [CHUNK 24/25] ~371 words
+  [CHUNK 25/25] ~363 words
+[WARN] Skipping invalid entity 'eastern perimeter patrol': ["Invalid type: 'artifact|system'"]
+[WARN] Skipping invalid entity 'sensor ghosting': ["Invalid type: 'event|artifact'"]
+[WARN] Skipping invalid entity 'Igigi woman': ["Invalid type: 'character|species'"]
+[WARN] Skipping invalid entity 'chimney stone': ["Invalid type: 'artifact|system'"]
+[WARN] Skipping invalid entity 'Warmth': ["Invalid type: 'artifact|system'"]
+[WARN] Skipping invalid entity 'Dampener': ["Invalid type: 'artifact|system'"]
+[WARN] Skipping invalid entity 'Environmental control committee': ["Invalid type: 'faction|organization'"]
+[WARN] Skipping invalid entity 'Fragment': ["Invalid type: 'artifact|event'"]
+[131/139] Processing raw/chapters/book_26_the_seam_long_dark_south_132_white_lightning.txt
+  [CHUNK] 18 chunk(s) for raw/chapters/book_26_the_seam_long_dark_south_132_white_lightning.txt
+  [CHUNK 1/18] ~398 words
+  [CHUNK 2/18] ~334 words
+  [CHUNK 3/18] ~387 words
+  [CHUNK 4/18] ~385 words
+  [CHUNK 5/18] ~365 words
+  [CHUNK 6/18] ~370 words
+  [CHUNK 7/18] ~382 words
+  [CHUNK 8/18] ~396 words
+  [CHUNK 9/18] ~381 words
+  [CHUNK 10/18] ~366 words
+  [CHUNK 11/18] ~355 words
+  [CHUNK 12/18] ~375 words
+  [CHUNK 13/18] ~384 words
+  [CHUNK 14/18] ~394 words
+  [CHUNK 15/18] ~388 words
+  [CHUNK 16/18] ~368 words
+  [CHUNK 17/18] ~379 words
+  [CHUNK 18/18] ~89 words
+[WARN] Skipping invalid entity '0314': ["Invalid type: 'artifact|system'"]
+[WARN] Skipping invalid entity 'Elders': ["Invalid type: 'species|faction'"]
+[WARN] Skipping invalid entity 'Crimson Citadel': ["Invalid type: 'location|system'"]
+[132/139] Processing raw/chapters/book_26_the_seam_long_dark_south_133_threshold.txt
+  [CHUNK] 26 chunk(s) for raw/chapters/book_26_the_seam_long_dark_south_133_threshold.txt
+  [CHUNK 1/26] ~383 words
+  [CHUNK 2/26] ~382 words
+  [CHUNK 3/26] ~326 words
+  [CHUNK 4/26] ~346 words
+  [CHUNK 5/26] ~353 words
+  [CHUNK 6/26] ~282 words
+  [CHUNK 7/26] ~400 words
+  [CHUNK 8/26] ~332 words
+  [CHUNK 9/26] ~397 words
+  [CHUNK 10/26] ~330 words
+  [CHUNK 11/26] ~319 words
+  [CHUNK 12/26] ~394 words
+  [CHUNK 13/26] ~337 words
+  [CHUNK 14/26] ~319 words
+  [CHUNK 15/26] ~383 words
+  [CHUNK 16/26] ~396 words
+  [CHUNK 17/26] ~400 words
+  [CHUNK 18/26] ~336 words
+  [CHUNK 19/26] ~362 words
+  [CHUNK 20/26] ~398 words
+  [CHUNK 21/26] ~395 words
+  [CHUNK 22/26] ~396 words
+  [CHUNK 23/26] ~350 words
+  [CHUNK 24/26] ~391 words
+  [CHUNK 25/26] ~377 words
+  [CHUNK 26/26] ~339 words
+[WARN] Skipping invalid entity 'Warmth': ["Invalid type: 'environmental'"]
+[WARN] Skipping invalid entity 'Singer': ["Invalid type: 'character|species'"]
+[133/139] Processing raw/chapters/book_26_the_seam_long_dark_south_134_phase_drift.txt
+  [CHUNK] 27 chunk(s) for raw/chapters/book_26_the_seam_long_dark_south_134_phase_drift.txt
+  [CHUNK 1/27] ~366 words
+  [CHUNK 2/27] ~397 words
+  [CHUNK 3/27] ~368 words
+  [CHUNK 4/27] ~315 words
+  [CHUNK 5/27] ~382 words
+  [CHUNK 6/27] ~338 words
+  [CHUNK 7/27] ~399 words
+  [CHUNK 8/27] ~330 words
+  [CHUNK 9/27] ~341 words
+  [CHUNK 10/27] ~347 words
+  [CHUNK 11/27] ~383 words
+  [CHUNK 12/27] ~288 words
+  [CHUNK 13/27] ~366 words
+  [CHUNK 14/27] ~355 words
+  [CHUNK 15/27] ~393 words
+  [CHUNK 16/27] ~342 words
+  [CHUNK 17/27] ~324 words
+  [CHUNK 18/27] ~392 words
+  [CHUNK 19/27] ~331 words
+  [CHUNK 20/27] ~340 words
+  [CHUNK 21/27] ~358 words
+  [CHUNK 22/27] ~301 words
+  [CHUNK 23/27] ~296 words
+  [CHUNK 24/27] ~324 words
+  [CHUNK 25/27] ~349 words
+  [CHUNK 26/27] ~352 words
+  [CHUNK 27/27] ~194 words
+[WARN] Skipping invalid entity 'Zeph': ["Invalid type: 'artifact|fragment'"]
+[WARN] Skipping invalid entity 'Pre-echoes': ["Invalid type: 'event|term'"]
+[WARN] Skipping invalid entity 'yrr': ["Invalid type: 'artifact|system'"]
+[WARN] Skipping invalid entity 'Interference pattern': ["Invalid type: 'artifact|system'"]
+[WARN] Skipping invalid entity 'Bridge': ["Invalid type: 'artifact|system'"]
+[WARN] Skipping invalid entity 'Crimson Citadel Orbital Station': ["Invalid type: 'location|system'"]
+[134/139] Processing raw/chapters/book_27_the_seam_deadly_words_south_1139_1139.txt
+  [CHUNK] 20 chunk(s) for raw/chapters/book_27_the_seam_deadly_words_south_1139_1139.txt
+  [CHUNK 1/20] ~393 words
+  [CHUNK 2/20] ~343 words
+  [CHUNK 3/20] ~375 words
+  [CHUNK 4/20] ~385 words
+  [CHUNK 5/20] ~399 words
+  [CHUNK 6/20] ~399 words
+  [CHUNK 7/20] ~382 words
+  [CHUNK 8/20] ~393 words
+  [CHUNK 9/20] ~400 words
+  [CHUNK 10/20] ~396 words
+  [CHUNK 11/20] ~378 words
+  [CHUNK 12/20] ~392 words
+  [CHUNK 13/20] ~380 words
+  [CHUNK 14/20] ~381 words
+  [CHUNK 15/20] ~388 words
+  [CHUNK 16/20] ~369 words
+  [CHUNK 17/20] ~397 words
+  [CHUNK 18/20] ~365 words
+  [CHUNK 19/20] ~397 words
+  [CHUNK 20/20] ~275 words
+[135/139] Processing raw/chapters/book_27_the_seam_deadly_words_south_135_final_constraint.txt
+  [CHUNK] 18 chunk(s) for raw/chapters/book_27_the_seam_deadly_words_south_135_final_constraint.txt
+  [CHUNK 1/18] ~387 words
+  [CHUNK 2/18] ~339 words
+  [CHUNK 3/18] ~299 words
+  [CHUNK 4/18] ~304 words
+  [CHUNK 5/18] ~395 words
+  [CHUNK 6/18] ~325 words
+  [CHUNK 7/18] ~345 words
+  [CHUNK 8/18] ~344 words
+  [CHUNK 9/18] ~371 words
+  [CHUNK 10/18] ~382 words
+  [CHUNK 11/18] ~388 words
+  [CHUNK 12/18] ~382 words
+  [CHUNK 13/18] ~303 words
+  [CHUNK 14/18] ~370 words
+  [CHUNK 15/18] ~389 words
+  [CHUNK 16/18] ~360 words
+  [CHUNK 17/18] ~316 words
+  [CHUNK 18/18] ~279 words
+[WARN] Skipping invalid entity 'yrr': ["Invalid type: 'artifact|system'"]
+[136/139] Processing raw/chapters/book_27_the_seam_deadly_words_south_136_completion_defered.txt
+  [CHUNK] 18 chunk(s) for raw/chapters/book_27_the_seam_deadly_words_south_136_completion_defered.txt
+  [CHUNK 1/18] ~376 words
+  [CHUNK 2/18] ~396 words
+  [CHUNK 3/18] ~309 words
+  [CHUNK 4/18] ~350 words
+  [CHUNK 5/18] ~317 words
+  [CHUNK 6/18] ~241 words
+  [CHUNK 7/18] ~364 words
+  [CHUNK 8/18] ~346 words
+  [CHUNK 9/18] ~294 words
+  [CHUNK 10/18] ~349 words
+  [CHUNK 11/18] ~393 words
+  [CHUNK 12/18] ~392 words
+  [CHUNK 13/18] ~375 words
+  [CHUNK 14/18] ~394 words
+  [CHUNK 15/18] ~399 words
+  [CHUNK 16/18] ~378 words
+  [CHUNK 17/18] ~380 words
+  [CHUNK 18/18] ~124 words
+[WARN] Skipping invalid entity 'Center': ["Invalid type: 'location|system'"]
+[WARN] Skipping invalid entity 'Warmth': ["Invalid type: 'artifact|system'"]
+[137/139] Processing raw/chapters/book_27_the_seam_deadly_words_south_137_shared_ground.txt
+  [CHUNK] 18 chunk(s) for raw/chapters/book_27_the_seam_deadly_words_south_137_shared_ground.txt
+  [CHUNK 1/18] ~398 words
+  [CHUNK 2/18] ~398 words
+  [CHUNK 3/18] ~389 words
+  [CHUNK 4/18] ~397 words
+  [CHUNK 5/18] ~396 words
+  [CHUNK 6/18] ~399 words
+  [CHUNK 7/18] ~397 words
+  [CHUNK 8/18] ~390 words
+  [CHUNK 9/18] ~390 words
+  [CHUNK 10/18] ~399 words
+  [CHUNK 11/18] ~400 words
+  [CHUNK 12/18] ~400 words
+  [CHUNK 13/18] ~394 words
+  [CHUNK 14/18] ~399 words
+  [CHUNK 15/18] ~393 words
+  [CHUNK 16/18] ~400 words
+  [CHUNK 17/18] ~399 words
+  [CHUNK 18/18] ~7 words
+[WARN] Skipping invalid entity 'Gap': ["Invalid type: 'artifact|system'"]
+[WARN] Skipping invalid entity 'main line': ["Invalid type: 'path'"]
+[WARN] Skipping invalid entity 'curve': ["Invalid type: 'path'"]
+[138/139] Processing raw/chapters/book_27_the_seam_deadly_words_south_138_quiet_lean.txt
+  [CHUNK] 16 chunk(s) for raw/chapters/book_27_the_seam_deadly_words_south_138_quiet_lean.txt
+  [CHUNK 1/16] ~391 words
+  [CHUNK 2/16] ~377 words
+  [CHUNK 3/16] ~400 words
+  [CHUNK 4/16] ~397 words
+  [CHUNK 5/16] ~387 words
+  [CHUNK 6/16] ~398 words
+  [CHUNK 7/16] ~397 words
+  [CHUNK 8/16] ~399 words
+  [CHUNK 9/16] ~386 words
+  [CHUNK 10/16] ~384 words
+  [CHUNK 11/16] ~394 words
+  [CHUNK 12/16] ~390 words
+  [CHUNK 13/16] ~400 words
+  [CHUNK 14/16] ~397 words
+  [CHUNK 15/16] ~379 words
+  [CHUNK 16/16] ~275 words
+[WARN] Skipping invalid entity 'Thread 78': ["Invalid type: 'artifact|system'"]
+[139/139] Processing raw/chapters/book_27_the_seam_deadly_words_south_139_final_calculations.txt
+  [CHUNK] 20 chunk(s) for raw/chapters/book_27_the_seam_deadly_words_south_139_final_calculations.txt
+  [CHUNK 1/20] ~393 words
+  [CHUNK 2/20] ~343 words
+  [CHUNK 3/20] ~375 words
+  [CHUNK 4/20] ~385 words
+  [CHUNK 5/20] ~399 words
+  [CHUNK 6/20] ~399 words
+  [CHUNK 7/20] ~382 words
+  [CHUNK 8/20] ~393 words
+  [CHUNK 9/20] ~400 words
+  [CHUNK 10/20] ~396 words
+  [CHUNK 11/20] ~378 words
+  [CHUNK 12/20] ~392 words
+  [CHUNK 13/20] ~380 words
+  [CHUNK 14/20] ~381 words
+  [CHUNK 15/20] ~388 words
+  [CHUNK 16/20] ~369 words
+  [CHUNK 17/20] ~397 words
+  [CHUNK 18/20] ~365 words
+  [CHUNK 19/20] ~397 words
+[WARN] Attempt 1: JSON parse failed: Expecting property name enclosed in double quotes: line 25 column 6 (char 821)
+[RETRY] Waiting 1s before next attempt...
+  [CHUNK 20/20] ~275 words
+
+[RESULTS] Extracted 1693 entities. Wrote 1693 new stubs.
+[VALIDATION] Running build_registry.py...
+[VALIDATION] Registry rebuild complete.
+[VALIDATION] Running stb_lint.py --dir stb/...
+[STB LINT REPORT]
+[INFO] Total records scanned: 6475
+[OK] records_passed: 5970 | [WARN] duplicates: 505 | [FAIL] schema_violations: 0
+[INFO] Entities with UNKNOWN type: 0
+
+[WARN] 505 duplicate records detected. Deduplication key: (source_file, line_start, raw_quote, signal_type).
+
+[RESULT] Lint CLEAN. EXIT 0
+
+[DONE] Ingestion complete. EXIT 0
