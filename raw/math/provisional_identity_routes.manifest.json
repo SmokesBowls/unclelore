@@ -1,0 +1,48 @@
+{
+  "tool": "provisional_identity_router/0.1.0",
+  "timestamp": "2026-05-18T04:17:52Z",
+  "input_stats": "raw/math/identity_signal_stats.jsonl",
+  "input_stats_hash": "28634077670c86d5ebde34cbbb25b3b1d18e5ae5c47fbacec587a04450ad2c59",
+  "threshold_config_source": "embedded_defaults",
+  "threshold_config_hash": "cd81146cde99bf050369d062492876c18e12501d9ddbd2e1648cf50dd5acfa46",
+  "thresholds": {
+    "bounded_actor_candidate": {
+      "speech_ratio_min": 0.05,
+      "action_ratio_min": 0.05,
+      "monologue_viability_score_min": 0.01
+    },
+    "identity_braid_candidate": {
+      "speech_or_action_ratio_min": 0.05,
+      "chapter_count_min": 10,
+      "collective_fragmentation_score_min": 0.75
+    },
+    "collective_or_species_candidate": {
+      "speech_ratio_eq": 0.0,
+      "action_ratio_max": 0.05,
+      "chapter_count_min": 5,
+      "collective_fragmentation_score_min": 0.5
+    },
+    "concept_field_candidate": {
+      "speech_ratio_eq": 0.0,
+      "action_ratio_eq": 0.0,
+      "conceptual_drift_score_min": 0.8
+    },
+    "sparse_reference_candidate": {
+      "chapter_count_max": 2,
+      "total_mentions_max": 20
+    },
+    "noise_or_header_candidate": {
+      "total_mentions_max": 3
+    }
+  },
+  "total_records": 7984,
+  "bucket_counts": {
+    "noise_or_header_candidate": 6158,
+    "concept_field_candidate": 1136,
+    "bounded_actor_candidate": 68,
+    "collective_or_species_candidate": 144,
+    "identity_braid_candidate": 45,
+    "sparse_reference_candidate": 129,
+    "ambiguous_review_candidate": 304
+  }
+}
