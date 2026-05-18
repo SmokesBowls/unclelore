@@ -79,3 +79,45 @@
 {"surface_form": "Xerion", "primary_route": "bounded_actor_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-18T13:57:52Z", "audit_only": true, "provisional": true}
 {"surface_form": "Yarrow", "primary_route": "bounded_actor_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-18T13:57:56Z", "audit_only": true, "provisional": true}
 {"surface_form": "Zephyr", "primary_route": "bounded_actor_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-18T13:57:57Z", "audit_only": true, "provisional": true}
+{"surface_form": "Aeon Keeper", "primary_route": "identity_braid_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-18T14:00:21Z", "audit_only": true, "provisional": true}
+{"surface_form": "Applicator", "primary_route": "identity_braid_candidate", "decision": "merge_review", "reviewer_notes": "", "timestamp": "2026-05-18T14:01:21Z", "audit_only": true, "provisional": true}
+{"surface_form": "Energy", "primary_route": "identity_braid_candidate", "decision": "rejected", "reviewer_notes": "", "timestamp": "2026-05-18T14:01:33Z", "audit_only": true, "provisional": true}
+{"surface_form": "Enlil's", "primary_route": "identity_braid_candidate", "decision": "merge_review", "reviewer_notes": "", "timestamp": "2026-05-18T14:03:11Z", "audit_only": true, "provisional": true}
+{"surface_form": "Enough", "primary_route": "identity_braid_candidate", "decision": "rejected", "reviewer_notes": "", "timestamp": "2026-05-18T14:03:16Z", "audit_only": true, "provisional": true}
+{"surface_form": "Eyes", "primary_route": "identity_braid_candidate", "decision": "rejected", "reviewer_notes": "", "timestamp": "2026-05-18T14:03:21Z", "audit_only": true, "provisional": true}
+{"surface_form": "Gravity", "primary_route": "identity_braid_candidate", "decision": "rejected", "reviewer_notes": "", "timestamp": "2026-05-18T14:03:22Z", "audit_only": true, "provisional": true}
+{"surface_form": "Heart", "primary_route": "identity_braid_candidate", "decision": "rejected", "reviewer_notes": "", "timestamp": "2026-05-18T14:03:23Z", "audit_only": true, "provisional": true}
+{"surface_form": "Heavy", "primary_route": "identity_braid_candidate", "decision": "rejected", "reviewer_notes": "", "timestamp": "2026-05-18T14:03:24Z", "audit_only": true, "provisional": true}
+{"surface_form": "Igigi", "primary_route": "identity_braid_candidate", "decision": "rejected", "reviewer_notes": "", "timestamp": "2026-05-18T14:04:07Z", "audit_only": true, "provisional": true}
+{"surface_form": "Inside", "primary_route": "identity_braid_candidate", "decision": "rejected", "reviewer_notes": "", "timestamp": "2026-05-18T14:04:09Z", "audit_only": true, "provisional": true}
+{"surface_form": "Isla's", "primary_route": "identity_braid_candidate", "decision": "merge_review", "reviewer_notes": "", "timestamp": "2026-05-18T14:04:11Z", "audit_only": true, "provisional": true}
+{"surface_form": "Keth", "primary_route": "identity_braid_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-18T14:04:15Z", "audit_only": true, "provisional": true}
+{"surface_form": "Last", "primary_route": "identity_braid_candidate", "decision": "rejected", "reviewer_notes": "", "timestamp": "2026-05-18T14:04:18Z", "audit_only": true, "provisional": true}
+{"surface_form": "Luminaire", "primary_route": "identity_braid_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-18T14:04:22Z", "audit_only": true, "provisional": true}
+{"surface_form": "Lyra's", "primary_route": "identity_braid_candidate", "decision": "merge_review", "reviewer_notes": "", "timestamp": "2026-05-18T14:04:24Z", "audit_only": true, "provisional": true}
+{"surface_form": "Massive", "primary_route": "identity_braid_candidate", "decision": "rejected", "reviewer_notes": "", "timestamp": "2026-05-18T14:04:26Z", "audit_only": true, "provisional": true}
+{"surface_form": "Movement", "primary_route": "identity_braid_candidate", "decision": "rejected", "reviewer_notes": "", "timestamp": "2026-05-18T14:04:28Z", "audit_only": true, "provisional": true}
+{"surface_form": "None", "primary_route": "identity_braid_candidate", "decision": "rejected", "reviewer_notes": "", "timestamp": "2026-05-18T14:04:28Z", "audit_only": true, "provisional": true}
+{"surface_form": "One", "primary_route": "identity_braid_candidate", "decision": "rejected", "reviewer_notes": "", "timestamp": "2026-05-18T14:04:32Z", "audit_only": true, "provisional": true}
+{"surface_form": "Oreck's", "primary_route": "identity_braid_candidate", "decision": "merge_review", "reviewer_notes": "", "timestamp": "2026-05-18T14:04:34Z", "audit_only": true, "provisional": true}
+{"surface_form": "Others", "primary_route": "identity_braid_candidate", "decision": "rejected", "reviewer_notes": "", "timestamp": "2026-05-18T14:04:37Z", "audit_only": true, "provisional": true}
+{"surface_form": "Pazuzu", "primary_route": "identity_braid_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-18T14:04:51Z", "audit_only": true, "provisional": true}
+{"surface_form": "Queen", "primary_route": "identity_braid_candidate", "decision": "merge_review", "reviewer_notes": "", "timestamp": "2026-05-18T14:04:55Z", "audit_only": true, "provisional": true}
+{"surface_form": "Reptilian", "primary_route": "identity_braid_candidate", "decision": "rejected", "reviewer_notes": "", "timestamp": "2026-05-18T14:06:00Z", "audit_only": true, "provisional": true}
+{"surface_form": "Rongtai's", "primary_route": "identity_braid_candidate", "decision": "merge_review", "reviewer_notes": "", "timestamp": "2026-05-18T14:06:04Z", "audit_only": true, "provisional": true}
+{"surface_form": "Scattered", "primary_route": "identity_braid_candidate", "decision": "rejected", "reviewer_notes": "", "timestamp": "2026-05-18T14:06:06Z", "audit_only": true, "provisional": true}
+{"surface_form": "Sera's", "primary_route": "identity_braid_candidate", "decision": "merge_review", "reviewer_notes": "", "timestamp": "2026-05-18T14:06:07Z", "audit_only": true, "provisional": true}
+{"surface_form": "Several", "primary_route": "identity_braid_candidate", "decision": "rejected", "reviewer_notes": "", "timestamp": "2026-05-18T14:06:08Z", "audit_only": true, "provisional": true}
+{"surface_form": "Silence", "primary_route": "identity_braid_candidate", "decision": "rejected", "reviewer_notes": "", "timestamp": "2026-05-18T14:06:09Z", "audit_only": true, "provisional": true}
+{"surface_form": "The Giant", "primary_route": "identity_braid_candidate", "decision": "rejected", "reviewer_notes": "", "timestamp": "2026-05-18T14:06:15Z", "audit_only": true, "provisional": true}
+{"surface_form": "The Needle", "primary_route": "identity_braid_candidate", "decision": "rejected", "reviewer_notes": "", "timestamp": "2026-05-18T14:06:17Z", "audit_only": true, "provisional": true}
+{"surface_form": "The Queen", "primary_route": "identity_braid_candidate", "decision": "merge_review", "reviewer_notes": "", "timestamp": "2026-05-18T14:06:19Z", "audit_only": true, "provisional": true}
+{"surface_form": "The Queen's", "primary_route": "identity_braid_candidate", "decision": "merge_review", "reviewer_notes": "", "timestamp": "2026-05-18T14:06:20Z", "audit_only": true, "provisional": true}
+{"surface_form": "They've", "primary_route": "identity_braid_candidate", "decision": "rejected", "reviewer_notes": "", "timestamp": "2026-05-18T14:06:22Z", "audit_only": true, "provisional": true}
+{"surface_form": "Torhh", "primary_route": "identity_braid_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-18T14:06:24Z", "audit_only": true, "provisional": true}
+{"surface_form": "Tran's", "primary_route": "identity_braid_candidate", "decision": "merge_review", "reviewer_notes": "", "timestamp": "2026-05-18T14:06:25Z", "audit_only": true, "provisional": true}
+{"surface_form": "Understanding", "primary_route": "identity_braid_candidate", "decision": "rejected", "reviewer_notes": "", "timestamp": "2026-05-18T14:06:27Z", "audit_only": true, "provisional": true}
+{"surface_form": "Watch", "primary_route": "identity_braid_candidate", "decision": "rejected", "reviewer_notes": "", "timestamp": "2026-05-18T14:06:29Z", "audit_only": true, "provisional": true}
+{"surface_form": "What I", "primary_route": "identity_braid_candidate", "decision": "rejected", "reviewer_notes": "", "timestamp": "2026-05-18T14:06:30Z", "audit_only": true, "provisional": true}
+{"surface_form": "When I", "primary_route": "identity_braid_candidate", "decision": "rejected", "reviewer_notes": "", "timestamp": "2026-05-18T14:06:31Z", "audit_only": true, "provisional": true}
+{"surface_form": "Zaron", "primary_route": "identity_braid_candidate", "decision": "merge_review", "reviewer_notes": "", "timestamp": "2026-05-18T14:06:33Z", "audit_only": true, "provisional": true}
