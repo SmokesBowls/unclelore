@@ -87,6 +87,14 @@ STOP_WORD_SET = frozenset({
     'however', 'let', 'like', 'made', 'many', 'near', 'never',
     'new', 'next', 'off', 'once', 'own', 're', 'same',
     'whether', 'within', 'without', 'till', 'too',
+    # Fix 4B: prepositions/conjunctions now stripped upstream; kept for single-word safety
+    'among', 'behind', 'beside', 'beyond', 'close',
+    # Fix 4B: contractions and fragment forms (straight apostrophes; curly normalized at lookup)
+    "ain't", "isn't", "aren't", "wasn't", "weren't",
+    "i'm", "you're", "he's", "she's", "it's", "we're", "they're", "let's",
+    "don't", "doesn't", "didn't", "haven't", "hasn't", "hadn't",
+    "wouldn't", "couldn't", "shouldn't",
+    "might've", "could've", "should've", "would've",
 })
 
 # Fix 1: All-caps single-word tokens are filtered unless in this whitelist.
@@ -97,10 +105,30 @@ CANON_ACRONYM_WHITELIST = frozenset({
 # Match single-word all-caps tokens (no spaces, 2+ uppercase letters).
 _ALL_CAPS_ONLY_RE = re.compile(r'^[A-Z]{2,}$')
 
+# Fix 4B: Leading conjunction/preposition prefix strip.
+# Applied to multi-word tokens before stop-word evaluation.
+_CONJUNCTION_PREFIX_RE = re.compile(
+    r'^(?:and|but|or|yet|so|for|nor|however|nevertheless|meanwhile|therefore|'
+    r'among|behind|beside|beyond|close|across|along|almost|alone)\s+',
+    re.IGNORECASE,
+)
+
+# Fix 4B: Trailing punctuation strip and internal whitespace collapse.
+_TRAILING_PUNCT_RE = re.compile(r'[.,;:!?)"\']+$')
+_MULTI_SPACE_RE = re.compile(r'  +')
+
+# Fix 4B: Normalize curly/smart apostrophes before stop-word lookup.
+_CURLY_APOS_RE = re.compile(r"[''`ʼ]")
+
+
+def _sw_key(word: str) -> str:
+    """Lowercase + normalize curly apostrophes for stop-word lookup."""
+    return _CURLY_APOS_RE.sub("'", word).lower()
+
 
 def extract_tokens(
     line: str,
-    drop_log: "list[tuple[str, str]] | None" = None,
+    drop_log: "list[tuple[str, str | None, str]] | None" = None,
 ) -> list[tuple[str, int, int]]:
     """
     Return (surface_form, char_start, char_end) tuples for all
@@ -110,31 +138,89 @@ def extract_tokens(
     extracted if they fall outside a matched phrase and are not stop words
     or unwhitelisted all-caps tokens.
 
-    drop_log: if provided, (surface_form, reason) pairs are appended for
-    every token discarded by Fix 1 filters.
+    Normalization pipeline (Fix 4B), applied per token:
+      1. Fix 3 — trailing punctuation stripped; internal whitespace collapsed.
+      2. Fix 1 — leading conjunction/preposition prefix stripped.
+      3. Fix 2 / existing — stop-word and all-caps checks (expanded set).
+
+    drop_log: if provided, 3-tuples (original_form, normalized_form, reason)
+    are appended for every token discarded or normalized.
+    normalized_form is None for pure drops; the stripped form for Fix 1 hits.
     """
     tokens: list[tuple[str, int, int]] = []
     covered: set[int] = set()
 
-    # Multi-word phrases first.
+    # ── Multi-word phrases first ──────────────────────────────────────────────
     for m in _MULTI_CAP_RE.finditer(line):
-        tokens.append((m.group(0), m.start(), m.end()))
-        covered.update(range(m.start(), m.end()))
+        sf = m.group(0)
+        char_start = m.start()
+        char_end = m.end()
+        # Always mark positions covered to block double-extraction in single-word pass.
+        covered.update(range(char_start, char_end))
 
-    # Single-word tokens not already inside a phrase.
+        # Fix 3: trailing punctuation strip + internal whitespace collapse.
+        sf_norm = _TRAILING_PUNCT_RE.sub('', sf)
+        sf_norm = _MULTI_SPACE_RE.sub(' ', sf_norm).strip()
+        if len(sf_norm) < 2:
+            if drop_log is not None:
+                drop_log.append((sf, None, "insufficient_length_after_trim"))
+            continue
+
+        # Fix 1: leading conjunction/preposition strip.
+        conj_m = _CONJUNCTION_PREFIX_RE.match(sf_norm)
+        if conj_m:
+            original = sf_norm
+            remainder = sf_norm[conj_m.end():].strip()
+            if len(remainder) < 2:
+                if drop_log is not None:
+                    drop_log.append((original, None, "conjunction_prefix_stripped"))
+                continue
+            if drop_log is not None:
+                drop_log.append((original, remainder, "conjunction_prefix_stripped"))
+            # Adjust char_start to where the remainder begins in the source line.
+            char_start = char_start + conj_m.end()
+            char_end = char_start + len(remainder)
+            sf_norm = remainder
+
+            # After stripping prefix, re-evaluate if result is now a single word.
+            if ' ' not in sf_norm:
+                if _sw_key(sf_norm) in STOP_WORD_SET:
+                    if drop_log is not None:
+                        drop_log.append((sf_norm, None, "stop_word"))
+                    continue
+                if _ALL_CAPS_ONLY_RE.match(sf_norm) and sf_norm not in CANON_ACRONYM_WHITELIST:
+                    if drop_log is not None:
+                        drop_log.append((sf_norm, None, "all_caps_unwhitelisted"))
+                    continue
+
+        tokens.append((sf_norm, char_start, char_end))
+
+    # ── Single-word tokens not already inside a phrase ────────────────────────
     for m in _SINGLE_CAP_RE.finditer(line):
         if any(i in covered for i in range(m.start(), m.end())):
             continue
         word = m.group(0)
-        if word.lower() in STOP_WORD_SET:
+
+        # Fix 3: trailing punctuation strip.
+        word_norm = _TRAILING_PUNCT_RE.sub('', word).strip()
+        if len(word_norm) < 2:
             if drop_log is not None:
-                drop_log.append((word, "stop_word"))
+                drop_log.append((word, None, "insufficient_length_after_trim"))
             continue
-        if _ALL_CAPS_ONLY_RE.match(word) and word not in CANON_ACRONYM_WHITELIST:
+
+        # Fix 2: stop-word check (expanded set; normalizes curly apostrophes).
+        if _sw_key(word_norm) in STOP_WORD_SET:
             if drop_log is not None:
-                drop_log.append((word, "all_caps_unwhitelisted"))
+                drop_log.append((word_norm, None, "stop_word"))
             continue
-        tokens.append((word, m.start(), m.end()))
+
+        # Fix 1: all-caps filter.
+        if _ALL_CAPS_ONLY_RE.match(word_norm) and word_norm not in CANON_ACRONYM_WHITELIST:
+            if drop_log is not None:
+                drop_log.append((word_norm, None, "all_caps_unwhitelisted"))
+            continue
+
+        tokens.append((word_norm, m.start(), m.end()))
 
     return sorted(tokens, key=lambda t: t[1])
 
@@ -257,14 +343,15 @@ def extract_chapter(
 
     artifacts: list[dict[str, Any]] = []
     chron = chronological_start
-    chapter_drops: list[tuple[str, int, str]] = []  # (surface_form, line_num, reason)
+    # (original_form, normalized_form_or_None, line_num, reason)
+    chapter_drops: list[tuple[str, str | None, int, str]] = []
 
     for line_num_0, raw_line in enumerate(lines):
         line_num = line_num_0 + 1  # 1-indexed
-        line_drop_log: list[tuple[str, str]] = []
+        line_drop_log: list[tuple[str, str | None, str]] = []
         tokens = extract_tokens(raw_line, drop_log=line_drop_log)
-        for sf, reason in line_drop_log:
-            chapter_drops.append((sf, line_num, reason))
+        for orig, norm, reason in line_drop_log:
+            chapter_drops.append((orig, norm, line_num, reason))
         if not tokens:
             continue
 
@@ -293,9 +380,12 @@ def extract_chapter(
             chron += 1
 
     if chapter_drops:
-        print(f"  [filter] dropped {len(chapter_drops)} token(s)")
-        for sf, lnum, reason in chapter_drops[:5]:
-            print(f"    L{lnum:>4}  {sf!r:25s}  ({reason})")
+        print(f"  [filter] dropped/normalized {len(chapter_drops)} token(s)")
+        for orig, norm, lnum, reason in chapter_drops[:5]:
+            if norm is not None:
+                print(f"    L{lnum:>4}  {orig!r:30s}  ({reason} → {norm!r})")
+            else:
+                print(f"    L{lnum:>4}  {orig!r:30s}  ({reason})")
         if len(chapter_drops) > 5:
             print(f"    ... and {len(chapter_drops) - 5} more")
 

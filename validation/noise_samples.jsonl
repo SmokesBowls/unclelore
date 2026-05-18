@@ -1,0 +1,10 @@
+{"surface_form": "And Geralt", "expected_action": "normalize", "expected_result": "Geralt", "reason": "conjunction_prefix_stripped"}
+{"surface_form": "But Vale", "expected_action": "normalize", "expected_result": "Vale", "reason": "conjunction_prefix_stripped"}
+{"surface_form": "But Sera", "expected_action": "normalize", "expected_result": "Sera", "reason": "conjunction_prefix_stripped"}
+{"surface_form": "Among", "expected_action": "drop", "reason": "stop_word"}
+{"surface_form": "Behind", "expected_action": "drop", "reason": "stop_word"}
+{"surface_form": "Beside", "expected_action": "drop", "reason": "stop_word"}
+{"surface_form": "Beyond", "expected_action": "drop", "reason": "stop_word"}
+{"surface_form": "Close", "expected_action": "drop", "reason": "stop_word"}
+{"surface_form": "Ain't", "expected_action": "drop", "reason": "stop_word"}
+{"surface_form": "And I'm", "expected_action": "drop", "reason": "conjunction_prefix_stripped_then_stop_word"}

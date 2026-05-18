@@ -1,0 +1,7 @@
+{"surface_form": "Geralt", "fix": "Fix3", "rationale": "bounded_actor; gains proximity_cooccurrence and avg_verb_distance", "pre_mentions": 1557, "pre_chapters": 37}
+{"surface_form": "Giant", "fix": "Fix2", "rationale": "singular canonical; absorbs Giants merge (128 + 217 = 345)", "pre_mentions": 128, "pre_chapters": 28}
+{"surface_form": "Giants", "fix": "Fix2", "rationale": "plural mapped to Giant; should vanish from primary keys or appear in raw_variants only", "pre_mentions": 217, "pre_chapters": 45}
+{"surface_form": "Keeper", "fix": "Fix2", "rationale": "singular canonical; absorbs Keepers merge (109 + 22 = 131)", "pre_mentions": 109, "pre_chapters": 29}
+{"surface_form": "Keepers", "fix": "Fix2", "rationale": "plural mapped to Keeper; should vanish from primary keys or appear in raw_variants only", "pre_mentions": 22, "pre_chapters": 10}
+{"surface_form": "Always", "fix": "Fix1", "rationale": "stop-word not in old _STOP_WORDS; should be filtered from future extractions", "pre_mentions": 46, "pre_chapters": 24}
+{"surface_form": "ACT", "fix": "Fix1", "rationale": "all-caps not in CANON_ACRONYM_WHITELIST; should be filtered from future extractions", "pre_mentions": 116, "pre_chapters": 12}
