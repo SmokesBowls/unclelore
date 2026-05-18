@@ -1,0 +1,4 @@
+[schema] read ENTITY_STATE_SCHEMA: 12539 chars
+[schema] read ENTITY_COMPILER_SCHEMA: 11801 chars
+[schema] read REGISTRY_SYMBOL_TABLE_SCHEMA: 12086 chars
+[skip] book_01_book_of_genesis_001_the_ethereal_vigil.md already processed

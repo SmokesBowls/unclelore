@@ -1,0 +1,9 @@
+[schema] read CHAPTER_LEDGER_SCHEMA: 7659 chars
+[chapter] book_01_book_of_genesis_001_the_ethereal_vigil.md chunks=3
+[cache-hit] book_01_book_of_genesis_001_the_ethereal_vigil.md chunk 1
+[job] book_01_book_of_genesis_001_the_ethereal_vigil.md chunk 1/3: ok
+[cache-hit] book_01_book_of_genesis_001_the_ethereal_vigil.md chunk 2
+[job] book_01_book_of_genesis_001_the_ethereal_vigil.md chunk 2/3: ok
+[cache-hit] book_01_book_of_genesis_001_the_ethereal_vigil.md chunk 3
+[job] book_01_book_of_genesis_001_the_ethereal_vigil.md chunk 3/3: ok
+[EXIT 2] book_01_book_of_genesis_001_the_ethereal_vigil.md: low-confidence entry: unresolved_term — Pelagor

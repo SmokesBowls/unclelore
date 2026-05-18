@@ -1,0 +1,52 @@
+[init] compiler_run_id=compile_entity_states_20260517_043150
+[init] chapters=139
+[init] mode=apply
+[init] registry symbols loaded=0
+[init] log=/home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/logs/compile_entity_states_20260517_043150.txt
+[skip] book_01_book_of_genesis_001_the_ethereal_vigil.md already processed
+[skip] book_01_book_of_genesis_002_molten_descent.md already processed
+[skip] book_01_book_of_genesis_003_first_contact.md already processed
+[skip] book_01_book_of_genesis_004_the_convergence.md already processed
+Traceback (most recent call last):
+  File "/home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/tools/compile_entity_states.py", line 914, in <module>
+    sys.exit(main())
+             ~~~~^^
+  File "/home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/tools/compile_entity_states.py", line 884, in main
+    written_or_previewed = process_chapter(
+        chapter_path=chapter_path,
+    ...<5 lines>...
+        log_path=log_path,
+    )
+  File "/home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/tools/compile_entity_states.py", line 786, in process_chapter
+    payload = ollama_json(prompt)
+  File "/home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/tools/compile_entity_states.py", line 323, in ollama_json
+    with urllib.request.urlopen(request, timeout=timeout_sec) as response:
+         ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/urllib/request.py", line 187, in urlopen
+    return opener.open(url, data, timeout)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/urllib/request.py", line 487, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.14/urllib/request.py", line 504, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+                              '_open', req)
+  File "/usr/lib/python3.14/urllib/request.py", line 464, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.14/urllib/request.py", line 1350, in http_open
+    return self.do_open(http.client.HTTPConnection, req)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/urllib/request.py", line 1325, in do_open
+    r = h.getresponse()
+  File "/usr/lib/python3.14/http/client.py", line 1450, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "/usr/lib/python3.14/http/client.py", line 336, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib/python3.14/http/client.py", line 297, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/socket.py", line 725, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+TimeoutError: timed out

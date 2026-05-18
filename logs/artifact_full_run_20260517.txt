@@ -1,0 +1,288 @@
+[init] run_id=batch_20260517_154505
+[init] chapters_found=139
+[init] mode=apply
+[init] schema=ARTIFACT_SCHEMA.md (3633 chars)
+[skip] book_01_book_of_genesis_001_the_ethereal_vigil.md (in batch_20260517_154123)
+[chapter] book_01_book_of_genesis_002_molten_descent.md  →  book_01_book_of_genesis_ch002
+  artifacts=218
+[chapter] book_01_book_of_genesis_003_first_contact.md  →  book_01_book_of_genesis_ch003
+  artifacts=212
+[chapter] book_01_book_of_genesis_004_the_convergence.md  →  book_01_book_of_genesis_ch004
+  artifacts=305
+[chapter] book_02_age_of_servitude_005_the_garden_blooms.md  →  book_02_age_of_servitude_ch005
+  artifacts=301
+[chapter] book_02_age_of_servitude_006_the_first_coming.md  →  book_02_age_of_servitude_ch006
+  artifacts=333
+[chapter] book_02_age_of_servitude_007_the_needle_construction.md  →  book_02_age_of_servitude_ch007
+  artifacts=274
+[chapter] book_02_age_of_servitude_008_queens_assessment.md  →  book_02_age_of_servitude_ch008
+  artifacts=217
+[chapter] book_03_the_reckoning_009_stalemate_departure_the_first_coming.md  →  book_03_the_reckoning_ch009
+  artifacts=320
+[chapter] book_03_the_reckoning_010_shadow_returns_second_coming.md  →  book_03_the_reckoning_ch010
+  artifacts=176
+[chapter] book_03_the_reckoning_011_escalation_and_desperation.md  →  book_03_the_reckoning_ch011
+  artifacts=172
+[chapter] book_03_the_reckoning_012_nephilim_summoning.md  →  book_03_the_reckoning_ch012
+  artifacts=177
+[chapter] book_03_the_reckoning_014_convergence.md  →  book_03_the_reckoning_ch014
+  artifacts=154
+[chapter] book_03_the_reckoning_015_betrayal.md  →  book_03_the_reckoning_ch015
+  artifacts=194
+[chapter] book_04_sage_saga_016_the_choice_third_coming.md  →  book_04_sage_saga_ch016
+  artifacts=73
+[chapter] book_04_sage_saga_017_niburu_shadow.md  →  book_04_sage_saga_ch017
+  artifacts=136
+[chapter] book_04_sage_saga_018_the_wandering.md  →  book_04_sage_saga_ch018
+  artifacts=225
+[chapter] book_04_sage_saga_019_the_sacrafice.md  →  book_04_sage_saga_ch019
+  artifacts=125
+[chapter] book_04_sage_saga_020_the_collapse.md  →  book_04_sage_saga_ch020
+  artifacts=392
+[chapter] book_04_sage_saga_021_the_first_lesson.md  →  book_04_sage_saga_ch021
+  artifacts=318
+[chapter] book_04_sage_saga_022_final_calculation.md  →  book_04_sage_saga_ch022
+  artifacts=206
+[chapter] book_04_sage_saga_023_beyond_identity.md  →  book_04_sage_saga_ch023
+  artifacts=175
+[chapter] book_05_the_nameless_one_024_the_first_spark.md  →  book_05_the_nameless_one_ch024
+  artifacts=859
+[chapter] book_05_the_nameless_one_025_confined_freedom.md  →  book_05_the_nameless_one_ch025
+  artifacts=1123
+[chapter] book_05_the_nameless_one_026_dragonmail.md  →  book_05_the_nameless_one_ch026
+  artifacts=427
+[chapter] book_05_the_nameless_one_027_the_claiming.md  →  book_05_the_nameless_one_ch027
+  artifacts=753
+[chapter] book_05_the_nameless_one_028_ragnarok.md  →  book_05_the_nameless_one_ch028
+  artifacts=821
+[chapter] book_06_the_ragnarok_029_bounty_hunter.md  →  book_06_the_ragnarok_ch029
+  artifacts=448
+[chapter] book_06_the_ragnarok_030_ummade_army.md  →  book_06_the_ragnarok_ch030
+  artifacts=893
+[chapter] book_06_the_ragnarok_031_the_crash_site.md  →  book_06_the_ragnarok_ch031
+  artifacts=382
+[chapter] book_06_the_ragnarok_032_the_redo.md  →  book_06_the_ragnarok_ch032
+  artifacts=342
+[chapter] book_06_the_ragnarok_033_the_march.md  →  book_06_the_ragnarok_ch033
+  artifacts=450
+[chapter] book_06_the_ragnarok_034_the_250.md  →  book_06_the_ragnarok_ch034
+  artifacts=504
+[chapter] book_06_the_ragnarok_035_sands_of_time.md  →  book_06_the_ragnarok_ch035
+  artifacts=712
+[chapter] book_06_the_ragnarok_036_highland_giants.md  →  book_06_the_ragnarok_ch036
+  artifacts=757
+[chapter] book_07_light_resonance_and_the_function_037_the_circle_of_progress.md  →  book_07_light_resonance_and_the_function_ch037
+  artifacts=622
+[chapter] book_07_light_resonance_and_the_function_038_luminaire_keeper.md  →  book_07_light_resonance_and_the_function_ch038
+  artifacts=875
+[chapter] book_07_light_resonance_and_the_function_039_jungle_fever.md  →  book_07_light_resonance_and_the_function_ch039
+  artifacts=675
+[chapter] book_07_light_resonance_and_the_function_040_the_dragon_wars.md  →  book_07_light_resonance_and_the_function_ch040
+  artifacts=399
+[chapter] book_07_light_resonance_and_the_function_041_the_tripartite_bond.md  →  book_07_light_resonance_and_the_function_ch041
+  artifacts=1128
+[chapter] book_08_the_vigil_of_the_anchor_042_the_verdant_crossing.md  →  book_08_the_vigil_of_the_anchor_ch042
+  artifacts=339
+[chapter] book_08_the_vigil_of_the_anchor_043_the_badlands_crucible.md  →  book_08_the_vigil_of_the_anchor_ch043
+  artifacts=462
+[chapter] book_08_the_vigil_of_the_anchor_044_the_mountains_shadow.md  →  book_08_the_vigil_of_the_anchor_ch044
+  artifacts=304
+[chapter] book_08_the_vigil_of_the_anchor_045_the_hub_falls.md  →  book_08_the_vigil_of_the_anchor_ch045
+  artifacts=641
+[chapter] book_08_the_vigil_of_the_anchor_046_not_like_this.md  →  book_08_the_vigil_of_the_anchor_ch046
+  artifacts=383
+[chapter] book_08_the_vigil_of_the_anchor_047_mika.md  →  book_08_the_vigil_of_the_anchor_ch047
+  artifacts=231
+[chapter] book_09_bureaucratic_debt_048_the_ledger_born.md  →  book_09_bureaucratic_debt_ch048
+  artifacts=258
+[chapter] book_09_bureaucratic_debt_049_the_eastern_claim.md  →  book_09_bureaucratic_debt_ch049
+  artifacts=778
+[chapter] book_09_bureaucratic_debt_050_the_scout.md  →  book_09_bureaucratic_debt_ch050
+  artifacts=584
+[chapter] book_09_bureaucratic_debt_051_arrival_in_fire.md  →  book_09_bureaucratic_debt_ch051
+  artifacts=358
+[chapter] book_09_bureaucratic_debt_052_entry_without_standing.md  →  book_09_bureaucratic_debt_ch052
+  artifacts=402
+[chapter] book_09_bureaucratic_debt_053_the_twilight_city.md  →  book_09_bureaucratic_debt_ch053
+  artifacts=372
+[chapter] book_09_bureaucratic_debt_054_tue_lunar_spire.md  →  book_09_bureaucratic_debt_ch054
+  artifacts=221
+[chapter] book_09_bureaucratic_debt_055_the_anchors_forge.md  →  book_09_bureaucratic_debt_ch055
+  artifacts=282
+[chapter] book_10_infernal_vigil_056_erasures_edge.md  →  book_10_infernal_vigil_ch056
+  artifacts=381
+[chapter] book_10_infernal_vigil_057_enforced_enrollment.md  →  book_10_infernal_vigil_ch057
+  artifacts=364
+[chapter] book_10_infernal_vigil_058_paradox_engine.md  →  book_10_infernal_vigil_ch058
+  artifacts=593
+[chapter] book_10_infernal_vigil_059_eyes_of_eternity.md  →  book_10_infernal_vigil_ch059
+  artifacts=100
+[chapter] book_11_blood_and_legacy_060_echoes_of_the_cradle.md  →  book_11_blood_and_legacy_ch060
+  artifacts=253
+[chapter] book_11_blood_and_legacy_061_the_hier.md  →  book_11_blood_and_legacy_ch061
+  artifacts=185
+[chapter] book_11_blood_and_legacy_062_falcon_ridge_showdown.md  →  book_11_blood_and_legacy_ch062
+  artifacts=217
+[chapter] book_11_blood_and_legacy_063_the_iron_hand.md  →  book_11_blood_and_legacy_ch063
+  artifacts=295
+[chapter] book_11_blood_and_legacy_064_pass_through_shadow_and_flame.md  →  book_11_blood_and_legacy_ch064
+  artifacts=297
+[chapter] book_11_blood_and_legacy_065_secrets_of_the_deep.md  →  book_11_blood_and_legacy_ch065
+  artifacts=329
+[chapter] book_11_blood_and_legacy_066_the_first_tongue.md  →  book_11_blood_and_legacy_ch066
+  artifacts=314
+[chapter] book_12_forged_identity_067_the_shattered_mind.md  →  book_12_forged_identity_ch067
+  artifacts=121
+[chapter] book_12_forged_identity_068_brotherhood_revealed.md  →  book_12_forged_identity_ch068
+  artifacts=190
+[chapter] book_12_forged_identity_069_divergent_paths.md  →  book_12_forged_identity_ch069
+  artifacts=167
+[chapter] book_12_forged_identity_070_spheres_truth.md  →  book_12_forged_identity_ch070
+  artifacts=297
+[chapter] book_12_forged_identity_071_cosmic_teachers_arrive.md  →  book_12_forged_identity_ch071
+  artifacts=170
+[chapter] book_14_lessons_of_inheritance_072_flow_between_moments.md  →  book_14_lessons_of_inheritance_ch072
+  artifacts=188
+[chapter] book_14_lessons_of_inheritance_073_stone_and_root.md  →  book_14_lessons_of_inheritance_ch073
+  artifacts=146
+[chapter] book_14_lessons_of_inheritance_074_sunbound.md  →  book_14_lessons_of_inheritance_ch074
+  artifacts=249
+[chapter] book_14_lessons_of_inheritance_075_anchor_points_of_time.md  →  book_14_lessons_of_inheritance_ch075
+  artifacts=205
+[chapter] book_14_lessons_of_inheritance_076_lunar_inheritance.md  →  book_14_lessons_of_inheritance_ch076
+  artifacts=181
+[chapter] book_14_lessons_of_inheritance_077_introducing_the_sage.md  →  book_14_lessons_of_inheritance_ch077
+  artifacts=205
+[chapter] book_15_legends_and_gods_078_the_queens_return.md  →  book_15_legends_and_gods_ch078
+  artifacts=340
+[chapter] book_15_legends_and_gods_079_mages_awakening.md  →  book_15_legends_and_gods_ch079
+  artifacts=552
+[chapter] book_15_legends_and_gods_080_the_whispers_between_worlds.md  →  book_15_legends_and_gods_ch080
+  artifacts=354
+[chapter] book_15_legends_and_gods_081_mr_gpt_arrival.md  →  book_15_legends_and_gods_ch081
+  artifacts=314
+[chapter] book_15_legends_and_gods_082_pyroclasts_burning_secrets.md  →  book_15_legends_and_gods_ch082
+  artifacts=331
+[chapter] book_16_fragmented_beginning_083_echoes_beneath_the_waves.md  →  book_16_fragmented_beginning_ch083
+  artifacts=621
+[chapter] book_16_fragmented_beginning_084_earth_giants_and_diverging_paths.md  →  book_16_fragmented_beginning_ch084
+  artifacts=327
+[chapter] book_16_fragmented_beginning_085_ancient_knowledge.md  →  book_16_fragmented_beginning_ch085
+  artifacts=329
+[chapter] book_16_fragmented_beginning_086_sanctuary_to_storm.md  →  book_16_fragmented_beginning_ch086
+  artifacts=446
+[chapter] book_16_fragmented_beginning_087_the_breath_of_life.md  →  book_16_fragmented_beginning_ch087
+  artifacts=274
+[chapter] book_17_ancestral_debt_088_shadows_of_umbrageous_fixed.md  →  book_17_ancestral_debt_ch088
+  artifacts=240
+[chapter] book_17_ancestral_debt_089_the_white_mirror.md  →  book_17_ancestral_debt_ch089
+  artifacts=236
+[chapter] book_17_ancestral_debt_090_echoes_of_the_culling_corrected.md  →  book_17_ancestral_debt_ch090
+  artifacts=298
+[chapter] book_17_ancestral_debt_091_the_weight_of_memory.md  →  book_17_ancestral_debt_ch091
+  artifacts=279
+[chapter] book_17_ancestral_debt_092_departure_and_determination.md  →  book_17_ancestral_debt_ch092
+  artifacts=259
+[chapter] book_18_inquisition_of_yourself_093_voices_between_worlds.md  →  book_18_inquisition_of_yourself_ch093
+  artifacts=181
+[chapter] book_18_inquisition_of_yourself_094_chains_of_light.md  →  book_18_inquisition_of_yourself_ch094
+  artifacts=184
+[chapter] book_18_inquisition_of_yourself_095_roots_of_change.md  →  book_18_inquisition_of_yourself_ch095
+  artifacts=387
+[chapter] book_18_inquisition_of_yourself_096_violet_convergence.md  →  book_18_inquisition_of_yourself_ch096
+  artifacts=159
+[chapter] book_18_inquisition_of_yourself_097_hearts_of_ash_and_fire.md  →  book_18_inquisition_of_yourself_ch097
+  artifacts=292
+[chapter] book_19_worthy_opponents_north_098_depths_of_memory.md  →  book_19_worthy_opponents_north_ch098
+  artifacts=261
+[chapter] book_19_worthy_opponents_north_099_the_final_breath.md  →  book_19_worthy_opponents_north_ch099
+  artifacts=251
+[chapter] book_19_worthy_opponents_north_100_convergence_at_ironspire.md  →  book_19_worthy_opponents_north_ch100
+  artifacts=262
+[chapter] book_19_worthy_opponents_north_101_the_hidden_resonance.md  →  book_19_worthy_opponents_north_ch101
+  artifacts=244
+[chapter] book_19_worthy_opponents_north_102_convergence_on_mars.md  →  book_19_worthy_opponents_north_ch102
+  artifacts=672
+[chapter] book_20_the_discordant_pulse_south_103_the_second_song_resonance_of_a_broken_needle.md  →  book_20_the_discordant_pulse_south_ch103
+  artifacts=301
+[chapter] book_20_the_discordant_pulse_south_104_the_rising_tide.md  →  book_20_the_discordant_pulse_south_ch104
+  artifacts=459
+[chapter] book_20_the_discordant_pulse_south_105_garden_grove.md  →  book_20_the_discordant_pulse_south_ch105
+  artifacts=573
+[chapter] book_20_the_discordant_pulse_south_106_sky_fallen.txt  →  book_20_the_discordant_pulse_south_ch106
+  artifacts=626
+[chapter] book_21_needle_and_thread_south_107_the_waking.txt  →  book_21_needle_and_thread_south_ch107
+  artifacts=431
+[chapter] book_21_needle_and_thread_south_108_evolution_of_the_keeper.txt  →  book_21_needle_and_thread_south_ch108
+  artifacts=282
+[chapter] book_21_needle_and_thread_south_109_the_thread_and_cage.txt  →  book_21_needle_and_thread_south_ch109
+  artifacts=527
+[chapter] book_21_needle_and_thread_south_110_the_bleeding_convergance.txt  →  book_21_needle_and_thread_south_ch110
+  artifacts=598
+[chapter] book_21_needle_and_thread_south_111_the_resonance_a_garden_under_shadow.txt  →  book_21_needle_and_thread_south_ch111
+  artifacts=579
+[chapter] book_21_needle_and_thread_south_112_eastern_system.txt  →  book_21_needle_and_thread_south_ch112
+  artifacts=995
+[chapter] book_22_listening_stone_south_113_the_edge_of_return.txt  →  book_22_listening_stone_south_ch113
+  artifacts=258
+[chapter] book_22_listening_stone_south_114_resonance_of_stone.txt  →  book_22_listening_stone_south_ch114
+  artifacts=423
+[chapter] book_22_listening_stone_south_115_the_shape_of_asking.txt  →  book_22_listening_stone_south_ch115
+  artifacts=571
+[chapter] book_22_listening_stone_south_116_keepers_recognition.txt  →  book_22_listening_stone_south_ch116
+  artifacts=508
+[chapter] book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_117_the_constant_calibration_living_as_anchor.txt  →  book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_ch117
+  artifacts=441
+[chapter] book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_118_the_constant_and_friction_of_becoming.txt  →  book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_ch118
+  artifacts=393
+[chapter] book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_119_resonance_of_the_first_point.txt  →  book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_ch119
+  artifacts=586
+[chapter] book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_120_the_language_of_stone.txt  →  book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_ch120
+  artifacts=377
+[chapter] book_24_threshold_and_network_south_121_aligning_the_pattern_at_the_labyrinths_threshold.txt  →  book_24_threshold_and_network_south_ch121
+  artifacts=284
+[chapter] book_24_threshold_and_network_south_122_unravealing.txt  →  book_24_threshold_and_network_south_ch122
+  artifacts=416
+[chapter] book_24_threshold_and_network_south_123_the_conduit_geometry_of_difference.txt  →  book_24_threshold_and_network_south_ch123
+  artifacts=186
+[chapter] book_24_threshold_and_network_south_124_the_last_threshold_release_of_the_constant.txt  →  book_24_threshold_and_network_south_ch124
+  artifacts=294
+[chapter] book_25_the_seam_evolutionary_south_125_farwell.txt  →  book_25_the_seam_evolutionary_south_ch125
+  artifacts=314
+[chapter] book_25_the_seam_evolutionary_south_126_i_am_island.txt  →  book_25_the_seam_evolutionary_south_ch126
+  artifacts=301
+[chapter] book_25_the_seam_evolutionary_south_127_ember_stone.txt  →  book_25_the_seam_evolutionary_south_ch127
+  artifacts=144
+[chapter] book_25_the_seam_evolutionary_south_128_one_degree_above.txt  →  book_25_the_seam_evolutionary_south_ch128
+  artifacts=270
+[chapter] book_25_the_seam_evolutionary_south_129_calibration_drift.txt  →  book_25_the_seam_evolutionary_south_ch129
+  artifacts=207
+[chapter] book_25_the_seam_evolutionary_south_130_within_tolerance.txt  →  book_25_the_seam_evolutionary_south_ch130
+  artifacts=131
+[chapter] book_26_the_seam_long_dark_south_131_stable_contradiction.txt  →  book_26_the_seam_long_dark_south_ch131
+  artifacts=102
+[chapter] book_26_the_seam_long_dark_south_132_white_lightning.txt  →  book_26_the_seam_long_dark_south_ch132
+  artifacts=63
+[chapter] book_26_the_seam_long_dark_south_133_threshold.txt  →  book_26_the_seam_long_dark_south_ch133
+  artifacts=81
+[chapter] book_26_the_seam_long_dark_south_134_phase_drift.txt  →  book_26_the_seam_long_dark_south_ch134
+  artifacts=88
+[chapter] book_27_the_seam_deadly_words_south_1139_1139.txt  →  book_27_the_seam_deadly_words_south_1139_1139
+  artifacts=491
+[chapter] book_27_the_seam_deadly_words_south_135_final_constraint.txt  →  book_27_the_seam_deadly_words_south_ch135
+  artifacts=68
+[chapter] book_27_the_seam_deadly_words_south_136_completion_defered.txt  →  book_27_the_seam_deadly_words_south_ch136
+  artifacts=58
+[chapter] book_27_the_seam_deadly_words_south_137_shared_ground.txt  →  book_27_the_seam_deadly_words_south_ch137
+  artifacts=322
+[chapter] book_27_the_seam_deadly_words_south_138_quiet_lean.txt  →  book_27_the_seam_deadly_words_south_ch138
+  artifacts=799
+[chapter] book_27_the_seam_deadly_words_south_139_final_calculations.txt  →  book_27_the_seam_deadly_words_south_ch139
+  artifacts=491
+
+[complete]
+  total_artifacts=50066
+  chapters_skipped=1
+  batch=raw/artifacts/batch_20260517_154505.jsonl
+  index=raw/artifacts/processed.json
+[exit] EXIT 0

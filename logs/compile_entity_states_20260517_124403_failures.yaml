@@ -1,0 +1,82 @@
+schema: chunk_failure_report
+failures:
+  -
+    compiler_run_id: compile_entity_states_20260517_124403
+    chapter_id: 021_the_first_lesson
+    chapter_path: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_04_sage_saga_021_the_first_lesson.md
+    chunk_index: 3
+    chunk_total: 12
+    error: "timed out"
+    timestamp: 2026-05-17
+  -
+    compiler_run_id: compile_entity_states_20260517_124403
+    chapter_id: 021_the_first_lesson
+    chapter_path: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_04_sage_saga_021_the_first_lesson.md
+    chunk_index: 4
+    chunk_total: 12
+    error: "timed out"
+    timestamp: 2026-05-17
+  -
+    compiler_run_id: compile_entity_states_20260517_124403
+    chapter_id: 021_the_first_lesson
+    chapter_path: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_04_sage_saga_021_the_first_lesson.md
+    chunk_index: 5
+    chunk_total: 12
+    error: "timed out"
+    timestamp: 2026-05-17
+  -
+    compiler_run_id: compile_entity_states_20260517_124403
+    chapter_id: 021_the_first_lesson
+    chapter_path: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_04_sage_saga_021_the_first_lesson.md
+    chunk_index: 6
+    chunk_total: 12
+    error: "timed out"
+    timestamp: 2026-05-17
+  -
+    compiler_run_id: compile_entity_states_20260517_124403
+    chapter_id: 021_the_first_lesson
+    chapter_path: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_04_sage_saga_021_the_first_lesson.md
+    chunk_index: 7
+    chunk_total: 12
+    error: "timed out"
+    timestamp: 2026-05-17
+  -
+    compiler_run_id: compile_entity_states_20260517_124403
+    chapter_id: 021_the_first_lesson
+    chapter_path: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_04_sage_saga_021_the_first_lesson.md
+    chunk_index: 8
+    chunk_total: 12
+    error: "timed out"
+    timestamp: 2026-05-17
+  -
+    compiler_run_id: compile_entity_states_20260517_124403
+    chapter_id: 021_the_first_lesson
+    chapter_path: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_04_sage_saga_021_the_first_lesson.md
+    chunk_index: 9
+    chunk_total: 12
+    error: "timed out"
+    timestamp: 2026-05-17
+  -
+    compiler_run_id: compile_entity_states_20260517_124403
+    chapter_id: 021_the_first_lesson
+    chapter_path: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_04_sage_saga_021_the_first_lesson.md
+    chunk_index: 10
+    chunk_total: 12
+    error: "timed out"
+    timestamp: 2026-05-17
+  -
+    compiler_run_id: compile_entity_states_20260517_124403
+    chapter_id: 021_the_first_lesson
+    chapter_path: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_04_sage_saga_021_the_first_lesson.md
+    chunk_index: 11
+    chunk_total: 12
+    error: "timed out"
+    timestamp: 2026-05-17
+  -
+    compiler_run_id: compile_entity_states_20260517_124403
+    chapter_id: 021_the_first_lesson
+    chapter_path: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_04_sage_saga_021_the_first_lesson.md
+    chunk_index: 12
+    chunk_total: 12
+    error: "timed out"
+    timestamp: 2026-05-17

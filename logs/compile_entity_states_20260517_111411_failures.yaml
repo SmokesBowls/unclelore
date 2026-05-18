@@ -1,0 +1,146 @@
+schema: chunk_failure_report
+failures:
+  -
+    compiler_run_id: compile_entity_states_20260517_111411
+    chapter_id: 021_the_first_lesson
+    chapter_path: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_04_sage_saga_021_the_first_lesson.md
+    chunk_index: 3
+    chunk_total: 9
+    error: "timed out"
+    timestamp: 2026-05-17
+  -
+    compiler_run_id: compile_entity_states_20260517_111411
+    chapter_id: 021_the_first_lesson
+    chapter_path: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_04_sage_saga_021_the_first_lesson.md
+    chunk_index: 4
+    chunk_total: 9
+    error: "timed out"
+    timestamp: 2026-05-17
+  -
+    compiler_run_id: compile_entity_states_20260517_111411
+    chapter_id: 021_the_first_lesson
+    chapter_path: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_04_sage_saga_021_the_first_lesson.md
+    chunk_index: 5
+    chunk_total: 9
+    error: "timed out"
+    timestamp: 2026-05-17
+  -
+    compiler_run_id: compile_entity_states_20260517_111411
+    chapter_id: 021_the_first_lesson
+    chapter_path: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_04_sage_saga_021_the_first_lesson.md
+    chunk_index: 6
+    chunk_total: 9
+    error: "timed out"
+    timestamp: 2026-05-17
+  -
+    compiler_run_id: compile_entity_states_20260517_111411
+    chapter_id: 028_ragnarok
+    chapter_path: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+    chunk_index: 3
+    chunk_total: 9
+    error: "timed out"
+    timestamp: 2026-05-17
+  -
+    compiler_run_id: compile_entity_states_20260517_111411
+    chapter_id: 028_ragnarok
+    chapter_path: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+    chunk_index: 4
+    chunk_total: 9
+    error: "timed out"
+    timestamp: 2026-05-17
+  -
+    compiler_run_id: compile_entity_states_20260517_111411
+    chapter_id: 028_ragnarok
+    chapter_path: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+    chunk_index: 5
+    chunk_total: 9
+    error: "timed out"
+    timestamp: 2026-05-17
+  -
+    compiler_run_id: compile_entity_states_20260517_111411
+    chapter_id: 028_ragnarok
+    chapter_path: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+    chunk_index: 6
+    chunk_total: 9
+    error: "timed out"
+    timestamp: 2026-05-17
+  -
+    compiler_run_id: compile_entity_states_20260517_111411
+    chapter_id: 028_ragnarok
+    chapter_path: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+    chunk_index: 7
+    chunk_total: 9
+    error: "timed out"
+    timestamp: 2026-05-17
+  -
+    compiler_run_id: compile_entity_states_20260517_111411
+    chapter_id: 028_ragnarok
+    chapter_path: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+    chunk_index: 8
+    chunk_total: 9
+    error: "timed out"
+    timestamp: 2026-05-17
+  -
+    compiler_run_id: compile_entity_states_20260517_111411
+    chapter_id: 028_ragnarok
+    chapter_path: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+    chunk_index: 9
+    chunk_total: 9
+    error: "timed out"
+    timestamp: 2026-05-17
+  -
+    compiler_run_id: compile_entity_states_20260517_111411
+    chapter_id: 033_the_march
+    chapter_path: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_06_the_ragnarok_033_the_march.md
+    chunk_index: 1
+    chunk_total: 5
+    error: "timed out"
+    timestamp: 2026-05-17
+  -
+    compiler_run_id: compile_entity_states_20260517_111411
+    chapter_id: 033_the_march
+    chapter_path: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_06_the_ragnarok_033_the_march.md
+    chunk_index: 2
+    chunk_total: 5
+    error: "timed out"
+    timestamp: 2026-05-17
+  -
+    compiler_run_id: compile_entity_states_20260517_111411
+    chapter_id: 033_the_march
+    chapter_path: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_06_the_ragnarok_033_the_march.md
+    chunk_index: 3
+    chunk_total: 5
+    error: "timed out"
+    timestamp: 2026-05-17
+  -
+    compiler_run_id: compile_entity_states_20260517_111411
+    chapter_id: 097_hearts_of_ash_and_fire
+    chapter_path: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_18_inquisition_of_yourself_097_hearts_of_ash_and_fire.md
+    chunk_index: 3
+    chunk_total: 4
+    error: "timed out"
+    timestamp: 2026-05-17
+  -
+    compiler_run_id: compile_entity_states_20260517_111411
+    chapter_id: 100_convergence_at_ironspire
+    chapter_path: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_19_worthy_opponents_north_100_convergence_at_ironspire.md
+    chunk_index: 2
+    chunk_total: 3
+    error: "timed out"
+    timestamp: 2026-05-17
+  -
+    compiler_run_id: compile_entity_states_20260517_111411
+    chapter_id: 116_keepers_recognition
+    chapter_path: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_22_listening_stone_south_116_keepers_recognition.txt
+    chunk_index: 1
+    chunk_total: 6
+    error: "timed out"
+    timestamp: 2026-05-17
+  -
+    compiler_run_id: compile_entity_states_20260517_111411
+    chapter_id: 116_keepers_recognition
+    chapter_path: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_22_listening_stone_south_116_keepers_recognition.txt
+    chunk_index: 2
+    chunk_total: 6
+    error: "timed out"
+    timestamp: 2026-05-17

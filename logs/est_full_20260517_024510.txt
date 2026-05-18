@@ -1,0 +1,103 @@
+[init] compiler_run_id=compile_entity_states_20260517_024510
+[init] chapters=139
+[init] mode=apply
+[init] registry symbols loaded=0
+[init] log=/home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/logs/compile_entity_states_20260517_024510.txt
+
+=== book_01_book_of_genesis_001_the_ethereal_vigil.md ===
+Book: book_01_book_of_genesis_001_the_ethereal_vigil
+Chapter: 001_the_ethereal_vigil
+Entity states: 8
+- EST-000008 | character | Lyaris | captured | candidate:lyaris
+- EST-000009 | character | Theron | captured | candidate:theron
+- EST-000010 | character | Vaelith | captured | candidate:vaelith
+- EST-000011 | character | Mordain | captured | candidate:mordain
+- EST-000012 | character | Syreth | captured | candidate:syreth
+- EST-000013 | character | Korath | captured | candidate:korath
+- EST-000014 | group | Group | captured | candidate:group
+- EST-000015 | group | Nephoretti | captured | candidate:nephoretti
+[APPLY] Wrote 8 entity state record(s).
+
+=== book_01_book_of_genesis_002_molten_descent.md ===
+Book: book_01_book_of_genesis_002_molten_descent
+Chapter: 002_molten_descent
+Entity states: 6
+- EST-000016 | character | Senareth | captured | candidate:senareth
+- EST-000017 | character | Elyraen | captured | candidate:elyraen
+- EST-000018 | character | Vairis | captured | candidate:vairis
+- EST-000019 | character | Giants | captured | candidate:giants
+- EST-000020 | group | Nephoretti | captured | candidate:nephoretti
+- EST-000021 | species | Giants | captured | candidate:giants
+[APPLY] Wrote 6 entity state record(s).
+
+=== book_01_book_of_genesis_003_first_contact.md ===
+Book: book_01_book_of_genesis_003_first_contact
+Chapter: 003_first_contact
+Entity states: 9
+- EST-000022 | character | Senareth | captured | candidate:senareth
+- EST-000023 | character | Elyraen | captured | candidate:elyraen
+- EST-000024 | character | Vairis | captured | candidate:vairis
+- EST-000025 | character | Kyreth | captured | candidate:kyreth
+- EST-000026 | unknown | Burnt-Red Giant | captured | candidate:burnt_red_giant
+- EST-000027 | character | Torhh | captured | candidate:torhh
+- EST-000028 | character | Torhh (continued) | captured | candidate:torhh_continued
+- EST-000029 | group | Nephoretti | captured | candidate:nephoretti
+- EST-000030 | group | Giants | captured | candidate:giants
+[APPLY] Wrote 9 entity state record(s).
+
+=== book_01_book_of_genesis_004_the_convergence.md ===
+Book: book_01_book_of_genesis_004_the_convergence
+Chapter: 004_the_convergence
+Entity states: 8
+- EST-000031 | character | Senareth | captured | candidate:senareth
+- EST-000032 | character | Elyraen | captured | candidate:elyraen
+- EST-000033 | character | Torhh | captured | candidate:torhh
+- EST-000034 | character | Olythae | captured | candidate:olythae
+- EST-000035 | character | Giants (burnt-reds, charcoal-grey) | captured | candidate:giants_burnt_reds_charcoal_grey
+- EST-000036 | character | Vairis | captured | candidate:vairis
+- EST-000037 | character | Giants | captured | candidate:giants
+- EST-000038 | character | Pelagor | captured | candidate:pelagor
+[APPLY] Wrote 8 entity state record(s).
+Traceback (most recent call last):
+  File "/home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/tools/compile_entity_states.py", line 885, in <module>
+    sys.exit(main())
+             ~~~~^^
+  File "/home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/tools/compile_entity_states.py", line 856, in main
+    written_or_previewed = process_chapter(
+        chapter_path=chapter_path,
+    ...<5 lines>...
+        log_path=log_path,
+    )
+  File "/home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/tools/compile_entity_states.py", line 758, in process_chapter
+    payload = ollama_json(prompt)
+  File "/home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/tools/compile_entity_states.py", line 323, in ollama_json
+    with urllib.request.urlopen(request, timeout=timeout_sec) as response:
+         ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/urllib/request.py", line 187, in urlopen
+    return opener.open(url, data, timeout)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/urllib/request.py", line 487, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.14/urllib/request.py", line 504, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+                              '_open', req)
+  File "/usr/lib/python3.14/urllib/request.py", line 464, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.14/urllib/request.py", line 1350, in http_open
+    return self.do_open(http.client.HTTPConnection, req)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/urllib/request.py", line 1325, in do_open
+    r = h.getresponse()
+  File "/usr/lib/python3.14/http/client.py", line 1450, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "/usr/lib/python3.14/http/client.py", line 336, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib/python3.14/http/client.py", line 297, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/socket.py", line 725, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+TimeoutError: timed out

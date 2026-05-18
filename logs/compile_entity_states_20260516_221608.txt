@@ -1,0 +1,11 @@
+[schema] read ENTITY_STATE_SCHEMA: 12539 chars
+[schema] read ENTITY_COMPILER_SCHEMA: 11801 chars
+[schema] read REGISTRY_SYMBOL_TABLE_SCHEMA: 12086 chars
+[chapter] book_01_book_of_genesis_001_the_ethereal_vigil.md chunks=4
+[write] wiki/entity_states/book_01_book_of_genesis_001_the_ethereal_vigil/001_the_ethereal_vigil/lyaris.yaml
+[write] wiki/entity_states/book_01_book_of_genesis_001_the_ethereal_vigil/001_the_ethereal_vigil/theron.yaml
+[write] wiki/entity_states/book_01_book_of_genesis_001_the_ethereal_vigil/001_the_ethereal_vigil/vaelith.yaml
+[write] wiki/entity_states/book_01_book_of_genesis_001_the_ethereal_vigil/001_the_ethereal_vigil/mordain.yaml
+[write] wiki/entity_states/book_01_book_of_genesis_001_the_ethereal_vigil/001_the_ethereal_vigil/syreth.yaml
+[write] wiki/entity_states/book_01_book_of_genesis_001_the_ethereal_vigil/001_the_ethereal_vigil/korath.yaml
+[write] wiki/entity_states/book_01_book_of_genesis_001_the_ethereal_vigil/001_the_ethereal_vigil/unknown.yaml

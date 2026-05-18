@@ -1,0 +1,18 @@
+schema: chunk_failure_report
+failures:
+  -
+    extractor_run_id: chapter_ledger_20260517_135619
+    chapter_id: 021_the_first_lesson
+    chapter_path: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_04_sage_saga_021_the_first_lesson.md
+    chunk_index: 6
+    chunk_total: 12
+    error: "timed out"
+    timestamp: 2026-05-17
+  -
+    extractor_run_id: chapter_ledger_20260517_135619
+    chapter_id: 021_the_first_lesson
+    chapter_path: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_04_sage_saga_021_the_first_lesson.md
+    chunk_index: 8
+    chunk_total: 12
+    error: "timed out"
+    timestamp: 2026-05-17

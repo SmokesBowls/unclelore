@@ -1,0 +1,28 @@
+[schema] read ENTITY_STATE_SCHEMA: 12539 chars
+[schema] read ENTITY_COMPILER_SCHEMA: 11801 chars
+[schema] read REGISTRY_SYMBOL_TABLE_SCHEMA: 12086 chars
+[chapter] book_04_sage_saga_021_the_first_lesson.md chunks=12
+[cache-hit] book_04_sage_saga_021_the_first_lesson.md chunk 1
+[job] book_04_sage_saga_021_the_first_lesson.md chunk 1/12: ok
+[cache-hit] book_04_sage_saga_021_the_first_lesson.md chunk 2
+[job] book_04_sage_saga_021_the_first_lesson.md chunk 2/12: ok
+[job] book_04_sage_saga_021_the_first_lesson.md chunk 4/12: FAILED
+[job] book_04_sage_saga_021_the_first_lesson.md chunk 3/12: FAILED
+[job] book_04_sage_saga_021_the_first_lesson.md chunk 6/12: FAILED
+[job] book_04_sage_saga_021_the_first_lesson.md chunk 5/12: FAILED
+[job] book_04_sage_saga_021_the_first_lesson.md chunk 7/12: FAILED
+[job] book_04_sage_saga_021_the_first_lesson.md chunk 8/12: FAILED
+[job] book_04_sage_saga_021_the_first_lesson.md chunk 9/12: FAILED
+[job] book_04_sage_saga_021_the_first_lesson.md chunk 10/12: FAILED
+[job] book_04_sage_saga_021_the_first_lesson.md chunk 11/12: FAILED
+[job] book_04_sage_saga_021_the_first_lesson.md chunk 12/12: FAILED
+[failure] book_04_sage_saga_021_the_first_lesson.md chunk 3: timed out
+[failure] book_04_sage_saga_021_the_first_lesson.md chunk 4: timed out
+[failure] book_04_sage_saga_021_the_first_lesson.md chunk 5: timed out
+[failure] book_04_sage_saga_021_the_first_lesson.md chunk 6: timed out
+[failure] book_04_sage_saga_021_the_first_lesson.md chunk 7: timed out
+[failure] book_04_sage_saga_021_the_first_lesson.md chunk 8: timed out
+[failure] book_04_sage_saga_021_the_first_lesson.md chunk 9: timed out
+[failure] book_04_sage_saga_021_the_first_lesson.md chunk 10: timed out
+[failure] book_04_sage_saga_021_the_first_lesson.md chunk 11: timed out
+[failure] book_04_sage_saga_021_the_first_lesson.md chunk 12: timed out

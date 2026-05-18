@@ -1,0 +1,2 @@
+[EXIT 2] Missing required schema: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/schema/ENTITY_STATE_SCHEMA.md
+[EXIT 2] Missing required schema: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/schema/ENTITY_STATE_SCHEMA.md

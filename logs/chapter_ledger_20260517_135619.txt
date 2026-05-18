@@ -1,0 +1,15 @@
+[schema] read CHAPTER_LEDGER_SCHEMA: 7659 chars
+[chapter] book_04_sage_saga_021_the_first_lesson.md chunks=12
+[job] book_04_sage_saga_021_the_first_lesson.md chunk 2/12: ok
+[job] book_04_sage_saga_021_the_first_lesson.md chunk 1/12: ok
+[job] book_04_sage_saga_021_the_first_lesson.md chunk 3/12: ok
+[job] book_04_sage_saga_021_the_first_lesson.md chunk 4/12: ok
+[job] book_04_sage_saga_021_the_first_lesson.md chunk 5/12: ok
+[job] book_04_sage_saga_021_the_first_lesson.md chunk 6/12: FAILED
+[job] book_04_sage_saga_021_the_first_lesson.md chunk 7/12: ok
+[job] book_04_sage_saga_021_the_first_lesson.md chunk 8/12: FAILED
+[job] book_04_sage_saga_021_the_first_lesson.md chunk 9/12: ok
+[job] book_04_sage_saga_021_the_first_lesson.md chunk 10/12: ok
+[job] book_04_sage_saga_021_the_first_lesson.md chunk 11/12: ok
+[job] book_04_sage_saga_021_the_first_lesson.md chunk 12/12: ok
+[EXIT 1] book_04_sage_saga_021_the_first_lesson.md: 2 chunk(s) failed

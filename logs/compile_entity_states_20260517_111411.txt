@@ -1,0 +1,108 @@
+[init] compiler_run_id=compile_entity_states_20260517_111411
+[init] chapters=7
+[init] mode=apply
+[init] workers=2
+[init] registry symbols loaded=0
+[init] log=/home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/logs/compile_entity_states_20260517_111411.txt
+[init] pending_jobs=39
+[job] book_04_sage_saga_021_the_first_lesson.md chunk 1/9: ok
+[job] book_04_sage_saga_021_the_first_lesson.md chunk 2/9: ok
+[job] book_04_sage_saga_021_the_first_lesson.md chunk 3/9: FAILED
+[job] book_04_sage_saga_021_the_first_lesson.md chunk 4/9: FAILED
+[job] book_04_sage_saga_021_the_first_lesson.md chunk 5/9: FAILED
+[job] book_04_sage_saga_021_the_first_lesson.md chunk 6/9: FAILED
+[job] book_04_sage_saga_021_the_first_lesson.md chunk 7/9: ok
+[job] book_04_sage_saga_021_the_first_lesson.md chunk 8/9: ok
+[job] book_04_sage_saga_021_the_first_lesson.md chunk 9/9: ok
+[job] book_05_the_nameless_one_028_ragnarok.md chunk 1/9: ok
+[job] book_05_the_nameless_one_028_ragnarok.md chunk 2/9: ok
+[job] book_05_the_nameless_one_028_ragnarok.md chunk 3/9: FAILED
+[job] book_05_the_nameless_one_028_ragnarok.md chunk 4/9: FAILED
+[job] book_05_the_nameless_one_028_ragnarok.md chunk 5/9: FAILED
+[job] book_05_the_nameless_one_028_ragnarok.md chunk 6/9: FAILED
+[job] book_05_the_nameless_one_028_ragnarok.md chunk 7/9: FAILED
+[job] book_05_the_nameless_one_028_ragnarok.md chunk 8/9: FAILED
+[job] book_05_the_nameless_one_028_ragnarok.md chunk 9/9: FAILED
+[job] book_06_the_ragnarok_033_the_march.md chunk 1/5: FAILED
+[job] book_06_the_ragnarok_033_the_march.md chunk 2/5: FAILED
+[job] book_06_the_ragnarok_033_the_march.md chunk 3/5: FAILED
+[job] book_06_the_ragnarok_033_the_march.md chunk 4/5: ok
+[job] book_06_the_ragnarok_033_the_march.md chunk 5/5: ok
+[job] book_08_the_vigil_of_the_anchor_047_mika.md chunk 1/3: ok
+[job] book_08_the_vigil_of_the_anchor_047_mika.md chunk 2/3: ok
+[job] book_08_the_vigil_of_the_anchor_047_mika.md chunk 3/3: ok
+[job] book_18_inquisition_of_yourself_097_hearts_of_ash_and_fire.md chunk 1/4: ok
+[job] book_18_inquisition_of_yourself_097_hearts_of_ash_and_fire.md chunk 2/4: ok
+[job] book_18_inquisition_of_yourself_097_hearts_of_ash_and_fire.md chunk 3/4: FAILED
+[job] book_18_inquisition_of_yourself_097_hearts_of_ash_and_fire.md chunk 4/4: ok
+[job] book_19_worthy_opponents_north_100_convergence_at_ironspire.md chunk 1/3: ok
+[job] book_19_worthy_opponents_north_100_convergence_at_ironspire.md chunk 2/3: FAILED
+[job] book_19_worthy_opponents_north_100_convergence_at_ironspire.md chunk 3/3: ok
+[job] book_22_listening_stone_south_116_keepers_recognition.txt chunk 1/6: FAILED
+[job] book_22_listening_stone_south_116_keepers_recognition.txt chunk 2/6: FAILED
+[job] book_22_listening_stone_south_116_keepers_recognition.txt chunk 3/6: ok
+[job] book_22_listening_stone_south_116_keepers_recognition.txt chunk 4/6: ok
+[job] book_22_listening_stone_south_116_keepers_recognition.txt chunk 5/6: ok
+[job] book_22_listening_stone_south_116_keepers_recognition.txt chunk 6/6: ok
+
+=== book_04_sage_saga_021_the_first_lesson.md ===
+Book: book_04_sage_saga_021_the_first_lesson
+Chapter: 021_the_first_lesson
+Entity states: 4
+- EST-000107 | character | Torrhen | captured | candidate:torrhen
+- EST-000108 | character | The Sage | captured | candidate:the_sage
+- EST-000109 | concept | The First Tongue | captured | candidate:the_first_tongue
+- EST-000110 | character | Sage | captured | candidate:sage
+[PARTIAL] book_04_sage_saga_021_the_first_lesson.md: 4 chunk(s) failed, entity states not written — chapter will be retried next run
+
+=== book_05_the_nameless_one_028_ragnarok.md ===
+Book: book_05_the_nameless_one_028_ragnarok
+Chapter: 028_ragnarok
+Entity states: 1
+- EST-000111 | character | Geralt | captured | candidate:geralt
+[PARTIAL] book_05_the_nameless_one_028_ragnarok.md: 7 chunk(s) failed, entity states not written — chapter will be retried next run
+
+=== book_06_the_ragnarok_033_the_march.md ===
+Book: book_06_the_ragnarok_033_the_march
+Chapter: 033_the_march
+Entity states: 2
+- EST-000112 | character | Mika | captured | candidate:mika
+- EST-000113 | character | Oreck | captured | candidate:oreck
+[PARTIAL] book_06_the_ragnarok_033_the_march.md: 3 chunk(s) failed, entity states not written — chapter will be retried next run
+
+=== book_08_the_vigil_of_the_anchor_047_mika.md ===
+Book: book_08_the_vigil_of_the_anchor_047_mika
+Chapter: 047_mika
+Entity states: 1
+- EST-000114 | character | Mika | captured | candidate:mika
+[APPLY] Wrote 1 entity state record(s).
+
+=== book_18_inquisition_of_yourself_097_hearts_of_ash_and_fire.md ===
+Book: book_18_inquisition_of_yourself_097_hearts_of_ash_and_fire
+Chapter: 097_hearts_of_ash_and_fire
+Entity states: 2
+- EST-000115 | character | Sathinee | captured | candidate:sathinee
+- EST-000116 | unknown | Bones of Stone | captured | candidate:bones_of_stone
+[PARTIAL] book_18_inquisition_of_yourself_097_hearts_of_ash_and_fire.md: 1 chunk(s) failed, entity states not written — chapter will be retried next run
+
+=== book_19_worthy_opponents_north_100_convergence_at_ironspire.md ===
+Book: book_19_worthy_opponents_north_100_convergence_at_ironspire
+Chapter: 100_convergence_at_ironspire
+Entity states: 2
+- EST-000117 | character | Mr. GPT | captured | candidate:mr_gpt
+- EST-000118 | location | North | captured | candidate:north
+[PARTIAL] book_19_worthy_opponents_north_100_convergence_at_ironspire.md: 1 chunk(s) failed, entity states not written — chapter will be retried next run
+
+=== book_22_listening_stone_south_116_keepers_recognition.txt ===
+Book: book_22_listening_stone_south_116_keepers_recognition
+Chapter: 116_keepers_recognition
+Entity states: 3
+- EST-000119 | character | Graviton | captured | candidate:graviton
+- EST-000120 | character | Vale | captured | candidate:vale
+- EST-000121 | faction | The Keepers | captured | candidate:the_keepers
+[PARTIAL] book_22_listening_stone_south_116_keepers_recognition.txt: 2 chunk(s) failed, entity states not written — chapter will be retried next run
+
+[failures] 18 chunk(s) failed — see /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/logs/compile_entity_states_20260517_111411_failures.yaml
+
+[complete] entity state records=15
+[exit] EXIT 1

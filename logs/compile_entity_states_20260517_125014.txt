@@ -1,0 +1,67 @@
+[schema] read ENTITY_STATE_SCHEMA: 12539 chars
+[schema] read ENTITY_COMPILER_SCHEMA: 11801 chars
+[schema] read REGISTRY_SYMBOL_TABLE_SCHEMA: 12086 chars
+[chapter] book_04_sage_saga_021_the_first_lesson.md chunks=12
+[chapter] book_05_the_nameless_one_028_ragnarok.md chunks=9
+[chapter] book_06_the_ragnarok_033_the_march.md chunks=5
+[skip] book_08_the_vigil_of_the_anchor_047_mika.md already processed
+[chapter] book_18_inquisition_of_yourself_097_hearts_of_ash_and_fire.md chunks=3
+[chapter] book_19_worthy_opponents_north_100_convergence_at_ironspire.md chunks=2
+[chapter] book_22_listening_stone_south_116_keepers_recognition.txt chunks=5
+[cache-hit] book_04_sage_saga_021_the_first_lesson.md chunk 1
+[job] book_04_sage_saga_021_the_first_lesson.md chunk 1/12: ok
+[cache-hit] book_04_sage_saga_021_the_first_lesson.md chunk 2
+[job] book_04_sage_saga_021_the_first_lesson.md chunk 2/12: ok
+[cache-hit] book_04_sage_saga_021_the_first_lesson.md chunk 5
+[job] book_04_sage_saga_021_the_first_lesson.md chunk 3/12: FAILED
+[job] book_04_sage_saga_021_the_first_lesson.md chunk 5/12: ok
+[cache-hit] book_04_sage_saga_021_the_first_lesson.md chunk 7
+[job] book_04_sage_saga_021_the_first_lesson.md chunk 4/12: FAILED
+[job] book_04_sage_saga_021_the_first_lesson.md chunk 7/12: ok
+[job] book_04_sage_saga_021_the_first_lesson.md chunk 6/12: FAILED
+[job] book_04_sage_saga_021_the_first_lesson.md chunk 8/12: FAILED
+[job] book_04_sage_saga_021_the_first_lesson.md chunk 9/12: ok
+[job] book_04_sage_saga_021_the_first_lesson.md chunk 10/12: FAILED
+[cache-hit] book_04_sage_saga_021_the_first_lesson.md chunk 12
+[job] book_04_sage_saga_021_the_first_lesson.md chunk 12/12: ok
+[job] book_04_sage_saga_021_the_first_lesson.md chunk 11/12: ok
+[job] book_05_the_nameless_one_028_ragnarok.md chunk 1/9: ok
+[job] book_05_the_nameless_one_028_ragnarok.md chunk 2/9: ok
+[job] book_05_the_nameless_one_028_ragnarok.md chunk 3/9: ok
+[job] book_05_the_nameless_one_028_ragnarok.md chunk 4/9: FAILED
+[job] book_05_the_nameless_one_028_ragnarok.md chunk 5/9: ok
+[job] book_05_the_nameless_one_028_ragnarok.md chunk 6/9: ok
+[job] book_05_the_nameless_one_028_ragnarok.md chunk 7/9: FAILED
+[job] book_05_the_nameless_one_028_ragnarok.md chunk 8/9: ok
+[job] book_05_the_nameless_one_028_ragnarok.md chunk 9/9: ok
+[job] book_06_the_ragnarok_033_the_march.md chunk 1/5: ok
+[job] book_06_the_ragnarok_033_the_march.md chunk 2/5: FAILED
+[job] book_06_the_ragnarok_033_the_march.md chunk 3/5: FAILED
+[job] book_06_the_ragnarok_033_the_march.md chunk 4/5: ok
+[job] book_06_the_ragnarok_033_the_march.md chunk 5/5: FAILED
+[job] book_18_inquisition_of_yourself_097_hearts_of_ash_and_fire.md chunk 1/3: ok
+[job] book_18_inquisition_of_yourself_097_hearts_of_ash_and_fire.md chunk 2/3: ok
+[job] book_18_inquisition_of_yourself_097_hearts_of_ash_and_fire.md chunk 3/3: FAILED
+[job] book_19_worthy_opponents_north_100_convergence_at_ironspire.md chunk 1/2: FAILED
+[job] book_19_worthy_opponents_north_100_convergence_at_ironspire.md chunk 2/2: FAILED
+[job] book_22_listening_stone_south_116_keepers_recognition.txt chunk 1/5: FAILED
+[job] book_22_listening_stone_south_116_keepers_recognition.txt chunk 2/5: FAILED
+[job] book_22_listening_stone_south_116_keepers_recognition.txt chunk 3/5: FAILED
+[job] book_22_listening_stone_south_116_keepers_recognition.txt chunk 4/5: ok
+[job] book_22_listening_stone_south_116_keepers_recognition.txt chunk 5/5: ok
+[failure] book_04_sage_saga_021_the_first_lesson.md chunk 3: timed out
+[failure] book_04_sage_saga_021_the_first_lesson.md chunk 4: timed out
+[failure] book_04_sage_saga_021_the_first_lesson.md chunk 6: timed out
+[failure] book_04_sage_saga_021_the_first_lesson.md chunk 8: timed out
+[failure] book_04_sage_saga_021_the_first_lesson.md chunk 10: timed out
+[failure] book_05_the_nameless_one_028_ragnarok.md chunk 4: timed out
+[failure] book_05_the_nameless_one_028_ragnarok.md chunk 7: timed out
+[failure] book_06_the_ragnarok_033_the_march.md chunk 2: timed out
+[failure] book_06_the_ragnarok_033_the_march.md chunk 3: timed out
+[failure] book_06_the_ragnarok_033_the_march.md chunk 5: timed out
+[failure] book_18_inquisition_of_yourself_097_hearts_of_ash_and_fire.md chunk 3: timed out
+[failure] book_19_worthy_opponents_north_100_convergence_at_ironspire.md chunk 1: timed out
+[failure] book_19_worthy_opponents_north_100_convergence_at_ironspire.md chunk 2: timed out
+[failure] book_22_listening_stone_south_116_keepers_recognition.txt chunk 1: timed out
+[failure] book_22_listening_stone_south_116_keepers_recognition.txt chunk 2: timed out
+[failure] book_22_listening_stone_south_116_keepers_recognition.txt chunk 3: timed out

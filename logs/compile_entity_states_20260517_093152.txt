@@ -1,0 +1,156 @@
+[schema] read ENTITY_STATE_SCHEMA: 12539 chars
+[schema] read ENTITY_COMPILER_SCHEMA: 11801 chars
+[schema] read REGISTRY_SYMBOL_TABLE_SCHEMA: 12086 chars
+[skip] book_01_book_of_genesis_001_the_ethereal_vigil.md already processed
+[skip] book_01_book_of_genesis_002_molten_descent.md already processed
+[skip] book_01_book_of_genesis_003_first_contact.md already processed
+[skip] book_01_book_of_genesis_004_the_convergence.md already processed
+[skip] book_02_age_of_servitude_005_the_garden_blooms.md already processed
+[skip] book_02_age_of_servitude_006_the_first_coming.md already processed
+[skip] book_02_age_of_servitude_007_the_needle_construction.md already processed
+[skip] book_02_age_of_servitude_008_queens_assessment.md already processed
+[skip] book_03_the_reckoning_009_stalemate_departure_the_first_coming.md already processed
+[skip] book_03_the_reckoning_010_shadow_returns_second_coming.md already processed
+[skip] book_03_the_reckoning_011_escalation_and_desperation.md already processed
+[skip] book_03_the_reckoning_012_nephilim_summoning.md already processed
+[chapter] book_03_the_reckoning_014_convergence.md chunks=3
+[chapter] book_03_the_reckoning_015_betrayal.md chunks=4
+[chapter] book_04_sage_saga_016_the_choice_third_coming.md chunks=1
+[chapter] book_04_sage_saga_017_niburu_shadow.md chunks=3
+[chapter] book_04_sage_saga_018_the_wandering.md chunks=4
+[chapter] book_04_sage_saga_019_the_sacrafice.md chunks=4
+[chapter] book_04_sage_saga_020_the_collapse.md chunks=10
+[chapter] book_04_sage_saga_021_the_first_lesson.md chunks=9
+[chapter] book_04_sage_saga_022_final_calculation.md chunks=8
+[chapter] book_04_sage_saga_023_beyond_identity.md chunks=7
+[chapter] book_05_the_nameless_one_024_the_first_spark.md chunks=12
+[chapter] book_05_the_nameless_one_025_confined_freedom.md chunks=12
+[chapter] book_05_the_nameless_one_026_dragonmail.md chunks=5
+[chapter] book_05_the_nameless_one_027_the_claiming.md chunks=9
+[chapter] book_05_the_nameless_one_028_ragnarok.md chunks=9
+[chapter] book_06_the_ragnarok_029_bounty_hunter.md chunks=6
+[chapter] book_06_the_ragnarok_030_ummade_army.md chunks=11
+[chapter] book_06_the_ragnarok_031_the_crash_site.md chunks=6
+[chapter] book_06_the_ragnarok_032_the_redo.md chunks=4
+[chapter] book_06_the_ragnarok_033_the_march.md chunks=5
+[chapter] book_06_the_ragnarok_034_the_250.md chunks=6
+[chapter] book_06_the_ragnarok_035_sands_of_time.md chunks=8
+[chapter] book_06_the_ragnarok_036_highland_giants.md chunks=8
+[chapter] book_07_light_resonance_and_the_function_037_the_circle_of_progress.md chunks=6
+[chapter] book_07_light_resonance_and_the_function_038_luminaire_keeper.md chunks=6
+[chapter] book_07_light_resonance_and_the_function_039_jungle_fever.md chunks=5
+[chapter] book_07_light_resonance_and_the_function_040_the_dragon_wars.md chunks=3
+[chapter] book_07_light_resonance_and_the_function_041_the_tripartite_bond.md chunks=9
+[chapter] book_08_the_vigil_of_the_anchor_042_the_verdant_crossing.md chunks=4
+[chapter] book_08_the_vigil_of_the_anchor_043_the_badlands_crucible.md chunks=5
+[chapter] book_08_the_vigil_of_the_anchor_044_the_mountains_shadow.md chunks=5
+[chapter] book_08_the_vigil_of_the_anchor_045_the_hub_falls.md chunks=7
+[chapter] book_08_the_vigil_of_the_anchor_046_not_like_this.md chunks=5
+[chapter] book_08_the_vigil_of_the_anchor_047_mika.md chunks=3
+[chapter] book_09_bureaucratic_debt_048_the_ledger_born.md chunks=2
+[chapter] book_09_bureaucratic_debt_049_the_eastern_claim.md chunks=6
+[chapter] book_09_bureaucratic_debt_050_the_scout.md chunks=6
+[chapter] book_09_bureaucratic_debt_051_arrival_in_fire.md chunks=4
+[chapter] book_09_bureaucratic_debt_052_entry_without_standing.md chunks=5
+[chapter] book_09_bureaucratic_debt_053_the_twilight_city.md chunks=5
+[chapter] book_09_bureaucratic_debt_054_tue_lunar_spire.md chunks=4
+[chapter] book_09_bureaucratic_debt_055_the_anchors_forge.md chunks=3
+[chapter] book_10_infernal_vigil_056_erasures_edge.md chunks=6
+[chapter] book_10_infernal_vigil_057_enforced_enrollment.md chunks=6
+[chapter] book_10_infernal_vigil_058_paradox_engine.md chunks=8
+[chapter] book_10_infernal_vigil_059_eyes_of_eternity.md chunks=3
+[chapter] book_11_blood_and_legacy_060_echoes_of_the_cradle.md chunks=9
+[chapter] book_11_blood_and_legacy_061_the_hier.md chunks=5
+[chapter] book_11_blood_and_legacy_062_falcon_ridge_showdown.md chunks=7
+[chapter] book_11_blood_and_legacy_063_the_iron_hand.md chunks=8
+[chapter] book_11_blood_and_legacy_064_pass_through_shadow_and_flame.md chunks=8
+[chapter] book_11_blood_and_legacy_065_secrets_of_the_deep.md chunks=10
+[chapter] book_11_blood_and_legacy_066_the_first_tongue.md chunks=9
+[chapter] book_12_forged_identity_067_the_shattered_mind.md chunks=5
+[chapter] book_12_forged_identity_068_brotherhood_revealed.md chunks=7
+[chapter] book_12_forged_identity_069_divergent_paths.md chunks=6
+[chapter] book_12_forged_identity_070_spheres_truth.md chunks=13
+[chapter] book_12_forged_identity_071_cosmic_teachers_arrive.md chunks=8
+[chapter] book_14_lessons_of_inheritance_072_flow_between_moments.md chunks=5
+[chapter] book_14_lessons_of_inheritance_073_stone_and_root.md chunks=5
+[chapter] book_14_lessons_of_inheritance_074_sunbound.md chunks=6
+[chapter] book_14_lessons_of_inheritance_075_anchor_points_of_time.md chunks=7
+[chapter] book_14_lessons_of_inheritance_076_lunar_inheritance.md chunks=5
+[chapter] book_14_lessons_of_inheritance_077_introducing_the_sage.md chunks=4
+[chapter] book_15_legends_and_gods_078_the_queens_return.md chunks=7
+[chapter] book_15_legends_and_gods_079_mages_awakening.md chunks=11
+[chapter] book_15_legends_and_gods_080_the_whispers_between_worlds.md chunks=4
+[chapter] book_15_legends_and_gods_081_mr_gpt_arrival.md chunks=4
+[chapter] book_15_legends_and_gods_082_pyroclasts_burning_secrets.md chunks=5
+[chapter] book_16_fragmented_beginning_083_echoes_beneath_the_waves.md chunks=6
+[chapter] book_16_fragmented_beginning_084_earth_giants_and_diverging_paths.md chunks=4
+[chapter] book_16_fragmented_beginning_085_ancient_knowledge.md chunks=4
+[chapter] book_16_fragmented_beginning_086_sanctuary_to_storm.md chunks=5
+[chapter] book_16_fragmented_beginning_087_the_breath_of_life.md chunks=3
+[chapter] book_17_ancestral_debt_088_shadows_of_umbrageous_fixed.md chunks=4
+[chapter] book_17_ancestral_debt_089_the_white_mirror.md chunks=4
+[chapter] book_17_ancestral_debt_090_echoes_of_the_culling_corrected.md chunks=5
+[chapter] book_17_ancestral_debt_091_the_weight_of_memory.md chunks=5
+[chapter] book_17_ancestral_debt_092_departure_and_determination.md chunks=3
+[chapter] book_18_inquisition_of_yourself_093_voices_between_worlds.md chunks=3
+[chapter] book_18_inquisition_of_yourself_094_chains_of_light.md chunks=3
+[chapter] book_18_inquisition_of_yourself_095_roots_of_change.md chunks=4
+[chapter] book_18_inquisition_of_yourself_096_violet_convergence.md chunks=3
+[chapter] book_18_inquisition_of_yourself_097_hearts_of_ash_and_fire.md chunks=4
+[chapter] book_19_worthy_opponents_north_098_depths_of_memory.md chunks=4
+[chapter] book_19_worthy_opponents_north_099_the_final_breath.md chunks=3
+[chapter] book_19_worthy_opponents_north_100_convergence_at_ironspire.md chunks=3
+[chapter] book_19_worthy_opponents_north_101_the_hidden_resonance.md chunks=3
+[chapter] book_19_worthy_opponents_north_102_convergence_on_mars.md chunks=8
+[chapter] book_20_the_discordant_pulse_south_103_the_second_song_resonance_of_a_broken_needle.md chunks=6
+[chapter] book_20_the_discordant_pulse_south_104_the_rising_tide.md chunks=6
+[chapter] book_20_the_discordant_pulse_south_105_garden_grove.md chunks=8
+[chapter] book_20_the_discordant_pulse_south_106_sky_fallen.txt chunks=9
+[chapter] book_21_needle_and_thread_south_107_the_waking.txt chunks=6
+[chapter] book_21_needle_and_thread_south_108_evolution_of_the_keeper.txt chunks=5
+[chapter] book_21_needle_and_thread_south_109_the_thread_and_cage.txt chunks=8
+[chapter] book_21_needle_and_thread_south_110_the_bleeding_convergance.txt chunks=9
+[chapter] book_21_needle_and_thread_south_111_the_resonance_a_garden_under_shadow.txt chunks=8
+[chapter] book_21_needle_and_thread_south_112_eastern_system.txt chunks=10
+[chapter] book_22_listening_stone_south_113_the_edge_of_return.txt chunks=4
+[chapter] book_22_listening_stone_south_114_resonance_of_stone.txt chunks=5
+[chapter] book_22_listening_stone_south_115_the_shape_of_asking.txt chunks=6
+[chapter] book_22_listening_stone_south_116_keepers_recognition.txt chunks=6
+[chapter] book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_117_the_constant_calibration_living_as_anchor.txt chunks=6
+[chapter] book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_118_the_constant_and_friction_of_becoming.txt chunks=6
+[chapter] book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_119_resonance_of_the_first_point.txt chunks=7
+[chapter] book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_120_the_language_of_stone.txt chunks=6
+[chapter] book_24_threshold_and_network_south_121_aligning_the_pattern_at_the_labyrinths_threshold.txt chunks=4
+[chapter] book_24_threshold_and_network_south_122_unravealing.txt chunks=6
+[chapter] book_24_threshold_and_network_south_123_the_conduit_geometry_of_difference.txt chunks=4
+[chapter] book_24_threshold_and_network_south_124_the_last_threshold_release_of_the_constant.txt chunks=6
+[chapter] book_25_the_seam_evolutionary_south_125_farwell.txt chunks=4
+[chapter] book_25_the_seam_evolutionary_south_126_i_am_island.txt chunks=6
+[chapter] book_25_the_seam_evolutionary_south_127_ember_stone.txt chunks=3
+[chapter] book_25_the_seam_evolutionary_south_128_one_degree_above.txt chunks=6
+[chapter] book_25_the_seam_evolutionary_south_129_calibration_drift.txt chunks=6
+[chapter] book_25_the_seam_evolutionary_south_130_within_tolerance.txt chunks=6
+[chapter] book_26_the_seam_long_dark_south_131_stable_contradiction.txt chunks=7
+[chapter] book_26_the_seam_long_dark_south_132_white_lightning.txt chunks=6
+[chapter] book_26_the_seam_long_dark_south_133_threshold.txt chunks=8
+[chapter] book_26_the_seam_long_dark_south_134_phase_drift.txt chunks=7
+[chapter] book_27_the_seam_deadly_words_south_1139_1139.txt chunks=6
+[chapter] book_27_the_seam_deadly_words_south_135_final_constraint.txt chunks=6
+[chapter] book_27_the_seam_deadly_words_south_136_completion_defered.txt chunks=5
+[chapter] book_27_the_seam_deadly_words_south_137_shared_ground.txt chunks=6
+[chapter] book_27_the_seam_deadly_words_south_138_quiet_lean.txt chunks=5
+[chapter] book_27_the_seam_deadly_words_south_139_final_calculations.txt chunks=6
+[job] book_03_the_reckoning_014_convergence.md chunk 1/3: FAILED
+[job] book_03_the_reckoning_014_convergence.md chunk 2/3: FAILED
+[job] book_03_the_reckoning_014_convergence.md chunk 3/3: ok
+[job] book_03_the_reckoning_015_betrayal.md chunk 1/4: FAILED
+[job] book_03_the_reckoning_015_betrayal.md chunk 2/4: FAILED
+[job] book_03_the_reckoning_015_betrayal.md chunk 3/4: FAILED
+[job] book_03_the_reckoning_015_betrayal.md chunk 4/4: ok
+[job] book_04_sage_saga_016_the_choice_third_coming.md chunk 1/1: FAILED
+[job] book_04_sage_saga_017_niburu_shadow.md chunk 1/3: FAILED
+[job] book_04_sage_saga_017_niburu_shadow.md chunk 2/3: ok
+[job] book_04_sage_saga_017_niburu_shadow.md chunk 3/3: ok
+[job] book_04_sage_saga_018_the_wandering.md chunk 1/4: ok
+[job] book_04_sage_saga_018_the_wandering.md chunk 2/4: FAILED
+[EXIT 2] interrupted

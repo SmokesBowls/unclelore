@@ -1,0 +1,39 @@
+[schema] read ENTITY_STATE_SCHEMA: 12539 chars
+[schema] read ENTITY_COMPILER_SCHEMA: 11801 chars
+[schema] read REGISTRY_SYMBOL_TABLE_SCHEMA: 12086 chars
+[chapter] book_01_book_of_genesis_001_the_ethereal_vigil.md chunks=4
+[write] wiki/entity_states/book_01_book_of_genesis_001_the_ethereal_vigil/001_the_ethereal_vigil/lyaris.yaml
+[write] wiki/entity_states/book_01_book_of_genesis_001_the_ethereal_vigil/001_the_ethereal_vigil/theron.yaml
+[write] wiki/entity_states/book_01_book_of_genesis_001_the_ethereal_vigil/001_the_ethereal_vigil/vaelith.yaml
+[write] wiki/entity_states/book_01_book_of_genesis_001_the_ethereal_vigil/001_the_ethereal_vigil/mordain.yaml
+[write] wiki/entity_states/book_01_book_of_genesis_001_the_ethereal_vigil/001_the_ethereal_vigil/syreth.yaml
+[write] wiki/entity_states/book_01_book_of_genesis_001_the_ethereal_vigil/001_the_ethereal_vigil/korath.yaml
+[write] wiki/entity_states/book_01_book_of_genesis_001_the_ethereal_vigil/001_the_ethereal_vigil/group.yaml
+[write] wiki/entity_states/book_01_book_of_genesis_001_the_ethereal_vigil/001_the_ethereal_vigil/nephoretti.yaml
+[chapter] book_01_book_of_genesis_002_molten_descent.md chunks=4
+[write] wiki/entity_states/book_01_book_of_genesis_002_molten_descent/002_molten_descent/senareth.yaml
+[write] wiki/entity_states/book_01_book_of_genesis_002_molten_descent/002_molten_descent/elyraen.yaml
+[write] wiki/entity_states/book_01_book_of_genesis_002_molten_descent/002_molten_descent/vairis.yaml
+[write] wiki/entity_states/book_01_book_of_genesis_002_molten_descent/002_molten_descent/giants.yaml
+[write] wiki/entity_states/book_01_book_of_genesis_002_molten_descent/002_molten_descent/nephoretti.yaml
+[write] wiki/entity_states/book_01_book_of_genesis_002_molten_descent/002_molten_descent/giants.yaml
+[chapter] book_01_book_of_genesis_003_first_contact.md chunks=3
+[write] wiki/entity_states/book_01_book_of_genesis_003_first_contact/003_first_contact/senareth.yaml
+[write] wiki/entity_states/book_01_book_of_genesis_003_first_contact/003_first_contact/elyraen.yaml
+[write] wiki/entity_states/book_01_book_of_genesis_003_first_contact/003_first_contact/vairis.yaml
+[write] wiki/entity_states/book_01_book_of_genesis_003_first_contact/003_first_contact/kyreth.yaml
+[write] wiki/entity_states/book_01_book_of_genesis_003_first_contact/003_first_contact/burnt_red_giant.yaml
+[write] wiki/entity_states/book_01_book_of_genesis_003_first_contact/003_first_contact/torhh.yaml
+[write] wiki/entity_states/book_01_book_of_genesis_003_first_contact/003_first_contact/torhh_continued.yaml
+[write] wiki/entity_states/book_01_book_of_genesis_003_first_contact/003_first_contact/nephoretti.yaml
+[write] wiki/entity_states/book_01_book_of_genesis_003_first_contact/003_first_contact/giants.yaml
+[chapter] book_01_book_of_genesis_004_the_convergence.md chunks=4
+[write] wiki/entity_states/book_01_book_of_genesis_004_the_convergence/004_the_convergence/senareth.yaml
+[write] wiki/entity_states/book_01_book_of_genesis_004_the_convergence/004_the_convergence/elyraen.yaml
+[write] wiki/entity_states/book_01_book_of_genesis_004_the_convergence/004_the_convergence/torhh.yaml
+[write] wiki/entity_states/book_01_book_of_genesis_004_the_convergence/004_the_convergence/olythae.yaml
+[write] wiki/entity_states/book_01_book_of_genesis_004_the_convergence/004_the_convergence/giants_burnt_reds_charcoal_grey.yaml
+[write] wiki/entity_states/book_01_book_of_genesis_004_the_convergence/004_the_convergence/vairis.yaml
+[write] wiki/entity_states/book_01_book_of_genesis_004_the_convergence/004_the_convergence/giants.yaml
+[write] wiki/entity_states/book_01_book_of_genesis_004_the_convergence/004_the_convergence/pelagor.yaml
+[chapter] book_02_age_of_servitude_005_the_garden_blooms.md chunks=4
