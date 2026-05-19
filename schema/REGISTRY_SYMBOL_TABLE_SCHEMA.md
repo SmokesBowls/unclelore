@@ -1,9 +1,12 @@
+```markdown
 # REGISTRY_SYMBOL_TABLE_SCHEMA.md
 
-Status: draft contract  
-Layer: symbol table / identity authority  
-Authority: registry-level identity resolution  
-Mutation rule: registry changes require explicit compiler recommendation or human/canon decision  
+**Status:** draft contract  
+**Layer:** symbol table / identity authority  
+**Authority:** registry-level identity resolution  
+**Mutation rule:** registry changes require explicit compiler recommendation or human/canon decision  
+**Schema version:** 0.2.0-candidate  
+**Version status:** candidate  
 
 ---
 
@@ -337,6 +340,109 @@ Identity states let the system preserve change without splitting entities premat
 
 ---
 
+## Relationship types (incarnation_chain and accessory)
+
+### incarnation_chain
+
+Represents a single underlying consciousness manifesting across ordered, non‑overlapping identity states. Preserves chronological sequence without implying synonymy.
+
+**Structure:**
+
+`incarnation_chain`: array[object] — ordered by narrative chronology
+
+| Field | Type | Constraint |
+|---|---|---|
+| `name` | string | Exact identity state name as recorded in ledger/artifacts |
+| `era` | string | Narrative era or timeline label (e.g., `pre-harmonization`, `north-arc-ch12`) |
+| `assigned_by` | string | Origin of state designation (`author`, `narrative_shift`, `reader_attribution`, `systemic_event`) |
+| `first_seen_chapter` | string | Format: `<book_id>_ch<chapter_num>` |
+| `is_active_state` | bool | Exactly one state per chain must be `true` at any evaluation point |
+| `state_transition_reason` | string | Optional; narrative trigger or evidence basis for shift |
+| `provisional` | bool | Always `true` |
+| `audit_only` | bool | Always `true` |
+
+**Routing rule:**
+
+- Chain order is immutable at extraction. Reordering requires human canon decision.
+- `merge_parent` MUST NOT be used to collapse chain states. Each state retains independent ledger references until explicit `state_consolidation` approval.
+- Downstream tools must iterate chain in array order for continuity mapping.
+
+**Example:**
+
+```yaml
+incarnation_chain:
+  - name: Tran (baseline)
+    era: pre-harmonization
+    assigned_by: author
+    first_seen_chapter: book_11_ch060
+    is_active_state: false
+    provisional: true
+    audit_only: true
+  - name: Tran-Zaron
+    era: harmonization
+    assigned_by: narrative_shift
+    first_seen_chapter: book_05_ch012
+    is_active_state: true
+    state_transition_reason: fused with Zaron during resonance cascade
+    provisional: true
+    audit_only: true
+```
+
+---
+
+### accessory
+
+Represents an entity, protocol, or construct that is attached to, derived from, or functionally dependent on a parent entity. Does not imply independent identity or standalone existence.
+
+**Structure:**
+
+`accessory`: object or array[object] if multiple attachments
+
+| Field | Type | Constraint |
+|---|---|---|
+| `accessor_id` | string | Registry ID or surface_form of attached entity |
+| `host_entity_id` | string | Registry ID or surface_form of parent entity |
+| `attachment_nature` | enum | `cognitive`, `protocol`, `artifact`, `environmental`, `systemic`, `unknown` |
+| `is_detachable` | bool | `true` if narrative evidence supports separation; `false` if bound |
+| `activation_condition` | string | Optional; trigger or state required for accessory manifestation |
+| `source_span` | string | Format: `<book_id>_ch<chapter_num>:<line_start>-<line_end>` |
+| `provisional` | bool | Always `true` |
+| `audit_only` | bool | Always `true` |
+
+**Routing rule:**
+
+- `accessory` records route to parent entity page under `## Attachments / Protocols`.
+- Does not generate independent character/faction pages unless `is_detachable == true` AND canonical separation is approved.
+- Must reference valid `host_entity_id` present in registry.
+
+**Example:**
+
+```yaml
+accessory:
+  accessor_id: PROTOCOL-007-echo
+  host_entity_id: CHR-0001-tran
+  attachment_nature: cognitive
+  is_detachable: false
+  activation_condition: "when Tran accesses the harmonized state"
+  source_span: book_12_ch068:210-215
+  provisional: true
+  audit_only: true
+```
+
+---
+
+## Explicit distinction from merge_parent
+
+| Field | Behavior | Use Case |
+|---|---|---|
+| `merge_parent` | Flattens variants into single canonical identity. | Orthographic drift, aliases, transcription errors, TTS artifacts. |
+| `incarnation_chain` | Preserves sequential states. No flattening. | Single consciousness shifting across narrative phases. |
+| `accessory` | Directional attachment. Dependent existence. | Protocols, bound entities, cognitive fragments, tools. |
+
+**Constraint:** `merge_parent` and `incarnation_chain` are mutually exclusive on any single record. Applying both triggers a validation failure.
+
+---
+
 ## Merge handling
 
 A merge candidate means two or more symbols may refer to the same entity.
@@ -415,6 +521,8 @@ entity_type: group
 ```
 
 They should not be typed as `character` unless they demonstrate individual identity or collective agency.
+
+**Note:** The `relationship_label` type is distinct from `incarnation_chain` and `accessory`. Relationship labels represent social or narrative bonds; they are not used to model sequential consciousness states or dependent attachments. The `merge_split` logic does not apply to `incarnation_chain` or `accessory` fields.
 
 ---
 
@@ -521,6 +629,8 @@ add_book_appearance
 add_chapter_appearance
 add_identity_state
 add_relationship_label
+add_incarnation_state       # new
+attach_accessory            # new
 mark_needs_review
 resolve_review
 ```
@@ -549,6 +659,18 @@ Authority: compiler
 Status: needs_review
 Source: wiki/continuity/entity_deltas/tran.md
 ```
+
+---
+
+## Validation rules (incarnation_chain & accessory)
+
+1. **Order enforcement** – `incarnation_chain` array must be strictly ordered by `first_seen_chapter`. Chronological inversion triggers a validation failure.
+2. **Uniqueness guard** – `accessor_id` in `accessory` must not appear in `host_entity_id` of any other active record (no circular dependencies).
+3. **Active state check** – Exactly one entry in `incarnation_chain` must have `is_active_state == true`. Zero or multiple entries trigger a validation failure.
+4. **Mutual exclusion** – `merge_parent` and `incarnation_chain` cannot be present on the same record. Violation blocks registry update.
+5. **Host entity requirement** – Every `accessory` must reference a valid `host_entity_id` that exists elsewhere in the registry (or is concurrently created in the same transaction).
+6. **Atomic ingest** – Schema validation runs pre‑commit. Invalid chains or accessories block the registry update and write to `registry/pending_review/`.
+7. **Dry‑run support** – `--dry-run` outputs relationship topology graph without writing to disk.
 
 ---
 
@@ -585,13 +707,15 @@ Is this an alias?
 Is this a character or a relationship label?
 What books contain this entity?
 What unresolved conflicts affect this entity?
+What is this entity’s current active incarnation?      # new
+What accessories are attached to this entity?          # new
 ```
 
 The query layer should not require the user to inspect STB files manually.
 
 ---
 
-## Example: character symbol
+## Example: character symbol with incarnation_chain and accessory
 
 ```yaml
 entity_id: CHR-0001-tran
@@ -609,6 +733,33 @@ aliases:
   - name: Tran's
     alias_type: possessive_drift
     status: rejected
+
+incarnation_chain:
+  - name: Tran (baseline)
+    era: pre-harmonization
+    assigned_by: author
+    first_seen_chapter: book_11_ch060
+    is_active_state: false
+    provisional: true
+    audit_only: true
+  - name: Tran-Zaron
+    era: harmonization
+    assigned_by: narrative_shift
+    first_seen_chapter: book_05_ch012
+    is_active_state: true
+    state_transition_reason: fused with Zaron during resonance cascade
+    provisional: true
+    audit_only: true
+
+accessory:
+  - accessor_id: PROTOCOL-007-echo
+    host_entity_id: CHR-0001-tran
+    attachment_nature: cognitive
+    is_detachable: false
+    activation_condition: "when Tran accesses the harmonized state"
+    source_span: book_12_ch068:210-215
+    provisional: true
+    audit_only: true
 
 book_appearances:
   - book_id: book_12_forged_identity
@@ -660,3 +811,4 @@ The registry resolves identity.
 It does not rewrite prose.
 
 It does not decide canon without approved authority.
+```
