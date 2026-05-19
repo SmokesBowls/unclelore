@@ -1,0 +1,114 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000015
+entity_ref: candidate:nephoretti
+display_name: Nephoretti
+entity_type: group
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_01_book_of_genesis_001_the_ethereal_vigil
+book_number: 1
+chapter_id: 001_the_ethereal_vigil
+chapter_title: "The Ethereal Vigil"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
+source_hash: 39a5e85c50d7dbb533cf87d1fa9db8aa2cde0c2ce232b180ef909c379086aca7
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_024510
+chapter_role: "Crafted and released by Lyaris, begin to manifest in physical form."
+identity_evidence:
+  named_directly: false
+  speaks: false
+  performs_actions: true
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: false
+  identity_confidence: medium
+  identity_signal_count: 2
+state_start:
+  location: "Ethereal Realm"
+  physical_state: consciousness-patterns
+  emotional_state: unknown
+  social_status: Nephoretti
+  faction_alignment: Nephoretti
+  identity_state: unmanifested
+  knowledge_state: "aware of vrill manipulation and geomantic harmonics"
+state_during:
+  active_conditions:
+    - "being crafted by Lyaris"
+    - "releasing thought-seeds"
+  observed_traits:
+    []
+  active_conflicts:
+    []
+  temporary_roles:
+    []
+state_end:
+  location: "physical world"
+  physical_state: "embodied Nephoretti"
+  emotional_state: unknown
+  social_status: Nephoretti
+  faction_alignment: Nephoretti
+  identity_state: manifested
+  unresolved_after_chapter:
+    - "transition to physical world"
+relationships:
+  []
+actions:
+  -
+    action: "crafting thought-seeds and releasing them into the vrill current"
+    target: null
+    consequence: "Nephoretti begin to manifest in physical form"
+    confidence: medium
+dialogue:
+  []
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: "Ethereal Realm, northern convergence point"
+      confidence: high
+    -
+      name: "physical world (liminal zone)"
+      confidence: medium
+arc_position:
+  arc_name: unknown
+  role_in_arc: "main characters"
+  chapter_function: "undergo the transformation from pure consciousness to embodied awareness"
+changes:
+  -
+    change_type: identity_reveal
+    before: unmanifested
+    after: "embodied Nephoretti"
+    confidence: medium
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
+    line_start: null
+    line_end: null
+    excerpt: "The thought-seed took shape in dimensions that physical beings couldn't perceive—geometries that curved through probability space, mathematical structures that existed in the gaps between logic and intuition."
+    supports:
+      - state_start:identity_state
+  -
+    quote_id: Q-0002
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
+    line_start: null
+    line_end: null
+    excerpt: "She began to craft the first thought-seed. It was delicate work, requiring absolute precision."
+    supports:
+      - state_during:active_conditions
+      - state_during:observed_traits
+classification_notes: "Nephoretti are a group of characters who undergo transformation from pure consciousness to embodied form."
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: null
+compiler_notes:
+  eligible_for_book_profile: false
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

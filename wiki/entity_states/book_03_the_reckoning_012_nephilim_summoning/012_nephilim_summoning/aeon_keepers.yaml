@@ -1,0 +1,107 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000106
+entity_ref: candidate:aeon_keepers
+display_name: "Aeon Keepers"
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_03_the_reckoning_012_nephilim_summoning
+book_number: 3
+chapter_id: 012_nephilim_summoning
+chapter_title: "Nephilim Summoning"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_03_the_reckoning_012_nephilim_summoning.md
+source_hash: 23431230df494f439f168980437f3d76c0b19d1c894ca4cd3dcdd2a002a936e0
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_073426
+chapter_role: "Guiding the Giants through the ritual and providing instructions."
+identity_evidence:
+  named_directly: true
+  speaks: false
+  performs_actions: false
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 3
+state_start:
+  location: unknown
+  physical_state: unknown
+  emotional_state: unknown
+  social_status: "guiding the Giants"
+  faction_alignment: unknown
+  identity_state: "Aeon Keepers providing guidance and instructions"
+  knowledge_state: "aware of the ritual's conditions and potential outcomes"
+state_during:
+  active_conditions:
+    []
+  observed_traits:
+    - "guiding the Giants through the ritual"
+  active_conflicts:
+    []
+  temporary_roles:
+    []
+state_end:
+  location: unknown
+  physical_state: unknown
+  emotional_state: unknown
+  social_status: "guiding the Giants"
+  faction_alignment: unknown
+  identity_state: "Aeon Keepers providing guidance and instructions"
+  unresolved_after_chapter:
+    - "guiding the Giants through the ritual"
+relationships:
+  -
+    predicate: instructs
+    subject: "Aeon Keepers"
+    target: Giants
+    evidence: direct
+    confidence: high
+    notes: "Instruct the Giants on how to proceed with the ritual."
+actions:
+  -
+    action: "instructs the Giants"
+    target: null
+    consequence: "Giants understand how to proceed with the ritual"
+    confidence: high
+dialogue:
+  []
+presence:
+  direct_presence: false
+  mentioned_only: true
+  locations:
+    -
+      name: unknown
+      confidence: medium
+arc_position:
+  arc_name: unknown
+  role_in_arc: "guidance and instruction"
+  chapter_function: "instruct the Giants on how to proceed with the ritual."
+changes:
+  -
+    change_type: none
+    before: "Aeon Keepers providing guidance and instructions"
+    after: "Aeon Keepers providing guidance and instructions"
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_03_the_reckoning_012_nephilim_summoning.md
+    line_start: null
+    line_end: null
+    excerpt: "Then prepare, the Aeon Keepers instructed. The ritual requires seven solar cycles to gather the necessary elemental forces."
+    supports:
+      - identity:character
+classification_notes: "The Aeon Keepers are a character with a unique identity and role in guiding the Giants through the ritual and providing instructions."
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: "No continuity issues identified."
+compiler_notes:
+  eligible_for_book_profile: false
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

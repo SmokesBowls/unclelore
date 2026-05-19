@@ -84,6 +84,9 @@ PLURAL_SINGULAR_MAP: dict[str, str] = {
     "Aeon Keepers": "Aeon Keepers",   # identity: canonical form preserved
     "Shadows":      "Shadow",
     "Factions":     "Faction",
+    # 6.4C: normalize standalone "GPT" occurrences to the canonical form
+    "GPT":          "Mr GPT",
+    "Mr GPT":       "Mr GPT",         # identity: canonical form preserved
 }
 
 

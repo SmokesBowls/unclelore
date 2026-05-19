@@ -1,0 +1,110 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000091
+entity_ref: candidate:dregans
+display_name: Dregans
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_03_the_reckoning_010_shadow_returns_second_coming
+book_number: 3
+chapter_id: 010_shadow_returns_second_coming
+chapter_title: "Shadow Returns Second Coming"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_03_the_reckoning_010_shadow_returns_second_coming.md
+source_hash: 05bad888927dc24957c8381f3cd06d5e3052284b756fcdaed168f3b3a6b33473
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_073426
+chapter_role: "Sonic artillery creatures, designed for combat functionality."
+identity_evidence:
+  named_directly: false
+  speaks: false
+  performs_actions: true
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: true
+  identity_confidence: high
+  identity_signal_count: 2
+state_start:
+  location: "Genesis Chambers, Crimson Citadel"
+  physical_state: "awaiting deployment"
+  emotional_state: none
+  social_status: Dregans
+  faction_alignment: Anunnaki
+  identity_state: "preparing for combat"
+  knowledge_state: "aware of their purpose"
+state_during:
+  active_conditions:
+    - "awaiting deployment"
+    - "preparing for combat"
+  observed_traits:
+    []
+  active_conflicts:
+    []
+  temporary_roles:
+    []
+state_end:
+  location: "Genesis Chambers, Crimson Citadel"
+  physical_state: "awaiting maturation and deployment"
+  emotional_state: none
+  social_status: Dregans
+  faction_alignment: Anunnaki
+  identity_state: "preparing for combat"
+  unresolved_after_chapter:
+    - "deployment of Gruulith, Dregans, and Brajor"
+relationships:
+  []
+actions:
+  -
+    action: "awaiting maturation"
+    target: null
+    consequence: "will be deployed as sonic artillery."
+    confidence: high
+dialogue:
+  []
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: "Genesis Chambers, Crimson Citadel"
+      confidence: high
+arc_position:
+  arc_name: "The Second Coming"
+  role_in_arc: setup
+  chapter_function: "preparing for the next phase of Eduhauana's plan."
+changes:
+  -
+    change_type: knowledge_gain
+    before: "aware of their purpose"
+    after: "awaiting maturation and deployment as sonic artillery"
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_03_the_reckoning_010_shadow_returns_second_coming.md
+    line_start: null
+    line_end: null
+    excerpt: "Dregans: forty-seven solar cycles until maturation."
+    supports:
+      - state_start:knowledge_state
+  -
+    quote_id: Q-0002
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_03_the_reckoning_010_shadow_returns_second_coming.md
+    line_start: null
+    line_end: null
+    excerpt: "They would be sonic artillery, their cries capable of shattering stone-flesh into crystalline dust."
+    supports:
+      - state_end:physical_state
+classification_notes: "Dregans are key combat units designed for the Second Coming."
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: "No continuity issues identified."
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

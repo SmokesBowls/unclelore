@@ -1,0 +1,108 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000057
+entity_ref: candidate:enlil
+display_name: Enlil
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_02_age_of_servitude_006_the_first_coming
+book_number: 2
+chapter_id: 006_the_first_coming
+chapter_title: "The First Coming"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+source_hash: cf57ad4230c36e0a80d1b043d310f0622d67427542d211d02be06b3b3c3065c1
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_073426
+chapter_role: "Overseer responsible for infrastructure, assessing site conditions."
+identity_evidence:
+  named_directly: true
+  speaks: false
+  performs_actions: true
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 4
+state_start:
+  location: "Landing Site Gamma, Northern Continental Mass"
+  physical_state: "extending consciousness-touch into the ground"
+  emotional_state: "calculating site conditions"
+  social_status: "Anunnaki Overseer"
+  faction_alignment: Anunnaki
+  identity_state: overseer
+  knowledge_state: "aware of site's optimal conditions for construction"
+state_during:
+  active_conditions:
+    - "assessing site conditions"
+  observed_traits:
+    - calculating
+    - authoritative
+  active_conflicts:
+    []
+  temporary_roles:
+    []
+state_end:
+  location: "Landing Site Gamma, Northern Continental Mass"
+  physical_state: "extending consciousness-touch into the ground"
+  emotional_state: "satisfied with construction progress"
+  social_status: "Anunnaki Overseer"
+  faction_alignment: Anunnaki
+  identity_state: overseer
+  unresolved_after_chapter:
+    []
+relationships:
+  -
+    predicate: "authoritative over"
+    subject: Enlil
+    target: null
+    evidence: direct
+    confidence: high
+    notes: null
+actions:
+  -
+    action: "assessed site conditions for infrastructure"
+    target: null
+    consequence: "confirmed bedrock stability, optimal vrill-flow, compatible geological composition, and no indigenous presence within fifty kilometers"
+    confidence: high
+dialogue:
+  []
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: "Landing Site Gamma, Northern Continental Mass"
+      confidence: high
+arc_position:
+  arc_name: "Aaon Keepers"
+  role_in_arc: setup
+  chapter_function: "assessed the site conditions for construction."
+changes:
+  -
+    change_type: none
+    before: null
+    after: null
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+    line_start: null
+    line_end: null
+    excerpt: "Enlil—whose specialty was infrastructure—extended consciousness-touch into the ground beneath them. Not magic as the indigenous biologicals would understand it, but applied physics so advanced it resembled divine power to primitive perception."
+    supports:
+      - identity:character
+classification_notes: "Eligible as a character due to direct presence, performing actions, receiving description, and having internal state."
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: null
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

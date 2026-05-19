@@ -1,0 +1,121 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000076
+entity_ref: candidate:indigenous_biologicals
+display_name: "Indigenous Biologicals"
+entity_type: group
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_02_age_of_servitude_007_the_needle_construction
+book_number: 2
+chapter_id: 007_the_needle_construction
+chapter_title: "The Needle Construction"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
+source_hash: eb120b0159c6d4e1a8581a826dd6247a474cb9606ed71e8283194d0ee2d15f7b
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_073426
+chapter_role: "Entities being assessed and managed by the Anunnaki, with complex consciousness and significant capabilities."
+identity_evidence:
+  named_directly: false
+  speaks: false
+  performs_actions: true
+  receives_description: true
+  has_internal_state: true
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 4
+state_start:
+  location: "Northern Nexus Site"
+  physical_state: "working on the Needle construction, with disrupted vrill-flows"
+  emotional_state: "sorrow, guilt, mathematical certainty of helplessness, recognition that this is wrong, desperate wish for resistance"
+  social_status: "slaves to Anunnaki"
+  faction_alignment: unknown
+  identity_state: "complex consciousness, almost as refined as luminescent beings"
+  knowledge_state: "awareness of their situation and the injustice"
+state_during:
+  active_conditions:
+    - "working on the Needle construction"
+    - "disrupted vrill-flows"
+  observed_traits:
+    - "sorrow, guilt, mathematical certainty of helplessness, recognition that this is wrong, desperate wish for resistance"
+  active_conflicts:
+    []
+  temporary_roles:
+    []
+state_end:
+  location: "Northern Nexus Site"
+  physical_state: "working on the Needle construction, with disrupted vrill-flows"
+  emotional_state: "sorrow, guilt, mathematical certainty of helplessness, recognition that this is wrong, desperate wish for resistance"
+  social_status: "slaves to Anunnaki"
+  faction_alignment: unknown
+  identity_state: "complex consciousness, almost as refined as luminescent beings"
+  unresolved_after_chapter:
+    - "awareness of their situation and the injustice"
+relationships:
+  -
+    predicate: "slaves to"
+    subject: "Indigenous Biologicals"
+    target: Anunnaki
+    evidence: direct
+    confidence: high
+    notes: null
+actions:
+  []
+dialogue:
+  []
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: "Northern Nexus Site"
+      confidence: high
+arc_position:
+  arc_name: unknown
+  role_in_arc: setup
+  chapter_function: "showing the complex consciousness and significant capabilities of the indigenous biologicals, their situation as slaves to Anunnaki"
+changes:
+  -
+    change_type: identity_reveal
+    before: null
+    after: "complex consciousness, almost as refined as luminescent beings"
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
+    line_start: null
+    line_end: null
+    excerpt: "Stone-entities demonstrate significantly higher consciousness-touch sophistication than projected. Their geomantic techniques interfere with foundation stability. Their physical resilience exceeds initial combat effectiveness calculations."
+    supports:
+      - identity_evidence:receives_description
+  -
+    quote_id: Q-0002
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
+    line_start: null
+    line_end: null
+    excerpt: "The massive crystalline tower—the 'Needle' as consciousness-patterns suggested the invaders called it—had grown to nearly a hundred feet over the past decade. Its surface carried geometric patterns that hurt to perceive directly, and its presence disrupted the mountain's vrill-flows in ways that made the Tidecaller population sick and confused."
+    supports:
+      - state_start:location
+      - state_start:physical_state
+  -
+    quote_id: Q-0003
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
+    line_start: null
+    line_end: null
+    excerpt: "Torhh... they were fellow prisoners."
+    supports:
+      - state_end:unresolved_after_chapter
+classification_notes: "Indigenous Biologicals are a group of complex consciousness entities being assessed and managed by the Anunnaki."
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: null
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

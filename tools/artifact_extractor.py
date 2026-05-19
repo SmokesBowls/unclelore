@@ -100,6 +100,7 @@ STOP_WORD_SET = frozenset({
 # Fix 1: All-caps single-word tokens are filtered unless in this whitelist.
 CANON_ACRONYM_WHITELIST = frozenset({
     'RCS', 'BH', 'AH', 'TTS', 'NLP', 'AI', 'GPS',
+    'GPT',  # 6.4C: Mr. GPT is a major character; standalone "GPT" must pass
 })
 
 # Match single-word all-caps tokens (no spaces, 2+ uppercase letters).
@@ -116,6 +117,15 @@ _CONJUNCTION_PREFIX_RE = re.compile(
 # Fix 4B: Trailing punctuation strip and internal whitespace collapse.
 _TRAILING_PUNCT_RE = re.compile(r'[.,;:!?)"\']+$')
 _MULTI_SPACE_RE = re.compile(r'  +')
+
+# Fix 6.4C: Honorific + capitalized name → single normalized token.
+# "Mr. GPT"  → "Mr GPT"   "Dr. Smith" → "Dr Smith"
+# Period is stripped; positions are marked covered to block split extraction.
+_HONORIFIC_RE = re.compile(
+    r'\b(Mr|Dr|Ms|Mrs|Prof|Rev|St)\.'
+    r'\s+'
+    r'([A-Z][A-Za-z\-]*(?:\s+[A-Z][A-Za-z\-]*)*)'
+)
 
 # Fix 4B: Normalize curly/smart apostrophes before stop-word lookup.
 _CURLY_APOS_RE = re.compile(r"[''`ʼ]")
@@ -150,6 +160,21 @@ def extract_tokens(
     tokens: list[tuple[str, int, int]] = []
     covered: set[int] = set()
 
+    # ── Honorific+name phrases (highest priority) ─────────────────────────────
+    # Run before multi-word so "Mr. GPT" is captured whole rather than split.
+    for m in _HONORIFIC_RE.finditer(line):
+        sf_norm = _TRAILING_PUNCT_RE.sub('', f'{m.group(1)} {m.group(2)}').strip()
+        sf_norm = _MULTI_SPACE_RE.sub(' ', sf_norm)
+        if len(sf_norm) < 2:
+            continue
+        char_start = m.start()
+        char_end = m.end()
+        covered.update(range(char_start, char_end))
+        tokens.append((sf_norm, char_start, char_end))
+
+    # Snapshot covered after honorific scan; used to guard multi-word loop.
+    _honorific_covered = set(covered)
+
     # ── Multi-word phrases first ──────────────────────────────────────────────
     for m in _MULTI_CAP_RE.finditer(line):
         sf = m.group(0)
@@ -157,6 +182,11 @@ def extract_tokens(
         char_end = m.end()
         # Always mark positions covered to block double-extraction in single-word pass.
         covered.update(range(char_start, char_end))
+        # Skip if already captured by honorific pattern.
+        if char_start in _honorific_covered:
+            if drop_log is not None:
+                drop_log.append((sf, None, "honorific_covered"))
+            continue
 
         # Fix 3: trailing punctuation strip + internal whitespace collapse.
         sf_norm = _TRAILING_PUNCT_RE.sub('', sf)

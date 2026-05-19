@@ -1,0 +1,129 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000073
+entity_ref: candidate:giants
+display_name: Giants
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_02_age_of_servitude_007_the_needle_construction
+book_number: 2
+chapter_id: 007_the_needle_construction
+chapter_title: "The Needle Construction"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
+source_hash: eb120b0159c6d4e1a8581a826dd6247a474cb9606ed71e8283194d0ee2d15f7b
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_073426
+chapter_role: "resistance fighters, victims of oppression"
+identity_evidence:
+  named_directly: true
+  speaks: false
+  performs_actions: true
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 4
+state_start:
+  location: unknown
+  physical_state: "stone-flesh, consciousness-touch"
+  emotional_state: "confused, puzzled"
+  social_status: "indigenous biologicals"
+  faction_alignment: unspecified
+  identity_state: "ancient knowledge, consciousness-communion techniques"
+  knowledge_state: "aware of Anunnaki presence"
+state_during:
+  active_conditions:
+    - "resistance to construction"
+    - "learning about violence"
+  observed_traits:
+    - "stone-flesh resilience"
+    - "consciousness-touch mastery"
+  active_conflicts:
+    - "oppression vs. survival"
+  temporary_roles:
+    []
+state_end:
+  location: unknown
+  physical_state: "stone-flesh, consciousness-touch"
+  emotional_state: "grief, rage"
+  social_status: "indigenous biologicals"
+  faction_alignment: unspecified
+  identity_state: "ancient knowledge, consciousness-communion techniques"
+  unresolved_after_chapter:
+    - resistance
+relationships:
+  -
+    predicate: attacks
+    subject: Giants
+    target: Reptilians
+    evidence: inferred
+    confidence: high
+    notes: "defend against construction"
+actions:
+  -
+    action: "resist construction"
+    target: "Needle foundation"
+    consequence: "damages infrastructure, speaks in grief and rage"
+    confidence: high
+  -
+    action: "learn about violence"
+    target: Reptilians
+    consequence: "internal conflict, emotional response"
+    confidence: high
+dialogue:
+  -
+    speaker: Giants
+    addressee: null
+    quote_excerpt: "Why do you destroy it? Why?"
+    voice_note: null
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: "construction site"
+      confidence: high
+    -
+      name: "Southern Nexus Site"
+      confidence: medium
+arc_position:
+  arc_name: "oppression and resistance"
+  role_in_arc: "resistance fighters, victims of oppression"
+  chapter_function: "represent the struggle against Anunnaki"
+changes:
+  -
+    change_type: emotional_state
+    before: "confused, puzzled"
+    after: "grief, rage"
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
+    line_start: null
+    line_end: null
+    excerpt: "Then it spoke. Not language the Igigi could translate. Just a single, sustained rumble that carried such profound grief and rage."
+    supports:
+      - state_end:emotional_state
+  -
+    quote_id: Q-0002
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
+    line_start: null
+    line_end: null
+    excerpt: "In death, its consciousness-touch finally released, and Pazuzu—whose own awareness had been extended for excavation work—felt the echo of everything the Giant had been."
+    supports:
+      - state_end:identity_state
+classification_notes: "Giants are characters representing resistance against Anunnaki oppression with significant emotional development."
+continuity_flags:
+  -
+    flag_type: identity_merge_possible
+    severity: warning
+    note: "Potential for Giants' identity to merge with other characters given their shared struggle."
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

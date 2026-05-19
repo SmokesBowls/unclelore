@@ -1,0 +1,112 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000100
+entity_ref: candidate:brajor
+display_name: Brajor
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_03_the_reckoning_011_escalation_and_desperation
+book_number: 3
+chapter_id: 011_escalation_and_desperation
+chapter_title: "Escalation And Desperation"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_03_the_reckoning_011_escalation_and_desperation.md
+source_hash: 35417f67ed1daa424b3bf5bd886d4ba87677429c9dcdb6a09ce5ba7facd35f0e
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_073426
+chapter_role: "representative of the Brajor, seeking an alliance with the tribes"
+identity_evidence:
+  named_directly: true
+  speaks: true
+  performs_actions: true
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 5
+state_start:
+  location: unknown
+  physical_state: "confused and seeking understanding"
+  emotional_state: "hoping for a peaceful resolution"
+  social_status: "representative of the Brajor"
+  faction_alignment: "Brajor, potentially allies with tribes"
+  identity_state: "seeking peace and understanding"
+  knowledge_state: "aware of their unique nature"
+state_during:
+  active_conditions:
+    - "communicating with Saresh"
+    - "seeking an alliance"
+  observed_traits:
+    []
+  active_conflicts:
+    - "understanding the tribes' needs"
+  temporary_roles:
+    []
+state_end:
+  location: unknown
+  physical_state: "confused but hopeful"
+  emotional_state: "hoping for a peaceful resolution"
+  social_status: "representative of the Brajor, seeking an alliance"
+  faction_alignment: "Brajor, potentially allies with tribes"
+  identity_state: "seeking peace and understanding"
+  unresolved_after_chapter:
+    - "the Brajor's true intentions"
+relationships:
+  -
+    predicate: "representative of"
+    subject: Brajor
+    target: tribes
+    evidence: direct
+    confidence: high
+    notes: "Brajor is a representative seeking an alliance with the tribes"
+actions:
+  -
+    action: "communicating with Saresh"
+    target: null
+    consequence: "seeking to understand and be understood by the tribes"
+    confidence: high
+dialogue:
+  -
+    speaker: "Brajor scout"
+    addressee: Saresh
+    quote_excerpt: "The choice is yours."
+    voice_note: null
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: unknown
+      confidence: high
+arc_position:
+  arc_name: "unification against Anunnaki"
+  role_in_arc: setup
+  chapter_function: "Brajor's communication and offer of alliance with the tribes"
+changes:
+  -
+    change_type: identity_reveal
+    before: "confused representative"
+    after: "representative seeking an alliance"
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_03_the_reckoning_011_escalation_and_desperation.md
+    line_start: null
+    line_end: null
+    excerpt: "They had been sent to pressure the Tidecallers, but they felt more pressure themselves—from their creators, from this unfamiliar situation."
+    supports:
+      - identity:character
+classification_notes: "Brajor's role as a representative and their communication are central to the chapter"
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: null
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

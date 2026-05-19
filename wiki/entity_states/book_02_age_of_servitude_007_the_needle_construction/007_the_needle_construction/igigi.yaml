@@ -1,0 +1,128 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000075
+entity_ref: candidate:igigi
+display_name: Igigi
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_02_age_of_servitude_007_the_needle_construction
+book_number: 2
+chapter_id: 007_the_needle_construction
+chapter_title: "The Needle Construction"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
+source_hash: eb120b0159c6d4e1a8581a826dd6247a474cb9606ed71e8283194d0ee2d15f7b
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_073426
+chapter_role: "workforce, victims of oppression"
+identity_evidence:
+  named_directly: true
+  speaks: false
+  performs_actions: true
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 4
+state_start:
+  location: unknown
+  physical_state: "simple minds, crystalline infrastructure"
+  emotional_state: "confused, puzzled"
+  social_status: "Igigi workforce"
+  faction_alignment: unspecified
+  identity_state: "understanding of Anunnaki objectives"
+  knowledge_state: "aware of Anunnaki presence"
+state_during:
+  active_conditions:
+    - "working on construction"
+    - "learning about violence"
+  observed_traits:
+    - "simple minds, crystalline infrastructure"
+  active_conflicts:
+    - "oppression vs. survival"
+  temporary_roles:
+    []
+state_end:
+  location: unknown
+  physical_state: "simple minds, crystalline infrastructure"
+  emotional_state: "confused, puzzled"
+  social_status: "Igigi workforce"
+  faction_alignment: unspecified
+  identity_state: "understanding of Anunnaki objectives"
+  unresolved_after_chapter:
+    - survival
+relationships:
+  -
+    predicate: terminates
+    subject: "Reptilians, indigenous biologicals"
+    target: null
+    evidence: inferred
+    confidence: high
+    notes: "indigenous retaliation"
+actions:
+  -
+    action: "work on construction"
+    target: "Needle foundation"
+    consequence: "one hundred and twelve terminated, primarily from indigenous retaliation rather than direct assault"
+    confidence: high
+  -
+    action: "learn about violence"
+    target: Reptilians
+    consequence: "internal conflict, emotional response"
+    confidence: high
+dialogue:
+  -
+    speaker: Igigi
+    addressee: null
+    quote_excerpt: null
+    voice_note: null
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: "construction site"
+      confidence: high
+    -
+      name: "Southern Nexus Site"
+      confidence: medium
+arc_position:
+  arc_name: "oppression and resistance"
+  role_in_arc: "workforce, victims of oppression"
+  chapter_function: "represent the oppressed workforce"
+changes:
+  -
+    change_type: emotional_state
+    before: "confused, puzzled"
+    after: "confused, puzzled"
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
+    line_start: null
+    line_end: null
+    excerpt: "Casualty report... Igigi workforce: one hundred and twelve terminated, primarily from indigenous retaliation rather than direct assault."
+    supports:
+      - state_end:unresolved_after_chapter
+  -
+    quote_id: Q-0002
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
+    line_start: null
+    line_end: null
+    excerpt: "Reptilian warriors swarmed, their simple minds interpreting the destruction as primary threat."
+    supports:
+      - state_during:active_conflicts
+classification_notes: "Igigi are characters representing the oppressed workforce with no significant emotional development within this chapter."
+continuity_flags:
+  -
+    flag_type: identity_merge_possible
+    severity: low
+    note: "No significant internal conflict or change in Igigi identity."
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

@@ -1,0 +1,6725 @@
+# MrLore Registry — Entity Symbol Table
+# Generated: 2026-05-18
+# Tool: tools/registry_builder.py
+# schema: registry_symbol v1
+# entity_count: 110
+
+entities:
+
+  # ── ART-0001-chronohounds ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: ART-0001-chronohounds
+  display_name: Chronohounds
+  canonical_name: Chronohounds
+  entity_type: artifact
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_06_the_ragnarok
+      book_number: 6
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_06_the_ragnarok_ch032
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_06_the_ragnarok_ch036
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/artifacts/Chronohounds.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 13
+    chapter_count: 4
+    book_count: 1
+    primary_route: ambiguous_review_candidate
+    top_cooccurrences:
+      - Geralt
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── ART-0002-luminaire ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: ART-0002-luminaire
+  display_name: Luminaire
+  canonical_name: Luminaire
+  entity_type: artifact
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_06_the_ragnarok
+      book_number: 6
+      profile_path: null
+      confidence: low
+    - book_id: book_25_the_seam_evolutionary_south
+      book_number: 25
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_06_the_ragnarok_ch034
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_25_the_seam_evolutionary_south_ch126
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/artifacts/Luminaire.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 163
+    chapter_count: 25
+    book_count: 9
+    primary_route: identity_braid_candidate
+    top_cooccurrences:
+      - Geralt
+      - Architect
+      - Spire
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── ART-0003-observer ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: ART-0003-observer
+  display_name: Observer
+  canonical_name: Observer
+  entity_type: artifact
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_04_sage_saga
+      book_number: 4
+      profile_path: null
+      confidence: low
+    - book_id: book_17_ancestral_debt
+      book_number: 17
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_04_sage_saga_ch018
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_17_ancestral_debt_ch091
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/artifacts/Observer.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 38
+    chapter_count: 9
+    book_count: 7
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Keen
+      - Lentharis
+      - Spire
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0001-anu ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0001-anu
+  display_name: Anu
+  canonical_name: Anu
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_05_the_nameless_one
+      book_number: 5
+      profile_path: null
+      confidence: low
+    - book_id: book_25_the_seam_evolutionary_south
+      book_number: 25
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_05_the_nameless_one_ch028
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_25_the_seam_evolutionary_south_ch126
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Anu.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 22
+    chapter_count: 5
+    book_count: 4
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Igigi
+      - Zephyr's
+      - Enlil
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0002-blue-mika ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0002-blue-mika
+  display_name: Blue Mika
+  canonical_name: Blue Mika
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_10_infernal_vigil
+      book_number: 10
+      profile_path: null
+      confidence: low
+    - book_id: book_15_legends_and_gods
+      book_number: 15
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_10_infernal_vigil_ch057
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_15_legends_and_gods_ch080
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Blue_Mika.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 47
+    chapter_count: 8
+    book_count: 4
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Keen
+      - Vi
+      - Tran
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0003-brak ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0003-brak
+  display_name: Brak
+  canonical_name: Brak
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_22_listening_stone_south
+      book_number: 22
+      profile_path: null
+      confidence: low
+    - book_id: book_25_the_seam_evolutionary_south
+      book_number: 25
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_22_listening_stone_south_ch115
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_25_the_seam_evolutionary_south_ch129
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Brak.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 101
+    chapter_count: 13
+    book_count: 4
+    primary_route: ambiguous_review_candidate
+    top_cooccurrences:
+      - Keth
+      - Vale
+      - Sera
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0004-celly ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0004-celly
+  display_name: Celly
+  canonical_name: Celly
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_06_the_ragnarok
+      book_number: 6
+      profile_path: null
+      confidence: low
+    - book_id: book_08_the_vigil_of_the_anchor
+      book_number: 8
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_06_the_ragnarok_ch035
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_08_the_vigil_of_the_anchor_ch047
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Celly.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 15
+    chapter_count: 3
+    book_count: 3
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Trabin
+      - Mika
+      - Roric
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0005-damu ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0005-damu
+  display_name: Damu
+  canonical_name: Damu
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_20_the_discordant_pulse_south
+      book_number: 20
+      profile_path: null
+      confidence: low
+    - book_id: book_22_listening_stone_south
+      book_number: 22
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_20_the_discordant_pulse_south_ch106
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_22_listening_stone_south_ch115
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Damu.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 17
+    chapter_count: 4
+    book_count: 3
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Close
+      - Darkness
+      - Enki
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0006-deryn ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0006-deryn
+  display_name: Deryn
+  canonical_name: Deryn
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_20_the_discordant_pulse_south
+      book_number: 20
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_20_the_discordant_pulse_south_ch103
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources: []
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 5
+    chapter_count: 1
+    book_count: 1
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Nephoretti
+      - Several
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0007-dren ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0007-dren
+  display_name: Dren
+  canonical_name: Dren
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_05_the_nameless_one
+      book_number: 5
+      profile_path: null
+      confidence: low
+    - book_id: book_06_the_ragnarok
+      book_number: 6
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_05_the_nameless_one_ch028
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_06_the_ragnarok_ch036
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Dren.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 12
+    chapter_count: 4
+    book_count: 2
+    primary_route: ambiguous_review_candidate
+    top_cooccurrences:
+      - Behind
+      - Kael
+      - Look
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0008-elara ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0008-elara
+  display_name: Elara
+  canonical_name: Elara
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_06_the_ragnarok
+      book_number: 6
+      profile_path: null
+      confidence: low
+    - book_id: book_21_needle_and_thread_south
+      book_number: 21
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_06_the_ragnarok_ch032
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_21_needle_and_thread_south_ch109
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Elara.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 36
+    chapter_count: 8
+    book_count: 6
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Renn
+      - Geralt
+      - Behind
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0009-elyraen ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0009-elyraen
+  display_name: Elyraen
+  canonical_name: Elyraen
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_01_book_of_genesis
+      book_number: 1
+      profile_path: null
+      confidence: low
+    - book_id: book_02_age_of_servitude
+      book_number: 2
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_01_book_of_genesis_ch002
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_02_age_of_servitude_ch005
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Elyraen.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 25
+    chapter_count: 4
+    book_count: 2
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Senareth
+      - Nephoretti
+      - Giant
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0010-enara ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0010-enara
+  display_name: Enara
+  canonical_name: Enara
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_21_needle_and_thread_south
+      book_number: 21
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_21_needle_and_thread_south_ch108
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_21_needle_and_thread_south_ch111
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Enara.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 5
+    chapter_count: 2
+    book_count: 1
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Igigi
+      - Long
+      - Peace
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0011-enheduanna ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0011-enheduanna
+  display_name: Enheduanna
+  canonical_name: Enheduanna
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_15_legends_and_gods
+      book_number: 15
+      profile_path: null
+      confidence: low
+    - book_id: book_16_fragmented_beginning
+      book_number: 16
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_15_legends_and_gods_ch078
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_16_fragmented_beginning_ch085
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Enheduanna.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 38
+    chapter_count: 5
+    book_count: 2
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Queen
+      - Starbound
+      - Anunnaki
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0012-enki ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0012-enki
+  display_name: Enki
+  canonical_name: Enki
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_20_the_discordant_pulse_south
+      book_number: 20
+      profile_path: null
+      confidence: low
+    - book_id: book_21_needle_and_thread_south
+      book_number: 21
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_20_the_discordant_pulse_south_ch106
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_21_needle_and_thread_south_ch110
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Enki.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 43
+    chapter_count: 3
+    book_count: 2
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Nin
+      - Something
+      - Annunaki
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0013-enlil ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0013-enlil
+  display_name: Enlil
+  canonical_name: Enlil
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_02_age_of_servitude
+      book_number: 2
+      profile_path: null
+      confidence: low
+    - book_id: book_24_threshold_and_network_south
+      book_number: 24
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_02_age_of_servitude_ch006
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_24_threshold_and_network_south_ch124
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Enlil.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 121
+    chapter_count: 17
+    book_count: 8
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Nammu
+      - Sera
+      - Igigi
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0014-gaiana ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0014-gaiana
+  display_name: Gaiana
+  canonical_name: Gaiana
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_16_fragmented_beginning
+      book_number: 16
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_16_fragmented_beginning_ch084
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_16_fragmented_beginning_ch085
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Gaiana.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 23
+    chapter_count: 2
+    book_count: 1
+    primary_route: ambiguous_review_candidate
+    top_cooccurrences:
+      - Mr
+      - GPT
+      - Giants
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0015-garric ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0015-garric
+  display_name: Garric
+  canonical_name: Garric
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_11_blood_and_legacy
+      book_number: 11
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_11_blood_and_legacy_ch060
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_11_blood_and_legacy_ch063
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Garric.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 15
+    chapter_count: 3
+    book_count: 1
+    primary_route: ambiguous_review_candidate
+    top_cooccurrences:
+      - EXPANSION
+      - Falcon
+      - Ridge
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0016-general-marduk ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0016-general-marduk
+  display_name: General Marduk
+  canonical_name: General Marduk
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_15_legends_and_gods
+      book_number: 15
+      profile_path: null
+      confidence: low
+    - book_id: book_21_needle_and_thread_south
+      book_number: 21
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_15_legends_and_gods_ch078
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_21_needle_and_thread_south_ch111
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/General_Marduk.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 4
+    chapter_count: 2
+    book_count: 2
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Behind
+      - Earth
+      - Queen
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0017-granite ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0017-granite
+  display_name: Granite
+  canonical_name: Granite
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_21_needle_and_thread_south
+      book_number: 21
+      profile_path: null
+      confidence: low
+    - book_id: book_22_listening_stone_south
+      book_number: 22
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_21_needle_and_thread_south_ch107
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_22_listening_stone_south_ch116
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Granite.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 81
+    chapter_count: 8
+    book_count: 2
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Ma'at
+      - Vale
+      - Korr
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0018-green-mika ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0018-green-mika
+  display_name: Green Mika
+  canonical_name: Green Mika
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_10_infernal_vigil
+      book_number: 10
+      profile_path: null
+      confidence: low
+    - book_id: book_15_legends_and_gods
+      book_number: 15
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_10_infernal_vigil_ch057
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_15_legends_and_gods_ch080
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Green_Mika.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 81
+    chapter_count: 8
+    book_count: 4
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Vi
+      - Blue
+      - Mika
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0019-halvar ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0019-halvar
+  display_name: Halvar
+  canonical_name: Halvar
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_07_light_resonance_and_the_function
+      book_number: 7
+      profile_path: null
+      confidence: low
+    - book_id: book_08_the_vigil_of_the_anchor
+      book_number: 8
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_07_light_resonance_and_the_function_ch037
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_08_the_vigil_of_the_anchor_ch045
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Halvar.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 100
+    chapter_count: 8
+    book_count: 2
+    primary_route: ambiguous_review_candidate
+    top_cooccurrences:
+      - Torren
+      - Geralt
+      - Sentinel
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0020-helion ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0020-helion
+  display_name: Helion
+  canonical_name: Helion
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_14_lessons_of_inheritance
+      book_number: 14
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_14_lessons_of_inheritance_ch074
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Helion.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 12
+    chapter_count: 1
+    book_count: 1
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Thang
+      - One
+      - Rongtai
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0021-herald ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0021-herald
+  display_name: Herald
+  canonical_name: Herald
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_09_bureaucratic_debt
+      book_number: 9
+      profile_path: null
+      confidence: low
+    - book_id: book_11_blood_and_legacy
+      book_number: 11
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_09_bureaucratic_debt_ch050
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_11_blood_and_legacy_ch062
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Herald.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 6
+    chapter_count: 2
+    book_count: 2
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Protocol
+      - Return
+      - Shard
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0022-ignis ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0022-ignis
+  display_name: Ignis
+  canonical_name: Ignis
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_14_lessons_of_inheritance
+      book_number: 14
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_14_lessons_of_inheritance_ch074
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Ignis.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 6
+    chapter_count: 1
+    book_count: 1
+    primary_route: bounded_actor_candidate
+    top_cooccurrences: []
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0023-ishara ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0023-ishara
+  display_name: Ishara
+  canonical_name: Ishara
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_02_age_of_servitude
+      book_number: 2
+      profile_path: null
+      confidence: low
+    - book_id: book_04_sage_saga
+      book_number: 4
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_02_age_of_servitude_ch006
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_04_sage_saga_ch016
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Ishara.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 19
+    chapter_count: 4
+    book_count: 2
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Overseer
+      - Igigi
+      - Marduk
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0024-isla ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0024-isla
+  display_name: Isla
+  canonical_name: Isla
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_11_blood_and_legacy
+      book_number: 11
+      profile_path: null
+      confidence: low
+    - book_id: book_19_worthy_opponents_north
+      book_number: 19
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_11_blood_and_legacy_ch062
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_19_worthy_opponents_north_ch102
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Isla.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 258
+    chapter_count: 24
+    book_count: 8
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - First
+      - Keen
+      - Tongue
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0025-jin ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0025-jin
+  display_name: Jin
+  canonical_name: Jin
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_05_the_nameless_one
+      book_number: 5
+      profile_path: null
+      confidence: low
+    - book_id: book_06_the_ragnarok
+      book_number: 6
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_05_the_nameless_one_ch027
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_06_the_ragnarok_ch030
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Jin.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 11
+    chapter_count: 4
+    book_count: 2
+    primary_route: ambiguous_review_candidate
+    top_cooccurrences:
+      - Geralt
+      - Coming
+      - Kael
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0026-kael ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0026-kael
+  display_name: Kael
+  canonical_name: Kael
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_05_the_nameless_one
+      book_number: 5
+      profile_path: null
+      confidence: low
+    - book_id: book_27_the_seam_deadly_words_south
+      book_number: 27
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_05_the_nameless_one_ch026
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_27_the_seam_deadly_words_south_ch139
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Kael.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 155
+    chapter_count: 21
+    book_count: 8
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Renn
+      - Roric
+      - Sera
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0027-kaelen ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0027-kaelen
+  display_name: Kaelen
+  canonical_name: Kaelen
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_06_the_ragnarok
+      book_number: 6
+      profile_path: null
+      confidence: low
+    - book_id: book_21_needle_and_thread_south
+      book_number: 21
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_06_the_ragnarok_ch032
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_21_needle_and_thread_south_ch111
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Kaelen.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 174
+    chapter_count: 8
+    book_count: 3
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Geralt
+      - Filed
+      - High
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0028-karvex ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0028-karvex
+  display_name: Karvex
+  canonical_name: Karvex
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_09_bureaucratic_debt
+      book_number: 9
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_09_bureaucratic_debt_ch048
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_09_bureaucratic_debt_ch049
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Karvex.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 25
+    chapter_count: 2
+    book_count: 1
+    primary_route: ambiguous_review_candidate
+    top_cooccurrences:
+      - Geralt
+      - Final
+      - Ledger-Born
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0029-keen ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0029-keen
+  display_name: Keen
+  canonical_name: Keen
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_04_sage_saga
+      book_number: 4
+      profile_path: null
+      confidence: low
+    - book_id: book_19_worthy_opponents_north
+      book_number: 19
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_04_sage_saga_ch021
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_19_worthy_opponents_north_ch102
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Keen.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 394
+    chapter_count: 29
+    book_count: 10
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Vi
+      - Tran
+      - Isla
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0030-kessa ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0030-kessa
+  display_name: Kessa
+  canonical_name: Kessa
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_08_the_vigil_of_the_anchor
+      book_number: 8
+      profile_path: null
+      confidence: low
+    - book_id: book_09_bureaucratic_debt
+      book_number: 9
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_08_the_vigil_of_the_anchor_ch043
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_09_bureaucratic_debt_ch049
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Kessa.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 12
+    chapter_count: 3
+    book_count: 2
+    primary_route: ambiguous_review_candidate
+    top_cooccurrences:
+      - Construct
+      - Grenn
+      - Kael
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0031-keth ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0031-keth
+  display_name: Keth
+  canonical_name: Keth
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_22_listening_stone_south
+      book_number: 22
+      profile_path: null
+      confidence: low
+    - book_id: book_25_the_seam_evolutionary_south
+      book_number: 25
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_22_listening_stone_south_ch115
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_25_the_seam_evolutionary_south_ch127
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Keth.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 71
+    chapter_count: 11
+    book_count: 4
+    primary_route: identity_braid_candidate
+    top_cooccurrences:
+      - Brak
+      - Vale
+      - Sera
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0032-keth-rek ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0032-keth-rek
+  display_name: Keth-rek
+  canonical_name: Keth-rek
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_25_the_seam_evolutionary_south
+      book_number: 25
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_25_the_seam_evolutionary_south_ch128
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_25_the_seam_evolutionary_south_ch130
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Keth-rek.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 21
+    chapter_count: 3
+    book_count: 1
+    primary_route: ambiguous_review_candidate
+    top_cooccurrences:
+      - Gruulith
+      - Anomaly
+      - Chamber
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0033-keth-var ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0033-keth-var
+  display_name: Keth-var
+  canonical_name: Keth-var
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_26_the_seam_long_dark_south
+      book_number: 26
+      profile_path: null
+      confidence: low
+    - book_id: book_27_the_seam_deadly_words_south
+      book_number: 27
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_26_the_seam_long_dark_south_ch131
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_27_the_seam_deadly_words_south_ch135
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Keth-var.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 12
+    chapter_count: 4
+    book_count: 2
+    primary_route: ambiguous_review_candidate
+    top_cooccurrences:
+      - Igigi
+      - Thread
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0034-kethran ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0034-kethran
+  display_name: Kethran
+  canonical_name: Kethran
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_09_bureaucratic_debt
+      book_number: 9
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_09_bureaucratic_debt_ch053
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Kethran.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 11
+    chapter_count: 1
+    book_count: 1
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Geralt
+      - Solantri
+      - Anchor
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0035-khal-zur ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0035-khal-zur
+  display_name: Khal-Zur
+  canonical_name: Khal-Zur
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_17_ancestral_debt
+      book_number: 17
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_17_ancestral_debt_ch088
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_17_ancestral_debt_ch091
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Khal-Zur.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 62
+    chapter_count: 3
+    book_count: 1
+    primary_route: ambiguous_review_candidate
+    top_cooccurrences:
+      - Vi
+      - Culling
+      - Solantri
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0036-korr ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0036-korr
+  display_name: Korr
+  canonical_name: Korr
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_21_needle_and_thread_south
+      book_number: 21
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_21_needle_and_thread_south_ch107
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_21_needle_and_thread_south_ch111
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Korr.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 155
+    chapter_count: 4
+    book_count: 1
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Vale
+      - Ma'at
+      - Warleader
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0037-korrhan ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0037-korrhan
+  display_name: Korrhan
+  canonical_name: Korrhan
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_03_the_reckoning
+      book_number: 3
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_03_the_reckoning_ch010
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_03_the_reckoning_ch015
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Korrhan.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 26
+    chapter_count: 4
+    book_count: 1
+    primary_route: ambiguous_review_candidate
+    top_cooccurrences:
+      - Ash
+      - Giant
+      - Giants
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0038-kress ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0038-kress
+  display_name: Kress
+  canonical_name: Kress
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_06_the_ragnarok
+      book_number: 6
+      profile_path: null
+      confidence: low
+    - book_id: book_08_the_vigil_of_the_anchor
+      book_number: 8
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_06_the_ragnarok_ch033
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_08_the_vigil_of_the_anchor_ch046
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Kress.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 24
+    chapter_count: 2
+    book_count: 2
+    primary_route: ambiguous_review_candidate
+    top_cooccurrences:
+      - Mika
+      - Alright
+      - Anunnaki
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0039-kronocht ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0039-kronocht
+  display_name: Kronocht
+  canonical_name: Kronocht
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_17_ancestral_debt
+      book_number: 17
+      profile_path: null
+      confidence: low
+    - book_id: book_19_worthy_opponents_north
+      book_number: 19
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_17_ancestral_debt_ch089
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_19_worthy_opponents_north_ch102
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Kronocht.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 26
+    chapter_count: 4
+    book_count: 3
+    primary_route: ambiguous_review_candidate
+    top_cooccurrences:
+      - Elder
+      - Fragment
+      - Titanborn
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0040-kyh ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0040-kyh
+  display_name: Kyh
+  canonical_name: Kyh
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_09_bureaucratic_debt
+      book_number: 9
+      profile_path: null
+      confidence: low
+    - book_id: book_10_infernal_vigil
+      book_number: 10
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_09_bureaucratic_debt_ch051
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_10_infernal_vigil_ch059
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Kyh.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 111
+    chapter_count: 9
+    book_count: 2
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Geralt
+      - Oreck
+      - Inside
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0041-lentharis ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0041-lentharis
+  display_name: Lentharis
+  canonical_name: Lentharis
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_09_bureaucratic_debt
+      book_number: 9
+      profile_path: null
+      confidence: low
+    - book_id: book_17_ancestral_debt
+      book_number: 17
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_09_bureaucratic_debt_ch049
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_17_ancestral_debt_ch091
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Lentharis.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 35
+    chapter_count: 4
+    book_count: 2
+    primary_route: ambiguous_review_candidate
+    top_cooccurrences:
+      - Observer
+      - Spire
+      - Culling
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0042-lira ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0042-lira
+  display_name: Lira
+  canonical_name: Lira
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_25_the_seam_evolutionary_south
+      book_number: 25
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_25_the_seam_evolutionary_south_ch126
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_25_the_seam_evolutionary_south_ch128
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Lira.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 10
+    chapter_count: 3
+    book_count: 1
+    primary_route: ambiguous_review_candidate
+    top_cooccurrences:
+      - Tessik
+      - Ember
+      - Needle's
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0043-lyra ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0043-lyra
+  display_name: Lyra
+  canonical_name: Lyra
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_06_the_ragnarok
+      book_number: 6
+      profile_path: null
+      confidence: low
+    - book_id: book_19_worthy_opponents_north
+      book_number: 19
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_06_the_ragnarok_ch031
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_19_worthy_opponents_north_ch102
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Lyra.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 242
+    chapter_count: 24
+    book_count: 11
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Isla
+      - Geralt
+      - Ulric
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0044-marduk ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0044-marduk
+  display_name: Marduk
+  canonical_name: Marduk
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_02_age_of_servitude
+      book_number: 2
+      profile_path: null
+      confidence: low
+    - book_id: book_21_needle_and_thread_south
+      book_number: 21
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_02_age_of_servitude_ch006
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_21_needle_and_thread_south_ch111
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Marduk.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 54
+    chapter_count: 9
+    book_count: 5
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Queen
+      - Reptilian
+      - Citadel
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0045-marithel ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0045-marithel
+  display_name: Marithel
+  canonical_name: Marithel
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_18_inquisition_of_yourself
+      book_number: 18
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_18_inquisition_of_yourself_ch094
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources: []
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 8
+    chapter_count: 1
+    book_count: 1
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Document
+      - Everything
+      - Observe
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0046-mika ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0046-mika
+  display_name: Mika
+  canonical_name: Mika
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_05_the_nameless_one
+      book_number: 5
+      profile_path: null
+      confidence: low
+    - book_id: book_18_inquisition_of_yourself
+      book_number: 18
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_05_the_nameless_one_ch024
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_18_inquisition_of_yourself_ch096
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Mika.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 394
+    chapter_count: 29
+    book_count: 8
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Geralt
+      - Oreck
+      - Kress
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0047-miral ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0047-miral
+  display_name: Miral
+  canonical_name: Miral
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south
+      book_number: 23
+      profile_path: null
+      confidence: low
+    - book_id: book_24_threshold_and_network_south
+      book_number: 24
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_ch119
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_24_threshold_and_network_south_ch122
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Miral.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 56
+    chapter_count: 4
+    book_count: 2
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Nephoretti
+      - Looked
+      - Vale
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0048-nammu ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0048-nammu
+  display_name: Nammu
+  canonical_name: Nammu
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_22_listening_stone_south
+      book_number: 22
+      profile_path: null
+      confidence: low
+    - book_id: book_25_the_seam_evolutionary_south
+      book_number: 25
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_22_listening_stone_south_ch113
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_25_the_seam_evolutionary_south_ch126
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Nammu.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 96
+    chapter_count: 11
+    book_count: 4
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Enlil
+      - Vale
+      - It's
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0049-nin ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0049-nin
+  display_name: Nin
+  canonical_name: Nin
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_20_the_discordant_pulse_south
+      book_number: 20
+      profile_path: null
+      confidence: low
+    - book_id: book_21_needle_and_thread_south
+      book_number: 21
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_20_the_discordant_pulse_south_ch106
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_21_needle_and_thread_south_ch108
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Nin.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 11
+    chapter_count: 3
+    book_count: 2
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Damu's
+      - Enki
+      - Damu
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0050-ninurta ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0050-ninurta
+  display_name: Ninurta
+  canonical_name: Ninurta
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_02_age_of_servitude
+      book_number: 2
+      profile_path: null
+      confidence: low
+    - book_id: book_03_the_reckoning
+      book_number: 3
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_02_age_of_servitude_ch006
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_03_the_reckoning_ch011
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Ninurta.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 13
+    chapter_count: 3
+    book_count: 2
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Enlil
+      - Ishkur
+      - Assign
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0051-nyssa ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0051-nyssa
+  display_name: Nyssa
+  canonical_name: Nyssa
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_12_forged_identity
+      book_number: 12
+      profile_path: null
+      confidence: low
+    - book_id: book_14_lessons_of_inheritance
+      book_number: 14
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_12_forged_identity_ch068
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_14_lessons_of_inheritance_ch075
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Nyssa.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 25
+    chapter_count: 3
+    book_count: 2
+    primary_route: ambiguous_review_candidate
+    top_cooccurrences:
+      - Vi
+      - Blood
+      - Crimson
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0052-nyxthoria ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0052-nyxthoria
+  display_name: Nyxthoria
+  canonical_name: Nyxthoria
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_09_bureaucratic_debt
+      book_number: 9
+      profile_path: null
+      confidence: low
+    - book_id: book_16_fragmented_beginning
+      book_number: 16
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_09_bureaucratic_debt_ch051
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_16_fragmented_beginning_ch085
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Nyxthoria.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 7
+    chapter_count: 2
+    book_count: 2
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Flames
+      - Keeper
+      - Void
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0053-olythae ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0053-olythae
+  display_name: Olythae
+  canonical_name: Olythae
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_01_book_of_genesis
+      book_number: 1
+      profile_path: null
+      confidence: low
+    - book_id: book_02_age_of_servitude
+      book_number: 2
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_01_book_of_genesis_ch002
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_02_age_of_servitude_ch005
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Olythae.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 12
+    chapter_count: 4
+    book_count: 2
+    primary_route: ambiguous_review_candidate
+    top_cooccurrences:
+      - Elyraen
+      - Giant
+      - Kyreth
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0054-onyx ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0054-onyx
+  display_name: Onyx
+  canonical_name: Onyx
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_12_forged_identity
+      book_number: 12
+      profile_path: null
+      confidence: low
+    - book_id: book_21_needle_and_thread_south
+      book_number: 21
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_12_forged_identity_ch071
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_21_needle_and_thread_south_ch110
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Onyx.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 43
+    chapter_count: 11
+    book_count: 7
+    primary_route: ambiguous_review_candidate
+    top_cooccurrences:
+      - Caelum
+      - Shale's
+      - Tran
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0055-orathiel ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0055-orathiel
+  display_name: Orathiel
+  canonical_name: Orathiel
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_11_blood_and_legacy
+      book_number: 11
+      profile_path: null
+      confidence: low
+    - book_id: book_12_forged_identity
+      book_number: 12
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_11_blood_and_legacy_ch064
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_12_forged_identity_ch067
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Orathiel.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 9
+    chapter_count: 2
+    book_count: 2
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Citizens
+      - Citizenship
+      - Ethereal
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0056-oreck ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0056-oreck
+  display_name: Oreck
+  canonical_name: Oreck
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_05_the_nameless_one
+      book_number: 5
+      profile_path: null
+      confidence: low
+    - book_id: book_10_infernal_vigil
+      book_number: 10
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_05_the_nameless_one_ch027
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_10_infernal_vigil_ch058
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Oreck.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 392
+    chapter_count: 26
+    book_count: 6
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Geralt
+      - Mika
+      - Kyh
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0057-pazuzu ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0057-pazuzu
+  display_name: Pazuzu
+  canonical_name: Pazuzu
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_02_age_of_servitude
+      book_number: 2
+      profile_path: null
+      confidence: low
+    - book_id: book_19_worthy_opponents_north
+      book_number: 19
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_02_age_of_servitude_ch006
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_19_worthy_opponents_north_ch102
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Pazuzu.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 77
+    chapter_count: 10
+    book_count: 4
+    primary_route: identity_braid_candidate
+    top_cooccurrences:
+      - Igigi
+      - Torhh
+      - Anunnaki
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0058-ren ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0058-ren
+  display_name: Ren
+  canonical_name: Ren
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_05_the_nameless_one
+      book_number: 5
+      profile_path: null
+      confidence: low
+    - book_id: book_07_light_resonance_and_the_function
+      book_number: 7
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_05_the_nameless_one_ch026
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_07_light_resonance_and_the_function_ch041
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Ren.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 17
+    chapter_count: 6
+    book_count: 3
+    primary_route: ambiguous_review_candidate
+    top_cooccurrences:
+      - Kael
+      - Tess
+      - Vale
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0059-renn ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0059-renn
+  display_name: Renn
+  canonical_name: Renn
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_20_the_discordant_pulse_south
+      book_number: 20
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_20_the_discordant_pulse_south_ch103
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_20_the_discordant_pulse_south_ch106
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Renn.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 103
+    chapter_count: 4
+    book_count: 1
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Sera
+      - Kael
+      - Teryn
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0060-rhazorn ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0060-rhazorn
+  display_name: Rhazorn
+  canonical_name: Rhazorn
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_15_legends_and_gods
+      book_number: 15
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_15_legends_and_gods_ch082
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Rhazorn.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 25
+    chapter_count: 1
+    book_count: 1
+    primary_route: ambiguous_review_candidate
+    top_cooccurrences:
+      - Aetheric
+      - Coil
+      - Keen
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0061-rongtai ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0061-rongtai
+  display_name: Rongtai
+  canonical_name: Rongtai
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_10_infernal_vigil
+      book_number: 10
+      profile_path: null
+      confidence: low
+    - book_id: book_19_worthy_opponents_north
+      book_number: 19
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_10_infernal_vigil_ch059
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_19_worthy_opponents_north_ch102
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Rongtai.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 193
+    chapter_count: 17
+    book_count: 9
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Thang
+      - Mr
+      - Keen
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0062-sahvant ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0062-sahvant
+  display_name: Sahvant
+  canonical_name: Sahvant
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_07_light_resonance_and_the_function
+      book_number: 7
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_07_light_resonance_and_the_function_ch037
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_07_light_resonance_and_the_function_ch040
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Sahvant.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 12
+    chapter_count: 3
+    book_count: 1
+    primary_route: ambiguous_review_candidate
+    top_cooccurrences:
+      - Geralt
+      - Anunnaki
+      - Circle
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0063-saresh ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0063-saresh
+  display_name: Saresh
+  canonical_name: Saresh
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_03_the_reckoning
+      book_number: 3
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_03_the_reckoning_ch011
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_03_the_reckoning_ch015
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Saresh.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 12
+    chapter_count: 4
+    book_count: 1
+    primary_route: ambiguous_review_candidate
+    top_cooccurrences:
+      - Oasis
+      - ASH
+      - Aeon
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0064-sathrak ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0064-sathrak
+  display_name: Sath'rak
+  canonical_name: Sath'rak
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_06_the_ragnarok
+      book_number: 6
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_06_the_ragnarok_ch029
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources: []
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 14
+    chapter_count: 1
+    book_count: 1
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Applicator
+      - Geralt
+      - Mika
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0065-sathinee ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0065-sathinee
+  display_name: Sathinee
+  canonical_name: Sathinee
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_18_inquisition_of_yourself
+      book_number: 18
+      profile_path: null
+      confidence: low
+    - book_id: book_19_worthy_opponents_north
+      book_number: 19
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_18_inquisition_of_yourself_ch093
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_19_worthy_opponents_north_ch102
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Sathinee.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 77
+    chapter_count: 8
+    book_count: 2
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - It's
+      - GPT
+      - Giants
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0066-senareth ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0066-senareth
+  display_name: Senareth
+  canonical_name: Senareth
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_01_book_of_genesis
+      book_number: 1
+      profile_path: null
+      confidence: low
+    - book_id: book_07_light_resonance_and_the_function
+      book_number: 7
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_01_book_of_genesis_ch002
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_07_light_resonance_and_the_function_ch039
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Senareth.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 88
+    chapter_count: 5
+    book_count: 3
+    primary_route: ambiguous_review_candidate
+    top_cooccurrences:
+      - Nephoretti
+      - Giant
+      - Prime
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0067-sephra ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0067-sephra
+  display_name: Sephra
+  canonical_name: Sephra
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_21_needle_and_thread_south
+      book_number: 21
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_21_needle_and_thread_south_ch107
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_21_needle_and_thread_south_ch111
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Sephra.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 24
+    chapter_count: 3
+    book_count: 1
+    primary_route: ambiguous_review_candidate
+    top_cooccurrences:
+      - Enkara
+      - Granite
+      - Another
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0068-sera ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0068-sera
+  display_name: Sera
+  canonical_name: Sera
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_06_the_ragnarok
+      book_number: 6
+      profile_path: null
+      confidence: low
+    - book_id: book_25_the_seam_evolutionary_south
+      book_number: 25
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_06_the_ragnarok_ch033
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_25_the_seam_evolutionary_south_ch128
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Sera.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 325
+    chapter_count: 20
+    book_count: 7
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Teryn
+      - Igigi
+      - Renn
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0069-seren ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0069-seren
+  display_name: Seren
+  canonical_name: Seren
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_21_needle_and_thread_south
+      book_number: 21
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_21_needle_and_thread_south_ch108
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_21_needle_and_thread_south_ch111
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Seren.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 14
+    chapter_count: 2
+    book_count: 1
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Korr
+      - Granite
+      - Mora
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0070-shale ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0070-shale
+  display_name: Shale
+  canonical_name: Shale
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_21_needle_and_thread_south
+      book_number: 21
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_21_needle_and_thread_south_ch109
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_21_needle_and_thread_south_ch111
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Shale.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 16
+    chapter_count: 3
+    book_count: 1
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Tarn
+      - Ma'at
+      - Ma'at's
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0071-silver-mika ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0071-silver-mika
+  display_name: Silver Mika
+  canonical_name: Silver Mika
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_14_lessons_of_inheritance
+      book_number: 14
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_14_lessons_of_inheritance_ch076
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Silver_Mika.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 26
+    chapter_count: 1
+    book_count: 1
+    primary_route: ambiguous_review_candidate
+    top_cooccurrences:
+      - Keen
+      - Earth
+      - Moonlight
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0072-stonefall ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0072-stonefall
+  display_name: Stonefall
+  canonical_name: Stonefall
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_22_listening_stone_south
+      book_number: 22
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_22_listening_stone_south_ch113
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Stonefall.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 8
+    chapter_count: 1
+    book_count: 1
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Vale
+      - Send
+      - Zephyr
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0073-sully ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0073-sully
+  display_name: Sully
+  canonical_name: Sully
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_06_the_ragnarok
+      book_number: 6
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_06_the_ragnarok_ch034
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_06_the_ragnarok_ch035
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Sully.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 24
+    chapter_count: 2
+    book_count: 1
+    primary_route: ambiguous_review_candidate
+    top_cooccurrences:
+      - Geralt
+      - Katherine
+      - Ghost-images
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0074-tarn ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0074-tarn
+  display_name: Tarn
+  canonical_name: Tarn
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_21_needle_and_thread_south
+      book_number: 21
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_21_needle_and_thread_south_ch107
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_21_needle_and_thread_south_ch111
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Tarn.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 36
+    chapter_count: 4
+    book_count: 1
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Shale
+      - Korr
+      - First
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0075-teryn ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0075-teryn
+  display_name: Teryn
+  canonical_name: Teryn
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_20_the_discordant_pulse_south
+      book_number: 20
+      profile_path: null
+      confidence: low
+    - book_id: book_21_needle_and_thread_south
+      book_number: 21
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_20_the_discordant_pulse_south_ch103
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_21_needle_and_thread_south_ch107
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Teryn.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 179
+    chapter_count: 5
+    book_count: 2
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Sera
+      - Ma'at
+      - Kael
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0076-teryns ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0076-teryns
+  display_name: Teryn’s
+  canonical_name: Teryn’s
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases:
+    - name: Teryn’s
+      alias_type: possessive_drift
+      status: needs_review
+      first_seen: book_20_the_discordant_pulse_south_ch103
+  book_appearances:
+    - book_id: book_20_the_discordant_pulse_south
+      book_number: 20
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_20_the_discordant_pulse_south_ch103
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_20_the_discordant_pulse_south_ch105
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources: []
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 8
+    chapter_count: 3
+    book_count: 1
+    primary_route: ambiguous_review_candidate
+    top_cooccurrences:
+      - Send
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0077-tessik ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0077-tessik
+  display_name: Tessik
+  canonical_name: Tessik
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_22_listening_stone_south
+      book_number: 22
+      profile_path: null
+      confidence: low
+    - book_id: book_25_the_seam_evolutionary_south
+      book_number: 25
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_22_listening_stone_south_ch115
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_25_the_seam_evolutionary_south_ch127
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Tessik.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 21
+    chapter_count: 6
+    book_count: 3
+    primary_route: ambiguous_review_candidate
+    top_cooccurrences:
+      - Keth
+      - Vale
+      - Brak
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0078-thang ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0078-thang
+  display_name: Thang
+  canonical_name: Thang
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_10_infernal_vigil
+      book_number: 10
+      profile_path: null
+      confidence: low
+    - book_id: book_19_worthy_opponents_north
+      book_number: 19
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_10_infernal_vigil_ch059
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_19_worthy_opponents_north_ch102
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Thang.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 181
+    chapter_count: 19
+    book_count: 9
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Rongtai
+      - Tran
+      - Caelum
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0079-torhh ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0079-torhh
+  display_name: Torhh
+  canonical_name: Torhh
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_01_book_of_genesis
+      book_number: 1
+      profile_path: null
+      confidence: low
+    - book_id: book_03_the_reckoning
+      book_number: 3
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_01_book_of_genesis_ch003
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_03_the_reckoning_ch015
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Torhh.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 79
+    chapter_count: 10
+    book_count: 3
+    primary_route: identity_braid_candidate
+    top_cooccurrences:
+      - Giant
+      - Senareth
+      - Kyreth
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0080-torn ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0080-torn
+  display_name: Torn
+  canonical_name: Torn
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_06_the_ragnarok
+      book_number: 6
+      profile_path: null
+      confidence: low
+    - book_id: book_10_infernal_vigil
+      book_number: 10
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_06_the_ragnarok_ch031
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_10_infernal_vigil_ch058
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Torn.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 18
+    chapter_count: 3
+    book_count: 2
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Anunnaki
+      - Brajor
+      - Buttholes
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0081-torrhen ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0081-torrhen
+  display_name: Torrhen
+  canonical_name: Torrhen
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_03_the_reckoning
+      book_number: 3
+      profile_path: null
+      confidence: low
+    - book_id: book_24_threshold_and_network_south
+      book_number: 24
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_03_the_reckoning_ch012
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_24_threshold_and_network_south_ch124
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Torrhen.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 189
+    chapter_count: 11
+    book_count: 5
+    primary_route: ambiguous_review_candidate
+    top_cooccurrences:
+      - Deep
+      - Sage
+      - Waters
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0082-tran ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0082-tran
+  display_name: Tran
+  canonical_name: Tran
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_03_the_reckoning
+      book_number: 3
+      profile_path: null
+      confidence: low
+    - book_id: book_19_worthy_opponents_north
+      book_number: 19
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_03_the_reckoning_ch015
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_19_worthy_opponents_north_ch102
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Tran.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 451
+    chapter_count: 29
+    book_count: 12
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Dragon
+      - Mail
+      - Keen
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0083-tran-zaron ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0083-tran-zaron
+  display_name: Tran-Zaron
+  canonical_name: Tran-Zaron
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_19_worthy_opponents_north
+      book_number: 19
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_19_worthy_opponents_north_ch102
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Tran-Zaron.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 7
+    chapter_count: 1
+    book_count: 1
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Dragon
+      - Earth
+      - Improbable
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0084-tsunami-singer ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0084-tsunami-singer
+  display_name: Tsunami-Singer
+  canonical_name: Tsunami-Singer
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_19_worthy_opponents_north
+      book_number: 19
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_19_worthy_opponents_north_ch099
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_19_worthy_opponents_north_ch102
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Tsunami-Singer.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 11
+    chapter_count: 3
+    book_count: 1
+    primary_route: ambiguous_review_candidate
+    top_cooccurrences:
+      - Giants
+      - Forest
+      - Tidecallers
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0085-ulric ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0085-ulric
+  display_name: Ulric
+  canonical_name: Ulric
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_11_blood_and_legacy
+      book_number: 11
+      profile_path: null
+      confidence: low
+    - book_id: book_19_worthy_opponents_north
+      book_number: 19
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_11_blood_and_legacy_ch063
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_19_worthy_opponents_north_ch101
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Ulric.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 52
+    chapter_count: 6
+    book_count: 4
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Lyra
+      - Guard
+      - Iron
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0086-vael ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0086-vael
+  display_name: Vael
+  canonical_name: Vael
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_27_the_seam_deadly_words_south_1139_1139
+      book_number: null
+      profile_path: null
+      confidence: low
+    - book_id: book_27_the_seam_deadly_words_south
+      book_number: 27
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_27_the_seam_deadly_words_south_1139_1139
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_27_the_seam_deadly_words_south_ch139
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Vael.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 38
+    chapter_count: 2
+    book_count: 2
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Vale
+      - Looked
+      - Friend
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0087-vairis ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0087-vairis
+  display_name: Vairis
+  canonical_name: Vairis
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_01_book_of_genesis
+      book_number: 1
+      profile_path: null
+      confidence: low
+    - book_id: book_20_the_discordant_pulse_south
+      book_number: 20
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_01_book_of_genesis_ch002
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_20_the_discordant_pulse_south_ch106
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Vairis.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 33
+    chapter_count: 7
+    book_count: 3
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Nephoretti
+      - Senareth
+      - Elyraen
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0088-velthara ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0088-velthara
+  display_name: Vel'thara
+  canonical_name: Vel'thara
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_05_the_nameless_one
+      book_number: 5
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_05_the_nameless_one_ch028
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources: []
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 7
+    chapter_count: 1
+    book_count: 1
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Applicator
+      - Geralt
+      - Geralt's
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0089-venn ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0089-venn
+  display_name: Venn
+  canonical_name: Venn
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_20_the_discordant_pulse_south
+      book_number: 20
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_20_the_discordant_pulse_south_ch103
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Venn.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 11
+    chapter_count: 1
+    book_count: 1
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - East
+      - Hollow
+      - Thin
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0090-veylan ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0090-veylan
+  display_name: Veylan
+  canonical_name: Veylan
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_15_legends_and_gods
+      book_number: 15
+      profile_path: null
+      confidence: low
+    - book_id: book_19_worthy_opponents_north
+      book_number: 19
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_15_legends_and_gods_ch079
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_19_worthy_opponents_north_ch102
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Veylan.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 12
+    chapter_count: 4
+    book_count: 2
+    primary_route: ambiguous_review_candidate
+    top_cooccurrences:
+      - Spire
+      - Agreed
+      - Circle
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0091-vine ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0091-vine
+  display_name: Vine
+  canonical_name: Vine
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_20_the_discordant_pulse_south
+      book_number: 20
+      profile_path: null
+      confidence: low
+    - book_id: book_21_needle_and_thread_south
+      book_number: 21
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_20_the_discordant_pulse_south_ch104
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_21_needle_and_thread_south_ch110
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Vine.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 57
+    chapter_count: 6
+    book_count: 2
+    primary_route: ambiguous_review_candidate
+    top_cooccurrences:
+      - Ma'at
+      - Sera
+      - Kael
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0092-violet-mika ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0092-violet-mika
+  display_name: Violet Mika
+  canonical_name: Violet Mika
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_10_infernal_vigil
+      book_number: 10
+      profile_path: null
+      confidence: low
+    - book_id: book_18_inquisition_of_yourself
+      book_number: 18
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_10_infernal_vigil_ch057
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_18_inquisition_of_yourself_ch096
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Violet_Mika.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 45
+    chapter_count: 7
+    book_count: 5
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Crimson
+      - Dragon
+      - Finally
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0093-voss ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0093-voss
+  display_name: Voss
+  canonical_name: Voss
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_12_forged_identity
+      book_number: 12
+      profile_path: null
+      confidence: low
+    - book_id: book_14_lessons_of_inheritance
+      book_number: 14
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_12_forged_identity_ch068
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_14_lessons_of_inheritance_ch075
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Voss.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 18
+    chapter_count: 3
+    book_count: 2
+    primary_route: ambiguous_review_candidate
+    top_cooccurrences:
+      - Vi
+      - Nexus
+      - Temporal
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0094-white-mika ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0094-white-mika
+  display_name: White Mika
+  canonical_name: White Mika
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_12_forged_identity
+      book_number: 12
+      profile_path: null
+      confidence: low
+    - book_id: book_15_legends_and_gods
+      book_number: 15
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_12_forged_identity_ch071
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_15_legends_and_gods_ch080
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/White_Mika.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 12
+    chapter_count: 3
+    book_count: 3
+    primary_route: ambiguous_review_candidate
+    top_cooccurrences:
+      - Perhaps
+      - Tran
+      - Wisdom
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0095-xerion ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0095-xerion
+  display_name: Xerion
+  canonical_name: Xerion
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_19_worthy_opponents_north
+      book_number: 19
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_19_worthy_opponents_north_ch102
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Xerion.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 18
+    chapter_count: 1
+    book_count: 1
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Keen
+      - Rongtai
+      - Queen
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0096-yarrow ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0096-yarrow
+  display_name: Yarrow
+  canonical_name: Yarrow
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_21_needle_and_thread_south
+      book_number: 21
+      profile_path: null
+      confidence: low
+    - book_id: book_25_the_seam_evolutionary_south
+      book_number: 25
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_21_needle_and_thread_south_ch109
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_25_the_seam_evolutionary_south_ch125
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Yarrow.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 17
+    chapter_count: 3
+    book_count: 2
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Grove
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CHR-0097-zephyr ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0097-zephyr
+  display_name: Zephyr
+  canonical_name: Zephyr
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_04_sage_saga
+      book_number: 4
+      profile_path: null
+      confidence: low
+    - book_id: book_25_the_seam_evolutionary_south
+      book_number: 25
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_04_sage_saga_ch016
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_25_the_seam_evolutionary_south_ch128
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Zephyr.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 658
+    chapter_count: 33
+    book_count: 11
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Vale
+      - That's
+      - Seven
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CON-0001-aeon-keeper ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CON-0001-aeon-keeper
+  display_name: Aeon Keeper
+  canonical_name: Aeon Keeper
+  entity_type: concept
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_03_the_reckoning
+      book_number: 3
+      profile_path: null
+      confidence: low
+    - book_id: book_19_worthy_opponents_north
+      book_number: 19
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_03_the_reckoning_ch012
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_19_worthy_opponents_north_ch102
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/terms/Aeon_Keeper.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 48
+    chapter_count: 14
+    book_count: 7
+    primary_route: identity_braid_candidate
+    top_cooccurrences:
+      - Zaron
+      - Anunnaki
+      - Dragon
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CON-0002-aetheric-coil ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CON-0002-aetheric-coil
+  display_name: Aetheric Coil
+  canonical_name: Aetheric Coil
+  entity_type: concept
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_09_bureaucratic_debt
+      book_number: 9
+      profile_path: null
+      confidence: low
+    - book_id: book_17_ancestral_debt
+      book_number: 17
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_09_bureaucratic_debt_ch049
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_17_ancestral_debt_ch091
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/terms/Aetheric_Coil.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 30
+    chapter_count: 5
+    book_count: 3
+    primary_route: ambiguous_review_candidate
+    top_cooccurrences:
+      - Xalthor
+      - Observer
+      - Keen
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CON-0003-cliff-giant ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CON-0003-cliff-giant
+  display_name: Cliff Giant
+  canonical_name: Cliff Giant
+  entity_type: concept
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south
+      book_number: 23
+      profile_path: null
+      confidence: low
+    - book_id: book_24_threshold_and_network_south
+      book_number: 24
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_ch119
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_24_threshold_and_network_south_ch124
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/terms/Cliff_Giant.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 12
+    chapter_count: 4
+    book_count: 2
+    primary_route: ambiguous_review_candidate
+    top_cooccurrences:
+      - Vale
+      - Sit
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CON-0004-forest-giant ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CON-0004-forest-giant
+  display_name: Forest Giant
+  canonical_name: Forest Giant
+  entity_type: concept
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_03_the_reckoning
+      book_number: 3
+      profile_path: null
+      confidence: low
+    - book_id: book_19_worthy_opponents_north
+      book_number: 19
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_03_the_reckoning_ch010
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_19_worthy_opponents_north_ch102
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/terms/Forest_Giant.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 9
+    chapter_count: 7
+    book_count: 3
+    primary_route: ambiguous_review_candidate
+    top_cooccurrences:
+      - Ash
+      - Giant
+      - Contact
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CON-0005-lord-stormhelm ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CON-0005-lord-stormhelm
+  display_name: Lord Stormhelm
+  canonical_name: Lord Stormhelm
+  entity_type: concept
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_11_blood_and_legacy
+      book_number: 11
+      profile_path: null
+      confidence: low
+    - book_id: book_19_worthy_opponents_north
+      book_number: 19
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_11_blood_and_legacy_ch063
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_19_worthy_opponents_north_ch100
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/terms/Lord_Stormhelm.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 6
+    chapter_count: 3
+    book_count: 3
+    primary_route: ambiguous_review_candidate
+    top_cooccurrences:
+      - Channeled
+      - Council
+      - Halt
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── CON-0006-node-gamma ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CON-0006-node-gamma
+  display_name: Node Gamma
+  canonical_name: Node Gamma
+  entity_type: concept
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_07_light_resonance_and_the_function
+      book_number: 7
+      profile_path: null
+      confidence: low
+    - book_id: book_25_the_seam_evolutionary_south
+      book_number: 25
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_07_light_resonance_and_the_function_ch039
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_25_the_seam_evolutionary_south_ch126
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/terms/Node_Gamma.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 32
+    chapter_count: 6
+    book_count: 3
+    primary_route: ambiguous_review_candidate
+    top_cooccurrences:
+      - Queen's
+      - Applicator
+      - Dirt
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── LOC-0001-vale ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: LOC-0001-vale
+  display_name: Vale
+  canonical_name: Vale
+  entity_type: location
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_05_the_nameless_one
+      book_number: 5
+      profile_path: null
+      confidence: low
+    - book_id: book_27_the_seam_deadly_words_south
+      book_number: 27
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_05_the_nameless_one_ch026
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_27_the_seam_deadly_words_south_ch139
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/locations/Vale.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 1400
+    chapter_count: 31
+    book_count: 10
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Zephyr
+      - Igigi
+      - Korr
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── SPE-0001-draco ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: SPE-0001-draco
+  display_name: Draco
+  canonical_name: Draco
+  entity_type: species
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_11_blood_and_legacy
+      book_number: 11
+      profile_path: null
+      confidence: low
+    - book_id: book_17_ancestral_debt
+      book_number: 17
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_11_blood_and_legacy_ch065
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_17_ancestral_debt_ch090
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/species/Draco.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 21
+    chapter_count: 8
+    book_count: 5
+    primary_route: ambiguous_review_candidate
+    top_cooccurrences:
+      - Vi
+      - Blood
+      - Curse
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── UNK-0001-sekhan ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: UNK-0001-sekhan
+  display_name: Sek'han
+  canonical_name: Sek'han
+  entity_type: unknown
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_08_the_vigil_of_the_anchor
+      book_number: 8
+      profile_path: null
+      confidence: low
+    - book_id: book_14_lessons_of_inheritance
+      book_number: 14
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_08_the_vigil_of_the_anchor_ch047
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_14_lessons_of_inheritance_ch077
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources: []
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 7
+    chapter_count: 4
+    book_count: 4
+    primary_route: ambiguous_review_candidate
+    top_cooccurrences:
+      - First
+      - Isla
+      - Tongue
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+
+  # ── UNK-0002-vaelros ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: UNK-0002-vaelros
+  display_name: Vaelros
+  canonical_name: Vaelros
+  entity_type: unknown
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_07_light_resonance_and_the_function
+      book_number: 7
+      profile_path: null
+      confidence: low
+    - book_id: book_16_fragmented_beginning
+      book_number: 16
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_07_light_resonance_and_the_function_ch038
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_16_fragmented_beginning_ch085
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources: []
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-18
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 7
+    chapter_count: 3
+    book_count: 2
+    primary_route: ambiguous_review_candidate
+    top_cooccurrences:
+      - Crimson
+      - Titan
+  timestamps:
+    created_at: 2026-05-18
+    updated_at: 2026-05-18
+

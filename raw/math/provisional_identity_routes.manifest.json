@@ -1,8 +1,8 @@
 {
   "tool": "provisional_identity_router/0.1.0",
-  "timestamp": "2026-05-18T13:23:42Z",
+  "timestamp": "2026-05-19T04:48:16Z",
   "input_stats": "raw/math/identity_signal_stats.jsonl",
-  "input_stats_hash": "e44c52778e9a475c16a66b2148209b58e06d399c53c68f568e976f4b89f14f8c",
+  "input_stats_hash": "a905c7177d72d8acbd6937adda7a6f1f50c2b12d1c4bc90f2202001af65f9e54",
   "threshold_config_source": "embedded_defaults",
   "threshold_config_hash": "cd81146cde99bf050369d062492876c18e12501d9ddbd2e1648cf50dd5acfa46",
   "thresholds": {
@@ -35,14 +35,14 @@
       "total_mentions_max": 3
     }
   },
-  "total_records": 7825,
+  "total_records": 7823,
   "bucket_counts": {
-    "noise_or_header_candidate": 6032,
-    "concept_field_candidate": 1123,
+    "noise_or_header_candidate": 6030,
+    "concept_field_candidate": 1122,
     "bounded_actor_candidate": 68,
-    "collective_or_species_candidate": 138,
-    "identity_braid_candidate": 42,
+    "collective_or_species_candidate": 137,
+    "identity_braid_candidate": 43,
     "sparse_reference_candidate": 129,
-    "ambiguous_review_candidate": 293
+    "ambiguous_review_candidate": 294
   }
 }

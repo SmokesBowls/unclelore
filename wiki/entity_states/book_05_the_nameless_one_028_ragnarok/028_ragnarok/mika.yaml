@@ -1,0 +1,99 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000138
+entity_ref: candidate:mika
+display_name: Mika
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_05_the_nameless_one_028_ragnarok
+book_number: 5
+chapter_id: 028_ragnarok
+chapter_title: Ragnarok
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+source_hash: 2e0e370e47116a3e4086dec07e3af3229888e73806a3718c9ca5372f74ce6b3b
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_134701
+chapter_role: "leader of the infiltration team, coordinates resistance against Anunnaki authority"
+identity_evidence:
+  named_directly: true
+  speaks: false
+  performs_actions: true
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: false
+  exhibits_unified_action: true
+  identity_confidence: high
+  identity_signal_count: 5
+timeline_events:
+  -
+    event_type: state_change
+    description: "Mika leads her infiltration team toward mining operations, exploiting vulnerability in Anunnaki security"
+    confidence: high
+    source_quote_id: null
+  -
+    event_type: state_change
+    description: "Mika's telekinetic force was sufficient for sabotage."
+    confidence: medium
+    source_quote_id: null
+relationships:
+  -
+    predicate: "leader of the infiltration team"
+    subject: Mika
+    target: "infiltration team"
+    evidence: direct
+    confidence: high
+    notes: ""
+actions:
+  -
+    action: "leads her infiltration team toward mining operations"
+    target: null
+    consequence: "exploits vulnerability in Anunnaki security"
+    confidence: high
+  -
+    action: "telekinetic force that Mika had been developing, that remained crude compared to Geralt's capability but sufficient for sabotage."
+    target: null
+    consequence: sabotage
+    confidence: medium
+dialogue:
+  []
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: "compound walls"
+      confidence: high
+arc_position:
+  arc_name: unknown
+  role_in_arc: "setup | escalation"
+  chapter_function: ""
+changes:
+  []
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+    line_start: null
+    line_end: null
+    excerpt: "Mika led her infiltration team toward mining operations that extended beyond compound walls—work parties supervised by single guard rather than full security detail, vulnerability that existed because Anunnaki had never conceived that slaves might coordinate resistance across compounds."
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0002
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+    line_start: null
+    line_end: null
+    excerpt: "Mika's telekinetic force was sufficient for sabotage."
+    supports:
+      - identity:character
+classification_notes: ""
+continuity_flags:
+  []
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

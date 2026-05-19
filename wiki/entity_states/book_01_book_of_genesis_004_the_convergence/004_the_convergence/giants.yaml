@@ -1,0 +1,112 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000037
+entity_ref: candidate:giants
+display_name: Giants
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_01_book_of_genesis_004_the_convergence
+book_number: 1
+chapter_id: 004_the_convergence
+chapter_title: "The Convergence"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_004_the_convergence.md
+source_hash: 254a824241f039db73334ede6b0e3526525a5ccc5a58f5e4ae3062ae135d3a61
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_024510
+chapter_role: "Artistic collaborators and learners"
+identity_evidence:
+  named_directly: false
+  speaks: false
+  performs_actions: true
+  receives_description: true
+  has_internal_state: true
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 4
+state_start:
+  location: beach
+  physical_state: unknown
+  emotional_state: "conflicted, uncertain"
+  social_status: "collaborators and learners"
+  faction_alignment: unknown
+  identity_state: unknown
+  knowledge_state: unknown
+state_during:
+  active_conditions:
+    - "participate in artistic dialogue"
+  observed_traits:
+    []
+  active_conflicts:
+    - "internal conflict between fear and curiosity"
+  temporary_roles:
+    []
+state_end:
+  location: beach
+  physical_state: unknown
+  emotional_state: "understanding, sympathy"
+  social_status: "collaborators and learners"
+  faction_alignment: unknown
+  identity_state: unknown
+  unresolved_after_chapter:
+    []
+relationships:
+  -
+    predicate: "learns from"
+    subject: Giants
+    target: Olythae
+    evidence: direct
+    confidence: high
+    notes: "Artistic collaboration"
+actions:
+  -
+    action: "participate in artistic dialogue"
+    target: Olythae
+    consequence: null
+    confidence: high
+  -
+    action: "internal conflict between fear and curiosity"
+    target: null
+    consequence: null
+    confidence: high
+dialogue:
+  []
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: beach
+      confidence: high
+arc_position:
+  arc_name: unknown
+  role_in_arc: "setup and resolution"
+  chapter_function: "participate in artistic dialogue, resolve internal conflict through understanding"
+changes:
+  -
+    change_type: "emotional state change from fear to understanding"
+    before: "conflicted, uncertain"
+    after: "understanding, sympathy"
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_004_the_convergence.md
+    line_start: null
+    line_end: null
+    excerpt: "The jade-greens tensed. Several made warning sounds, deep rumbles that vibrated through Senareth's chest cavity. But Torhh didn't flee. Didn't attack. Just stood there, frozen in that same internal conflict that had marked all their interactions."
+    supports:
+      - identity:character
+classification_notes: "Artistic collaborators and learners"
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: "No continuity issues identified"
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

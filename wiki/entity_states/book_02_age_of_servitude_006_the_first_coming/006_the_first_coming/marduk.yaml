@@ -1,0 +1,108 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000061
+entity_ref: candidate:marduk
+display_name: Marduk
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_02_age_of_servitude_006_the_first_coming
+book_number: 2
+chapter_id: 006_the_first_coming
+chapter_title: "The First Coming"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+source_hash: cf57ad4230c36e0a80d1b043d310f0622d67427542d211d02be06b3b3c3065c1
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_073426
+chapter_role: "Anunnaki overseer responsible for construction and workforce deployment."
+identity_evidence:
+  named_directly: true
+  speaks: true
+  performs_actions: true
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 5
+state_start:
+  location: "Command center"
+  physical_state: "Efficient, satisfied with progress."
+  emotional_state: "Satisfied, confident in plan."
+  social_status: "High-ranking Anunnaki overseer."
+  faction_alignment: "Anunnaki faction."
+  identity_state: "Self-assured and calculating."
+  knowledge_state: "Knowledgeable about construction and workforce deployment."
+state_during:
+  active_conditions:
+    - "Efficient operations"
+    - "Optimal plan execution"
+  observed_traits:
+    []
+  active_conflicts:
+    []
+  temporary_roles:
+    []
+state_end:
+  location: Unknown
+  physical_state: Unknown
+  emotional_state: "Satisfied, confident in plan."
+  social_status: "High-ranking Anunnaki overseer."
+  faction_alignment: "Anunnaki faction."
+  identity_state: "Self-assured and calculating."
+  unresolved_after_chapter:
+    []
+relationships:
+  -
+    predicate: instructs
+    subject: Marduk
+    target: "Citadel command"
+    evidence: direct
+    confidence: high
+    notes: null
+actions:
+  -
+    action: "gives status report"
+    target: "Citadel command"
+    consequence: "Manufacturing complex operational, ready for workforce deployment."
+    confidence: high
+dialogue:
+  []
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: "Command center"
+      confidence: high
+arc_position:
+  arc_name: unknown
+  role_in_arc: "setup | escalation"
+  chapter_function: "Provides context for Anunnaki plans and operations."
+changes:
+  -
+    change_type: none
+    before: "Self-assured and calculating."
+    after: "Self-assured and calculating."
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+    line_start: null
+    line_end: null
+    excerpt: "\"Status report to Citadel command,\" Marduk instructed once construction completed. \"Manufacturing complex operational. Ready for workforce deployment.\""
+    supports:
+      - identity:character
+classification_notes: "Marduk is a high-ranking Anunnaki overseer with clear actions and dialogue."
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: null
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

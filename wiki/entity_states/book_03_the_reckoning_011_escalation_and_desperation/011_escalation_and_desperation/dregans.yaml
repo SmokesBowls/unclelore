@@ -1,0 +1,108 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000096
+entity_ref: candidate:dregans
+display_name: Dregans
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_03_the_reckoning_011_escalation_and_desperation
+book_number: 3
+chapter_id: 011_escalation_and_desperation
+chapter_title: "Escalation And Desperation"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_03_the_reckoning_011_escalation_and_desperation.md
+source_hash: 35417f67ed1daa424b3bf5bd886d4ba87677429c9dcdb6a09ce5ba7facd35f0e
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_073426
+chapter_role: "Corrupted Dragons used as weapons."
+identity_evidence:
+  named_directly: false
+  speaks: false
+  performs_actions: true
+  receives_description: true
+  has_internal_state: true
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 3
+state_start:
+  location: "Genesis Chambers, Crimson Citadel"
+  physical_state: "emerging with violent intensity"
+  emotional_state: "existential fury"
+  social_status: "chaotic and autonomous"
+  faction_alignment: Anunnaki
+  identity_state: "Failed Dragons"
+  knowledge_state: "aware of their own degradation"
+state_during:
+  active_conditions:
+    - "exceeding safe parameters"
+    - "sporadic obedience"
+  observed_traits:
+    - "rage-based objectives"
+    - "fine motor skills"
+    - "tool-use sophistication"
+  active_conflicts:
+    []
+  temporary_roles:
+    []
+state_end:
+  location: Desert
+  physical_state: "unleashing destruction"
+  emotional_state: "existential fury"
+  social_status: "chaotic and autonomous"
+  faction_alignment: Anunnaki
+  identity_state: "Failed Dragons"
+  unresolved_after_chapter:
+    - autonomy
+    - "potential for self-destruction"
+relationships:
+  []
+actions:
+  -
+    action: "emerging from genesis chambers"
+    target: null
+    consequence: "causing structural damage to the chamber"
+    confidence: high
+dialogue:
+  []
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: "Genesis Chambers, Crimson Citadel"
+      confidence: high
+    -
+      name: Desert
+      confidence: high
+arc_position:
+  arc_name: unknown
+  role_in_arc: setup
+  chapter_function: "deployment and initial engagement with Oasis Clans"
+changes:
+  -
+    change_type: none
+    before: null
+    after: null
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_03_the_reckoning_011_escalation_and_desperation.md
+    line_start: null
+    line_end: null
+    excerpt: "The Dregan's tail, a whip of segmented stone and muscle, lashed out with impossible speed. It wrapped around a sandstone monolith, lifted the multi-ton stone with terrifying delicacy, and hurled it."
+    supports:
+      - identity:character
+classification_notes: "Dregans are corrupted Dragons used as weapons by Anunnaki."
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: null
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

@@ -1,0 +1,143 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000083
+entity_ref: candidate:torhh
+display_name: Torhh
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_02_age_of_servitude_008_queens_assessment
+book_number: 2
+chapter_id: 008_queens_assessment
+chapter_title: "Queens Assessment"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_008_queens_assessment.md
+source_hash: 1642460d36fcdae5f41d9e254413dc1dc723720378a86140cf60749252514d81
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_073426
+chapter_role: "A jade-green Giant working alongside Pazuzu to build the Needle's foundation. Torhh is concerned about internal tensions and the impact of ocean rituals on desert Giants."
+identity_evidence:
+  named_directly: true
+  speaks: true
+  performs_actions: true
+  receives_description: true
+  has_internal_state: true
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 6
+state_start:
+  location: "Northern Nexus Site, First Seeds"
+  physical_state: "working on the Needle's foundation with Pazuzu"
+  emotional_state: "troubled by internal tensions and resource disagreements"
+  social_status: "cooperating with Pazuzu but facing internal conflicts"
+  faction_alignment: Igigi
+  identity_state: "Giant of the oceanic origin"
+  knowledge_state: "aware of the importance of their rituals"
+state_during:
+  active_conditions:
+    - "internal tensions"
+    - "resource disagreements"
+  observed_traits:
+    - "defensive about sacred practices"
+    - "processing implications of Pazuzu's observations"
+  active_conflicts:
+    []
+  temporary_roles:
+    []
+state_end:
+  location: "Northern Nexus Site, First Seeds"
+  physical_state: "working on the Needle's foundation with Pazuzu"
+  emotional_state: "troubled by internal tensions and resource disagreements"
+  social_status: "cooperating with Pazuzu but facing internal conflicts"
+  faction_alignment: Igigi
+  identity_state: "Giant of the oceanic origin"
+  unresolved_after_chapter:
+    - "potential cultural division"
+relationships:
+  -
+    predicate: "colleague in suffering"
+    subject: Torhh
+    target: Pazuzu
+    evidence: direct
+    confidence: high
+    notes: "Cooperating despite the fundamental wrongness of their work"
+  -
+    predicate: suspicion
+    subject: Torhh
+    target: "desert Giants"
+    evidence: inferred
+    confidence: medium
+    notes: "Considering reducing rituals for desert Giants' comfort, but defensive about sacred practices"
+actions:
+  -
+    action: "working on the Needle's foundation"
+    target: null
+    consequence: null
+    confidence: high
+  -
+    action: "responding to Pazuzu's observations"
+    target: Pazuzu
+    consequence: "processing implications of Pazuzu's observations"
+    confidence: medium
+dialogue:
+  -
+    speaker: Torhh
+    addressee: Pazuzu
+    quote_excerpt: "Your people seem troubled lately, more arguments between the ocean-colored ones and the desert-dwellers. I've noticed tension during the tribal gatherings."
+    voice_note: null
+  -
+    speaker: Torhh
+    addressee: Pazuzu
+    quote_excerpt: "The desert ones complain about moisture levels, they say the weather has become more humid since we intensified our ocean communion rituals. They struggle in the dampness."
+    voice_note: null
+  -
+    speaker: Torhh
+    addressee: Pazuzu
+    quote_excerpt: "The desert Giants have their own territories, their own rituals. If humidity bothered them, perhaps they should remain in their preferred environments rather than complaining about coastal weather patterns."
+    voice_note: null
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: "Northern Nexus Site, First Seeds"
+      confidence: high
+arc_position:
+  arc_name: unknown
+  role_in_arc: setup
+  chapter_function: "introducing internal tensions and the impact of rituals on desert Giants"
+changes:
+  -
+    change_type: relationship_change
+    before: "colleague in suffering with Pazuzu"
+    after: "suspicion towards desert Giants"
+    confidence: medium
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_008_queens_assessment.md
+    line_start: null
+    line_end: null
+    excerpt: "Your people seem troubled lately, more arguments between the ocean-colored ones and the desert-dwellers. I've noticed tension during the tribal gatherings."
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0002
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_008_queens_assessment.md
+    line_start: null
+    line_end: null
+    excerpt: "The desert ones complain about moisture levels, they say the weather has become more humid since we intensified our ocean communion rituals. They struggle in the dampness."
+    supports:
+      - state:during
+classification_notes: "Torhh is a character with clear identity signals and internal state changes."
+continuity_flags:
+  -
+    flag_type: relationship_conflict
+    severity: warning
+    note: "Potential conflict between Torhh and desert Giants due to differing views on rituals."
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

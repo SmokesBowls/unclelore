@@ -1,0 +1,130 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000035
+entity_ref: candidate:giants_burnt_reds_charcoal_grey
+display_name: "Giants (burnt-reds, charcoal-grey)"
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_01_book_of_genesis_004_the_convergence
+book_number: 1
+chapter_id: 004_the_convergence
+chapter_title: "The Convergence"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_004_the_convergence.md
+source_hash: 254a824241f039db73334ede6b0e3526525a5ccc5a58f5e4ae3062ae135d3a61
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_024510
+chapter_role: "Giants during the Giant Convergence."
+identity_evidence:
+  named_directly: true
+  speaks: false
+  performs_actions: true
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 4
+state_start:
+  location: "tree line"
+  physical_state: "standing, curious"
+  emotional_state: "curious, intelligent"
+  social_status: Giants
+  faction_alignment: Giants
+  identity_state: unknown
+  knowledge_state: "aware of Neferati presence"
+state_during:
+  active_conditions:
+    - "approaching Senareth"
+    - "communicating with Olythae"
+  observed_traits:
+    - "intelligent, curious"
+  active_conflicts:
+    []
+  temporary_roles:
+    []
+state_end:
+  location: "tree line"
+  physical_state: "standing, curious"
+  emotional_state: "curious, intelligent"
+  social_status: Giants
+  faction_alignment: Giants
+  identity_state: unknown
+  unresolved_after_chapter:
+    - "communicating with Olythae"
+relationships:
+  -
+    predicate: communication
+    subject: "Giants (burnt-reds, charcoal-grey)"
+    target: Olythae
+    evidence: direct
+    confidence: high
+    notes: "Approaching and communicating with Olythae."
+actions:
+  -
+    action: "approaching Senareth"
+    target: Senareth
+    consequence: "closer than any Giant had ventured since first contact."
+    confidence: high
+  -
+    action: "communicating with Olythae"
+    target: Olythae
+    consequence: "sand begins to move in response to Giant's consciousness-touch."
+    confidence: high
+dialogue:
+  -
+    speaker: "Torhh (Giant)"
+    addressee: Senareth
+    quote_excerpt: "rumbled—that deep, harmonic vocalization that made the ground vibrate."
+    voice_note: null
+  -
+    speaker: Olythae
+    addressee: "Giant (Torhh)"
+    quote_excerpt: "sand began to move. Not through wind or water, but in response to the Giant's consciousness-touch."
+    voice_note: null
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: "tree line"
+      confidence: high
+arc_position:
+  arc_name: "Aaon Keepers"
+  role_in_arc: escalation
+  chapter_function: "Giants during the Giant Convergence."
+changes:
+  -
+    change_type: relationship_change
+    before: unknown
+    after: "communication with Olythae"
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_004_the_convergence.md
+    line_start: null
+    line_end: null
+    excerpt: "Torhh rumbled—that deep, harmonic vocalization that made the ground vibrate."
+    supports:
+      - "state_start:approaching Senareth"
+  -
+    quote_id: Q-0002
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_004_the_convergence.md
+    line_start: null
+    line_end: null
+    excerpt: "sand began to move. Not through wind or water, but in response to the Giant's consciousness-touch."
+    supports:
+      - "state_end:communicating with Olythae"
+classification_notes: "Giants during the Giant Convergence."
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: null
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

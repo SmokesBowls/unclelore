@@ -1,0 +1,124 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000069
+entity_ref: candidate:ishara
+display_name: Ishara
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_02_age_of_servitude_007_the_needle_construction
+book_number: 2
+chapter_id: 007_the_needle_construction
+chapter_title: "The Needle Construction"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
+source_hash: eb120b0159c6d4e1a8581a826dd6247a474cb9606ed71e8283194d0ee2d15f7b
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_073426
+chapter_role: "One of forty Igigi assigned to the construction crew at the Northern Nexus Site."
+identity_evidence:
+  named_directly: false
+  speaks: true
+  performs_actions: true
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: false
+  identity_confidence: medium
+  identity_signal_count: 4
+state_start:
+  location: "Northern Nexus Site"
+  physical_state: "confused and fearful"
+  emotional_state: "uncertain about the construction task"
+  social_status: "slave, part of Igigi workforce"
+  faction_alignment: Anunnaki
+  identity_state: Igigi
+  knowledge_state: "aware of construction tasks"
+state_during:
+  active_conditions:
+    - "construction work"
+    - "presence of indigenous biologicals"
+  observed_traits:
+    []
+  active_conflicts:
+    - "indigenous presence and potential conflict"
+  temporary_roles:
+    []
+state_end:
+  location: "Northern Nexus Site"
+  physical_state: "confused and fearful"
+  emotional_state: "alarmed by indigenous response"
+  social_status: "slave, part of Igigi workforce"
+  faction_alignment: Anunnaki
+  identity_state: Igigi
+  unresolved_after_chapter:
+    - "indigenous resistance"
+relationships:
+  -
+    predicate: workmate
+    subject: Ishara
+    target: "Pazuzu, other Igigi"
+    evidence: direct
+    confidence: medium
+    notes: "Ishara works alongside Pazuzu and other Igigi."
+actions:
+  -
+    action: "whispered about indigenous presence"
+    target: null
+    consequence: "Expressed fear to Pazuzu"
+    confidence: medium
+  -
+    action: "participated in excavation work"
+    target: null
+    consequence: "Helped create a wound in the earth with other Igigi"
+    confidence: medium
+dialogue:
+  -
+    speaker: Ishara
+    text: "\"They know we're here,\"\nIshara whispered, her patterns dimming with fear."
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: "Northern Nexus Site"
+      confidence: high
+arc_position:
+  arc_name: unknown
+  role_in_arc: "participant in the construction work and witness to indigenous response."
+  chapter_function: "illustrates the fear and confusion of the Igigi workforce."
+changes:
+  -
+    change_type: none
+    before: "confused and fearful"
+    after: "alarmed by indigenous response"
+    confidence: medium
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
+    line_start: null
+    line_end: null
+    excerpt: "\"They know we're here,\"\nIshara whispered, her patterns dimming with fear."
+    supports:
+      - identity:character
+      - state_end
+  -
+    quote_id: Q-0002
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
+    line_start: null
+    line_end: null
+    excerpt: "The first Giant emerged from the mountain's entrance perhaps an hour later."
+    supports:
+      - state_during
+classification_notes: "Ishara is a slave Igigi who participates in construction work and experiences fear upon encountering indigenous biologicals."
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: "No continuity issues identified."
+compiler_notes:
+  eligible_for_book_profile: false
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

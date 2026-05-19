@@ -1,0 +1,122 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000071
+entity_ref: candidate:giant
+display_name: Giant
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_02_age_of_servitude_007_the_needle_construction
+book_number: 2
+chapter_id: 007_the_needle_construction
+chapter_title: "The Needle Construction"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
+source_hash: eb120b0159c6d4e1a8581a826dd6247a474cb9606ed71e8283194d0ee2d15f7b
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_073426
+chapter_role: "Stone-entities that emerge from the mountain in response to Anunnaki construction."
+identity_evidence:
+  named_directly: false
+  speaks: false
+  performs_actions: true
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 3
+state_start:
+  location: "Northern Nexus Site"
+  physical_state: unknown
+  emotional_state: unknown
+  social_status: "indigenous biologicals, part of the mountain's ecosystem"
+  faction_alignment: unknown
+  identity_state: Stone-entities
+  knowledge_state: "aware of intrusion"
+state_during:
+  active_conditions:
+    - "response to Anunnaki construction"
+    - "observation and potential defensive mobilization"
+  observed_traits:
+    []
+  active_conflicts:
+    - "indigenous presence and potential conflict with Anunnaki"
+  temporary_roles:
+    []
+state_end:
+  location: "Northern Nexus Site"
+  physical_state: unknown
+  emotional_state: "alarmed by Anunnaki intrusion"
+  social_status: "indigenous biologicals, part of the mountain's ecosystem"
+  faction_alignment: unknown
+  identity_state: Stone-entities
+  unresolved_after_chapter:
+    - "potential conflict with Anunnaki"
+relationships:
+  -
+    predicate: "response to intrusion"
+    subject: Giant
+    target: "Anunnaki, specifically Marduk and his forces"
+    evidence: direct
+    confidence: high
+    notes: "The Giants recognize the Anunnaki as intruders."
+actions:
+  -
+    action: "emerged from mountain entrance"
+    target: null
+    consequence: "First Giant and others followed, creating tremors with each step"
+    confidence: high
+  -
+    action: "watched Anunnaki construction work"
+    target: null
+    consequence: "Did not attack but observed the situation closely"
+    confidence: high
+dialogue:
+  []
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: "Northern Nexus Site"
+      confidence: high
+arc_position:
+  arc_name: unknown
+  role_in_arc: "indigenous response to Anunnaki construction."
+  chapter_function: "illustrates the indigenous biologicals' reaction to Anunnaki presence."
+changes:
+  -
+    change_type: none
+    before: "alarmed by Anunnaki intrusion"
+    after: same
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
+    line_start: null
+    line_end: null
+    excerpt: "The first Giant emerged from the mountain's entrance perhaps an hour later."
+    supports:
+      - identity:character
+      - state_during
+  -
+    quote_id: Q-0002
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
+    line_start: null
+    line_end: null
+    excerpt: "They watched the Anunnaki work, their presence a silent but clear warning of their displeasure with the intrusion."
+    supports:
+      - state_end
+classification_notes: "The Giants are stone-entities that emerge from the mountain in response to Anunnaki construction and observe the situation closely."
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: "No continuity issues identified."
+compiler_notes:
+  eligible_for_book_profile: false
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

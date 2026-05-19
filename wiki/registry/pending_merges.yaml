@@ -1,0 +1,1266 @@
+# MrLore Registry — Pending Merges
+# Generated: 2026-05-18
+# Tool: tools/registry_builder.py
+# merge_count: 67
+# Each entry requires human resolution before a standalone entity is created.
+
+pending_merges:
+
+  # ── AI ──
+  surface_form: AI
+  primary_route: ambiguous_review_candidate
+  reviewer_notes: null
+  total_mentions: 5
+  chapter_count: 5
+  book_count: 5
+  first_seen_chapter: book_03_the_reckoning_ch010
+  last_seen_chapter: book_26_the_seam_long_dark_south_ch131
+  raw_variants:
+    - AI
+  top_cooccurrences:
+    - Tran's
+    - Minimal
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Applicator ──
+  surface_form: Applicator
+  primary_route: identity_braid_candidate
+  reviewer_notes: null
+  total_mentions: 136
+  chapter_count: 15
+  book_count: 5
+  first_seen_chapter: book_05_the_nameless_one_ch024
+  last_seen_chapter: book_10_infernal_vigil_ch058
+  raw_variants:
+    - Applicator
+  top_cooccurrences:
+    - Geralt
+    - Zaron
+    - Zaron's
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── As Keen ──
+  surface_form: As Keen
+  primary_route: ambiguous_review_candidate
+  reviewer_notes: null
+  total_mentions: 4
+  chapter_count: 4
+  book_count: 2
+  first_seen_chapter: book_11_blood_and_legacy_ch063
+  last_seen_chapter: book_14_lessons_of_inheritance_ch077
+  raw_variants:
+    - As Keen
+  top_cooccurrences:
+    - Chamber
+    - Foundation
+    - Vi
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Asag ──
+  surface_form: Asag
+  primary_route: bounded_actor_candidate
+  reviewer_notes: null
+  total_mentions: 10
+  chapter_count: 2
+  book_count: 2
+  first_seen_chapter: book_11_blood_and_legacy_ch065
+  last_seen_chapter: book_19_worthy_opponents_north_ch102
+  raw_variants:
+    - Asag
+  top_cooccurrences:
+    - Crimson
+    - GPT's
+    - IMPOSSIBLE
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Blue Mika's ──
+  surface_form: Blue Mika's
+  primary_route: ambiguous_review_candidate
+  reviewer_notes: null
+  total_mentions: 7
+  chapter_count: 5
+  book_count: 4
+  first_seen_chapter: book_10_infernal_vigil_ch057
+  last_seen_chapter: book_15_legends_and_gods_ch080
+  raw_variants:
+    - Blue Mika's
+  top_cooccurrences:
+    - Mika
+    - Keen
+    - Precisely
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Caelum ──
+  surface_form: Caelum
+  primary_route: ambiguous_review_candidate
+  reviewer_notes: null
+  total_mentions: 97
+  chapter_count: 10
+  book_count: 5
+  first_seen_chapter: book_15_legends_and_gods_ch080
+  last_seen_chapter: book_19_worthy_opponents_north_ch102
+  raw_variants:
+    - Caelum
+  top_cooccurrences:
+    - Tran
+    - Onyx
+    - Thang
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Caelum's ──
+  surface_form: Caelum's
+  primary_route: ambiguous_review_candidate
+  reviewer_notes: null
+  total_mentions: 4
+  chapter_count: 3
+  book_count: 2
+  first_seen_chapter: book_15_legends_and_gods_ch080
+  last_seen_chapter: book_16_fragmented_beginning_ch087
+  raw_variants:
+    - Caelum's
+  top_cooccurrences:
+    - Earth
+    - Giants
+    - Nefretti
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Captain Ulric ──
+  surface_form: Captain Ulric
+  primary_route: ambiguous_review_candidate
+  reviewer_notes: null
+  total_mentions: 14
+  chapter_count: 8
+  book_count: 5
+  first_seen_chapter: book_11_blood_and_legacy_ch063
+  last_seen_chapter: book_19_worthy_opponents_north_ch102
+  raw_variants:
+    - Captain Ulric
+  top_cooccurrences:
+    - Lyra
+    - Guild
+    - Lyra's
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Claude ──
+  surface_form: Claude
+  primary_route: bounded_actor_candidate
+  reviewer_notes: null
+  total_mentions: 10
+  chapter_count: 2
+  book_count: 2
+  first_seen_chapter: book_09_bureaucratic_debt_ch055
+  last_seen_chapter: book_12_forged_identity_ch067
+  raw_variants:
+    - Claude
+  top_cooccurrences:
+    - Observer
+    - Remember
+    - Rongtai
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Companion Protocol ──
+  surface_form: Companion Protocol
+  primary_route: bounded_actor_candidate
+  reviewer_notes: null
+  total_mentions: 4
+  chapter_count: 1
+  book_count: 1
+  first_seen_chapter: book_09_bureaucratic_debt_ch049
+  last_seen_chapter: book_09_bureaucratic_debt_ch049
+  raw_variants:
+    - Companion Protocol
+  top_cooccurrences:
+    - Geralt
+    - Run
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Dragon Mail's ──
+  surface_form: Dragon Mail's
+  primary_route: ambiguous_review_candidate
+  reviewer_notes: null
+  total_mentions: 19
+  chapter_count: 6
+  book_count: 3
+  first_seen_chapter: book_10_infernal_vigil_ch056
+  last_seen_chapter: book_19_worthy_opponents_north_ch102
+  raw_variants:
+    - Dragon Mail's
+  top_cooccurrences:
+    - Geralt
+    - Tran
+    - It's
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Eduhauana ──
+  surface_form: Eduhauana
+  primary_route: ambiguous_review_candidate
+  reviewer_notes: null
+  total_mentions: 28
+  chapter_count: 7
+  book_count: 4
+  first_seen_chapter: book_02_age_of_servitude_ch006
+  last_seen_chapter: book_21_needle_and_thread_south_ch111
+  raw_variants:
+    - Eduhauana
+  top_cooccurrences:
+    - Giant
+    - Departure
+    - Efficient
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Ember ──
+  surface_form: Ember
+  primary_route: ambiguous_review_candidate
+  reviewer_notes: null
+  total_mentions: 66
+  chapter_count: 6
+  book_count: 3
+  first_seen_chapter: book_25_the_seam_evolutionary_south_ch127
+  last_seen_chapter: book_27_the_seam_deadly_words_south_ch139
+  raw_variants:
+    - Ember
+  top_cooccurrences:
+    - Igigi
+    - Vale
+    - Breathe
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Ember's ──
+  surface_form: Ember's
+  primary_route: ambiguous_review_candidate
+  reviewer_notes: null
+  total_mentions: 8
+  chapter_count: 3
+  book_count: 3
+  first_seen_chapter: book_25_the_seam_evolutionary_south_ch130
+  last_seen_chapter: book_27_the_seam_deadly_words_south_ch139
+  raw_variants:
+    - Ember's
+  top_cooccurrences:
+    - Gael's
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Enki's ──
+  surface_form: Enki's
+  primary_route: ambiguous_review_candidate
+  reviewer_notes: null
+  total_mentions: 12
+  chapter_count: 3
+  book_count: 2
+  first_seen_chapter: book_20_the_discordant_pulse_south_ch106
+  last_seen_chapter: book_21_needle_and_thread_south_ch110
+  raw_variants:
+    - Enki's
+  top_cooccurrences:
+    - Damu
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Enlil's ──
+  surface_form: Enlil's
+  primary_route: identity_braid_candidate
+  reviewer_notes: null
+  total_mentions: 44
+  chapter_count: 15
+  book_count: 7
+  first_seen_chapter: book_03_the_reckoning_ch015
+  last_seen_chapter: book_24_threshold_and_network_south_ch124
+  raw_variants:
+    - Enlil's
+  top_cooccurrences:
+    - Sera's
+    - Igigi
+    - Nammu's
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Geralt ──
+  surface_form: Geralt
+  primary_route: bounded_actor_candidate
+  reviewer_notes: null
+  total_mentions: 1585
+  chapter_count: 37
+  book_count: 8
+  first_seen_chapter: book_05_the_nameless_one_ch024
+  last_seen_chapter: book_12_forged_identity_ch068
+  raw_variants:
+    - Geralt
+  top_cooccurrences:
+    - Oreck
+    - Mika
+    - Dragon
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Granite's ──
+  surface_form: Granite's
+  primary_route: ambiguous_review_candidate
+  reviewer_notes: null
+  total_mentions: 8
+  chapter_count: 3
+  book_count: 2
+  first_seen_chapter: book_21_needle_and_thread_south_ch107
+  last_seen_chapter: book_22_listening_stone_south_ch116
+  raw_variants:
+    - Granite's
+  top_cooccurrences:
+    - Long
+    - One
+    - Peace
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Green Mika's ──
+  surface_form: Green Mika's
+  primary_route: ambiguous_review_candidate
+  reviewer_notes: null
+  total_mentions: 23
+  chapter_count: 6
+  book_count: 3
+  first_seen_chapter: book_10_infernal_vigil_ch057
+  last_seen_chapter: book_14_lessons_of_inheritance_ch076
+  raw_variants:
+    - Green Mika's
+  top_cooccurrences:
+    - Keen
+    - Vi
+    - Akashic
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Herald's ──
+  surface_form: Herald's
+  primary_route: ambiguous_review_candidate
+  reviewer_notes: null
+  total_mentions: 9
+  chapter_count: 3
+  book_count: 2
+  first_seen_chapter: book_09_bureaucratic_debt_ch050
+  last_seen_chapter: book_11_blood_and_legacy_ch063
+  raw_variants:
+    - Herald's
+  top_cooccurrences:
+    - Behind
+    - Instead
+    - Sovereign's
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Isla's ──
+  surface_form: Isla's
+  primary_route: identity_braid_candidate
+  reviewer_notes: null
+  total_mentions: 45
+  chapter_count: 15
+  book_count: 7
+  first_seen_chapter: book_11_blood_and_legacy_ch060
+  last_seen_chapter: book_19_worthy_opponents_north_ch099
+  raw_variants:
+    - Isla's
+  top_cooccurrences:
+    - First
+    - Tongue
+    - Keen
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Jorik ──
+  surface_form: Jorik
+  primary_route: ambiguous_review_candidate
+  reviewer_notes: null
+  total_mentions: 74
+  chapter_count: 8
+  book_count: 4
+  first_seen_chapter: book_06_the_ragnarok_ch036
+  last_seen_chapter: book_11_blood_and_legacy_ch063
+  raw_variants:
+    - Jorik
+  top_cooccurrences:
+    - Geralt
+    - Harbinger
+    - Spire
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Jorik’s ──
+  surface_form: Jorik’s
+  primary_route: ambiguous_review_candidate
+  reviewer_notes: null
+  total_mentions: 15
+  chapter_count: 6
+  book_count: 3
+  first_seen_chapter: book_06_the_ragnarok_ch036
+  last_seen_chapter: book_08_the_vigil_of_the_anchor_ch045
+  raw_variants:
+    - Jorik’s
+  top_cooccurrences:
+    - ARCHERS
+    - Briar
+    - FIRE
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Kael's ──
+  surface_form: Kael's
+  primary_route: ambiguous_review_candidate
+  reviewer_notes: null
+  total_mentions: 8
+  chapter_count: 4
+  book_count: 4
+  first_seen_chapter: book_20_the_discordant_pulse_south_ch106
+  last_seen_chapter: book_27_the_seam_deadly_words_south_ch139
+  raw_variants:
+    - Kael's
+  top_cooccurrences:
+    - Beside
+    - Beyond
+    - Escaped
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Korr's ──
+  surface_form: Korr's
+  primary_route: ambiguous_review_candidate
+  reviewer_notes: null
+  total_mentions: 21
+  chapter_count: 3
+  book_count: 1
+  first_seen_chapter: book_21_needle_and_thread_south_ch109
+  last_seen_chapter: book_21_needle_and_thread_south_ch111
+  raw_variants:
+    - Korr's
+  top_cooccurrences:
+    - Vale
+    - Vale's
+    - I've
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Luminara ──
+  surface_form: Luminara
+  primary_route: ambiguous_review_candidate
+  reviewer_notes: null
+  total_mentions: 61
+  chapter_count: 7
+  book_count: 3
+  first_seen_chapter: book_06_the_ragnarok_ch036
+  last_seen_chapter: book_19_worthy_opponents_north_ch102
+  raw_variants:
+    - Luminara
+  top_cooccurrences:
+    - Geralt
+    - Spire
+    - Earth
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Luminara’s ──
+  surface_form: Luminara’s
+  primary_route: ambiguous_review_candidate
+  reviewer_notes: null
+  total_mentions: 41
+  chapter_count: 4
+  book_count: 2
+  first_seen_chapter: book_06_the_ragnarok_ch036
+  last_seen_chapter: book_07_light_resonance_and_the_function_ch040
+  raw_variants:
+    - Luminara’s
+  top_cooccurrences:
+    - Geralt
+    - Earth
+    - Prime
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Lyra's ──
+  surface_form: Lyra's
+  primary_route: identity_braid_candidate
+  reviewer_notes: null
+  total_mentions: 59
+  chapter_count: 14
+  book_count: 10
+  first_seen_chapter: book_06_the_ragnarok_ch031
+  last_seen_chapter: book_19_worthy_opponents_north_ch101
+  raw_variants:
+    - Lyra's
+  top_cooccurrences:
+    - Geralt
+    - Isla's
+    - Keen
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Marduk's ──
+  surface_form: Marduk's
+  primary_route: ambiguous_review_candidate
+  reviewer_notes: null
+  total_mentions: 5
+  chapter_count: 4
+  book_count: 3
+  first_seen_chapter: book_01_book_of_genesis_ch001
+  last_seen_chapter: book_15_legends_and_gods_ch078
+  raw_variants:
+    - Marduk's
+  top_cooccurrences:
+    - Fracture
+    - Maintain
+    - Negative
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Mora ──
+  surface_form: Mora
+  primary_route: ambiguous_review_candidate
+  reviewer_notes: null
+  total_mentions: 42
+  chapter_count: 7
+  book_count: 3
+  first_seen_chapter: book_21_needle_and_thread_south_ch107
+  last_seen_chapter: book_25_the_seam_evolutionary_south_ch128
+  raw_variants:
+    - Mora
+  top_cooccurrences:
+    - Igigi
+    - Vale
+    - Come
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Mora's ──
+  surface_form: Mora's
+  primary_route: ambiguous_review_candidate
+  reviewer_notes: null
+  total_mentions: 11
+  chapter_count: 7
+  book_count: 3
+  first_seen_chapter: book_21_needle_and_thread_south_ch107
+  last_seen_chapter: book_25_the_seam_evolutionary_south_ch130
+  raw_variants:
+    - Mora's
+  top_cooccurrences:
+    - Nephoretti
+    - Vale
+    - Whatever
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Mora’s ──
+  surface_form: Mora’s
+  primary_route: ambiguous_review_candidate
+  reviewer_notes: null
+  total_mentions: 11
+  chapter_count: 4
+  book_count: 2
+  first_seen_chapter: book_21_needle_and_thread_south_ch108
+  last_seen_chapter: book_25_the_seam_evolutionary_south_ch127
+  raw_variants:
+    - Mora’s
+  top_cooccurrences:
+    - Seren
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Nameless One ──
+  surface_form: Nameless One
+  primary_route: ambiguous_review_candidate
+  reviewer_notes: null
+  total_mentions: 52
+  chapter_count: 3
+  book_count: 2
+  first_seen_chapter: book_05_the_nameless_one_ch024
+  last_seen_chapter: book_06_the_ragnarok_ch031
+  raw_variants:
+    - Nameless One
+  top_cooccurrences:
+    - Reptilian's
+    - Apparently
+    - Currently
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Oreck's ──
+  surface_form: Oreck's
+  primary_route: identity_braid_candidate
+  reviewer_notes: null
+  total_mentions: 75
+  chapter_count: 16
+  book_count: 6
+  first_seen_chapter: book_05_the_nameless_one_ch027
+  last_seen_chapter: book_10_infernal_vigil_ch058
+  raw_variants:
+    - Oreck's
+  top_cooccurrences:
+    - Geralt
+    - Geralt's
+    - Anunnaki
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Overseer ──
+  surface_form: Overseer
+  primary_route: ambiguous_review_candidate
+  reviewer_notes: null
+  total_mentions: 34
+  chapter_count: 8
+  book_count: 5
+  first_seen_chapter: book_02_age_of_servitude_ch006
+  last_seen_chapter: book_18_inquisition_of_yourself_ch094
+  raw_variants:
+    - Overseer
+  top_cooccurrences:
+    - Accept
+    - Aeon
+    - Coming
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Overseer's ──
+  surface_form: Overseer's
+  primary_route: ambiguous_review_candidate
+  reviewer_notes: null
+  total_mentions: 14
+  chapter_count: 4
+  book_count: 3
+  first_seen_chapter: book_05_the_nameless_one_ch024
+  last_seen_chapter: book_11_blood_and_legacy_ch063
+  raw_variants:
+    - Overseer's
+  top_cooccurrences:
+    - Anunnaki
+    - Compliance
+    - Geralt
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Overseers ──
+  surface_form: Overseers
+  primary_route: ambiguous_review_candidate
+  reviewer_notes: null
+  total_mentions: 20
+  chapter_count: 3
+  book_count: 2
+  first_seen_chapter: book_05_the_nameless_one_ch024
+  last_seen_chapter: book_06_the_ragnarok_ch029
+  raw_variants:
+    - Overseers
+  top_cooccurrences:
+    - Federation
+    - One
+    - Reptilian
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Pazuzu's ──
+  surface_form: Pazuzu's
+  primary_route: ambiguous_review_candidate
+  reviewer_notes: null
+  total_mentions: 19
+  chapter_count: 9
+  book_count: 4
+  first_seen_chapter: book_02_age_of_servitude_ch006
+  last_seen_chapter: book_22_listening_stone_south_ch114
+  raw_variants:
+    - Pazuzu's
+  top_cooccurrences:
+    - Giant
+    - Brajor
+    - Didn't
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Queen ──
+  surface_form: Queen
+  primary_route: identity_braid_candidate
+  reviewer_notes: null
+  total_mentions: 105
+  chapter_count: 25
+  book_count: 16
+  first_seen_chapter: book_02_age_of_servitude_ch008
+  last_seen_chapter: book_21_needle_and_thread_south_ch111
+  raw_variants:
+    - Queen
+  top_cooccurrences:
+    - Marduk
+    - Anunnaki
+    - Earth
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Red Mika ──
+  surface_form: Red Mika
+  primary_route: ambiguous_review_candidate
+  reviewer_notes: null
+  total_mentions: 18
+  chapter_count: 4
+  book_count: 3
+  first_seen_chapter: book_10_infernal_vigil_ch057
+  last_seen_chapter: book_15_legends_and_gods_ch080
+  raw_variants:
+    - Red Mika
+  top_cooccurrences:
+    - Mika
+    - Blue
+    - Lyra's
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Red Mika's ──
+  surface_form: Red Mika's
+  primary_route: ambiguous_review_candidate
+  reviewer_notes: null
+  total_mentions: 7
+  chapter_count: 4
+  book_count: 4
+  first_seen_chapter: book_10_infernal_vigil_ch057
+  last_seen_chapter: book_15_legends_and_gods_ch080
+  raw_variants:
+    - Red Mika's
+  top_cooccurrences:
+    - First
+    - Isla's
+    - Mika's
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Rongtai's ──
+  surface_form: Rongtai's
+  primary_route: identity_braid_candidate
+  reviewer_notes: null
+  total_mentions: 62
+  chapter_count: 14
+  book_count: 7
+  first_seen_chapter: book_11_blood_and_legacy_ch061
+  last_seen_chapter: book_18_inquisition_of_yourself_ch094
+  raw_variants:
+    - Rongtai's
+  top_cooccurrences:
+    - Thang's
+    - Thang
+    - Vi
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Sage ──
+  surface_form: Sage
+  primary_route: ambiguous_review_candidate
+  reviewer_notes: null
+  total_mentions: 126
+  chapter_count: 10
+  book_count: 3
+  first_seen_chapter: book_04_sage_saga_ch018
+  last_seen_chapter: book_08_the_vigil_of_the_anchor_ch047
+  raw_variants:
+    - Sage
+  top_cooccurrences:
+    - Torrhen
+    - Integration
+    - Tongue
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Sage's ──
+  surface_form: Sage's
+  primary_route: ambiguous_review_candidate
+  reviewer_notes: null
+  total_mentions: 18
+  chapter_count: 5
+  book_count: 2
+  first_seen_chapter: book_04_sage_saga_ch020
+  last_seen_chapter: book_06_the_ragnarok_ch036
+  raw_variants:
+    - Sage's
+  top_cooccurrences:
+    - Torrhen's
+    - Torrhen
+    - Students
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Sera's ──
+  surface_form: Sera's
+  primary_route: identity_braid_candidate
+  reviewer_notes: null
+  total_mentions: 50
+  chapter_count: 13
+  book_count: 7
+  first_seen_chapter: book_06_the_ragnarok_ch033
+  last_seen_chapter: book_25_the_seam_evolutionary_south_ch125
+  raw_variants:
+    - Sera's
+  top_cooccurrences:
+    - Enlil's
+    - It's
+    - Vale's
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Sera’s ──
+  surface_form: Sera’s
+  primary_route: ambiguous_review_candidate
+  reviewer_notes: null
+  total_mentions: 23
+  chapter_count: 3
+  book_count: 2
+  first_seen_chapter: book_20_the_discordant_pulse_south_ch104
+  last_seen_chapter: book_25_the_seam_evolutionary_south_ch126
+  raw_variants:
+    - Sera’s
+  top_cooccurrences:
+    - Something
+    - Jaw
+    - Kael
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── The Draco ──
+  surface_form: The Draco
+  primary_route: ambiguous_review_candidate
+  reviewer_notes: null
+  total_mentions: 9
+  chapter_count: 5
+  book_count: 4
+  first_seen_chapter: book_12_forged_identity_ch068
+  last_seen_chapter: book_17_ancestral_debt_ch088
+  raw_variants:
+    - The Draco
+  top_cooccurrences:
+    - Vi
+    - Blood
+    - Crimson
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── The Dregans ──
+  surface_form: The Dregans
+  primary_route: ambiguous_review_candidate
+  reviewer_notes: null
+  total_mentions: 13
+  chapter_count: 7
+  book_count: 5
+  first_seen_chapter: book_03_the_reckoning_ch011
+  last_seen_chapter: book_16_fragmented_beginning_ch083
+  raw_variants:
+    - The Dregans
+  top_cooccurrences:
+    - Caelum
+    - Faraxar
+    - Flame
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── The Five Mikas ──
+  surface_form: The Five Mikas
+  primary_route: ambiguous_review_candidate
+  reviewer_notes: null
+  total_mentions: 27
+  chapter_count: 8
+  book_count: 4
+  first_seen_chapter: book_09_bureaucratic_debt_ch048
+  last_seen_chapter: book_14_lessons_of_inheritance_ch077
+  raw_variants:
+    - The Five Mikas
+  top_cooccurrences:
+    - Geralt
+    - Mika's
+    - Violet
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── The Mikas ──
+  surface_form: The Mikas
+  primary_route: ambiguous_review_candidate
+  reviewer_notes: null
+  total_mentions: 6
+  chapter_count: 4
+  book_count: 3
+  first_seen_chapter: book_15_legends_and_gods_ch080
+  last_seen_chapter: book_18_inquisition_of_yourself_ch096
+  raw_variants:
+    - The Mikas
+  top_cooccurrences:
+    - Caelum
+    - Perhaps
+    - Fragment
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── The Nameless One ──
+  surface_form: The Nameless One
+  primary_route: ambiguous_review_candidate
+  reviewer_notes: null
+  total_mentions: 151
+  chapter_count: 4
+  book_count: 2
+  first_seen_chapter: book_05_the_nameless_one_ch024
+  last_seen_chapter: book_11_blood_and_legacy_ch065
+  raw_variants:
+    - The Nameless One
+  top_cooccurrences:
+    - Applicator's
+    - Felt
+    - Reptilian
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── The Nameless One's ──
+  surface_form: The Nameless One's
+  primary_route: ambiguous_review_candidate
+  reviewer_notes: null
+  total_mentions: 32
+  chapter_count: 3
+  book_count: 1
+  first_seen_chapter: book_05_the_nameless_one_ch024
+  last_seen_chapter: book_05_the_nameless_one_ch026
+  raw_variants:
+    - The Nameless One's
+  top_cooccurrences:
+    - Consciousness
+    - Please
+    - Anunnaki's
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── The Queen ──
+  surface_form: The Queen
+  primary_route: identity_braid_candidate
+  reviewer_notes: null
+  total_mentions: 50
+  chapter_count: 22
+  book_count: 13
+  first_seen_chapter: book_02_age_of_servitude_ch006
+  last_seen_chapter: book_21_needle_and_thread_south_ch111
+  raw_variants:
+    - The Queen
+  top_cooccurrences:
+    - First
+    - Vi
+    - Am
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── The Queen's ──
+  surface_form: The Queen's
+  primary_route: identity_braid_candidate
+  reviewer_notes: null
+  total_mentions: 35
+  chapter_count: 19
+  book_count: 13
+  first_seen_chapter: book_02_age_of_servitude_ch008
+  last_seen_chapter: book_21_needle_and_thread_south_ch111
+  raw_variants:
+    - The Queen's
+  top_cooccurrences:
+    - Anunnaki
+    - Mars
+    - Earth
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── The Sage ──
+  surface_form: The Sage
+  primary_route: ambiguous_review_candidate
+  reviewer_notes: null
+  total_mentions: 71
+  chapter_count: 9
+  book_count: 3
+  first_seen_chapter: book_04_sage_saga_ch019
+  last_seen_chapter: book_08_the_vigil_of_the_anchor_ch047
+  raw_variants:
+    - The Sage
+  top_cooccurrences:
+    - Torrhen's
+    - Torrhen
+    - Culling
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── The Sage's ──
+  surface_form: The Sage's
+  primary_route: ambiguous_review_candidate
+  reviewer_notes: null
+  total_mentions: 14
+  chapter_count: 4
+  book_count: 2
+  first_seen_chapter: book_04_sage_saga_ch020
+  last_seen_chapter: book_06_the_ragnarok_ch036
+  raw_variants:
+    - The Sage's
+  top_cooccurrences:
+    - Aethon
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Torhh's ──
+  surface_form: Torhh's
+  primary_route: ambiguous_review_candidate
+  reviewer_notes: null
+  total_mentions: 10
+  chapter_count: 8
+  book_count: 3
+  first_seen_chapter: book_01_book_of_genesis_ch003
+  last_seen_chapter: book_03_the_reckoning_ch015
+  raw_variants:
+    - Torhh's
+  top_cooccurrences:
+    - Giant's
+    - Kyreth
+    - Kyreth's
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Torrhen's ──
+  surface_form: Torrhen's
+  primary_route: ambiguous_review_candidate
+  reviewer_notes: null
+  total_mentions: 47
+  chapter_count: 9
+  book_count: 4
+  first_seen_chapter: book_03_the_reckoning_ch012
+  last_seen_chapter: book_23_the_labyrinth_arc_resonance_of_the_shared_threshold_south_ch118
+  raw_variants:
+    - Torrhen's
+  top_cooccurrences:
+    - Sage
+    - Sage's
+    - Deep
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Tran's ──
+  surface_form: Tran's
+  primary_route: identity_braid_candidate
+  reviewer_notes: null
+  total_mentions: 97
+  chapter_count: 18
+  book_count: 8
+  first_seen_chapter: book_11_blood_and_legacy_ch060
+  last_seen_chapter: book_19_worthy_opponents_north_ch102
+  raw_variants:
+    - Tran's
+  top_cooccurrences:
+    - Dragon
+    - Mail
+    - Zaron's
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Vale’s ──
+  surface_form: Vale’s
+  primary_route: ambiguous_review_candidate
+  reviewer_notes: null
+  total_mentions: 18
+  chapter_count: 8
+  book_count: 4
+  first_seen_chapter: book_21_needle_and_thread_south_ch107
+  last_seen_chapter: book_25_the_seam_evolutionary_south_ch126
+  raw_variants:
+    - Vale’s
+  top_cooccurrences:
+    - Igigi
+    - Mora
+    - Wait
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Xal'Zirith's ──
+  surface_form: Xal'Zirith's
+  primary_route: ambiguous_review_candidate
+  reviewer_notes: null
+  total_mentions: 4
+  chapter_count: 4
+  book_count: 2
+  first_seen_chapter: book_06_the_ragnarok_ch030
+  last_seen_chapter: book_07_light_resonance_and_the_function_ch041
+  raw_variants:
+    - Xal'Zirith's
+  top_cooccurrences:
+    - Geralt
+    - Mika
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Xal'Zirith’s ──
+  surface_form: Xal'Zirith’s
+  primary_route: ambiguous_review_candidate
+  reviewer_notes: null
+  total_mentions: 18
+  chapter_count: 4
+  book_count: 1
+  first_seen_chapter: book_06_the_ragnarok_ch033
+  last_seen_chapter: book_06_the_ragnarok_ch036
+  raw_variants:
+    - Xal'Zirith’s
+  top_cooccurrences:
+    - Five
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Zaron ──
+  surface_form: Zaron
+  primary_route: identity_braid_candidate
+  reviewer_notes: null
+  total_mentions: 151
+  chapter_count: 22
+  book_count: 9
+  first_seen_chapter: book_05_the_nameless_one_ch026
+  last_seen_chapter: book_19_worthy_opponents_north_ch102
+  raw_variants:
+    - Zaron
+  top_cooccurrences:
+    - Geralt
+    - Applicator
+    - Tran
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Zeph ──
+  surface_form: Zeph
+  primary_route: ambiguous_review_candidate
+  reviewer_notes: null
+  total_mentions: 74
+  chapter_count: 9
+  book_count: 4
+  first_seen_chapter: book_21_needle_and_thread_south_ch110
+  last_seen_chapter: book_27_the_seam_deadly_words_south_ch136
+  raw_variants:
+    - Zeph
+  top_cooccurrences:
+    - Igigi
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Zephyr’s ──
+  surface_form: Zephyr’s
+  primary_route: ambiguous_review_candidate
+  reviewer_notes: null
+  total_mentions: 18
+  chapter_count: 7
+  book_count: 5
+  first_seen_chapter: book_09_bureaucratic_debt_ch049
+  last_seen_chapter: book_25_the_seam_evolutionary_south_ch126
+  raw_variants:
+    - Zephyr’s
+  top_cooccurrences:
+    - Geralt
+    - Oreck
+    - Stopped
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Zypher ──
+  surface_form: Zypher
+  primary_route: ambiguous_review_candidate
+  reviewer_notes: null
+  total_mentions: 58
+  chapter_count: 4
+  book_count: 3
+  first_seen_chapter: book_06_the_ragnarok_ch036
+  last_seen_chapter: book_10_infernal_vigil_ch058
+  raw_variants:
+    - Zypher
+  top_cooccurrences:
+    - Geralt
+    - Tidecaller's
+    - Ah
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+
+  # ── Zypher's ──
+  surface_form: Zypher's
+  primary_route: ambiguous_review_candidate
+  reviewer_notes: null
+  total_mentions: 22
+  chapter_count: 2
+  book_count: 2
+  first_seen_chapter: book_06_the_ragnarok_ch036
+  last_seen_chapter: book_10_infernal_vigil_ch058
+  raw_variants:
+    - Zypher's
+  top_cooccurrences:
+    - Geralt's
+    - Five
+    - Geralt
+  merge_parent: null
+  merge_status: pending_human_review
+  created_at: 2026-05-18
+

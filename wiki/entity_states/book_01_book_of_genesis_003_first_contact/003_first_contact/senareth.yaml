@@ -1,0 +1,166 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000022
+entity_ref: candidate:senareth
+display_name: Senareth
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_01_book_of_genesis_003_first_contact
+book_number: 1
+chapter_id: 003_first_contact
+chapter_title: "First Contact"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_003_first_contact.md
+source_hash: 49c8bbfa05249f533cef8ee0d46c136c942e0f0e5d5f291aa59c0151433c1ac3
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_024510
+chapter_role: "Prime Nephoretti, leader of the group, responsible for strategic decisions and communication with Aeon Keepers."
+identity_evidence:
+  named_directly: true
+  speaks: true
+  performs_actions: true
+  receives_description: true
+  has_internal_state: true
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 6
+state_start:
+  location: beach
+  physical_state: "bioluminescent, new physical form"
+  emotional_state: "uncertain, afraid of the Giants' reaction"
+  social_status: "leader of Nephoretti group"
+  faction_alignment: Nephoretti
+  identity_state: "Prime Nephoretti"
+  knowledge_state: "aware of purpose and mission"
+state_during:
+  active_conditions:
+    - "uncertainty about Giants' intentions"
+    - "fear of being seen as a threat"
+  observed_traits:
+    - "empathetic, strategic thinker"
+  active_conflicts:
+    []
+  temporary_roles:
+    []
+state_end:
+  location: beach
+  physical_state: "bioluminescent, new physical form"
+  emotional_state: "determined to understand Giants' behavior"
+  social_status: "leader of Nephoretti group"
+  faction_alignment: Nephoretti
+  identity_state: "Prime Nephoretti"
+  unresolved_after_chapter:
+    - "need for more information about Giants"
+relationships:
+  -
+    predicate: "Prime connection"
+    subject: Senareth
+    target: "Aeon Keepers"
+    evidence: direct
+    confidence: high
+    notes: "communication with Aeon Keepers through Prime connection"
+  -
+    predicate: "leader of"
+    subject: Senareth
+    target: "Nephoretti group"
+    evidence: direct
+    confidence: high
+    notes: "responsible for strategic decisions and communication with Aeon Keepers"
+  -
+    predicate: "interpreting the interaction for"
+    subject: Senareth
+    target: "Nephoretti community"
+    evidence: direct
+    confidence: high
+    notes: "communicating findings to Nephoretti"
+actions:
+  -
+    action: "suggests shelter establishment"
+    target: null
+    consequence: "group discusses the idea of shelter, considering its potential benefits and drawbacks"
+    confidence: high
+  -
+    action: "leads group in discussion about approach strategy"
+    target: "Nephoretti group"
+    consequence: "group decides to send individuals or small groups for better engagement opportunities with Giants"
+    confidence: high
+  -
+    action: "interpreting the interaction between Giants and Nephoretti"
+    target: null
+    consequence: "understanding of the potential for communication"
+    confidence: high
+dialogue:
+  -
+    speaker: Senareth
+    addressee: "Nephoretti group"
+    quote_excerpt: "Tomorrow we try again, but differently. Today we approached as a collective—two hundred beings moving toward them. That's overwhelming. Tomorrow we send individuals. Small groups. Give them opportunities to engage without feeling surrounded."
+    voice_note: null
+  -
+    speaker: Senareth
+    addressee: "Nephoretti community"
+    quote_excerpt: "They can manipulate vrill, crudely, instinctively, but the capability is there. Which means—"
+    voice_note: null
+  -
+    speaker: Senareth
+    addressee: "Nephoretti community"
+    quote_excerpt: "They have the potential we were sent to develop."
+    voice_note: null
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: beach
+      confidence: high
+    -
+      name: "tree line"
+      confidence: medium
+arc_position:
+  arc_name: "Aaon Keepers"
+  role_in_arc: "leader and strategist"
+  chapter_function: "provides strategic direction for Nephoretti group's interactions with Giants, maintains communication with Aeon Keepers"
+changes:
+  -
+    change_type: knowledge_gain
+    before: "uncertainty about Giants' intentions"
+    after: "understanding of Giants' behavior through observation and interaction"
+    confidence: high
+  -
+    change_type: knowledge_gain
+    before: unknown
+    after: "understanding of the potential for communication with Giants, leadership in interpreting findings"
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_003_first_contact.md
+    line_start: null
+    line_end: null
+    excerpt: "Tomorrow we try again, but differently. Today we approached as a collective—two hundred beings moving toward them. That's overwhelming. Tomorrow we send individuals. Small groups. Give them opportunities to engage without feeling surrounded."
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0002
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_003_first_contact.md
+    line_start: null
+    line_end: null
+    excerpt: "They can manipulate vrill, crudely, instinctively, but the capability is there. Which means— They have the potential we were sent to develop."
+    supports:
+      - identity:character
+classification_notes: "Senareth is the leader and strategic thinker of the Nephoretti group, providing direction for their interactions with the Giants."
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: null
+  -
+    flag_type: none
+    severity: info
+    note: "No continuity issues observed"
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

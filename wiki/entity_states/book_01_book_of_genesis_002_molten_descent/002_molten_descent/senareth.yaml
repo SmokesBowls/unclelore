@@ -1,0 +1,235 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000016
+entity_ref: candidate:senareth
+display_name: Senareth
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_01_book_of_genesis_002_molten_descent
+book_number: 1
+chapter_id: 002_molten_descent
+chapter_title: "Molten Descent"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_002_molten_descent.md
+source_hash: 9373b5e7d87a061c1d3afef4e5eecc71d8bb855886443766ebe8b8651f3a6e87
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_024510
+chapter_role: "Main character undergoing transformation and first contact experience."
+identity_evidence:
+  named_directly: true
+  speaks: false
+  performs_actions: true
+  receives_description: true
+  has_internal_state: true
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 5
+state_start:
+  location: "Akashic Library"
+  physical_state: "consciousness-pattern, not yet physical form"
+  emotional_state: "uncertainty, wonder, trepidation"
+  social_status: "part of collective Nephoretti"
+  faction_alignment: neutral
+  identity_state: "abstract consciousness, purpose-driven"
+  knowledge_state: "awareness of mission but no context"
+state_during:
+  active_conditions:
+    - "transformation process"
+  observed_traits:
+    - "consciousness-pattern shuddering, stretching, tearing apart"
+    - "sensation of falling through layers of reality"
+    - "compression and reconfiguration into physical form"
+  active_conflicts:
+    - "resistance from lower frequency reality against higher frequency consciousness"
+  temporary_roles:
+    []
+state_end:
+  location: "Coastal Landing Site"
+  physical_state: "formed body with sensory capabilities (weight, temperature, sound, smell)"
+  emotional_state: "overwhelmed by physical sensations"
+  social_status: "newly formed Nephoretti"
+  faction_alignment: neutral
+  identity_state: "aware of self in physical form"
+  unresolved_after_chapter:
+    - "adjusting to physical reality"
+relationships:
+  -
+    predicate: "interaction with"
+    subject: Senareth
+    target: "others (thought-seeds)"
+    evidence: direct
+    confidence: high
+    notes: "shared experience and communication"
+  -
+    predicate: command
+    subject: Senareth
+    target: Nephoretti
+    evidence: direct
+    confidence: high
+    notes: "Senareth gives commands to the Nephoretti."
+  -
+    predicate: observation
+    subject: Elyraen
+    target: Giants
+    evidence: direct
+    confidence: medium
+    notes: "Elyraen observes the Giants' energy signatures."
+  -
+    predicate: prepares
+    subject: Senareth
+    target: Nephoretti
+    evidence: direct
+    confidence: high
+    notes: "instructing and preparing Nephoretti for interaction with Giants"
+actions:
+  -
+    action: "leaped into transformation process"
+    target: null
+    consequence: "began physical form formation"
+    confidence: high
+  -
+    action: "fell through layers of reality"
+    target: null
+    consequence: "transformed into physical form"
+    confidence: high
+  -
+    action: "command others to gather"
+    target: Nephoretti
+    consequence: "Nephoretti begin to coordinate and form groups."
+    confidence: high
+  -
+    action: "analyze the situation"
+    target: Giants
+    consequence: "Understanding that Giants are afraid of Nephoretti due to past memories."
+    confidence: medium
+  -
+    action: "repeats directive"
+    target: null
+    consequence: "sets the tone for preparation among Nephoretti"
+    confidence: high
+  -
+    action: "instructs on vrill-manipulation"
+    target: Nephoretti
+    consequence: "prepares them for interaction with Giants"
+    confidence: high
+dialogue:
+  -
+    speaker: Senareth
+    addressee: Nephoretti
+    quote_excerpt: "We need to understand what's happening before we can address it."
+    voice_note: null
+  -
+    speaker: Elyraen
+    addressee: Giants
+    quote_excerpt: "The energy signatures... they're not just transformed Pelagor. They're Pelagor consciousness wrapped around something else."
+    voice_note: null
+  -
+    speaker: Senareth
+    addressee: Nephoretti
+    quote_excerpt: "We give it time. And we prepare ourselves."
+    voice_note: null
+  -
+    speaker: Senareth
+    addressee: Nephoretti
+    quote_excerpt: "Master these forms. Learn to exist in physical space."
+    voice_note: null
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: "Akashic Library"
+      confidence: high
+    -
+      name: "Coastal Landing Site"
+      confidence: high
+arc_position:
+  arc_name: "Aaon Keepers"
+  role_in_arc: setup
+  chapter_function: "introduction to transformation process and first contact experience"
+changes:
+  -
+    change_type: physical_form_change
+    before: "consciousness-pattern, not yet physical form"
+    after: "formed body with sensory capabilities (weight, temperature, sound, smell)"
+    confidence: high
+  -
+    change_type: knowledge_gain
+    before: "confusion about why Giants are afraid of them"
+    after: "understanding that Giants' fear is due to past memories"
+    confidence: medium
+  -
+    change_type: status_change
+    before: "initial state of Nephoretti"
+    after: "prepared state of Nephoretti"
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_002_molten_descent.md
+    line_start: null
+    line_end: null
+    excerpt: "Senareth leaped. The others followed in a cascade that looked like stars falling upward, a thousand points of light launching themselves from the library's edge into the void beyond."
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0002
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_002_molten_descent.md
+    line_start: null
+    line_end: null
+    excerpt: "The body began forming... Not gracefully. More like hot wax dripping, pooling, solidifying mid-fall."
+    supports:
+      - state_change:physical_form_change
+  -
+    quote_id: Q-0003
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_002_molten_descent.md
+    line_start: null
+    line_end: null
+    excerpt: "Senareth watched as the nearest Giant—its body the blue-green of deep ocean touched by sunlight—took several steps backward."
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0004
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_002_molten_descent.md
+    line_start: null
+    line_end: null
+    excerpt: "Prime. The impression arrived like crystalline chime resonating through Senareth's awareness."
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0005
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_002_molten_descent.md
+    line_start: null
+    line_end: null
+    excerpt: "We give it time. And we prepare ourselves."
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0006
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_002_molten_descent.md
+    line_start: null
+    line_end: null
+    excerpt: "Master these forms. Learn to exist in physical space."
+    supports:
+      - identity:character
+classification_notes: "Main character with significant transformation and sensory experience."
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: "No continuity issues observed."
+  -
+    flag_type: none
+    severity: info
+    note: null
+  -
+    flag_type: none
+    severity: info
+    note: "No continuity issues observed."
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

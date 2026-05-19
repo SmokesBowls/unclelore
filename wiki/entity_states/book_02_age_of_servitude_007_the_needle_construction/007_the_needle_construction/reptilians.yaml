@@ -1,0 +1,128 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000074
+entity_ref: candidate:reptilians
+display_name: Reptilians
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_02_age_of_servitude_007_the_needle_construction
+book_number: 2
+chapter_id: 007_the_needle_construction
+chapter_title: "The Needle Construction"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
+source_hash: eb120b0159c6d4e1a8581a826dd6247a474cb9606ed71e8283194d0ee2d15f7b
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_073426
+chapter_role: "oppressors, enforcers of Anunnaki will"
+identity_evidence:
+  named_directly: true
+  speaks: false
+  performs_actions: true
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 4
+state_start:
+  location: unknown
+  physical_state: "simple minds, crystalline infrastructure"
+  emotional_state: duty-bound
+  social_status: "Reptilian forces"
+  faction_alignment: Anunnaki
+  identity_state: "consciousness-disruption techniques"
+  knowledge_state: "understanding of Anunnaki objectives"
+state_during:
+  active_conditions:
+    - "enforcing construction"
+    - "interpreting destruction as threat"
+  observed_traits:
+    - "simple minds, crystalline infrastructure"
+  active_conflicts:
+    - "oppression vs. duty"
+  temporary_roles:
+    []
+state_end:
+  location: unknown
+  physical_state: "simple minds, crystalline infrastructure"
+  emotional_state: duty-bound
+  social_status: "Reptilian forces"
+  faction_alignment: Anunnaki
+  identity_state: "consciousness-disruption techniques"
+  unresolved_after_chapter:
+    - "enforcing construction"
+relationships:
+  -
+    predicate: terminates
+    subject: Reptilians
+    target: "indigenous biologicals, Igigi"
+    evidence: inferred
+    confidence: high
+    notes: "enforce Anunnaki will"
+actions:
+  -
+    action: "destroy infrastructure"
+    target: "Needle foundation"
+    consequence: "damages infrastructure, uses consciousness-disruption techniques"
+    confidence: high
+  -
+    action: "terminate indigenous biologicals and Igigi"
+    target: null
+    consequence: "wasted genetic material, production resources"
+    confidence: high
+dialogue:
+  -
+    speaker: Reptilians
+    addressee: null
+    quote_excerpt: null
+    voice_note: null
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: "construction site"
+      confidence: high
+    -
+      name: "Southern Nexus Site"
+      confidence: medium
+arc_position:
+  arc_name: "oppression and resistance"
+  role_in_arc: "enforcers of Anunnaki will, oppressors"
+  chapter_function: "represent the oppressive force against indigenous biologicals"
+changes:
+  -
+    change_type: emotional_state
+    before: duty-bound
+    after: duty-bound
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
+    line_start: null
+    line_end: null
+    excerpt: "Reptilian warriors swarmed, their simple minds interpreting the destruction as primary threat."
+    supports:
+      - state_during:active_conflicts
+  -
+    quote_id: Q-0002
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
+    line_start: null
+    line_end: null
+    excerpt: "Casualty report... Reptilian forces: two thousand, three hundred and forty-seven terminated. Igigi workforce: one hundred and twelve terminated, primarily from indigenous retaliation rather than direct assault."
+    supports:
+      - state_end:unresolved_after_chapter
+classification_notes: "Reptilians are characters representing the oppressive force of Anunnaki with no significant emotional development within this chapter."
+continuity_flags:
+  -
+    flag_type: identity_merge_possible
+    severity: low
+    note: "No significant internal conflict or change in Reptilian identity."
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

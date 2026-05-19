@@ -1,0 +1,107 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000007
+entity_ref: candidate:unknown
+display_name: Unknown
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_01_book_of_genesis_001_the_ethereal_vigil
+book_number: 1
+chapter_id: 001_the_ethereal_vigil
+chapter_title: "The Ethereal Vigil"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
+source_hash: 39a5e85c50d7dbb533cf87d1fa9db8aa2cde0c2ce232b180ef909c379086aca7
+created_at: 2026-05-16
+updated_at: 2026-05-16
+compiler_run_id: compile_entity_states_20260516_221608
+chapter_role: "participates in the plan of action without speaking."
+identity_evidence:
+  named_directly: false
+  speaks: false
+  performs_actions: true
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: false
+  identity_confidence: medium
+  identity_signal_count: 3
+state_start:
+  location: "space between spaces"
+  physical_state: unknown
+  emotional_state: undetermined
+  social_status: "Aeon Keeper"
+  faction_alignment: "Aeon Keepers"
+  identity_state: consciousness
+  knowledge_state: high
+state_during:
+  active_conditions:
+    - "participates in the plan of action without speaking"
+  observed_traits:
+    []
+  active_conflicts:
+    []
+  temporary_roles:
+    []
+state_end:
+  location: "space between spaces"
+  physical_state: unknown
+  emotional_state: undetermined
+  social_status: "Aeon Keeper"
+  faction_alignment: "Aeon Keepers"
+  identity_state: consciousness
+  unresolved_after_chapter:
+    []
+relationships:
+  -
+    predicate: "participates in the plan of action without speaking"
+    subject: Unknown
+    target: unknown
+    evidence: indirect
+    confidence: medium
+    notes: null
+actions:
+  []
+dialogue:
+  -
+    speaker: Unknown
+    addressee: unknown
+    quote_excerpt: ""
+    voice_note: null
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: "space between spaces"
+      confidence: medium
+arc_position:
+  arc_name: unknown
+  role_in_arc: "supporting role"
+  chapter_function: "participates in the plan of action without speaking."
+changes:
+  -
+    change_type: none
+    before: null
+    after: null
+    confidence: medium
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
+    line_start: null
+    line_end: null
+    excerpt: ""
+    supports:
+      - identity:character
+classification_notes: "Unknown is a character who participates in the plan of action without speaking."
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: null
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

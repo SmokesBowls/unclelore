@@ -1,0 +1,141 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000009
+entity_ref: candidate:theron
+display_name: Theron
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_01_book_of_genesis_001_the_ethereal_vigil
+book_number: 1
+chapter_id: 001_the_ethereal_vigil
+chapter_title: "The Ethereal Vigil"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
+source_hash: 39a5e85c50d7dbb533cf87d1fa9db8aa2cde0c2ce232b180ef909c379086aca7
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_024510
+chapter_role: "Specializes in temporal mechanics and observes planetary changes."
+identity_evidence:
+  named_directly: true
+  speaks: false
+  performs_actions: true
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 4
+state_start:
+  location: "Ethereal Realm"
+  physical_state: "consciousness specialized in temporal mechanics"
+  emotional_state: neutral
+  social_status: "Aeon Keeper"
+  faction_alignment: "Cosmic Infrastructure Guardians"
+  identity_state: "aware of planetary formation patterns"
+  knowledge_state: "temporal mechanics"
+state_during:
+  active_conditions:
+    - "observed tectonic plate settling"
+    - "analyzed magnetic field strength"
+  observed_traits:
+    []
+  active_conflicts:
+    []
+  temporary_roles:
+    []
+state_end:
+  location: "Ethereal Realm"
+  physical_state: "consciousness specialized in temporal mechanics"
+  emotional_state: neutral
+  social_status: "Aeon Keeper"
+  faction_alignment: "Cosmic Infrastructure Guardians"
+  identity_state: "aware of planetary formation patterns"
+  unresolved_after_chapter:
+    []
+relationships:
+  -
+    predicate: observes
+    subject: Theron
+    target: "Lyaris, Vaelith, Mordain, Syreth, Korath"
+    evidence: direct
+    confidence: high
+    notes: "Collaborative monitoring of planetary changes."
+  -
+    predicate: "calculates the optimal distribution of Nephoretti"
+    subject: Theron
+    target: "the group"
+    evidence: direct
+    confidence: high
+    notes: null
+actions:
+  -
+    action: "observed tectonic plate settling"
+    target: null
+    consequence: "analyzed magnetic field strength approaching sustainable thresholds"
+    confidence: high
+  -
+    action: "calculating the optimal distribution of Nephoretti"
+    target: null
+    consequence: "proposes 1000 Nephoretti to be manifested simultaneously across both continental masses, with concentration in areas where transformed Pelagor have gathered"
+    confidence: high
+dialogue:
+  -
+    speaker: Theron
+    addressee: "the group"
+    quote_excerpt: "Manifested simultaneously, to maximize the impression of unified purpose. A cascade of consciousness-formation that will register across all dimensional frequencies."
+    voice_note: null
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: "Ethereal Realm"
+      confidence: high
+arc_position:
+  arc_name: "Aaon Keepers"
+  role_in_arc: setup
+  chapter_function: "Contributes to the observation and analysis of planetary changes."
+changes:
+  -
+    change_type: knowledge_gain
+    before: "temporal mechanics"
+    after: "observed tectonic plate settling, analyzed magnetic field strength approaching sustainable thresholds"
+    confidence: high
+  -
+    change_type: none
+    before: null
+    after: null
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
+    line_start: null
+    line_end: null
+    excerpt: "\"The planet below was healing. Continents had formed at the poles, massive landmasses that rose from the primordial oceans like the backs of slumbering titans.\" He observed the tectonic plate settling and analyzed the magnetic field strength."
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0002
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
+    line_start: null
+    line_end: null
+    excerpt: "Manifested simultaneously, to maximize the impression of unified purpose. A cascade of consciousness-formation that will register across all dimensional frequencies."
+    supports:
+      - identity:character
+classification_notes: "Theron is a key Aeon Keeper who specializes in temporal mechanics and observes planetary changes."
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: "No continuity issues identified."
+  -
+    flag_type: none
+    severity: info
+    note: null
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

@@ -1,0 +1,147 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000032
+entity_ref: candidate:elyraen
+display_name: Elyraen
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_01_book_of_genesis_004_the_convergence
+book_number: 1
+chapter_id: 004_the_convergence
+chapter_title: "The Convergence"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_004_the_convergence.md
+source_hash: 254a824241f039db73334ede6b0e3526525a5ccc5a58f5e4ae3062ae135d3a61
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_024510
+chapter_role: "analytical Neferati during the Giant Convergence."
+identity_evidence:
+  named_directly: true
+  speaks: true
+  performs_actions: false
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 4
+state_start:
+  location: "water's edge"
+  physical_state: "standing, analytical"
+  emotional_state: analytical
+  social_status: Neferati
+  faction_alignment: Neferati
+  identity_state: unknown
+  knowledge_state: "aware of seismic patterns"
+state_during:
+  active_conditions:
+    - "processing seismic data"
+    - "communicating with Senareth"
+  observed_traits:
+    []
+  active_conflicts:
+    []
+  temporary_roles:
+    []
+state_end:
+  location: "water's edge"
+  physical_state: "standing, analytical"
+  emotional_state: analytical
+  social_status: Neferati
+  faction_alignment: Neferati
+  identity_state: unknown
+  unresolved_after_chapter:
+    - "processing seismic data"
+relationships:
+  -
+    predicate: communication
+    subject: Elyraen
+    target: Senareth
+    evidence: direct
+    confidence: high
+    notes: "Communicating with Senareth about Giant's behavior"
+actions:
+  -
+    action: "processing seismic data"
+    target: null
+    consequence: "aware of seismic patterns across the island"
+    confidence: high
+  -
+    action: "communicating with Senareth"
+    target: Senareth
+    consequence: "sharing insights on Giant's behavior"
+    confidence: high
+  -
+    action: "reports on Giants' decisions"
+    target: null
+    consequence: "provides insight into Giants' intentions"
+    confidence: high
+dialogue:
+  -
+    speaker: Elyraen
+    addressee: Neferati
+    quote_excerpt: "They don't know what we are"
+    voice_note: null
+  -
+    speaker: Elyraen
+    addressee: Senareth
+    quote_excerpt: "The burnt-reds feel... nothing. No fear-response at all."
+    voice_note: null
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: "water's edge"
+      confidence: high
+arc_position:
+  arc_name: "Aaon Keepers"
+  role_in_arc: escalation
+  chapter_function: "Analytical Neferati during the Giant Convergence."
+changes:
+  -
+    change_type: relationship_change
+    before: unknown
+    after: "communication with Senareth"
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_004_the_convergence.md
+    line_start: null
+    line_end: null
+    excerpt: "Elyraen added to the design, creating interlocking geometries that caught the eye and drew consciousness toward recognition of deeper harmonies."
+    supports:
+      - "state_during:processing seismic data"
+  -
+    quote_id: Q-0002
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_004_the_convergence.md
+    line_start: null
+    line_end: null
+    excerpt: "They paused, processing. 'The burnt-reds feel... nothing. No fear-response at all.'"
+    supports:
+      - "state_end:communication with Senareth"
+  -
+    quote_id: Q-0003
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_004_the_convergence.md
+    line_start: null
+    line_end: null
+    excerpt: "Elyraen reports on the Giants' decisions."
+    supports:
+      - identity:character
+classification_notes: "Analytical Neferati during the Giant Convergence."
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: null
+  -
+    flag_type: none
+    severity: info
+    note: "No continuity issues identified."
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

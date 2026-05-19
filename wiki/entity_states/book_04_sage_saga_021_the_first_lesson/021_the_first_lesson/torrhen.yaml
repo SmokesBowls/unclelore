@@ -1,0 +1,258 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000115
+entity_ref: candidate:torrhen
+display_name: Torrhen
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_04_sage_saga_021_the_first_lesson
+book_number: 4
+chapter_id: 021_the_first_lesson
+chapter_title: "The First Lesson"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_04_sage_saga_021_the_first_lesson.md
+source_hash: a8fa7f2ff8d7dc602ba8d638a395ca58aca5a8585e003cdbc8e91f3784d3ef46
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_134701
+chapter_role: "teaches the Sage about the First Tongue and its connection to consciousness and reality"
+identity_evidence:
+  named_directly: true
+  speaks: true
+  performs_actions: true
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: false
+  exhibits_unified_action: false
+  identity_confidence: high
+  identity_signal_count: 5
+timeline_events:
+  -
+    event_type: state_change
+    description: "Torrhen's consciousness extends beyond individual identity, demonstrating the First Tongue and its connection to reality."
+    confidence: high
+    source_quote_id: Q-0001
+  -
+    event_type: state_change
+    description: "Torrhen's consciousness begins to demonstrate Deep Grammar principles through sequences that make reality itself seem to sing with recognition."
+    confidence: medium
+    source_quote_id: null
+  -
+    event_type: state_change
+    description: "extended his awareness through Deep Waters that connected consciousness-forms across galactic distances"
+    confidence: medium
+    source_quote_id: null
+  -
+    event_type: state_change
+    description: "Torrhen replied, his ancient wisdom touching currents of understanding that flowed through the frequency patterns themselves."
+    confidence: medium
+    source_quote_id: null
+  -
+    event_type: state_change
+    description: "Torrhen's presence flowing through Deep Waters that connected all teaching centers while allowing each to maintain distinctive identity."
+    confidence: medium
+    source_quote_id: null
+  -
+    event_type: state_change
+    description: "Torrhen's presence encompassing planetary awareness while maintaining distinctive wisdom."
+    confidence: medium
+    source_quote_id: null
+relationships:
+  -
+    predicate: teaches
+    subject: Torrhen
+    target: Sage
+    evidence: direct
+    confidence: high
+    notes: ""
+  -
+    predicate: "partnered with The Sage"
+    subject: Torrhen
+    target: "The Sage"
+    evidence: direct
+    confidence: high
+    notes: ""
+  -
+    predicate: explains
+    subject: Torrhen
+    target: "the teaching curriculum"
+    evidence: direct
+    confidence: high
+    notes: ""
+  -
+    predicate: partner
+    subject: Torrhen
+    target: Sage
+    evidence: direct
+    confidence: high
+    notes: ""
+  -
+    predicate: partner
+    subject: Torrhen
+    target: "The Sage"
+    evidence: direct
+    confidence: high
+    notes: ""
+actions:
+  -
+    action: "demonstrates the First Tongue and its connection to reality"
+    target: null
+    consequence: ""
+    confidence: high
+  -
+    action: "taught Deep Grammar to The Sage"
+    target: "The Sage"
+    consequence: "developed systematic approaches to instruction"
+    confidence: medium
+  -
+    action: "extended his awareness through Deep Waters"
+    target: null
+    consequence: null
+    confidence: low
+  -
+    action: "replied to the Sage"
+    target: null
+    consequence: ""
+    confidence: medium
+  -
+    action: "worked with students"
+    target: null
+    consequence: ""
+    confidence: high
+  -
+    action: smiled
+    target: null
+    consequence: "beautiful chaos"
+    confidence: low
+  -
+    action: observed
+    target: null
+    consequence: ""
+    confidence: low
+dialogue:
+  -
+    speaker: Torrhen
+    addressee: Sage
+    quote_excerpt: ""
+    voice_note: ""
+  -
+    speaker: Torrhen
+    addressee: "The Sage"
+    quote_excerpt: ""
+    voice_note: ""
+  -
+    speaker: Torrhen
+    addressee: unknown
+    quote_excerpt: ""
+    voice_note: ""
+  -
+    speaker: Torrhen
+    addressee: Sage
+    quote_excerpt: "\"And reality approaches readiness for consciousness that can speak Convergence Resonances with understanding rather than accident\""
+    voice_note: ""
+  -
+    speaker: Torrhen
+    addressee: "The Sage"
+    quote_excerpt: ""
+    voice_note: ""
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: "sanctuary's entrance"
+      confidence: high
+arc_position:
+  arc_name: unknown
+  role_in_arc: "setup | escalation | revelation | resolution | aftermath | unknown"
+  chapter_function: ""
+changes:
+  -
+    change_type: identity_reveal
+    before: "individual identity"
+    after: "connection to reality"
+    confidence: high
+  -
+    change_type: none
+    before: null
+    after: null
+    confidence: low
+  -
+    change_type: none
+    before: null
+    after: null
+    confidence: low
+  -
+    change_type: none
+    before: ""
+    after: ""
+    confidence: low
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_04_sage_saga_021_the_first_lesson.md
+    line_start: null
+    line_end: null
+    excerpt: ""
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0002
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_04_sage_saga_021_the_first_lesson.md
+    line_start: null
+    line_end: null
+    excerpt: ""
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0003
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_04_sage_saga_021_the_first_lesson.md
+    line_start: null
+    line_end: null
+    excerpt: ""
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0004
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_04_sage_saga_021_the_first_lesson.md
+    line_start: null
+    line_end: null
+    excerpt: "extended his awareness through Deep Waters"
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0005
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_04_sage_saga_021_the_first_lesson.md
+    line_start: null
+    line_end: null
+    excerpt: "short exact quote from chapter"
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0006
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_04_sage_saga_021_the_first_lesson.md
+    line_start: null
+    line_end: null
+    excerpt: "Torrhen's ancient wisdom embracing complexity that serves growth rather than fearing it."
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0007
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_04_sage_saga_021_the_first_lesson.md
+    line_start: null
+    line_end: null
+    excerpt: "The Deep Waters sing eternal songs."
+    supports:
+      - identity:character
+classification_notes: "Torrhen is a character who demonstrates the First Tongue and its connection to reality."
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: ""
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

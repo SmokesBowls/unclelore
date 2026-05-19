@@ -1,0 +1,79 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000139
+entity_ref: candidate:the_overseer
+display_name: "The Overseer"
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_05_the_nameless_one_028_ragnarok
+book_number: 5
+chapter_id: 028_ragnarok
+chapter_title: Ragnarok
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+source_hash: 2e0e370e47116a3e4086dec07e3af3229888e73806a3718c9ca5372f74ce6b3b
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_134701
+chapter_role: "attacked Geralt."
+identity_evidence:
+  named_directly: true
+  speaks: true
+  performs_actions: true
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: false
+  exhibits_unified_action: true
+  identity_confidence: high
+  identity_signal_count: 5
+timeline_events:
+  -
+    event_type: state_change
+    description: "The Overseer attacked Geralt."
+    confidence: medium
+    source_quote_id: null
+relationships:
+  []
+actions:
+  -
+    action: "attacked Geralt."
+    target: Geralt
+    consequence: "defending against attack"
+    confidence: medium
+dialogue:
+  -
+    speaker: "The Overseer"
+    addressee: unknown
+    quote_excerpt: "'Last chance,' the Overseer continued. 'Surrender. Accept that cosmic order is absolute. Die quickly rather than learning through prolonged suffering that gods cannot be defied by property.'"
+    voice_note: "short note or null"
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: compound
+      confidence: high
+arc_position:
+  arc_name: unknown
+  role_in_arc: "setup | escalation | revelation | reversal | resolution | aftermath | unknown"
+  chapter_function: "short note"
+changes:
+  []
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+    line_start: null
+    line_end: null
+    excerpt: "'Last chance,' the Overseer continued. 'Surrender. Accept that cosmic order is absolute. Die quickly rather than learning through prolonged suffering that gods cannot be defied by property.'"
+    supports:
+      - identity:character
+classification_notes: "why this type was chosen"
+continuity_flags:
+  []
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: "create_candidate | link_existing | merge_candidate | reject_candidate | review"

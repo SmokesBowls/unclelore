@@ -1,0 +1,157 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000063
+entity_ref: candidate:pazuzu
+display_name: Pazuzu
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_02_age_of_servitude_006_the_first_coming
+book_number: 2
+chapter_id: 006_the_first_coming
+chapter_title: "The First Coming"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+source_hash: cf57ad4230c36e0a80d1b043d310f0622d67427542d211d02be06b3b3c3065c1
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_073426
+chapter_role: "Igigi leader and mathematician."
+identity_evidence:
+  named_directly: true
+  speaks: true
+  performs_actions: true
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 5
+state_start:
+  location: "Igigi transport pod"
+  physical_state: "Fearful, uncertain."
+  emotional_state: "Resigned and fearful."
+  social_status: "Leader of Igigi."
+  faction_alignment: "Igigi faction."
+  identity_state: "Mathematician with a calculating mind."
+  knowledge_state: "Aware of their situation but not fully understanding the implications."
+state_during:
+  active_conditions:
+    - Resigned
+    - Fearful
+  observed_traits:
+    []
+  active_conflicts:
+    []
+  temporary_roles:
+    []
+state_end:
+  location: "Genesis chamber complex"
+  physical_state: "Obedient, compliant."
+  emotional_state: "Calculating and determined."
+  social_status: "Leader of Igigi."
+  faction_alignment: "Igigi faction."
+  identity_state: "Mathematician with a calculating mind."
+  unresolved_after_chapter:
+    []
+relationships:
+  -
+    predicate: "leader of"
+    subject: Pazuzu
+    target: Igigi
+    evidence: direct
+    confidence: high
+    notes: null
+  -
+    predicate: "speaks to"
+    subject: Ishara
+    target: Ishara
+    evidence: direct
+    confidence: high
+    notes: "Supports Ishara and connects with her past."
+actions:
+  -
+    action: "speaking to Ishara about the newborn's name"
+    target: null
+    consequence: "discussing the future."
+    confidence: high
+dialogue:
+  -
+    speaker: Pazuzu
+    addressee: unknown
+    quote_excerpt: "\"The mathematics were not encouraging.\""
+    voice_note: null
+  -
+    speaker: Pazuzu
+    addressee: unknown
+    quote_excerpt: "\"But mathematics, as he had learned across centuries of slavery, were not everything.\""
+    voice_note: null
+  -
+    speaker: Pazuzu
+    addressee: Ishara
+    quote_excerpt: "Then let us hope, Ishara. Hope that Layla lives to see freedom. Hope that these indigenous biologicals prove stronger than we were."
+    voice_note: null
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: "Igigi transport pod"
+      confidence: high
+    -
+      name: "Genesis chamber complex"
+      confidence: medium
+arc_position:
+  arc_name: unknown
+  role_in_arc: "setup | escalation"
+  chapter_function: "Provides insight into Igigi's emotional state and their situation."
+changes:
+  -
+    change_type: none
+    before: "Resigned and fearful."
+    after: "Calculating and determined."
+    confidence: high
+  -
+    change_type: none
+    before: undisclosed
+    after: undisclosed
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+    line_start: null
+    line_end: null
+    excerpt: "\"The mathematics were not encouraging.\""
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0002
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+    line_start: null
+    line_end: null
+    excerpt: "\"But mathematics, as he had learned across centuries of slavery, were not everything.\""
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0003
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+    line_start: null
+    line_end: null
+    excerpt: "Pazuzu, supporting Ishara and connecting with her past."
+    supports:
+      - identity:character
+classification_notes: "Pazuzu is an Igigi leader who provides emotional and mathematical context for their situation."
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: null
+  -
+    flag_type: none
+    severity: info
+    note: "No continuity issues observed."
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

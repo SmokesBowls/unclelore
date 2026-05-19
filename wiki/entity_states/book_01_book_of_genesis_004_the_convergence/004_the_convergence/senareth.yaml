@@ -1,0 +1,206 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000031
+entity_ref: candidate:senareth
+display_name: Senareth
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_01_book_of_genesis_004_the_convergence
+book_number: 1
+chapter_id: 004_the_convergence
+chapter_title: "The Convergence"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_004_the_convergence.md
+source_hash: 254a824241f039db73334ede6b0e3526525a5ccc5a58f5e4ae3062ae135d3a61
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_024510
+chapter_role: "Prime Neferati leader during the Giant Convergence."
+identity_evidence:
+  named_directly: true
+  speaks: true
+  performs_actions: true
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 5
+state_start:
+  location: "water's edge"
+  physical_state: "standing, authoritative"
+  emotional_state: "confident, intuitive"
+  social_status: "leader of Neferati"
+  faction_alignment: Neferati
+  identity_state: Prime
+  knowledge_state: "aware of seismic patterns"
+state_during:
+  active_conditions:
+    - "observing Giants"
+    - "communicating with Giants"
+  observed_traits:
+    - "intelligent, curious"
+  active_conflicts:
+    []
+  temporary_roles:
+    []
+state_end:
+  location: "tree line"
+  physical_state: "standing, authoritative"
+  emotional_state: "confident, intuitive"
+  social_status: "leader of Neferati"
+  faction_alignment: Neferati
+  identity_state: Prime
+  unresolved_after_chapter:
+    - "understanding Giants' intentions"
+relationships:
+  -
+    predicate: communication
+    subject: Senareth
+    target: "mountain Giant (charcoal-grey)"
+    evidence: direct
+    confidence: high
+    notes: "Prime connection and initial communication"
+  -
+    predicate: "communicates understanding to"
+    subject: Torhh
+    target: "jade-greens and other ocean-colored Giants"
+    evidence: direct
+    confidence: high
+    notes: "Through complex harmonics"
+  -
+    predicate: "apologizes to"
+    subject: Torhh
+    target: Torhh
+    evidence: direct
+    confidence: high
+    notes: "Senareth kneels and offers apology"
+actions:
+  -
+    action: "commanding Neferati to beach"
+    target: null
+    consequence: "Neferati form loose clusters along the shoreline"
+    confidence: high
+  -
+    action: "stepping forward"
+    target: null
+    consequence: "Prime connection and initial communication with mountain Giant"
+    confidence: high
+  -
+    action: "internal conflict between fear and curiosity"
+    target: null
+    consequence: null
+    confidence: high
+  -
+    action: "communicates understanding to jade-greens and other ocean-colored Giants"
+    target: null
+    consequence: null
+    confidence: high
+  -
+    action: "kneels to apologize"
+    target: null
+    consequence: "creates opening for trust"
+    confidence: high
+  -
+    action: "extends consciousness-touch cautiously"
+    target: Torhh
+    consequence: "facilitates initial connection"
+    confidence: medium
+dialogue:
+  -
+    speaker: Senareth
+    addressee: Neferati
+    quote_excerpt: "Everyone to the beach"
+    voice_note: null
+  -
+    speaker: Senareth
+    addressee: "Giant (charcoal-grey)"
+    quote_excerpt: "They don't know what we are"
+    voice_note: null
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: "water's edge, tree line"
+      confidence: high
+arc_position:
+  arc_name: "Aaon Keepers"
+  role_in_arc: escalation
+  chapter_function: "Prime Neferati leader during the Giant Convergence."
+changes:
+  -
+    change_type: relationship_change
+    before: unknown
+    after: "communication with mountain Giant (charcoal-grey)"
+    confidence: high
+  -
+    change_type: "emotional state change from fear to understanding"
+    before: "conflicted, uncertain"
+    after: "understanding, sympathy"
+    confidence: high
+  -
+    change_type: relationship_change
+    before: hostile
+    after: "tentative trust"
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_004_the_convergence.md
+    line_start: null
+    line_end: null
+    excerpt: "Senareth felt the Prime connection pulse with faint impression: Observe. Do not interfere."
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0002
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_004_the_convergence.md
+    line_start: null
+    line_end: null
+    excerpt: "They extended awareness toward the kneeling Giant, careful not to intrude but offering... connection. Recognition. Acknowledgment of consciousness meeting consciousness."
+    supports:
+      - "state_end:communication with mountain Giant (charcoal-grey)"
+  -
+    quote_id: Q-0003
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_004_the_convergence.md
+    line_start: null
+    line_end: null
+    excerpt: "The jade-greens tensed. Several made warning sounds, deep rumbles that vibrated through Senareth's chest cavity. But Torhh didn't flee. Didn't attack. Just stood there, frozen in that same internal conflict that had marked all their interactions."
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0004
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_004_the_convergence.md
+    line_start: null
+    line_end: null
+    excerpt: "Senareth placed both hands on the offered palm. Stone-flesh warm and textured, alive in ways that transcended biology."
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0005
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_004_the_convergence.md
+    line_start: null
+    line_end: null
+    excerpt: "We're different. We choose differently. We're here to help, not harm."
+    supports:
+      - identity:character
+classification_notes: "Prime Neferati leader during the Giant Convergence."
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: null
+  -
+    flag_type: none
+    severity: info
+    note: "No continuity issues identified"
+  -
+    flag_type: none
+    severity: info
+    note: "No continuity issues identified."
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

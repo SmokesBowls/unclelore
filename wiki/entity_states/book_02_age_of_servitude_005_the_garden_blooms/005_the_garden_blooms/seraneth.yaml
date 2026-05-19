@@ -1,0 +1,126 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000051
+entity_ref: candidate:seraneth
+display_name: Seraneth
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_02_age_of_servitude_005_the_garden_blooms
+book_number: 2
+chapter_id: 005_the_garden_blooms
+chapter_title: "The Garden Blooms"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+source_hash: 90aa8bd3bd0f8689009096c2f3532e823e6705402a6e1fde4e0e9839a4b4a2d2
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_064513
+chapter_role: "Reflecting on the Neferati's purpose and the Garden's history, leading to a realization of the inevitability of the First Coming."
+identity_evidence:
+  named_directly: true
+  speaks: true
+  performs_actions: true
+  receives_description: true
+  has_internal_state: true
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 6
+state_start:
+  location: "island's highest point"
+  physical_state: "bioluminescence dimmed slightly, movements carrying weight of centuries"
+  emotional_state: "weight of four and a half centuries, questioning assumptions"
+  social_status: "Neferati leader or representative"
+  faction_alignment: "Aeon Keepers"
+  identity_state: "extension of Aeon Keepers' consciousness"
+  knowledge_state: "aware of their purpose"
+state_during:
+  active_conditions:
+    - "questioning assumptions"
+    - "leading reflection"
+  observed_traits:
+    - "analytical mind"
+    - "emotional weight"
+  active_conflicts:
+    []
+  temporary_roles:
+    []
+state_end:
+  location: "island's highest point"
+  physical_state: "bioluminescence dimmed slightly, movements carrying weight of centuries"
+  emotional_state: "weight of four and a half centuries, questioning assumptions, realization of inevitability"
+  social_status: "Neferati leader or representative"
+  faction_alignment: "Aeon Keepers"
+  identity_state: "extension of Aeon Keepers' consciousness"
+  unresolved_after_chapter:
+    - "realization of inevitability"
+relationships:
+  -
+    predicate: reflection_of
+    subject: Seraneth
+    target: "Neferati's purpose and the Garden's history"
+    evidence: direct
+    confidence: high
+    notes: null
+actions:
+  -
+    action: "leading reflection on Neferati's purpose"
+    target: null
+    consequence: "realization of inevitability"
+    confidence: high
+dialogue:
+  -
+    speaker: Seraneth
+    addressee: Elyraen
+    quote_excerpt: "Through us. We're extensions of their consciousness, tools for shaping reality according to purposes larger than individual choice."
+    voice_note: null
+  -
+    speaker: Seraneth
+    addressee: "Neferati and Giants"
+    quote_excerpt: "They come to harvest. To enslave. To reshape this world according to their purposes. You cannot stop them. But you can endure. You can preserve what matters."
+    voice_note: null
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: "island's highest point"
+      confidence: high
+arc_position:
+  arc_name: unknown
+  role_in_arc: "reflection and realization"
+  chapter_function: "leading the Neferati in reflection on their purpose and the inevitability of the First Coming"
+changes:
+  -
+    change_type: realization_of_inevitability
+    before: "awareness of purpose, questioning assumptions"
+    after: "realization of inevitability"
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+    line_start: null
+    line_end: null
+    excerpt: "Are we? Or have we become something else?"
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0002
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+    line_start: null
+    line_end: null
+    excerpt: "They come to harvest. To enslave. To reshape this world according to their purposes."
+    supports:
+      - identity:character
+classification_notes: "Seraneth is a character with significant internal conflict and reflection on the Neferati's purpose."
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: null
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

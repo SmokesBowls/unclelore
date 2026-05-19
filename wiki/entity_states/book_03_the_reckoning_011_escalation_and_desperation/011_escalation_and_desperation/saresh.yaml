@@ -1,0 +1,145 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000097
+entity_ref: candidate:saresh
+display_name: Saresh
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_03_the_reckoning_011_escalation_and_desperation
+book_number: 3
+chapter_id: 011_escalation_and_desperation
+chapter_title: "Escalation And Desperation"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_03_the_reckoning_011_escalation_and_desperation.md
+source_hash: 35417f67ed1daa424b3bf5bd886d4ba87677429c9dcdb6a09ce5ba7facd35f0e
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_073426
+chapter_role: "Leader of Oasis Clans, facing Dregan attack."
+identity_evidence:
+  named_directly: true
+  speaks: true
+  performs_actions: true
+  receives_description: true
+  has_internal_state: true
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 6
+state_start:
+  location: "Oasis Clans"
+  physical_state: intact
+  emotional_state: "confident in safety of underground sanctuary"
+  social_status: leader
+  faction_alignment: Giant
+  identity_state: "Desert Giant"
+  knowledge_state: "aware of Dregan's capabilities"
+state_during:
+  active_conditions:
+    - "commanding retreat"
+    - "defending against Dregans"
+  observed_traits:
+    - "strength and resilience"
+    - "ability to withstand sonic attacks"
+  active_conflicts:
+    - "fleeing from Dregans"
+    - "protecting the sanctuary"
+  temporary_roles:
+    []
+state_end:
+  location: "Grand Oasis Chamber"
+  physical_state: "injured, collapsing"
+  emotional_state: "realizing vulnerability and despair"
+  social_status: leader
+  faction_alignment: Giant
+  identity_state: "Desert Giant"
+  unresolved_after_chapter:
+    - "acceptance of Dregan's hatred"
+relationships:
+  -
+    predicate: "leader of"
+    subject: Saresh
+    target: tribes
+    evidence: direct
+    confidence: high
+    notes: "Saresh is the leader of multiple tribes"
+actions:
+  -
+    action: "commanding retreat into underground sanctuary"
+    target: null
+    consequence: "fleeing from Dregans"
+    confidence: high
+  -
+    action: "admitting the need for alliance"
+    target: null
+    consequence: "realizing the urgency to unite against Anunnaki"
+    confidence: high
+dialogue:
+  -
+    speaker: Saresh
+    text: "To the deep chambers! Now!"
+  -
+    speaker: Saresh
+    text: "The earth will shield us! It cannot follow—"
+  -
+    speaker: Saresh
+    addressee: unknown
+    quote_excerpt: "The choice is between a solitary, meaningless death in the dark, or a unified, desperate gamble for a future."
+    voice_note: null
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: "Oasis Clans"
+      confidence: high
+    -
+      name: "Grand Oasis Chamber"
+      confidence: high
+arc_position:
+  arc_name: unknown
+  role_in_arc: conflict
+  chapter_function: "engaging with Dregans and facing their attack"
+changes:
+  -
+    change_type: "realization of vulnerability"
+    before: null
+    after: "acceptance of Dregan's hatred"
+    confidence: high
+  -
+    change_type: identity_reveal
+    before: "prideful leader"
+    after: "leader willing to sacrifice pride for survival"
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_03_the_reckoning_011_escalation_and_desperation.md
+    line_start: null
+    line_end: null
+    excerpt: "Saresh collapsed in the Grand Oasis Chamber, a vast, hidden geode-city that had been a safe haven for millennia. Its body was failing, pieces of its consciousness flaking away like dry clay."
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0002
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_03_the_reckoning_011_escalation_and_desperation.md
+    line_start: null
+    line_end: null
+    excerpt: "The choice is between a solitary, meaningless death in the dark, or a unified, desperate gamble for a future."
+    supports:
+      - identity:character
+classification_notes: "Saresh is the leader of Oasis Clans who faces Dregan attack and realizes their vulnerability."
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: null
+  -
+    flag_type: none
+    severity: info
+    note: null
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

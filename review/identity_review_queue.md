@@ -1,8 +1,8 @@
 # MrLore Identity Review Queue
 
-**Generated:** 2026-05-18T13:23:42Z  
+**Generated:** 2026-05-19T04:48:16Z  
 **Tool:** identity_review_queue/0.1.0  
-**Total records:** 403  
+**Total records:** 405  
 
 ## Filter
 
@@ -14,17 +14,17 @@
 
 | File | SHA-256 (first 32) |
 |---|---|
-| `provisional_identity_routes.jsonl` | `dc60c55d3a117f1f6d6f21ea1d3bc7bf` |
-| `identity_signal_stats.jsonl` | `e44c52778e9a475c16a66b2148209b58` |
-| `surface_form_stats.jsonl` | `853cdc8201dbef363f2bce85ffc7322b` |
+| `provisional_identity_routes.jsonl` | `711a5b959f4b665b859f7eeee05c3d09` |
+| `identity_signal_stats.jsonl` | `a905c7177d72d8acbd6937adda7a6f1f` |
+| `surface_form_stats.jsonl` | `b37e80e4c6076794a0edb3a277651cda` |
 
 ## Bucket Distribution
 
 | Bucket | Count |
 |---|---|
-| `ambiguous_review_candidate` | 293 |
+| `ambiguous_review_candidate` | 294 |
 | `bounded_actor_candidate` | 68 |
-| `identity_braid_candidate` | 42 |
+| `identity_braid_candidate` | 43 |
 
 ## Review Queue
 
@@ -126,6 +126,7 @@
 | Fragmented | ambiguous_review_candidate | ["ambiguous_review_candidate"] | {} | 4 | 4 | 0.0 | 0.0 | 0.0 | 0.75 | 0.75 | ["Fragmented"] | ["Queen","Scattered",""] | 2.0 | pending | null |  |
 | Friend | ambiguous_review_candidate | ["ambiguous_review_candidate"] | {} | 4 | 3 | 0.0 | 0.0 | 0.0 | 0.5 | 0.75 | ["Friend"] | ["Vael","",""] | 0.5 | pending | null |  |
 | Fury | ambiguous_review_candidate | ["ambiguous_review_candidate"] | {} | 4 | 4 | 0.0 | 0.0 | 0.0 | 0.75 | 0.75 | ["Fury"] | ["Tides","",""] | 0.0 | pending | null |  |
+| GPT's | ambiguous_review_candidate | ["ambiguous_review_candidate"] | {} | 25 | 4 | 0.0 | 0.04 | 0.0 | 0.32 | 1.0 | ["GPT's"] | ["Asag","Cracks","Mr"] | 12.88 | pending | null |  |
 | Gaiana | ambiguous_review_candidate | ["ambiguous_review_candidate"] | {} | 23 | 2 | 0.217391 | 0.0 | 0.491691 | 0.086957 | 1.0 | ["Gaiana"] | ["Mr","GPT","Giants"] | 2.0 | pending | null |  |
 | Garric | ambiguous_review_candidate | ["ambiguous_review_candidate"] | {} | 15 | 3 | 0.066667 | 0.0 | 0.08682 | 0.4 | 0.933333 | ["Garric"] | ["EXPANSION","Falcon","Ridge"] | 10.266667 | pending | null |  |
 | General Marduk | bounded_actor_candidate | ["bounded_actor_candidate","sparse_reference_candidate"] | {"speech_ratio":0.25,"action_ratio":0.25,"monologue_viability_score":0.25} | 4 | 2 | 0.25 | 0.25 | 0.25 | 0.25 | 1.0 | ["General Marduk"] | ["Behind","Earth","Queen"] | 2.5 | pending | null |  |
@@ -213,6 +214,7 @@
 | Mora’s | ambiguous_review_candidate | ["ambiguous_review_candidate"] | {} | 11 | 4 | 0.0 | 0.090909 | 0.0 | 0.272727 | 1.0 | ["Mora’s"] | ["Seren","",""] | 2.545455 | pending | null |  |
 | Moved | ambiguous_review_candidate | ["ambiguous_review_candidate"] | {} | 38 | 5 | 0.0 | 0.0 | 0.0 | 0.157895 | 0.605263 | ["Moved"] | ["Hummed","Zephyr",""] | 0.0 | pending | null |  |
 | Movement | identity_braid_candidate | ["identity_braid_candidate"] | {"speech_ratio":0.0,"action_ratio":0.0625,"chapter_count":13,"collective_fragmentation_score":0.875} | 16 | 13 | 0.0 | 0.0625 | 0.0 | 0.875 | 1.0 | ["Movement"] | ["Anunnaki's","Breath","Fingers"] | 1.3125 | pending | null |  |
+| Mr GPT | identity_braid_candidate | ["identity_braid_candidate"] | {"speech_ratio":0.056291,"action_ratio":0.003311,"chapter_count":23,"collective_fragmentation_score":0.887417} | 302 | 23 | 0.056291 | 0.003311 | 0.020163 | 0.887417 | 0.821192 | ["GPT","Mr GPT"] | ["Giants","Thang","Rongtai"] | 1.476 | pending | null |  |
 | Nameless One | ambiguous_review_candidate | ["ambiguous_review_candidate"] | {} | 52 | 3 | 0.0 | 0.134615 | 0.0 | 0.038462 | 1.0 | ["Nameless One"] | ["Reptilian's","Apparently","Currently"] | 4.019231 | pending | null |  |
 | Nammu | bounded_actor_candidate | ["bounded_actor_candidate"] | {"speech_ratio":0.083333,"action_ratio":0.09375,"monologue_viability_score":0.049886} | 96 | 11 | 0.083333 | 0.09375 | 0.049886 | 0.739583 | 0.979167 | ["Nammu"] | ["Enlil","Vale","It's"] | 2.645833 | pending | null |  |
 | Navigate | ambiguous_review_candidate | ["ambiguous_review_candidate"] | {} | 4 | 3 | 0.0 | 0.0 | 0.0 | 0.5 | 0.75 | ["Navigate"] | ["","",""] | 0.0 | pending | null |  |
@@ -434,4 +436,4 @@
 | Zypher | ambiguous_review_candidate | ["ambiguous_review_candidate"] | {} | 58 | 4 | 0.086207 | 0.017241 | 0.12625 | 0.293103 | 0.965517 | ["Zypher"] | ["Geralt","Tidecaller's","Ah"] | 3.965517 | pending | null |  |
 | Zypher's | ambiguous_review_candidate | ["ambiguous_review_candidate"] | {} | 22 | 2 | 0.0 | 0.045455 | 0.0 | 0.181818 | 1.0 | ["Zypher's"] | ["Geralt's","Five","Geralt"] | 7.909091 | pending | null |  |
 
-*403 records — awaiting reviewer decisions before Pass 5 promotion logic.*
+*405 records — awaiting reviewer decisions before Pass 5 promotion logic.*

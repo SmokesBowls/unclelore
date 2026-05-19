@@ -1,0 +1,122 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000017
+entity_ref: candidate:elyraen
+display_name: Elyraen
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_01_book_of_genesis_002_molten_descent
+book_number: 1
+chapter_id: 002_molten_descent
+chapter_title: "Molten Descent"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_002_molten_descent.md
+source_hash: 9373b5e7d87a061c1d3afef4e5eecc71d8bb855886443766ebe8b8651f3a6e87
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_024510
+chapter_role: "Nephoretti, assisting Senareth in understanding the situation."
+identity_evidence:
+  named_directly: true
+  speaks: true
+  performs_actions: false
+  receives_description: true
+  has_internal_state: true
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 5
+state_start:
+  location: "shallow water"
+  physical_state: "four feet tall, newly transformed Nephoretti"
+  emotional_state: "confused, analytical"
+  social_status: "supporting Senareth"
+  faction_alignment: unknown
+  identity_state: Nephoretti
+  knowledge_state: "newly transformed"
+state_during:
+  active_conditions:
+    - "analyzing the situation"
+  observed_traits:
+    []
+  active_conflicts:
+    []
+  temporary_roles:
+    []
+state_end:
+  location: "water's edge"
+  physical_state: "four feet tall, newly transformed Nephoretti"
+  emotional_state: analytical
+  social_status: "supporting Senareth"
+  faction_alignment: unknown
+  identity_state: Nephoretti
+  unresolved_after_chapter:
+    []
+relationships:
+  -
+    predicate: observation
+    subject: Elyraen
+    target: Giants
+    evidence: direct
+    confidence: medium
+    notes: "Elyraen observes the Giants' energy signatures."
+actions:
+  -
+    action: "analyze the situation"
+    target: Giants
+    consequence: "Understanding that Giants are afraid of Nephoretti due to past memories."
+    confidence: medium
+dialogue:
+  -
+    speaker: Elyraen
+    addressee: Giants
+    quote_excerpt: "The energy signatures... they're not just transformed Pelagor. They're Pelagor consciousness wrapped around something else."
+    voice_note: null
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: "shallow water"
+      confidence: high
+    -
+      name: "water's edge"
+      confidence: medium
+arc_position:
+  arc_name: unknown
+  role_in_arc: "supporting character"
+  chapter_function: "assist in understanding the situation."
+changes:
+  -
+    change_type: knowledge_gain
+    before: "confusion about why Giants are afraid of them"
+    after: "understanding that Giants' fear is due to past memories"
+    confidence: medium
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_002_molten_descent.md
+    line_start: null
+    line_end: null
+    excerpt: "Elyraen approached—the Nephoretti who had landed in the shallows and now moved with the careful precision of someone still learning to trust their newly-formed legs."
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0002
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_002_molten_descent.md
+    line_start: null
+    line_end: null
+    excerpt: "The energy signatures... I can sense them even through this physical form. The Giants... they're not just transformed Pelagor. They're Pelagor consciousness wrapped around something else."
+    supports:
+      - identity:character
+classification_notes: "Elyraen is a character with clear identity signals and actions within the chapter."
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: null
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

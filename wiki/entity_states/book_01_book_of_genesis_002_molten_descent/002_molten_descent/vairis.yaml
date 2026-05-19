@@ -1,0 +1,108 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000018
+entity_ref: candidate:vairis
+display_name: Vairis
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_01_book_of_genesis_002_molten_descent
+book_number: 1
+chapter_id: 002_molten_descent
+chapter_title: "Molten Descent"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_002_molten_descent.md
+source_hash: 9373b5e7d87a061c1d3afef4e5eecc71d8bb855886443766ebe8b8651f3a6e87
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_024510
+chapter_role: "Nephoretti, questioning Senareth's plan."
+identity_evidence:
+  named_directly: true
+  speaks: true
+  performs_actions: false
+  receives_description: true
+  has_internal_state: true
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 5
+state_start:
+  location: "water's edge"
+  physical_state: "four feet tall, newly transformed Nephoretti"
+  emotional_state: "practical, questioning"
+  social_status: "supporting Senareth"
+  faction_alignment: unknown
+  identity_state: Nephoretti
+  knowledge_state: "newly transformed"
+state_during:
+  active_conditions:
+    - "questioning the plan"
+  observed_traits:
+    []
+  active_conflicts:
+    []
+  temporary_roles:
+    []
+state_end:
+  location: "water's edge"
+  physical_state: "four feet tall, newly transformed Nephoretti"
+  emotional_state: "practical, questioning"
+  social_status: "supporting Senareth"
+  faction_alignment: unknown
+  identity_state: Nephoretti
+  unresolved_after_chapter:
+    []
+relationships:
+  -
+    predicate: question
+    subject: Vairis
+    target: Senareth
+    evidence: direct
+    confidence: high
+    notes: "Vairis questions Senareth's plan."
+actions:
+  []
+dialogue:
+  -
+    speaker: Vairis
+    addressee: Senareth
+    quote_excerpt: "Then we're never ready?"
+    voice_note: null
+  -
+    speaker: Vairis
+    addressee: Senareth
+    quote_excerpt: "And if they're never ready?"
+    voice_note: null
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: "water's edge"
+      confidence: high
+arc_position:
+  arc_name: unknown
+  role_in_arc: "supporting character"
+  chapter_function: "question Senareth's plan."
+changes:
+  []
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_002_molten_descent.md
+    line_start: null
+    line_end: null
+    excerpt: "And if they're never ready?"
+    supports:
+      - identity:character
+classification_notes: "Vairis is a character with clear identity signals and actions within the chapter."
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: null
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

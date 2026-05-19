@@ -1,0 +1,131 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000050
+entity_ref: candidate:neferati
+display_name: Neferati
+entity_type: species
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_02_age_of_servitude_005_the_garden_blooms
+book_number: 2
+chapter_id: 005_the_garden_blooms
+chapter_title: "The Garden Blooms"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+source_hash: 90aa8bd3bd0f8689009096c2f3532e823e6705402a6e1fde4e0e9839a4b4a2d2
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_064513
+chapter_role: "Serving as bridges, teaching refinement of consciousness-touch, and helping with construction projects."
+identity_evidence:
+  named_directly: true
+  speaks: false
+  performs_actions: true
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 4
+state_start:
+  location: "various territories"
+  physical_state: "sustained by vrill-connection to Aeon Keepers"
+  emotional_state: "weight of four and a half centuries"
+  social_status: "bridges, teachers, constructors"
+  faction_alignment: "Aeon Keepers"
+  identity_state: "extensions of Aeon Keepers' consciousness"
+  knowledge_state: "aware of their purpose"
+state_during:
+  active_conditions:
+    - "teaching refinement"
+    - "helping with construction"
+  observed_traits:
+    - "analytical mind"
+    - "questioning assumptions"
+  active_conflicts:
+    []
+  temporary_roles:
+    []
+state_end:
+  location: "various territories"
+  physical_state: "sustained by vrill-connection to Aeon Keepers"
+  emotional_state: "weight of four and a half centuries, questioning their purpose"
+  social_status: "bridges, teachers, constructors"
+  faction_alignment: "Aeon Keepers"
+  identity_state: "extensions of Aeon Keepers' consciousness"
+  unresolved_after_chapter:
+    - "questioning autonomy"
+relationships:
+  -
+    predicate: extension_of
+    subject: Neferati
+    target: "Aeon Keepers"
+    evidence: direct
+    confidence: high
+    notes: "Neferati are described as extensions of Aeon Keepers' consciousness"
+actions:
+  -
+    action: "teaching refinement of consciousness-touch"
+    target: null
+    consequence: "refinement of consciousness-touch"
+    confidence: high
+  -
+    action: "helping with construction projects"
+    target: null
+    consequence: "construction projects completed"
+    confidence: high
+dialogue:
+  -
+    speaker: Elyraen
+    addressee: Seraneth
+    quote_excerpt: "Are we? Or have we become something else?"
+    voice_note: null
+  -
+    speaker: Seraneth
+    addressee: Elyraen
+    quote_excerpt: "Through us. We're extensions of their consciousness, tools for shaping reality according to purposes larger than individual choice."
+    voice_note: null
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: "various territories"
+      confidence: high
+arc_position:
+  arc_name: unknown
+  role_in_arc: "setup | escalation"
+  chapter_function: "describing the Neferati's role in the Garden and their internal conflict about their purpose"
+changes:
+  -
+    change_type: identity_reveal
+    before: "extensions of Aeon Keepers' consciousness, tools for shaping reality"
+    after: "questioning autonomy"
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+    line_start: null
+    line_end: null
+    excerpt: "Not just structures. A world. A way of being together that didn't exist before we fell from the sky."
+    supports:
+      - identity:species
+  -
+    quote_id: Q-0002
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+    line_start: null
+    line_end: null
+    excerpt: "Are we? Or have we become something else?"
+    supports:
+      - identity:species
+classification_notes: "Neferati are a species with a specific role in the chapter and internal conflict about their purpose."
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: null
+compiler_notes:
+  eligible_for_book_profile: false
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

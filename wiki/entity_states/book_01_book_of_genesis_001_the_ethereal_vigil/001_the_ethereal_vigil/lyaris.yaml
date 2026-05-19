@@ -1,0 +1,189 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000008
+entity_ref: candidate:lyaris
+display_name: Lyaris
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_01_book_of_genesis_001_the_ethereal_vigil
+book_number: 1
+chapter_id: 001_the_ethereal_vigil
+chapter_title: "The Ethereal Vigil"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
+source_hash: 39a5e85c50d7dbb533cf87d1fa9db8aa2cde0c2ce232b180ef909c379086aca7
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_024510
+chapter_role: "Monitors vrill currents and observes planetary changes."
+identity_evidence:
+  named_directly: true
+  speaks: false
+  performs_actions: true
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 4
+state_start:
+  location: "Ethereal Realm"
+  physical_state: "distributed awareness across probability matrices"
+  emotional_state: neutral
+  social_status: "Aeon Keeper"
+  faction_alignment: "Cosmic Infrastructure Guardians"
+  identity_state: "awareness of shifting planetary conditions"
+  knowledge_state: "monitoring vrill currents"
+state_during:
+  active_conditions:
+    - "noted shift in planetary core stability"
+    - "observed coherent geomantic pathways"
+  observed_traits:
+    []
+  active_conflicts:
+    []
+  temporary_roles:
+    []
+state_end:
+  location: "Ethereal Realm"
+  physical_state: "distributed awareness across probability matrices"
+  emotional_state: neutral
+  social_status: "Aeon Keeper"
+  faction_alignment: "Cosmic Infrastructure Guardians"
+  identity_state: "awareness of shifting planetary conditions"
+  unresolved_after_chapter:
+    []
+relationships:
+  -
+    predicate: observes
+    subject: Lyaris
+    target: "Theron, Vaelith, Mordain, Syreth, Korath"
+    evidence: direct
+    confidence: high
+    notes: "Collaborative monitoring of planetary changes."
+  -
+    predicate: "continues the thought and proposes a plan"
+    subject: Lyaris
+    target: "the group"
+    evidence: direct
+    confidence: high
+    notes: null
+  -
+    predicate: oversees
+    subject: Lyaris
+    target: thought-seeds
+    evidence: direct
+    confidence: high
+    notes: null
+actions:
+  -
+    action: "noted shift in planetary core stability"
+    target: null
+    consequence: "observed coherent geomantic pathways"
+    confidence: high
+  -
+    action: "continuing the thought"
+    target: null
+    consequence: "understanding of the transformed Pelagor's state and the need for intervention"
+    confidence: high
+  -
+    action: "proposing a plan"
+    target: null
+    consequence: "proposal to manifest Nephoretti on the physical plane"
+    confidence: high
+  -
+    action: "crafts thought-seed"
+    target: null
+    consequence: "thought-seed takes shape and is released into vrill current"
+    confidence: high
+  -
+    action: "releases thought-seeds"
+    target: Nephoretti
+    consequence: "Nephoretti begin to manifest in physical form"
+    confidence: high
+dialogue:
+  -
+    speaker: Lyaris
+    addressee: "the group"
+    quote_excerpt: "To bridge the gap between potential and actualization. To teach them how to listen to stone and water, how to shape rather than simply manipulate, how to create harmony rather than merely survive chaos."
+    voice_note: null
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: "Ethereal Realm"
+      confidence: high
+arc_position:
+  arc_name: "Aaon Keepers"
+  role_in_arc: setup
+  chapter_function: "Initiates the vigil and observations."
+changes:
+  -
+    change_type: knowledge_gain
+    before: "monitoring vrill currents"
+    after: "observed coherent geomantic pathways"
+    confidence: high
+  -
+    change_type: none
+    before: null
+    after: null
+    confidence: high
+  -
+    change_type: identity_reveal
+    before: "consciousness-pattern creator"
+    after: "manifested consciousness-pattern"
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
+    line_start: null
+    line_end: null
+    excerpt: "\"The planetary core stabilizes,\" she observed, her thoughts manifesting as harmonic frequencies that the others could perceive."
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0002
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
+    line_start: null
+    line_end: null
+    excerpt: "To bridge the gap between potential and actualization. To teach them how to listen to stone and water, how to shape rather than simply manipulate, how to create harmony rather than merely survive chaos."
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0003
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
+    line_start: null
+    line_end: null
+    excerpt: "Lyaris positioned herself at the northern convergence point, her consciousness extending through crystalline lattices that channeled vrill from higher dimensional frequencies down through progressively denser vibrational states."
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0004
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
+    line_start: null
+    line_end: null
+    excerpt: "She began to craft the first thought-seed. It was delicate work, requiring absolute precision."
+    supports:
+      - state_during:active_conditions
+      - state_during:observed_traits
+classification_notes: "Lyaris is a key Aeon Keeper who monitors and observes changes in the planet's geomantic pathways."
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: "No continuity issues identified."
+  -
+    flag_type: none
+    severity: info
+    note: null
+  -
+    flag_type: none
+    severity: info
+    note: null
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

@@ -1,0 +1,169 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000068
+entity_ref: candidate:marduk
+display_name: Marduk
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_02_age_of_servitude_007_the_needle_construction
+book_number: 2
+chapter_id: 007_the_needle_construction
+chapter_title: "The Needle Construction"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
+source_hash: eb120b0159c6d4e1a8581a826dd6247a474cb9606ed71e8283194d0ee2d15f7b
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_073426
+chapter_role: "Overseer responsible for strategic planning and construction of the Needle complexes."
+identity_evidence:
+  named_directly: true
+  speaks: false
+  performs_actions: true
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 4
+state_start:
+  location: "Crimson Citadel Command"
+  physical_state: "satisfied with current progress"
+  emotional_state: "determined and focused"
+  social_status: "in command of Igigi, Reptilian forces, and strategic planning"
+  faction_alignment: Anunnaki
+  identity_state: Overseer
+  knowledge_state: "aware of Queen's directives, vrill-energy network construction"
+state_during:
+  active_conditions:
+    - "strategic planning"
+    - "construction oversight"
+  observed_traits:
+    []
+  active_conflicts:
+    - "indigenous presence at convergence points"
+  temporary_roles:
+    []
+state_end:
+  location: "Crimson Citadel Command"
+  physical_state: unchanged
+  emotional_state: "resolved to proceed with construction despite indigenous opposition"
+  social_status: "in command of Igigi, Reptilian forces, and strategic planning"
+  faction_alignment: Anunnaki
+  identity_state: Overseer
+  unresolved_after_chapter:
+    - "indigenous resistance"
+relationships:
+  -
+    predicate: command
+    subject: Marduk
+    target: "Igigi, Reptilian forces, tactical consciousness"
+    evidence: direct
+    confidence: high
+    notes: "Marduk commands the Igigi and Reptilians for construction."
+  -
+    predicate: recommendation
+    subject: Marduk
+    target: "full containment protocols, additional Reptilian forces, selective harvesting of indigenous biologicals, Nephilim-class suppression assets"
+    evidence: direct
+    confidence: high
+    notes: null
+actions:
+  -
+    action: "commanded display of convergence points"
+    target: null
+    consequence: "Seven locations illuminated on projection"
+    confidence: high
+  -
+    action: "analyzed indigenous biological proximity"
+    target: null
+    consequence: "Red zones appeared around each convergence point"
+    confidence: high
+  -
+    action: "decided to implement Option Three"
+    target: null
+    consequence: "Proceed with construction, deploy Reptilian security forces for perimeter establishment"
+    confidence: high
+  -
+    action: "instructed on indigenous capability assessment revision"
+    target: null
+    consequence: null
+    confidence: high
+  -
+    action: "processed revised assessment and recalculated strategic requirements"
+    target: null
+    consequence: null
+    confidence: high
+dialogue:
+  []
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: "Crimson Citadel Command"
+      confidence: high
+arc_position:
+  arc_name: unknown
+  role_in_arc: setup
+  chapter_function: "introduces the critical phase of network construction and Marduk's decision-making process."
+changes:
+  -
+    change_type: none
+    before: "strategic planning and construction oversight"
+    after: same
+    confidence: high
+  -
+    change_type: none
+    before: null
+    after: null
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
+    line_start: null
+    line_end: null
+    excerpt: "Overseer Marduk stood before the planetary projection and felt satisfaction in numbers well calculated."
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0002
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
+    line_start: null
+    line_end: null
+    excerpt: "\"Implement Option Three,\" Marduk decided without hesitation. \"Assign Igigi construction crews to each site. Deploy Reptilian security details. Commence Needle foundation work immediately.\""
+    supports:
+      - state_end
+      - relationships
+  -
+    quote_id: Q-0003
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
+    line_start: null
+    line_end: null
+    excerpt: "\"Indigenous capability assessment revision,\" Marduk instructed."
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0004
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
+    line_start: null
+    line_end: null
+    excerpt: "The directive went out across all construction sites. The message was clear: finish what they'd started, document the complications, and leave it to the next wave to properly subdue these troublesome natives."
+    supports:
+      - state_end:unresolved_after_chapter
+classification_notes: "Marduk is a key character in the strategic planning and execution of the Anunnaki's infrastructure projects."
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: "No continuity issues identified."
+  -
+    flag_type: none
+    severity: info
+    note: null
+compiler_notes:
+  eligible_for_book_profile: false
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

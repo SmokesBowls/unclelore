@@ -1,0 +1,109 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000039
+entity_ref: candidate:vairis
+display_name: Vairis
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_02_age_of_servitude_005_the_garden_blooms
+book_number: 2
+chapter_id: 005_the_garden_blooms
+chapter_title: "The Garden Blooms"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+source_hash: 90aa8bd3bd0f8689009096c2f3532e823e6705402a6e1fde4e0e9839a4b4a2d2
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_064513
+chapter_role: "Engineer of the first pyramid; reports failure to Senareth."
+identity_evidence:
+  named_directly: true
+  speaks: true
+  performs_actions: true
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 5
+state_start:
+  location: desert
+  physical_state: "working on pyramid construction"
+  emotional_state: "frustrated after failure"
+  social_status: "engineer of the first pyramid"
+  faction_alignment: "Nephoretti Prime"
+  identity_state: "practical and analytical"
+  knowledge_state: "understands vrill-resonance theory"
+state_during:
+  active_conditions:
+    - "working on pyramid construction"
+    - "analyzing failure"
+  observed_traits:
+    - "frustrated after failure"
+    - "practical and analytical"
+  active_conflicts:
+    []
+  temporary_roles:
+    []
+state_end:
+  location: desert
+  physical_state: "working on pyramid construction"
+  emotional_state: "determined to adjust and succeed"
+  social_status: "engineer of the first pyramid"
+  faction_alignment: "Nephoretti Prime"
+  identity_state: "practical and analytical"
+  unresolved_after_chapter:
+    - "adjusting pyramid design"
+relationships:
+  -
+    predicate: "reports to"
+    subject: Vairis
+    target: Senareth
+    evidence: direct
+    confidence: high
+    notes: "Vairis provides detailed analysis of the pyramid's failure."
+actions:
+  -
+    action: "reports failure to Senareth"
+    target: Senareth
+    consequence: "adjusts pyramid design"
+    confidence: high
+dialogue:
+  []
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: desert
+      confidence: high
+arc_position:
+  arc_name: "Aaon Keepers"
+  role_in_arc: setup
+  chapter_function: "introduces the first pyramid's failure and Senareth's response."
+changes:
+  -
+    change_type: knowledge_gain
+    before: "understands vrill-resonance theory but lacks practical experience"
+    after: "practical and analytical in approach to problem-solving"
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+    line_start: null
+    line_end: null
+    excerpt: "Vairis reported, 'Expansion coefficient miscalculation. Desert stone behaves differently under direct sun exposure than it does in shade. The base heated first, expanded first, destabilized the whole structure.'"
+    supports:
+      - identity:character
+classification_notes: "Vairis is a character with practical and analytical traits."
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: "No continuity issues observed."
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

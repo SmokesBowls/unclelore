@@ -1,0 +1,133 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000101
+entity_ref: candidate:torhh
+display_name: Torhh
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_03_the_reckoning_012_nephilim_summoning
+book_number: 3
+chapter_id: 012_nephilim_summoning
+chapter_title: "Nephilim Summoning"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_03_the_reckoning_012_nephilim_summoning.md
+source_hash: 23431230df494f439f168980437f3d76c0b19d1c894ca4cd3dcdd2a002a936e0
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_073426
+chapter_role: "Tidecaller tribal leader, ancient and patient, advocating for alliance with Anunnaki creatures."
+identity_evidence:
+  named_directly: true
+  speaks: true
+  performs_actions: true
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 5
+state_start:
+  location: "ruins of the Garden's central valley"
+  physical_state: "ancient, patient"
+  emotional_state: "resigned to current situation but hopeful for a solution"
+  social_status: "leader among Giants"
+  faction_alignment: Tidecallers
+  identity_state: "ancient and experienced leader"
+  knowledge_state: "aware of the Garden's history, Anunnaki threat"
+state_during:
+  active_conditions:
+    - "discussing the current state of affairs"
+    - "seeking a solution to the crisis"
+  observed_traits:
+    - patience
+    - wisdom
+    - "strategic thinking"
+  active_conflicts:
+    []
+  temporary_roles:
+    []
+state_end:
+  location: "ruins of the Garden's central valley"
+  physical_state: "ancient, patient"
+  emotional_state: "determined to find a solution despite the odds"
+  social_status: "leader among Giants"
+  faction_alignment: Tidecallers
+  identity_state: "ancient and experienced leader"
+  unresolved_after_chapter:
+    - "whether the communion will succeed"
+relationships:
+  -
+    predicate: "ally with"
+    subject: Torhh
+    target: "Anunnaki creatures (specifically Brajor)"
+    evidence: direct
+    confidence: high
+    notes: "Torhh defends the alliance, explaining its benefits."
+actions:
+  -
+    action: "defend the alliance with Anunnaki creatures"
+    target: "Mountain Giant (specifically)"
+    consequence: "Mountain Giant expresses skepticism and suspicion towards Torhh's claims."
+    confidence: high
+  -
+    action: "propose reaching out to Aeon Keepers for help"
+    target: "all tribes, factions"
+    consequence: "All tribes agree to attempt the communion."
+    confidence: high
+dialogue:
+  -
+    speaker: Torhh
+    addressee: "Mountain Giant (specifically)"
+    quote_excerpt: "You ally with Anunnaki creatures while we die. The ocean-dwellers always claimed they wanted cooperation, yet when we need aid, you're negotiating with the enemy."
+    voice_note: null
+  -
+    speaker: Torhh
+    addressee: "all tribes, factions"
+    quote_excerpt: "We attempt communion. All tribes, all factions, unified in one desperate request. We touch the planetary consciousness together, speak through Torrhen's embedded teachings to the Aeon Keepers beyond the Veil, and we ask for the weapon they created to defend against exactly this threat."
+    voice_note: null
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: "ruins of the Garden's central valley"
+      confidence: high
+arc_position:
+  arc_name: unknown
+  role_in_arc: setup
+  chapter_function: "proposes a solution to the crisis, advocating for reaching out to Aeon Keepers."
+changes:
+  -
+    change_type: relationship_change
+    before: "suspicious of Torhh's alliance with Anunnaki creatures"
+    after: "agrees to attempt communion with Aeon Keepers"
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_03_the_reckoning_012_nephilim_summoning.md
+    line_start: null
+    line_end: null
+    excerpt: "Torhh stated, 'The Brajor chose alliance,' and defended the alliance by explaining its benefits."
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0002
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_03_the_reckoning_012_nephilim_summoning.md
+    line_start: null
+    line_end: null
+    excerpt: "Torhh proposed reaching out to Aeon Keepers for help, stating, 'We attempt communion. All tribes, all factions, unified in one desperate request.'"
+    supports:
+      - state_end
+      - relationships
+classification_notes: "Torhh is a character with significant dialogue and actions that drive the chapter's plot."
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: null
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

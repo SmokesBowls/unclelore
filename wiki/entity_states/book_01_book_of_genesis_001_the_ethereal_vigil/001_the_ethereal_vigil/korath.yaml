@@ -1,0 +1,146 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000013
+entity_ref: candidate:korath
+display_name: Korath
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_01_book_of_genesis_001_the_ethereal_vigil
+book_number: 1
+chapter_id: 001_the_ethereal_vigil
+chapter_title: "The Ethereal Vigil"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
+source_hash: 39a5e85c50d7dbb533cf87d1fa9db8aa2cde0c2ce232b180ef909c379086aca7
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_024510
+chapter_role: "Observes and contributes to the analysis of Pelagor evolution."
+identity_evidence:
+  named_directly: true
+  speaks: false
+  performs_actions: true
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 4
+state_start:
+  location: "Ethereal Realm"
+  physical_state: "consciousness specialized in geomantic awareness"
+  emotional_state: neutral
+  social_status: "Aeon Keeper"
+  faction_alignment: "Cosmic Infrastructure Guardians"
+  identity_state: "aware of Pelagor evolution"
+  knowledge_state: "geomantic awareness"
+state_during:
+  active_conditions:
+    - "observed massive forms"
+    - "contributed to analysis"
+  observed_traits:
+    []
+  active_conflicts:
+    []
+  temporary_roles:
+    []
+state_end:
+  location: "Ethereal Realm"
+  physical_state: "consciousness specialized in geomantic awareness"
+  emotional_state: neutral
+  social_status: "Aeon Keeper"
+  faction_alignment: "Cosmic Infrastructure Guardians"
+  identity_state: "aware of Pelagor evolution"
+  unresolved_after_chapter:
+    []
+relationships:
+  -
+    predicate: "contributes to analysis"
+    subject: Korath
+    target: "Lyaris, Theron, Vaelith, Syreth"
+    evidence: direct
+    confidence: high
+    notes: "Collaborative contribution to the analysis of Pelagor evolution."
+  -
+    predicate: "calculates and proposes the number of Nephoretti to be manifested"
+    subject: Korath
+    target: "the group"
+    evidence: direct
+    confidence: high
+    notes: null
+actions:
+  -
+    action: "contributed to analysis"
+    target: null
+    consequence: "participated in the observation and analysis of Pelagor evolution"
+    confidence: high
+  -
+    action: "calculating the number of Nephoretti to be manifested"
+    target: null
+    consequence: "proposes 1000 Nephoretti for manifestation"
+    confidence: high
+  -
+    action: "proposing the number of Nephoretti to be manifested"
+    target: null
+    consequence: "1000 Nephoretti will be manifested simultaneously across both continental masses"
+    confidence: high
+dialogue:
+  -
+    speaker: Korath
+    addressee: "the group"
+    quote_excerpt: "Manifested simultaneously, to maximize the impression of unified purpose. A cascade of consciousness-formation that will register across all dimensional frequencies."
+    voice_note: null
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: "Ethereal Realm"
+      confidence: high
+arc_position:
+  arc_name: "Aaon Keepers"
+  role_in_arc: setup
+  chapter_function: "Contributes to the observation and analysis of Pelagor evolution."
+changes:
+  -
+    change_type: knowledge_gain
+    before: "geomantic awareness"
+    after: "participated in the observation and analysis of Pelagor evolution"
+    confidence: high
+  -
+    change_type: none
+    before: null
+    after: null
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
+    line_start: null
+    line_end: null
+    excerpt: "\"They went deep,\" Mordain added, accessing memories from the library's archives. \"When Tiamat shattered, some Pelagor must have retreated into the deepest trenches, the thermal caves where tectonic activity still generated habitable pockets. They survived the initial destruction, then evolved as Earth formed around them.\""
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0002
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
+    line_start: null
+    line_end: null
+    excerpt: "Manifested simultaneously, to maximize the impression of unified purpose. A cascade of consciousness-formation that will register across all dimensional frequencies."
+    supports:
+      - identity:character
+classification_notes: "Korath is a key Aeon Keeper who observes and contributes to the analysis of Pelagor evolution."
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: "No continuity issues identified."
+  -
+    flag_type: none
+    severity: info
+    note: null
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

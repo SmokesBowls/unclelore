@@ -1,0 +1,133 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000120
+entity_ref: candidate:sage
+display_name: Sage
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_04_sage_saga_021_the_first_lesson
+book_number: 4
+chapter_id: 021_the_first_lesson
+chapter_title: "The First Lesson"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_04_sage_saga_021_the_first_lesson.md
+source_hash: a8fa7f2ff8d7dc602ba8d638a395ca58aca5a8585e003cdbc8e91f3784d3ef46
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_134701
+chapter_role: "teacher and guide"
+identity_evidence:
+  named_directly: true
+  speaks: false
+  performs_actions: true
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: false
+  exhibits_unified_action: false
+  identity_confidence: high
+  identity_signal_count: 4
+timeline_events:
+  -
+    event_type: state_change
+    description: "observed the students' approach to probability matrices"
+    confidence: medium
+    source_quote_id: null
+  -
+    event_type: state_change
+    description: "The Sage stood in the archival chamber, his mathematical consciousness interfacing with crystalline matrices that preserved quantum impressions of every First Tongue sequence they had discovered."
+    confidence: medium
+    source_quote_id: null
+relationships:
+  -
+    predicate: partner
+    subject: Sage
+    target: Torrhen
+    evidence: direct
+    confidence: high
+    notes: ""
+actions:
+  -
+    action: "observed the students' approach to probability matrices"
+    target: null
+    consequence: null
+    confidence: low
+  -
+    action: "reported to Torrhen"
+    target: null
+    consequence: ""
+    confidence: medium
+  -
+    action: "worked with students"
+    target: null
+    consequence: ""
+    confidence: high
+  -
+    action: "the protagonist of this chapter's story"
+    target: null
+    consequence: null
+    confidence: low
+dialogue:
+  -
+    speaker: Sage
+    addressee: Torrhen
+    quote_excerpt: "\"Three thousand, four hundred and seventeen documented frequency combinations\""
+    voice_note: ""
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: "sanctuary's central chamber"
+      confidence: high
+arc_position:
+  arc_name: unknown
+  role_in_arc: "setup | escalation | revelation | reversal | resolution | aftermath | unknown"
+  chapter_function: "short note"
+changes:
+  -
+    change_type: none
+    before: null
+    after: null
+    confidence: low
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_04_sage_saga_021_the_first_lesson.md
+    line_start: null
+    line_end: null
+    excerpt: "observed the students' approach to probability matrices"
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0002
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_04_sage_saga_021_the_first_lesson.md
+    line_start: null
+    line_end: null
+    excerpt: "short exact quote from chapter"
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0003
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_04_sage_saga_021_the_first_lesson.md
+    line_start: null
+    line_end: null
+    excerpt: "The wisdom-holders would serve consciousness evolution that transcended individual identity while honoring the distinctiveness that made such transcendence meaningful."
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0004
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_04_sage_saga_021_the_first_lesson.md
+    line_start: null
+    line_end: null
+    excerpt: None
+    supports:
+      - identity:character
+classification_notes: "why this type was chosen"
+continuity_flags:
+  []
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: "create_candidate | link_existing | merge_candidate | reject_candidate | review"

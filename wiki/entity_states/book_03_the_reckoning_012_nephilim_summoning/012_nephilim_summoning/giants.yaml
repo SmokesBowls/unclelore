@@ -1,0 +1,107 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000105
+entity_ref: candidate:giants
+display_name: Giants
+entity_type: group
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_03_the_reckoning_012_nephilim_summoning
+book_number: 3
+chapter_id: 012_nephilim_summoning
+chapter_title: "Nephilim Summoning"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_03_the_reckoning_012_nephilim_summoning.md
+source_hash: 23431230df494f439f168980437f3d76c0b19d1c894ca4cd3dcdd2a002a936e0
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_073426
+chapter_role: "A collective of Giants preparing for the Nephilim summoning ritual."
+identity_evidence:
+  named_directly: true
+  speaks: false
+  performs_actions: true
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 4
+state_start:
+  location: unknown
+  physical_state: "collective of Giants"
+  emotional_state: "exhausted, terrified, committed to a path that promises transformation or annihilation"
+  social_status: "tribal representatives"
+  faction_alignment: unknown
+  identity_state: "Giants preparing for the ritual"
+  knowledge_state: "aware of the conditions and potential outcomes of the ritual"
+state_during:
+  active_conditions:
+    []
+  observed_traits:
+    - "commitment to the path of transformation or annihilation"
+  active_conflicts:
+    []
+  temporary_roles:
+    []
+state_end:
+  location: unknown
+  physical_state: "collective of Giants"
+  emotional_state: "exhausted, terrified, committed to a path that promises transformation or annihilation"
+  social_status: "tribal representatives"
+  faction_alignment: unknown
+  identity_state: "Giants preparing for the ritual"
+  unresolved_after_chapter:
+    - "commitment to the path of transformation or annihilation"
+relationships:
+  -
+    predicate: "prepare for"
+    subject: Giants
+    target: "the ritual"
+    evidence: direct
+    confidence: high
+    notes: "Prepare for the Nephilim summoning ritual."
+actions:
+  -
+    action: "commit to the path of transformation or annihilation"
+    target: null
+    consequence: "Giants are committed to the path despite potential failure"
+    confidence: high
+dialogue:
+  []
+presence:
+  direct_presence: false
+  mentioned_only: true
+  locations:
+    -
+      name: unknown
+      confidence: medium
+arc_position:
+  arc_name: unknown
+  role_in_arc: "preparation for the ritual"
+  chapter_function: "commit to the path of transformation or annihilation despite potential failure."
+changes:
+  -
+    change_type: none
+    before: "Giants preparing for the ritual"
+    after: "Giants preparing for the ritual"
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_03_the_reckoning_012_nephilim_summoning.md
+    line_start: null
+    line_end: null
+    excerpt: "Seven days to prepare for a ritual that would either forge unbreakable unity or shatter them beyond any hope of recovery."
+    supports:
+      - identity:group
+classification_notes: "The Giants are a group with a collective identity and role in preparing for the Nephilim summoning ritual."
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: "No continuity issues identified."
+compiler_notes:
+  eligible_for_book_profile: false
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

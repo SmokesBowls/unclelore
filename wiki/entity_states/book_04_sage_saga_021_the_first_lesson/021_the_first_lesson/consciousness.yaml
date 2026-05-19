@@ -1,0 +1,69 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000130
+entity_ref: candidate:consciousness
+display_name: Consciousness
+entity_type: concept
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_04_sage_saga_021_the_first_lesson
+book_number: 4
+chapter_id: 021_the_first_lesson
+chapter_title: "The First Lesson"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_04_sage_saga_021_the_first_lesson.md
+source_hash: a8fa7f2ff8d7dc602ba8d638a395ca58aca5a8585e003cdbc8e91f3784d3ef46
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_134701
+chapter_role: "central theme of the chapter"
+identity_evidence:
+  named_directly: true
+  speaks: false
+  performs_actions: false
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: true
+  exhibits_unified_action: false
+  identity_confidence: high
+  identity_signal_count: 2
+timeline_events:
+  -
+    event_type: state_change
+    description: "Consciousness evolves, synthesizes, and transcends."
+    confidence: high
+    source_quote_id: null
+relationships:
+  []
+actions:
+  []
+dialogue:
+  []
+presence:
+  direct_presence: false
+  mentioned_only: true
+  locations:
+    []
+arc_position:
+  arc_name: unknown
+  role_in_arc: "setup | escalation | revelation | reversal | resolution | aftermath | unknown"
+  chapter_function: "short note"
+changes:
+  []
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_04_sage_saga_021_the_first_lesson.md
+    line_start: null
+    line_end: null
+    excerpt: "Consciousness evolves, synthesizes, and transcends."
+    supports:
+      - identity:concept
+classification_notes: "central theme of the chapter"
+continuity_flags:
+  []
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: "create_candidate | link_existing | merge_candidate | reject_candidate | review"

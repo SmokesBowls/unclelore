@@ -1,0 +1,120 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000024
+entity_ref: candidate:vairis
+display_name: Vairis
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_01_book_of_genesis_003_first_contact
+book_number: 1
+chapter_id: 003_first_contact
+chapter_title: "First Contact"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_003_first_contact.md
+source_hash: 49c8bbfa05249f533cef8ee0d46c136c942e0f0e5d5f291aa59c0151433c1ac3
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_024510
+chapter_role: "practical thinker, participant in observation strategy"
+identity_evidence:
+  named_directly: true
+  speaks: false
+  performs_actions: true
+  receives_description: true
+  has_internal_state: true
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 5
+state_start:
+  location: beach
+  physical_state: "bioluminescent, new physical form"
+  emotional_state: "practical and focused on group's survival"
+  social_status: "member of Nephoretti group"
+  faction_alignment: Nephoretti
+  identity_state: Nephoretti
+  knowledge_state: "aware of purpose and mission"
+state_during:
+  active_conditions:
+    - "participates in observation strategy"
+    - "assists in strategic discussions"
+  observed_traits:
+    - "practical, strategic thinker"
+  active_conflicts:
+    []
+  temporary_roles:
+    []
+state_end:
+  location: beach
+  physical_state: "bioluminescent, new physical form"
+  emotional_state: "practical and focused on group's survival"
+  social_status: "member of Nephoretti group"
+  faction_alignment: Nephoretti
+  identity_state: Nephoretti
+  unresolved_after_chapter:
+    - "need for more information about Giants"
+relationships:
+  -
+    predicate: "participant in"
+    subject: Vairis
+    target: "observation strategy"
+    evidence: direct
+    confidence: high
+    notes: "assists in developing and executing the group's observation strategy"
+actions:
+  -
+    action: "participates in observation strategy"
+    target: null
+    consequence: "group decides to send individuals or small groups for better engagement opportunities with Giants"
+    confidence: high
+  -
+    action: "approaches tree line alone on day three"
+    target: "Giants' territory"
+    consequence: "encounters burnt-red Giant and is driven back"
+    confidence: high
+dialogue:
+  -
+    speaker: null
+    addressee: "Nephoretti group"
+    quote_excerpt: "Smaller group next time."
+    voice_note: "Vairis' muttered suggestion after encountering burnt-red Giant."
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: beach
+      confidence: high
+    -
+      name: "tree line"
+      confidence: medium
+arc_position:
+  arc_name: "Aaon Keepers"
+  role_in_arc: "participant in observation strategy and strategic discussions"
+  chapter_function: "assists in developing and executing the group's observation strategy, participates in strategic discussions"
+changes:
+  -
+    change_type: knowledge_gain
+    before: "uncertainty about Giants' intentions"
+    after: "understanding of Giants' behavior through observation and interaction"
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_003_first_contact.md
+    line_start: null
+    line_end: null
+    excerpt: "Smaller group next time."
+    supports:
+      - identity:character
+classification_notes: "Vairis is a practical thinker who participates in the group's observation strategy and strategic discussions, contributing to the overall approach towards understanding Giants' behavior."
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: null
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

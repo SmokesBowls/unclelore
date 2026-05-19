@@ -1,0 +1,104 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000014
+entity_ref: candidate:group
+display_name: Group
+entity_type: group
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_01_book_of_genesis_001_the_ethereal_vigil
+book_number: 1
+chapter_id: 001_the_ethereal_vigil
+chapter_title: "The Ethereal Vigil"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
+source_hash: 39a5e85c50d7dbb533cf87d1fa9db8aa2cde0c2ce232b180ef909c379086aca7
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_024510
+chapter_role: "discusses and agrees on the plan to manifest Nephoretti."
+identity_evidence:
+  named_directly: false
+  speaks: true
+  performs_actions: true
+  receives_description: true
+  has_internal_state: true
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 5
+state_start:
+  location: "space between spaces"
+  physical_state: unknown
+  emotional_state: "discussing and agreeing on the plan to manifest Nephoretti"
+  social_status: "Aeon Keepers"
+  faction_alignment: "Aeon Keepers"
+  identity_state: consciousness
+  knowledge_state: "aware of the transformed Pelagor and their situation"
+state_during:
+
+state_end:
+  location: "space between spaces"
+  physical_state: unknown
+  emotional_state: "discussing and agreeing on the plan to manifest Nephoretti"
+  social_status: "Aeon Keepers"
+  faction_alignment: "Aeon Keepers"
+  identity_state: consciousness
+  unresolved_after_chapter:
+    []
+relationships:
+  -
+    predicate: "discusses and agrees on the plan to manifest Nephoretti"
+    subject: Group
+    target: "the group"
+    evidence: direct
+    confidence: high
+    notes: null
+actions:
+  -
+    action: "discussing and agreeing on the plan to manifest Nephoretti"
+    target: null
+    consequence: "the group agrees on the plan to manifest 1000 Nephoretti simultaneously across both continental masses, with concentration in areas where transformed Pelagor have gathered"
+    confidence: high
+dialogue:
+  -
+    speaker: Group
+    addressee: "the group"
+    quote_excerpt: "To bridge the gap between potential and actualization. To teach them how to listen to stone and water, how to shape rather than simply manipulate, how to create harmony rather than merely survive chaos."
+    voice_note: null
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: "space between spaces"
+      confidence: high
+arc_position:
+  arc_name: unknown
+  role_in_arc: setup
+  chapter_function: "discusses and agrees on the plan to manifest Nephoretti."
+changes:
+  -
+    change_type: none
+    before: null
+    after: null
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
+    line_start: null
+    line_end: null
+    excerpt: "To bridge the gap between potential and actualization. To teach them how to listen to stone and water, how to shape rather than simply manipulate, how to create harmony rather than merely survive chaos."
+    supports:
+      - identity:group
+classification_notes: "The group is a key entity in the Aeon Keepers' plan and provides critical information and direction."
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: null
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

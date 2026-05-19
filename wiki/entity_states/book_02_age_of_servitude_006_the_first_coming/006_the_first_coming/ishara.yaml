@@ -1,0 +1,154 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000062
+entity_ref: candidate:ishara
+display_name: Ishara
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_02_age_of_servitude_006_the_first_coming
+book_number: 2
+chapter_id: 006_the_first_coming
+chapter_title: "The First Coming"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+source_hash: cf57ad4230c36e0a80d1b043d310f0622d67427542d211d02be06b3b3c3065c1
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_073426
+chapter_role: "Igigi companion and observer."
+identity_evidence:
+  named_directly: true
+  speaks: true
+  performs_actions: false
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 4
+state_start:
+  location: "Igigi transport pod"
+  physical_state: "Fearful, uncertain."
+  emotional_state: "Fearful, uncertain."
+  social_status: "Companion to Pazuzu."
+  faction_alignment: "Igigi faction."
+  identity_state: "Resigned and fearful."
+  knowledge_state: "Aware of their situation but not fully understanding the implications."
+state_during:
+  active_conditions:
+    - Fearful
+    - Uncertain
+  observed_traits:
+    []
+  active_conflicts:
+    []
+  temporary_roles:
+    []
+state_end:
+  location: "Genesis chamber complex"
+  physical_state: "Obedient, compliant."
+  emotional_state: "Resigned to fate."
+  social_status: "Companion to Pazuzu."
+  faction_alignment: "Igigi faction."
+  identity_state: "Resigned and fearful."
+  unresolved_after_chapter:
+    []
+relationships:
+  -
+    predicate: "companion of"
+    subject: Ishara
+    target: Pazuzu
+    evidence: direct
+    confidence: high
+    notes: null
+  -
+    predicate: "speaks to"
+    subject: Pazuzu
+    target: Pazuzu
+    evidence: direct
+    confidence: high
+    notes: "Discusses the newborn's name and future."
+actions:
+  -
+    action: "holding newborn"
+    target: null
+    consequence: "caring for the child."
+    confidence: high
+  -
+    action: "deciding on a name for her newborn"
+    target: null
+    consequence: "choosing 'Layla'."
+    confidence: high
+dialogue:
+  -
+    speaker: Ishara
+    addressee: unknown
+    quote_excerpt: "\"Calculations will not change our trajectory,\" Ishara observed from the adjacent restraint station. Her bio-luminescent skin flickered with patterns that would have been beautiful under other circumstances. Now they simply marked her fear."
+    voice_note: null
+  -
+    speaker: Ishara
+    addressee: Pazuzu
+    quote_excerpt: "Naming feels like hope, and hope is dangerous here."
+    voice_note: null
+  -
+    speaker: Ishara
+    addressee: Pazuzu
+    quote_excerpt: "Hope that Layla lives to see freedom. Hope that these indigenous biologicals prove stronger than we were."
+    voice_note: null
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: "Igigi transport pod"
+      confidence: high
+    -
+      name: "Genesis chamber complex"
+      confidence: medium
+arc_position:
+  arc_name: unknown
+  role_in_arc: "setup | escalation"
+  chapter_function: "Provides insight into Igigi's emotional state and their situation."
+changes:
+  -
+    change_type: none
+    before: "Resigned and fearful."
+    after: "Obedient, compliant."
+    confidence: high
+  -
+    change_type: "name decision"
+    before: undisclosed
+    after: Layla
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+    line_start: null
+    line_end: null
+    excerpt: "\"Calculations will not change our trajectory,\" Ishara observed from the adjacent restraint station. Her bio-luminescent skin flickered with patterns that would have been beautiful under other circumstances. Now they simply marked her fear."
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0002
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+    line_start: null
+    line_end: null
+    excerpt: "Ishara, mother of a newborn and concerned about the child's future."
+    supports:
+      - identity:character
+classification_notes: "Ishara is an Igigi companion who provides emotional context for their situation."
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: null
+  -
+    flag_type: none
+    severity: info
+    note: "No continuity issues observed."
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

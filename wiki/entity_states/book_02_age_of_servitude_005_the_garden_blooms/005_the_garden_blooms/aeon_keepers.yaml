@@ -1,0 +1,121 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000052
+entity_ref: candidate:aeon_keepers
+display_name: "Aeon Keepers"
+entity_type: faction
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_02_age_of_servitude_005_the_garden_blooms
+book_number: 2
+chapter_id: 005_the_garden_blooms
+chapter_title: "The Garden Blooms"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+source_hash: 90aa8bd3bd0f8689009096c2f3532e823e6705402a6e1fde4e0e9839a4b4a2d2
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_064513
+chapter_role: "Manifesting the Neferati and giving them five hundred years to build something worth defending."
+identity_evidence:
+  named_directly: true
+  speaks: false
+  performs_actions: false
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: true
+  identity_confidence: high
+  identity_signal_count: 3
+state_start:
+  location: unknown
+  physical_state: "not specified"
+  emotional_state: "not specified"
+  social_status: "manifesters of Neferati and builders"
+  faction_alignment: "Aeon Keepers"
+  identity_state: "manifesters of Neferati and builders"
+  knowledge_state: "aware of the inevitability of the First Coming"
+state_during:
+  active_conditions:
+    - "manifesting Neferati"
+    - "giving them time to build"
+  observed_traits:
+    []
+  active_conflicts:
+    []
+  temporary_roles:
+    []
+state_end:
+  location: unknown
+  physical_state: "not specified"
+  emotional_state: "aware of the inevitability of the First Coming"
+  social_status: "manifesters of Neferati and builders"
+  faction_alignment: "Aeon Keepers"
+  identity_state: "manifesters of Neferati and builders"
+  unresolved_after_chapter:
+    - "awareness of the inevitability of the First Coming"
+relationships:
+  -
+    predicate: manifestation_of
+    subject: Neferati
+    target: "Aeon Keepers"
+    evidence: direct
+    confidence: high
+    notes: null
+actions:
+  -
+    action: "manifesting Neferati"
+    target: Neferati
+    consequence: "Neferati exist and serve their purpose"
+    confidence: high
+  -
+    action: "giving them time to build"
+    target: Neferati
+    consequence: "five hundred years of construction"
+    confidence: high
+dialogue:
+  []
+presence:
+  direct_presence: false
+  mentioned_only: true
+  locations:
+    -
+      name: unknown
+      confidence: high
+arc_position:
+  arc_name: unknown
+  role_in_arc: "manifestation and guidance"
+  chapter_function: "describing the Aeon Keepers' role in manifesting the Neferati and giving them time to build something worth defending"
+changes:
+  -
+    change_type: awareness_of_inevitability
+    before: "not specified"
+    after: "aware of the inevitability of the First Coming"
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+    line_start: null
+    line_end: null
+    excerpt: "That's why they manifested the Neferati when they did, why they gave them five hundred years to build something worth defending."
+    supports:
+      - identity:faction
+  -
+    quote_id: Q-0002
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+    line_start: null
+    line_end: null
+    excerpt: "They come to harvest. To enslave. To reshape this world according to their purposes."
+    supports:
+      - identity:faction
+classification_notes: "Aeon Keepers are a faction responsible for manifesting the Neferati and guiding them in building something worth defending."
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: null
+compiler_notes:
+  eligible_for_book_profile: false
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

@@ -1,0 +1,122 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000072
+entity_ref: candidate:reptilian_guard
+display_name: "Reptilian Guard"
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_02_age_of_servitude_007_the_needle_construction
+book_number: 2
+chapter_id: 007_the_needle_construction
+chapter_title: "The Needle Construction"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
+source_hash: eb120b0159c6d4e1a8581a826dd6247a474cb9606ed71e8283194d0ee2d15f7b
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_073426
+chapter_role: "Guardian of the Anunnaki, tasked with maintaining order and protecting their interests."
+identity_evidence:
+  named_directly: false
+  speaks: false
+  performs_actions: true
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 3
+state_start:
+  location: "Northern Nexus Site"
+  physical_state: unknown
+  emotional_state: "neutral, focused on maintaining order"
+  social_status: "Anunnaki guard, part of Marduk's forces"
+  faction_alignment: Anunnaki
+  identity_state: "Reptilian Guard"
+  knowledge_state: "aware of Anunnaki orders"
+state_during:
+  active_conditions:
+    - "maintaining order"
+    - "responding to indigenous biologicals"
+  observed_traits:
+    []
+  active_conflicts:
+    - "indigenous presence and potential conflict with Anunnaki"
+  temporary_roles:
+    []
+state_end:
+  location: "Northern Nexus Site"
+  physical_state: unknown
+  emotional_state: "neutral, focused on maintaining order"
+  social_status: "Anunnaki guard, part of Marduk's forces"
+  faction_alignment: Anunnaki
+  identity_state: "Reptilian Guard"
+  unresolved_after_chapter:
+    - "potential conflict with indigenous biologicals"
+relationships:
+  -
+    predicate: "response to intrusion"
+    subject: "Reptilian Guard"
+    target: "indigenous biologicals, specifically the Giants and their allies"
+    evidence: direct
+    confidence: high
+    notes: "The Reptilian Guards are tasked with maintaining order and protecting Anunnaki interests."
+actions:
+  -
+    action: "responded to indigenous biologicals' presence"
+    target: null
+    consequence: "Did not attack but observed the situation closely, awaiting further orders from Marduk."
+    confidence: high
+  -
+    action: "maintained order at the construction site"
+    target: null
+    consequence: "Ensured that Anunnaki work continued without disruption"
+    confidence: high
+dialogue:
+  []
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: "Northern Nexus Site"
+      confidence: high
+arc_position:
+  arc_name: unknown
+  role_in_arc: "guardian of the Anunnaki, tasked with maintaining order and protecting their interests."
+  chapter_function: "illustrates the Anunnaki's presence and their commitment to maintaining control."
+changes:
+  -
+    change_type: none
+    before: "neutral, focused on maintaining order"
+    after: same
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
+    line_start: null
+    line_end: null
+    excerpt: "The Reptilian Guards were there to ensure that the Anunnaki work continued without disruption."
+    supports:
+      - identity:character
+      - state_end
+  -
+    quote_id: Q-0002
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
+    line_start: null
+    line_end: null
+    excerpt: "They watched the Anunnaki work, their presence a silent but clear warning of their displeasure with the intrusion."
+    supports:
+      - state_during
+classification_notes: "The Reptilian Guards are guardians of the Anunnaki who maintain order and protect their interests at the construction site."
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: "No continuity issues identified."
+compiler_notes:
+  eligible_for_book_profile: false
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

@@ -1,0 +1,122 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000085
+entity_ref: candidate:enlil
+display_name: Enlil
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_03_the_reckoning_009_stalemate_departure_the_first_coming
+book_number: 3
+chapter_id: 009_stalemate_departure_the_first_coming
+chapter_title: "Stalemate Departure The First Coming"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_03_the_reckoning_009_stalemate_departure_the_first_coming.md
+source_hash: 1327796e2269863e4c35774101c94930ea4e69e899d0b1c45475f9065e884cd5
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_073426
+chapter_role: "Overseer responsible for the construction of Needles and managing the situation at Southern Nexus Site."
+identity_evidence:
+  named_directly: true
+  speaks: false
+  performs_actions: true
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 4
+state_start:
+  location: "Southern Nexus Site"
+  physical_state: "standing before the partially completed Needle"
+  emotional_state: "calculating failure and making decisions"
+  social_status: "Overseer of construction sites"
+  faction_alignment: Anunnaki
+  identity_state: "responsible for managing the project"
+  knowledge_state: "aware of orbital mechanics, indigenous resistance"
+state_during:
+  active_conditions:
+    - "calculating failure"
+    - "managing multiple sites"
+  observed_traits:
+    - "determined to complete the project despite challenges"
+  active_conflicts:
+    - "indigenous resistance"
+    - "limited time and resources"
+  temporary_roles:
+    []
+state_end:
+  location: "Southern Nexus Site"
+  physical_state: "commanding tactical consciousness"
+  emotional_state: "resigned to partial success"
+  social_status: "Overseer of construction sites"
+  faction_alignment: Anunnaki
+  identity_state: "responsible for managing the project"
+  unresolved_after_chapter:
+    - "indigenous resistance"
+    - "limited resources"
+relationships:
+  -
+    predicate: commanded
+    subject: "tactical consciousness"
+    target: Enlil
+    evidence: direct
+    confidence: high
+    notes: null
+actions:
+  -
+    action: "requested recommendation for Second Coming deployment"
+    target: "Nephilim-class suppression forces, psychological warfare continuation"
+    consequence: "flag all sites for Second Coming priority completion, maintain current Reptilian garrison levels, authorize Igigi population to continue breeding programs without Anunnaki supervision"
+    confidence: high
+dialogue:
+  -
+    speaker: null
+    addressee: "tactical consciousness"
+    quote_excerpt: "Status across all sites"
+    voice_note: null
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: "Southern Nexus Site"
+      confidence: high
+arc_position:
+  arc_name: unknown
+  role_in_arc: "setup | escalation"
+  chapter_function: "managing the construction project and making decisions based on limited resources and indigenous resistance"
+changes:
+  -
+    change_type: status_change
+    before: "determined to complete the project despite challenges"
+    after: "resigned to partial success"
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_03_the_reckoning_009_stalemate_departure_the_first_coming.md
+    line_start: null
+    line_end: null
+    excerpt: "Overseer Enlil stood before the partially completed Needle and calculated failure."
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0002
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_03_the_reckoning_009_stalemate_departure_the_first_coming.md
+    line_start: null
+    line_end: null
+    excerpt: "The mathematics were merciless."
+    supports:
+      - identity:character
+classification_notes: "Enlil is a key character in managing the construction project and making critical decisions."
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: null
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

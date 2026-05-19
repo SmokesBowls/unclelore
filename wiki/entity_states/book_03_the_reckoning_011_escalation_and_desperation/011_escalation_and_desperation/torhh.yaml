@@ -1,0 +1,108 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000098
+entity_ref: candidate:torhh
+display_name: Torhh
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_03_the_reckoning_011_escalation_and_desperation
+book_number: 3
+chapter_id: 011_escalation_and_desperation
+chapter_title: "Escalation And Desperation"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_03_the_reckoning_011_escalation_and_desperation.md
+source_hash: 35417f67ed1daa424b3bf5bd886d4ba87677429c9dcdb6a09ce5ba7facd35f0e
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_073426
+chapter_role: "ancient Giant, observing the Brajor's behavior"
+identity_evidence:
+  named_directly: true
+  speaks: false
+  performs_actions: true
+  receives_description: true
+  has_internal_state: true
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 5
+state_start:
+  location: unknown
+  physical_state: "ancient and wise"
+  emotional_state: "confused by the Brajor's behavior"
+  social_status: "ancient Giant"
+  faction_alignment: "tribes united against Anunnaki"
+  identity_state: "wise and experienced"
+  knowledge_state: "aware of Brajor's unique nature"
+state_during:
+  active_conditions:
+    - "processing the Brajor's behavior"
+    - "considering their purpose"
+  observed_traits:
+    []
+  active_conflicts:
+    - "understanding the Brajor's true intentions"
+  temporary_roles:
+    []
+state_end:
+  location: unknown
+  physical_state: "wise and patient"
+  emotional_state: "confused but determined to understand"
+  social_status: "ancient Giant, offering guidance"
+  faction_alignment: "tribes united against Anunnaki"
+  identity_state: "wise and experienced"
+  unresolved_after_chapter:
+    - "the Brajor's true intentions"
+relationships:
+  -
+    predicate: "ancient Giant to"
+    subject: Torhh
+    target: Brajor
+    evidence: direct
+    confidence: high
+    notes: "Torhh is an ancient Giant observing the Brajor"
+actions:
+  -
+    action: "allowing contact with a Brajor scout"
+    target: null
+    consequence: "understanding the Brajor's true intentions"
+    confidence: high
+dialogue:
+  []
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: unknown
+      confidence: high
+arc_position:
+  arc_name: "unification against Anunnaki"
+  role_in_arc: setup
+  chapter_function: "Torhh's observation and consideration of the Brajor's behavior"
+changes:
+  -
+    change_type: identity_reveal
+    before: "wise and experienced ancient Giant"
+    after: "ancient Giant offering guidance to the Brajor"
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_03_the_reckoning_011_escalation_and_desperation.md
+    line_start: null
+    line_end: null
+    excerpt: "They had been sent to pressure the Tidecallers, but they felt more pressure themselves—from their creators, from this unfamiliar situation."
+    supports:
+      - identity:character
+classification_notes: "Torhh's role as an ancient Giant and his wisdom are central to understanding the Brajor's behavior"
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: null
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

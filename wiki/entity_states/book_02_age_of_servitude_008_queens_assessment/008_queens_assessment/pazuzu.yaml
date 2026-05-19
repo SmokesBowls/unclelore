@@ -1,0 +1,179 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000082
+entity_ref: candidate:pazuzu
+display_name: Pazuzu
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_02_age_of_servitude_008_queens_assessment
+book_number: 2
+chapter_id: 008_queens_assessment
+chapter_title: "Queens Assessment"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_008_queens_assessment.md
+source_hash: 1642460d36fcdae5f41d9e254413dc1dc723720378a86140cf60749252514d81
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_073426
+chapter_role: "receiver of psychological warfare programming and unwitting spreader of lies"
+identity_evidence:
+  named_directly: true
+  speaks: true
+  performs_actions: true
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 5
+state_start:
+  location: unknown
+  physical_state: unknown
+  emotional_state: "confused and violated"
+  social_status: Igigi
+  faction_alignment: Anunnaki
+  identity_state: "receiver of psychological warfare programming"
+  knowledge_state: "initially unaware of the lies"
+state_during:
+  active_conditions:
+    - "receiving and processing consciousness-commands"
+  observed_traits:
+    []
+  active_conflicts:
+    []
+  temporary_roles:
+    []
+state_end:
+  location: unknown
+  physical_state: unknown
+  emotional_state: "confused and violated"
+  social_status: Igigi
+  faction_alignment: Anunnaki
+  identity_state: "receiver of psychological warfare programming"
+  unresolved_after_chapter:
+    - "internal conflict over the lies"
+relationships:
+  -
+    predicate: receives_programming_from
+    subject: Eduhauana
+    target: Pazuzu
+    evidence: direct
+    confidence: high
+    notes: "Pazuzu is directly programmed by Eduhauana"
+  -
+    predicate: "colleague in suffering"
+    subject: Pazuzu
+    target: Torhh
+    evidence: direct
+    confidence: high
+    notes: "Cooperating despite the fundamental wrongness of their work"
+actions:
+  -
+    action: "processing and spreading lies"
+    target: null
+    consequence: "Giants will be divided and weakened over time"
+    confidence: high
+  -
+    action: "observing internal tensions"
+    target: null
+    consequence: null
+    confidence: high
+  -
+    action: "suggesting solutions to internal tensions"
+    target: Torhh
+    consequence: null
+    confidence: medium
+dialogue:
+  -
+    speaker: Pazuzu
+    addressee: Ishara
+    quote_excerpt: "I've been thinking about the Giant factions, have you noticed how it's affecting humidity levels across the desert construction zones?"
+    voice_note: null
+  -
+    speaker: Pazuzu
+    addressee: null
+    quote_excerpt: "Perhaps. Or perhaps the ocean-adapted ones don't realize their rituals are creating environmental conditions that harm their desert cousins."
+    voice_note: null
+  -
+    speaker: Pazuzu
+    addressee: Torhh
+    quote_excerpt: "Your people seem troubled lately, more arguments between the ocean-colored ones and the desert-dwellers. I've noticed tension during the tribal gatherings."
+    voice_note: null
+  -
+    speaker: Pazuzu
+    addressee: Torhh
+    quote_excerpt: "Have you considered reducing the ritual intensity? Or perhaps coordinating timing with desert populations to minimize impact?"
+    voice_note: null
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: "programming chamber"
+      confidence: high
+    -
+      name: "construction site"
+      confidence: high
+arc_position:
+  arc_name: "psychological warfare deployment"
+  role_in_arc: "setup and escalation"
+  chapter_function: "receives and spreads lies to Giants"
+changes:
+  -
+    change_type: knowledge_gain
+    before: "initially unaware of the lies"
+    after: "aware of the lies but unable to consciously recognize them as such"
+    confidence: high
+  -
+    change_type: relationship_change
+    before: "colleague in suffering with Torhh"
+    after: "suggesting solutions for internal tensions"
+    confidence: medium
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_008_queens_assessment.md
+    line_start: null
+    line_end: null
+    excerpt: "I've been thinking about the Giant factions, have you noticed how it's affecting humidity levels across the desert construction zones?"
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0002
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_008_queens_assessment.md
+    line_start: null
+    line_end: null
+    excerpt: None
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0003
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_008_queens_assessment.md
+    line_start: null
+    line_end: null
+    excerpt: "Your people seem troubled lately, more arguments between the ocean-colored ones and the desert-dwellers. I've noticed tension during the tribal gatherings."
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0004
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_008_queens_assessment.md
+    line_start: null
+    line_end: null
+    excerpt: "Have you considered reducing the ritual intensity? Or perhaps coordinating timing with desert populations to minimize impact?"
+    supports:
+      - state:during
+classification_notes: "Pazuzu is a receiver of psychological warfare programming and unwitting spreader of lies"
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: null
+  -
+    flag_type: none
+    severity: info
+    note: "No continuity issues identified."
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

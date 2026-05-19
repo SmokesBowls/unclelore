@@ -1,0 +1,166 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000087
+entity_ref: candidate:pazuzu
+display_name: Pazuzu
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_03_the_reckoning_009_stalemate_departure_the_first_coming
+book_number: 3
+chapter_id: 009_stalemate_departure_the_first_coming
+chapter_title: "Stalemate Departure The First Coming"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_03_the_reckoning_009_stalemate_departure_the_first_coming.md
+source_hash: 1327796e2269863e4c35774101c94930ea4e69e899d0b1c45475f9065e884cd5
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_073426
+chapter_role: "A being seeking to build a better future and recognizing the potential for cooperation despite manipulation."
+identity_evidence:
+  named_directly: true
+  speaks: true
+  performs_actions: true
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 5
+state_start:
+  location: "around the Needle"
+  physical_state: "conscious entity trying to understand what happened next"
+  emotional_state: "hopeful and conflicted about the future"
+  social_status: "former slave, now free but still bound by programming"
+  faction_alignment: unknown
+  identity_state: "recognizing potential for cooperation"
+  knowledge_state: "aware of Anunnaki manipulation"
+state_during:
+  active_conditions:
+    - "free from direct command"
+    - "feeling the absence of golden ones"
+  observed_traits:
+    - "hopeful and conflicted about the future"
+    - "trying to understand what happened next"
+  active_conflicts:
+    []
+  temporary_roles:
+    []
+state_end:
+  location: "around the Needle"
+  physical_state: "conscious entity trying to understand what happened next"
+  emotional_state: "hopeful and conflicted about the future"
+  social_status: "former slave, now free but still bound by programming"
+  faction_alignment: unknown
+  identity_state: "recognizing potential for cooperation"
+  unresolved_after_chapter:
+    - "doubts about the future"
+    - "uncertainty about Igigi's state of mind"
+relationships:
+  -
+    predicate: "recognized as potential ally"
+    subject: Pazuzu
+    target: Torhh
+    evidence: direct
+    confidence: high
+    notes: "two beings from different species recognized each other"
+  -
+    predicate: questioned
+    subject: Torhh
+    target: Pazuzu
+    evidence: direct
+    confidence: high
+    notes: null
+actions:
+  -
+    action: "approaching Torhh slowly"
+    target: Torhh
+    consequence: "discussing the departure of Anunnaki and their state of mind"
+    confidence: high
+  -
+    action: "decided to build cooperation despite programming"
+    target: null
+    consequence: "determined to spend lifetimes countering lies and building genuine unity"
+    confidence: high
+dialogue:
+  -
+    speaker: Pazuzu
+    addressee: Torhh
+    quote_excerpt: "They left us, no warning. No instruction beyond basic maintenance protocols."
+    voice_note: null
+  -
+    speaker: Torhh
+    addressee: Pazuzu
+    quote_excerpt: "You are free."
+    voice_note: "though the word felt inadequate"
+  -
+    speaker: Pazuzu
+    addressee: Torhh
+    quote_excerpt: "Do you hate us? For what we did? For building these monuments to your oppression even though we were slaves ourselves?"
+    voice_note: null
+  -
+    speaker: Pazuzu
+    addressee: Torhh
+    quote_excerpt: "We build anyway, despite the programming. Despite the lies we can't fully recognize but know we carry."
+    voice_note: null
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: "around the Needle"
+      confidence: high
+arc_position:
+  arc_name: unknown
+  role_in_arc: "setup | escalation"
+  chapter_function: "discussing the departure of Anunnaki and their state of mind"
+changes:
+  -
+    change_type: status_change
+    before: "former slave, directly commanded by golden ones"
+    after: "free from direct command but still bound by programming"
+    confidence: high
+  -
+    change_type: relationship_change
+    before: "guarding structures built on suffering"
+    after: "unified resistance"
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_03_the_reckoning_009_stalemate_departure_the_first_coming.md
+    line_start: null
+    line_end: null
+    excerpt: "They left us, no warning. No instruction beyond basic maintenance protocols."
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0002
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_03_the_reckoning_009_stalemate_departure_the_first_coming.md
+    line_start: null
+    line_end: null
+    excerpt: "\"Free to maintain their infrastructure,\" Pazuzu replied, his mathematical mind processing the bitter irony."
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0003
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_03_the_reckoning_009_stalemate_departure_the_first_coming.md
+    line_start: null
+    line_end: null
+    excerpt: "Pazuzu's bioluminescence dimmed—recognition and guilt mixing in patterns that carried their own language."
+    supports:
+      - state_during:emotional_state
+classification_notes: "Pazuzu is a character with internal conflict and hope for the future despite manipulation."
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: null
+  -
+    flag_type: none
+    severity: info
+    note: null
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

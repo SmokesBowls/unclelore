@@ -1,0 +1,107 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000084
+entity_ref: candidate:queen_eduhauana
+display_name: "Queen Eduhauana"
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_02_age_of_servitude_008_queens_assessment
+book_number: 2
+chapter_id: 008_queens_assessment
+chapter_title: "Queens Assessment"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_008_queens_assessment.md
+source_hash: 1642460d36fcdae5f41d9e254413dc1dc723720378a86140cf60749252514d81
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_073426
+chapter_role: "The unseen antagonist who smiles at the beginning of the chapter, indicating her awareness and approval of the internal conflicts."
+identity_evidence:
+  named_directly: false
+  speaks: false
+  performs_actions: false
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: true
+  identity_confidence: medium
+  identity_signal_count: 2
+state_start:
+  location: unknown
+  physical_state: unknown
+  emotional_state: "smiling at the internal conflicts"
+  social_status: "unseen antagonist"
+  faction_alignment: unknown
+  identity_state: "Queen of a faction"
+  knowledge_state: "aware of the internal conflicts and their implications"
+state_during:
+  active_conditions:
+    - "smiling at the internal conflicts"
+  observed_traits:
+    []
+  active_conflicts:
+    []
+  temporary_roles:
+    []
+state_end:
+  location: unknown
+  physical_state: unknown
+  emotional_state: "smiling at the internal conflicts"
+  social_status: "unseen antagonist"
+  faction_alignment: unknown
+  identity_state: "Queen of a faction"
+  unresolved_after_chapter:
+    []
+relationships:
+  -
+    predicate: "awareness and approval"
+    subject: "Queen Eduhauana"
+    target: "internal conflicts"
+    evidence: inferred
+    confidence: medium
+    notes: "Smiling at the beginning of the chapter, indicating her awareness and approval."
+actions:
+  -
+    action: "smiling at the internal conflicts"
+    target: null
+    consequence: null
+    confidence: high
+dialogue:
+  []
+presence:
+  direct_presence: false
+  mentioned_only: true
+  locations:
+    -
+      name: unknown
+      confidence: medium
+arc_position:
+  arc_name: unknown
+  role_in_arc: setup
+  chapter_function: "indicating the unseen antagonist's awareness and approval of internal conflicts."
+changes:
+  -
+    change_type: none
+    before: null
+    after: null
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_008_queens_assessment.md
+    line_start: null
+    line_end: null
+    excerpt: "Queen Eduhauana smiles at the beginning of the chapter, indicating her awareness and approval of the internal conflicts."
+    supports:
+      - identity:character
+classification_notes: "Queen Eduhauana is an unseen antagonist with clear identity signals but no direct actions in the chapter."
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: "No continuity issues identified."
+compiler_notes:
+  eligible_for_book_profile: false
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

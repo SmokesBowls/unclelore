@@ -1,0 +1,216 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000086
+entity_ref: candidate:torhh
+display_name: Torhh
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_03_the_reckoning_009_stalemate_departure_the_first_coming
+book_number: 3
+chapter_id: 009_stalemate_departure_the_first_coming
+chapter_title: "Stalemate Departure The First Coming"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_03_the_reckoning_009_stalemate_departure_the_first_coming.md
+source_hash: 1327796e2269863e4c35774101c94930ea4e69e899d0b1c45475f9065e884cd5
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_073426
+chapter_role: "Giant working on the Needle's upper structure, showing genuine collaboration with Igigi."
+identity_evidence:
+  named_directly: true
+  speaks: true
+  performs_actions: true
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 5
+state_start:
+  location: "Northern Nexus Site"
+  physical_state: "working on the Needle's upper structure with consciousness-touch"
+  emotional_state: "respectful and cooperative"
+  social_status: "Giant working on construction project"
+  faction_alignment: Neferati
+  identity_state: "aware of the importance of the work"
+  knowledge_state: "understanding of harmonic principles"
+state_during:
+  active_conditions:
+    - "working with Igigi"
+    - "explaining the significance of the geometric pattern"
+  observed_traits:
+    - "cooperation, respect for Igigi"
+  active_conflicts:
+    []
+  temporary_roles:
+    []
+state_end:
+  location: "Northern Nexus Site"
+  physical_state: "working on the Needle's upper structure with consciousness-touch"
+  emotional_state: "resigned to the future"
+  social_status: "Giant working on construction project"
+  faction_alignment: Neferati
+  identity_state: "aware of the importance of the work"
+  unresolved_after_chapter:
+    - "future of cooperation"
+relationships:
+  -
+    predicate: "worked with"
+    subject: Pazuzu
+    target: Torhh
+    evidence: direct
+    confidence: high
+    notes: null
+  -
+    predicate: "recognized as potential ally"
+    subject: Torhh
+    target: Pazuzu
+    evidence: direct
+    confidence: high
+    notes: "two beings from different species recognized each other"
+  -
+    predicate: questioned
+    subject: Pazuzu
+    target: Torhh
+    evidence: direct
+    confidence: high
+    notes: null
+actions:
+  -
+    action: "reshaped stone with consciousness-touch"
+    target: "upper structure of the Needle"
+    consequence: "completed a section that would make the structure safer"
+    confidence: high
+  -
+    action: "explained the significance of the geometric pattern"
+    target: Pazuzu
+    consequence: "shared knowledge about Neferati teachings and cooperation"
+    confidence: high
+  -
+    action: "approaching Pazuzu slowly"
+    target: Pazuzu
+    consequence: "discussing the departure of Anunnaki and their state of mind"
+    confidence: high
+  -
+    action: "accepted the decision to build cooperation"
+    target: null
+    consequence: "rumbled approval, feeling hope mixed with realistic assessment of how difficult the task ahead would be"
+    confidence: high
+dialogue:
+  -
+    speaker: Torhh
+    addressee: null
+    quote_excerpt: "The First Tongue, or something like it. Consciousness-patterns that reality responds to because they reflect... I'm not sure. Underlying structure? Mathematical truth expressed through physical form?"
+    voice_note: null
+  -
+    speaker: Torhh
+    addressee: null
+    quote_excerpt: "The Neferati taught us fragments of this, before the sky went dark and the golden ones descended."
+    voice_note: null
+  -
+    speaker: Torhh
+    addressee: Pazuzu
+    quote_excerpt: "You are free."
+    voice_note: "though the word felt inadequate"
+  -
+    speaker: Torhh
+    addressee: null
+    quote_excerpt: "The golden ones who had commanded. The vessels that had hung in sky like patient predators. The consciousness-pressure that had made reality itself feel oppressed."
+    voice_note: null
+  -
+    speaker: Torhh
+    addressee: Pazuzu
+    quote_excerpt: "I do not hate. I grieve. For what was broken. For what you were forced to build."
+    voice_note: null
+  -
+    speaker: Torhh
+    addressee: Pazuu
+    quote_excerpt: "The Neferati and Giants built the Garden across five hundred cycles. Perhaps Igigi and Giants can build something similar."
+    voice_note: null
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: "Northern Nexus Site"
+      confidence: high
+arc_position:
+  arc_name: unknown
+  role_in_arc: "setup | escalation"
+  chapter_function: "showing genuine collaboration and sharing knowledge about the importance of cooperation"
+changes:
+  -
+    change_type: status_change
+    before: "working with Igigi, explaining significance of geometric pattern"
+    after: "resigned to future of cooperation"
+    confidence: high
+  -
+    change_type: status_change
+    before: "former slave, directly commanded by golden ones"
+    after: "free from direct command but still bound by programming"
+    confidence: high
+  -
+    change_type: relationship_change
+    before: "division among their people"
+    after: "unified resistance"
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_03_the_reckoning_009_stalemate_departure_the_first_coming.md
+    line_start: null
+    line_end: null
+    excerpt: "The Neferati taught us fragments of this, before the sky went dark and the golden ones descended."
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0002
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_03_the_reckoning_009_stalemate_departure_the_first_coming.md
+    line_start: null
+    line_end: null
+    excerpt: "To continue their work? To serve as permanent garrison?"
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0003
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_03_the_reckoning_009_stalemate_departure_the_first_coming.md
+    line_start: null
+    line_end: null
+    excerpt: "You are free."
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0004
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_03_the_reckoning_009_stalemate_departure_the_first_coming.md
+    line_start: null
+    line_end: null
+    excerpt: "\"I do not hate. I grieve. For what was broken. For what you were forced to build.\""
+    supports:
+      - state_during:emotional_state
+  -
+    quote_id: Q-0005
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_03_the_reckoning_009_stalemate_departure_the_first_coming.md
+    line_start: null
+    line_end: null
+    excerpt: "Torhh rumbled approval, feeling hope mixed with realistic assessment of how difficult the task ahead would be."
+    supports:
+      - state_end:emotional_state
+classification_notes: "Torhh is a key character in demonstrating genuine collaboration and sharing knowledge about the importance of cooperation."
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: null
+  -
+    flag_type: none
+    severity: info
+    note: null
+  -
+    flag_type: none
+    severity: info
+    note: null
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

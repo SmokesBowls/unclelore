@@ -1,0 +1,108 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000064
+entity_ref: candidate:reptilian
+display_name: Reptilian
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_02_age_of_servitude_006_the_first_coming
+book_number: 2
+chapter_id: 006_the_first_coming
+chapter_title: "The First Coming"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+source_hash: cf57ad4230c36e0a80d1b043d310f0622d67427542d211d02be06b3b3c3065c1
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_073426
+chapter_role: "Genetically engineered warrior."
+identity_evidence:
+  named_directly: false
+  speaks: false
+  performs_actions: true
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 3
+state_start:
+  location: "Genesis chamber complex"
+  physical_state: "Obedient, compliant."
+  emotional_state: "Resigned to fate."
+  social_status: "Warrior in training."
+  faction_alignment: "Anunnaki faction."
+  identity_state: "Genetically engineered for obedience and combat."
+  knowledge_state: "Aware of their purpose but not fully understanding the implications."
+state_during:
+  active_conditions:
+    - Obedient
+    - Compliant
+  observed_traits:
+    []
+  active_conflicts:
+    []
+  temporary_roles:
+    []
+state_end:
+  location: "Genesis chamber complex"
+  physical_state: "Obedient, compliant."
+  emotional_state: "Resigned to fate."
+  social_status: "Warrior in training."
+  faction_alignment: "Anunnaki faction."
+  identity_state: "Genetically engineered for obedience and combat."
+  unresolved_after_chapter:
+    []
+relationships:
+  -
+    predicate: obeys
+    subject: Reptilian
+    target: Ninurta
+    evidence: direct
+    confidence: high
+    notes: null
+actions:
+  -
+    action: "obeys commands"
+    target: Ninurta
+    consequence: "Reptilian recognizes overseer authority and awaits directives."
+    confidence: high
+dialogue:
+  []
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: "Genesis chamber complex"
+      confidence: high
+arc_position:
+  arc_name: unknown
+  role_in_arc: "setup | escalation"
+  chapter_function: "Provides context for Anunnaki genetic engineering and workforce deployment."
+changes:
+  -
+    change_type: none
+    before: "Obedient, compliant."
+    after: "Obedient, compliant."
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+    line_start: null
+    line_end: null
+    excerpt: "\"Command structure integration,\" Ninurta continued, extending consciousness-touch into the Reptilian's neural pathways. The creature's mind opened without resistance, its genetically-mandated obedience making it the perfect tool."
+    supports:
+      - identity:character
+classification_notes: "Reptilian is a genetically engineered warrior who provides context for genetic engineering and workforce deployment."
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: null
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

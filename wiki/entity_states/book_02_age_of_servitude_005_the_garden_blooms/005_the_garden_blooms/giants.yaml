@@ -1,0 +1,116 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000053
+entity_ref: candidate:giants
+display_name: Giants
+entity_type: species
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_02_age_of_servitude_005_the_garden_blooms
+book_number: 2
+chapter_id: 005_the_garden_blooms
+chapter_title: "The Garden Blooms"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+source_hash: 90aa8bd3bd0f8689009096c2f3532e823e6705402a6e1fde4e0e9839a4b4a2d2
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_064513
+chapter_role: "Coexisting with Neferati and participating in the Garden's construction."
+identity_evidence:
+  named_directly: true
+  speaks: false
+  performs_actions: true
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 4
+state_start:
+  location: island
+  physical_state: "not specified"
+  emotional_state: "not specified"
+  social_status: "coexist with Neferati, participate in construction"
+  faction_alignment: null
+  identity_state: "species coexisting and participating in the Garden's construction"
+  knowledge_state: "aware of their role"
+state_during:
+  active_conditions:
+    - coexistence
+    - "participation in construction"
+  observed_traits:
+    []
+  active_conflicts:
+    []
+  temporary_roles:
+    []
+state_end:
+  location: island
+  physical_state: "not specified"
+  emotional_state: "aware of the inevitability of the First Coming"
+  social_status: "coexist with Neferati, participate in construction"
+  faction_alignment: null
+  identity_state: "species coexisting and participating in the Garden's construction"
+  unresolved_after_chapter:
+    - "awareness of the inevitability of the First Coming"
+relationships:
+  -
+    predicate: coexistence_with
+    subject: Giants
+    target: Neferati
+    evidence: direct
+    confidence: high
+    notes: null
+actions:
+  -
+    action: "participating in construction"
+    target: "various structures"
+    consequence: "construction projects completed"
+    confidence: high
+dialogue:
+  []
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: island
+      confidence: high
+arc_position:
+  arc_name: unknown
+  role_in_arc: "coexistence and construction"
+  chapter_function: "describing the Giants' role in coexisting with Neferati and participating in the Garden's construction"
+changes:
+  -
+    change_type: awareness_of_inevitability
+    before: "not specified"
+    after: "aware of the inevitability of the First Coming"
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+    line_start: null
+    line_end: null
+    excerpt: "Music ceased. Harmonics fell silent as thousands of consciousnesses united in collective recognition of what was arriving."
+    supports:
+      - identity:species
+  -
+    quote_id: Q-0002
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+    line_start: null
+    line_end: null
+    excerpt: "They come to harvest. To enslave. To reshape this world according to their purposes."
+    supports:
+      - identity:species
+classification_notes: "Giants are a species coexisting with Neferati and participating in the Garden's construction."
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: null
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

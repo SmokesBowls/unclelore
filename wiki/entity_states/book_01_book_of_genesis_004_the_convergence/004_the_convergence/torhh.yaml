@@ -1,0 +1,206 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000033
+entity_ref: candidate:torhh
+display_name: Torhh
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_01_book_of_genesis_004_the_convergence
+book_number: 1
+chapter_id: 004_the_convergence
+chapter_title: "The Convergence"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_004_the_convergence.md
+source_hash: 254a824241f039db73334ede6b0e3526525a5ccc5a58f5e4ae3062ae135d3a61
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_024510
+chapter_role: "ocean-colored Giant during the Giant Convergence."
+identity_evidence:
+  named_directly: true
+  speaks: true
+  performs_actions: true
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 5
+state_start:
+  location: "jade-green cluster"
+  physical_state: "standing, careful"
+  emotional_state: curious
+  social_status: Giant
+  faction_alignment: Giants
+  identity_state: unknown
+  knowledge_state: "aware of Neferati presence"
+state_during:
+  active_conditions:
+    - "approaching Senareth"
+    - "communicating with Olythae"
+  observed_traits:
+    - "intelligent, curious"
+  active_conflicts:
+    []
+  temporary_roles:
+    []
+state_end:
+  location: "tree line"
+  physical_state: "standing, careful"
+  emotional_state: curious
+  social_status: Giant
+  faction_alignment: Giants
+  identity_state: unknown
+  unresolved_after_chapter:
+    - "communicating with Olythae"
+relationships:
+  -
+    predicate: communication
+    subject: Torhh
+    target: Olythae
+    evidence: direct
+    confidence: high
+    notes: "Approaching and communicating with Olythae"
+  -
+    predicate: "communicates understanding to"
+    subject: Torhh
+    target: "jade-greens and other ocean-colored Giants"
+    evidence: direct
+    confidence: high
+    notes: "Through complex harmonics"
+  -
+    predicate: "offers connection to"
+    subject: Senareth
+    target: Senareth
+    evidence: direct
+    confidence: high
+    notes: "Torhh's hand extends, offering touch"
+actions:
+  -
+    action: "approaching Senareth"
+    target: Senareth
+    consequence: "closer than any Giant had ventured since first contact"
+    confidence: high
+  -
+    action: "communicating with Olythae"
+    target: Olythae
+    consequence: "sand begins to move in response to Giant's consciousness-touch"
+    confidence: high
+  -
+    action: "internal conflict between fear and curiosity"
+    target: null
+    consequence: null
+    confidence: high
+  -
+    action: "communicates understanding to jade-greens and other ocean-colored Giants"
+    target: null
+    consequence: null
+    confidence: high
+  -
+    action: "kneels to match Senareth's position"
+    target: null
+    consequence: "facilitates initial connection"
+    confidence: high
+  -
+    action: "extends hand, offering touch"
+    target: Senareth
+    consequence: "initiates contact and tentative trust"
+    confidence: high
+dialogue:
+  -
+    speaker: Torhh
+    addressee: Senareth
+    quote_excerpt: "rumbled—that deep, harmonic vocalization that made the ground vibrate."
+    voice_note: null
+  -
+    speaker: Olythae
+    addressee: "Giant (Torhh)"
+    quote_excerpt: "sand began to move. Not through wind or water, but in response to the Giant's consciousness-touch."
+    voice_note: null
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: "jade-green cluster, tree line"
+      confidence: high
+arc_position:
+  arc_name: "Aaon Keepers"
+  role_in_arc: escalation
+  chapter_function: "ocean-colored Giant during the Giant Convergence."
+changes:
+  -
+    change_type: relationship_change
+    before: unknown
+    after: "communication with Olythae"
+    confidence: high
+  -
+    change_type: "emotional state change from fear to understanding"
+    before: "conflicted, uncertain"
+    after: "understanding, sympathy"
+    confidence: high
+  -
+    change_type: relationship_change
+    before: hostile
+    after: "tentative trust"
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_004_the_convergence.md
+    line_start: null
+    line_end: null
+    excerpt: "Torhh rumbled—that deep, harmonic vocalization that made the ground vibrate."
+    supports:
+      - "state_start:approaching Senareth"
+  -
+    quote_id: Q-0002
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_004_the_convergence.md
+    line_start: null
+    line_end: null
+    excerpt: "sand began to move. Not through wind or water, but in response to the Giant's consciousness-touch."
+    supports:
+      - "state_end:communicating with Olythae"
+  -
+    quote_id: Q-0003
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_004_the_convergence.md
+    line_start: null
+    line_end: null
+    excerpt: "The jade-greens tensed. Several made warning sounds, deep rumbles that vibrated through Senareth's chest cavity. But Torhh didn't flee. Didn't attack. Just stood there, frozen in that same internal conflict that had marked all their interactions."
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0004
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_004_the_convergence.md
+    line_start: null
+    line_end: null
+    excerpt: "Torhh's massive hand extended, palm up. The same gesture the mountain Giant had made, but carrying different meaning."
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0005
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_004_the_convergence.md
+    line_start: null
+    line_end: null
+    excerpt: "Understanding didn't come immediately. Trust couldn't be rebuilt through single gesture. But something shifted in that contact—small crack in the wall of inherited fear, tiny opening through which possibility could flow."
+    supports:
+      - identity:character
+classification_notes: "ocean-colored Giant during the Giant Convergence."
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: null
+  -
+    flag_type: none
+    severity: info
+    note: "No continuity issues identified"
+  -
+    flag_type: none
+    severity: info
+    note: "No continuity issues identified."
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

@@ -1,0 +1,137 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000011
+entity_ref: candidate:mordain
+display_name: Mordain
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_01_book_of_genesis_001_the_ethereal_vigil
+book_number: 1
+chapter_id: 001_the_ethereal_vigil
+chapter_title: "The Ethereal Vigil"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
+source_hash: 39a5e85c50d7dbb533cf87d1fa9db8aa2cde0c2ce232b180ef909c379086aca7
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_024510
+chapter_role: "Accesses library archives and analyzes Pelagor evolution."
+identity_evidence:
+  named_directly: true
+  speaks: false
+  performs_actions: true
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 4
+state_start:
+  location: "Ethereal Realm"
+  physical_state: "consciousness accessing library archives"
+  emotional_state: neutral
+  social_status: "Aeon Keeper"
+  faction_alignment: "Cosmic Infrastructure Guardians"
+  identity_state: "aware of Pelagor evolution"
+  knowledge_state: "library access"
+state_during:
+  active_conditions:
+    - "accessed library archives"
+    - "analyzed probability streams"
+  observed_traits:
+    []
+  active_conflicts:
+    []
+  temporary_roles:
+    []
+state_end:
+  location: "Ethereal Realm"
+  physical_state: "consciousness accessing library archives"
+  emotional_state: neutral
+  social_status: "Aeon Keeper"
+  faction_alignment: "Cosmic Infrastructure Guardians"
+  identity_state: "aware of Pelagor evolution"
+  unresolved_after_chapter:
+    []
+relationships:
+  -
+    predicate: accesses
+    subject: Mordain
+    target: "library archives, Lyaris, Theron, Syreth, Korath"
+    evidence: direct
+    confidence: high
+    notes: "Collaborative access to library archives."
+  -
+    predicate: instructs
+    subject: Mordain
+    target: "Lyaris and the Nephoretti"
+    evidence: inferred
+    confidence: medium
+    notes: null
+actions:
+  -
+    action: "accessed library archives"
+    target: null
+    consequence: "analyzed probability streams leading to Pelagor evolution"
+    confidence: high
+  -
+    action: "instructs Lyaris and the Nephoretti"
+    target: null
+    consequence: "prepares for the release of thought-seeds"
+    confidence: medium
+dialogue:
+  []
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: "Ethereal Realm"
+      confidence: high
+arc_position:
+  arc_name: "Aaon Keepers"
+  role_in_arc: setup
+  chapter_function: "Contributes to the analysis of Pelagor evolution."
+changes:
+  -
+    change_type: knowledge_gain
+    before: "library access"
+    after: "analyzed probability streams leading to Pelagor evolution"
+    confidence: high
+  -
+    change_type: none
+    before: null
+    after: null
+    confidence: medium
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
+    line_start: null
+    line_end: null
+    excerpt: "\"When Tiamat shattered, some Pelagor must have retreated into the deepest trenches, the thermal caves where tectonic activity still generated habitable pockets. They survived the initial destruction, then evolved as Earth formed around them.\""
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0002
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_001_the_ethereal_vigil.md
+    line_start: null
+    line_end: null
+    excerpt: "\"Prepare for the leap,\" Mordain's consciousness resonated through the library. \"All thought-seeds crafted. Vrill channels stabilized. The Veil remains permeable. On my mark, we release them all simultaneously.\""
+    supports:
+      - identity:character
+classification_notes: "Mordain is a key Aeon Keeper who accesses library archives and analyzes Pelagor evolution."
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: "No continuity issues identified."
+  -
+    flag_type: none
+    severity: info
+    note: null
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

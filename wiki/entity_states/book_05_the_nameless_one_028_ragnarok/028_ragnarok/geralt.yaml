@@ -1,0 +1,357 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000133
+entity_ref: candidate:geralt
+display_name: Geralt
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_05_the_nameless_one_028_ragnarok
+book_number: 5
+chapter_id: 028_ragnarok
+chapter_title: Ragnarok
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+source_hash: 2e0e370e47116a3e4086dec07e3af3229888e73806a3718c9ca5372f74ce6b3b
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_134701
+chapter_role: "main protagonist, wearer of the Dragon Mail armor"
+identity_evidence:
+  named_directly: true
+  speaks: true
+  performs_actions: true
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: false
+  exhibits_unified_action: false
+  identity_confidence: high
+  identity_signal_count: 5
+timeline_events:
+  -
+    event_type: state_change
+    description: "Geralt's decision to refuse surrendering the Dragon Mail armor"
+    confidence: high
+    source_quote_id: Q-0001
+  -
+    event_type: state_change
+    description: "Geralt's consciousness floods with readiness and anticipation of violence"
+    confidence: medium
+    source_quote_id: null
+  -
+    event_type: state_change
+    description: "Geralt's consciousness decides to channel telekinetic force against crystalline being"
+    confidence: high
+    source_quote_id: null
+  -
+    event_type: state_change
+    description: "Geralt accepts his new identity as Ragnarok and the consequences that come with it"
+    confidence: high
+    source_quote_id: null
+  -
+    event_type: state_change
+    description: "Geralt approaches the compound's front gate, announcing his presence and intentions to liberate the slaves"
+    confidence: high
+    source_quote_id: null
+  -
+    event_type: state_change
+    description: "Geralt's telekinetic barriers deflected most attacks."
+    confidence: medium
+    source_quote_id: null
+  -
+    event_type: state_change
+    description: "Geralt channels telekinetic force and uses it to pull environment into the battle."
+    confidence: medium
+    source_quote_id: null
+  -
+    event_type: location_move
+    description: "Geralt rises into the air using his armor's wings, gaining a new perspective on the battlefield."
+    confidence: medium
+    source_quote_id: null
+  -
+    event_type: physical_alteration
+    description: "Geralt's armor responds to his intention and folds its wings to maximize speed."
+    confidence: medium
+    source_quote_id: null
+  -
+    event_type: state_change
+    description: "Geralt chooses promise over blood"
+    confidence: high
+    source_quote_id: null
+relationships:
+  -
+    predicate: partner
+    subject: Geralt
+    target: Oreck
+    evidence: direct
+    confidence: high
+    notes: "short note"
+  -
+    predicate: has_internal_state
+    subject: Geralt
+    target: "Zaron's consciousness"
+    evidence: direct
+    confidence: high
+    notes: "Geralt's armor responds to Zaron's presence"
+  -
+    predicate: "former slave"
+    subject: Geralt
+    target: Mika
+    evidence: direct
+    confidence: medium
+    notes: "short note"
+  -
+    predicate: ally
+    subject: Geralt
+    target: Oreck
+    evidence: direct
+    confidence: high
+    notes: "short note"
+  -
+    predicate: "leader of the liberation force"
+    subject: Geralt
+    target: "liberation force"
+    evidence: direct
+    confidence: high
+    notes: ""
+  -
+    predicate: leader
+    subject: Geralt
+    target: "Mika and her team"
+    evidence: direct
+    confidence: high
+    notes: "Geralt leads the liberation campaign."
+  -
+    predicate: ally
+    subject: Geralt
+    target: Oreck
+    evidence: direct
+    confidence: high
+    notes: "Geralt works with Oreck to contain guards and minimize casualties."
+actions:
+  -
+    action: "refusing to surrender the Dragon Mail armor"
+    target: null
+    consequence: "conflict with Federation Enforcers"
+    confidence: high
+  -
+    action: "raises his armored hand and channels telekinetic force"
+    target: null
+    consequence: "creates a barrier of silicon and minerals"
+    confidence: high
+  -
+    action: "tries to figure out aerodynamics on the fly"
+    target: null
+    consequence: "predictable results and crash into sand"
+    confidence: medium
+  -
+    action: "channels telekinetic force against crystalline being"
+    target: "crystalline being"
+    consequence: "separation and creation of space"
+    confidence: high
+  -
+    action: "accepts his new identity as Ragnarok"
+    target: null
+    consequence: "Geralt becomes a symbol of resistance and liberation"
+    confidence: high
+  -
+    action: "approaches the compound's front gate"
+    target: null
+    consequence: "announces his presence and intentions to liberate the slaves"
+    confidence: high
+  -
+    action: "telekinetic barriers that deflected most attacks, accepting minor hits on the armor that Zaron's consciousness absorbed and redistributed without allowing damage to reach flesh beneath."
+    target: null
+    consequence: "deflecting attacks"
+    confidence: medium
+  -
+    action: "channels telekinetic force"
+    target: null
+    consequence: "pulls environment into the battle"
+    confidence: medium
+  -
+    action: "rises into the air"
+    target: null
+    consequence: "gains a new perspective on the battlefield"
+    confidence: medium
+  -
+    action: "chose promise"
+    target: null
+    consequence: "because freedom was worth any price"
+    confidence: high
+dialogue:
+  -
+    speaker: Geralt
+    addressee: "Oreck or unknown"
+    quote_excerpt: "I said no."
+    voice_note: "short note"
+  -
+    speaker: Geralt
+    addressee: "Vel'thara"
+    quote_excerpt: "It's complicated."
+    voice_note: null
+  -
+    speaker: Geralt
+    addressee: null
+    quote_excerpt: AGREED
+    voice_note: null
+  -
+    speaker: Geralt
+    addressee: null
+    quote_excerpt: "We're not trying to hurt you. We're just defending our freedom."
+    voice_note: null
+  -
+    speaker: Geralt
+    addressee: Mika
+    quote_excerpt: "They called you Ragnarok. They said you're the end of worlds. What does that mean?"
+    voice_note: null
+  -
+    speaker: Oreck
+    addressee: Geralt
+    quote_excerpt: "You-chose, face-exposed, forever-hunted. Why-no-hide?"
+    voice_note: null
+  -
+    speaker: Geralt
+    addressee: guard
+    quote_excerpt: "I am Geralt. Also known as Ragnarok. Also known as the slave who killed his Overseer and freed his compound and claimed armor the Aeon Keepers prepared for exactly this purpose."
+    voice_note: ""
+  -
+    speaker: Geralt
+    addressee: unknown
+    quote_excerpt: "'SURRENDER,' Geralt's voice boomed across the compound—amplified by armor, carrying authority that transcended simple volume. 'Your forces are disabled. Your Overseer stands alone. This battle is over. Choose survival over pointless resistance.'"
+    voice_note: "short note or null"
+  -
+    speaker: Geralt
+    addressee: Applicator
+    quote_excerpt: Try.
+    voice_note: null
+  -
+    speaker: Geralt
+    addressee: Overseer
+    quote_excerpt: "'That's your problem. You keep thinking ownership determines capability. That designation defines possibility. That cosmic law reflects natural order rather than constructed hierarchy.'"
+    voice_note: null
+  -
+    speaker: Geralt
+    addressee: "Applicator and corpse of Overseer"
+    quote_excerpt: "We're not stopping. This was proof that it works. That liberation can be taught."
+    voice_note: null
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: "compound's eastern boundary"
+      confidence: high
+arc_position:
+  arc_name: unknown
+  role_in_arc: "setup | escalation | revelation | reversal | resolution | aftermath | unknown"
+  chapter_function: "short note"
+changes:
+  -
+    change_type: identity_reveal
+    before: unknown
+    after: "known as Aeon Keeper artifact wearer"
+    confidence: high
+  -
+    change_type: relationship_change
+    before: null
+    after: hostile
+    confidence: high
+  -
+    change_type: identity_reveal
+    before: "former slave"
+    after: Ragnarok
+    confidence: high
+  -
+    change_type: relationship_change
+    before: slave
+    after: free
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+    line_start: null
+    line_end: null
+    excerpt: "I freed these people. I killed the Overseer. I claimed this armor."
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0002
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+    line_start: null
+    line_end: null
+    excerpt: "Geralt's features shifted into what might have been surprise."
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0003
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+    line_start: null
+    line_end: null
+    excerpt: "Not deliberately. Not through conscious command."
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0004
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+    line_start: null
+    line_end: null
+    excerpt: "They called you Ragnarok. They said you're the end of worlds. What does that mean?"
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0005
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+    line_start: null
+    line_end: null
+    excerpt: "Geralt approached the compound's front gate—a guard appeared above the wall—reptilian similar to Oreck but smaller, younger, carrying weapon with professional competence but expression mixing confusion with concern."
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0006
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+    line_start: null
+    line_end: null
+    excerpt: "'SURRENDER,' Geralt's voice boomed across the compound—amplified by armor, carrying authority that transcended simple volume."
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0007
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+    line_start: null
+    line_end: null
+    excerpt: "Geralt channels telekinetic force and uses it to pull environment into the battle."
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0008
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+    line_start: null
+    line_end: null
+    excerpt: "We're Ragnarok. And your world—your cosmic order built on enslavement—is ending. One liberation at a time."
+    supports:
+      - identity:character
+classification_notes: "Geralt's defiance and refusal to surrender the Dragon Mail armor"
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: "short note"
+  -
+    flag_type: none
+    severity: info
+    note: null
+  -
+    flag_type: none
+    severity: info
+    note: null
+  -
+    flag_type: none
+    severity: info
+    note: null
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: "create_candidate | link_existing | merge_candidate | reject_candidate | review"

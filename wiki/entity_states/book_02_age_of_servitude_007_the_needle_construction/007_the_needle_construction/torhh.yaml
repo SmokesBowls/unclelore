@@ -1,0 +1,129 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000077
+entity_ref: candidate:torhh
+display_name: Torhh
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_02_age_of_servitude_007_the_needle_construction
+book_number: 2
+chapter_id: 007_the_needle_construction
+chapter_title: "The Needle Construction"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
+source_hash: eb120b0159c6d4e1a8581a826dd6247a474cb9606ed71e8283194d0ee2d15f7b
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_073426
+chapter_role: "Giant entity observing and understanding the situation of the indigenous biologicals."
+identity_evidence:
+  named_directly: true
+  speaks: false
+  performs_actions: true
+  receives_description: true
+  has_internal_state: true
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 5
+state_start:
+  location: "Northern Nexus Site"
+  physical_state: "watching the strange elongated creatures work under artificial lights and trying to understand their misery."
+  emotional_state: "understanding, recognition of injustice, empathy for the indigenous biologicals."
+  social_status: "Tidecaller entity"
+  faction_alignment: unknown
+  identity_state: "awareness of the situation and the injustice"
+  knowledge_state: "understanding of the indigenous biologicals' complex consciousness"
+state_during:
+  active_conditions:
+    - "watching the strange elongated creatures work"
+    - "trying to understand their misery"
+  observed_traits:
+    - "understanding, recognition of injustice, empathy for the indigenous biologicals."
+  active_conflicts:
+    []
+  temporary_roles:
+    []
+state_end:
+  location: "Northern Nexus Site"
+  physical_state: "watching the strange elongated creatures work under artificial lights and trying to understand their misery."
+  emotional_state: "understanding, recognition of injustice, empathy for the indigenous biologicals."
+  social_status: "Tidecaller entity"
+  faction_alignment: unknown
+  identity_state: "awareness of the situation and the injustice"
+  unresolved_after_chapter:
+    - "understanding of the indigenous biologicals' complex consciousness"
+relationships:
+  -
+    predicate: observes
+    subject: Torhh
+    target: "indigenous biologicals, strange elongated creatures working on the Needle construction"
+    evidence: direct
+    confidence: high
+    notes: null
+  -
+    predicate: "understands and empathizes with"
+    subject: Torhh
+    target: "indigenous biologicals, their situation as slaves to Anunnaki"
+    evidence: direct
+    confidence: high
+    notes: null
+actions:
+  -
+    action: "watching the strange elongated creatures work under artificial lights and trying to understand their misery."
+    target: null
+    consequence: null
+    confidence: high
+  -
+    action: "understanding, recognition of injustice, empathy for the indigenous biologicals."
+    target: null
+    consequence: null
+    confidence: high
+dialogue:
+  []
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: "Northern Nexus Site"
+      confidence: high
+arc_position:
+  arc_name: unknown
+  role_in_arc: setup
+  chapter_function: "showing the understanding and empathy of Torhh towards the indigenous biologicals, their complex consciousness, and their situation as slaves to Anunnaki."
+changes:
+  -
+    change_type: identity_reveal
+    before: null
+    after: "awareness of the situation and the injustice"
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
+    line_start: null
+    line_end: null
+    excerpt: "Torhh... they were fellow prisoners."
+    supports:
+      - state_end:unresolved_after_chapter
+  -
+    quote_id: Q-0002
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_007_the_needle_construction.md
+    line_start: null
+    line_end: null
+    excerpt: "The massive crystalline tower—the 'Needle' as consciousness-patterns suggested the invaders called it—had grown to nearly a hundred feet over the past decade. Its surface carried geometric patterns that hurt to perceive directly, and its presence disrupted the mountain's vrill-flows in ways that made the Tidecaller population sick and confused."
+    supports:
+      - state_start:location
+      - state_start:physical_state
+classification_notes: "Torhh is a Giant entity observing and understanding the situation of the indigenous biologicals, their complex consciousness, and their situation as slaves to Anunnaki."
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: null
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

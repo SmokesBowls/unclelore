@@ -1,0 +1,82 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000136
+entity_ref: candidate:vel_thara
+display_name: "Vel'thara"
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_05_the_nameless_one_028_ragnarok
+book_number: 5
+chapter_id: 028_ragnarok
+chapter_title: Ragnarok
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+source_hash: 2e0e370e47116a3e4086dec07e3af3229888e73806a3718c9ca5372f74ce6b3b
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_134701
+chapter_role: "enforcer that disengages and falls back toward their ship with discipline"
+identity_evidence:
+  named_directly: true
+  speaks: true
+  performs_actions: true
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: false
+  exhibits_unified_action: false
+  identity_confidence: high
+  identity_signal_count: 4
+timeline_events:
+  -
+    event_type: state_change
+    description: "Vel'thara disengages and falls back toward their ship with discipline"
+    confidence: high
+    source_quote_id: null
+relationships:
+  []
+actions:
+  -
+    action: "disengages and falls back toward their ship with discipline"
+    target: null
+    consequence: "separation from combat zone"
+    confidence: high
+dialogue:
+  -
+    speaker: "Vel'thara"
+    addressee: null
+    quote_excerpt: "Operation parameters exceeded. Threat level confirms subject Geralt—designation RAGNAROK—requires specialized response beyond standard enforcement capability."
+    voice_note: null
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: sand
+      confidence: high
+    -
+      name: compound
+      confidence: medium
+arc_position:
+  arc_name: unknown
+  role_in_arc: "setup | escalation | revelation | reversal | resolution | aftermath | unknown"
+  chapter_function: "short note"
+changes:
+  []
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_05_the_nameless_one_028_ragnarok.md
+    line_start: null
+    line_end: null
+    excerpt: "Vel'thara's white eyes showed something that might have been respect or might have been calculation of how much paperwork failed enforcement operation would generate."
+    supports:
+      - identity:character
+classification_notes: "why this type was chosen"
+continuity_flags:
+  []
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: "create_candidate | link_existing | merge_candidate | reject_candidate | review"

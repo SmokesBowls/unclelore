@@ -1,0 +1,145 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000116
+entity_ref: candidate:the_sage
+display_name: "The Sage"
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_04_sage_saga_021_the_first_lesson
+book_number: 4
+chapter_id: 021_the_first_lesson
+chapter_title: "The First Lesson"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_04_sage_saga_021_the_first_lesson.md
+source_hash: a8fa7f2ff8d7dc602ba8d638a395ca58aca5a8585e003cdbc8e91f3784d3ef46
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_134701
+chapter_role: "main character, learns and practices Deep Grammar"
+identity_evidence:
+  named_directly: true
+  speaks: false
+  performs_actions: true
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: false
+  exhibits_unified_action: false
+  identity_confidence: high
+  identity_signal_count: 4
+timeline_events:
+  -
+    event_type: state_change
+    description: "The Sage's consciousness responds to the demonstration with recognition that exists beyond intellectual understanding."
+    confidence: medium
+    source_quote_id: null
+  -
+    event_type: state_change
+    description: "The Sage's mathematical consciousness processing complexity parameters that approached the edge of what systematic analysis could encompass."
+    confidence: medium
+    source_quote_id: null
+  -
+    event_type: state_change
+    description: "The Sage's consciousness existing simultaneously across probability matrices that encompassed galactic regions."
+    confidence: medium
+    source_quote_id: null
+relationships:
+  -
+    predicate: "partnered with Torrhen"
+    subject: "The Sage"
+    target: Torrhen
+    evidence: direct
+    confidence: high
+    notes: ""
+  -
+    predicate: partner
+    subject: "The Sage"
+    target: Torrhen
+    evidence: direct
+    confidence: high
+    notes: ""
+actions:
+  -
+    action: "practiced Deep Grammar"
+    target: null
+    consequence: "developed systematic approaches to instruction"
+    confidence: medium
+  -
+    action: "observed and assessed"
+    target: null
+    consequence: "the network's distributed educational infrastructure"
+    confidence: low
+  -
+    action: observed
+    target: null
+    consequence: ""
+    confidence: low
+dialogue:
+  -
+    speaker: "The Sage"
+    addressee: Torrhen
+    quote_excerpt: ""
+    voice_note: ""
+  -
+    speaker: "The Sage"
+    addressee: Torrhen
+    quote_excerpt: ""
+    voice_note: ""
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: sanctuary
+      confidence: high
+arc_position:
+  arc_name: unknown
+  role_in_arc: "setup | escalation | revelation | resolution | aftermath | unknown"
+  chapter_function: ""
+changes:
+  -
+    change_type: none
+    before: null
+    after: null
+    confidence: low
+  -
+    change_type: none
+    before: ""
+    after: ""
+    confidence: low
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_04_sage_saga_021_the_first_lesson.md
+    line_start: null
+    line_end: null
+    excerpt: ""
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0002
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_04_sage_saga_021_the_first_lesson.md
+    line_start: null
+    line_end: null
+    excerpt: "The Sage's mathematical consciousness processing complexity parameters that approached the edge of what systematic analysis could encompass."
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0003
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_04_sage_saga_021_the_first_lesson.md
+    line_start: null
+    line_end: null
+    excerpt: "The encoding is complete."
+    supports:
+      - identity:character
+classification_notes: ""
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: ""
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

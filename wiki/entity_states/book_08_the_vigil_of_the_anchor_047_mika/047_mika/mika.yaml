@@ -1,0 +1,142 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000114
+entity_ref: candidate:mika
+display_name: Mika
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_08_the_vigil_of_the_anchor_047_mika
+book_number: 8
+chapter_id: 047_mika
+chapter_title: Mika
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_08_the_vigil_of_the_anchor_047_mika.md
+source_hash: c9d7d680ceef66c2c419bd311a8246c169ebb8ef2eb306c5158217d1d7b5d3c9
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_111411
+chapter_role: "member of Geralt's group, leader among the freed slaves"
+identity_evidence:
+  named_directly: true
+  speaks: false
+  performs_actions: true
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 4
+state_start:
+  location: unknown
+  physical_state: unknown
+  emotional_state: unknown
+  social_status: unknown
+  faction_alignment: unknown
+  identity_state: unknown
+  knowledge_state: unknown
+state_during:
+  active_conditions:
+    []
+  observed_traits:
+    - "perpetually scanning the horizon"
+  active_conflicts:
+    []
+  temporary_roles:
+    []
+state_end:
+  location: "Falcon Ridge"
+  physical_state: unknown
+  emotional_state: unknown
+  social_status: unknown
+  faction_alignment: unknown
+  identity_state: unknown
+  unresolved_after_chapter:
+    []
+relationships:
+  -
+    predicate: "leader among the freed slaves"
+    subject: Mika
+    target: "the freed slaves"
+    evidence: direct
+    confidence: high
+  -
+    predicate: "wife of Geralt"
+    subject: Mika
+    target: Geralt
+    evidence: direct
+    confidence: high
+    notes: ""
+actions:
+  -
+    action: "scanning the horizon"
+    target: null
+    consequence: null
+    confidence: medium
+  -
+    action: "inspects the growing wall"
+    target: null
+    consequence: "observes Zephyr standing beside her"
+    confidence: medium
+  -
+    action: "lifts a stone with her mind"
+    target: stone
+    consequence: "the stone hovers in the air"
+    confidence: high
+  -
+    action: "END OF CHAPTER 45"
+    target: null
+    consequence: null
+    confidence: high
+dialogue:
+  -
+    speaker: Mika
+    addressee: null
+    quote_excerpt: "I need to document this"
+    voice_note: ""
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: "Falcon Ridge"
+      confidence: high
+arc_position:
+  arc_name: unknown
+  role_in_arc: "setup | escalation | revelation | reversal | resolution | aftermath | unknown"
+  chapter_function: "short note"
+changes:
+  -
+    change_type: identity_reveal
+    before: unknown
+    after: "scholar, wife"
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_08_the_vigil_of_the_anchor_047_mika.md
+    line_start: null
+    line_end: null
+    excerpt: "I fell here."
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0002
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_08_the_vigil_of_the_anchor_047_mika.md
+    line_start: null
+    line_end: null
+    excerpt: "She leaned forward. 'The First Tongue isn't spoken,' Zephyr said, poking the embers with a stick."
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0003
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_08_the_vigil_of_the_anchor_047_mika.md
+    line_start: null
+    line_end: null
+    excerpt: "END OF CHAPTER 45"
+    supports:
+      - identity:character
+classification_notes: "why this type was chosen"
+continuity_flags:
+  []
+compiler_notes:
+

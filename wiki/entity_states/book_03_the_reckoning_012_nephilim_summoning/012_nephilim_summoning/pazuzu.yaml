@@ -1,0 +1,127 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000103
+entity_ref: candidate:pazuzu
+display_name: Pazuzu
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_03_the_reckoning_012_nephilim_summoning
+book_number: 3
+chapter_id: 012_nephilim_summoning
+chapter_title: "Nephilim Summoning"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_03_the_reckoning_012_nephilim_summoning.md
+source_hash: 23431230df494f439f168980437f3d76c0b19d1c894ca4cd3dcdd2a002a936e0
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_073426
+chapter_role: "Igigi leader, maintaining alliance with Giants and providing mathematical precision for the communion."
+identity_evidence:
+  named_directly: true
+  speaks: false
+  performs_actions: true
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 4
+state_start:
+  location: "ruins of the Garden's central valley"
+  physical_state: "mathematical mind, sophisticated consciousness-crafting"
+  emotional_state: "resigned to current situation but willing to consider solutions"
+  social_status: "leader among Igigi"
+  faction_alignment: Igigi
+  identity_state: "ancient and experienced leader"
+  knowledge_state: "aware of the Garden's history, Anunnaki threat"
+state_during:
+  active_conditions:
+    - "participating in the communion"
+    - "providing mathematical precision"
+  observed_traits:
+    - "mathematical mind"
+    - "sophisticated consciousness-crafting"
+  active_conflicts:
+    []
+  temporary_roles:
+    []
+state_end:
+  location: "ruins of the Garden's central valley"
+  physical_state: "mathematical mind, sophisticated consciousness-crafting"
+  emotional_state: "determined to find a solution despite the odds"
+  social_status: "leader among Igigi"
+  faction_alignment: Igigi
+  identity_state: "ancient and experienced leader"
+  unresolved_after_chapter:
+    - "whether the communion will succeed"
+relationships:
+  -
+    predicate: "anchor for"
+    subject: Pazuzu
+    target: "the collective consciousness of Giants during the communion"
+    evidence: direct
+    confidence: high
+    notes: null
+actions:
+  -
+    action: "provide mathematical precision for the communion"
+    target: "all tribes, factions"
+    consequence: "Contributes to the successful formation of a collective consciousness."
+    confidence: high
+  -
+    action: "realize the importance of Aeon Keepers' old defenses"
+    target: "the group (specifically)"
+    consequence: "Proposes reaching out to Aeon Keepers for help, stating, 'The word rippled through the assembly—Nephilim.'"
+    confidence: high
+dialogue:
+  -
+    speaker: null
+    addressee: "the group (specifically)"
+    quote_excerpt: "The Aeon Keepers' old defenses. I've seen fragments in the systems. References to 'Nephilim protocols' embedded in Aeon Keeper architecture that predates Anunnaki conquest."
+    voice_note: null
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: "ruins of the Garden's central valley"
+      confidence: high
+arc_position:
+  arc_name: unknown
+  role_in_arc: setup
+  chapter_function: "provides mathematical precision for the communion and proposes reaching out to Aeon Keepers."
+changes:
+  -
+    change_type: relationship_change
+    before: "suspicious of Torhh's alliance with Anunnaki creatures"
+    after: "agrees to attempt communion with Aeon Keepers"
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_03_the_reckoning_012_nephilim_summoning.md
+    line_start: null
+    line_end: null
+    excerpt: "Pazuzu provided mathematical precision for the communion, contributing to its success."
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0002
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_03_the_reckoning_012_nephilim_summoning.md
+    line_start: null
+    line_end: null
+    excerpt: "Pazuzu realized the importance of Aeon Keepers' old defenses and proposed reaching out to them, stating, 'The word rippled through the assembly—Nephilim.'"
+    supports:
+      - state_end
+      - relationships
+classification_notes: "Pazuzu is a character with significant actions that drive the chapter's plot."
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: null
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

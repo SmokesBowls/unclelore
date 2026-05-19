@@ -1,0 +1,97 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000038
+entity_ref: candidate:pelagor
+display_name: Pelagor
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_01_book_of_genesis_004_the_convergence
+book_number: 1
+chapter_id: 004_the_convergence
+chapter_title: "The Convergence"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_004_the_convergence.md
+source_hash: 254a824241f039db73334ede6b0e3526525a5ccc5a58f5e4ae3062ae135d3a61
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_024510
+chapter_role: "Memory and trauma carrier"
+identity_evidence:
+  named_directly: false
+  speaks: false
+  performs_actions: false
+  receives_description: true
+  has_internal_state: true
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 2
+state_start:
+  location: unknown
+  physical_state: unknown
+  emotional_state: "trauma, fear"
+  social_status: "memory carrier"
+  faction_alignment: unknown
+  identity_state: unknown
+  knowledge_state: unknown
+state_during:
+  active_conditions:
+    - "encoded in stone-flesh"
+  observed_traits:
+    []
+  active_conflicts:
+    []
+  temporary_roles:
+    []
+state_end:
+  location: unknown
+  physical_state: unknown
+  emotional_state: "understanding, sympathy"
+  social_status: "memory carrier"
+  faction_alignment: unknown
+  identity_state: unknown
+  unresolved_after_chapter:
+    []
+relationships:
+  []
+actions:
+  []
+dialogue:
+  []
+presence:
+  direct_presence: false
+  mentioned_only: true
+  locations:
+    -
+      name: "Tiamat's mountain cities"
+      confidence: high
+arc_position:
+  arc_name: unknown
+  role_in_arc: "memory carrier"
+  chapter_function: "explained through Senareth's understanding and the mountain Giant's communication"
+changes:
+  -
+    change_type: "emotional state change from fear to understanding"
+    before: "trauma, fear"
+    after: "understanding, sympathy"
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_004_the_convergence.md
+    line_start: null
+    line_end: null
+    excerpt: "The Pelagor who had once ventured onto Tiamat's shores—curious, vulnerable, occasionally territorial—had been chased away by Neferati ancestors. By beings that throw rocks and sticks, who defended their mountain cities from what they saw as invasive aquatic pests."
+    supports:
+      - identity:character
+classification_notes: "Memory and trauma carrier"
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: "No continuity issues identified"
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

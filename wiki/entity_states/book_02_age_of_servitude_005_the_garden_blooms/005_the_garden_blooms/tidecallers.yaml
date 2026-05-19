@@ -1,0 +1,111 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000048
+entity_ref: candidate:tidecallers
+display_name: Tidecallers
+entity_type: faction
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_02_age_of_servitude_005_the_garden_blooms
+book_number: 2
+chapter_id: 005_the_garden_blooms
+chapter_title: "The Garden Blooms"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+source_hash: 90aa8bd3bd0f8689009096c2f3532e823e6705402a6e1fde4e0e9839a4b4a2d2
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_064513
+chapter_role: "invited into the Tidecaller mountain by Neferati."
+identity_evidence:
+  named_directly: true
+  speaks: false
+  performs_actions: true
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 4
+state_start:
+  location: unknown
+  physical_state: unknown
+  emotional_state: unknown
+  social_status: unknown
+  faction_alignment: Tidecallers
+  identity_state: unknown
+  knowledge_state: unknown
+state_during:
+  active_conditions:
+    []
+  observed_traits:
+    - "jade-green forms"
+  active_conflicts:
+    []
+  temporary_roles:
+    []
+state_end:
+  location: unknown
+  physical_state: unknown
+  emotional_state: unknown
+  social_status: unknown
+  faction_alignment: Tidecallers
+  identity_state: unknown
+  unresolved_after_chapter:
+    []
+relationships:
+  -
+    predicate: "invited into the Tidecaller mountain by"
+    subject: Neferati
+    target: Tidecallers
+    evidence: direct
+    confidence: high
+    notes: null
+actions:
+  -
+    action: "invited into the Tidecaller mountain by Neferati"
+    target: Neferati
+    consequence: "allowed inside the heart of Tidecaller identity"
+    confidence: high
+dialogue:
+  -
+    speaker: null
+    addressee: Neferati
+    quote_excerpt: "Our mountain. We wish to shape it. Make it home."
+    voice_note: null
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: mountain
+      confidence: high
+arc_position:
+  arc_name: unknown
+  role_in_arc: "setup | escalation | revelation | reversal | resolution | aftermath | unknown"
+  chapter_function: "invited into the Tidecaller mountain by Neferati."
+changes:
+  -
+    change_type: "territorial crystallization"
+    before: unknown
+    after: "crystallized territories"
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_005_the_garden_blooms.md
+    line_start: null
+    line_end: null
+    excerpt: "Our mountain. We wish to shape it. Make it home."
+    supports:
+      - identity:faction
+classification_notes: "Tidecallers is a faction with clear identity signals through direct actions and interactions."
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: null
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

@@ -1,0 +1,99 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000021
+entity_ref: candidate:giants
+display_name: Giants
+entity_type: species
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_01_book_of_genesis_002_molten_descent
+book_number: 1
+chapter_id: 002_molten_descent
+chapter_title: "Molten Descent"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_002_molten_descent.md
+source_hash: 9373b5e7d87a061c1d3afef4e5eecc71d8bb855886443766ebe8b8651f3a6e87
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_024510
+chapter_role: "observed by Nephoretti, source of fear and preparation."
+identity_evidence:
+  named_directly: false
+  speaks: false
+  performs_actions: true
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 2
+state_start:
+  location: unknown
+  physical_state: "massive, beautiful in the fading light"
+  emotional_state: "watching, unexpressed"
+  social_status: unknown
+  faction_alignment: unknown
+  identity_state: "known to Nephoretti as a source of fear and preparation"
+  knowledge_state: "initial state of knowledge about Giants"
+state_during:
+  active_conditions:
+    - "watching, unexpressed"
+  observed_traits:
+    - "massive form"
+    - "beautiful in the fading light"
+    - "eyes that seem to contain ocean depths"
+  active_conflicts:
+    []
+  temporary_roles:
+    []
+state_end:
+  location: unknown
+  physical_state: "massive, beautiful in the fading light"
+  emotional_state: "watching, unexpressed"
+  social_status: unknown
+  faction_alignment: unknown
+  identity_state: "known to Nephoretti as a source of fear and preparation"
+  unresolved_after_chapter:
+    - "continued watching"
+relationships:
+  []
+actions:
+  -
+    action: "remain in place"
+    target: null
+    consequence: "watching, unexpressed"
+    confidence: high
+dialogue:
+  []
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: "unknown location"
+      confidence: high
+arc_position:
+  arc_name: unknown
+  role_in_arc: unknown
+  chapter_function: "Giants are a source of fear and preparation for Nephoretti."
+changes:
+  []
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_002_molten_descent.md
+    line_start: null
+    line_end: null
+    excerpt: "Its massive form was beautiful in the fading light—jade-green stone shot through with veins that caught and reflected the sunset, creating the impression of bioluminescence."
+    supports:
+      - identity:species
+classification_notes: "Giants are a species known to Nephoretti as a source of fear and preparation."
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: "No continuity issues observed."
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

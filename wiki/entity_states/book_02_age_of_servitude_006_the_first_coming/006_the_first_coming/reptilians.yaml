@@ -1,0 +1,104 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000065
+entity_ref: candidate:reptilians
+display_name: Reptilians
+entity_type: species
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_02_age_of_servitude_006_the_first_coming
+book_number: 2
+chapter_id: 006_the_first_coming
+chapter_title: "The First Coming"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+source_hash: cf57ad4230c36e0a80d1b043d310f0622d67427542d211d02be06b3b3c3065c1
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_073426
+chapter_role: "Deployed to security positions and patrol routes."
+identity_evidence:
+  named_directly: false
+  speaks: false
+  performs_actions: true
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 2
+state_start:
+  location: "genesis chambers"
+  physical_state: "genetically enhanced, organized into units"
+  emotional_state: undisclosed
+  social_status: "newly deployed"
+  faction_alignment: Anunnaki
+  identity_state: Reptilians
+  knowledge_state: undisclosed
+state_during:
+  active_conditions:
+    - "genetically enhanced, organized into units"
+  observed_traits:
+    []
+  active_conflicts:
+    []
+  temporary_roles:
+    []
+state_end:
+  location: "assigned positions"
+  physical_state: undisclosed
+  emotional_state: undisclosed
+  social_status: "deployed to security and patrol roles"
+  faction_alignment: Anunnaki
+  identity_state: Reptilians
+  unresolved_after_chapter:
+    []
+relationships:
+  []
+actions:
+  -
+    action: "march from genesis chambers toward assigned positions"
+    target: null
+    consequence: "deployed to security and patrol roles."
+    confidence: high
+dialogue:
+  []
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: "genesis chambers"
+      confidence: high
+    -
+      name: "assigned positions"
+      confidence: high
+arc_position:
+  arc_name: unknown
+  role_in_arc: setup
+  chapter_function: "Deployment and initial roles."
+changes:
+  -
+    change_type: location_change
+    before: "genesis chambers"
+    after: "assigned positions"
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_006_the_first_coming.md
+    line_start: null
+    line_end: null
+    excerpt: "Deploy first generation to security positions,"
+    supports:
+      - identity:species
+classification_notes: "Reptilians are a genetically engineered species."
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: "No continuity issues observed."
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

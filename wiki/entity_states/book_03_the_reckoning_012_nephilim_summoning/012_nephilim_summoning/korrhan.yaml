@@ -1,0 +1,156 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000102
+entity_ref: candidate:korrhan
+display_name: Korrhan
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_03_the_reckoning_012_nephilim_summoning
+book_number: 3
+chapter_id: 012_nephilim_summoning
+chapter_title: "Nephilim Summoning"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_03_the_reckoning_012_nephilim_summoning.md
+source_hash: 23431230df494f439f168980437f3d76c0b19d1c894ca4cd3dcdd2a002a936e0
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_073426
+chapter_role: "Ash Giant tribal leader, representing the Ash Giants in the gathering."
+identity_evidence:
+  named_directly: true
+  speaks: true
+  performs_actions: false
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 4
+state_start:
+  location: "ruins of the Garden's central valley"
+  physical_state: "burnt-red stone-flesh, barely holding cohesion"
+  emotional_state: "resigned to current situation but willing to consider solutions"
+  social_status: "leader among Ash Giants"
+  faction_alignment: "Ash Giants"
+  identity_state: "ancient and experienced leader"
+  knowledge_state: "aware of the Garden's history, Anunnaki threat"
+state_during:
+  active_conditions:
+    - "discussing the current state of affairs"
+    - "seeking a solution to the crisis"
+  observed_traits:
+    - resilience
+    - wisdom
+  active_conflicts:
+    []
+  temporary_roles:
+    []
+state_end:
+  location: "ruins of the Garden's central valley"
+  physical_state: "burnt-red stone-flesh, barely holding cohesion"
+  emotional_state: "determined to find a solution despite the odds"
+  social_status: "leader among Ash Giants"
+  faction_alignment: "Ash Giants"
+  identity_state: "ancient and experienced leader"
+  unresolved_after_chapter:
+    - "whether the communion will succeed"
+relationships:
+  -
+    predicate: "express skepticism towards"
+    subject: Korrhan
+    target: "Torhh's claims about alliance with Anunnaki creatures"
+    evidence: direct
+    confidence: high
+    notes: null
+  -
+    predicate: "disagrees with"
+    subject: Korrhan
+    target: "Giants' decision to attempt the ritual"
+    evidence: direct
+    confidence: high
+    notes: "Expresses disagreement and calculates survival probabilities."
+actions:
+  -
+    action: "express skepticism towards Torhh's claims about alliance with Anunnaki creatures"
+    target: "Torhh (specifically)"
+    consequence: "Torhh defends the alliance, explaining its benefits."
+    confidence: high
+  -
+    action: "states the probability of survival"
+    target: null
+    consequence: "Giants understand the potential for failure"
+    confidence: high
+dialogue:
+  -
+    speaker: Korrhan
+    addressee: "Torhh (specifically)"
+    quote_excerpt: "You ally with Anunnaki creatures while we die. The ocean-dwellers always claimed they wanted cooperation, yet when we need aid, you're negotiating with the enemy."
+    voice_note: null
+  -
+    speaker: Korrhan
+    addressee: unknown
+    quote_excerpt: "It will test you, the Aeon Keepers corrected. Death is possible. But transformation is more likely."
+    voice_note: null
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: "ruins of the Garden's central valley"
+      confidence: high
+arc_position:
+  arc_name: unknown
+  role_in_arc: setup
+  chapter_function: "expresses skepticism towards Torhh's claims about alliance with Anunnaki creatures."
+changes:
+  -
+    change_type: relationship_change
+    before: "suspicious of Torhh's alliance with Anunnaki creatures"
+    after: "agrees to attempt communion with Aeon Keepers"
+    confidence: high
+  -
+    change_type: none
+    before: "consciousness of an Ash Giant"
+    after: "consciousness of an Ash Giant"
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_03_the_reckoning_012_nephilim_summoning.md
+    line_start: null
+    line_end: null
+    excerpt: "Korrhan expressed skepticism towards Torhh's claims about the alliance with Anunnaki creatures."
+    supports:
+      - identity:character
+  -
+    quote_id: Q-0002
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_03_the_reckoning_012_nephilim_summoning.md
+    line_start: null
+    line_end: null
+    excerpt: "Korrhan agrees to attempt communion with Aeon Keepers, stating, 'Because the alternative is extinction. And I would rather die attempting impossible communion than accepting inevitable annihilation.'"
+    supports:
+      - state_end
+      - relationships
+  -
+    quote_id: Q-0003
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_03_the_reckoning_012_nephilim_summoning.md
+    line_start: null
+    line_end: null
+    excerpt: "Korrhan stated through the communion, its Ash Giant awareness calculating survival probabilities that approached zero."
+    supports:
+      - identity:character
+classification_notes: "Korrhan is a character with significant dialogue and actions that drive the chapter's plot."
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: null
+  -
+    flag_type: none
+    severity: info
+    note: "No continuity issues identified."
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

@@ -1,0 +1,121 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000093
+entity_ref: candidate:korrhan
+display_name: Korrhan
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_03_the_reckoning_010_shadow_returns_second_coming
+book_number: 3
+chapter_id: 010_shadow_returns_second_coming
+chapter_title: "Shadow Returns Second Coming"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_03_the_reckoning_010_shadow_returns_second_coming.md
+source_hash: 05bad888927dc24957c8381f3cd06d5e3052284b756fcdaed168f3b3a6b33473
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_073426
+chapter_role: "Leader of the Ash Giants, facing a crisis and making difficult decisions."
+identity_evidence:
+  named_directly: true
+  speaks: true
+  performs_actions: true
+  receives_description: true
+  has_internal_state: true
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 6
+state_start:
+  location: "Aerie of the Singing Peaks"
+  physical_state: "alert and ready for action"
+  emotional_state: "dread, panic, confusion"
+  social_status: "leader of Ash Giants"
+  faction_alignment: "Ash Giant faction"
+  identity_state: "pride in isolation, suspicion of kin"
+  knowledge_state: "aware of the threat but unsure of its nature"
+state_during:
+  active_conditions:
+    - "perception of multiple presences"
+    - "infiltration by Gruulith"
+  observed_traits:
+    - "brutal economy in attack"
+    - "unpredictable and relentless"
+  active_conflicts:
+    - "defending against the Gruulith"
+    - "seeking to understand their nature"
+  temporary_roles:
+    - "commander of Ash Giants"
+state_end:
+  location: "central spire"
+  physical_state: "injured, fighting for survival"
+  emotional_state: "determined, desperate"
+  social_status: "leader in crisis"
+  faction_alignment: "Ash Giant faction"
+  identity_state: "reconsidering the value of isolation"
+  knowledge_state: "realization that help is needed"
+relationships:
+  -
+    predicate: command
+    subject: Korrhan
+    target: "Ash Giants"
+    evidence: direct
+    confidence: high
+    notes: "Korrhan commands the Ash Giants in battle."
+actions:
+  -
+    action: "commanding to central spire"
+    target: null
+    consequence: "Ash Giants move towards central spire for consolidation"
+    confidence: high
+  -
+    action: "pushing kha further than ever before"
+    target: "Tidecallers and Forest Giants"
+    consequence: "sending out a desperate plea for help"
+    confidence: high
+dialogue:
+  -
+    speaker: Korrhan
+    addressee: null
+    quote_excerpt: "Who commands you? What is it you want? Our land? Our lives?"
+    voice_note: "Expressing confusion and desperation."
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: "Aerie of the Singing Peaks"
+      confidence: high
+    -
+      name: "central spire"
+      confidence: medium
+arc_position:
+  arc_name: "crisis and decision-making"
+  role_in_arc: setup
+  chapter_function: "introducing the crisis and Korrhan's initial response."
+changes:
+  -
+    change_type: identity_reveal
+    before: "pride in isolation, suspicion of kin"
+    after: "reconsidering the value of isolation"
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_03_the_reckoning_010_shadow_returns_second_coming.md
+    line_start: null
+    line_end: null
+    excerpt: "Korrhan—whose burnt-red stone-flesh was a living map of ancient lava flows and mineral veins—felt the disturbance not with his ears, but with his kha, the deep-earth consciousness that all Giants shared."
+    supports:
+      - identity:character
+classification_notes: "Korrhan is a character based on his direct actions and dialogue in this chapter."
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: "No continuity issues identified."
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

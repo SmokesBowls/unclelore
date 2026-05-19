@@ -1,0 +1,108 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000094
+entity_ref: candidate:gruulith
+display_name: Gruulith
+entity_type: artifact
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_03_the_reckoning_010_shadow_returns_second_coming
+book_number: 3
+chapter_id: 010_shadow_returns_second_coming
+chapter_title: "Shadow Returns Second Coming"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_03_the_reckoning_010_shadow_returns_second_coming.md
+source_hash: 05bad888927dc24957c8381f3cd06d5e3052284b756fcdaed168f3b3a6b33473
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_073426
+chapter_role: "Infiltrating and attacking the Ash Giants, representing a threat to their isolation."
+identity_evidence:
+  named_directly: true
+  speaks: false
+  performs_actions: true
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 4
+state_start:
+  location: unknown
+  physical_state: "infiltrated the mountain"
+  emotional_state: none
+  social_status: unknown
+  faction_alignment: unknown
+  identity_state: none
+  knowledge_state: none
+state_during:
+  active_conditions:
+    - camouflage
+    - "brutal economy in attack"
+  observed_traits:
+    - "unpredictable and relentless"
+  active_conflicts:
+    - "attacking Ash Giants"
+  temporary_roles:
+    - infiltrator
+state_end:
+  location: unknown
+  physical_state: "continuing to attack"
+  emotional_state: none
+  social_status: unknown
+  faction_alignment: unknown
+  identity_state: none
+  unresolved_after_chapter:
+    - "infiltration and attack"
+relationships:
+  -
+    predicate: attack
+    subject: Gruulith
+    target: "Ash Giants"
+    evidence: direct
+    confidence: high
+    notes: "Gruulith are attacking the Ash Giants."
+actions:
+  -
+    action: "attacking Ash Giants"
+    target: "Ash Giants"
+    consequence: null
+    confidence: high
+dialogue:
+  []
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: "Aerie of the Singing Peaks"
+      confidence: high
+arc_position:
+  arc_name: "crisis and decision-making"
+  role_in_arc: escalation
+  chapter_function: "representing the threat to Ash Giants' isolation."
+changes:
+  -
+    change_type: none
+    before: unknown
+    after: unknown
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_03_the_reckoning_010_shadow_returns_second_coming.md
+    line_start: null
+    line_end: null
+    excerpt: "The first Gruulith crested the ridge. For a moment, it was indistinguishable from the weather-scarred granite. Then it moved, and the illusion shattered."
+    supports:
+      - identity:artifact
+classification_notes: "Gruulith are artifacts based on their role in attacking the Ash Giants."
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: "No continuity issues identified."
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

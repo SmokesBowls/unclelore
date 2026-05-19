@@ -1,0 +1,130 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000080
+entity_ref: candidate:indigenous_biologicals
+display_name: "indigenous biologicals"
+entity_type: character
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_02_age_of_servitude_008_queens_assessment
+book_number: 2
+chapter_id: 008_queens_assessment
+chapter_title: "Queens Assessment"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_008_queens_assessment.md
+source_hash: 1642460d36fcdae5f41d9e254413dc1dc723720378a86140cf60749252514d81
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_073426
+chapter_role: "Representatives of the native population, negotiating with Eduhauana."
+identity_evidence:
+  named_directly: false
+  speaks: true
+  performs_actions: true
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: false
+  identity_confidence: high
+  identity_signal_count: 4
+state_start:
+  location: "Queen's Descent"
+  physical_state: "not explicitly described"
+  emotional_state: "determined, strategic"
+  social_status: "people of the native population"
+  faction_alignment: "native population"
+  identity_state: "indigenous biologicals"
+  knowledge_state: "awareness of abstract concepts like ownership and cooperation"
+state_during:
+  active_conditions:
+    - "negotiation with Eduhauana"
+    - "resisting Anunnaki occupation"
+  observed_traits:
+    - "awareness of abstract concepts, strategic thinking"
+  active_conflicts:
+    []
+  temporary_roles:
+    []
+state_end:
+  location: "Queen's Descent"
+  physical_state: "not explicitly described"
+  emotional_state: "determined, strategic"
+  social_status: "people of the native population"
+  faction_alignment: "native population"
+  identity_state: "indigenous biologicals"
+  unresolved_after_chapter:
+    - "resistance against Anunnaki occupation"
+relationships:
+  -
+    predicate: "negotiated with"
+    subject: Eduhauana
+    target: "indigenous biologicals"
+    evidence: direct
+    confidence: high
+    notes: "Indigenous biologicals negotiate with Eduhauana."
+actions:
+  -
+    action: "negotiated with Eduhauana"
+    target: Eduhauana
+    consequence: "discussed the terms of resistance and occupation"
+    confidence: high
+  -
+    action: "resisted Anunnaki occupation"
+    target: Anunnaki
+    consequence: "delayed construction, exacted casualties"
+    confidence: high
+dialogue:
+  -
+    speaker: "indigenous biologicals"
+    addressee: Eduhauana
+    quote_excerpt: "Your construction damages our sacred sites."
+    voice_note: null
+  -
+    speaker: "indigenous biologicals"
+    addressee: Eduhauana
+    quote_excerpt: "Why do you do these things?"
+    voice_note: null
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: "Queen's Descent"
+      confidence: high
+arc_position:
+  arc_name: unknown
+  role_in_arc: "conflict party"
+  chapter_function: "negotiates with Eduhauana and resists Anunnaki occupation."
+changes:
+  -
+    change_type: awareness_of_concept
+    before: "initial resistance to Anunnaki occupation"
+    after: "aware of abstract concepts like ownership, law, choice, cooperation"
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_008_queens_assessment.md
+    line_start: null
+    line_end: null
+    excerpt: "These indigenous biologicals are more sophisticated than our initial assessments suggested."
+    supports:
+      - state_during:knowledge_state
+  -
+    quote_id: Q-0002
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_02_age_of_servitude_008_queens_assessment.md
+    line_start: null
+    line_end: null
+    excerpt: "We learned those mathematics once, long ago, when we were driven from our first home. We thought we had escaped them by transforming ourselves into forms too strong to be easily destroyed."
+    supports:
+      - state_during:awareness_of_concept
+classification_notes: "The indigenous biologicals are a key conflict party in this chapter, representing the native population's resistance against Anunnaki occupation."
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: "No continuity issues identified."
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate

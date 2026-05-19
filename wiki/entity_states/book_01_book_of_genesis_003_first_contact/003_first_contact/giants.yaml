@@ -1,0 +1,107 @@
+schema: entity_state
+schema_version: 1
+state_id: EST-000030
+entity_ref: candidate:giants
+display_name: Giants
+entity_type: group
+status: captured
+canon_state: evidence_only
+audit_only: true
+book_id: book_01_book_of_genesis_003_first_contact
+book_number: 1
+chapter_id: 003_first_contact
+chapter_title: "First Contact"
+source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_003_first_contact.md
+source_hash: 49c8bbfa05249f533cef8ee0d46c136c942e0f0e5d5f291aa59c0151433c1ac3
+created_at: 2026-05-17
+updated_at: 2026-05-17
+compiler_run_id: compile_entity_states_20260517_024510
+chapter_role: "practitioners of water manipulation, subjects of the interaction with Nephoretti"
+identity_evidence:
+  named_directly: true
+  speaks: false
+  performs_actions: true
+  receives_description: true
+  has_internal_state: false
+  appears_as_label_only: true
+  identity_confidence: high
+  identity_signal_count: 4
+state_start:
+  location: "shallow water"
+  physical_state: unknown
+  emotional_state: unknown
+  social_status: unknown
+  faction_alignment: unknown
+  identity_state: unknown
+  knowledge_state: unknown
+state_during:
+  active_conditions:
+    - "practicing water manipulation with Nephoretti"
+  observed_traits:
+    []
+  active_conflicts:
+    []
+  temporary_roles:
+    []
+state_end:
+  location: "shallow water"
+  physical_state: unknown
+  emotional_state: unknown
+  social_status: unknown
+  faction_alignment: unknown
+  identity_state: unknown
+  unresolved_after_chapter:
+    []
+relationships:
+  -
+    predicate: "practicing with"
+    subject: Giants
+    target: Nephoretti
+    evidence: direct
+    confidence: high
+    notes: "engaging in the interaction and practice of water manipulation"
+actions:
+  -
+    action: "practicing water manipulation with Nephoretti"
+    target: null
+    consequence: "understanding of the potential for communication, following Senareth's lead"
+    confidence: high
+dialogue:
+  []
+presence:
+  direct_presence: true
+  mentioned_only: false
+  locations:
+    -
+      name: "shallow water"
+      confidence: high
+arc_position:
+  arc_name: unknown
+  role_in_arc: setup
+  chapter_function: "introduction of Giants' role as practitioners of water manipulation, subjects of the interaction with Nephoretti"
+changes:
+  -
+    change_type: knowledge_gain
+    before: unknown
+    after: "understanding of the potential for communication, following Senareth's lead"
+    confidence: high
+evidence:
+  -
+    quote_id: Q-0001
+    source_file: /home/mytruelove/Downloads/obsidianburdenNov25/_mrlore/raw/chapters/book_01_book_of_genesis_003_first_contact.md
+    line_start: null
+    line_end: null
+    excerpt: "They can manipulate vrill, crudely, instinctively, but the capability is there. Which means— They have the potential we were sent to develop."
+    supports:
+      - identity:group
+classification_notes: "Giants are a group based on their role in practicing water manipulation and engaging in interaction with Nephoretti"
+continuity_flags:
+  -
+    flag_type: none
+    severity: info
+    note: "No continuity issues observed"
+compiler_notes:
+  eligible_for_book_profile: true
+  eligible_for_global_profile: false
+  requires_registry_resolution: true
+  suggested_registry_action: create_candidate
