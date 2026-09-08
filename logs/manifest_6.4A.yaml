@@ -71,3 +71,18 @@ bucket_counts:
 output_jsonl: review/identity_review_queue.jsonl
 output_md: review/identity_review_queue.md
 
+---
+tool: identity_review_queue/0.1.0
+timestamp: 2026-05-19T04:48:19Z
+routes_input_timestamp: 2026-05-19T04:48:16Z
+total_records: 405
+routes_hash: 711a5b959f4b665b859f7eeee05c3d09b03365f331228d4e9b37e36d0ac8f729
+signals_hash: a905c7177d72d8acbd6937adda7a6f1f50c2b12d1c4bc90f2202001af65f9e54
+stats_hash: b37e80e4c6076794a0edb3a277651cda843fedfc097eec97bbcb12621db7ae42
+bucket_counts:
+  ambiguous_review_candidate: 294
+  bounded_actor_candidate: 68
+  identity_braid_candidate: 43
+output_jsonl: review/identity_review_queue.jsonl
+output_md: review/identity_review_queue.md
+

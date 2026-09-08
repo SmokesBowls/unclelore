@@ -194,6 +194,46 @@ def load_existing_reviews() -> dict[str, dict[str, Any]]:
     return decisions
 
 
+def load_merge_review_queue() -> list[dict[str, Any]]:
+    """
+    Build a review queue from entries whose last decision is 'merge_review'.
+
+    Reads human_identity_reviews.jsonl, applies last-entry-wins dedup, and
+    returns one synthetic route-compatible record per unresolved surface_form.
+    The record is shaped like a provisional_identity_routes entry so render()
+    works without modification; total_mentions/chapter_count are left at 0
+    and render() falls back to the signal dict for those values.
+    """
+    if not OUTPUT_FILE.exists():
+        return []
+    last: dict[str, dict[str, Any]] = {}
+    with OUTPUT_FILE.open(encoding="utf-8") as fh:
+        for raw in fh:
+            raw = raw.strip()
+            if not raw:
+                continue
+            try:
+                r = json.loads(raw)
+                if "surface_form" in r:
+                    last[r["surface_form"]] = r
+            except json.JSONDecodeError:
+                pass
+    records: list[dict[str, Any]] = []
+    for sf, rec in last.items():
+        if rec.get("decision") != "merge_review":
+            continue
+        orig_route = rec.get("primary_route", "unknown")
+        records.append({
+            "surface_form":    sf,
+            "primary_route":   orig_route,
+            "total_mentions":  0,   # render() falls back to signal dict
+            "chapter_count":   0,
+            "routing_reasons": {},
+            "matched_rules":   [orig_route],
+        })
+    return sorted(records, key=lambda r: r["surface_form"])
+
+
 def pick_snippets(
     sf: str,
     arts_by_sf: dict[str, list[dict[str, Any]]],
@@ -356,7 +396,8 @@ def parse_args() -> argparse.Namespace:
         metavar="BUCKET",
         help=(
             f"Review bucket to load (default: {DEFAULT_BUCKET}).\n"
-            f"Options: {', '.join(sorted(VALID_BUCKETS))}"
+            f"Route buckets: {', '.join(sorted(VALID_BUCKETS))}\n"
+            f"Special:       merge_review  (re-review all unresolved merge_review decisions)"
         ),
     )
     parser.add_argument(
@@ -379,23 +420,31 @@ def parse_args() -> argparse.Namespace:
 def main() -> int:
     args = parse_args()
 
-    if args.bucket not in VALID_BUCKETS:
+    IS_MERGE_REVIEW = (args.bucket == "merge_review")
+
+    if not IS_MERGE_REVIEW and args.bucket not in VALID_BUCKETS:
         print(
             f"[error] Unknown bucket: {args.bucket!r}\n"
-            f"  Valid: {', '.join(sorted(VALID_BUCKETS))}",
+            f"  Valid: merge_review, {', '.join(sorted(VALID_BUCKETS))}",
             file=sys.stderr,
         )
         return 1
 
     # ── Load data ─────────────────────────────────────────────────
     print(f"[init] {TOOL_VERSION}")
-    print(f"[load] routes ...", end=" ", flush=True)
-    try:
-        all_routes = load_routes(args.bucket)
-    except (FileNotFoundError, ValueError, OSError) as exc:
-        print(f"\n[EXIT 1] {exc}", file=sys.stderr)
-        return 1
-    print(f"{len(all_routes)} records in '{args.bucket}'")
+
+    if IS_MERGE_REVIEW:
+        print(f"[load] merge_review queue ...", end=" ", flush=True)
+        all_routes = load_merge_review_queue()
+        print(f"{len(all_routes)} unresolved candidates")
+    else:
+        print(f"[load] routes ...", end=" ", flush=True)
+        try:
+            all_routes = load_routes(args.bucket)
+        except (FileNotFoundError, ValueError, OSError) as exc:
+            print(f"\n[EXIT 1] {exc}", file=sys.stderr)
+            return 1
+        print(f"{len(all_routes)} records in '{args.bucket}'")
 
     print(f"[load] signals ...", end=" ", flush=True)
     try:
@@ -418,7 +467,13 @@ def main() -> int:
     print(f"[load] existing decisions: {len(existing)}")
 
     # ── Build queue ───────────────────────────────────────────────
-    if args.resume:
+    if IS_MERGE_REVIEW:
+        # The queue is already pre-filtered to unresolved (last_decision==merge_review)
+        # entries; --resume is a no-op here.
+        queue = all_routes
+        if args.resume:
+            print(f"[note] --resume has no effect for merge_review (queue is pre-filtered)")
+    elif args.resume:
         queue = [r for r in all_routes if r["surface_form"] not in existing]
         skipped_count = len(all_routes) - len(queue)
         if skipped_count:
@@ -427,7 +482,8 @@ def main() -> int:
         queue = all_routes
 
     if not queue:
-        print(f"[done] No records to review in '{args.bucket}'.")
+        label = "merge_review" if IS_MERGE_REVIEW else args.bucket
+        print(f"[done] No records to review in '{label}'.")
         return 0
 
     # ── Dry-run ───────────────────────────────────────────────────
@@ -499,7 +555,8 @@ def main() -> int:
 
     # Queue exhausted
     _clear()
-    print(f"\n[complete] All {len(queue)} records in '{args.bucket}' reviewed.")
+    label = "merge_review" if IS_MERGE_REVIEW else args.bucket
+    print(f"\n[complete] All {len(queue)} records in '{label}' reviewed.")
     print(f"  Decisions this session: {len(session_decisions)}")
     print(f"  Output: {OUTPUT_FILE.relative_to(MRLORE_ROOT)}")
     return 0

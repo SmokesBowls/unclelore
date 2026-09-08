@@ -428,3 +428,74 @@
 {"surface_form": "Zephyr’s", "primary_route": "ambiguous_review_candidate", "decision": "merge_review", "reviewer_notes": "", "timestamp": "2026-05-18T14:22:15Z", "audit_only": true, "provisional": true}
 {"surface_form": "Zypher", "primary_route": "ambiguous_review_candidate", "decision": "merge_review", "reviewer_notes": "", "timestamp": "2026-05-18T14:22:16Z", "audit_only": true, "provisional": true}
 {"surface_form": "Zypher's", "primary_route": "ambiguous_review_candidate", "decision": "merge_review", "reviewer_notes": "", "timestamp": "2026-05-18T14:22:17Z", "audit_only": true, "provisional": true}
+{"surface_form": "AI", "primary_route": "ambiguous_review_candidate", "decision": "merge_review", "reviewer_notes": "", "timestamp": "2026-05-19T09:35:31Z", "audit_only": true, "provisional": true}
+{"surface_form": "Applicator", "primary_route": "identity_braid_candidate", "decision": "merge_review", "reviewer_notes": "", "timestamp": "2026-05-19T09:36:47Z", "audit_only": true, "provisional": true}
+{"surface_form": "As Keen", "primary_route": "ambiguous_review_candidate", "decision": "rejected", "reviewer_notes": "", "timestamp": "2026-05-19T09:36:57Z", "audit_only": true, "provisional": true}
+{"surface_form": "Asag", "primary_route": "bounded_actor_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:48:54Z", "audit_only": true, "provisional": true}
+{"surface_form": "Blue Mika's", "primary_route": "ambiguous_review_candidate", "decision": "merge_review", "reviewer_notes": "", "timestamp": "2026-05-19T09:49:00Z", "audit_only": true, "provisional": true}
+{"surface_form": "Caelum", "primary_route": "ambiguous_review_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:49:03Z", "audit_only": true, "provisional": true}
+{"surface_form": "Caelum's", "primary_route": "ambiguous_review_candidate", "decision": "merge_review", "reviewer_notes": "", "timestamp": "2026-05-19T09:49:09Z", "audit_only": true, "provisional": true}
+{"surface_form": "Asag", "primary_route": "bounded_actor_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:51:24Z", "audit_only": true, "provisional": true}
+{"surface_form": "Blue Mika's", "primary_route": "ambiguous_review_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:51:27Z", "audit_only": true, "provisional": true}
+{"surface_form": "Caelum", "primary_route": "ambiguous_review_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:51:28Z", "audit_only": true, "provisional": true}
+{"surface_form": "Caelum's", "primary_route": "ambiguous_review_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:51:29Z", "audit_only": true, "provisional": true}
+{"surface_form": "Captain Ulric", "primary_route": "ambiguous_review_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:51:30Z", "audit_only": true, "provisional": true}
+{"surface_form": "Claude", "primary_route": "bounded_actor_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:51:32Z", "audit_only": true, "provisional": true}
+{"surface_form": "Companion Protocol", "primary_route": "bounded_actor_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:51:36Z", "audit_only": true, "provisional": true}
+{"surface_form": "Dragon Mail's", "primary_route": "ambiguous_review_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:51:51Z", "audit_only": true, "provisional": true}
+{"surface_form": "Eduhauana", "primary_route": "ambiguous_review_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:51:52Z", "audit_only": true, "provisional": true}
+{"surface_form": "Ember", "primary_route": "ambiguous_review_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:51:53Z", "audit_only": true, "provisional": true}
+{"surface_form": "Ember's", "primary_route": "ambiguous_review_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:51:54Z", "audit_only": true, "provisional": true}
+{"surface_form": "Enki's", "primary_route": "ambiguous_review_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:51:55Z", "audit_only": true, "provisional": true}
+{"surface_form": "Enlil's", "primary_route": "identity_braid_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:51:56Z", "audit_only": true, "provisional": true}
+{"surface_form": "Geralt", "primary_route": "bounded_actor_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:51:57Z", "audit_only": true, "provisional": true}
+{"surface_form": "Granite's", "primary_route": "ambiguous_review_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:51:58Z", "audit_only": true, "provisional": true}
+{"surface_form": "Green Mika's", "primary_route": "ambiguous_review_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:51:58Z", "audit_only": true, "provisional": true}
+{"surface_form": "Herald's", "primary_route": "ambiguous_review_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:52:00Z", "audit_only": true, "provisional": true}
+{"surface_form": "Isla's", "primary_route": "identity_braid_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:52:00Z", "audit_only": true, "provisional": true}
+{"surface_form": "Jorik", "primary_route": "ambiguous_review_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:52:01Z", "audit_only": true, "provisional": true}
+{"surface_form": "Jorik’s", "primary_route": "ambiguous_review_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:52:02Z", "audit_only": true, "provisional": true}
+{"surface_form": "Kael's", "primary_route": "ambiguous_review_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:52:02Z", "audit_only": true, "provisional": true}
+{"surface_form": "Korr's", "primary_route": "ambiguous_review_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:52:03Z", "audit_only": true, "provisional": true}
+{"surface_form": "Luminara", "primary_route": "ambiguous_review_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:52:04Z", "audit_only": true, "provisional": true}
+{"surface_form": "Luminara’s", "primary_route": "ambiguous_review_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:52:05Z", "audit_only": true, "provisional": true}
+{"surface_form": "Lyra's", "primary_route": "identity_braid_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:52:05Z", "audit_only": true, "provisional": true}
+{"surface_form": "Marduk's", "primary_route": "ambiguous_review_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:52:07Z", "audit_only": true, "provisional": true}
+{"surface_form": "Mora", "primary_route": "ambiguous_review_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:52:08Z", "audit_only": true, "provisional": true}
+{"surface_form": "Mora's", "primary_route": "ambiguous_review_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:52:08Z", "audit_only": true, "provisional": true}
+{"surface_form": "Mora’s", "primary_route": "ambiguous_review_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:52:09Z", "audit_only": true, "provisional": true}
+{"surface_form": "Nameless One", "primary_route": "ambiguous_review_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:52:10Z", "audit_only": true, "provisional": true}
+{"surface_form": "Oreck's", "primary_route": "identity_braid_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:52:12Z", "audit_only": true, "provisional": true}
+{"surface_form": "Overseer", "primary_route": "ambiguous_review_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:52:13Z", "audit_only": true, "provisional": true}
+{"surface_form": "Overseer's", "primary_route": "ambiguous_review_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:52:15Z", "audit_only": true, "provisional": true}
+{"surface_form": "Overseers", "primary_route": "ambiguous_review_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:52:17Z", "audit_only": true, "provisional": true}
+{"surface_form": "Pazuzu's", "primary_route": "ambiguous_review_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:52:18Z", "audit_only": true, "provisional": true}
+{"surface_form": "Queen", "primary_route": "identity_braid_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:52:19Z", "audit_only": true, "provisional": true}
+{"surface_form": "Red Mika", "primary_route": "ambiguous_review_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:52:21Z", "audit_only": true, "provisional": true}
+{"surface_form": "Red Mika's", "primary_route": "ambiguous_review_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:52:22Z", "audit_only": true, "provisional": true}
+{"surface_form": "Rongtai's", "primary_route": "identity_braid_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:52:23Z", "audit_only": true, "provisional": true}
+{"surface_form": "Sage", "primary_route": "ambiguous_review_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:52:24Z", "audit_only": true, "provisional": true}
+{"surface_form": "Sage's", "primary_route": "ambiguous_review_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:52:24Z", "audit_only": true, "provisional": true}
+{"surface_form": "Sera's", "primary_route": "identity_braid_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:52:26Z", "audit_only": true, "provisional": true}
+{"surface_form": "Sera’s", "primary_route": "ambiguous_review_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:52:26Z", "audit_only": true, "provisional": true}
+{"surface_form": "The Draco", "primary_route": "ambiguous_review_candidate", "decision": "rejected", "reviewer_notes": "", "timestamp": "2026-05-19T09:52:37Z", "audit_only": true, "provisional": true}
+{"surface_form": "The Dregans", "primary_route": "ambiguous_review_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:52:46Z", "audit_only": true, "provisional": true}
+{"surface_form": "The Five Mikas", "primary_route": "ambiguous_review_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:52:46Z", "audit_only": true, "provisional": true}
+{"surface_form": "The Mikas", "primary_route": "ambiguous_review_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:52:47Z", "audit_only": true, "provisional": true}
+{"surface_form": "The Nameless One", "primary_route": "ambiguous_review_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:52:48Z", "audit_only": true, "provisional": true}
+{"surface_form": "The Nameless One's", "primary_route": "ambiguous_review_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:52:49Z", "audit_only": true, "provisional": true}
+{"surface_form": "The Queen", "primary_route": "identity_braid_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:52:50Z", "audit_only": true, "provisional": true}
+{"surface_form": "The Queen's", "primary_route": "identity_braid_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:52:51Z", "audit_only": true, "provisional": true}
+{"surface_form": "The Sage", "primary_route": "ambiguous_review_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:52:52Z", "audit_only": true, "provisional": true}
+{"surface_form": "The Sage's", "primary_route": "ambiguous_review_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:52:52Z", "audit_only": true, "provisional": true}
+{"surface_form": "Torhh's", "primary_route": "ambiguous_review_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:52:54Z", "audit_only": true, "provisional": true}
+{"surface_form": "Torrhen's", "primary_route": "ambiguous_review_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:52:54Z", "audit_only": true, "provisional": true}
+{"surface_form": "Tran's", "primary_route": "identity_braid_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:52:55Z", "audit_only": true, "provisional": true}
+{"surface_form": "Vale’s", "primary_route": "ambiguous_review_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:52:56Z", "audit_only": true, "provisional": true}
+{"surface_form": "Xal'Zirith's", "primary_route": "ambiguous_review_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:52:57Z", "audit_only": true, "provisional": true}
+{"surface_form": "Xal'Zirith’s", "primary_route": "ambiguous_review_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:52:57Z", "audit_only": true, "provisional": true}
+{"surface_form": "Zaron", "primary_route": "identity_braid_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:52:58Z", "audit_only": true, "provisional": true}
+{"surface_form": "Zeph", "primary_route": "ambiguous_review_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:52:59Z", "audit_only": true, "provisional": true}
+{"surface_form": "Zephyr’s", "primary_route": "ambiguous_review_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:52:59Z", "audit_only": true, "provisional": true}
+{"surface_form": "Zypher", "primary_route": "ambiguous_review_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:53:00Z", "audit_only": true, "provisional": true}
+{"surface_form": "Zypher's", "primary_route": "ambiguous_review_candidate", "decision": "approved", "reviewer_notes": "", "timestamp": "2026-05-19T09:53:00Z", "audit_only": true, "provisional": true}

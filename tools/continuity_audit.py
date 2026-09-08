@@ -201,7 +201,8 @@ KNOWN_ALIAS_PAIRS = [
     (r"\bNehereti\b",    "Nephoretti"),
     (r"\bNephrati\b",    "Nephoretti"),
     (r"\bAaon Keepers?\b", "Aeon Keepers"),
-    (r"\bGraviton[^i]",  None),
+    (r"\bGravitoni\b", "Graviton"),
+    (r"\bgravitoni\b", "Graviton"),
 ]
 
 def detect_alias_drift(text: str, source_rel: str, registry: dict) -> list[dict]:

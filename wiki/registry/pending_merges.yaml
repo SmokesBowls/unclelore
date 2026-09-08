@@ -1,7 +1,7 @@
 # MrLore Registry — Pending Merges
-# Generated: 2026-05-18
+# Generated: 2026-05-19
 # Tool: tools/registry_builder.py
-# merge_count: 67
+# merge_count: 66
 # Each entry requires human resolution before a standalone entity is created.
 
 pending_merges:
@@ -22,7 +22,7 @@ pending_merges:
     - Minimal
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Applicator ──
   surface_form: Applicator
@@ -41,7 +41,7 @@ pending_merges:
     - Zaron's
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── As Keen ──
   surface_form: As Keen
@@ -60,7 +60,7 @@ pending_merges:
     - Vi
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Asag ──
   surface_form: Asag
@@ -79,7 +79,7 @@ pending_merges:
     - IMPOSSIBLE
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Blue Mika's ──
   surface_form: Blue Mika's
@@ -98,7 +98,7 @@ pending_merges:
     - Precisely
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Caelum ──
   surface_form: Caelum
@@ -117,7 +117,7 @@ pending_merges:
     - Thang
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Caelum's ──
   surface_form: Caelum's
@@ -136,7 +136,7 @@ pending_merges:
     - Nefretti
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Captain Ulric ──
   surface_form: Captain Ulric
@@ -155,7 +155,7 @@ pending_merges:
     - Lyra's
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Claude ──
   surface_form: Claude
@@ -174,7 +174,7 @@ pending_merges:
     - Rongtai
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Companion Protocol ──
   surface_form: Companion Protocol
@@ -192,7 +192,7 @@ pending_merges:
     - Run
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Dragon Mail's ──
   surface_form: Dragon Mail's
@@ -211,7 +211,7 @@ pending_merges:
     - It's
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Eduhauana ──
   surface_form: Eduhauana
@@ -230,7 +230,7 @@ pending_merges:
     - Efficient
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Ember ──
   surface_form: Ember
@@ -249,7 +249,7 @@ pending_merges:
     - Breathe
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Ember's ──
   surface_form: Ember's
@@ -266,7 +266,7 @@ pending_merges:
     - Gael's
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Enki's ──
   surface_form: Enki's
@@ -283,7 +283,7 @@ pending_merges:
     - Damu
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Enlil's ──
   surface_form: Enlil's
@@ -302,26 +302,7 @@ pending_merges:
     - Nammu's
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
-
-  # ── Geralt ──
-  surface_form: Geralt
-  primary_route: bounded_actor_candidate
-  reviewer_notes: null
-  total_mentions: 1585
-  chapter_count: 37
-  book_count: 8
-  first_seen_chapter: book_05_the_nameless_one_ch024
-  last_seen_chapter: book_12_forged_identity_ch068
-  raw_variants:
-    - Geralt
-  top_cooccurrences:
-    - Oreck
-    - Mika
-    - Dragon
-  merge_parent: null
-  merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Granite's ──
   surface_form: Granite's
@@ -340,7 +321,7 @@ pending_merges:
     - Peace
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Green Mika's ──
   surface_form: Green Mika's
@@ -359,7 +340,7 @@ pending_merges:
     - Akashic
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Herald's ──
   surface_form: Herald's
@@ -378,7 +359,7 @@ pending_merges:
     - Sovereign's
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Isla's ──
   surface_form: Isla's
@@ -397,7 +378,7 @@ pending_merges:
     - Keen
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Jorik ──
   surface_form: Jorik
@@ -416,7 +397,7 @@ pending_merges:
     - Spire
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Jorik’s ──
   surface_form: Jorik’s
@@ -435,7 +416,7 @@ pending_merges:
     - FIRE
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Kael's ──
   surface_form: Kael's
@@ -454,7 +435,7 @@ pending_merges:
     - Escaped
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Korr's ──
   surface_form: Korr's
@@ -473,7 +454,7 @@ pending_merges:
     - I've
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Luminara ──
   surface_form: Luminara
@@ -492,7 +473,7 @@ pending_merges:
     - Earth
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Luminara’s ──
   surface_form: Luminara’s
@@ -511,7 +492,7 @@ pending_merges:
     - Prime
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Lyra's ──
   surface_form: Lyra's
@@ -530,7 +511,7 @@ pending_merges:
     - Keen
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Marduk's ──
   surface_form: Marduk's
@@ -549,7 +530,7 @@ pending_merges:
     - Negative
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Mora ──
   surface_form: Mora
@@ -568,7 +549,7 @@ pending_merges:
     - Come
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Mora's ──
   surface_form: Mora's
@@ -587,7 +568,7 @@ pending_merges:
     - Whatever
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Mora’s ──
   surface_form: Mora’s
@@ -604,7 +585,7 @@ pending_merges:
     - Seren
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Nameless One ──
   surface_form: Nameless One
@@ -623,7 +604,7 @@ pending_merges:
     - Currently
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Oreck's ──
   surface_form: Oreck's
@@ -642,7 +623,7 @@ pending_merges:
     - Anunnaki
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Overseer ──
   surface_form: Overseer
@@ -661,7 +642,7 @@ pending_merges:
     - Coming
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Overseer's ──
   surface_form: Overseer's
@@ -680,7 +661,7 @@ pending_merges:
     - Geralt
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Overseers ──
   surface_form: Overseers
@@ -699,7 +680,7 @@ pending_merges:
     - Reptilian
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Pazuzu's ──
   surface_form: Pazuzu's
@@ -718,7 +699,7 @@ pending_merges:
     - Didn't
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Queen ──
   surface_form: Queen
@@ -737,7 +718,7 @@ pending_merges:
     - Earth
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Red Mika ──
   surface_form: Red Mika
@@ -756,7 +737,7 @@ pending_merges:
     - Lyra's
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Red Mika's ──
   surface_form: Red Mika's
@@ -775,7 +756,7 @@ pending_merges:
     - Mika's
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Rongtai's ──
   surface_form: Rongtai's
@@ -794,7 +775,7 @@ pending_merges:
     - Vi
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Sage ──
   surface_form: Sage
@@ -813,7 +794,7 @@ pending_merges:
     - Tongue
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Sage's ──
   surface_form: Sage's
@@ -832,7 +813,7 @@ pending_merges:
     - Students
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Sera's ──
   surface_form: Sera's
@@ -851,7 +832,7 @@ pending_merges:
     - Vale's
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Sera’s ──
   surface_form: Sera’s
@@ -870,7 +851,7 @@ pending_merges:
     - Kael
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── The Draco ──
   surface_form: The Draco
@@ -889,7 +870,7 @@ pending_merges:
     - Crimson
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── The Dregans ──
   surface_form: The Dregans
@@ -908,7 +889,7 @@ pending_merges:
     - Flame
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── The Five Mikas ──
   surface_form: The Five Mikas
@@ -927,7 +908,7 @@ pending_merges:
     - Violet
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── The Mikas ──
   surface_form: The Mikas
@@ -946,7 +927,7 @@ pending_merges:
     - Fragment
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── The Nameless One ──
   surface_form: The Nameless One
@@ -965,7 +946,7 @@ pending_merges:
     - Reptilian
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── The Nameless One's ──
   surface_form: The Nameless One's
@@ -984,7 +965,7 @@ pending_merges:
     - Anunnaki's
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── The Queen ──
   surface_form: The Queen
@@ -1003,7 +984,7 @@ pending_merges:
     - Am
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── The Queen's ──
   surface_form: The Queen's
@@ -1022,7 +1003,7 @@ pending_merges:
     - Earth
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── The Sage ──
   surface_form: The Sage
@@ -1041,7 +1022,7 @@ pending_merges:
     - Culling
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── The Sage's ──
   surface_form: The Sage's
@@ -1058,7 +1039,7 @@ pending_merges:
     - Aethon
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Torhh's ──
   surface_form: Torhh's
@@ -1077,7 +1058,7 @@ pending_merges:
     - Kyreth's
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Torrhen's ──
   surface_form: Torrhen's
@@ -1096,7 +1077,7 @@ pending_merges:
     - Deep
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Tran's ──
   surface_form: Tran's
@@ -1115,7 +1096,7 @@ pending_merges:
     - Zaron's
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Vale’s ──
   surface_form: Vale’s
@@ -1134,7 +1115,7 @@ pending_merges:
     - Wait
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Xal'Zirith's ──
   surface_form: Xal'Zirith's
@@ -1152,7 +1133,7 @@ pending_merges:
     - Mika
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Xal'Zirith’s ──
   surface_form: Xal'Zirith’s
@@ -1169,7 +1150,7 @@ pending_merges:
     - Five
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Zaron ──
   surface_form: Zaron
@@ -1188,7 +1169,7 @@ pending_merges:
     - Tran
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Zeph ──
   surface_form: Zeph
@@ -1205,7 +1186,7 @@ pending_merges:
     - Igigi
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Zephyr’s ──
   surface_form: Zephyr’s
@@ -1224,7 +1205,7 @@ pending_merges:
     - Stopped
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Zypher ──
   surface_form: Zypher
@@ -1243,7 +1224,7 @@ pending_merges:
     - Ah
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 
   # ── Zypher's ──
   surface_form: Zypher's
@@ -1262,5 +1243,5 @@ pending_merges:
     - Geralt
   merge_parent: null
   merge_status: pending_human_review
-  created_at: 2026-05-18
+  created_at: 2026-05-19
 

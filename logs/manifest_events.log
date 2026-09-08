@@ -29,3 +29,14 @@
 2026-05-11 07:01:00 action=write count=8 errors=0 source=raw/cocoindex_delta.txt
 2026-05-11 07:08:53 action=collect count=8 cleared=8 source=cocoindex_flags
 2026-05-11 07:09:36 action=write count=8 errors=0 source=raw/cocoindex_delta.txt
+2026-06-07 09:47:36 action=write count=174 errors=8 source=tier0-discovery
+2026-06-07 10:45:33 action=write count=174 errors=8 source=tier0-discovery
+2026-06-07 17:00:49 action=write count=174 errors=8 source=tier0-discovery
+2026-06-07 17:11:08 action=write count=174 errors=8 source=tier0-discovery
+2026-06-07 17:11:35 action=write count=174 errors=8 source=tier0-discovery
+2026-06-07 17:26:28 action=write count=174 errors=8 source=tier0-discovery
+2026-06-07 17:27:36 action=write count=135 errors=8 source=tier0-discovery
+2026-06-07 17:51:52 action=write count=135 errors=8 source=tier0-discovery
+2026-06-07 17:59:45 action=write count=135 errors=0 source=tier0-discovery
+2026-06-07 18:01:50 action=write count=135 errors=0 source=tier0-discovery
+2026-06-07 19:48:40 action=write count=135 errors=0 source=tier0-discovery

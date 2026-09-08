@@ -68,6 +68,55 @@ ROUTE_DEFAULT_TYPE = {
 }
 
 
+# ── manual overrides ──────────────────────────────────────────────────────────
+
+# Entity type corrections: override wiki-directory detection.
+# Needed when an entity has wiki files in multiple directories and the wrong
+# one wins (last-write-wins iteration order).
+# Value: (entity_type, wiki_path_or_None)
+TYPE_OVERRIDES: dict = {
+    "Vale":      ("character", "wiki/characters/Vale.md"),
+    "Luminaire": ("character", "wiki/characters/Luminaire.md"),
+}
+
+# Entities promoted from merge_review to full registry entries by human decision.
+# These bypass the merge_review bucket and receive a canonical entity_id.
+# Key: surface_form
+MANUAL_PROMOTIONS: dict = {
+    "Geralt": {
+        "entity_type": "character",
+        "promotion_reason": "incarnation_chain_anchor",
+    },
+}
+
+# Incarnation chains for multi-form entities.
+# Ordered sequence of identity states an entity has taken across the narrative.
+# entity_ref is resolved at build time where possible; null otherwise.
+INCARNATION_CHAINS: dict = {
+    "Geralt": {
+        "authority": "human_review",
+        "status": "provisional",
+        "sequence": [
+            {"order": 1, "identity": "The Nameless One",         "entity_ref": None, "notes": "earliest known form"},
+            {"order": 2, "identity": "Geralt",                   "entity_ref": None, "notes": "canonical anchor form"},
+            {"order": 3, "identity": "Ragnarok",                 "entity_ref": None, "notes": None},
+            {"order": 4, "identity": "Man Who Flew Into The Sun", "entity_ref": None, "notes": None},
+            {"order": 5, "identity": "Mr GPT",                   "entity_ref": None, "notes": "final known form"},
+        ],
+    },
+}
+
+# Accessories attached to a specific entity's identity state.
+# entity_ref is resolved at build time when the named entity has a registry entry.
+ACCESSORIES: dict = {
+    "Geralt": [
+        {"name": "Applicator",         "entity_ref": None, "relationship": "carried_item", "state_scope": "geralt", "status": "candidate"},
+        {"name": "Companion Protocol", "entity_ref": None, "relationship": "carried_item", "state_scope": "geralt", "status": "candidate"},
+        {"name": "Luminaire",          "entity_ref": None, "relationship": "carried_item", "state_scope": "geralt", "status": "candidate"},
+    ],
+}
+
+
 # ── loaders ──────────────────────────────────────────────────────────────────
 
 def load_reviews(path):
@@ -126,11 +175,14 @@ WIKI_TYPE_INDEX = _build_wiki_type_index()
 
 
 def detect_entity_type(surface_form, primary_route):
+    # Manual overrides take priority over wiki-directory detection.
+    if surface_form in TYPE_OVERRIDES:
+        return TYPE_OVERRIDES[surface_form]
     key = surface_form.lower()
     if key in WIKI_TYPE_INDEX:
         return WIKI_TYPE_INDEX[key]
-    # Possessive drift: "Name's" → treat as character
-    if surface_form.endswith("’s") or surface_form.endswith("'s"):
+    # Possessive drift: "Name’s" → treat as character
+    if surface_form.endswith("’s") or surface_form.endswith("’s"):
         return "character", None
     return ROUTE_DEFAULT_TYPE.get(primary_route, "unknown"), None
 
@@ -307,7 +359,8 @@ def entity_to_yaml(entity, indent=0):
 
 # ── registry symbol builder ───────────────────────────────────────────────────
 
-def build_entity_symbol(sf, entity_id, entity_type, wiki_path, sf_stat, queue_entry):
+def build_entity_symbol(sf, entity_id, entity_type, wiki_path, sf_stat, queue_entry,
+                        entity_ids=None):
     raw_variants = sf_stat.get("raw_variants", [])
     aliases = []
     for v in raw_variants:
@@ -319,7 +372,7 @@ def build_entity_symbol(sf, entity_id, entity_type, wiki_path, sf_stat, queue_en
                 "first_seen": sf_stat.get("first_seen_chapter"),
             })
     # Mark possessive-drift forms
-    if sf.endswith("’s") or sf.endswith("'s"):
+    if sf.endswith("’s") or sf.endswith("’s"):
         aliases.append({
             "name": sf,
             "alias_type": "possessive_drift",
@@ -384,6 +437,24 @@ def build_entity_symbol(sf, entity_id, entity_type, wiki_path, sf_stat, queue_en
             "updated_at": TODAY,
         },
     }
+
+    # ── optional extended fields ──────────────────────────────────────────────
+
+    chain = INCARNATION_CHAINS.get(sf)
+    if chain:
+        symbol["incarnation_chain"] = chain
+
+    raw_accs = ACCESSORIES.get(sf, [])
+    if raw_accs:
+        accessories = []
+        for acc in raw_accs:
+            a = dict(acc)
+            # Resolve entity_ref when the named accessory has a registry entry.
+            if entity_ids and a.get("entity_ref") is None and a["name"] in entity_ids:
+                a["entity_ref"] = entity_ids[a["name"]]
+            accessories.append(a)
+        symbol["accessories"] = accessories
+
     return symbol
 
 
@@ -425,8 +496,8 @@ def build_registry_md(entities, pending_merges):
         "",
         "Status: `candidate` | Canon state: `provisional` | Authority: `human_review`",
         "",
-        "| Entity ID | Display Name | Type | Books | Chapters | Route |",
-        "| --- | --- | --- | --- | --- | --- |",
+        "| Entity ID | Display Name | Type | Books | Chapters | Route | Notes |",
+        "| --- | --- | --- | --- | --- | --- | --- |",
     ]
 
     for sym in sorted(entities, key=lambda e: e["entity_id"]):
@@ -437,7 +508,16 @@ def build_registry_md(entities, pending_merges):
         books = stats.get("book_count", len(sym.get("book_appearances", [])))
         chaps = stats.get("chapter_count", len(sym.get("chapter_appearances", [])))
         route = stats.get("primary_route") or ""
-        lines.append(f"| {eid} | {name} | {etype} | {books} | {chaps} | {route} |")
+        notes_parts = []
+        if "incarnation_chain" in sym:
+            chain_len = len(sym["incarnation_chain"].get("sequence", []))
+            notes_parts.append(f"chain({chain_len})")
+        if "accessories" in sym:
+            notes_parts.append(f"acc({len(sym['accessories'])})")
+        if sym.get("review", {}).get("review_reason") == "manually_promoted":
+            notes_parts.append("promoted")
+        notes = " ".join(notes_parts) if notes_parts else ""
+        lines.append(f"| {eid} | {name} | {etype} | {books} | {chaps} | {route} | {notes} |")
 
     lines += [
         "",
@@ -520,6 +600,20 @@ def main():
 
     print(f"  approved={len(approved)}  merge_review={len(merge_review)}  rejected={len(rejected)}")
 
+    # Apply MANUAL_PROMOTIONS: move entities from merge_review → approved.
+    for sf, meta in MANUAL_PROMOTIONS.items():
+        if sf not in approved:
+            source = merge_review.pop(sf, None)
+            approved[sf] = {
+                "decision": "approved",
+                "primary_route": (source or {}).get("primary_route", ""),
+                "reviewer_notes": f"manually_promoted: {meta['promotion_reason']}",
+            }
+            print(f"  [promote] {sf!r} → entities (reason: {meta['promotion_reason']})")
+        else:
+            # Already approved; ensure it's not also in merge_review.
+            merge_review.pop(sf, None)
+
     # Collect (surface_form, entity_type, wiki_path) for ID assignment
     type_lookup = {}
     for sf in approved:
@@ -541,13 +635,13 @@ def main():
         eid   = entity_ids[sf]
         etype, wpath = type_lookup[sf]
         qentry = queue.get(sf)
-        sym = build_entity_symbol(sf, eid, etype, wpath, stat, qentry)
+        sym = build_entity_symbol(sf, eid, etype, wpath, stat, qentry, entity_ids)
         entities.append(sym)
 
     if missing_stats:
         print(f"  [WARN] {len(missing_stats)} approved entities missing from surface_form_stats: {missing_stats}")
 
-    # Build pending merges
+    # Build pending merges (promoted entities already removed from merge_review above)
     pending_merges = []
     for sf in merge_review:
         stat   = sf_stats.get(sf, {})

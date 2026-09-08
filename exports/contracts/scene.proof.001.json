@@ -1,0 +1,33 @@
+{
+  "contract_version": "0.1.0",
+  "contract_type": "semantic_scene_contract_cut_1",
+  "scene": {
+    "id": "scene.proof.001",
+    "scale": { "grid_unit": "cell", "width": 48, "height": 48 }
+  },
+  "regions": [
+    {
+      "id": "region.001",
+      "bounds": {
+        "shape": "circle",
+        "center": { "x": 24, "y": 24 },
+        "radius": 10
+      },
+      "topology": {
+        "form": "depression",
+        "elevation_bias": -0.35,
+        "surface_roughness": 0.22
+      },
+      "surface": {
+        "material": "ash"
+      },
+      "visibility": {
+        "fog_density": 0.4
+      }
+    }
+  ],
+  "validation": {
+    "mechanics_prose_free": true,
+    "runtime_safe": true
+  }
+}

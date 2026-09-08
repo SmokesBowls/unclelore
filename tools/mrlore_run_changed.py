@@ -89,7 +89,12 @@ def run_ingest_stub(vault_rel: str, dry_run: bool = False) -> dict:
     """Call ingest_source_stub.py for one file. Returns result dict."""
     stub_script = TOOLS_DIR / "ingest_source_stub.py"
     if not stub_script.exists():
-        return {"status": "error", "message": "ingest_source_stub.py not found"}
+        return {
+            "status": "error",
+            "path": vault_rel,
+            "message": "ingest_source_stub.py not found",
+            "code": 1,
+        }
 
     if dry_run:
         return {"status": "dry-run", "path": vault_rel}
@@ -328,6 +333,12 @@ def main() -> int:
     print(f"[run_changed] Report: {report}")
 
     # ── Exit Code Routing ──────────────────────────────────────────────────
+    ingest_errors = sum(1 for r in results if r["status"] == "error")
+
+    if ingest_errors > 0:
+        print(f"[run_changed] EXIT 1 — ingest failed for {ingest_errors} source(s)")
+        sys.exit(1)
+
     if not lint_ok:
         print("[run_changed] EXIT 1 — lint failed")
         return 1

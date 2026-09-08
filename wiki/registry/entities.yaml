@@ -1,8 +1,8 @@
 # MrLore Registry — Entity Symbol Table
-# Generated: 2026-05-18
+# Generated: 2026-05-19
 # Tool: tools/registry_builder.py
 # schema: registry_symbol v1
-# entity_count: 110
+# entity_count: 111
 
 entities:
 
@@ -50,7 +50,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 13
@@ -60,76 +60,13 @@ entities:
     top_cooccurrences:
       - Geralt
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── ART-0002-luminaire ──
+  # ── ART-0002-observer ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: ART-0002-luminaire
-  display_name: Luminaire
-  canonical_name: Luminaire
-  entity_type: artifact
-  status: candidate
-  canon_state: provisional
-  authority_level: human_review
-  aliases: []
-  book_appearances:
-    - book_id: book_06_the_ragnarok
-      book_number: 6
-      profile_path: null
-      confidence: low
-    - book_id: book_25_the_seam_evolutionary_south
-      book_number: 25
-      profile_path: null
-      confidence: low
-  chapter_appearances:
-    - chapter_id: book_06_the_ragnarok_ch034
-      state_id: null
-      source_file: null
-      presence_type: direct
-      confidence: low
-    - chapter_id: book_25_the_seam_evolutionary_south_ch126
-      state_id: null
-      source_file: null
-      presence_type: direct
-      confidence: low
-  identity_states:
-    - state_name: baseline
-      scope: null
-      status: provisional
-  merge_split:
-    merge_status: none
-    split_status: none
-    related_symbols: []
-  evidence:
-    primary_sources:
-      - wiki/artifacts/Luminaire.md
-    entity_states: []
-    book_profiles: []
-    canon_decisions: []
-  review:
-    needs_review: false
-    review_reason: null
-    last_reviewed: 2026-05-18
-    reviewed_by: human
-  signal_stats:
-    total_mentions: 163
-    chapter_count: 25
-    book_count: 9
-    primary_route: identity_braid_candidate
-    top_cooccurrences:
-      - Geralt
-      - Architect
-      - Spire
-  timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
-
-  # ── ART-0003-observer ──
-  schema: registry_symbol
-  schema_version: 1
-  entity_id: ART-0003-observer
+  entity_id: ART-0002-observer
   display_name: Observer
   canonical_name: Observer
   entity_type: artifact
@@ -174,7 +111,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 38
@@ -186,8 +123,8 @@ entities:
       - Lentharis
       - Spire
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
   # ── CHR-0001-anu ──
   schema: registry_symbol
@@ -237,7 +174,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 22
@@ -249,8 +186,8 @@ entities:
       - Zephyr's
       - Enlil
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
   # ── CHR-0002-blue-mika ──
   schema: registry_symbol
@@ -300,7 +237,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 47
@@ -312,8 +249,8 @@ entities:
       - Vi
       - Tran
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
   # ── CHR-0003-brak ──
   schema: registry_symbol
@@ -363,7 +300,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 101
@@ -375,8 +312,8 @@ entities:
       - Vale
       - Sera
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
   # ── CHR-0004-celly ──
   schema: registry_symbol
@@ -426,7 +363,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 15
@@ -438,8 +375,8 @@ entities:
       - Mika
       - Roric
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
   # ── CHR-0005-damu ──
   schema: registry_symbol
@@ -489,7 +426,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 17
@@ -501,8 +438,8 @@ entities:
       - Darkness
       - Enki
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
   # ── CHR-0006-deryn ──
   schema: registry_symbol
@@ -542,7 +479,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 5
@@ -553,8 +490,8 @@ entities:
       - Nephoretti
       - Several
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
   # ── CHR-0007-dren ──
   schema: registry_symbol
@@ -604,7 +541,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 12
@@ -616,8 +553,8 @@ entities:
       - Kael
       - Look
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
   # ── CHR-0008-elara ──
   schema: registry_symbol
@@ -667,7 +604,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 36
@@ -679,8 +616,8 @@ entities:
       - Geralt
       - Behind
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
   # ── CHR-0009-elyraen ──
   schema: registry_symbol
@@ -730,7 +667,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 25
@@ -742,8 +679,8 @@ entities:
       - Nephoretti
       - Giant
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
   # ── CHR-0010-enara ──
   schema: registry_symbol
@@ -789,7 +726,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 5
@@ -801,8 +738,8 @@ entities:
       - Long
       - Peace
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
   # ── CHR-0011-enheduanna ──
   schema: registry_symbol
@@ -852,7 +789,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 38
@@ -864,8 +801,8 @@ entities:
       - Starbound
       - Anunnaki
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
   # ── CHR-0012-enki ──
   schema: registry_symbol
@@ -915,7 +852,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 43
@@ -927,8 +864,8 @@ entities:
       - Something
       - Annunaki
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
   # ── CHR-0013-enlil ──
   schema: registry_symbol
@@ -978,7 +915,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 121
@@ -990,8 +927,8 @@ entities:
       - Sera
       - Igigi
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
   # ── CHR-0014-gaiana ──
   schema: registry_symbol
@@ -1037,7 +974,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 23
@@ -1049,8 +986,8 @@ entities:
       - GPT
       - Giants
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
   # ── CHR-0015-garric ──
   schema: registry_symbol
@@ -1096,7 +1033,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 15
@@ -1108,8 +1045,8 @@ entities:
       - Falcon
       - Ridge
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
   # ── CHR-0016-general-marduk ──
   schema: registry_symbol
@@ -1159,7 +1096,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 4
@@ -1171,13 +1108,116 @@ entities:
       - Earth
       - Queen
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0017-granite ──
+  # ── CHR-0017-geralt ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0017-granite
+  entity_id: CHR-0017-geralt
+  display_name: Geralt
+  canonical_name: Geralt
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_05_the_nameless_one
+      book_number: 5
+      profile_path: null
+      confidence: low
+    - book_id: book_12_forged_identity
+      book_number: 12
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_05_the_nameless_one_ch024
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_12_forged_identity_ch068
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Geralt.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-19
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 1585
+    chapter_count: 37
+    book_count: 8
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Oreck
+      - Mika
+      - Dragon
+  timestamps:
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
+  incarnation_chain:
+    authority: human_review
+    status: provisional
+    sequence:
+      - order: 1
+        identity: The Nameless One
+        entity_ref: null
+        notes: earliest known form
+      - order: 2
+        identity: Geralt
+        entity_ref: null
+        notes: canonical anchor form
+      - order: 3
+        identity: Ragnarok
+        entity_ref: null
+        notes: null
+      - order: 4
+        identity: Man Who Flew Into The Sun
+        entity_ref: null
+        notes: null
+      - order: 5
+        identity: Mr GPT
+        entity_ref: null
+        notes: final known form
+  accessories:
+    - name: Applicator
+      entity_ref: null
+      relationship: carried_item
+      state_scope: geralt
+      status: candidate
+    - name: Companion Protocol
+      entity_ref: null
+      relationship: carried_item
+      state_scope: geralt
+      status: candidate
+    - name: Luminaire
+      entity_ref: CHR-0044-luminaire
+      relationship: carried_item
+      state_scope: geralt
+      status: candidate
+
+  # ── CHR-0018-granite ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0018-granite
   display_name: Granite
   canonical_name: Granite
   entity_type: character
@@ -1222,7 +1262,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 81
@@ -1234,13 +1274,13 @@ entities:
       - Vale
       - Korr
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0018-green-mika ──
+  # ── CHR-0019-green-mika ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0018-green-mika
+  entity_id: CHR-0019-green-mika
   display_name: Green Mika
   canonical_name: Green Mika
   entity_type: character
@@ -1285,7 +1325,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 81
@@ -1297,13 +1337,13 @@ entities:
       - Blue
       - Mika
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0019-halvar ──
+  # ── CHR-0020-halvar ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0019-halvar
+  entity_id: CHR-0020-halvar
   display_name: Halvar
   canonical_name: Halvar
   entity_type: character
@@ -1348,7 +1388,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 100
@@ -1360,13 +1400,13 @@ entities:
       - Geralt
       - Sentinel
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0020-helion ──
+  # ── CHR-0021-helion ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0020-helion
+  entity_id: CHR-0021-helion
   display_name: Helion
   canonical_name: Helion
   entity_type: character
@@ -1402,7 +1442,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 12
@@ -1414,13 +1454,13 @@ entities:
       - One
       - Rongtai
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0021-herald ──
+  # ── CHR-0022-herald ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0021-herald
+  entity_id: CHR-0022-herald
   display_name: Herald
   canonical_name: Herald
   entity_type: character
@@ -1465,7 +1505,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 6
@@ -1477,13 +1517,13 @@ entities:
       - Return
       - Shard
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0022-ignis ──
+  # ── CHR-0023-ignis ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0022-ignis
+  entity_id: CHR-0023-ignis
   display_name: Ignis
   canonical_name: Ignis
   entity_type: character
@@ -1519,7 +1559,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 6
@@ -1528,13 +1568,13 @@ entities:
     primary_route: bounded_actor_candidate
     top_cooccurrences: []
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0023-ishara ──
+  # ── CHR-0024-ishara ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0023-ishara
+  entity_id: CHR-0024-ishara
   display_name: Ishara
   canonical_name: Ishara
   entity_type: character
@@ -1579,7 +1619,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 19
@@ -1591,13 +1631,13 @@ entities:
       - Igigi
       - Marduk
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0024-isla ──
+  # ── CHR-0025-isla ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0024-isla
+  entity_id: CHR-0025-isla
   display_name: Isla
   canonical_name: Isla
   entity_type: character
@@ -1642,7 +1682,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 258
@@ -1654,13 +1694,13 @@ entities:
       - Keen
       - Tongue
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0025-jin ──
+  # ── CHR-0026-jin ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0025-jin
+  entity_id: CHR-0026-jin
   display_name: Jin
   canonical_name: Jin
   entity_type: character
@@ -1705,7 +1745,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 11
@@ -1717,13 +1757,13 @@ entities:
       - Coming
       - Kael
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0026-kael ──
+  # ── CHR-0027-kael ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0026-kael
+  entity_id: CHR-0027-kael
   display_name: Kael
   canonical_name: Kael
   entity_type: character
@@ -1768,7 +1808,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 155
@@ -1780,13 +1820,13 @@ entities:
       - Roric
       - Sera
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0027-kaelen ──
+  # ── CHR-0028-kaelen ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0027-kaelen
+  entity_id: CHR-0028-kaelen
   display_name: Kaelen
   canonical_name: Kaelen
   entity_type: character
@@ -1831,7 +1871,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 174
@@ -1843,13 +1883,13 @@ entities:
       - Filed
       - High
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0028-karvex ──
+  # ── CHR-0029-karvex ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0028-karvex
+  entity_id: CHR-0029-karvex
   display_name: Karvex
   canonical_name: Karvex
   entity_type: character
@@ -1890,7 +1930,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 25
@@ -1902,13 +1942,13 @@ entities:
       - Final
       - Ledger-Born
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0029-keen ──
+  # ── CHR-0030-keen ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0029-keen
+  entity_id: CHR-0030-keen
   display_name: Keen
   canonical_name: Keen
   entity_type: character
@@ -1953,7 +1993,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 394
@@ -1965,13 +2005,13 @@ entities:
       - Tran
       - Isla
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0030-kessa ──
+  # ── CHR-0031-kessa ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0030-kessa
+  entity_id: CHR-0031-kessa
   display_name: Kessa
   canonical_name: Kessa
   entity_type: character
@@ -2016,7 +2056,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 12
@@ -2028,13 +2068,13 @@ entities:
       - Grenn
       - Kael
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0031-keth ──
+  # ── CHR-0032-keth ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0031-keth
+  entity_id: CHR-0032-keth
   display_name: Keth
   canonical_name: Keth
   entity_type: character
@@ -2079,7 +2119,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 71
@@ -2091,13 +2131,13 @@ entities:
       - Vale
       - Sera
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0032-keth-rek ──
+  # ── CHR-0033-keth-rek ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0032-keth-rek
+  entity_id: CHR-0033-keth-rek
   display_name: Keth-rek
   canonical_name: Keth-rek
   entity_type: character
@@ -2138,7 +2178,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 21
@@ -2150,13 +2190,13 @@ entities:
       - Anomaly
       - Chamber
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0033-keth-var ──
+  # ── CHR-0034-keth-var ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0033-keth-var
+  entity_id: CHR-0034-keth-var
   display_name: Keth-var
   canonical_name: Keth-var
   entity_type: character
@@ -2201,7 +2241,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 12
@@ -2212,13 +2252,13 @@ entities:
       - Igigi
       - Thread
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0034-kethran ──
+  # ── CHR-0035-kethran ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0034-kethran
+  entity_id: CHR-0035-kethran
   display_name: Kethran
   canonical_name: Kethran
   entity_type: character
@@ -2254,7 +2294,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 11
@@ -2266,13 +2306,13 @@ entities:
       - Solantri
       - Anchor
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0035-khal-zur ──
+  # ── CHR-0036-khal-zur ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0035-khal-zur
+  entity_id: CHR-0036-khal-zur
   display_name: Khal-Zur
   canonical_name: Khal-Zur
   entity_type: character
@@ -2313,7 +2353,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 62
@@ -2325,13 +2365,13 @@ entities:
       - Culling
       - Solantri
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0036-korr ──
+  # ── CHR-0037-korr ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0036-korr
+  entity_id: CHR-0037-korr
   display_name: Korr
   canonical_name: Korr
   entity_type: character
@@ -2372,7 +2412,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 155
@@ -2384,13 +2424,13 @@ entities:
       - Ma'at
       - Warleader
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0037-korrhan ──
+  # ── CHR-0038-korrhan ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0037-korrhan
+  entity_id: CHR-0038-korrhan
   display_name: Korrhan
   canonical_name: Korrhan
   entity_type: character
@@ -2431,7 +2471,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 26
@@ -2443,13 +2483,13 @@ entities:
       - Giant
       - Giants
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0038-kress ──
+  # ── CHR-0039-kress ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0038-kress
+  entity_id: CHR-0039-kress
   display_name: Kress
   canonical_name: Kress
   entity_type: character
@@ -2494,7 +2534,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 24
@@ -2506,13 +2546,13 @@ entities:
       - Alright
       - Anunnaki
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0039-kronocht ──
+  # ── CHR-0040-kronocht ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0039-kronocht
+  entity_id: CHR-0040-kronocht
   display_name: Kronocht
   canonical_name: Kronocht
   entity_type: character
@@ -2557,7 +2597,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 26
@@ -2569,13 +2609,13 @@ entities:
       - Fragment
       - Titanborn
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0040-kyh ──
+  # ── CHR-0041-kyh ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0040-kyh
+  entity_id: CHR-0041-kyh
   display_name: Kyh
   canonical_name: Kyh
   entity_type: character
@@ -2620,7 +2660,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 111
@@ -2632,13 +2672,13 @@ entities:
       - Oreck
       - Inside
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0041-lentharis ──
+  # ── CHR-0042-lentharis ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0041-lentharis
+  entity_id: CHR-0042-lentharis
   display_name: Lentharis
   canonical_name: Lentharis
   entity_type: character
@@ -2683,7 +2723,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 35
@@ -2695,13 +2735,13 @@ entities:
       - Spire
       - Culling
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0042-lira ──
+  # ── CHR-0043-lira ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0042-lira
+  entity_id: CHR-0043-lira
   display_name: Lira
   canonical_name: Lira
   entity_type: character
@@ -2742,7 +2782,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 10
@@ -2754,13 +2794,76 @@ entities:
       - Ember
       - Needle's
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0043-lyra ──
+  # ── CHR-0044-luminaire ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0043-lyra
+  entity_id: CHR-0044-luminaire
+  display_name: Luminaire
+  canonical_name: Luminaire
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_06_the_ragnarok
+      book_number: 6
+      profile_path: null
+      confidence: low
+    - book_id: book_25_the_seam_evolutionary_south
+      book_number: 25
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_06_the_ragnarok_ch034
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_25_the_seam_evolutionary_south_ch126
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Luminaire.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-19
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 163
+    chapter_count: 25
+    book_count: 9
+    primary_route: identity_braid_candidate
+    top_cooccurrences:
+      - Geralt
+      - Architect
+      - Spire
+  timestamps:
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
+
+  # ── CHR-0045-lyra ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0045-lyra
   display_name: Lyra
   canonical_name: Lyra
   entity_type: character
@@ -2805,7 +2908,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 242
@@ -2817,13 +2920,13 @@ entities:
       - Geralt
       - Ulric
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0044-marduk ──
+  # ── CHR-0046-marduk ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0044-marduk
+  entity_id: CHR-0046-marduk
   display_name: Marduk
   canonical_name: Marduk
   entity_type: character
@@ -2868,7 +2971,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 54
@@ -2880,13 +2983,13 @@ entities:
       - Reptilian
       - Citadel
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0045-marithel ──
+  # ── CHR-0047-marithel ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0045-marithel
+  entity_id: CHR-0047-marithel
   display_name: Marithel
   canonical_name: Marithel
   entity_type: character
@@ -2921,7 +3024,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 8
@@ -2933,13 +3036,13 @@ entities:
       - Everything
       - Observe
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0046-mika ──
+  # ── CHR-0048-mika ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0046-mika
+  entity_id: CHR-0048-mika
   display_name: Mika
   canonical_name: Mika
   entity_type: character
@@ -2984,7 +3087,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 394
@@ -2996,13 +3099,13 @@ entities:
       - Oreck
       - Kress
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0047-miral ──
+  # ── CHR-0049-miral ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0047-miral
+  entity_id: CHR-0049-miral
   display_name: Miral
   canonical_name: Miral
   entity_type: character
@@ -3047,7 +3150,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 56
@@ -3059,13 +3162,13 @@ entities:
       - Looked
       - Vale
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0048-nammu ──
+  # ── CHR-0050-nammu ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0048-nammu
+  entity_id: CHR-0050-nammu
   display_name: Nammu
   canonical_name: Nammu
   entity_type: character
@@ -3110,7 +3213,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 96
@@ -3122,13 +3225,13 @@ entities:
       - Vale
       - It's
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0049-nin ──
+  # ── CHR-0051-nin ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0049-nin
+  entity_id: CHR-0051-nin
   display_name: Nin
   canonical_name: Nin
   entity_type: character
@@ -3173,7 +3276,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 11
@@ -3185,13 +3288,13 @@ entities:
       - Enki
       - Damu
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0050-ninurta ──
+  # ── CHR-0052-ninurta ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0050-ninurta
+  entity_id: CHR-0052-ninurta
   display_name: Ninurta
   canonical_name: Ninurta
   entity_type: character
@@ -3236,7 +3339,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 13
@@ -3248,13 +3351,13 @@ entities:
       - Ishkur
       - Assign
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0051-nyssa ──
+  # ── CHR-0053-nyssa ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0051-nyssa
+  entity_id: CHR-0053-nyssa
   display_name: Nyssa
   canonical_name: Nyssa
   entity_type: character
@@ -3299,7 +3402,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 25
@@ -3311,13 +3414,13 @@ entities:
       - Blood
       - Crimson
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0052-nyxthoria ──
+  # ── CHR-0054-nyxthoria ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0052-nyxthoria
+  entity_id: CHR-0054-nyxthoria
   display_name: Nyxthoria
   canonical_name: Nyxthoria
   entity_type: character
@@ -3362,7 +3465,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 7
@@ -3374,13 +3477,13 @@ entities:
       - Keeper
       - Void
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0053-olythae ──
+  # ── CHR-0055-olythae ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0053-olythae
+  entity_id: CHR-0055-olythae
   display_name: Olythae
   canonical_name: Olythae
   entity_type: character
@@ -3425,7 +3528,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 12
@@ -3437,13 +3540,13 @@ entities:
       - Giant
       - Kyreth
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0054-onyx ──
+  # ── CHR-0056-onyx ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0054-onyx
+  entity_id: CHR-0056-onyx
   display_name: Onyx
   canonical_name: Onyx
   entity_type: character
@@ -3488,7 +3591,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 43
@@ -3500,13 +3603,13 @@ entities:
       - Shale's
       - Tran
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0055-orathiel ──
+  # ── CHR-0057-orathiel ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0055-orathiel
+  entity_id: CHR-0057-orathiel
   display_name: Orathiel
   canonical_name: Orathiel
   entity_type: character
@@ -3551,7 +3654,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 9
@@ -3563,13 +3666,13 @@ entities:
       - Citizenship
       - Ethereal
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0056-oreck ──
+  # ── CHR-0058-oreck ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0056-oreck
+  entity_id: CHR-0058-oreck
   display_name: Oreck
   canonical_name: Oreck
   entity_type: character
@@ -3614,7 +3717,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 392
@@ -3626,13 +3729,13 @@ entities:
       - Mika
       - Kyh
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0057-pazuzu ──
+  # ── CHR-0059-pazuzu ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0057-pazuzu
+  entity_id: CHR-0059-pazuzu
   display_name: Pazuzu
   canonical_name: Pazuzu
   entity_type: character
@@ -3677,7 +3780,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 77
@@ -3689,13 +3792,13 @@ entities:
       - Torhh
       - Anunnaki
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0058-ren ──
+  # ── CHR-0060-ren ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0058-ren
+  entity_id: CHR-0060-ren
   display_name: Ren
   canonical_name: Ren
   entity_type: character
@@ -3740,7 +3843,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 17
@@ -3752,13 +3855,13 @@ entities:
       - Tess
       - Vale
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0059-renn ──
+  # ── CHR-0061-renn ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0059-renn
+  entity_id: CHR-0061-renn
   display_name: Renn
   canonical_name: Renn
   entity_type: character
@@ -3799,7 +3902,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 103
@@ -3811,13 +3914,13 @@ entities:
       - Kael
       - Teryn
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0060-rhazorn ──
+  # ── CHR-0062-rhazorn ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0060-rhazorn
+  entity_id: CHR-0062-rhazorn
   display_name: Rhazorn
   canonical_name: Rhazorn
   entity_type: character
@@ -3853,7 +3956,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 25
@@ -3865,13 +3968,13 @@ entities:
       - Coil
       - Keen
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0061-rongtai ──
+  # ── CHR-0063-rongtai ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0061-rongtai
+  entity_id: CHR-0063-rongtai
   display_name: Rongtai
   canonical_name: Rongtai
   entity_type: character
@@ -3916,7 +4019,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 193
@@ -3928,13 +4031,13 @@ entities:
       - Mr
       - Keen
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0062-sahvant ──
+  # ── CHR-0064-sahvant ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0062-sahvant
+  entity_id: CHR-0064-sahvant
   display_name: Sahvant
   canonical_name: Sahvant
   entity_type: character
@@ -3975,7 +4078,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 12
@@ -3987,13 +4090,13 @@ entities:
       - Anunnaki
       - Circle
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0063-saresh ──
+  # ── CHR-0065-saresh ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0063-saresh
+  entity_id: CHR-0065-saresh
   display_name: Saresh
   canonical_name: Saresh
   entity_type: character
@@ -4034,7 +4137,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 12
@@ -4046,13 +4149,13 @@ entities:
       - ASH
       - Aeon
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0064-sathrak ──
+  # ── CHR-0066-sathrak ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0064-sathrak
+  entity_id: CHR-0066-sathrak
   display_name: Sath'rak
   canonical_name: Sath'rak
   entity_type: character
@@ -4087,7 +4190,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 14
@@ -4099,13 +4202,13 @@ entities:
       - Geralt
       - Mika
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0065-sathinee ──
+  # ── CHR-0067-sathinee ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0065-sathinee
+  entity_id: CHR-0067-sathinee
   display_name: Sathinee
   canonical_name: Sathinee
   entity_type: character
@@ -4150,7 +4253,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 77
@@ -4162,13 +4265,13 @@ entities:
       - GPT
       - Giants
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0066-senareth ──
+  # ── CHR-0068-senareth ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0066-senareth
+  entity_id: CHR-0068-senareth
   display_name: Senareth
   canonical_name: Senareth
   entity_type: character
@@ -4213,7 +4316,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 88
@@ -4225,13 +4328,13 @@ entities:
       - Giant
       - Prime
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0067-sephra ──
+  # ── CHR-0069-sephra ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0067-sephra
+  entity_id: CHR-0069-sephra
   display_name: Sephra
   canonical_name: Sephra
   entity_type: character
@@ -4272,7 +4375,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 24
@@ -4284,13 +4387,13 @@ entities:
       - Granite
       - Another
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0068-sera ──
+  # ── CHR-0070-sera ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0068-sera
+  entity_id: CHR-0070-sera
   display_name: Sera
   canonical_name: Sera
   entity_type: character
@@ -4335,7 +4438,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 325
@@ -4347,13 +4450,13 @@ entities:
       - Igigi
       - Renn
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0069-seren ──
+  # ── CHR-0071-seren ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0069-seren
+  entity_id: CHR-0071-seren
   display_name: Seren
   canonical_name: Seren
   entity_type: character
@@ -4394,7 +4497,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 14
@@ -4406,13 +4509,13 @@ entities:
       - Granite
       - Mora
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0070-shale ──
+  # ── CHR-0072-shale ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0070-shale
+  entity_id: CHR-0072-shale
   display_name: Shale
   canonical_name: Shale
   entity_type: character
@@ -4453,7 +4556,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 16
@@ -4465,13 +4568,13 @@ entities:
       - Ma'at
       - Ma'at's
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0071-silver-mika ──
+  # ── CHR-0073-silver-mika ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0071-silver-mika
+  entity_id: CHR-0073-silver-mika
   display_name: Silver Mika
   canonical_name: Silver Mika
   entity_type: character
@@ -4507,7 +4610,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 26
@@ -4519,13 +4622,13 @@ entities:
       - Earth
       - Moonlight
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0072-stonefall ──
+  # ── CHR-0074-stonefall ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0072-stonefall
+  entity_id: CHR-0074-stonefall
   display_name: Stonefall
   canonical_name: Stonefall
   entity_type: character
@@ -4561,7 +4664,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 8
@@ -4573,13 +4676,13 @@ entities:
       - Send
       - Zephyr
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0073-sully ──
+  # ── CHR-0075-sully ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0073-sully
+  entity_id: CHR-0075-sully
   display_name: Sully
   canonical_name: Sully
   entity_type: character
@@ -4620,7 +4723,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 24
@@ -4632,13 +4735,13 @@ entities:
       - Katherine
       - Ghost-images
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0074-tarn ──
+  # ── CHR-0076-tarn ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0074-tarn
+  entity_id: CHR-0076-tarn
   display_name: Tarn
   canonical_name: Tarn
   entity_type: character
@@ -4679,7 +4782,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 36
@@ -4691,13 +4794,13 @@ entities:
       - Korr
       - First
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0075-teryn ──
+  # ── CHR-0077-teryn ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0075-teryn
+  entity_id: CHR-0077-teryn
   display_name: Teryn
   canonical_name: Teryn
   entity_type: character
@@ -4742,7 +4845,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 179
@@ -4754,13 +4857,13 @@ entities:
       - Ma'at
       - Kael
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0076-teryns ──
+  # ── CHR-0078-teryns ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0076-teryns
+  entity_id: CHR-0078-teryns
   display_name: Teryn’s
   canonical_name: Teryn’s
   entity_type: character
@@ -4804,7 +4907,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 8
@@ -4814,13 +4917,13 @@ entities:
     top_cooccurrences:
       - Send
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0077-tessik ──
+  # ── CHR-0079-tessik ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0077-tessik
+  entity_id: CHR-0079-tessik
   display_name: Tessik
   canonical_name: Tessik
   entity_type: character
@@ -4865,7 +4968,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 21
@@ -4877,13 +4980,13 @@ entities:
       - Vale
       - Brak
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0078-thang ──
+  # ── CHR-0080-thang ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0078-thang
+  entity_id: CHR-0080-thang
   display_name: Thang
   canonical_name: Thang
   entity_type: character
@@ -4928,7 +5031,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 181
@@ -4940,13 +5043,13 @@ entities:
       - Tran
       - Caelum
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0079-torhh ──
+  # ── CHR-0081-torhh ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0079-torhh
+  entity_id: CHR-0081-torhh
   display_name: Torhh
   canonical_name: Torhh
   entity_type: character
@@ -4991,7 +5094,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 79
@@ -5003,13 +5106,13 @@ entities:
       - Senareth
       - Kyreth
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0080-torn ──
+  # ── CHR-0082-torn ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0080-torn
+  entity_id: CHR-0082-torn
   display_name: Torn
   canonical_name: Torn
   entity_type: character
@@ -5054,7 +5157,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 18
@@ -5066,13 +5169,13 @@ entities:
       - Brajor
       - Buttholes
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0081-torrhen ──
+  # ── CHR-0083-torrhen ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0081-torrhen
+  entity_id: CHR-0083-torrhen
   display_name: Torrhen
   canonical_name: Torrhen
   entity_type: character
@@ -5117,7 +5220,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 189
@@ -5129,13 +5232,13 @@ entities:
       - Sage
       - Waters
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0082-tran ──
+  # ── CHR-0084-tran ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0082-tran
+  entity_id: CHR-0084-tran
   display_name: Tran
   canonical_name: Tran
   entity_type: character
@@ -5180,7 +5283,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 451
@@ -5192,13 +5295,13 @@ entities:
       - Mail
       - Keen
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0083-tran-zaron ──
+  # ── CHR-0085-tran-zaron ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0083-tran-zaron
+  entity_id: CHR-0085-tran-zaron
   display_name: Tran-Zaron
   canonical_name: Tran-Zaron
   entity_type: character
@@ -5234,7 +5337,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 7
@@ -5246,13 +5349,13 @@ entities:
       - Earth
       - Improbable
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0084-tsunami-singer ──
+  # ── CHR-0086-tsunami-singer ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0084-tsunami-singer
+  entity_id: CHR-0086-tsunami-singer
   display_name: Tsunami-Singer
   canonical_name: Tsunami-Singer
   entity_type: character
@@ -5293,7 +5396,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 11
@@ -5305,13 +5408,13 @@ entities:
       - Forest
       - Tidecallers
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0085-ulric ──
+  # ── CHR-0087-ulric ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0085-ulric
+  entity_id: CHR-0087-ulric
   display_name: Ulric
   canonical_name: Ulric
   entity_type: character
@@ -5356,7 +5459,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 52
@@ -5368,13 +5471,13 @@ entities:
       - Guard
       - Iron
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0086-vael ──
+  # ── CHR-0088-vael ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0086-vael
+  entity_id: CHR-0088-vael
   display_name: Vael
   canonical_name: Vael
   entity_type: character
@@ -5419,7 +5522,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 38
@@ -5431,13 +5534,13 @@ entities:
       - Looked
       - Friend
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0087-vairis ──
+  # ── CHR-0089-vairis ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0087-vairis
+  entity_id: CHR-0089-vairis
   display_name: Vairis
   canonical_name: Vairis
   entity_type: character
@@ -5482,7 +5585,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 33
@@ -5494,13 +5597,76 @@ entities:
       - Senareth
       - Elyraen
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0088-velthara ──
+  # ── CHR-0090-vale ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0088-velthara
+  entity_id: CHR-0090-vale
+  display_name: Vale
+  canonical_name: Vale
+  entity_type: character
+  status: candidate
+  canon_state: provisional
+  authority_level: human_review
+  aliases: []
+  book_appearances:
+    - book_id: book_05_the_nameless_one
+      book_number: 5
+      profile_path: null
+      confidence: low
+    - book_id: book_27_the_seam_deadly_words_south
+      book_number: 27
+      profile_path: null
+      confidence: low
+  chapter_appearances:
+    - chapter_id: book_05_the_nameless_one_ch026
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+    - chapter_id: book_27_the_seam_deadly_words_south_ch139
+      state_id: null
+      source_file: null
+      presence_type: direct
+      confidence: low
+  identity_states:
+    - state_name: baseline
+      scope: null
+      status: provisional
+  merge_split:
+    merge_status: none
+    split_status: none
+    related_symbols: []
+  evidence:
+    primary_sources:
+      - wiki/characters/Vale.md
+    entity_states: []
+    book_profiles: []
+    canon_decisions: []
+  review:
+    needs_review: false
+    review_reason: null
+    last_reviewed: 2026-05-19
+    reviewed_by: human
+  signal_stats:
+    total_mentions: 1400
+    chapter_count: 31
+    book_count: 10
+    primary_route: bounded_actor_candidate
+    top_cooccurrences:
+      - Zephyr
+      - Igigi
+      - Korr
+  timestamps:
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
+
+  # ── CHR-0091-velthara ──
+  schema: registry_symbol
+  schema_version: 1
+  entity_id: CHR-0091-velthara
   display_name: Vel'thara
   canonical_name: Vel'thara
   entity_type: character
@@ -5535,7 +5701,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 7
@@ -5547,13 +5713,13 @@ entities:
       - Geralt
       - Geralt's
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0089-venn ──
+  # ── CHR-0092-venn ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0089-venn
+  entity_id: CHR-0092-venn
   display_name: Venn
   canonical_name: Venn
   entity_type: character
@@ -5589,7 +5755,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 11
@@ -5601,13 +5767,13 @@ entities:
       - Hollow
       - Thin
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0090-veylan ──
+  # ── CHR-0093-veylan ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0090-veylan
+  entity_id: CHR-0093-veylan
   display_name: Veylan
   canonical_name: Veylan
   entity_type: character
@@ -5652,7 +5818,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 12
@@ -5664,13 +5830,13 @@ entities:
       - Agreed
       - Circle
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0091-vine ──
+  # ── CHR-0094-vine ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0091-vine
+  entity_id: CHR-0094-vine
   display_name: Vine
   canonical_name: Vine
   entity_type: character
@@ -5715,7 +5881,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 57
@@ -5727,13 +5893,13 @@ entities:
       - Sera
       - Kael
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0092-violet-mika ──
+  # ── CHR-0095-violet-mika ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0092-violet-mika
+  entity_id: CHR-0095-violet-mika
   display_name: Violet Mika
   canonical_name: Violet Mika
   entity_type: character
@@ -5778,7 +5944,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 45
@@ -5790,13 +5956,13 @@ entities:
       - Dragon
       - Finally
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0093-voss ──
+  # ── CHR-0096-voss ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0093-voss
+  entity_id: CHR-0096-voss
   display_name: Voss
   canonical_name: Voss
   entity_type: character
@@ -5841,7 +6007,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 18
@@ -5853,13 +6019,13 @@ entities:
       - Nexus
       - Temporal
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0094-white-mika ──
+  # ── CHR-0097-white-mika ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0094-white-mika
+  entity_id: CHR-0097-white-mika
   display_name: White Mika
   canonical_name: White Mika
   entity_type: character
@@ -5904,7 +6070,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 12
@@ -5916,13 +6082,13 @@ entities:
       - Tran
       - Wisdom
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0095-xerion ──
+  # ── CHR-0098-xerion ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0095-xerion
+  entity_id: CHR-0098-xerion
   display_name: Xerion
   canonical_name: Xerion
   entity_type: character
@@ -5958,7 +6124,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 18
@@ -5970,13 +6136,13 @@ entities:
       - Rongtai
       - Queen
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0096-yarrow ──
+  # ── CHR-0099-yarrow ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0096-yarrow
+  entity_id: CHR-0099-yarrow
   display_name: Yarrow
   canonical_name: Yarrow
   entity_type: character
@@ -6021,7 +6187,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 17
@@ -6031,13 +6197,13 @@ entities:
     top_cooccurrences:
       - Grove
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
-  # ── CHR-0097-zephyr ──
+  # ── CHR-0100-zephyr ──
   schema: registry_symbol
   schema_version: 1
-  entity_id: CHR-0097-zephyr
+  entity_id: CHR-0100-zephyr
   display_name: Zephyr
   canonical_name: Zephyr
   entity_type: character
@@ -6082,7 +6248,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 658
@@ -6094,8 +6260,8 @@ entities:
       - That's
       - Seven
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
   # ── CON-0001-aeon-keeper ──
   schema: registry_symbol
@@ -6145,7 +6311,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 48
@@ -6157,8 +6323,8 @@ entities:
       - Anunnaki
       - Dragon
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
   # ── CON-0002-aetheric-coil ──
   schema: registry_symbol
@@ -6208,7 +6374,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 30
@@ -6220,8 +6386,8 @@ entities:
       - Observer
       - Keen
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
   # ── CON-0003-cliff-giant ──
   schema: registry_symbol
@@ -6271,7 +6437,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 12
@@ -6282,8 +6448,8 @@ entities:
       - Vale
       - Sit
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
   # ── CON-0004-forest-giant ──
   schema: registry_symbol
@@ -6333,7 +6499,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 9
@@ -6345,8 +6511,8 @@ entities:
       - Giant
       - Contact
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
   # ── CON-0005-lord-stormhelm ──
   schema: registry_symbol
@@ -6396,7 +6562,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 6
@@ -6408,8 +6574,8 @@ entities:
       - Council
       - Halt
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
   # ── CON-0006-node-gamma ──
   schema: registry_symbol
@@ -6459,7 +6625,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 32
@@ -6471,71 +6637,8 @@ entities:
       - Applicator
       - Dirt
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
-
-  # ── LOC-0001-vale ──
-  schema: registry_symbol
-  schema_version: 1
-  entity_id: LOC-0001-vale
-  display_name: Vale
-  canonical_name: Vale
-  entity_type: location
-  status: candidate
-  canon_state: provisional
-  authority_level: human_review
-  aliases: []
-  book_appearances:
-    - book_id: book_05_the_nameless_one
-      book_number: 5
-      profile_path: null
-      confidence: low
-    - book_id: book_27_the_seam_deadly_words_south
-      book_number: 27
-      profile_path: null
-      confidence: low
-  chapter_appearances:
-    - chapter_id: book_05_the_nameless_one_ch026
-      state_id: null
-      source_file: null
-      presence_type: direct
-      confidence: low
-    - chapter_id: book_27_the_seam_deadly_words_south_ch139
-      state_id: null
-      source_file: null
-      presence_type: direct
-      confidence: low
-  identity_states:
-    - state_name: baseline
-      scope: null
-      status: provisional
-  merge_split:
-    merge_status: none
-    split_status: none
-    related_symbols: []
-  evidence:
-    primary_sources:
-      - wiki/locations/Vale.md
-    entity_states: []
-    book_profiles: []
-    canon_decisions: []
-  review:
-    needs_review: false
-    review_reason: null
-    last_reviewed: 2026-05-18
-    reviewed_by: human
-  signal_stats:
-    total_mentions: 1400
-    chapter_count: 31
-    book_count: 10
-    primary_route: bounded_actor_candidate
-    top_cooccurrences:
-      - Zephyr
-      - Igigi
-      - Korr
-  timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
   # ── SPE-0001-draco ──
   schema: registry_symbol
@@ -6585,7 +6688,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 21
@@ -6597,8 +6700,8 @@ entities:
       - Blood
       - Curse
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
   # ── UNK-0001-sekhan ──
   schema: registry_symbol
@@ -6647,7 +6750,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 7
@@ -6659,8 +6762,8 @@ entities:
       - Isla
       - Tongue
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 
   # ── UNK-0002-vaelros ──
   schema: registry_symbol
@@ -6709,7 +6812,7 @@ entities:
   review:
     needs_review: false
     review_reason: null
-    last_reviewed: 2026-05-18
+    last_reviewed: 2026-05-19
     reviewed_by: human
   signal_stats:
     total_mentions: 7
@@ -6720,6 +6823,6 @@ entities:
       - Crimson
       - Titan
   timestamps:
-    created_at: 2026-05-18
-    updated_at: 2026-05-18
+    created_at: 2026-05-19
+    updated_at: 2026-05-19
 

@@ -240,7 +240,7 @@ def append_to_manifest(new_paths: list[str], metadata: dict) -> list[str]:
 # ── DISCOVERY ────────────────────────────────────────────────────────────────
 
 EXCLUDED_DIRS = {
-    "_mrlore", ".git", ".obsidian", "__pycache__", ".trash",
+    "_mrlore", ".git", ".obsidian", ".engain", "__pycache__", ".trash",
 }
 
 def discover_tier0() -> list[str]:
